@@ -1,0 +1,197 @@
+# Kapitel 13 – Die Befreiung
+
+Oben.
+
+Nora starrte auf das Wort im Kondenswasser. Die Buchstaben waren klar und deutlich. Kein Zweifel. Kein Zittern in der Schrift. Daneben stand noch immer das andere Wort: DANKE.
+
+„Oben", sagte Theo. Er stand neben ihr, das Tagebuch an die Brust gedrückt. „Sie meint Frau Silbers Wohnung."
+
+Nora nickte. Ihr Herz schlug ruhig. Zum ersten Mal seit Tagen schlug es ruhig. Die Kälte war aus der Wohnung gewichen. Die Luft fühlte sich an wie nach einem Gewitter. Frisch. Weich. Als hätte jemand ein Fenster geöffnet.
+
+Schatten stand an der Wohnungstür. Er kratzte nicht. Er winselte nicht. Er wartete einfach. Sein Schwanz pendelte langsam hin und her.
+
+„Dann gehen wir hoch", sagte Nora.
+
+Theo schaute auf das Tagebuch in seinen Händen. Auf den Ledereinband. Auf den Namen in Mädchenschrift.
+
+„Soll ich es mitnehmen?", sagte er.
+
+Nora überlegte. Das Tagebuch gehörte Lina. Es hatte fünfzig Jahre in einer Mauernische gelegen. Vergessen. Versteckt. Jetzt hatte jemand es gelesen. Jemand hatte zugehört.
+
+„Ja", sagte sie. „Nimm es mit."
+
+---
+
+Das Treppenhaus war still. Ihre Schritte hallten auf den Holzstufen. Nora ging voraus, Theo direkt hinter ihr. Schatten lief zwischen ihnen, seine Krallen klackten leise auf dem Holz.
+
+Zweiter Stock. Die Tür zu Frau Silbers Wohnung stand einen Spalt offen. Wie immer. Als würde sie auf sie warten.
+
+Nora drückte sie auf. Kein Knarren. Die Tür schwang lautlos nach innen. Schatten ging als Erster hinein. Kein Zögern. Kein Knurren. Er trottete über die Schwelle, als wäre es das Normalste der Welt.
+
+„Okay", murmelte Theo. „Wenn der Hund reingeht, gehen wir auch rein."
+
+Der Flur lag im Dunkeln. Mondlicht fiel durch das Küchenfenster am Ende des Gangs und malte einen silbernen Streifen auf den Dielenboden. Nora roch Staub und altes Holz. Aber die Luft war nicht kalt. Nicht wie sonst. Nicht wie beim ersten Mal.
+
+„Es ist warm", flüsterte Theo. „Nora, es ist warm hier oben."
+
+„Ich weiß."
+
+Sie ging den Flur entlang. Vorbei an der Küche. Vorbei an dem Zimmer mit den Notizen und der Namensliste. Bis zum Ende des Gangs. Bis zu der Tür, die immer geschlossen gewesen war. Das kalte Zimmer. Der Raum, den Schatten in ihrer ersten Woche gemieden hatte. Vor dem er sich quergestellt und geknurrt hatte. In den er sie nicht gelassen hatte.
+
+Die Tür stand offen.
+
+Nora blieb stehen. Ihre Finger kribbelten. Aber nicht vor Angst. Es war ein anderes Kribbeln. Wie Vorfreude. Wie der Moment, bevor man ein Geschenk öffnet.
+
+Schatten ging an ihr vorbei. Er kam aus dem Flur zurück. Nora hatte nicht bemerkt, wann er vor ihr angekommen war.
+
+Einfach so. Ohne Zögern. Ohne Knurren. Er trottete durch die Tür, als hätte er es schon tausendmal getan. Seine Krallen klackten auf dem Holzboden. Er drehte sich einmal um sich selbst, wie Hunde es tun, bevor sie sich hinlegen.
+
+Dann legte er sich hin. Mitten im Raum. Den Kopf auf die Pfoten.
+
+Und seufzte.
+
+„Er schnarcht gleich", flüsterte Theo. Aber seine Stimme zitterte.
+
+Noras Kehle wurde eng. Etwas drückte hinter ihrem Brustbein. Warm. Tief.
+
+„Er geht rein", flüsterte Theo. Seine Stimme klang dünn. „Er geht einfach rein."
+
+„Ja."
+
+„Das hat er nie getan."
+
+„Nein."
+
+Sie traten durch die Tür. Der Raum war klein. Ein Fenster, das auf die Kirchgasse hinausging. Kein Möbelstück. Nackte Dielen. Leere Wände. Mondlicht auf dem Boden.
+
+Und etwas anderes.
+
+---
+
+Ein Lichtfleck. Klein. Rund. Wie ein Sonnenstrahl, der durch ein Blatt fällt. Er lag auf dem Boden, direkt neben Schattens Pfote. Goldfarben. Warm. Er bewegte sich langsam, wie Sonnenlicht über eine Wand wandert.
+
+Aber es war Nacht. Der Mond schien silbern. Keine Sonne. Keine Lampe. Nichts, das dieses Licht erklären konnte.
+
+Noras Atem stockte.
+
+Das Licht pulsierte. Sanft. Wie ein Herzschlag. Es wurde ein wenig heller, dann ein wenig dunkler. Heller. Dunkler. Ein langsamer, ruhiger Rhythmus.
+
+Es war das Schönste, was Nora je gesehen hatte.
+
+„Theo", flüsterte sie. „Siehst du das?"
+
+„Ja." Seine Stimme brach. „Ja, ich sehe es."
+
+Sie standen nebeneinander in der Tür. Nora spürte die Wärme des Lichts auf ihrem Gesicht. Es war sanft. Wie Sonnenschein im Frühling. Wie die Wärme einer Hand auf der Wange.
+
+Schatten lag still. Seine bernsteinfarbenen Augen waren halb geschlossen. Sein Schwanz lag reglos auf dem Boden. Er sah aus wie ein Hund, der nach langer Zeit endlich nach Hause gekommen war.
+
+„Was passiert hier?", flüsterte Theo.
+
+Nora schüttelte den Kopf. Sie hatte keine Worte.
+
+Der Lichtfleck bewegte sich. Langsam. Er glitt über den Boden, an Schattens Pfote vorbei, zum Fenster hin. Er wurde ein wenig größer. Ein wenig heller. Das Gold wurde weißer. Reiner.
+
+Noras Augen brannten. Sie blinzelte nicht.
+
+„Sie geht", flüsterte Theo.
+
+Zwei Worte. Mehr brauchte es nicht. Nora wusste, dass er recht hatte. Sie wusste es in den Knochen. In der Brust. In dem Ort, an dem man Dinge spürt, die man nicht erklären kann.
+
+Das Licht strahlte jetzt. Nicht blendend. Wie eine Kerze in einem dunklen Raum.
+
+Dann wurde es kleiner.
+
+„Nora", flüsterte Theo. „Das Licht wird kleiner."
+
+Es zog sich zusammen. Langsam. Sanft. Das Leuchten konzentrierte sich auf einen einzigen Punkt. Hell. Warm. Vollkommen still.
+
+„Tut ihr das weh?", flüsterte Theo.
+
+Nora schluckte. „Nein. Ich glaube nicht."
+
+Und dann war es weg.
+
+---
+
+Stille.
+
+Keine Kälte. Kein Klopfen. Kein Kratzen. Keine Worte im Kondenswasser. Nur die normale, gewöhnliche Stille einer leeren Wohnung in einer stillen Straße in einer schlafenden Stadt.
+
+Schatten lag auf dem Boden und atmete gleichmäßig. Kein gesträubter Nacken. Kein angespannter Körper. Nur ein Hund, der schlief.
+
+Nora merkte, dass ihre Wangen nass waren. Sie hob die Hand und wischte mit dem Handrücken darüber. Warm. Salzig.
+
+Neben ihr schniefte Theo. Er wischte sich mit dem Ärmel über die Nase und machte ein Geräusch, das halb Lachen war und halb Schluchzen.
+
+„Wir haben gerade einem Geist beim Gehen zugeschaut", murmelte er. „Das kommt bestimmt nicht in den Klassenaufsatz."
+
+Nora lachte. Kurz. Leise. Es tat gut. Es löste etwas in ihrer Brust, das seit Tagen festgesessen hatte. Einen Knoten, den sie nicht einmal bemerkt hatte.
+
+„Glaubst du, Frau Silber hat das auch so gemacht?", murmelte Theo. „Ihnen beim Gehen zugeschaut?"
+
+„Ja", sagte Nora. „Ich glaube, genau so."
+
+„Vierzig Jahre lang."
+
+„Vierzig Jahre lang."
+
+Theo schwieg einen Moment. Dann sagte er leise: „Das muss einsam gewesen sein."
+
+Nora antwortete nicht. Sie dachte an die alte Frau mit den weißen Haaren. An das Foto in der Wohnung. An Schatten, jünger, neben ihr. Vierzig Jahre. Allein mit den Toten.
+
+Sie kniete sich neben Schatten und legte die Hand auf sein Fell. Warm. Sein Brustkorb hob und senkte sich unter ihren Fingern. Er öffnete ein Auge, schaute sie an und schloss es wieder.
+
+„Guter Hund", flüsterte Nora. Ihre Stimme war rau. „Guter, guter Hund."
+
+Theo setzte sich neben sie auf den Boden. Er lehnte sich an die Wand und streckte die Beine aus. Einen Moment lang saßen sie einfach da. In dem Raum, der monatelang eiskalt gewesen war und jetzt so warm war wie jeder andere Raum im Haus.
+
+Lina war frei. Das Mädchen mit der lila Tinte und den runden Buchstaben. Das Mädchen, dem niemand geglaubt hatte. Das Mädchen, das allein in den Keller gegangen war.
+
+Jemand hatte ihr zugehört. Und sie war gegangen.
+
+„Meinst du, es hat wehgetan?", flüsterte Theo. „Das Gehen, meine ich."
+
+Nora dachte an das Licht. An die Wärme. An den langsamen, ruhigen Puls.
+
+„Nein", sagte sie. „Ich glaube, es war wie Einschlafen. Wenn man sehr müde ist und endlich loslassen darf."
+
+Theo nickte. Er sagte nichts mehr. Er musste auch nichts mehr sagen.
+
+---
+
+Nach einer Weile stand Nora auf. Ihre Knie knackten. Die Nacht war still. Durch das Fenster fiel Mondlicht auf den Boden, genau dorthin, wo das goldene Licht gewesen war. Jetzt war es nur Silber. Kalt und klar.
+
+Sie trat ans Fenster. Von hier oben konnte sie über die Dächer sehen. Gravenstedt lag vor ihr wie eine Decke aus Schatten und Lichtern. Straßenlaternen, gelb und warm. Fenster, in denen noch Lampen brannten. Schornsteine. Antennen. Die Silhouette des Kirchturms am Ende der Straße.
+
+Eine normale Stadt. Eine ganz normale Stadt bei Nacht.
+
+Dann sah sie es.
+
+Drei, vielleicht vier Straßen entfernt. Zwischen zwei Dächern. Ein Leuchten. Kurz. Kalt. Blau.
+
+Nicht golden. Nicht warm. Nicht wie Linas Licht. Das hier war anders. Eisig. Scharf. Wie ein Blitz, der unter der Erde einschlägt.
+
+Es flackerte einmal auf. Zwei Sekunden. Vielleicht drei. Dann war es weg.
+
+Noras Nackenhaare stellten sich auf. Ihre Finger um das Fensterbrett wurden weiß.
+
+„Theo."
+
+Er kam neben sie. „Was?"
+
+„Hast du das gesehen?"
+
+„Was gesehen?" Theo rieb sich die Augen. „Ich hab auf den Boden geschaut."
+
+Nora starrte auf die Stelle zwischen den Dächern. Dunkel. Still. Nichts. Als wäre es nie dagewesen.
+
+Aber es war dagewesen. Etwas Blaues. Etwas Kaltes.
+
+Sie dachte an Frau Silbers Namensliste. An die zwölf Markierungen. An die elf, die noch übrig waren. Elf Namen. Elf Geschichten. Elf Geister, die nicht gehen konnten.
+
+„Da draußen sind noch mehr", flüsterte Nora.
+
+Hinter ihr, auf dem Boden, hob Schatten den Kopf. Seine bernsteinfarbenen Augen schimmerten im Mondlicht. Er schaute zum Fenster. Dorthin, wo das blaue Leuchten gewesen war.
+
+Und knurrte. Leise. Tief.

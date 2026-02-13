@@ -1,0 +1,207 @@
+# Kapitel 16 – Entscheidung
+
+Sie rannten.
+
+Nora spürte den kalten Abendwind auf ihren Wangen. Ihre Füße schlugen auf den Bürgersteig. Neben ihr keuchte Theo. Schatten galoppierte zwischen ihnen, die Leine schleifte über den Asphalt.
+
+Hinter ihnen lag der Friedhof. Die Gestalt zwischen den Grabsteinen. Grau. Durchsichtig. Starrend.
+
+Nora rannte schneller.
+
+Sie bogen in die Kirchgasse ein. Hausnummer 28. 22. 18. Die Laternen flackerten über ihren Köpfen. Schattens Krallen klickten auf dem Pflaster. Theo stolperte, fing sich, rannte weiter.
+
+Hausnummer 14.
+
+Nora riss die Haustür auf. Treppenhaus. Warme Luft. Der Geruch nach Abendessen aus der Erdgeschosswohnung. Normal. Sicher. Sie stolperte die Stufen hoch, Theo direkt hinter ihr. Schatten schoss an beiden vorbei und wartete vor ihrer Wohnungstür. Schwanzwedeln. Als wäre nichts gewesen.
+
+Nora schloss auf. Ihre Hände zitterten so stark, dass der Schlüssel zweimal abrutschte.
+
+Drinnen. Tür zu. Riegel vor.
+
+Sie lehnte sich gegen die Wand. Ihr Herz hämmerte. Ihre Lunge brannte. Schweiß lief ihr den Nacken hinunter.
+
+Theo ließ sich neben ihr auf den Boden fallen. Sein Gesicht war weiß. Er atmete in kurzen, flachen Stößen.
+
+„Das –" Er holte Luft. „Das war ein Geist."
+
+„Ich weiß."
+
+„Auf dem Friedhof."
+
+„Ich weiß, Theo."
+
+„Er hat uns angestarrt."
+
+Nora schluckte. Der Kloß in ihrem Hals wollte nicht verschwinden. Sie sah die Gestalt noch vor sich. Die graue Kontur zwischen den Grabsteinen. Keine Augen, aber ein Blick. Kein Gesicht, aber ein Starren.
+
+„Er war wütend", flüsterte sie. „Das war nicht wie bei Lina. Nicht traurig. Nicht verloren."
+
+Theo schüttelte den Kopf. „Lina war traurig. Der da war –" Er suchte nach dem Wort. „Kalt. Und wütend."
+
+Schatten legte sich in den Flur. Genau zwischen Nora und Theo. Sein Fell war noch immer leicht gesträubt. Aber er knurrte nicht mehr. Er lag da, die Schnauze auf den Pfoten, und seine bernsteinfarbenen Augen wanderten von Nora zu Theo und zurück.
+
+---
+
+Nora stand auf. Ihre Knie waren weich. Sie ging ins Wohnzimmer und setzte sich aufs Sofa. Theo folgte ihr. Schatten trottete hinterher und legte sich vor den Couchtisch.
+
+Stille.
+
+Nora starrte auf die Karte, die auf dem Tisch lag. Frau Silbers Karte. Elf offene Markierungen. Elf Geister. Und eine davon war der Friedhof.
+
+*Heinrich M. – 1847.*
+
+Fast zweihundert Jahre zwischen den Grabsteinen.
+
+Nora schloss die Augen. Ihr Magen zog sich zusammen. Die Kälte vom Friedhof saß noch in ihren Knochen. In ihren Fingern. In dem Ort hinter dem Brustbein, wo die Angst wohnte.
+
+„Ich will aufhören", sagte sie.
+
+Die Worte kamen raus, bevor sie darüber nachdenken konnte. Leise. Fest.
+
+Theo starrte sie an. „Was?"
+
+„Aufhören, Theo. Ich will, dass alles wieder normal wird." Sie öffnete die Augen. „Schule. Hausaufgaben. Abendessen mit Mama. Fernsehen. Schlafen, ohne dass etwas Durchsichtiges mich anstarrt."
+
+„Aber –"
+
+„Wir sind Kinder." Nora hörte ihre eigene Stimme. Sie klang wie damals im Treppenhaus, nach dem Keller. Dieselben Worte. Wir hören auf. „Wir können nicht durch Gravenstedt rennen und Geister befreien. Das ist nicht unser Job."
+
+Theo richtete sich auf. Seine Augen wurden schmal.
+
+„Das hast du schon mal gesagt."
+
+„Und ich hatte recht."
+
+„Nein." Er schüttelte den Kopf. Langsam. „Hattest du nicht. Beim letzten Mal habe ich dich überzeugt. Und dann haben wir Lina befreit."
+
+Noras Kehle wurde eng. Lina. Der Name tat etwas in ihrer Brust. Etwas Warmes und Schweres zugleich.
+
+„Das hier ist anders, Theo. Lina war traurig. Der Geist auf dem Friedhof war wütend. Hast du sein – sein Starren gespürt?"
+
+„Ja." Theos Stimme zitterte. Aber er wich nicht zurück. „Und weißt du, was ich noch gespürt habe? Dass er allein ist. Genau wie Lina."
+
+„Theo –"
+
+„Seit 1847, Nora. Seit hundertachtzig Jahren steht der da zwischen den Gräbern. Und niemand kommt."
+
+Schatten hob den Kopf. Er schaute zu Theo. Dann zu Nora. Sein Schwanz schlug einmal auf den Boden. Langsam. Schwer.
+
+Nora presste die Lippen zusammen. Ihre Hände lagen auf ihren Knien. Sie ballte sie zu Fäusten.
+
+„Und wenn es schiefgeht?", sagte sie. „Was, wenn der nächste Geist nicht einfach geht? Was, wenn er uns angreift? Was, wenn –"
+
+„Was, wenn wir nichts tun?" Theo beugte sich vor. „Was, wenn wir die Karte in die Schublade legen und so tun, als hätten wir sie nie gefunden? Elf Geister, Nora. Elf Leute, die auf Hilfe warten."
+
+„Es sind keine Leute mehr."
+
+„Doch." Theos Stimme wurde leise. Ernst. So ernst, wie ein Zehnjähriger nur sein konnte. „Das sind sie. Das hat Frau Silber geschrieben. Das hast du selbst gesagt. Geister sind Menschen, die festsitzen."
+
+Stille.
+
+Schatten stand auf. Er ging von seinem Platz zum Sofa, drückte sich zwischen Noras und Theos Beine und legte sich hin. Genau in der Mitte. Sein warmer Körper berührte beide. Sein Kopf lag auf Noras Fuß. Sein Schwanz über Theos Schuh.
+
+Er schaute von einem zum anderen. Hin und her. Seine bernsteinfarbenen Augen waren ruhig. Geduldig. Als hätte er alle Zeit der Welt.
+
+Nora schaute auf ihn hinunter. Auf den Hund, der vierzig Jahre lang eine alte Frau durch die Nacht begleitet hatte. Der jedes Mal gewusst hatte, wo die Unruhigen waren. Der nie weggerannt war.
+
+---
+
+Sie dachte an Lina. An die runden Buchstaben. An *Niemand glaubt mir*. An die fünfzig Jahre Stille. Und an das goldene Licht, das kleiner geworden war und verschwunden.
+
+Das hatten sie gemacht. Sie und Theo.
+
+Noras Augen brannten. Sie blinzelte. Einmal. Zweimal.
+
+Theo sagte nichts. Er wartete. Er kannte sie gut genug.
+
+„Ich habe Angst", sagte Nora leise. Das Wort kratzte in ihrer Kehle. Sie sagte es nie. Nie laut. „Ich habe Angst, Theo. Richtig."
+
+Theo schluckte. „Ich auch."
+
+„Ich weiß."
+
+„Seit dem ersten Tag."
+
+Nora lachte. Kurz. Rau. Es löste etwas in ihrer Brust.
+
+„Aber ich hatte auch Angst bei Lina", sagte Theo. „Und es hat sich trotzdem gelohnt."
+
+Nora schaute auf die Karte. Elf Markierungen. Elf Namen. Elf Geschichten, die niemand kannte. Und mittendrin, groß und rot: GRAVEN.
+
+Der Erste. Der, vor dem Frau Silber Angst gehabt hatte.
+
+Sie atmete tief ein. Die Luft schmeckte nach Zuhause. Nach der Wohnung, die seit Linas Befreiung zum ersten Mal wirklich ihr Zuhause war.
+
+„Wir machen weiter", sagte Nora. Die Worte fühlten sich schwer an. Richtig. Wie Steine, die an den richtigen Platz fallen.
+
+Theo riss die Augen auf. „Ehrlich?"
+
+„Aber nur zusammen." Sie schaute ihn an. Direkt. „Du und ich. Immer. Keiner geht allein irgendwohin."
+
+„Deal."
+
+„Und Schatten kommt immer mit." Sie legte die Hand auf den warmen Hundekopf auf ihrem Fuß. „Immer. Egal wohin."
+
+Schatten wedelte mit dem Schwanz. Einmal. Kräftig.
+
+Theo grinste. „Seit wann brauchst du meinen kleinen Bruder-Mut, um dich zu entscheiden?"
+
+„Seit du offenbar den ganzen Mut der Familie verbrauchst."
+
+„Endlich erkennt das jemand an."
+
+Nora lächelte. Zum ersten Mal seit dem Friedhof. Kein großes Lächeln. Aber echt.
+
+---
+
+Die Wohnungstür ging auf.
+
+Ihre Mutter kam herein. Jacke über dem Arm, Schlüssel in der Hand. Sie sah müde aus. Aber sie lächelte, als sie die beiden auf dem Sofa sah.
+
+„Na, ihr zwei? Alles gut?"
+
+„Alles gut", sagte Nora. Ihre Stimme klang fast normal.
+
+Ihre Mutter hängte die Jacke auf und trat ins Wohnzimmer. Sie blieb stehen. Schaute auf Schatten, der zwischen den Kindern lag. Schüttelte den Kopf.
+
+„Dieser Hund. Der liegt immer genau in der Mitte."
+
+„Er ist ein Diplomat", sagte Theo.
+
+Ihre Mutter lachte. Dann wurde ihr Gesicht nachdenklich. Sie lehnte sich gegen den Türrahmen und verschränkte die Arme.
+
+„Ach, übrigens. Ich habe vorhin die Nachbarin von unten getroffen. Im Treppenhaus."
+
+Noras Nackenhaare stellten sich auf. Sie wusste nicht warum. Noch nicht.
+
+„Sie hat etwas Seltsames gesagt." Ihre Mutter runzelte die Stirn. „Sie meinte, früher hätte eine alte Frau hier im Haus gewohnt. Im zweiten Stock. Die sei nachts oft losgegangen. Mit einer Taschenlampe. Durch die ganze Stadt."
+
+Noras Hände wurden kalt. Neben ihr wurde Theo still.
+
+„Mit einem Hund", sagte ihre Mutter. „Immer mit einem Hund. Und immer zum Friedhof."
+
+Die Stille im Wohnzimmer war so dicht, dass Nora ihren eigenen Herzschlag hörte.
+
+Ihre Mutter schaute auf Schatten. Lange. Prüfend.
+
+„Euer Hund sieht genauso aus", sagte sie. „Genau wie der Hund, den die alte Frau hatte."
+
+Schatten hob den Kopf. Er schaute die Mutter an. Ruhig. Ungerührt.
+
+Nora öffnete den Mund. Schloss ihn wieder. Ihr Herz hämmerte.
+
+Ihre Mutter lachte leise. „Na ja. Wahrscheinlich Zufall. Gute Nacht, ihr zwei."
+
+Sie ging den Flur entlang. Die Schlafzimmertür klickte hinter ihr zu.
+
+Nora und Theo starrten sich an. Theos Mund stand offen. Er klappte ihn zu. Schluckte.
+
+„Die Nachbarin weiß etwas", flüsterte er.
+
+„Ja", sagte Nora. Ihr Mund war trocken.
+
+Schatten legte den Kopf zurück auf Noras Fuß. Seine bernsteinfarbenen Augen glühten im Lampenlicht.
+
+Er wusste es.
+
+Er wusste alles.
