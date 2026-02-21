@@ -4,7 +4,7 @@ Schatten bellte.
 
 Das Geräusch riss Nora aus dem Schlaf. Laut. Tief. Ein einziger, scharfer Laut, der durch die ganze Wohnung hallte.
 
-Nora saß aufrecht im Bett. Ihr Herz hämmerte. Ihre Hände krallten sich in die Bettdecke. Neben ihr auf dem Boden stand Schatten. Steif. Aufrecht. Die Beine durchgedrückt, das Fell gesträubt, die bernsteinfarbenen Augen auf die Zimmertür gerichtet.
+Nora saß aufrecht im Bett. Ihr ganzer Körper war angespannt. Ihre Hände krallten sich in die Bettdecke. Neben ihr auf dem Boden stand Schatten. Steif. Aufrecht. Die Beine durchgedrückt, das Fell gesträubt, den Blick starr auf die Zimmertür gerichtet.
 
 Er bellte noch einmal.
 
@@ -20,7 +20,7 @@ Sie rannte in den Flur. Theo stand vor seiner Zimmertür, die Arme um sich gesch
 
 „Schau dir die Fenster an", flüsterte Theo.
 
-Nora drehte sich um. Ihr Magen zog sich zusammen.
+Nora drehte sich um. Ihre Finger wurden kalt.
 
 Jedes Fenster in der Wohnung war beschlagen. Dichtes, milchiges Kondenswasser. Auf dem Küchenfenster. Auf dem Flurfenster. Auf dem Wohnzimmerfenster. Überall.
 
@@ -36,7 +36,7 @@ VERGISS NICHT.
 
 Wie mit einem Finger geschrieben. Große, hastige Buchstaben. Das Wasser lief an den Rändern herunter, aber die Wörter blieben.
 
-Nora schluckte. Ihre Kehle war eng. Die Kälte kroch durch ihren ganzen Körper. Aber es war nicht nur die Temperatur. Eine Anwesenheit. Stärker als je zuvor.
+Nora schluckte. Ihre Kehle war eng. Die Kälte kroch durch ihren ganzen Körper. Aber es war nicht nur die Temperatur. Das Mondlicht warf Schatten an die Wände. Sie bewegten sich. Langsam. Obwohl nichts im Raum sich rührte. Eine Anwesenheit. Stärker als je zuvor.
 
 „Sie ist hier", sagte Nora leise.
 
@@ -48,7 +48,7 @@ Er deutete in den Flur. Zum Ende, wo der Gang zum Badezimmer abging. Sein Finger
 
 „Einen Schatten. Aber nicht unseren Schatten. Einen anderen. Er war so groß wie ein Kind. Er stand da. Nur eine Sekunde." Theo schluckte schwer. „Dann war er weg."
 
-Noras Nackenhaare stellten sich auf. Sie starrte in den dunklen Flur. Nichts. Nur Dunkelheit und Kälte.
+Ein kaltes Kribbeln lief über Noras Arme. Sie starrte in den dunklen Flur. Nichts. Nur Dunkelheit und Kälte.
 
 Schatten knurrte noch immer. Leise, tief, in der Kehle.
 
@@ -64,7 +64,7 @@ Nora lauschte. Aus dem Schlafzimmer der Mutter kam nichts. Kein Rascheln. Kein A
 
 „Nein", sagte Nora.
 
-Stille. Die Wörter an den Fenstern schimmerten im Mondlicht. BITTE. LIES. VERGISS NICHT.
+Nur das Ticken der Küchenuhr. Die Wörter an den Fenstern schimmerten im Mondlicht. BITTE. LIES. VERGISS NICHT.
 
 Theo schluckte. „Was machen wir?"
 
@@ -94,7 +94,7 @@ Theo sah sie an. Drei Sekunden. Dann nickte er. „Okay."
 
 Nora hätte fast gelächelt. Fast. Sie ging in ihr Zimmer und holte das Tagebuch aus der Nachttischschublade. Der Ledereinband war kalt unter ihren Fingern.
 
-Schatten folgte ihr. Er bellte nicht mehr. Er knurrte nicht. Er ging neben ihr her, dicht an ihrem Bein, und seine bernsteinfarbenen Augen glänzten.
+Schatten folgte ihr. Er bellte nicht mehr. Er knurrte nicht. Er ging neben ihr her, dicht an ihrem Bein, und sein Blick glänzte ruhig.
 
 ---
 
@@ -110,23 +110,29 @@ Theo zog sich die Bettdecke von Noras Bett und wickelte sie sich um die Schulter
 
 Theo schnaubte leise. Dann wurde er ernst. „Lies vor."
 
-Nora schlug das Tagebuch auf. Ihre Hände zitterten. Nicht vor Kälte. Vor etwas anderem. Etwas Größerem.
+Nora schlug das Tagebuch auf. Ihre Finger waren steif vor Kälte. Aber das Zittern kam nicht vom Frost. Es kam von etwas Größerem.
+
+Sie hielt inne. Was, wenn es nicht funktionierte? Was, wenn es alles schlimmer machte? Was, wenn die Kälte stärker zurückkam, als sie ertragen konnten?
+
+Theo schaute sie an. Wartend. Vertrauend.
+
+Nora schluckte. Dann entschied sie sich. Für Lina.
 
 Sie begann zu lesen.
 
 „Zwölfter März 1974", las sie laut. Ihre Stimme hallte in dem kalten Zimmer. „Neues Tagebuch. Mama hat es mir zum Geburtstag geschenkt."
 
-Die Worte füllten den Raum. Nora las weiter. Linas Alltag. Schule. Freundinnen. Hanna. Luna, der Hund, der Stöcke aus dem Fluss holte. Sommer. Eis am Kiosk. Ein gewonnenes Stofftier vom Jahrmarkt.
-
-Theo hörte zu. Schatten lag still. Die Kälte blieb.
-
-Nora blätterte um. Seite für Seite. Ihr Atem dampfte über dem Papier.
+Nora las weiter. Linas Alltag. Schule. Freundinnen. Sommer. Seite für Seite. Ihr Atem dampfte über dem Papier.
 
 Und dann kamen die dunklen Einträge.
 
 „Vierzehnter September. Mein Zimmer war heute Morgen eiskalt."
 
-Nora las. Ihre Stimme wurde leiser, aber sie hörte nicht auf. Sie las über das kalte Zimmer. Über Luna, die sich weigerte reinzugehen. Über das Kratzen in der Wand. Über die Mutter, die sagte: Einbildung.
+Nora las. Ihre Stimme wurde leiser, aber sie hörte nicht auf. Sie las über das kalte Zimmer. Über Luna, die sich weigerte reinzugehen.
+
+„Wie bei uns", flüsterte Theo.
+
+Nora nickte. Sie las weiter. Über das Kratzen in der Wand. Über die Mutter, die sagte: Einbildung.
 
 Etwas veränderte sich.
 
@@ -186,7 +192,7 @@ Noras Atem stockte. Sie legte die Fingerspitzen gegen das Glas. Es war warm. Nic
 
 Theo stand neben ihr. Er las das Wort. Sein Kinn zitterte.
 
-„Gern geschehen, Lina", murmelte er.
+„Gern geschehen, Lina", murmelte er. Er rieb sich die Arme. „Nächstes Mal vielleicht nicht um drei Uhr nachts."
 
 Nora lächelte.
 
@@ -194,7 +200,7 @@ Dann erschien direkt daneben ein zweites Wort. Buchstabe für Buchstabe. Als sch
 
 OBEN.
 
-Nora starrte das Wort an. Ihr Lächeln verschwand. Ihr Magen zog sich zusammen. Oben. Frau Silbers Wohnung lag über ihnen. Im zweiten Stock.
+Nora starrte das Wort an. Ihr Lächeln verschwand. Ein kalter Stich fuhr durch ihre Brust. Oben. Frau Silbers Wohnung lag über ihnen. Im zweiten Stock.
 
 Theo sah sie an. Seine Augen waren weit. „Was ist oben, Nora?"
 
@@ -202,4 +208,4 @@ Nora antwortete nicht. Sie hielt das Tagebuch fest und starrte auf die zwei Wör
 
 DANKE. OBEN.
 
-Schatten hob den Kopf. Seine bernsteinfarbenen Augen richteten sich auf die Decke. Sein Schwanz schlug einmal auf den Boden. Dann war er wieder still.
+Schatten hob den Kopf. Sein Blick richtete sich auf die Decke. Sein Schwanz schlug einmal auf den Boden. Dann war er wieder still.

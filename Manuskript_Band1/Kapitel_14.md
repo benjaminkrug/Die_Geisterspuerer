@@ -2,13 +2,13 @@
 
 Nora wachte auf und wusste nicht, wo sie war.
 
-Sonnenlicht fiel durch das Fenster. Warm. Golden. Normal. Kein Flackern, kein blaues Leuchten. Nur ein ganz gewöhnlicher Morgen in Gravenstedt.
+Sonnenlicht fiel durch das Fenster. Warm. Golden. Ihr Zimmer sah aus wie jedes andere Kinderzimmer an einem Sommermorgen. Und zum ersten Mal seit Wochen fühlte es sich auch so an.
 
 Dann kamen die Erinnerungen zurück. Das Tagebuch. Die Kälte. Das Licht auf dem Boden, das kleiner wurde und verschwand. Lina.
 
 Nora setzte sich auf. Ihr Herz schlug ruhig. Zum ersten Mal seit Tagen fühlte sich die Wohnung nicht falsch an. Keine eisigen Stellen. Kein Klopfen in der Wand. Nur Stille und Sonnenlicht und der Geruch von Kaffee aus der Küche.
 
-Schatten lag am Fußende ihres Bettes. Er hob den Kopf, als sie sich bewegte. Seine bernsteinfarbenen Augen waren weich. Entspannt. Er gähnte breit und ließ den Kopf wieder sinken.
+Schatten lag am Fußende ihres Bettes. Er hob den Kopf, als sie sich bewegte. Sein Blick war weich. Entspannt. Er gähnte breit und ließ den Kopf wieder sinken.
 
 „Dir geht es auch besser, was?", murmelte Nora.
 
@@ -124,7 +124,7 @@ Dann sah er die Markierungen. Nora sah sie im selben Moment.
 
 Zwölf Kreise. Über die ganze Karte verteilt. Jeder Kreis war mit schwarzer Tinte gezeichnet, dick und deutlich. Und neben jedem Kreis stand ein Name. Ein Datum.
 
-Noras Mund wurde trocken.
+Nora spürte ein Summen unter ihrer Haut.
 
 „Theo", sagte sie. „Das sind zwölf Markierungen."
 
@@ -136,19 +136,17 @@ Ein Kreis am Friedhof. Daneben: *Heinrich M. – 1847*.
 
 Ein Kreis bei einer alten Fabrik am Fluss. *Marta K. – 1912*.
 
-„Das sind alles Tote?", flüsterte Theo.
+Ein Kreis im Stadtpark. *Clara B. – 1889*.
 
-Ein Kreis an der U-Bahn-Station Marktplatz. *Ernst W. – 1938*. Ein Kreis im Stadtpark. *Clara B. – 1889*. Ein Kreis an der Nikolaikirche. *Johann F. – 1853*.
+„Das sind alles Tote", flüsterte Theo. Sein Gesicht war blass.
 
-„Hör auf zu zählen", murmelte Theo. Sein Gesicht war blass.
+Noras Augen sprangen weiter. Noch mehr Kreise. Am Rathaus. An der Brücke. An der Nikolaikirche. Zwölf insgesamt. Zwölf Namen. Zwölf Jahreszahlen, verteilt über fast zweihundert Jahre.
 
-Aber es gab noch mehr. Zwölf Kreise. Zwölf Namen. Zwölf Jahreszahlen, verteilt über fast zweihundert Jahre.
-
-„Das sind die Geister", flüsterte Nora. Gänsehaut kroch über ihre Arme. „Das ist Frau Silbers Lebenswerk. Sie hat jeden einzelnen gefunden und kartiert."
+„Das sind die Geister", flüsterte Nora. Ihre Nackenhaare richteten sich auf. „Das ist Frau Silbers Lebenswerk. Sie hat jeden einzelnen gefunden und kartiert."
 
 Schatten stand neben ihr. Er schnüffelte intensiv an der Karte, die Nase dicht über dem Papier. Sein Fell sträubte sich kurz. Dann stupste er mit der Nase gegen eine bestimmte Stelle.
 
-Nora schaute hin. Ihr Magen zog sich zusammen.
+Nora schaute hin. Ihr Atem stockte.
 
 Die Kirchgasse. Ihre Straße. Ihre Hausnummer. Kirchgasse 14.
 
@@ -166,7 +164,7 @@ Theo streckte vorsichtig den Finger aus und berührte die Durchstreichung. Er zo
 
 „Die ist frisch", sagte er. Seine Augen wurden groß. „Das ist ganz frische Tinte. Als hätte jemand das gerade erst gemacht."
 
-Stille.
+Nur das Rauschen der Wasserrohre in den Wänden.
 
 Nora starrte die durchgestrichene Markierung an. Lina. Durchgestrichen. Befreit. Aber die Tinte war frisch. Gestern Nacht frisch. Jemand hatte diesen Kreis durchgestrichen, nachdem sie Lina befreit hatten.
 
@@ -176,13 +174,17 @@ Frau Silber war seit drei Monaten verschwunden.
 
 Nora schüttelte den Kopf. Sie hatte keine Antwort. Nur ein Kribbeln im Nacken, das nicht aufhören wollte.
 
-Ihr Herz hämmerte. Unter ihren Knien das raue Papier der Karte. Zwölf Kreise. Einer durchgestrichen.
+Ihr Puls pochte in den Schläfen. Unter ihren Knien das raue Papier der Karte. Zwölf Kreise. Einer durchgestrichen.
 
 Elf offen.
 
+Elf. Noras Magen zog sich zusammen. Lina war ein Geist gewesen. Ein trauriges Mädchen. Aber elf weitere? Sie dachte an ihre Mutter unten in der Küche. An den Kaffeeduft. An normales Leben. Schule. Frühstück. Keine Geister.
+
+Wollte sie das wirklich?
+
 Sie zählte noch einmal. Langsam. Mit dem Finger.
 
-Friedhof. Fabrik. U-Bahn-Station. Park. Kirche. Schule. Brücke. Rathaus. Marktplatz. Alte Gerberei. Wasserturm.
+Friedhof. Fabrik. Kirche. Park. Brücke. Und sechs weitere.
 
 Elf Orte. Elf Namen. Elf Geister.
 
@@ -198,7 +200,7 @@ Nora dachte an das blaue Leuchten. Gestern Nacht. Kalt und kurz. Jetzt wusste si
 
 Einer von elf.
 
-„Elf Geister", sagte sie. Ihre Stimme klang fremd in ihren eigenen Ohren. Fest. Ruhig. Aber ihre Hände zitterten, als sie die Karte festhielt.
+„Elf Geister", sagte sie. Ihre Stimme klang fremd in ihren eigenen Ohren. Fest. Ruhig. Aber ihre Finger klammerten sich an die Karte, als könnte sie ihr weggenommen werden.
 
 Theo schluckte. „Elf Geister, die auf Hilfe warten."
 
@@ -210,4 +212,4 @@ Wartend.
 
 Als wüsste er genau, was als Nächstes kam.
 
-Und eine frisch durchgestrichene Markierung, die unmöglich von Frau Silber stammen konnte.
+Und eine frisch durchgestrichene Markierung. In einer Wohnung, die seit drei Monaten leer stand.

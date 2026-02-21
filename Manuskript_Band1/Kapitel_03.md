@@ -30,7 +30,7 @@ Theo zog die Decke herunter. Seine Augen waren weit aufgerissen. „Natürlich h
 
 „Es kommt aus der Wand", sagte Nora. „Von oben. Aus Frau Silbers Wohnung."
 
-Klopf. Klopf. Klopf. Die Wand vibrierte unter ihrer Hand.
+Klopf. Klopf. Klopf. Die Wand vibrierte unter ihrer Hand. Ein Druck legte sich auf Noras Ohren, als wäre sie zu schnell in einem Aufzug gefahren.
 
 „Super", sagte Theo. „Die leere, gruselige Wohnung mit dem Eiszimmer. Wo sonst."
 
@@ -39,6 +39,8 @@ Nora verschränkte die Arme. „Wasserrohre. Das Haus ist alt. Rohre dehnen sich
 „Im Takt?", sagte Theo. „Dreimal, Pause, dreimal, Pause? Das sind die ordentlichsten Wasserrohre der Welt."
 
 „Es gibt eine Erklärung", sagte Nora.
+
+Aber was, wenn Theo recht hatte? Der Gedanke war da, kurz und scharf wie ein Nadelstich. Sie schob ihn weg. Sofort. Aber er war da gewesen.
 
 „Ja. Geister. Eindeutig Geister." Theo schluckte. „Können wir jetzt die Decke über den Kopf ziehen und so tun, als wäre nichts?"
 
@@ -58,9 +60,9 @@ Theo setzte sich kerzengerade auf. „Bitte sag mir, dass du das nicht ernst mei
 
 „Pass auf Schatten auf?" Theo starrte sie an. „Schatten wiegt dreißig Kilo. Eher passt er auf mich auf."
 
-Nora stand auf. Ihr Magen zog sich zusammen. Aber sie würde nicht zugeben, dass ihre Hände zitterten. Nicht vor Theo.
+Nora stand auf. Ein kalter Stich fuhr durch ihre Brust. Aber sie würde nicht zugeben, dass ihre Hände zitterten. Nicht vor Theo.
 
-Im Flur wartete Schatten noch immer. Er drehte den Kopf zu Nora. Bernsteinfarbene Augen. Ruhig. Wach. Sein Fell stand noch immer gesträubt am Nacken.
+Im Flur wartete Schatten noch immer. Er drehte den Kopf zu Nora. Sein Blick war ruhig. Wach. Sein Fell stand noch immer gesträubt am Nacken.
 
 „Alles gut, Schatten", flüsterte Nora.
 
@@ -96,7 +98,7 @@ Ihr Herz setzte einen Schlag aus.
 
 Die Tür war geschlossen. Fest geschlossen. Sie hatten sie gestern offen gelassen. Theo war als Erster rausgerannt, sie hinterher. Niemand hatte die Tür zugezogen.
 
-Gänsehaut kroch über ihre Arme, den Nacken hoch, bis in die Kopfhaut. Nora streckte die Hand aus. Ihre Finger zitterten. Sie berührten das Holz.
+Ein Prickeln lief ihren Rücken hinauf, über den Nacken, bis in die Kopfhaut. Nora streckte die Hand aus. Ihre Finger zitterten. Sie berührten das Holz.
 
 Kalt. Eiskalt. Wie der Raum gestern. Wie der Raum, den Schatten nicht betreten wollte.
 
@@ -110,7 +112,7 @@ Sie presste das Ohr an das kalte Holz. Dahinter: nichts. Kein Rascheln. Kein Atm
 
 Sie drehte sich um und ging die Treppe hinunter. Schnell. Nicht rennen. Auf keinen Fall rennen. Nora presste die Lippen zusammen. Jeder Schritt kontrolliert. Jeder Schritt gerade.
 
-Ihre Knie sagten etwas anderes. Ihre Knie waren weich wie Pudding.
+Ihre Knie sagten etwas anderes. Ihre Knie gaben fast nach.
 
 Aber sie rannte nicht. Sie ging nur schnell. Sehr schnell.
 
@@ -130,13 +132,13 @@ Theo blinzelte. „Wir haben sie offen gelassen."
 
 „Ein Luftzug. Im Treppenhaus ohne Fenster. Im Sommer. Der eine schwere Holztür zuschlägt."
 
-Nora biss sich auf die Lippe. Ihre Hände waren noch immer kalt vom Treppenhaus. Die Kälte saß in ihren Knochen.
+Nora biss sich auf die Lippe. Die Kälte vom Treppenhaus saß noch in ihren Knochen.
 
 „Es gibt eine Erklärung", sagte sie.
 
 „Du sagst das jetzt zum dritten Mal", murmelte Theo. „Und jedes Mal klingt es weniger überzeugend."
 
-Schatten legte den Kopf schief. Seine bernsteinfarbenen Augen wanderten von Nora zu Theo und zurück. Dann stand er auf, trottete zu seinem Platz zwischen den Kinderzimmern und legte sich hin. Ein tiefer Seufzer. Als wäre die Vorstellung für heute vorbei.
+Schatten legte den Kopf schief. Sein Blick wanderte von Nora zu Theo und zurück. Dann stand er auf, trottete zu seinem Platz zwischen den Kinderzimmern und legte sich hin. Ein tiefer Seufzer. Als wäre die Vorstellung für heute vorbei.
 
 „Siehst du?", sagte Theo. „Sogar der Hund findet das verdächtig."
 
@@ -173,6 +175,16 @@ Theo saß am Tisch, das Kinn auf die Hände gestützt. Dunkle Ringe unter den Au
 „Schon weg. Frühschicht." Theo rührte lustlos in seinem Kakao. „Hat einen Zettel dagelassen."
 
 Schatten lag unter dem Tisch und kaute auf einem Spielzeugknochen. Entspannt. Normal. Als wäre letzte Nacht nichts gewesen.
+
+„Hast du geschlafen?", sagte Nora.
+
+„Wenn du das so nennen willst." Theo rieb sich die Augen. „Ich hab die ganze Nacht auf die Wand gestarrt. Falls sie nochmal klopft."
+
+„Hat sie?"
+
+„Nein. Was fast noch gruseliger ist." Er trank einen Schluck Kakao. „Stille nach Klopfen ist schlimmer als Klopfen. Das ist meine neue Lebensweisheit."
+
+Schatten hob den Kopf unter dem Tisch. Er schaute zur Decke. Kurz. Dann kaute er weiter.
 
 Nora trat ans Fenster. Sie wollte es öffnen. Frische Luft.
 

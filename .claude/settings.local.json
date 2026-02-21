@@ -3,7 +3,21 @@
     "allow": [
       "Bash(python3:*)",
       "Bash(python -c:*)",
-      "Bash(ren:*)"
+      "Bash(ren:*)",
+      "Bash(python create_manuscript.py:*)",
+      "Bash(wc:*)",
+      "Bash(pandoc:*)",
+      "Bash(python build_kdp.py:*)",
+      "Bash(python check_cover.py:*)",
+      "Bash(pip install:*)",
+      "Bash(python resize_cover.py:*)",
+      "Bash(python resize_cover_v2.py:*)",
+      "Bash(python resize_cover_final.py:*)",
+      "Bash(python:*)",
+      "Bash(pip show:*)",
+      "Bash(xelatex:*)",
+      "Bash(where:*)",
+      "Bash(pip3 show:*)"
     ]
   }
 }

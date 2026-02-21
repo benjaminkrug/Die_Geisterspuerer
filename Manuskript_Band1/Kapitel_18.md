@@ -6,7 +6,7 @@ Hinter ihr lag die Wohnung im Dunkeln. Der Flur. Die Küche. Theos Zimmer, aus d
 
 Aber normal war nicht mehr das, was es einmal gewesen war.
 
-Schatten lag neben ihr auf dem Boden. Sein warmer Körper drückte gegen ihr Bein. Er schlief nicht. Seine Augen waren offen, zwei bernsteinfarbene Punkte im Halbdunkel. Ab und zu bewegte er die Ohren. Lauschend. Immer lauschend.
+Schatten lag neben ihr auf dem Boden. Sein warmer Körper drückte gegen ihr Bein. Er schlief nicht. Seine Augen waren offen, zwei helle Punkte im Halbdunkel. Ab und zu bewegte er die Ohren. Lauschend. Immer lauschend.
 
 Nora strich ihm über den Kopf. Sein Fell war weich unter ihren Fingern. Wärmer als in den ersten Tagen. Dichter. Seit sie ihn fütterten, sah man die Rippen nicht mehr.
 
@@ -24,11 +24,11 @@ Lina.
 
 Sie dachte an das Mädchen mit den runden Buchstaben. An die lila Tinte im Tagebuch. An den letzten Eintrag: *Morgen gehe ich in den Keller.* An das goldene Licht, das kleiner geworden war und verschwunden.
 
-Ihre Kehle wurde eng. Etwas drückte hinter ihrem Brustbein. Schwer. Tief. Wie ein Stein, den sie nicht schlucken konnte.
+Etwas drückte hinter ihrem Brustbein. Schwer. Tief.
 
 Elf Markierungen auf Frau Silbers Karte. Elf Kreise. Elf Namen.
 
-Die Karte lag auf ihrem Schreibtisch. Nora hatte sie zusammengerollt und mit dem Gummiband gesichert. Aber sie brauchte sie nicht auszurollen. Sie kannte die Orte auswendig. Friedhof. Fabrik. U-Bahn-Station. Park. Schule. Kirche. Brücke. Rathaus. Marktplatz. Gerberei. Wasserturm.
+Die Karte lag auf ihrem Schreibtisch. Nora hatte sie zusammengerollt und mit dem Gummiband gesichert. Aber sie brauchte sie nicht auszurollen. Sie kannte die Orte auswendig. Jeder einzelne brannte in ihrem Kopf.
 
 Elf Geister. In dieser Stadt. Hinter den erleuchteten Fenstern. Unter den normalen Dächern. Zwischen den Menschen, die nichts ahnten.
 
@@ -46,9 +46,15 @@ Sein Zimmer lag direkt neben ihrem. Die Wand dazwischen war dünn. In den ersten
 
 Er hatte geweint, als sie Linas Tagebuch gelesen hatten. Einfach so. Ohne sich zu schämen. Theo konnte das. Nora beneidete ihn darum.
 
-Sie war diejenige, die alles ordnete. Die rational blieb, wenn die Welt aufhörte, rational zu sein. Aber Lina hatte sie verändert.
+Vor drei Wochen hätte sie gelacht, wenn jemand ihr Geister erwähnt hätte. Jetzt saß sie nachts am Fenster und horchte auf Geräusche, die kein Messgerät aufzeichnen konnte.
 
-Es gab keine rationale Erklärung für Kondenswasser-Nachrichten und eiskalte Zimmer und einen Hund, der Geister spürte. Es gab nur die Wahrheit: Gravenstedt hatte Geheimnisse. Und jemand musste sich darum kümmern.
+„Weißt du, was das Verrückteste ist?", flüsterte sie Schatten zu. „Ich bin froh. Dass wir es wissen. Dass wir Lina helfen konnten."
+
+Schatten hob den Kopf. Sein Schwanz schlug einmal auf den Boden.
+
+„Aber elf, Schatten. Elf." Sie seufzte. „Wie hat Frau Silber das alleine geschafft?"
+
+Schatten stupste seine Nase gegen ihren Arm. Kurz. Warm. Als wollte er sagen: Sie war nicht allein. Sie hatte mich.
 
 ---
 
@@ -64,21 +70,13 @@ Im Fenster über der Spüle sah sie ihr Spiegelbild. Dunkle Augen. Zerzauste Haa
 
 Sie stellte das Glas ab. Ihre Hände zitterten nicht. Das überraschte sie.
 
-Der Brief lag auf dem Küchentisch. Frau Silbers Brief. Sie hatte ihn dreimal gelesen. Die krakelige Schrift. Die zittrigen Buchstaben. *Seit 40 Jahren kümmere ich mich um die Unruhigen.*
+Frau Silbers Brief lag auf dem Küchentisch. Nora kannte die Worte inzwischen auswendig. *Hütet euch vor dem Ersten. Er ist nicht wie die anderen.*
 
-Vierzig Jahre. Eine alte Frau, allein mit einem Hund und einer Karte und einer Aufgabe, die kein Mensch ihr zugewiesen hatte. Die sie sich selbst gegeben hatte.
+Der Erste. Alwin Graven. Der rote Kreis. Keine Adresse, kein Datum. Nur eine Warnung.
 
-Und dann war sie verschwunden. Einfach so. Keine Nachricht. Kein Abschied. Nur ein versiegelter Brief unter einer losen Diele. Nur ein Hund, der vor der Haustür wartete. Dünn, verfilzt, mit bernsteinfarbenen Augen.
+Was hatte er geöffnet? Und warum konnte es nicht geschlossen werden?
 
-Nora fuhr mit dem Finger über die letzte Zeile des Briefes. Sie konnte sie nicht sehen im Dunkeln, aber sie kannte die Worte. *Hütet euch vor dem Ersten. Er ist nicht wie die anderen.*
-
-Ihr Magen zog sich zusammen. Der Erste. Alwin Graven. Der rote Kreis auf der Karte. Kein Name. Nur ein Wort. Kein Datum. Nur eine Warnung.
-
-Was hatte er getan? Was hatte er geöffnet? Und warum konnte es nicht mehr geschlossen werden?
-
-Fragen. Zu viele Fragen. Und zu wenig Antworten.
-
-Nora legte den Brief zurück auf den Tisch. Ihre Finger strichen über das raue Papier. Sie würde Antworten finden. Nicht heute Nacht. Aber bald.
+Nora legte den Brief zurück. Sie würde Antworten finden. Nicht heute Nacht. Aber bald.
 
 ---
 
@@ -98,27 +96,17 @@ Ihre Mutter kam herein. Sie setzte sich auf die Bettkante und schaute Nora an. D
 
 Nora zuckte die Schultern. „Neue Stadt. Neues Haus. Dauert halt."
 
-Ihre Mutter lächelte. Müde, aber echt. Sie streckte die Hand aus und strich Nora eine Haarsträhne aus dem Gesicht.
+Ihre Mutter strich ihr eine Haarsträhne aus dem Gesicht. „Ihr habt euch gut eingelebt. Beide. Ich bin stolz auf euch."
 
-„Ihr habt euch gut eingelebt. Beide. Ich bin stolz auf euch."
+*Wenn du wüsstest*, dachte Nora.
 
-*Wenn du wüsstest*, dachte Nora. *Wenn du wüsstest, was unter der Oberfläche liegt.*
+„Danke, Mama."
 
-„Danke, Mama." Noras Stimme klang rau. Sie räusperte sich.
-
-Ihre Mutter legte den Kopf schief. „Soll ich bleiben? Bis du einschläfst?"
-
-Nora schüttelte den Kopf. „Geht schon."
-
-„Sicher?"
-
-„Sicher."
-
-Ihre Mutter nickte. „Schlaf jetzt. Morgen ist Schule." Sie stand auf. An der Tür blieb sie stehen. „Nora?"
+Ihre Mutter stand auf. An der Tür blieb sie stehen. „Nora?"
 
 „Ja?"
 
-„Dieser Hund." Sie schaute Schatten an. Er lag still und schaute zurück. Ruhig. Wach. Bernsteinfarbene Augen im Dunkeln. „Er ist ein guter Hund. Ich bin froh, dass ihr ihn gefunden habt."
+„Dieser Hund." Sie schaute Schatten an. Er lag still und schaute zurück. Ruhig. Wach. Sein Blick schimmerte im Dunkeln. „Er ist ein guter Hund. Ich bin froh, dass ihr ihn gefunden habt."
 
 *Er hat uns gefunden*, dachte Nora. *Er hat vor der Tür gesessen und gewartet. Auf uns. Als wüsste er, dass wir kommen.*
 
@@ -136,17 +124,37 @@ Leise Schritte. Theo stand in der Tür. Zerzaust. Ein Auge offen, das andere noc
 
 „Ja. Schlaf weiter."
 
-„Kann nicht." Er rieb sich das Gesicht. „Morgen fangen wir an, oder? Mit dem Friedhof."
+„Kann nicht." Er rieb sich das Gesicht und setzte sich neben sie auf den Boden. Schatten legte sofort den Kopf auf sein Knie. „Morgen fangen wir an, oder? Mit dem Friedhof."
 
 Nora schluckte. „Ja. Morgen."
 
-„Gut." Er gähnte. „Ich bin dabei." Er schlurfte zurück in sein Zimmer.
+„Hast du Angst?"
+
+„Ja."
+
+„Ich auch." Er war einen Moment still. „Aber weißt du, was ich auf dem Friedhof gedacht habe? Als die Gestalt da stand?"
+
+„Dass du rennen willst?"
+
+„Nee. Ich hab gedacht: Der steht da seit hundertachtzig Jahren. Allein. Und keiner kommt." Er zog die Knie an. „Das ist schlimmer als gruselig. Das ist traurig."
+
+Nora schaute ihn an. Manchmal vergaß sie, dass er erst zehn war.
+
+„Theo?"
+
+„Hm?"
+
+„Du bist der mutigste Zehnjährige, den ich kenne."
+
+„Ich bin der einzige Zehnjährige, den du kennst."
+
+„Trotzdem."
+
+Er grinste. Dann gähnte er. „Ich geh wieder ins Bett. Einer von uns muss morgen fit sein." Er schlurfte zurück in sein Zimmer.
 
 ---
 
 Nora saß am Fenster. Schatten neben ihr. Die Stadt vor ihr.
-
-So viel war passiert. Klopfen in der Wand. Kondenswasser-Nachrichten. Linas Tagebuch. Goldenes Licht auf dem Boden. Und eine Gestalt auf dem Friedhof. Grau. Durchsichtig. Starrend.
 
 Der nächste Ort auf der Karte. *Heinrich M. – 1847.* Fast zweihundert Jahre, allein und vergessen zwischen den Grabsteinen. Während die Stadt um ihn herum schlief.
 
@@ -162,13 +170,13 @@ Aus Theos Zimmer kam ein Murmeln. „... brauche ... größere Taschenlampe ..."
 
 Nora lächelte. Kurz. Kaum sichtbar. Aber es war da.
 
-Sie schaute wieder nach draußen. Gravenstedt lag still unter dem Nachthimmel. Tausend Fenster. Tausend Lichter. Tausend Menschen, die schliefen und nichts ahnten. Eine Stadt, die von außen aussah wie jede andere. Die von innen eine Landkarte voller Geister war.
+Sie schaute nach draußen. Gravenstedt schlief. Tausend Fenster. Tausend Lichter. Und elf Geister, die auf jemanden warteten.
 
 Schatten legte seinen Kopf auf Noras Knie. Schwer und warm. Sein Atem ging ruhig. Sie streichelte ihn hinter den Ohren, dort, wo sein Fell am weichsten war.
 
 „Wir schaffen das", flüsterte sie. „Wir schaffen das, weil Lina erst der Anfang war."
 
-Schatten hob den Kopf. Langsam. Seine Ohren richteten sich auf. Sein Körper wurde steif unter Noras Hand. Die bernsteinfarbenen Augen richteten sich auf das Fenster. Auf die Stadt. Auf etwas, das Nora nicht sehen konnte.
+Schatten hob den Kopf. Langsam. Seine Ohren richteten sich auf. Sein Körper wurde steif unter Noras Hand. Sein Blick richtete sich auf das Fenster. Auf die Stadt. Auf etwas, das Nora nicht sehen konnte.
 
 Sein Fell sträubte sich am Nacken.
 
@@ -180,7 +188,17 @@ Dann knurrte er. Leise. Tief.
 
 Nora folgte seinem Blick. Draußen, weit weg, am anderen Ende der Stadt –
 
-Irgendwo in Gravenstedt flackerte ein Licht.
+Ein Licht. Kalt. Blau. Zwischen den Dächern. Es flackerte einmal. Zweimal.
+
+Dann erlosch es.
+
+Schatten bellte. Ein einziger, scharfer Laut in der stillen Nacht.
+
+Nora stand auf. Nicht weil sie musste. Nicht weil Frau Silber es von ihr erwartete. Nicht weil elf Geister auf einer Karte standen.
+
+Sie stand auf, weil sie es wollte. Weil das hier ihr Entschluss war. Ihrer allein.
+
+Ihre Hände zitterten nicht.
 
 ---
 

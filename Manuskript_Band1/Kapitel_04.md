@@ -8,9 +8,11 @@ Die Scheibe war beschlagen. Grauer Dunst auf dem Glas, von unten nach oben. Und 
 
 HILF
 
-Noras Magen zog sich zusammen. Ihre Hände waren kalt. Ihre Finger schlossen sich um die Kante der Arbeitsplatte, so fest, dass die Knöchel weiß wurden.
+Ein Druck breitete sich unter ihren Rippen aus. Ihre Hände waren kalt. Ihre Finger schlossen sich um die Kante der Arbeitsplatte, so fest, dass die Knöchel weiß wurden.
 
-Mama war schon weg. Der Zettel auf dem Tisch sagte: „Bin gegen sechs zurück. Pizza im Kühlschrank. Hab euch lieb." Mama hatte nichts bemerkt. Wie auch. Sie war gegangen, bevor das Wort da war. Oder?
+Mama war schon weg. Der Zettel auf dem Tisch sagte: „Bin gegen sechs zurück. Pizza im Kühlschrank. Hab euch lieb." Darunter, in kleinerer Schrift: „PS: War euch auch so kalt heute Nacht? Ich musste mitten im Sommer die Wolldecke holen. Komisches Haus."
+
+Nora starrte auf die letzte Zeile. Mama hatte es auch gespürt. Die Kälte. Mama, die nie fror. Mama, die im Winter mit offenem Fenster schlief.
 
 „Nora? Was ist –"
 
@@ -40,11 +42,19 @@ Nur ein feuchter Streifen auf ihrem Pullover.
 
 „Das war kein Muster! Das war ein Wort! Ein deutsches Wort! Kondenswasser schreibt keine deutschen Wörter!"
 
-Nora schluckte. Er hatte recht. Natürlich hatte er recht. Aber das konnte sie nicht sagen. Nicht laut. Wenn sie es laut sagte, machte sie es real. Und dann war alles real. Die Kälte. Das Klopfen. Die Tür, die sich von allein geschlossen hatte.
+Nora schluckte. Er hatte recht. Natürlich hatte er recht. Und für einen Moment – einen einzigen, kurzen Moment – glaubte sie es. Alles. Die Kälte. Das Klopfen. Das Wort auf dem Glas. Etwas war in diesem Haus. Etwas, das sie nicht erklären konnte.
 
-„Vielleicht Mama", sagte sie. „Vielleicht hat sie heute Morgen –"
+Ihr wurde schwindelig. Ihre Knie gaben nach und sie griff nach der Arbeitsplatte.
 
-„Mama schreibt keine Hilferufe ans Küchenfenster, Nora. Mama schreibt ‚Hab euch lieb' auf Zettel."
+„Wir hätten nicht hochgehen dürfen", flüsterte sie. „Gestern. In die Wohnung. Wir hätten –"
+
+„Hey." Theo stand plötzlich neben ihr. Seine Stimme war ruhig. Seltsam ruhig. „Nora. Atme mal."
+
+Sie schaute ihn an. Theo. Ihr kleiner Bruder, der sich vor seinem eigenen Schatten fürchtete. Er sah sie an, ohne zu blinzeln.
+
+„Vielleicht Mama", sagte sie. Ihre Stimme zitterte. „Vielleicht hat sie heute Morgen –"
+
+„Mama schreibt keine Hilferufe ans Küchenfenster, Nora. Mama schreibt ‚Hab euch lieb' auf Zettel." Er legte kurz die Hand auf ihren Arm. „Aber wir kriegen das raus. Okay?"
 
 Schatten lag in seinem Körbchen neben der Heizung. Er hatte den Kopf gehoben und schaute zum Fenster. Nicht zu Nora. Nicht zu Theo. Zum Fenster. Seine Ohren standen aufrecht. Sein Fell lag glatt. Keine Reaktion wie gestern Nacht. Kein Winseln, kein gesträubtes Fell.
 
@@ -82,7 +92,7 @@ Theo starrte sie an. Dann drehte er sich um und schlurfte in sein Zimmer. An der
 
 Die Schule war groß, laut und roch nach Desinfektionsmittel und Kreide. Nora stand auf dem Schulhof und versuchte sich zu orientieren. Hunderte Schüler. Keiner kannte sie. Keiner schaute sie an.
 
-Im Unterricht stellte sie sich vor. „Nora. Zwölf. Gerade hergezogen." Die Klasse nickte. Dreißig Augenpaare. Ein Mädchen in der zweiten Reihe lächelte. Nora lächelte zurück.
+Im Unterricht stellte sie sich vor. „Nora. Zwölf. Gerade hergezogen." Die Klasse nickte. Dreißig Augenpaare. Ein Mädchen in der zweiten Reihe lächelte. Kurze braune Haare, Sommersprossen. Nora lächelte zurück.
 
 Normal. Das hier war normal. Tafeln und Kreide und ein Lehrer, der Brüche erklärte. Kein Kondenswasser. Kein Klopfen. Keine Wörter, die aus dem Nichts erschienen.
 
@@ -91,10 +101,6 @@ Aber in ihrem Kopf stand das Wort.
 HILF
 
 Im Matheunterricht. Zwischen den Zahlen an der Tafel.
-
-HILF
-
-In der Pause. Während sie ihr Brot auspackte.
 
 HILF
 
@@ -144,7 +150,7 @@ Theo erzählte vom Hamster-Jungen. Dass der Hamster Herbert hieß und im Unterri
 
 Je näher sie der Kirchgasse kamen, desto langsamer wurden ihre Schritte. Ohne dass sie es merkten.
 
-Nummer 14. Graue Fassade. Schmale Fenster. Von außen sah alles normal aus. Aber Noras Magen wusste es besser.
+Nummer 14. Graue Fassade. Schmale Fenster. Von außen sah alles normal aus. Aber Noras Hände wurden feucht.
 
 Nora schloss die Haustür auf. Treppenhaus. Bohnerwachs. Das vertraute Knarren der Stufen.
 
@@ -162,7 +168,7 @@ Sie ging in die Küche, um sich ein Glas Wasser zu holen. Stellte den Rucksack a
 
 Dann sah sie das Fenster.
 
-Kondenswasser. Wieder. Am helllichten Nachmittag, obwohl die Sonne durch die Scheibe schien. Die Feuchtigkeit hatte keinen Grund, da zu sein. Kein kalter Morgen. Kein offenes Fenster. Trotzdem war die Scheibe beschlagen, als wäre es tiefster Winter.
+Die Scheibe war blind. Eine milchige Schicht bedeckte das Glas, von unten bis zur Mitte. Am helllichten Nachmittag. Obwohl die Sonne durch die Scheibe schien.
 
 Und im Kondenswasser standen neue Buchstaben. Klar. Deutlich. Wie mit einem Kinderfinger geschrieben.
 
@@ -176,7 +182,7 @@ Zum zweiten Stock.
 
 Zu Frau Silbers Wohnung.
 
-Nora stellte das Glas ab. Ihre Hände zitterten zu stark, um es zu halten. Ihr Atem stockte. Ihre Knie wurden weich.
+Nora stellte das Glas ab. Ihre Finger schlossen sich nicht richtig. Das Glas klirrte gegen die Arbeitsplatte. Ihr Atem stockte. Ihre Knie wurden weich.
 
 „Theo", sagte sie. Ihre Stimme war heiser.
 

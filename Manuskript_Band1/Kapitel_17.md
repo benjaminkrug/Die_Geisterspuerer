@@ -24,9 +24,7 @@ Theo verschränkte die Arme. „Vielleicht hat sie auch einfach ein gutes Gedäc
 
 Nora schnaubte. Aber sie hörte nicht auf zu suchen.
 
-Sie kniete sich hin und tastete mit den Fingern über die Dielen. Alt. Rau. Staubig. An manchen Stellen abgetreten, an anderen kaum berührt. Sie klopfte auf jede einzelne. Der Staub kitzelte in ihrer Nase.
-
-In der Küche hatte sie die Karte gefunden. Im Flur das Notizbuch. An der Wand die Namensliste. Frau Silber hatte Spuren hinterlassen. Absichtlich. Als hätte sie gewusst, dass irgendwann jemand suchen würde.
+Sie kniete sich hin und klopfte auf jede Diele. Frau Silber hatte Spuren hinterlassen. Die Karte. Das Notizbuch. Die Namensliste. Als hätte sie gewusst, dass jemand suchen würde.
 
 Schatten stand auf. Er trottete an ihr vorbei, den Flur entlang. Dann blieb er stehen. Genau zwischen Küche und dem Zimmer mit der Namensliste. Er senkte den Kopf und schnüffelte am Boden.
 
@@ -38,7 +36,7 @@ Noras Herz schlug schneller.
 
 Theo war sofort neben ihr. „Was hat er?"
 
-Schatten kratzte mit der Pfote über eine Diele. Einmal. Zweimal. Dann schaute er Nora an. Seine bernsteinfarbenen Augen waren wach und klar.
+Schatten kratzte mit der Pfote über eine Diele. Einmal. Zweimal. Dann schaute er Nora an. Sein Blick war wach und klar.
 
 Nora kniete sich hin. Die Diele unter Schattens Pfote sah aus wie alle anderen. Dunkel. Alt. Abgenutzt. Aber als sie mit dem Finger am Rand entlangfuhr, spürte sie es. Eine Kante. Kaum merklich, aber da. Die Diele war nicht fest.
 
@@ -56,7 +54,7 @@ Die Diele kam hoch. Darunter lag ein Hohlraum. Flach. Vielleicht fünf Zentimete
 
 Sie zog den Umschlag heraus. Er war schwerer, als sie erwartet hatte. Dicker. Auf der Vorderseite stand etwas in schwarzer Tinte. Frau Silbers krakelige Schrift.
 
-Noras Mund wurde trocken.
+Ein Kribbeln lief über Noras Kopfhaut.
 
 „Was steht da?", flüsterte Theo.
 
@@ -66,7 +64,7 @@ Stille. Nur Schattens Atem. Und das Knarren des alten Hauses.
 
 Theo schluckte hörbar. „Sie hat gewusst, dass jemand kommt."
 
-„Ja." Noras Finger zitterten. „Sie hat auf uns gewartet."
+„Ja." Noras Atem wurde flach. „Sie hat auf uns gewartet."
 
 ---
 
@@ -94,15 +92,15 @@ Nora nickte und las weiter.
 
 „Wenn ihr diesen Brief lest, bin ich nicht mehr hier. Das tut mir leid. Nicht für mich. Für die, die noch warten."
 
-Noras Kehle wurde eng. Sie schluckte und las weiter.
+Die Worte drückten auf Noras Brust. Sie las weiter.
 
-„Die Unruhigen sind gefangen. Seit langer Zeit. Jemand hat vor fast zweihundert Jahren etwas geöffnet, das geschlossen bleiben sollte. Eine Tür zwischen den Welten. Eine Grenze, die es aus gutem Grund gab. Seitdem können die Toten Gravenstedt nicht verlassen. Sie irren umher. Sie suchen jemanden, der ihre Geschichte hört."
+„Die Unruhigen sind gefangen. Seit langer Zeit. Jemand hat vor fast zweihundert Jahren etwas geöffnet, das geschlossen bleiben sollte. Eine Tür zwischen den Lebenden und den Toten. Seitdem können die Toten Gravenstedt nicht verlassen. Sie irren umher. Sie suchen jemanden, der ihre Geschichte hört."
 
 Theo legte die Hand auf Schattens Kopf. Der Hund drückte sich gegen seine Finger.
 
 „Eine Tür zwischen den Welten", wiederholte Theo leise. „Wer öffnet so was?"
 
-„Jemand, der verzweifelt war", murmelte Nora. Sie dachte an Lina. An die Wörter im Kondenswasser. An den Keller und die Fußspuren im Staub. An all die gefangenen Seelen auf Frau Silbers Karte.
+„Jemand, der verzweifelt war", murmelte Nora.
 
 „Ich habe mein Leben damit verbracht, ihnen zuzuhören. Ihre Geschichten zu finden. Zu verstehen, warum sie noch hier sind. Wenn man versteht, können sie gehen. Es ist so einfach. Und so schwer."
 
@@ -112,7 +110,7 @@ Nora las weiter.
 
 „Schatten hat mich immer zu ihnen geführt. Er spürt sie. Er weiß, wo sie sind, bevor ich es ahne. Er ist kein normaler Hund."
 
-Neben ihr hob Schatten den Kopf. Als hätte er seinen Namen erkannt. Seine bernsteinfarbenen Augen lagen auf Nora. Ruhig. Alt. Viel älter, als ein Hund aussehen sollte.
+Neben ihr hob Schatten den Kopf. Als hätte er seinen Namen erkannt. Sein Blick lag auf Nora. Ruhig. Alt. Viel älter, als ein Hund aussehen sollte.
 
 Noras Haut kribbelte. Sie las weiter.
 
@@ -144,7 +142,9 @@ Sie las weiter.
 
 „Auf meiner Karte findet ihr die Orte. Jeder Kreis ist ein Unruhiger. Jeder Name eine Geschichte. Bitte gebt nicht auf. Die Unruhigen brauchen jemanden, der sie sieht. Der zuhört. Der versteht."
 
-Nora spürte das Gewicht der Worte. Wie Steine in ihrer Brust. Vierzig Jahre. Allein. Jede Nacht mit einer Taschenlampe durch die Stadt. Mit einem Hund, der Geister spürt.
+Vierzig Jahre. Allein. Nur ein Hund und die Toten.
+
+Nora blinzelte hart. Sie kannte Einsamkeit. Aber das war nichts gegen vierzig Jahre.
 
 „Schatten wird euch führen. Vertraut ihm. Er hat mich nie im Stich gelassen."
 
@@ -174,9 +174,11 @@ Nora las die Worte. Einmal still. Dann laut.
 
 „Und hütet euch vor dem Ersten. Er ist nicht wie die anderen."
 
-Stille.
+Schatten sprang auf. Aber er rannte nicht zur Tür. Er tat etwas, das er noch nie getan hatte. Er stellte sich vor Nora und Theo. Breitbeinig. Die Schultern nach vorn. Sein Körper wie ein Schild zwischen den Kindern und dem Rest der Wohnung.
 
-Theos Hand auf Schattens Ohr erstarrte. „Was?"
+Theos Hand hing in der Luft, wo Schattens Ohr gerade noch gewesen war. „Was -- was macht er?"
+
+„Er beschützt uns", flüsterte Nora. Schatten hatte bei Lina geknurrt. Aber er hatte sich noch nie vor sie gestellt.
 
 Nora las es noch einmal. „Hütet euch vor dem Ersten. Er ist nicht wie die anderen."
 
@@ -186,7 +188,7 @@ Nora dachte an die Karte. An den roten Kreis am Rand. Größer als die anderen. 
 
 GRAVEN.
 
-Ihr Magen zog sich zusammen. Eine Kälte breitete sich in ihrer Brust aus. Langsam. Wie Eis, das über eine Pfütze kriecht.
+Ein Schauder lief durch ihren ganzen Körper.
 
 „Ich glaube", sagte sie langsam, „es hat etwas mit dem Namen auf der Karte zu tun. Graven."
 
@@ -202,7 +204,7 @@ Theo rückte näher an Nora heran. Seine Schulter drückte gegen ihre. Sie spür
 
 „Können wir jetzt nach unten gehen?", flüsterte Theo. „Bitte?"
 
-„Ja." Nora faltete den Brief zusammen. Vorsichtig. Wie etwas Zerbrechliches. Sie schob ihn zurück in den Umschlag und drückte ihn an sich. Frau Silbers Worte. Frau Silbers Warnung. Vierzig Jahre Wissen auf drei Seiten dünnem Papier.
+„Ja." Nora faltete den Brief zusammen und schob ihn zurück in den Umschlag. Frau Silbers Warnung. Vierzig Jahre auf drei Seiten Papier.
 
 „Aber Theo?"
 

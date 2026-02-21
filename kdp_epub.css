@@ -1,0 +1,158 @@
+/* KDP EPUB Stylesheet - Die Geisterspürer Band 1 */
+
+body {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1em;
+    line-height: 1.6;
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+}
+
+/* Chapter headings */
+h1 {
+    font-family: Georgia, serif;
+    font-size: 1.6em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 1.5em;
+    page-break-before: always;
+}
+
+h2 {
+    font-family: Georgia, serif;
+    font-size: 1.3em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+h3 {
+    font-family: Georgia, serif;
+    font-size: 1.1em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+}
+
+/* Paragraphs */
+p {
+    text-indent: 1.2em;
+    margin-top: 0;
+    margin-bottom: 0.3em;
+}
+
+/* First paragraph after heading or scene break: no indent */
+h1 + p,
+h2 + p,
+h3 + p,
+.scene-break + p,
+hr + p {
+    text-indent: 0;
+}
+
+/* Scene breaks */
+.scene-break {
+    text-align: center;
+    margin: 1.5em 0;
+    font-size: 1em;
+    letter-spacing: 0.5em;
+}
+
+/* Half title page */
+.half-title {
+    text-align: center;
+    margin-top: 30%;
+}
+
+.half-title h1 {
+    font-size: 2em;
+    page-break-before: auto;
+}
+
+/* Title page */
+.title-page {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.title-page h1 {
+    font-size: 2.2em;
+    margin-bottom: 0.3em;
+    page-break-before: auto;
+}
+
+.title-page h2 {
+    font-size: 1.5em;
+    font-weight: normal;
+    font-style: italic;
+    margin-bottom: 0.2em;
+}
+
+.title-page h3 {
+    font-size: 1em;
+    font-weight: normal;
+    color: #666;
+}
+
+/* Copyright page */
+.copyright-page {
+    font-size: 0.85em;
+    margin-top: 60%;
+    text-align: center;
+    line-height: 1.4;
+}
+
+.copyright-page p {
+    text-indent: 0;
+    margin-bottom: 0.5em;
+}
+
+/* Back matter */
+.back-matter {
+    margin-top: 2em;
+}
+
+.back-matter h2 {
+    font-size: 1.4em;
+    margin-top: 2em;
+}
+
+.back-matter h3 {
+    font-size: 1.1em;
+    font-style: italic;
+}
+
+.back-matter p {
+    text-indent: 0;
+}
+
+/* Dialog formatting */
+blockquote {
+    margin: 0.5em 1em;
+    font-style: normal;
+}
+
+/* Emphasis */
+em {
+    font-style: italic;
+}
+
+strong {
+    font-weight: bold;
+}
+
+/* Horizontal rule as subtle separator */
+hr {
+    border: none;
+    text-align: center;
+    margin: 1.5em 0;
+}
+
+hr::after {
+    content: "✦ ✦ ✦";
+    letter-spacing: 0.5em;
+}

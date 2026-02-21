@@ -4,7 +4,7 @@ Der Umzugswagen parkte schief vor dem Haus. Nora stieg aus und streckte den Rüc
 
 Kirchgasse 14. Die Straße war eng und still. Kopfsteinpflaster, Häuser, die sich aneinanderlehnten wie müde alte Männer. Kein Mensch zu sehen.
 
-Ihr neues Haus hatte drei Stockwerke, eine graue Fassade und schmale Fenster mit abgeblättertem Lack. Über dem Eingang hing eine Lampe, die an einem Kabel baumelte. Der Putz hatte Risse wie ein altes Gesicht.
+Ihr neues Haus hatte drei Stockwerke, eine graue Fassade und schmale Fenster mit abgeblättertem Lack. Der Putz hatte Risse wie ein altes Gesicht.
 
 „Das sieht aus wie in einem Horrorfilm", sagte Theo neben ihr.
 
@@ -44,13 +44,21 @@ An der Wand hing ein Spiegel mit einem Sprung quer über das Glas. Nora sah sich
 
 Die Wohnungstür war braun und schwer und quietschte beim Öffnen. Dahinter lag die Wohnung. Groß. Leer. Hohe Decken, langer Flur, knarrender Dielenboden.
 
-Nora ging von Raum zu Raum. Küche mit einem Fenster zum Hinterhof, in dem ein einzelner Baum stand, kahl und krumm. Bad mit vergilbten Kacheln und einem Wasserhahn, der tropfte. Zwei Kinderzimmer nebeneinander, frisch gestrichen, aber der Farbgeruch überdeckte nicht, wie alt alles darunter war.
+Nora ging voraus. Die Küche hatte ein Fenster zum Hinterhof, in dem ein einzelner Baum stand, kahl und krumm.
 
-Am Ende des Flurs lag das Wohnzimmer. Groß, mit einem Erker und einer Heizung, die vor sich hin tickte. Die Tapete hatte ein Muster aus winzigen Blumen. An einer Stelle war sie abgerissen, und darunter kam eine andere Tapete zum Vorschein. Noch älter. Noch dunkler. Und an einer Stelle war der Putz darunter uneben. Wie ein Abdruck. Fünf Dellen.
+„Guck mal." Theo zeigte in den Hof. „Selbst der Baum sieht deprimiert aus."
+
+„Das ist ein normaler Baum."
+
+„Es ist Juli, Nora. Normale Bäume haben Blätter."
+
+Sie ging weiter. Zwei Kinderzimmer nebeneinander, frisch gestrichen. Der Farbgeruch überdeckte nicht, wie alt alles darunter war.
+
+Am Ende des Flurs lag das Wohnzimmer. Groß, mit einem Erker und einer Heizung, die vor sich hin tickte. Die Tapete hatte ein Muster aus winzigen Blumen. An einer Stelle war sie abgerissen, und darunter kam eine andere Tapete zum Vorschein. Noch älter. Noch dunkler. Und darunter war der Putz uneben. Wie ein Abdruck. Fünf Dellen.
 
 Theo tippte dagegen. „Das sieht aus wie eine Hand."
 
-„Das ist alter Putz."
+„Das ist alter Putz." Nora fuhr mit dem Finger über die Dellen. „Wahrscheinlich hat mal jemand was an die Wand gelehnt."
 
 „Alter Putz in Handform. Klar."
 
@@ -61,6 +69,8 @@ Theo tippte dagegen. „Das sieht aus wie eine Hand."
 Nora spürte es auch. Eine Kälte, die nicht zur Jahreszeit passte. Sie kroch über den Boden wie etwas Lebendiges.
 
 „Die alten Fenster", sagte sie. „Nicht richtig isoliert."
+
+Sie hörte selbst, wie dünn ihre Stimme klang. Wie ein Satz, den sie auswendig gelernt hatte, ohne ihn zu glauben.
 
 „Oder das Haus hasst uns."
 
@@ -90,7 +100,19 @@ Stille.
 
 Nur das Ticken der Heizung. Das Tropfen des Wasserhahns im Bad. Und irgendwo über ihnen ein leises Knarren, als würde jemand langsam über Dielen gehen.
 
-Gänsehaut kroch über Noras Arme. Sie schaute zur Decke. Über ihnen lag der zweite Stock. Die Wohnung mit dem Klingelschild, an dem sie vorhin vorbeigegangen waren. Vermutlich alte Rohre. Oder das Haus, das sich setzte. So etwas machten alte Häuser.
+Gänsehaut kroch über Noras Arme. Ein metallischer Geschmack lag auf ihrer Zunge.
+
+„Hast du das gehört?", flüsterte Theo.
+
+Nora schaute zur Decke. Über ihnen lag der zweite Stock. Die Wohnung mit dem vergilbten Klingelschild.
+
+„Altes Holz", sagte sie. „Das dehnt sich aus und zieht sich zusammen. Alte Häuser machen solche Geräusche."
+
+„Es hat sich angehört, als würde jemand laufen."
+
+„Hat es nicht."
+
+Es hatte es.
 
 „Großartig", sagte Theo. Er hatte sich auf einen Umzugskarton gesetzt und die Arme verschränkt. „Erster Tag. Fremde Stadt. Gruselwohnung. Und Mama ist weg."
 
@@ -162,7 +184,7 @@ Sie stellte die Schale hin. Der Hund trank. Lange. Gierig.
 
 „Übertreib nicht."
 
-Aber sie sagte es leiser als sonst. Man konnte jede Rippe unter dem Fell zählen. Sein Fell war stumpf und an den Seiten verfilzt, aber seine Augen waren klar. Wach. Fast zu wach für einen Streuner.
+Aber sie sagte es leiser als sonst. Man konnte jede Rippe unter dem Fell zählen. Sein Fell war stumpf und an den Seiten verfilzt, aber sein Blick war klar. Aufmerksam. Als würde er jedes Wort verstehen.
 
 Der Hund fraß den Käse in einem Bissen. Dann hob er den Kopf. Schaute Nora an. Schaute Theo an. Schaute zur Haustür.
 

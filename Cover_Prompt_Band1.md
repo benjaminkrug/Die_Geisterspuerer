@@ -178,3 +178,35 @@ Diese Elemente MUESSEN auf dem Cover sein:
 8. KEIN Blut, keine Monster, keine Gewalt, keine Totenkoepfe
 9. KEINE knalligen, froehlichen Farben
 10. KEINE sichtbaren Geister (nur Andeutungen: Nebel, Licht, Schatten)
+
+---
+
+## LESSONS LEARNED AUS V3 (Februar 2026)
+
+### Was in v3 gut funktioniert hat
+- Variante A (Kinder von hinten) ist die staerkste Komposition -- bestaetigt
+- Grundstimmung (mysterioes, einladend) trifft den richtigen Ton
+- Noras Teal-Hoodie funktioniert als Farbakzent
+- Schattens leuchtende Augen sind ein starker Blickfang
+- Kopfsteinpflaster im Vordergrund gibt der Szene Tiefe
+
+### Was in v3 fehlte oder falsch war (MUSS in v4 korrigiert werden)
+1. **"HILF" im Fenster fehlt komplett** -- KI-Generatoren ignorieren dieses Detail leicht. Loesung: Im Prompt als CRITICAL REQUIREMENT separat hervorheben. Falls KI es nicht rendert: in Photopea nachbearbeiten.
+2. **Stockwerk-Beleuchtung nicht differenziert** -- Alle Fenster zeigten aehnliches warmes Licht. Der kritische Kontrast warm (1.OG) vs. kalt-unheimlich (2.OG) fehlte. Loesung: Im Prompt als THREE-ZONE LIGHTING mit eigener Sektion beschreiben.
+3. **Kamerawinkel zu flach** -- Augenhoehe statt leicht von unten. Ergebnis: Gebaeude wirkt weniger bedrohlich, Kinder weniger heldenhaft. Loesung: Kamerawinkel als ERSTEN Punkt der Komposition betonen.
+4. **Theos Jacke braun statt olivgruen** -- KI interpretiert "bomber jacket" oft als braun. Loesung: Explizit "olive-green (NOT brown, NOT dark brown)" schreiben.
+5. **Stadtskyline fehlte** -- Kein Gravenstedt-Feeling. Loesung: Als separates Hintergrundelement beschreiben.
+6. **Nebel zu allgemein** -- Diffuser Dunst statt gezielter Ranken aus Tuer/Fenster. Loesung: Exakte Quellen und Richtungen der Nebelranken angeben.
+7. **Keine Geister-Andeutungen** -- Loesung: Als eigenes Element beschreiben mit Anweisung zur gewuenschten Subtilitaet.
+8. **Haustuer nicht erkennbar offen** -- Loesung: "Ajar with pitch darkness" als eigenen Bullet Point.
+
+### Typografie-Erkenntnisse
+- Generische weisse Schrift ist der groesste visuelle Schwachpunkt -- Typografie hat enormen Hebel
+- Der Blue-Glow-Effekt auf dem Serientitel erfordert den Canva-Duplikat-Trick (siehe Canva-Anleitung)
+- Bandtitel muss sich deutlich vom Serientitel abheben (Kursiv + Tuerkis vs. Block + Silber-Weiss)
+- "Band 1" als Badge statt Klartext wirkt professioneller
+
+### Technische Erkenntnisse
+- GPT-4o generiert nativ 1024x1536 px -- unter dem KDP-Optimum von 1575x2475 px
+- AI-Upscaling (Magnific, letsenhance) von 1024 auf 1575 ist ein Faktor von ~1.5x und liefert gute Ergebnisse
+- Aktualiserter Prompt: siehe `Cover_Prompt_Band1_v4.md`

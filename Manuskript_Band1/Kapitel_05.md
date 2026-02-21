@@ -2,7 +2,7 @@
 
 Schatten wartete.
 
-Er saß am Fuß der Treppe zum zweiten Stock. Aufrecht. Reglos. Die bernsteinfarbenen Augen auf Nora gerichtet. Sein Schwanz lag still auf dem Boden. Kein Wedeln. Kein Zucken. Nur dieses geduldige Warten, das sagte: Ich bin bereit. Seid ihr es auch?
+Er saß am Fuß der Treppe zum zweiten Stock. Aufrecht. Reglos. Sein Blick auf Nora gerichtet. Sein Schwanz lag still auf dem Boden. Kein Wedeln. Kein Zucken. Nur dieses geduldige Warten, das sagte: Ich bin bereit. Seid ihr es auch?
 
 Nora stand im Flur. Ihr Herz schlug schneller. Hinter ihr das Küchenfenster. Das Wort HIER. Der Pfeil nach oben.
 
@@ -36,7 +36,7 @@ Der zweite Stock. Der Flur. Die Tür mit dem Klingelschild SILBER.
 
 Sie stand offen. Einen Spalt breit. So wie beim ersten Mal. Nur war es diesmal anders.
 
-Diesmal war die Luft kühl. Nicht eisig wie beim letzten Mal. Eher wie ein Keller im Sommer.
+Diesmal war die Luft kühl. Nicht eisig wie beim letzten Mal. Eher wie ein Keller im Sommer. Nora schluckte. Da war ein metallischer Geschmack auf ihrer Zunge. Wie Münzen. Wie Blut nach einem Biss auf die Wange. Fremd und falsch.
 
 Nora blieb stehen. Sie legte die Hand an den Türrahmen. Das Holz war kühl, nicht kalt. Kein Frost unter den Fingerspitzen. Kein Atem, der dampfte.
 
@@ -72,7 +72,11 @@ Nora folgte ihm.
 
 Das Zimmer war klein. Vielleicht drei mal vier Meter. Die Fensterläden waren geschlossen, nur ein schmaler Streifen Nachmittagslicht fiel durch einen Spalt. In dem Lichtstreifen tanzten Staubkörner.
 
-An der Wand gegenüber dem Fenster: Bücher. Stapel aus Büchern, direkt auf dem Boden, an die Wand gelehnt. Alte Einbände, manche in Leder, manche in brüchigem Karton. Daneben ein kleiner Tisch, vollgestellt mit abgebrannten Kerzen. Das Wachs war in dicken Tropfen über die Tischkante gelaufen und am Holz erstarrt.
+An der Wand gegenüber dem Fenster: Bücher. Stapel aus Büchern, direkt auf dem Boden, an die Wand gelehnt. Alte Einbände, manche in Leder, manche in brüchigem Karton.
+
+„Was ist das alles?", flüsterte Theo.
+
+Nora trat näher. Daneben stand ein kleiner Tisch, vollgestellt mit abgebrannten Kerzen. Das Wachs war in dicken Tropfen über die Tischkante gelaufen und am Holz erstarrt.
 
 „Okay", flüsterte Theo. „Das sieht aus wie das Labor einer Hexe."
 
@@ -82,23 +86,37 @@ An der Wand gegenüber dem Fenster: Bücher. Stapel aus Büchern, direkt auf dem
 
 Nora trat näher. Ihr Blick wanderte über die Bücher. Die Titel waren verblasst. Sie konnte ein paar lesen. „Gravenstedt – eine Chronik." „Friedhofsregister 1830–1900." „Die Geschichte der Kirchgasse." Alte Bücher über die Stadt. Geschichtsbücher. Lokale Archive.
 
+„Theo, komm mal –"
+
+Sie drehte sich um. Theo war nicht da.
+
+„Theo?"
+
+Keine Antwort. Nur Staub. Nur Stille. Der Flur hinter der Tür lag dunkel und leer.
+
+Noras Herz schlug schneller. „Theo!" Lauter jetzt. Ihre Stimme hallte von den Wänden. Schatten hob den Kopf und spitzte die Ohren.
+
+Drei Sekunden. Vier. Fünf.
+
+Dann Schritte. Theo tauchte im Türrahmen auf, ein staubiges Glas in der Hand. „Was? Ich war nur in der Küche. Da stehen noch alte Gläser im –"
+
+„Sag Bescheid, wenn du weggehst!" Noras Stimme war schärfer als beabsichtigt. Ihr Herz hämmerte noch immer.
+
+Theo hob die Augenbrauen. „Ich war drei Meter weg."
+
+„Egal. Nicht allein. Nicht hier."
+
+Er stellte das Glas hin und nickte langsam. „Okay. Verstanden."
+
 Neben dem Bücherregal hing etwas an der Wand. Zettel. Dutzende. Mit Reißnägeln befestigt, in Reihen übereinander. Nora ging näher heran und kniff die Augen zusammen.
 
 Handschrift. Klein, krakelig, mit schwarzer Tinte geschrieben. Auf jedem Zettel stand ein Name. Daneben ein Datum. Manche hatten eine Adresse. Manche einen kurzen Satz, kaum lesbar.
 
 „Heinrich Voss, 1847, Mühlenweg 3."
 
-„Anna Brandt, 1862, Am Markt 7."
+„Wer schreibt so was auf?", murmelte Theo hinter ihr.
 
-„Karl Siebert, 1903, Friedhofsgasse."
-
-Nora las weiter. Name um Name. Die ältesten Zettel waren vergilbt, die Tinte fast unsichtbar.
-
-„Theo", sagte sie. „Komm mal her."
-
-Er trat neben sie. Sein Blick wanderte über die Wand.
-
-„Das sind alles Leute aus Gravenstedt", sagte Nora. „Namen und Daten. Manche gehen zurück bis –" Sie suchte den ältesten Zettel. Er hing ganz oben links, die Ecken eingerollt. „1840."
+Nora las weiter. Dutzende Namen. Die ältesten Zettel waren vergilbt, die Tinte fast unsichtbar. Manche gingen zurück bis 1840.
 
 „1840?", wiederholte Theo. „Das ist fast zweihundert Jahre her."
 
@@ -108,9 +126,9 @@ Theo starrte die Wand an. Er trat von einem Fuß auf den anderen. Dann sagte er 
 
 „Das ist wie eine Liste von Toten."
 
-Nora schluckte. Ihr Magen zog sich zusammen. Natürlich. Natürlich war es das. Keine Adressbücher. Keine Telefonlisten. Das waren Tote.
+Nora schluckte. Ein kalter Druck breitete sich in ihrer Brust aus. Natürlich. Natürlich war es das. Keine Adressbücher. Keine Telefonlisten. Das waren Tote.
 
-Aber warum? Warum hatte jemand diese Liste angelegt?
+„Aber warum?", sagte Theo. „Warum schreibt jemand eine Liste von Toten an die Wand?"
 
 Schatten lag mitten im Zimmer. Auf dem staubigen Boden, die Schnauze auf den Pfoten. Seine Augen folgten Nora. Ruhig. Wach. Als würde er warten, bis sie verstand.
 
@@ -126,7 +144,7 @@ Bernsteinfarbene Augen.
 
 Noras Finger begannen zu zittern. Sie drehte das Foto um. Auf der Rückseite stand in der gleichen krakeligen Handschrift: „M. Silber, 2019."
 
-Sie schaute zu Schatten. Der Hund auf dem Foto war jünger. Das Fell dichter, der Körper kräftiger. Aber die Augen. Die bernsteinfarbenen Augen. Die Art, wie er neben der Frau saß. Aufrecht. Geduldig.
+Sie schaute zu Schatten. Der Hund auf dem Foto war jünger. Das Fell dichter, der Körper kräftiger. Aber dieser Blick. Dieselbe Ruhe. Die Art, wie er neben der Frau saß. Aufrecht. Geduldig.
 
 „Theo."
 
@@ -142,9 +160,9 @@ Er kam und schaute über ihre Schulter. Dann wurde er still.
 
 „Das heißt, Schatten war ihr Hund."
 
-Nora nickte langsam. Ihr Herz schlug hart gegen die Rippen. Sie schaute zu Schatten auf dem Boden. Der Hund hob den Kopf und erwiderte ihren Blick. Seine bernsteinfarbenen Augen schimmerten im Halbdunkel.
+Nora nickte langsam. Ihr Herz schlug hart gegen die Rippen. Sie schaute zu Schatten auf dem Boden. Der Hund hob den Kopf und erwiderte ihren Blick.
 
-Er hatte die ganze Zeit gewusst, wo er war. Kein Zufall vor ihrer Tür. Kein Zufall auf der Treppe. Er war nach Hause gekommen. In die Wohnung seiner Besitzerin. Einer Frau, die seit drei Monaten vermisst wurde.
+Kein Zufall, dachte Nora. Kein Zufall vor unserer Tür. Kein Zufall auf der Treppe. Er war nach Hause gekommen.
 
 „Deswegen hat er uns hergeführt", sagte Nora. „Deswegen wartet er an der Treppe. Das hier war sein Zuhause."
 
@@ -172,7 +190,7 @@ Nora schnaubte. Fast ein Lachen. Theo schaute sie an und grinste schief. Selbst 
 
 Schatten hob plötzlich den Kopf. Ruckartig. Sein Fell sträubte sich am Nacken.
 
-Noras Lächeln verschwand. Ihre Nackenhaare stellten sich auf. Sie kannte dieses Zeichen. Schatten war das Frühwarnsystem. Wenn sein Fell sich sträubte, kam etwas.
+Noras Lächeln verschwand. Ihre Haut zog sich zusammen. Sie kannte dieses Zeichen. Schatten war das Frühwarnsystem. Wenn sein Fell sich sträubte, kam etwas.
 
 Der Hund starrte zur Tür. Seine Ohren standen steil nach vorn. Sein Körper war angespannt, jeder Muskel sichtbar unter dem dunklen Fell.
 
@@ -186,7 +204,7 @@ Schritte. Kleine Schritte. Kinderfüße auf Holzboden.
 
 Rennend.
 
-Noras Herz hämmerte. Ihre Beine wurden starr. Die Schritte kamen näher, patterten über die Dielen, links, rechts, links, schnell, schneller –
+Noras Puls raste. Ihre Beine wurden starr. Die Schritte kamen näher, patterten über die Dielen, links, rechts, links, schnell, schneller –
 
 Und hörten auf.
 

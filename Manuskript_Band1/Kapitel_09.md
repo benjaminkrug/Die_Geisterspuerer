@@ -4,7 +4,7 @@ Die Kälte traf Nora wie ein Schlag.
 
 Sie saß auf dem Boden, das Tagebuch auf den Knien. Die Glühbirne flackerte, dann brannte sie wieder normal. Schatten winselte neben Theo.
 
-Noras Herz hämmerte. Mädchenschrift auf der ersten Seite. Lila Tinte.
+Noras Puls pochte in ihren Schläfen. Mädchenschrift auf der ersten Seite. Lila Tinte.
 
 *Linas Tagebuch*
 
@@ -34,9 +34,9 @@ Nora stockte. Zwölf. Wie sie.
 
 Schatten hob den Kopf. Seine Ohren richteten sich nach vorn.
 
-Die nächsten Einträge waren kurz. Schultage. Freundinnen. Zuckerwatte vom Jahrmarkt. Normales Mädchenleben. Mit jedem Eintrag formte sich ein Bild.
+Die nächsten Einträge waren kurz. Schultage. Freundinnen. Zuckerwatte vom Jahrmarkt. Ein Eintrag über einen Ausflug aufs Dach mit einer Taschenlampe, weil Lina Sterne zählen wollte. Sie hatte die Sternbilder aufgezeichnet, kleine Punkte mit lila Tinte, verbunden durch wackelige Linien. Daneben stand: „Wenn ich groß bin, will ich Astronomin werden. Oder Tierärztin. Oder beides." Normales Mädchenleben. Mit jedem Eintrag formte sich ein Bild.
 
-„Sie klingt nett", sagte Theo leise. „Zuckerwatte. Hund. Freundinnen." Er strich Schatten über den Kopf. „Sie hatte wenigstens einen Hund."
+„Sie klingt nett", sagte Theo leise. „Zuckerwatte. Sterne. Hund." Er strich Schatten über den Kopf. „Sie hatte wenigstens einen Hund."
 
 „Ja." Noras Stimme war rau. „Sie klingt wie jemand, den man kennen möchte."
 
@@ -64,7 +64,7 @@ Sie las weiter. Ihre Stimme wurde leiser.
 
 „Im Takt", wiederholte Theo. Seine Stimme klang dünn. „Wie das Klopfen. Bei uns."
 
-Nora nickte. Ihr Mund war trocken.
+Nora nickte. Ihre Zunge klebte am Gaumen.
 
 „*29. September. Mein Schreibtischstuhl stand heute Morgen am Fenster. Ich hab ihn nicht dahin gestellt. Mama sagt, ich war schlafwandeln. Ich bin noch nie geschlafwandelt.*"
 
@@ -77,6 +77,16 @@ Die Einträge wurden kürzer. Knapper. Die runden Buchstaben enger zusammengerü
 „*5. Oktober. Luna weigert sich, in mein Zimmer zu kommen. Sie steht an der Schwelle und winselt. Ich schlafe jetzt bei ihr im Wohnzimmer.*"
 
 Schatten hob den Kopf. Nur kurz. Dann legte er ihn wieder auf die Pfoten. Seine Augen blieben auf Nora gerichtet.
+
+„Das ist genau wie bei uns", sagte Theo leise. „Luna hat sich genauso verhalten wie Schatten."
+
+„Ich weiß." Nora schluckte. „Genau gleich."
+
+„Und ihre Eltern haben es auf die Heizung geschoben." Theo schüttelte den Kopf. „Wie du mit den Wasserrohren."
+
+Nora sagte nichts. Weil er recht hatte.
+
+Sie las weiter.
 
 „*10. Oktober. Ich hab es Hanna erzählt. Sie hat gelacht. Sie sagt, ich gucke zu viele Gruselfilme. Ich gucke keine Gruselfilme. Ich lebe in einem.*"
 
@@ -94,11 +104,19 @@ Theos Kinn zitterte. Nora sah es. Sie hörte, wie er die Luft anhielt. Aber sie 
 
 „*23. Oktober. Heute Nacht hat sich die Tür von allein geöffnet. Langsam. Ich habe zugeschaut. Niemand stand davor. Aber die Kälte kam rein wie eine Welle. Luna hat geschrien. Richtig geschrien. Wie ein Mensch.*"
 
-Nora schloss die Augen. Einen Moment lang. Hinter ihren Lidern sah sie ein Mädchen. Zwölf Jahre alt. Allein in einem dunklen Zimmer. Niemand glaubte ihr.
+Nora schloss die Augen. Einen Moment lang. Hinter ihren Lidern sah sie ein Mädchen. Zwölf Jahre alt. Allein in einem dunklen Zimmer.
 
-Genau wie sie. Genau wie Nora, als Theo von Geistern sprach und sie es wegwischte. Als sie sagte: Wasserrohre. Einbildung. Es gibt eine Erklärung.
+„Theo?"
 
-Lina hatte das Gleiche gehört. Von allen.
+„Ja."
+
+„Es tut mir leid." Ihre Stimme war brüchig. „Dass ich dir nicht geglaubt habe. Als du gesagt hast, da stimmt was nicht. Ich hab dich abgewürgt. Genau wie Linas Eltern."
+
+Theo war still. Dann sagte er: „Hättest du mir geglaubt, hätte ich mich wahrscheinlich noch mehr erschreckt."
+
+Fast ein Lachen. Fast.
+
+Ein heißer Stich fuhr durch ihre Brust. Schuld. Heiß und scharf.
 
 Nora öffnete die Augen. Ihre Hände waren eiskalt. In ihrer Brust saß ein Druck, schwer und eng.
 
@@ -186,6 +204,6 @@ Theo sah ihr direkt in die Augen.
 
 Schatten hob den Kopf. Seine Ohren drehten sich nach vorn. Unter ihren Füßen, tief im Haus, knackte etwas.
 
-Nora schloss das Tagebuch. Ihre Finger zitterten.
+Nora schloss das Tagebuch. Ihre Hände waren steif.
 
 „Das", sagte sie leise, „müssen wir herausfinden."

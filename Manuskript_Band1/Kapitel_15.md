@@ -16,17 +16,7 @@ Und darunter eine Notiz. Zwei Worte. Bleistift, klein und hastig hingekritzelt.
 
 „Wütend Punkt Grab Punkt", las Theo. „Na, toll. Das klingt gemütlich."
 
-Nora fuhr mit dem Finger zur nächsten Markierung. Die alte Fabrik am Fluss. *Marta K. – 1912*. Daneben die Notiz: *Sucht. Feuer.*
-
-„Sucht Feuer", murmelte Theo. „Sucht sie Feuer? Oder hat sie ein Feuer gesucht? Oder brennt sie?"
-
-„Ich weiß es nicht." Nora schüttelte den Kopf. „Das sind Frau Silbers Notizen. Sie hat das für sich selbst geschrieben. Nicht für uns."
-
-Theo lehnte sich vor. Seine Augen sprangen über die Karte. „Lies die anderen."
-
-Nora las weiter. U-Bahn-Station Marktplatz. *Ernst W. – 1938*. Notiz: *Wartet. Zug.*
-
-Stadtpark. *Clara B. – 1889*. Notiz: *Kind. Verloren.*
+Nora fuhr mit dem Finger weiter. Stadtpark. *Clara B. – 1889*. Notiz: *Kind. Verloren.*
 
 „Kind verloren", wiederholte Theo leise. Sein Grinsen war weg.
 
@@ -38,9 +28,7 @@ Theos Kopf schnellte hoch. „Bitte sag mir, es gibt keinen Geist in meiner Schu
 
 „Noch nicht."
 
-Nora las die restlichen Einträge vor. Kirche. Brücke. Rathaus. Marktplatz. Gerberei. Wasserturm. Sechs weitere Namen. Sechs weitere Geschichten. Die älteste von 1843.
-
-„Der Wasserturm", murmelte Theo. „Da waren wir letzte Woche." Er schluckte. „Da gehe ich nie wieder hin."
+Nora fuhr mit dem Finger über die restlichen Markierungen. Fabrik. Kirche. Brücke. Rathaus. Jede mit einem Namen und einer kryptischen Notiz. Die älteste von 1843.
 
 ---
 
@@ -54,7 +42,7 @@ Nora lehnte sich zurück. Ihr Nacken war steif. Elf Markierungen, elf kryptische
 
 „Seit 1938."
 
-Stille.
+Die Worte blieben in der Luft hängen wie Staub im Sonnenlicht.
 
 Schatten hob den Kopf. Er spitzte die Ohren, legte sie wieder an und ließ den Kopf auf die Pfoten sinken. Die Wohnung war still. Kein Klopfen. Keine Kälte. Nur Staub und Sonnenlicht.
 
@@ -68,7 +56,7 @@ Theo stieß sie an. „Nora. Schau dir den Rand an."
 
 ---
 
-Nora schaute hin. Und ihr Magen zog sich zusammen.
+Nora schaute hin. Ein Stich fuhr durch ihren Magen.
 
 Am rechten Rand der Karte war eine weitere Markierung. Aber sie sah anders aus als die anderen. Kein kleiner schwarzer Kreis. Ein großer roter Kreis. Doppelt umrandet. Die rote Tinte war dicker als die schwarze. Dunkler. Sie sah aus wie getrocknetes Blut.
 
@@ -78,7 +66,7 @@ Nur ein einziges Wort in Großbuchstaben.
 
 GRAVEN.
 
-Noras Mund wurde trocken. Sie starrte auf die rote Markierung. Ihre Finger kribbelten.
+Noras Kehle wurde eng. Sie starrte auf die rote Markierung. Ihre Finger kribbelten.
 
 „Was ist Graven?", sagte Theo. Er sprach leise, als hätte das Wort Gewicht. Als könnte es etwas auslösen, wenn man zu laut sprach.
 
@@ -112,9 +100,7 @@ Die Bibliothekarin am Empfang schaute über ihre Lesebrille. „Schon wieder ihr
 
 „Wir lieben Bücher", sagte Theo. „Können nicht genug kriegen."
 
-Nora ging direkt zur Abteilung Stadtgeschichte. Zwei Regale an der Rückwand. Dünne Bände, dicke Ordner, gebundene Chroniken. Sie zog den erstbesten Band heraus: *Gravenstedt – Eine Stadtchronik*.
-
-Theo nahm sich einen anderen: *Geschichte der Altstadt*.
+Nora ging direkt zur Abteilung Stadtgeschichte. Dünne Bände, dicke Ordner, gebundene Chroniken. Sie zog einen Band heraus: *Gravenstedt – Eine Stadtchronik*.
 
 Sie setzten sich an einen Tisch in der Ecke. Schatten legte sich unter den Tisch. Seine warme Flanke drückte gegen Noras Fuß.
 
@@ -126,9 +112,9 @@ Ein Absatz. Drei Sätze.
 
 „Alwin Graven", las Nora laut. „Begründer von Gravenstedt. 1823." Sie schaute Theo an. „Das war's. Mehr steht hier nicht."
 
-„Lass mich suchen." Theo blätterte durch seinen Band. Schnell. Ungeduldig. Er fuhr mit dem Finger über die Seiten. „Graven, Graven, Graven … Hier. Eine Fußnote." Er drehte das Buch, damit Nora lesen konnte.
+„Lass mich suchen." Theo blätterte schnell durch einen anderen Band. „Graven, Graven … Hier. Eine Fußnote." Er drehte das Buch, damit Nora lesen konnte.
 
-*Anm.: Zu Alwin Graven existieren kaum historische Quellen. Die Stadtarchive aus der Gründungszeit gingen bei einem Brand 1871 verloren.*
+*Zu Alwin Graven existieren kaum Quellen. Die Stadtarchive gingen 1871 bei einem Brand verloren.*
 
 „Brand", murmelte Nora. „Die Unterlagen sind verbrannt."
 
@@ -154,7 +140,7 @@ Nora stellte die Bücher zurück.
 
 Sie traten nach draußen. Lange Schatten fielen über den Gehsteig. Die Luft roch nach nassen Blättern und kaltem Stein.
 
-Nora ging drei Schritte.
+Nora ging drei Schritte. Die Geräusche der Stadt wurden leiser. Das Rauschen der Autos. Die Stimmen von der Kreuzung. Als hätte jemand den Ton runtergedreht. Ein metallischer Geschmack legte sich auf ihre Zunge.
 
 Dann merkte sie, dass Schatten nicht mitkam.
 
@@ -164,7 +150,7 @@ Sie drehte sich um. Der Hund stand auf dem Gehsteig vor der Bibliothek. Reglos. 
 
 Schatten rührte sich nicht. Er starrte geradeaus. Über die Straße. Auf den alten Friedhof.
 
-Noras Nackenhaare stellten sich auf. Langsam. Wie Nadeln, die aus der Haut wachsen.
+Ein Kribbeln breitete sich über Noras Nacken aus. Langsam. Wie Nadeln unter der Haut.
 
 Schattens Fell sträubte sich. Vom Nacken bis zum Schwanz. Sein Körper wurde starr. Sein Knurren kam tief aus der Brust. Leise. Vibrierend. Ein Geräusch, das Nora in den Knochen spürte.
 
@@ -186,7 +172,7 @@ Starrte direkt zu ihnen herüber.
 
 Schatten knurrte lauter. Sein ganzer Körper zitterte. Theo hielt die Leine mit beiden Händen. Seine Knöchel waren weiß.
 
-Noras Knie wurden weich. Ihr Mund war staubtrocken.
+Noras Beine wurden schwer. Ein saurer Geschmack legte sich auf ihre Zunge.
 
 Die Gestalt hob den Kopf. Langsam. Als hätte sie alle Zeit der Welt.
 
@@ -194,10 +180,10 @@ Dann war sie weg. Von einer Sekunde auf die andere. Wie eine Flamme, die man aus
 
 „Nora." Theos Stimme war dünn wie Papier. „War das –"
 
-„Ja", flüsterte Nora. Ihr Herz hämmerte. „Das war einer von ihnen."
+„Ja", flüsterte Nora. Ihr ganzer Körper war angespannt wie eine Feder. „Das war einer von ihnen."
 
 Heinrich M. Wütend. Grab.
 
-Nora griff nach Theos Arm. Ihre Finger zitterten. Der Friedhof lag still in der Abendsonne. Alles sah aus wie immer.
+Nora griff nach Theos Arm. Ihre Hand schloss sich fest um seinen Ärmel. Der Friedhof lag still in der Abendsonne. Alles sah aus wie immer.
 
 Aber dort drüben wartete jemand. Und er hatte sie gesehen.

@@ -6,7 +6,7 @@ Die Kellerstufen flogen unter ihren Füßen vorbei. Ihre Lunge brannte. Hinter i
 
 Sie riss die Haustür zum Treppenhaus auf und stolperte in den Flur. Tageslicht. Warme Luft. Staub in den Sonnenstrahlen.
 
-Nora blieb stehen. Sie stützte die Hände auf die Knie und atmete. Ihr Herz hämmerte so laut, dass sie es in den Ohren hörte.
+Nora blieb stehen. Sie stützte die Hände auf die Knie und atmete. Ihr Puls dröhnte in den Ohren.
 
 Theo kam hinter ihr heraus. Schatten dicht an seiner Seite. Die Kellertür fiel hinter ihnen zu. Das Geräusch hallte durchs Treppenhaus wie ein Schuss.
 
@@ -14,7 +14,7 @@ Theo kam hinter ihr heraus. Schatten dicht an seiner Seite. Die Kellertür fiel 
 
 Theo starrte sie an. „Was?"
 
-„Wir hören auf, Theo." Nora richtete sich auf. Ihre Hände zitterten. Sie verschränkte die Arme, damit er es nicht sah. „Das da unten – die Fußspuren – das ist zu viel. Wir sind Kinder. Das ist nichts für uns."
+„Wir hören auf, Theo." Nora richtete sich auf. Ihre Finger kribbelten. Sie verschränkte die Arme, damit er es nicht sah. „Das da unten – die Fußspuren – das ist zu viel. Wir sind Kinder. Das ist nichts für uns."
 
 Theo schüttelte den Kopf. Langsam. Bestimmt.
 
@@ -30,7 +30,7 @@ Nora blinzelte. „Nein?"
 
 Der Name hing in der Luft. Schwer. Still.
 
-Noras Magen zog sich zusammen. Sie schluckte. „Lina ist –"
+Ein Knoten bildete sich unter Noras Rippen. Sie schluckte. „Lina ist –"
 
 „Lina ist immer noch da unten." Theos Stimme wurde lauter. „Allein. So wie die letzten fünfzig Jahre. Und wir sind die Einzigen, die es wissen."
 
@@ -48,11 +48,11 @@ Nora presste die Lippen zusammen. Die Kälte aus dem Keller saß noch in ihren K
 
 „Ich habe immer noch Angst." Er sah ihr in die Augen. Direkt. Ohne Ausweichen. „Aber Lina hatte auch Angst. Und bei ihr war niemand."
 
-Stille.
+Nur Schattens Atem. Langsam und gleichmäßig.
 
 Nora öffnete den Mund. Schloss ihn wieder. Sie hatte kein Argument. Nicht gegen die Wahrheit.
 
-Schatten trottete an ihr vorbei. Langsam, ruhig. Er legte sich vor Noras Füße. Direkt auf ihre Schuhe. Dann hob er den Kopf und schaute sie an. Seine bernsteinfarbenen Augen waren warm. Geduldig. Er legte die Schnauze auf ihre Schuhspitzen und seufzte.
+Schatten trottete an ihr vorbei. Langsam, ruhig. Er legte sich vor Noras Füße. Direkt auf ihre Schuhe. Dann hob er den Kopf und schaute sie an. Sein Blick war warm. Geduldig. Er legte die Schnauze auf ihre Schuhspitzen und seufzte.
 
 Als würde er sagen: Ich bin hier. Wir schaffen das.
 
@@ -94,9 +94,9 @@ Schatten ging voraus. Er trottete durch den Flur, die Nase am Boden. Kein Knurre
 
 Er hob die Hände. „Ich suche ja schon."
 
-Nora zog die Schubladen des Schreibtischs auf. Stifte. Kerzen. Lose Zettel. Nichts, das half. Keine Anleitung. Kein Handbuch.
+Nora zog die Schubladen des Schreibtischs auf. Stifte. Kerzen. Lose Zettel. Nichts, das half.
 
-Theo kniete vor dem Bücherregal. Er zog Bücher heraus und schob sie zurück. „Stadtgeschichte Gravenstedt. Friedhöfe Norddeutschlands. Jenseitsvorstellungen im Mittelalter." Er hielt inne. „Frau Silber hatte wirklich gruselige Hobbys." Er hielt ein Buch hoch. „*Gespräche mit dem Jenseits*. Die hatte eine Standleitung."
+Theo kniete vor dem Bücherregal. Er zog Bücher heraus und schob sie zurück. „Stadtgeschichte Gravenstedt. Friedhöfe Norddeutschlands." Er hielt inne. „Frau Silber hatte wirklich gruselige Hobbys." Er hielt ein Buch hoch. „*Gespräche mit dem Jenseits*. Die hatte eine Standleitung."
 
 „Konzentrier dich."
 
@@ -160,11 +160,11 @@ Theo erstarrte.
 
 „‚Der Schleier wird dünner. Ich spüre es. Nachts, wenn ich die Augen schließe. Etwas zieht an mir. Leise. Aber es wird stärker.'"
 
-Noras Finger wurden kalt. Die Luft im Zimmer schien dichter zu werden.
+Noras Finger wurden kalt. Die Luft im Zimmer wurde dichter. Schwerer. Wie eine unsichtbare Hand, die sich auf ihre Schultern legte. Der Druck drückte gegen ihre Schläfen.
 
 „‚Und ich spüre IHN. Den Ersten. Er ist anders als die Unruhigen. Er wartet nicht. Er sucht.'"
 
-Stille. Vollkommen. Nicht einmal Schatten atmete hörbar.
+Vollkommene Lautlosigkeit. Nicht einmal Schatten atmete hörbar.
 
 Theo flüsterte: „Wer ist der Erste?"
 
@@ -172,7 +172,7 @@ Nora starrte auf die Seite. Die letzten Worte. Zittrige blaue Tinte auf vergilbt
 
 Frau Silber hatte nie wieder geschrieben.
 
-Nora schloss das Notizbuch. Ihre Hände zitterten. Die Luft im Zimmer wurde schwerer. Dichter. Als drücke etwas von außen gegen die Wände.
+Nora schloss das Notizbuch. Ihre Finger waren steif. Die Luft im Zimmer wurde schwerer. Dichter. Als drücke etwas von außen gegen die Wände.
 
 „Ich weiß es nicht", sagte sie leise. „Aber Frau Silbers Hand hat gezittert, als sie über ihn geschrieben hat."
 
@@ -193,3 +193,7 @@ Nora antwortete nicht. Sie drückte das Notizbuch an ihre Brust und starrte auf 
 Wer war der Erste?
 
 Und was hatte er mit Frau Silber gemacht?
+
+Irgendwo in der Wohnung klickte ein Geräusch. Leise. Wie eine Tür, die ins Schloss fiel.
+
+Schatten knurrte.

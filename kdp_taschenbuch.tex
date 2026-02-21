@@ -1,0 +1,126 @@
+% KDP Taschenbuch Template - 5x8 Zoll
+% Die Geisterspürer Band 1
+\documentclass[11pt]{book}
+
+% Page geometry: 5x8 inches with KDP margins
+\usepackage[
+  paperwidth=5in,
+  paperheight=8in,
+  inner=0.75in,
+  outer=0.5in,
+  top=0.5in,
+  bottom=0.625in,
+  includehead=false,
+  includefoot=true
+]{geometry}
+
+% Font setup (XeLaTeX)
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Bonum}[
+  Ligatures=TeX,
+  Scale=1.0
+]
+
+% German language support
+\usepackage{polyglossia}
+\setmainlanguage{german}
+
+% Typography
+\usepackage{microtype}
+\usepackage{setspace}
+\onehalfspacing
+
+% Paragraph formatting
+\setlength{\parindent}{1.2em}
+\setlength{\parskip}{0pt}
+
+% No headers, page numbers centered at bottom
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Plain style for chapter pages
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \fancyfoot[C]{\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+% Chapter formatting
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\normalfont\Large\bfseries\centering}
+  {}
+  {0pt}
+  {}
+\titlespacing*{\chapter}{0pt}{50pt}{30pt}
+
+% Section formatting (for back matter headings)
+\titleformat{\section}
+  {\normalfont\large\bfseries\centering}
+  {}
+  {0pt}
+  {}
+\titlespacing*{\section}{0pt}{20pt}{15pt}
+
+\titleformat{\subsection}
+  {\normalfont\normalsize\bfseries\centering}
+  {}
+  {0pt}
+  {}
+\titlespacing*{\subsection}{0pt}{15pt}{10pt}
+
+% Remove chapter numbering
+\setcounter{secnumdepth}{-1}
+
+% Scene break command
+\newcommand{\scenebreak}{%
+  \par\vspace{1em}%
+  \noindent\hfill✦\hspace{1em}✦\hspace{1em}✦\hfill\null%
+  \par\vspace{1em}%
+  \noindent%
+}
+
+% Custom environments for front matter
+\usepackage{environ}
+
+% For centering blocks
+\newenvironment{centerblock}{%
+  \begin{center}%
+}{%
+  \end{center}%
+}
+
+% No orphans/widows
+\widowpenalty=10000
+\clubpenalty=10000
+
+% Links (invisible in print)
+\usepackage[hidelinks]{hyperref}
+
+% For vertical space
+\newcommand{\vspacecm}[1]{\vspace{#1}}
+
+% Graphics (if needed)
+\usepackage{graphicx}
+
+% Begin document
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$for(author)$$author$$sep$ \and $endfor$}
+$endif$
+
+\begin{document}
+
+% Front matter - roman numerals, no page numbers shown
+\frontmatter
+\pagestyle{empty}
+
+$body$
+
+\end{document}

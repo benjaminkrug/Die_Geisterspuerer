@@ -2,7 +2,7 @@
 
 Das Knurren hörte nicht auf. Es vibrierte in Noras Brust, dumpf und tief.
 
-Der Hund saß vor der Tür mit dem Klingelschild SILBER und rührte sich nicht. Sein dunkles Fell stand am Nacken ab. Seine bernsteinfarbenen Augen waren auf die Tür gerichtet. Nur auf die Tür.
+Der Hund saß vor der Tür mit dem Klingelschild SILBER und rührte sich nicht. Sein dunkles Fell stand am Nacken ab. Sein Blick war starr auf die Tür gerichtet. Nur auf die Tür.
 
 Theo griff nach Noras Arm. Seine Finger waren kalt.
 
@@ -42,7 +42,7 @@ Noras Magen zog sich zusammen. Aber sie ging weiter. Am Flurende lag ein Raum. D
 
 Kälte.
 
-Sie schlug Nora entgegen wie eine Wand. Von einem Schritt zum nächsten sank die Temperatur um zehn Grad. Vielleicht mehr. Noras Haut zog sich zusammen. Gänsehaut raste über ihre Arme, ihren Nacken, den ganzen Rücken hinunter.
+Sie schlug Nora entgegen wie eine Wand. Von einem Schritt zum nächsten sank die Temperatur um zehn Grad. Vielleicht mehr. Noras Haut zog sich zusammen. Gänsehaut raste über ihre Arme, ihren Nacken, den ganzen Rücken hinunter. Ihre Finger wurden taub. In Sekunden.
 
 Die Luft im Flur war plötzlich so kalt, dass jeder Atemzug in der Lunge brannte. Wie im Winter. Wie draußen, bei Minusgraden. Nur dass es Juli war und die Sonne durch die Küchenfenster geschienen hatte.
 
@@ -66,7 +66,7 @@ Im Juli. Im Hochsommer.
 
 Nora biss sich auf die Lippe. Sie wollte etwas Vernünftiges sagen. Kalte Leitungen. Bauliche Mängel. Zugluft durch unsichtbare Ritzen.
 
-Aber ihr Herz hämmerte, und ihre Hände zitterten. Und der Hund saß vor ihr wie eine Mauer aus dunklem Fell und bernsteinfarbenen Augen, die sagten: Nicht weiter.
+Aber ihr Herz hämmerte, und ihre Hände zitterten. Und der Hund saß vor ihr wie eine Mauer aus dunklem Fell und einem Blick, der sagte: Nicht weiter.
 
 „Gut", sagte sie. „Wir gehen."
 
@@ -118,7 +118,7 @@ Theo zuckte die Schultern. „Vielleicht ein paar."
 
 „Theo."
 
-Der Hund stand auf, trottete zu ihrer Mutter und legte seinen Kopf an ihr Knie. Bernsteinfarbene Augen, nach oben gerichtet. Ruhig. Geduldig.
+Der Hund stand auf, trottete zu ihrer Mutter und legte seinen Kopf an ihr Knie. Sein Blick wanderte nach oben. Ruhig. Geduldig.
 
 Noras Mutter seufzte. „Vorläufig."
 
@@ -130,9 +130,11 @@ Theo riss die Faust in die Luft. „Ja!"
 
 Nora lehnte am Türrahmen und beobachtete den Hund. Er hatte sich neben Theo gelegt. Sein Schwanz schlug langsam auf den Boden. Eins. Zwei. Eins. Zwei.
 
+Irgendetwas an diesem Hund zog sie an. Das war nicht logisch. Es war ein fremder Streuner. Dreckig, dünn, voller Flöhe. Trotzdem hatte sie das Gefühl, er gehörte hierher. Zu ihnen. Und das machte ihr fast mehr Angst als die Kälte oben.
+
 „Wie nennen wir ihn?", sagte ihre Mutter.
 
-Theo legte den Kopf schief. Er schaute den Hund an. Das dunkle Fell, die bernsteinfarbenen Augen, die Art, wie er sich bewegte. Leise. Lautlos.
+Theo legte den Kopf schief. Er schaute den Hund an. Das dunkle Fell, die hellen Augen, die Art, wie er sich bewegte. Leise. Lautlos.
 
 „Schatten", sagte Theo.
 
@@ -142,7 +144,7 @@ Nora nickte langsam. Der Name passte. Perfekt.
 
 ---
 
-Sie aßen Pizza zwischen Umzugskartons. Ihre Mutter erzählte vom ersten Tag in der Agentur. Von der Chefin, die „dynamisch" war. Von dem Kaffeeautomaten, der nur heißes Wasser ausspuckte. Nora hörte zu und nickte an den richtigen Stellen. Aber ihre Gedanken waren oben. Im zweiten Stock. Bei dem Raum, der so kalt war, dass ihr Atem dampfte.
+Sie aßen Pizza zwischen Umzugskartons. Ihre Mutter erzählte vom ersten Tag in der Agentur. Nora nickte an den richtigen Stellen. Aber ihre Gedanken waren oben. Im zweiten Stock. Bei dem Raum, der so kalt war, dass ihr Atem dampfte.
 
 Nach dem dritten Stück fielen ihrer Mutter die Augen zu.
 
@@ -162,11 +164,13 @@ Theo fütterte Schatten mit einer halben Scheibe Salami. Der Hund schluckte sie 
 
 Nora schüttelte den Kopf. Aber sie lächelte. Ein bisschen. Der erste echte Moment seit ihrer Ankunft, in dem sich etwas wie Zuhause anfühlte. Schatten lag zwischen ihnen auf dem Boden, den Kopf auf den Pfoten.
 
-Ihre Mutter schlief auf der Couch ein. Theo trug seinen Teller in die Küche. Nora blieb sitzen und schaute aus dem Fenster. Die Kirchgasse lag still im Abendlicht. Warme Luft drang herein.
+Ihre Mutter schlief auf der Couch ein. Innerhalb von Sekunden. So war es seit dem Umzug. Sie arbeitete, bis sie umfiel, und schlief dann so tief, dass man neben ihr staubsaugen konnte.
 
-Warm. Überall warm. Außer oben. Außer in diesem einen Raum, hinter der Tür, vor der Schatten sich geweigert hatte.
+Nora blieb sitzen und schaute aus dem Fenster. Die Kirchgasse lag still im Abendlicht. Warme Luft drang herein.
 
-Nora rieb sich die Arme. Sie spürte die Kälte noch immer auf der Haut.
+Warm. Überall warm. Außer oben. Außer in diesem einen Raum, vor dem Schatten sich geweigert hatte.
+
+Aus dem Augenwinkel sah sie etwas. Ein Flackern an der Wand, wie ein Schatten, der sich ohne Lichtquelle bewegte. Sie drehte den Kopf. Nichts. Nur die leere Wand im Abendlicht.
 
 ---
 

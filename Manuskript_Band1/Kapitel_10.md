@@ -32,7 +32,7 @@ Sie hatte es schon beim Einzug gesehen. Der vordere Keller war renoviert. Beton,
 
 Der Gang machte einen Knick nach links. Und plötzlich war der Beton weg.
 
-Steinwände. Grob, uneben, feucht. Die Decke sackte tiefer. Nora musste den Kopf nicht einziehen, aber das Gefühl war da. Als würde der Keller sie drücken. Kleiner machen.
+Steinwände. Grob, uneben, feucht. Die Decke sackte tiefer. Ein Druck legte sich auf ihre Ohren. Wie beim Tauchen im Schwimmbad.
 
 Theo blieb stehen. „Ich will das mal offiziell festhalten: Das hier ist genau die Art von Ort, an dem in jedem Film etwas Schreckliches passiert."
 
@@ -40,7 +40,15 @@ Theo blieb stehen. „Ich will das mal offiziell festhalten: Das hier ist genau 
 
 „Stimmt. Im Film gibt es wenigstens Hintergrundmusik. Dann weiß man, wann es gefährlich wird."
 
-Nora ging weiter. Der alte Keller war kleiner. Drei Räume, durch niedrige Durchgänge verbunden. Spinnweben hingen von der Decke. Irgendwo tropfte es. Regelmäßig. Wie ein langsamer Herzschlag.
+Nora ging weiter. Der alte Keller war kleiner. Drei Räume, durch niedrige Durchgänge verbunden. Spinnweben hingen von der Decke. Irgendwo tropfte es. Regelmäßig. Wie ein langsamer Herzschlag. Auf ihrer Zunge lag ein metallischer Geschmack. Wie Blut. Wie alte Münzen.
+
+Nora drehte sich um. Theo war weg.
+
+Ihr Magen verkrampfte sich. „Theo?" Ihre Stimme hallte von den Steinwänden zurück. Nichts. Nur das Tropfen. Zwei Sekunden lang war sie allein. Zwei Sekunden, die sich anfühlten wie Minuten.
+
+Dann tauchte er hinter dem Durchgang auf. „Bin hier. Bin nur gegen einen Karton gestoßen."
+
+Nora atmete aus. Ihre Knie zitterten.
 
 Schatten blieb stehen.
 
@@ -50,7 +58,7 @@ Er winselte.
 
 Nicht das kurze, hohe Winseln von vorhin beim Tagebuch. Das hier war anders. Tief. Lang. Ein Laut, der aus seinem ganzen Körper kam. Als hätte er Schmerzen.
 
-Noras Nackenhaare stellten sich auf. Alle auf einmal. Wie ein elektrischer Schlag.
+Noras Haut wurde eng. Wie ein elektrischer Schlag.
 
 „Schatten?" Theos Stimme zitterte. „Was ist los, Kumpel?"
 
@@ -58,13 +66,13 @@ Der Hund winselte weiter. Er wich nicht zurück. Er rannte nicht weg. Er stand v
 
 Nora hob das Handy. Der Lichtstrahl fiel auf die Wand.
 
-Ihr Magen zog sich zusammen.
+Ein Druck legte sich auf ihre Brust.
 
-Risse. Überall. Dutzende dünne Linien, die sich über den Stein zogen. Aber keine natürlichen Risse. Nicht die Art, die Feuchtigkeit oder Alter verursachten. Diese Linien waren parallel. In Gruppen. Jeweils vier nebeneinander, mit Abständen.
+Risse. Überall. Dutzende dünne Linien, die sich über den Stein zogen. Aber keine natürlichen Risse. Diese Linien waren parallel. In Gruppen. Jeweils vier nebeneinander.
 
-Wie Finger. Wie jemand, der mit den Fingern über den Stein gekratzt hatte. Immer und immer wieder.
+Wie Finger. Wie jemand, der mit den Fingern über den Stein gekratzt hatte.
 
-Noras Mund wurde trocken. Sie trat näher. Die Kratzer waren alt. Tief in den Stein gegraben, aber die Kanten waren weich, abgerundet von Jahrzehnten Feuchtigkeit. Fünfzig Jahre. Diese Kratzer waren fünfzig Jahre alt.
+Nora spürte einen sauren Geschmack im Mund. Die Kratzer waren alt. Abgerundet von Jahrzehnten Feuchtigkeit. Fünfzig Jahre alt.
 
 „Nora." Theos Stimme war kaum ein Flüstern. Er stand direkt hinter ihr. Sie spürte seine Hand an ihrem Ärmel, die sich festhielt. „Das sind Fingerspuren."
 
@@ -74,11 +82,11 @@ Noras Mund wurde trocken. Sie trat näher. Die Kratzer waren alt. Tief in den St
 
 „Ja."
 
-Stille. Nur das Tropfen. Und Schattens Winseln, leise jetzt, fast unhörbar.
+Nur das Tropfen. Und Schattens Winseln, leise jetzt, fast unhörbar.
 
 Theo schluckte so laut, dass Nora es hörte. „Hier unten ist es passiert", flüsterte er. „Was auch immer mit Lina passiert ist. Es war hier unten."
 
-Nora antwortete nicht. Sie starrte auf die Kratzspuren. Ihre Hände waren eiskalt. In ihrer Brust breitete sich etwas aus. Keine Angst. Etwas anderes. Etwas Tieferes. Traurigkeit. So schwer, dass sie kaum atmen konnte.
+Nora antwortete nicht. Sie starrte auf die Kratzspuren. Ihre Arme hingen schwer an ihren Seiten. In ihrer Brust breitete sich etwas aus. Keine Angst. Etwas anderes. Etwas Tieferes. Traurigkeit. So schwer, dass sie kaum atmen konnte.
 
 Ein Mädchen. Zwölf Jahre alt. Allein in diesem Keller. Mit Fingern, die über Stein kratzten.
 
@@ -94,7 +102,7 @@ Er nickte. Sein Atem dampfte ebenfalls. „Das sind nicht die Wasserrohre, oder?
 
 „Nein."
 
-Schatten hörte auf zu winseln. Plötzlich. Von einem Moment auf den nächsten. Er hob den Kopf und schaute Nora an. Seine bernsteinfarbenen Augen waren weit. In ihnen lag etwas, das Nora nicht einordnen konnte. Nicht Angst. Nicht Warnung.
+Schatten hörte auf zu winseln. Plötzlich. Von einem Moment auf den nächsten. Er hob den Kopf und schaute Nora an. Seine Augen waren weit. In ihnen lag etwas, das Nora nicht einordnen konnte. Nicht Angst. Nicht Warnung.
 
 Trauer.
 
@@ -102,15 +110,15 @@ Der Hund sah traurig aus. Als wüsste er etwas, das er nicht sagen konnte.
 
 Und dann spürte Nora es.
 
-Es kam ohne Warnung. Kein Geräusch. Kein Licht. Kein Flackern. Nur ein Gefühl. Direkt hinter ihr. Zentimeter entfernt. So nah, dass es ihren Rücken hätte berühren können.
+Es kam ohne Warnung. Kein Geräusch. Kein Licht. Nur ein Gefühl. Direkt hinter ihr. Zentimeter entfernt.
 
 Jemand stand hinter ihr.
 
-Nora konnte es nicht sehen. Sie konnte es nicht hören. Aber sie SPÜRTE es. Wie einen Blick im Nacken. Wie einen Atemzug, der nicht ihrer war. Die Luft hinter ihr war dichter. Kälter. Schwerer.
+Nora konnte es nicht sehen. Aber sie SPÜRTE es. Wie einen Blick im Nacken. Die Luft hinter ihr war dichter. Kälter. Schwerer.
 
-Gänsehaut explodierte über ihren ganzen Körper. Ihre Knie wurden weich. Ihr Herz hämmerte so laut, dass es in ihren Ohren dröhnte. Jede Faser in ihr schrie: DREH DICH UM.
+Gänsehaut explodierte über ihren ganzen Körper. Jede Faser in ihr schrie: DREH DICH UM.
 
-Aber sie konnte sich nicht bewegen. Ihre Füße waren wie festgewachsen. Ihre Muskeln gehorchten nicht.
+Aber sie konnte sich nicht bewegen.
 
 „Nora?" Theos Stimme klang weit weg. „Du bist ganz blass."
 
@@ -134,7 +142,7 @@ Dann war es vorbei.
 
 Die Dichte hinter Noras Rücken löste sich auf. Ihre Schultern sackten nach unten. Erst jetzt merkte sie, wie verkrampft sie gewesen war.
 
-„Okay", sagte Theo. Seine Stimme war dünn und hoch. „Okay. Das war. Ja. Das war definitiv etwas. Können wir jetzt bitte gehen?"
+„Okay", sagte Theo. Seine Stimme war dünn und hoch. „Okay. Das war definitiv etwas." Er holte Luft. „Ich möchte offiziell festhalten, dass ich das von Anfang an für eine schlechte Idee hielt." Er schluckte. „Können wir jetzt bitte gehen?"
 
 Nora drehte sich um. Langsam. Ihr Nacken knackte leise.
 
@@ -146,11 +154,11 @@ Im Staub auf dem Kellerboden waren Spuren. Fußspuren. Klein. Schmal. Nackte Fü
 
 Sie führten von der Ecke mit den Kratzspuren bis direkt hinter die Stelle, an der Nora gerade noch gestanden hatte. Fünf Schritte. Vielleicht sechs. Jeder Abdruck deutlich im grauen Staub. Zehen, Ballen, Ferse. Perfekt.
 
-Und sie stammten nicht von ihnen. Nora trug Turnschuhe. Theo trug Turnschuhe. Diese Spuren waren barfuß. Und sie waren klein. Kinderfüße. Mädchenfüße.
+Sie stammten nicht von ihnen. Nora und Theo trugen Turnschuhe. Diese Spuren waren barfuß. Kinderfüße.
 
 Theo sah sie auch. Er trat einen Schritt zurück. Sein Mund öffnete sich. Kein Ton kam heraus. Seine Augen waren riesig.
 
-Schatten senkte den Kopf und schnüffelte an der nächsten Spur. Dann schaute er hoch. Zu Nora. Mit diesen bernsteinfarbenen Augen, die zu viel wussten.
+Schatten senkte den Kopf und schnüffelte an der nächsten Spur. Dann schaute er hoch. Zu Nora. Mit diesem Blick, der zu viel wusste.
 
 Die Spuren endeten direkt hinter Nora. Genau dort, wo sie die Präsenz gespürt hatte. Genau dort, wo jemand gestanden hatte, den sie nicht sehen konnte.
 

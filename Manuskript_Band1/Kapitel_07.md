@@ -60,7 +60,7 @@ Dann blieb ihr Blick hängen.
 
 Ein kleiner Artikel. Sechs Zeilen. Ganz unten auf Seite vier, zwischen einer Anzeige für Zahnarzt Kessler und dem Wetterbericht. Nora hätte ihn fast übersehen.
 
-Ihr Mund wurde trocken.
+Ihre Kopfhaut kribbelte.
 
 „Theo."
 
@@ -76,7 +76,9 @@ Der Artikel war kurz. Kalt. Sachlich.
 
 „Lina Vogt (12), Tochter von Familie Vogt, Kirchgasse 14, verstorben am 3. November 1974 an den Folgen eines Unfalls."
 
-Sechs Zeilen. Das war alles. Kein Foto. Keine Details. Kein Wort darüber, was für ein Unfall. Ein Mädchen war gestorben, und die Zeitung hatte sechs Zeilen übrig gehabt. Zwischen dem Zahnarzt und dem Wetter.
+Sechs Zeilen. Das war alles. Kein Wort darüber, was für ein Unfall. Ein Mädchen war gestorben, und die Zeitung hatte sechs Zeilen übrig gehabt. Zwischen dem Zahnarzt und dem Wetter.
+
+Aber es gab ein Foto. Klein, körnig, kaum zu erkennen auf dem Mikrofiche. Ein Klassenfoto. Drei Reihen Kinder vor einer Backsteinwand. Nora suchte den Bildrand ab. Unten rechts. Ein Mädchen mit dunklem Zopf und geradem Blick. Lina Vogt. Sie lächelte nicht. Alle anderen lächelten. Lina nicht. Sie schaute direkt in die Kamera, als wollte sie sagen: Ich bin hier. Seht mich an.
 
 „Zwölf", flüsterte Theo. „Sie war zwölf."
 
@@ -96,13 +98,15 @@ Nora nickte. Ihre Finger krallten sich in die Tischkante.
 
 „Das ist unsere Adresse."
 
+Schatten. Er hatte auf ihr Haus gestarrt. Nicht auf den Friedhof. Auf Kirchgasse 14.
+
 Stille.
 
 Das Summen der Neonröhre über ihnen. Das leise Klicken des Mikrofiche-Geräts.
 
 „Nora." Theos Stimme zitterte. „Ein Mädchen ist in unserer Wohnung gestorben. Vor fünfzig Jahren. Ein Mädchen, das genauso alt war wie du."
 
-Noras Magen zog sich zusammen. Eine Kälte breitete sich in ihrer Brust aus, die nichts mit der Klimaanlage der Bibliothek zu tun hatte. Zwölf Jahre alt. Kirchgasse 14. Sie sah das Mädchen vor sich. In der Küche, in der Nora jeden Morgen Müsli aß. Im Flur, durch den Nora jeden Tag lief. Im Zimmer, in dem Nora schlief.
+Noras Kehle wurde eng. Eine Kälte breitete sich in ihrer Brust aus, die nichts mit der Klimaanlage der Bibliothek zu tun hatte. Zwölf Jahre alt. Kirchgasse 14. Sie sah das Mädchen vor sich. In der Küche, in der Nora jeden Morgen Müsli aß. Im Flur, durch den Nora jeden Tag lief. Im Zimmer, in dem Nora schlief.
 
 „Deswegen das Kondenswasser", sagte Theo leise. „Deswegen das Klopfen. Deswegen alles."
 
@@ -111,6 +115,8 @@ Noras Magen zog sich zusammen. Eine Kälte breitete sich in ihrer Brust aus, die
 „Doch." Theo sah sie an. Keine Witze. Kein Sarkasmus. Seine Augen waren dunkel und ernst. „Sie ist dort gestorben. Und sie ist immer noch da. Frau Silber wusste es. Deswegen stand Linas Name auf der Liste. Mit Fragezeichen. Weil Frau Silber sie noch nicht befreit hatte."
 
 Nora starrte auf den Bildschirm. Sechs Zeilen. Ein ganzes Leben, zusammengefasst in sechs Zeilen. Und dann vergessen. Fünfzig Jahre lang.
+
+Etwas Kaltes breitete sich in ihrem Magen aus. Nicht Angst. Schuld. Als Theo von den Geräuschen erzählt hatte, vom Klopfen, von der Kälte -- was hatte sie gesagt? Wasserrohre. Einbildung. Sie war genau wie Linas Eltern gewesen. Genau wie alle, die nicht zuhörten.
 
 „Wir müssen nach Hause", sagte sie.
 
@@ -126,7 +132,7 @@ Draußen lag Schatten auf dem warmen Pflaster vor der Bibliothek. Als er sie sah
 
 „Was hat er?", sagte Theo.
 
-„Keine Ahnung." Nora kniete sich hin und streichelte Schattens Kopf. Der Hund drückte seine Schnauze gegen ihren Arm. Seine bernsteinfarbenen Augen schauten zu ihr hoch. Wach. Aufmerksam.
+„Keine Ahnung." Nora kniete sich hin und streichelte Schattens Kopf. Der Hund drückte seine Schnauze gegen ihren Arm. Er schaute zu ihr hoch. Wach. Aufmerksam.
 
 „Vielleicht spürt er es", murmelte Theo. „Dass wir etwas rausgefunden haben."
 
@@ -162,7 +168,7 @@ Noras Glas rutschte ihr aus der Hand. Es krachte auf die Fliesen und zerbrach in
 
 Vergiss nicht.
 
-Ihr Herz hämmerte. Ihre Hände zitterten. Gänsehaut kroch über ihre Arme, den Nacken hoch.
+Ihr Atem ging viel zu schnell. Ihre Arme wurden schwer, als hätte jemand Gewichte drangehängt.
 
 „Theo", sagte sie heiser. „Komm her."
 
@@ -202,11 +208,11 @@ Der Hund reagierte nicht. Er kratzte weiter. Seine Krallen hinterließen dünne 
 
 „Was macht er da?", flüsterte Theo.
 
-Nora ging näher. Schatten hob kurz den Kopf. Seine bernsteinfarbenen Augen trafen ihre. Dann senkte er den Blick und kratzte weiter. An derselben Stelle. Immer wieder.
+Nora ging näher. Schatten hob kurz den Kopf. Sein Blick traf ihren. Dann senkte er den Blick und kratzte weiter. An derselben Stelle. Immer wieder.
 
 An genau derselben Stelle.
 
-Noras Nackenhaare stellten sich auf. Sie legte die Hand an die Wand, direkt neben Schattens Pfote. Die Tapete war alt und rau unter ihren Fingern. Darunter spürte sie etwas. Einen Riss. Eine Unebenheit, die da nicht hingehörte.
+Ein Kribbeln lief über Noras Haut. Sie legte die Hand an die Wand, direkt neben Schattens Pfote. Die Tapete war alt und rau unter ihren Fingern. Darunter spürte sie etwas. Einen Riss. Eine Unebenheit, die da nicht hingehörte.
 
 „Da ist etwas hinter der Wand", sagte Nora.
 

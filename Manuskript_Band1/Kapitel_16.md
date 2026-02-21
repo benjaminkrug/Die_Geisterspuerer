@@ -14,11 +14,11 @@ Hausnummer 14.
 
 Nora riss die Haustür auf. Treppenhaus. Warme Luft. Der Geruch nach Abendessen aus der Erdgeschosswohnung. Normal. Sicher. Sie stolperte die Stufen hoch, Theo direkt hinter ihr. Schatten schoss an beiden vorbei und wartete vor ihrer Wohnungstür. Schwanzwedeln. Als wäre nichts gewesen.
 
-Nora schloss auf. Ihre Hände zitterten so stark, dass der Schlüssel zweimal abrutschte.
+Nora schloss auf. Beim zweiten Versuch fand der Schlüssel endlich das Schloss.
 
 Drinnen. Tür zu. Riegel vor.
 
-Sie lehnte sich gegen die Wand. Ihr Herz hämmerte. Ihre Lunge brannte. Schweiß lief ihr den Nacken hinunter.
+Sie lehnte sich gegen die Wand. Ihr Atem pfiff. Ihre Lunge brannte. Schweiß lief ihr den Nacken hinunter.
 
 Theo ließ sich neben ihr auf den Boden fallen. Sein Gesicht war weiß. Er atmete in kurzen, flachen Stößen.
 
@@ -38,13 +38,13 @@ Nora schluckte. Der Kloß in ihrem Hals wollte nicht verschwinden. Sie sah die G
 
 Theo schüttelte den Kopf. „Lina war traurig. Der da war –" Er suchte nach dem Wort. „Kalt. Und wütend."
 
-Schatten legte sich in den Flur. Genau zwischen Nora und Theo. Sein Fell war noch immer leicht gesträubt. Aber er knurrte nicht mehr. Er lag da, die Schnauze auf den Pfoten, und seine bernsteinfarbenen Augen wanderten von Nora zu Theo und zurück.
+Schatten legte sich in den Flur. Genau zwischen Nora und Theo. Sein Fell war noch immer leicht gesträubt. Aber er knurrte nicht mehr. Er lag da, die Schnauze auf den Pfoten, und sein Blick wanderte von Nora zu Theo und zurück.
 
 ---
 
-Nora stand auf. Ihre Knie waren weich. Sie ging ins Wohnzimmer und setzte sich aufs Sofa. Theo folgte ihr. Schatten trottete hinterher und legte sich vor den Couchtisch.
+Nora stand auf. Sie ging ins Wohnzimmer und ließ sich aufs Sofa fallen. Theo folgte ihr. Schatten trottete hinterher und legte sich vor den Couchtisch.
 
-Stille.
+Stille. Irgendwo in der Wohnung tickte die Heizung. Schneller als sonst. Als hätte sie einen eigenen Herzschlag.
 
 Nora starrte auf die Karte, die auf dem Tisch lag. Frau Silbers Karte. Elf offene Markierungen. Elf Geister. Und eine davon war der Friedhof.
 
@@ -52,7 +52,7 @@ Nora starrte auf die Karte, die auf dem Tisch lag. Frau Silbers Karte. Elf offen
 
 Fast zweihundert Jahre zwischen den Grabsteinen.
 
-Nora schloss die Augen. Ihr Magen zog sich zusammen. Die Kälte vom Friedhof saß noch in ihren Knochen. In ihren Fingern. In dem Ort hinter dem Brustbein, wo die Angst wohnte.
+Nora schloss die Augen. Sie sah die Gestalt noch vor sich. Grau. Starrend. Die Kälte vom Friedhof saß noch in ihren Knochen.
 
 „Ich will aufhören", sagte sie.
 
@@ -74,7 +74,7 @@ Theo richtete sich auf. Seine Augen wurden schmal.
 
 „Nein." Er schüttelte den Kopf. Langsam. „Hattest du nicht. Beim letzten Mal habe ich dich überzeugt. Und dann haben wir Lina befreit."
 
-Noras Kehle wurde eng. Lina. Der Name tat etwas in ihrer Brust. Etwas Warmes und Schweres zugleich.
+Nora schluckte schwer. Lina. Der Name tat etwas in ihrer Brust. Etwas Warmes und Schweres zugleich.
 
 „Das hier ist anders, Theo. Lina war traurig. Der Geist auf dem Friedhof war wütend. Hast du sein – sein Starren gespürt?"
 
@@ -94,23 +94,23 @@ Nora presste die Lippen zusammen. Ihre Hände lagen auf ihren Knien. Sie ballte 
 
 „Es sind keine Leute mehr."
 
-„Doch." Theos Stimme wurde leise. Ernst. So ernst, wie ein Zehnjähriger nur sein konnte. „Das sind sie. Das hat Frau Silber geschrieben. Das hast du selbst gesagt. Geister sind Menschen, die festsitzen."
+„Doch." Theos Stimme wurde leise. Ernst. So ernst, wie ein Zehnjähriger nur sein konnte. „Das sind sie. Lina war ein Mensch. Heinrich ist ein Mensch. Und sie hängen fest."
 
-Stille.
+Die Heizung tickte. Draußen fuhr ein Auto vorbei. Aber hier drinnen wog jedes Wort schwer.
 
 Schatten stand auf. Er ging von seinem Platz zum Sofa, drückte sich zwischen Noras und Theos Beine und legte sich hin. Genau in der Mitte. Sein warmer Körper berührte beide. Sein Kopf lag auf Noras Fuß. Sein Schwanz über Theos Schuh.
 
-Er schaute von einem zum anderen. Hin und her. Seine bernsteinfarbenen Augen waren ruhig. Geduldig. Als hätte er alle Zeit der Welt.
+Er schaute von einem zum anderen. Hin und her. Sein Blick war ruhig. Geduldig. Als hätte er alle Zeit der Welt.
 
 Nora schaute auf ihn hinunter. Auf den Hund, der vierzig Jahre lang eine alte Frau durch die Nacht begleitet hatte. Der jedes Mal gewusst hatte, wo die Unruhigen waren. Der nie weggerannt war.
 
 ---
 
-Sie dachte an Lina. An die runden Buchstaben. An *Niemand glaubt mir*. An die fünfzig Jahre Stille. Und an das goldene Licht, das kleiner geworden war und verschwunden.
-
-Das hatten sie gemacht. Sie und Theo.
+Sie dachte an Lina. An *Niemand glaubt mir*. An das goldene Licht, das kleiner geworden war und verschwunden. Das hatten sie gemacht. Sie und Theo.
 
 Noras Augen brannten. Sie blinzelte. Einmal. Zweimal.
+
+Sie dachte an ihre Mutter. An die müden Augen nach der Spätschicht. An die Wohnung, die gerade erst ein Zuhause wurde. An Theo, der neben ihr saß und ihr vertraute. Wenn ihr etwas passierte -- wer kümmerte sich dann um ihn? Wer half ihm bei den Hausaufgaben? Wer lag neben ihm, wenn er nachts aufwachte?
 
 Theo sagte nichts. Er wartete. Er kannte sie gut genug.
 
@@ -172,11 +172,11 @@ Ihre Mutter lachte. Dann wurde ihr Gesicht nachdenklich. Sie lehnte sich gegen d
 
 „Ach, übrigens. Ich habe vorhin die Nachbarin von unten getroffen. Im Treppenhaus."
 
-Noras Nackenhaare stellten sich auf. Sie wusste nicht warum. Noch nicht.
+Noras Haut kribbelte. Sie wusste nicht warum. Noch nicht.
 
 „Sie hat etwas Seltsames gesagt." Ihre Mutter runzelte die Stirn. „Sie meinte, früher hätte eine alte Frau hier im Haus gewohnt. Im zweiten Stock. Die sei nachts oft losgegangen. Mit einer Taschenlampe. Durch die ganze Stadt."
 
-Noras Hände wurden kalt. Neben ihr wurde Theo still.
+Noras Nacken kribbelte. Neben ihr wurde Theo still.
 
 „Mit einem Hund", sagte ihre Mutter. „Immer mit einem Hund. Und immer zum Friedhof."
 
@@ -188,7 +188,7 @@ Ihre Mutter schaute auf Schatten. Lange. Prüfend.
 
 Schatten hob den Kopf. Er schaute die Mutter an. Ruhig. Ungerührt.
 
-Nora öffnete den Mund. Schloss ihn wieder. Ihr Herz hämmerte.
+Nora öffnete den Mund. Schloss ihn wieder. Ihr Puls raste.
 
 Ihre Mutter lachte leise. „Na ja. Wahrscheinlich Zufall. Gute Nacht, ihr zwei."
 
@@ -198,9 +198,9 @@ Nora und Theo starrten sich an. Theos Mund stand offen. Er klappte ihn zu. Schlu
 
 „Die Nachbarin weiß etwas", flüsterte er.
 
-„Ja", sagte Nora. Ihr Mund war trocken.
+„Ja", sagte Nora. Ihre Stimme war kaum ein Flüstern.
 
-Schatten legte den Kopf zurück auf Noras Fuß. Seine bernsteinfarbenen Augen glühten im Lampenlicht.
+Schatten legte den Kopf zurück auf Noras Fuß. Sein Blick glühte im Lampenlicht.
 
 Er wusste es.
 

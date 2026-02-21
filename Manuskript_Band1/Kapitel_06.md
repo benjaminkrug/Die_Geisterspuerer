@@ -16,7 +16,7 @@ Theo stand zwei Schritte weiter, die Hände auf dem Kopf. Sein Gesicht war bleic
 
 „Wir sind gerade aus einer Geisterwohnung gerannt." Er zeigte auf Schatten. „Unser Hund hat uns reingeführt." Pause. „Das ist mein Leben jetzt."
 
-Nora wischte sich den Schweiß von der Stirn. Ihr Herz beruhigte sich langsam. Aber ihre Hände zitterten noch immer.
+Nora wischte sich den Schweiß von der Stirn. Ihr Herz beruhigte sich langsam. Aber ihre Finger waren taub, als hätte sie Eis angefasst.
 
 „Es waren Schritte", sagte sie. „Im Flur. Hinter uns."
 
@@ -52,7 +52,7 @@ Theo starrte sie an. „Geholfen? Wobei?"
 
 „Ich weiß es nicht. Noch nicht. Aber das Foto. Schatten war auf dem Foto. Jünger, aber eindeutig er. Frau Silber kannte unseren Hund."
 
-Schatten hob den Kopf und schaute Nora an. Bernsteinfarbene Augen. Ruhig. Wach. Als würde er zuhören.
+Schatten hob den Kopf und schaute Nora an. Sein Blick war ruhig. Aufmerksam. Als würde er zuhören.
 
 Theo biss sich auf die Unterlippe. „Und wo ist Frau Silber jetzt?"
 
@@ -74,7 +74,9 @@ Schatten legte sich hin und gähnte.
 
 „Willkommen in meiner Welt", sagte Nora.
 
-Die Bibliothek roch nach altem Papier und Kaffee. Regale bis zur Decke. Stille. Nora mochte Bibliotheken. Hier gab es Antworten. In Büchern, in Archiven, in Zeitungen. Hier hatte die Welt eine Ordnung.
+Die Bibliothek roch nach altem Papier und Kaffee. Regale bis zur Decke. Irgendwo summte ein Computer vor sich hin. Nora mochte Bibliotheken. Hier gab es Antworten. Hier hatte die Welt eine Ordnung.
+
+„Riecht wie Omas Dachboden", murmelte Theo. „Nur ohne Kekse."
 
 Eine Frau mit Brille und grauem Dutt saß hinter der Theke. Nora ging zu ihr.
 
@@ -110,13 +112,11 @@ Ein kleiner Artikel. Lokalteil, ganz unten auf der Seite. Zwischen einer Baustel
 
 Theo beugte sich über ihre Schulter. Sie lasen zusammen.
 
-BEWOHNERIN WIRD VERMISST. Gravenstedt – Margret Silber (75), langjährige Bewohnerin der Kirchgasse, wird seit dem 14. März vermisst. Nachbarn bemerkten, dass die alleinstehende Rentnerin seit mehreren Tagen nicht gesehen wurde. Die Polizei fand die Wohnung verlassen vor. „Es gab keine Anzeichen von Gewalt oder Einbruch", sagte ein Sprecher. „Frau Silber scheint die Wohnung freiwillig verlassen zu haben." Die Polizei bittet Hinweisgeber, sich zu melden.
+BEWOHNERIN WIRD VERMISST. Margret Silber (75), langjährige Bewohnerin der Kirchgasse, wird seit dem 14. März vermisst. Die Polizei fand die Wohnung verlassen vor. „Keine Anzeichen von Gewalt oder Einbruch", sagte ein Sprecher. „Frau Silber scheint die Wohnung freiwillig verlassen zu haben."
 
 Das war alles. Drei Absätze. Keine Fortsetzung. Nora suchte noch einmal. Und noch einmal. Nichts.
 
 „Drei Absätze", murmelte Theo. „Fünfundsiebzig Jahre alt und drei Absätze. Mein Hamsterreferat hatte mehr."
-
-„Drei Monate", sagte Theo leise. „Sie ist seit drei Monaten weg."
 
 Nora starrte auf den Bildschirm. Margret Silber. 75 Jahre. Alleinlebend. Kirchgasse. Die Wohnung im zweiten Stock.
 
@@ -124,7 +124,7 @@ Nora starrte auf den Bildschirm. Margret Silber. 75 Jahre. Alleinlebend. Kirchga
 
 „Das sah aus wie Flucht", sagte Theo.
 
-Stille. Das Neonlicht summte. Noras Nacken kribbelte. Sie drehte sich um. Hinter ihr nur leere Stuhlreihen und das Surren der Neonröhren.
+Das Neonlicht summte. Noras Nacken kribbelte. Sie drehte sich um. Hinter ihr nur leere Stuhlreihen und das Surren der Neonröhren. Sie dachte an Schatten, der oben vor der Tür wartete. Ruhig. Geduldig. Als hätte er gewusst, was sie finden würden.
 
 „Was hat sie so erschreckt?", flüsterte Nora. „Was kann eine Frau erschrecken, die vierzig Jahre lang –" Sie brach ab.
 
@@ -162,7 +162,7 @@ Theo schluckte. „Eine Aufgabenliste. Für Tote."
 
 „Welcher Name?"
 
-Noras Mund wurde trocken. Sie erinnerte sich genau. Die blaue Tinte. Die zittrige Handschrift. Das Fragezeichen, das aussah wie ein Hilferuf.
+Nora schluckte gegen den Kloß in ihrem Hals. Sie erinnerte sich genau. Die blaue Tinte. Die zittrige Handschrift. Das Fragezeichen, das aussah wie ein Hilferuf.
 
 „Lina Vogt", sagte sie. „Und dahinter: 1974."
 
@@ -202,6 +202,18 @@ Sie ging schneller. Aber sie spürte den Friedhof noch immer. Links von ihr, hin
 
 Theo redete. Über die Bibliothekarin, über den Zeitungsartikel, über Hundefutter. Nora hörte zu. Aber in ihrem Kopf stand ein Name.
 
+Zu Hause stand ihre Mutter im Flur und sortierte Post. Sie schaute auf. „Ihr seht fertig aus. Wo wart ihr?"
+
+„Bibliothek", sagte Nora.
+
+Ihre Mutter nickte. Dann, beiläufig: „Die Nachbarin hat heute erzählt, dass die alte Frau von oben immer noch verschwunden ist. Silber hieß die, glaube ich. Seit Monaten weg. Seltsame Sache."
+
+Nora spürte Theos Blick in ihrem Rücken. Sie schluckte. „Kennt die Nachbarin sie?"
+
+Ihre Mutter schüttelte den Kopf. „Kaum. Die war wohl immer allein. Mit einem Hund." Sie sortierte einen Brief auf den Stapel. „Komisch, oder?"
+
+Schatten lag im Flur und hob den Kopf.
+
 Lina Vogt.
 
 1974.
@@ -210,7 +222,7 @@ Ein Fragezeichen in blauer Tinte. Auf einer Liste, die aussah wie ein Hilferuf.
 
 Wer war Lina Vogt? Was war 1974 passiert? Und warum hatte Frau Silber ihren Namen ganz unten auf die Liste geschrieben – in anderer Tinte, mit zittriger Hand?
 
-Noras Finger kribbelten. Ihr Magen zog sich zusammen. Nicht vor Angst.
+Noras Finger kribbelten. Ein Summen breitete sich unter ihrer Haut aus. Nicht Angst.
 
 Vor dem Gefühl, dass die Antwort nah war. Irgendwo in Gravenstedt. Wartend.
 

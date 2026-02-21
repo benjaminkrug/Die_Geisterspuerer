@@ -12,7 +12,7 @@ Nora kniete sich neben ihn. Die Deckenlampe warf trübes Licht auf die alten Blu
 
 Nora strich mit den Fingern über die Stelle. Die Tapete war alt. Gelblich, mit verblassten Blumen, die kaum noch zu erkennen waren. Aber hier, an dieser Stelle, fühlte sie sich anders an. Dünner. Brüchiger. Als hätte jemand sie nur lose darübergeklebt.
 
-Schatten stupste Noras Hand mit der Nase an. Seine bernsteinfarbenen Augen waren ruhig. Kein Knurren. Kein gesträubtes Fell. Er saß neben ihr und beobachtete, als wollte er sagen: Da. Genau da.
+Schatten stupste Noras Hand mit der Nase an. Sein Blick war ruhig. Kein Knurren. Kein gesträubtes Fell. Er saß neben ihr und beobachtete, als wollte er sagen: Da. Genau da.
 
 „Er will, dass wir nachschauen", sagte Nora.
 
@@ -54,7 +54,7 @@ Nora klopfte vorsichtig gegen den Mörtel. Er klang hohl. Unter der Oberfläche 
 
 „Mit was? Unseren Fingernägeln?"
 
-Nora biss sich auf die Lippe. Theo hatte recht. Sie brauchten Werkzeug. Einen Hammer. Einen Schraubenzieher. Irgendetwas, um den brüchigen Mörtel aufzubrechen.
+Sie brauchten Werkzeug.
 
 „Hast du nicht gesagt, in einem der Umzugskartons ist Werkzeug?", sagte sie.
 
@@ -98,9 +98,17 @@ Theo reichte ihn ihr. „Vorsichtig. Wenn die ganze Wand einstürzt, sag ich Mam
 
 Nora setzte den Schraubenzieher an den Rand des Steins und klopfte leicht mit dem Hammer dagegen. Einmal. Zweimal. Beim dritten Mal löste sich der Stein. Er kippte nach innen und fiel mit einem dumpfen Klonk in die Dunkelheit dahinter.
 
-Stille.
+Hinter ihnen knallte die Flurtür zu.
 
-Noras Herz hämmerte. Aus dem Loch strömte kalte Luft. Sie roch nach Staub und etwas Altem. Wie ein Buch, das jahrzehntelang in einem Keller gelegen hatte.
+Der Schlag war so laut, dass Nora zusammenzuckte. Theo schrie auf. Schatten sprang auf die Beine und bellte. Einmal. Kurz. Scharf.
+
+Nora wirbelte herum. Die Tür zum Flur war geschlossen. Sie war offen gewesen. Die ganze Zeit. Kein Luftzug. Kein offenes Fenster.
+
+„Das --", fing Theo an. Seine Stimme war dünn.
+
+Nora ging zur Tür und drückte die Klinke. Die Tür ging auf. Dahinter der leere Flur. Nichts.
+
+Ihre Ohren rauschten. Aus dem Loch in der Wand strömte kalte Luft. Sie roch nach Staub und etwas Altem. Wie ein Buch, das jahrzehntelang in einem Keller gelegen hatte.
 
 „Da ist ein Hohlraum", flüsterte Nora.
 
@@ -110,7 +118,7 @@ Nora leuchtete mit dem Handy in das Loch. Der Lichtstrahl fiel auf grauen Stein.
 
 Und darin lag etwas.
 
-Noras Mund wurde trocken. Ihre Hände zitterten, als sie das Handy dichter hielt. Im Licht des Displays sah sie einen rechteckigen Gegenstand. Verstaubt. Mit etwas bedeckt, das einmal Stoff gewesen sein könnte. Grau und dünn wie Spinnweben.
+Nora spürte ihren Puls im Hals. Ihre Finger verkrampften sich um das Handy. Im Licht des Displays sah sie einen rechteckigen Gegenstand. Verstaubt. Mit etwas bedeckt, das einmal Stoff gewesen sein könnte. Grau und dünn wie Spinnweben.
 
 „Da ist was drin", sagte sie.
 
@@ -122,31 +130,43 @@ Nora streckte die Hand in den Hohlraum. Ihre Finger berührten den Gegenstand. K
 
 Staub rieselte auf den Boden. Der graue Stoff fiel ab. Und in Noras Hand lag ein Buch.
 
+Noras Finger schlossen sich darum. Ein Kribbeln lief durch ihre Hände. Nicht Kälte. Etwas anderes. Als hielte sie etwas, das lange auf sie gewartet hatte.
+
+Das Licht der Deckenlampe flackerte. Nur kurz, kaum eine Sekunde. Aber die Schatten an der Wand zuckten, streckten sich, wurden lang und dünn wie Finger. Nora spürte ein Summen in den Ohren. Leise, tief, wie eine Stimmgabel hinter den Schläfen.
+
 Klein. Kaum größer als ihre Handfläche. Dunkelbraunes Leder, rissig und trocken. Kein Titel. Keine Beschriftung.
 
-Nora drehte es um. Ihr Herz schlug so laut, dass Theo es hätte hören müssen. Gänsehaut kroch über ihre Arme.
+Nora drehte es um. Ein Schauer lief ihr über den Rücken.
 
 „Ein Buch", sagte Theo. „In der Wand. Hinter Mörtel und Tapete. Das ist normal. Total normal."
 
-Nora schlug den Deckel auf. Die Seiten waren vergilbt. Handgeschrieben. Mädchenschrift. Ordentlich und rund, mit kleinen Kringeln über den i-Punkten. Blaue Tinte, an manchen Stellen verwischt.
+Nora schlug den Deckel auf. Die Seiten waren vergilbt. Handgeschrieben. Mädchenschrift. Ordentlich und rund, mit kleinen Kringeln über den i-Punkten. Lila Tinte, an manchen Stellen verwischt.
 
 Auf der ersten Seite standen zwei Worte. Mittig. Unterstrichen. In großen, sorgfältigen Buchstaben.
 
 LINAS TAGEBUCH
 
-Noras Atem stockte. Lina. Lina Vogt. Zwölf Jahre alt. Gestorben am dritten November 1974. In genau dieser Wohnung.
+Noras Atem stockte.
 
 „Theo", flüsterte sie. „Es gehört ihr. Es gehört Lina."
 
-Theo stand neben ihr und starrte auf das Buch. Sein Gesicht war bleich. Er sagte nichts. Seine Hände hingen an seinen Seiten, die Finger leicht gekrümmt.
+Theo beugte sich über ihre Schulter. Sein Gesicht war bleich.
 
-Schatten hob den Kopf. Er schaute Nora an. Dann das Buch. Dann wieder Nora. Seine bernsteinfarbenen Augen glänzten im trüben Licht der Flurlampe.
+„Linas Tagebuch", las er. „Wie in Lina Vogt? Wie in das Mädchen, das hier --"
+
+„Ja."
+
+„In der Wand." Theo schluckte. „Jemand hat ihr Tagebuch in der Wand versteckt."
+
+„Oder jemand hat es dort hineingelegt, damit es gefunden wird." Nora schaute zu Schatten. „Von der richtigen Person."
+
+Schatten hob den Kopf. Er schaute Nora an. Dann das Buch. Dann wieder Nora. Sein Blick glänzte im trüben Licht der Flurlampe.
 
 Lina wollte nicht vergessen werden. Und jemand hatte ihr Tagebuch in der Wand versteckt. Zugemauert. Als sollte niemand es finden.
 
 Aber Schatten hatte es gefunden.
 
-Noras Finger zitterten, als sie die erste Seite umblätterte. Die Schrift war klein und eng. Blaue Tinte auf vergilbtem Papier. Ein Datum stand oben links.
+Noras Finger waren steif vor Anspannung, als sie die erste Seite umblätterte. Die Schrift war klein und eng. Lila Tinte auf vergilbtem Papier. Ein Datum stand oben links.
 
 3. September 1974.
 
