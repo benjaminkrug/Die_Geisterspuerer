@@ -280,7 +280,7 @@ def zeichne_ruecken(w, h, bg, band, titel, seiten):
                 ("Autor",      AUTOR,     FONT_KLEIN, CREME, 0.58, 0.88, 0.22)]
     else:                             # unter ~3 mm (Band 3/4/5: 27 bis 34 px)
         plan = [("Bandnummer", str(band), FONT_TITEL, GOLD,  0.92, 0.10, 0.09),
-                ("Titel",      titel,     FONT_TITEL, CREME, 0.74, 0.50, 0.55)]
+                ("Titel",      titel,     FONT_TITEL, CREME, 0.80, 0.50, 0.55)]
 
     info, zu_klein = [], []
     for name, text, pfad, farbe, anteil, pos, maxlen in plan:
@@ -321,6 +321,26 @@ def weiche_falz(canvas, x0, x1, bg, mm=3.0):
     canvas.paste(flaeche, (x1 + 1, 0), maske)                    # rechts
     canvas.paste(flaeche, (x0 - breite, 0), maske.transpose(Image.FLIP_LEFT_RIGHT))
     return canvas
+
+
+def nachschaerfen(im, staerke=60):
+    """Milde Unschaerfemaske nach dem Verkleinern (Prepress-Standard).
+
+    Warum: Jedes Resampling weicht Kanten auf -- die Panels werden hier um
+    Faktor 0.6 bis 0.9 verkleinert. Dazu laeuft Digitaldruck leicht zu
+    (Punktzuwachs), was das Bild zusaetzlich weicher wirken laesst.
+
+    Das ERFINDET kein Detail. Es stellt die Kantenschaerfe wieder her, die
+    beim Verkleinern verloren geht -- ein Bild, das schon in der Quelle weich
+    ist (hochskaliert), wird dadurch nicht scharf.
+
+    Konservativ eingestellt: threshold=3 laesst glatte Flaechen wie Himmel
+    und dunkle Waende in Ruhe, damit dort kein Rauschen hochgezogen wird.
+    """
+    if staerke <= 0:
+        return im
+    from PIL import ImageFilter
+    return im.filter(ImageFilter.UnsharpMask(radius=1.2, percent=staerke, threshold=3))
 
 
 def tiefen_anheben(im, staerke=0.10):
@@ -432,6 +452,8 @@ def main():
                     help="Crop der Vorderseite um N px nach rechts versetzen")
     ap.add_argument("--back-shift", type=int, dest="back_shift",
                     help="Crop der Rueckseite um N px nach rechts versetzen")
+    ap.add_argument("--schaerfe", type=int, default=60,
+                    help="Nachschaerfen nach dem Verkleinern in %% (0 = aus, Vorgabe 60)")
     ap.add_argument("--tiefen", type=float, default=0.10,
                     help="Schattenanhebung fuer den Druck, 0 = aus (Vorgabe 0.10)")
     args = ap.parse_args()
@@ -522,7 +544,11 @@ def main():
 
     warnungen = pruefe_zonen(canvas, panel_w, spine_w, TRIM_W, TRIM_H)
 
-    druck = tiefen_anheben(canvas, args.tiefen)
+    druck = nachschaerfen(canvas, args.schaerfe)
+    if args.schaerfe > 0:
+        print(f"  Nach dem Verkleinern um {args.schaerfe} % nachgeschaerft "
+              f"(--schaerfe 0 schaltet das ab).")
+    druck = tiefen_anheben(druck, args.tiefen)
     if args.tiefen > 0:
         print(f"  Tiefen fuer den Druck um {args.tiefen*100:.0f} % angehoben "
               f"(--tiefen 0 schaltet das ab).")

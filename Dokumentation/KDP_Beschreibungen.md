@@ -72,15 +72,15 @@ Nora glaubt an Wasserrohre, Zugluft und logische Erklärungen. Aber als Schatten
 > **KDP-Preis (TB):** 10,99 EUR | **KDP-Preis (eBook):** 4,99 EUR
 
 ```html
-<b>Schatten weigert sich. Hunderte Gräber, kein einziger Name. Und die Bagger kommen übermorgen.</b><br><br>
+<b>Schatten weigert sich. Hunderte Gräber, kein einziger Name. Und morgen früh kommen die Bagger.</b><br><br>
 
-Als Nora (12) und Theo (10) dem Alten Friedhof von Gravenstedt-Ost einen Abstecher machen, ist es Schatten, der zuerst stoppt. Mitten vor dem Eingang zu Sektion C. Fell gesträubt. Augen starr. Weigert sich einzutreten.<br><br>
+Als Nora (12) und Theo (10) zum Gravenstedter Hauptfriedhof gehen, ist es Schatten, der zuerst stoppt. Vier Pfoten auf dem Gehsteig, keinen Millimeter durch das Tor. Ein tiefes, leises Knurren. Zum ersten Mal geht er nicht mit.<br><br>
 
-Dahinter: Hunderte Grabsteine ohne Namen. Keine Inschriften. Keine Daten. Nur Steine.<br><br>
+Dahinter, in der gesperrten Sektion C: Hunderte Grabsteine ohne Namen. Keine Inschriften. Keine Daten. Nur Steine.<br><br>
 
-Und einer davon leuchtet.<br><br>
+Bis auf einen. In den hat jemand einen Hund gemeißelt.<br><br>
 
-<b>Das Buch liegt unter dem Stein mit dem Hund.</b><br><br>
+<b>Und unter dem Stein mit dem Hund liegt ein Buch.</b><br><br>
 
 Das Buch von Heinrich Brenner — Totengräber — erzählt, was hier passiert ist. 47 Namen in enger Handschrift, zu jedem ein Satz. Wer diese Menschen waren. Warum niemand ihre Namen kennt. Und wer dafür gesorgt hat, dass das so bleibt.<br><br>
 
@@ -99,7 +99,7 @@ Denn Brenner ist nicht der Einzige, der noch hier ist. Irgendwo zwischen den nam
 <b>★ Gruselig UND lustig</b> – Theo sorgt dafür<br>
 <b>★ Band 2 von 5</b> – jeder Band ein neuer Geist, ein neues Geheimnis<br><br>
 
-<i>„Auf einer Skala von eins bis tot: sieben. Ich schätze, das ist gut." – Theo, 10 Jahre, Überlebenskünstler</i><br><br>
+<i>„Auf einer Skala von eins bis tot schätze ich: sieben." – Theo, 10 Jahre, Überlebenskünstler</i><br><br>
 
 <b>Perfekt für Fans von Gänsehaut, Das kleine Böse Buch und Lockwood & Co.</b>
 ```
@@ -470,7 +470,7 @@ Es geht am Ende nicht darum, wer am lautesten schreit oder am schnellsten weglä
 
 <b>Zwölf Enden, drei Wege, ein Geheimnis.</b> Kein Durchgang gleicht dem anderen. Auch ohne Band 1 vollständig lesbar.<br><br>
 
-<i>„Auf einer Skala von eins bis tot: sieben. Ich schätze, das ist gut." – Theo, 10 Jahre</i><br><br>
+<i>„Auf einer Skala von eins bis tot schätze ich: sieben." – Theo, 10 Jahre</i><br><br>
 
 Für junge Leserinnen und Leser, die Gänsehaut, „1000 Gefahren" und „Das kleine Böse Buch" mögen – und selbst entscheiden wollen, wie es weitergeht.
 ```
