@@ -1,0 +1,482 @@
+# ============================================================
+# Die Geisterspuerer — Band 2 CYOA "Der Friedhof ohne Namen"
+# Time Cave Struktur (v2-Schema, identisch zu Band 1)
+# ============================================================
+# Konventionen:
+#   P  = Prolog (geteilt, alle Leser)
+#   A  = Pfad A "Dem Grauen folgen" (mutig / uebernatuerlich)
+#   B  = Pfad B "Die Ermittlerin" (rational / Recherche)
+#   C  = Pfad C "Kloss vertrauen" (sozial / Erwachsene)
+#   D  = Dead End (Sackgasse, zurueckblaettern)
+#   E  = Ende (EA/EB/EC = pfadgebunden; E_GEHEIM = Codewort-System)
+#
+# Typen:
+#   story / choice / dead_end / ending
+#
+# Regeln (Plan Rev. 3):
+#   - Twist-Pol = Variante a: drei getrennte Twist-Abschnitte (A7 / B5 / C4),
+#     gleicher Kern, bewusst verschiedene Inszenierung (KEINE Konvergenz).
+#   - Einziger erlaubter Konvergenz-Punkt: C-Bruecke zum Kloss-Finale (intern in C).
+#   - Theo-allein / Johanns Zweig / Schatten-Durchbruch: nur Pfad A und C (unique_event).
+#   - POV-Regel: Theo-allein-Abschnitte = pov: nora_aussen (Plan 1a/5).
+#   - Guillemets im Prosatext. Kein Wortzahl-Ziel (STIL_REFERENZ).
+#   - Codewoerter: NAME (EA1) / AKTE (EB1) / STIMME (EC1) -> ERINNERN (E_GEHEIM).
+# ============================================================
+
+sections:
+
+  # =============================
+  # PROLOG (P1-P5) — Alle Leser
+  # =============================
+
+  P1:
+    title: "Schatten bleibt stehen"
+    type: story
+    file: prolog/P01.md
+    next: P2
+
+  P2:
+    title: "Zwei Zonen"
+    type: story
+    file: prolog/P02.md
+    next: P3
+
+  P3:
+    title: "Der kippende Stein"
+    type: story
+    file: prolog/P03.md
+    next: P4
+
+  P4:
+    title: "Theo will weg"
+    type: story
+    file: prolog/P04.md
+    next: P5
+
+  P5:
+    title: "Entscheidung"
+    type: choice
+    file: prolog/P05.md
+    choices:
+      - text: "Da war eine Gestalt. Folge ihr in den hinteren Teil."
+        target: A1
+      - text: "Erst Fakten. Wer liegt hier? Geh ins Stadtarchiv."
+        target: B1
+      - text: "Herr Kloss weiss mehr, als er sagt. Frag ihn."
+        target: C1
+
+  # =============================
+  # PFAD A — "Dem Grauen folgen"
+  # =============================
+
+  A1:
+    title: "In den namenlosen Teil"
+    type: story
+    file: pfad_a/A01.md
+    next: A2
+
+  A2:
+    title: "Der Stein mit dem Hund"
+    type: story
+    file: pfad_a/A02.md
+    next: A3
+
+  A3:
+    title: "Der fliegende Grabstein"
+    type: choice
+    file: pfad_a/A03.md
+    choices:
+      - text: "Bleiben — der Schuppen steht offen"
+        target: A4
+      - text: "Fliehen — das ist zu viel"
+        target: EA4
+
+  A4:
+    title: "Eingesperrt im Schuppen"
+    type: story
+    file: pfad_a/A04.md
+    next: A5
+    unique_event: true
+
+  A5:
+    title: "Die erste Blechdose"
+    type: story
+    file: pfad_a/A05.md
+    next: A6
+
+  A6:
+    title: "Die graue Gestalt"
+    type: choice
+    file: pfad_a/A06.md
+    choices:
+      - text: "Brenner laut ansprechen"
+        target: D1
+      - text: "Schweigen und zuhoeren"
+        target: A7
+      - text: "Weg hier — fliehen"
+        target: EA4
+
+  A7:
+    title: "Zwei Geister"
+    type: story
+    file: pfad_a/A07.md
+    next: A8
+    unique_event: true   # A-TWIST: Brenner zeigt, Voss wirft Stein
+
+  A8:
+    title: "Noras Plan"
+    type: choice
+    file: pfad_a/A08.md
+    choices:
+      - text: "Sofort die Liste vorlesen — keine Zeit verlieren"
+        target: A9
+      - text: "Erst das ganze Buch holen — unter dem Stein mit dem Hund"
+        target: A10
+
+  # --- A-Scheitern (falscher Plan) ---
+
+  A9:
+    title: "Alles wird schlimmer"
+    type: story
+    file: pfad_a/A09.md
+    next: EA3
+
+  # --- A-Kapelle (Hoehepunkt, belohnt) ---
+
+  A10:
+    title: "Theo allein"
+    type: story
+    file: pfad_a/A10.md
+    next: A11
+    unique_event: true   # Theo-allein + Johanns Zweig + Schatten-Durchbruch
+    pov: nora_aussen
+
+  A11:
+    title: "Die echte Waffe"
+    type: choice
+    file: pfad_a/A11.md
+    choices:
+      - text: "Kloss mit dem Buch konfrontieren"
+        target: A12
+      - text: "Kloss aussen vor lassen — es allein zu Ende bringen"
+        target: EA2
+
+  A12:
+    title: "Der Zeuge"
+    type: story
+    file: pfad_a/A12.md
+    next: EA1
+
+  # =============================
+  # PFAD B — "Die Ermittlerin"
+  # =============================
+
+  B1:
+    title: "Zwei Namen im Archiv"
+    type: story
+    file: pfad_b/B01.md
+    next: B2
+    unique_event: true   # Sektion-C-Seiten herausgerissen
+
+  B2:
+    title: "Der Strich auf dem Foto"
+    type: choice
+    file: pfad_b/B02.md
+    choices:
+      - text: "Im Archiv weitergraben — wer war Voss?"
+        target: B4
+      - text: "Zum Friedhof — den Schuppen durchsuchen"
+        target: B3
+
+  B3:
+    title: "Die erste Blechdose"
+    type: choice
+    file: pfad_b/B03.md
+    choices:
+      - text: "Den Fund zusammensetzen — wer war der Wuetende?"
+        target: B5
+      - text: "Nur forschen, nicht handeln"
+        target: D3
+    unique_event: true   # Blechdose: 23 Namen + "Johann B. - mein Sohn" + UV-Hinweis
+
+  B4:
+    title: "Die Personalakte Voss"
+    type: story
+    file: pfad_b/B04.md
+    next: B5
+    # Archiv-Vertiefung: Voss = Finanzausschuss; verweigertes Kindergrab (Johann-Herzbeat fuer Archiv-Weg)
+
+  B5:
+    title: "Der wahre Taeter"
+    type: choice
+    file: pfad_b/B05.md
+    unique_event: true   # B-TWIST: Aktenlogik -> Brenner ist Opfer, Voss Taeter
+    choices:
+      - text: "Beweise sammeln — unterirdisches Registerbuero"
+        target: B6
+      - text: "Vorsichtig sein — erst sicher gehen"
+        target: D4
+      - text: "Sofort zur Kapelle — keine Zeit verlieren"
+        target: EB3
+
+  B6:
+    title: "Das Registerbuero"
+    type: story
+    file: pfad_b/B06.md
+    next: B7
+
+  B7:
+    title: "Aktenzeichen Voss"
+    type: choice
+    file: pfad_b/B07.md
+    choices:
+      - text: "Mit dem Protokoll Kloss zum Reden bringen"
+        target: EB1
+      - text: "Selbst weitermachen — Silbers Methode systematisch fortfuehren"
+        target: EB4
+      - text: "Es bei den Beweisen belassen"
+        target: EB2
+
+  # =============================
+  # PFAD C — "Kloss vertrauen"
+  # =============================
+
+  C1:
+    title: "Herr Kloss schwitzt"
+    type: story
+    file: pfad_c/C01.md
+    next: C2
+
+  C2:
+    title: "Das Doppelschatten-Fenster"
+    type: choice
+    file: pfad_c/C02.md
+    choices:
+      - text: "Kloss glauben und abwarten"
+        target: C3
+      - text: "Ihn anluegen — heimlich selbst forschen"
+        target: D5
+
+  C3:
+    title: "Kloss gesteht"
+    type: story
+    file: pfad_c/C03.md
+    next: C4
+    unique_event: true   # Urgrossvater August Kloss, Voss-Story
+
+  C4:
+    title: "Der Wuetende und der Stille"
+    type: choice
+    file: pfad_c/C04.md
+    unique_event: true   # C-TWIST: zwei Geister erkannt (Mechanik 'Schweigen' erst in C7)
+    choices:
+      - text: "Kloss zum Reden bewegen"
+        target: C5
+      - text: "Es allein versuchen"
+        target: EC3
+
+  C5:
+    title: "Das Original-Protokoll"
+    type: story
+    file: pfad_c/C05.md
+    next: C6
+
+  C6:
+    title: "Theo allein"
+    type: story
+    file: pfad_c/C06.md
+    next: C7
+    unique_event: true   # Theo-allein + Johanns Zweig + Schatten-Durchbruch
+    pov: nora_aussen
+
+  C7:
+    title: "Kloss macht auf"
+    type: choice
+    file: pfad_c/C07.md
+    choices:
+      - text: "Vor den Baggern — fuenf Uhr frueh in die Kapelle"
+        target: C8
+      - text: "Zoegern — die Bagger kommen zuerst"
+        target: EC4
+
+  C8:
+    title: "Kloss spricht"
+    type: choice
+    file: pfad_c/C08.md
+    unique_event: true   # BRUECKE: Kloss spricht Voss' Schuld laut aus (Kloss-Finale)
+    choices:
+      - text: "Brenners 47 Namen gemeinsam vorlesen"
+        target: EC1
+      - text: "Kloss die Gedenktafel aufhaengen lassen"
+        target: EC2
+
+  # =============================
+  # DEAD ENDS
+  # =============================
+
+  D1:
+    title: "Reden ist nicht Zuhoeren"
+    type: dead_end
+    file: dead_ends/D01.md
+    return_to: A6
+    return_text: "Zurueck zu Abschnitt A6"
+    lesson: "Reden ist nicht Zuhoeren"
+
+  D3:
+    title: "Wissen ohne Handeln"
+    type: dead_end
+    file: dead_ends/D03.md
+    return_to: B3
+    return_text: "Zurueck zu Abschnitt B3"
+    lesson: "Wissen ohne Handeln befreit niemanden"
+
+  D4:
+    title: "Zu viel Zoegern"
+    type: dead_end
+    file: dead_ends/D04.md
+    return_to: B5
+    return_text: "Zurueck zu Abschnitt B5"
+    lesson: "Uebervorsicht ist auch eine Entscheidung — die Zeit laeuft"
+
+  D5:
+    title: "Luegen isoliert"
+    type: dead_end
+    file: dead_ends/D05.md
+    return_to: C2
+    return_text: "Zurueck zu Abschnitt C2"
+    lesson: "Luegen isoliert; Vertrauen verbindet"
+
+  # =============================
+  # ENDEN
+  # =============================
+
+  # --- Pfad A ---
+
+  EA1:
+    title: "Der Zeuge spricht"
+    type: ending
+    file: endings/EA1.md
+    family: befreit
+    tone: episch
+    hook: maximum
+    path: A-Kloss
+    codewort: NAME
+
+  EA2:
+    title: "Schattens Wache"
+    type: ending
+    file: endings/EA2.md
+    family: hueterin
+    tone: offen
+    hook: voll
+    path: A-Allein
+
+  EA3:
+    title: "Allein zu mutig"
+    type: ending
+    file: endings/EA3.md
+    family: nicht_geschafft
+    tone: bitter
+    hook: mittel
+    path: A-Scheitern
+
+  EA4:
+    title: "Nacht-Flucht"
+    type: ending
+    file: endings/EA4.md
+    family: aufgegeben
+    tone: offen
+    hook: minimal
+    path: A-Flucht
+
+  # --- Pfad B ---
+
+  EB1:
+    title: "Aktenzeichen Voss"
+    type: ending
+    file: endings/EB1.md
+    family: befreit
+    tone: warm_rational
+    hook: maximum
+    path: B-Beweis
+    codewort: AKTE
+
+  EB2:
+    title: "Die halbe Wahrheit"
+    type: ending
+    file: endings/EB2.md
+    family: nicht_geschafft
+    tone: bittersweet
+    hook: mittel
+    path: B-Unvollstaendig
+
+  EB3:
+    title: "Zu nah an Voss"
+    type: ending
+    file: endings/EB3.md
+    family: nicht_geschafft
+    tone: bitter
+    hook: mittel
+    path: B-Eile
+
+  EB4:
+    title: "Die neue Ermittlerin"
+    type: ending
+    file: endings/EB4.md
+    family: hueterin
+    tone: systematisch
+    hook: voll
+    path: B-Selbst
+
+  # --- Pfad C ---
+
+  EC1:
+    title: "47 und ein kleiner Name"
+    type: ending
+    file: endings/EC1.md
+    family: befreit
+    tone: episch
+    hook: maximum
+    path: C-Kloss-Finale
+    codewort: STIMME
+
+  EC2:
+    title: "Die Gedenktafel"
+    type: ending
+    file: endings/EC2.md
+    family: befreit
+    tone: warm
+    hook: voll
+    path: C-Tafel
+
+  EC3:
+    title: "Ohne Kloss"
+    type: ending
+    file: endings/EC3.md
+    family: nicht_geschafft
+    tone: bittersweet
+    hook: mittel
+    path: C-Allein
+
+  EC4:
+    title: "Zu spaet"
+    type: ending
+    file: endings/EC4.md
+    family: aufgegeben
+    tone: traurig
+    hook: mittel
+    path: C-Bagger
+
+  # --- Geheim-Ending (Codewort-System) ---
+
+  E_GEHEIM:
+    title: "Nicht alleine"
+    type: ending
+    file: endings/E_geheim.md
+    family: hueterin
+    tone: episch
+    hook: maximum
+    path: Geheim
+    codewort_system: true
+    requires: ["NAME", "AKTE", "STIMME"]
+    serien_codewort: ERINNERN

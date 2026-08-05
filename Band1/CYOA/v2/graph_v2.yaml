@@ -1,0 +1,1035 @@
+# ============================================================
+# Die Geisterspuerer — Band 1 CYOA — Time Cave Struktur (v2)
+# ============================================================
+# Konventionen:
+#   P  = Prolog (geteilt, alle Leser)
+#   A  = Pfad A "Schatten folgen" (uebernatuerlich)
+#   B  = Pfad B "Die Detektivin" (logisch)
+#   C  = Pfad C "Mama erzaehlen" (Familie)
+#   D  = Dead End (Sackgasse, zurueckblaettern)
+#   E  = Ende (Abschluss mit Serien-Hook)
+#
+# Typen:
+#   story     = Erzaehlabschnitt (kein Wahlpunkt)
+#   choice    = Entscheidungspunkt (choices-Liste)
+#   dead_end  = Sackgasse (Leser blaettert zurueck)
+#   ending    = Buchende (Serien-Hook)
+#
+# Regeln:
+#   - Pfade konvergieren NIE (ausser C2 -> A/B, einziger Konvergenzpunkt)
+#   - Jede choice hat 2-3 Optionen
+#   - Pro Durchgang: 30-40 Abschnitte, ~8.000-10.000 Woerter
+# ============================================================
+
+sections:
+
+  # =============================
+  # PROLOG (P1-P5) — Alle Leser
+  # =============================
+
+  P1:
+    title: "Kirchgasse 14"
+    type: story
+    file: prolog/P01.md
+    next: P2
+
+  P2:
+    title: "Dreimal"
+    type: story
+    file: prolog/P02.md
+    next: P3
+
+  P3:
+    title: "HILF"
+    type: story
+    file: prolog/P03.md
+    next: P4
+
+  P4:
+    title: "Was tun?"
+    type: story
+    file: prolog/P04.md
+    next: P5
+
+  P5:
+    title: "Entscheidung"
+    type: choice
+    file: prolog/P05.md
+    choices:
+      - text: "Schatten nach oben folgen"
+        target: A1
+      - text: "Selbst ermitteln — Bibliothek, Nachbarn"
+        target: B1
+      - text: "Mama alles erzaehlen"
+        target: C1
+
+  # =============================
+  # PFAD A — "Schatten folgen"
+  # =============================
+
+  # --- Strang A: Silbers Wohnung ---
+
+  A1:
+    title: "Bernsteinaugen"
+    type: story
+    file: pfad_a/A01.md
+    next: A2
+
+  A2:
+    title: "Spuren einer Flucht"
+    type: story
+    file: pfad_a/A02.md
+    next: A3
+
+  A3:
+    title: "Die Namen an der Wand"
+    type: story
+    file: pfad_a/A03.md
+    next: A4
+
+  A4:
+    title: "Der kalte Raum"
+    type: choice
+    file: pfad_a/A04.md
+    choices:
+      - text: "Den kalten Raum betreten"
+        target: A5
+      - text: "Erst Silbers Notizbuecher suchen"
+        target: A20
+
+  # --- Sub-Pfad A-MUTIG: Rein ins Kalte ---
+
+  A5:
+    title: "Minus zehn"
+    type: story
+    file: pfad_a/A05.md
+    next: A6
+
+  A6:
+    title: "Linas Versteck"
+    type: story
+    file: pfad_a/A06.md
+    next: A7
+
+  A7:
+    title: "Theo eingesperrt"
+    type: story
+    file: pfad_a/A07.md
+    next: A8
+    unique_event: true
+
+  A8:
+    title: "Erste Seiten"
+    type: choice
+    file: pfad_a/A08.md
+    choices:
+      - text: "Sofort in den Keller"
+        target: A9
+      - text: "Erst das Tagebuch ganz lesen"
+        target: A13
+      - text: "Allein in den Keller"
+        target: D3
+
+  # --- A-MUTIG -> Keller sofort (A9-A12) ---
+
+  A9:
+    title: "Treppe abwaerts"
+    type: story
+    file: pfad_a/A09.md
+    next: A10
+
+  A10:
+    title: "Schatten verschwindet"
+    type: story
+    file: pfad_a/A10.md
+    next: A11
+    unique_event: true
+
+  A11:
+    title: "Sie ist hier"
+    type: choice
+    file: pfad_a/A11.md
+    choices:
+      - text: "Lina ansprechen — laut rufen"
+        target: D1
+      - text: "Schweigen und zuhoeren"
+        target: A12
+      - text: "Panik — aus dem Keller fliehen"
+        target: E6
+
+  A12:
+    title: "Zuhoeren"
+    type: story
+    file: pfad_a/A12.md
+    next: A_LIB1
+
+  # --- A-MUTIG -> Tagebuch erst (A13-A19) ---
+
+  A13:
+    title: "Linas Welt"
+    type: story
+    file: pfad_a/A13.md
+    next: A14
+
+  A14:
+    title: "Der letzte Eintrag"
+    type: story
+    file: pfad_a/A14.md
+    next: A15
+
+  A15:
+    title: "Vorbereitet"
+    type: choice
+    file: pfad_a/A15.md
+    choices:
+      - text: "Allein gehen"
+        target: A16
+      - text: "Theo mitnehmen"
+        target: A18
+
+  A16:
+    title: "Allein mit Lina"
+    type: story
+    file: pfad_a/A16.md
+    next: A17
+
+  A17:
+    title: "DANKE"
+    type: story
+    file: pfad_a/A17.md
+    next: AP1
+
+  A18:
+    title: "Zusammen"
+    type: story
+    file: pfad_a/A18.md
+    next: A19
+
+  A19:
+    title: "Geschwister-Befreiung"
+    type: story
+    file: pfad_a/A19.md
+    next: AP1
+
+  # --- Lina-Befreiungs-Sequenz (A-Mutig Keller-Pfad) ---
+
+  A_LIB1:
+    title: "Linas Stimme"
+    type: choice
+    file: pfad_a/A_LIB1.md
+    choices:
+      - text: "Weiterlesen — durchhalten"
+        target: A_LIB2
+      - text: "Aufhoeren — es ist zu viel"
+        target: E5
+
+  A_LIB2:
+    title: "Befreiung im Dunkeln"
+    type: story
+    file: pfad_a/A_LIB2.md
+    next: AP1
+
+  # --- A-POST: Nach der Befreiung ---
+
+  AP1:
+    title: "Waerme"
+    type: story
+    file: pfad_a/AP1.md
+    next: AP2
+
+  AP2:
+    title: "Silbers Brief"
+    type: choice
+    file: pfad_a/AP2.md
+    choices:
+      - text: "Brief weiter lesen"
+        target: AP3a
+      - text: "Sofort nach draussen schauen"
+        target: AP3b
+
+  AP3a:
+    title: "Der Erste"
+    type: choice
+    file: pfad_a/AP3a.md
+    choices:
+      - text: "Allein befreit — Karte nehmen"
+        target: E1
+      - text: "Mit Theo befreit — Geschwister-Pakt"
+        target: E3
+
+  AP3b:
+    title: "Blaues Licht"
+    type: choice
+    file: pfad_a/AP3b.md
+    choices:
+      - text: "Allein befreit — Schattens Blick"
+        target: E2
+      - text: "Mit Theo befreit — Friedhof wartet"
+        target: E4
+
+  # --- Sub-Pfad A-VORSICHTIG: Erst lesen ---
+
+  A20:
+    title: "Silbers Arbeit"
+    type: story
+    file: pfad_a/A20.md
+    next: A21
+
+  A21:
+    title: "Das Kind im Spiegel"
+    type: story
+    file: pfad_a/A21.md
+    next: A22
+    unique_event: true
+
+  A22:
+    title: "Die Methode"
+    type: story
+    file: pfad_a/A22.md
+    next: A23
+
+  A23:
+    title: "Mit Methode"
+    type: story
+    file: pfad_a/A23.md
+    next: A24
+
+  A24:
+    title: "Letzte Worte"
+    type: choice
+    file: pfad_a/A24.md
+    choices:
+      - text: "Silbers Methode genau befolgen"
+        target: A26
+      - text: "Eigenen Weg versuchen"
+        target: A30
+      - text: "Erst die Karte untersuchen"
+        target: A33
+
+  # --- A-VORSICHTIG -> Silbers Methode (A26-A29) ---
+
+  A26:
+    title: "Vorbereitung"
+    type: story
+    file: pfad_a/A26.md
+    next: A27
+
+  A27:
+    title: "Das Ritual"
+    type: story
+    file: pfad_a/A27.md
+    next: A28
+
+  A28:
+    title: "Befreiung"
+    type: story
+    file: pfad_a/A28.md
+    next: A29
+
+  A29:
+    title: "Das Erbe"
+    type: choice
+    file: pfad_a/A29.md
+    choices:
+      - text: "Silbers Aufgabe annehmen"
+        target: E7
+      - text: "Zoegern — noch nicht bereit"
+        target: E8
+
+  # --- A-VORSICHTIG -> Eigener Weg (A30-A32) ---
+
+  A30:
+    title: "Noras Plan"
+    type: story
+    file: pfad_a/A30.md
+    next: A31
+
+  A31:
+    title: "Gescheitert"
+    type: choice
+    file: pfad_a/A31.md
+    choices:
+      - text: "Zurueck und zuhoeren (Silbers Methode, vorbereitet)"
+        target: A26
+      - text: "Aufgeben"
+        target: E9
+
+  # Note: A31 -> A26 (nicht A27), damit Nora die volle Methode durchlaeuft
+  # (Vorbereitung A26 -> Vorlesen A27 -> Befreiung A28), kein Sprung mitten ins Vorlesen.
+
+  # --- A-VORSICHTIG -> Graven zuerst (A33-A35) ---
+
+  A33:
+    title: "Die Karte"
+    type: story
+    file: pfad_a/A33.md
+    next: A34
+
+  A34:
+    title: "Der Friedhof"
+    type: choice
+    file: pfad_a/A34.md
+    choices:
+      - text: "Stehen bleiben"
+        target: E10
+      - text: "Fliehen"
+        target: E11
+      - text: "Schatten bellen lassen"
+        target: E12
+
+  # =============================
+  # PFAD B — "Die Detektivin"
+  # =============================
+
+  B1:
+    title: "Fakten zuerst"
+    type: story
+    file: pfad_b/B01.md
+    next: B2
+
+  B2:
+    title: "1974"
+    type: story
+    file: pfad_b/B02.md
+    next: B3
+
+  B3:
+    title: "Die Bibliothekarin"
+    type: story
+    file: pfad_b/B03.md
+    next: B4
+    unique_event: true
+
+  B4:
+    title: "Rote Tinte"
+    type: choice
+    file: pfad_b/B04.md
+    choices:
+      - text: "Weiter in der Bibliothek forschen"
+        target: B6
+      - text: "Frau Held fragen"
+        target: B14
+
+  # --- Sub-Pfad B-BIBLIOTHEK (B6-B13) ---
+
+  B6:
+    title: "Der Schleier"
+    type: story
+    file: pfad_b/B06.md
+    next: B7
+
+  B7:
+    title: "Verfolgt"
+    type: story
+    file: pfad_b/B07.md
+    next: B8
+    unique_event: true
+
+  B8:
+    title: "Silbers Spur"
+    type: choice
+    file: pfad_b/B08.md
+    choices:
+      - text: "Zu Silbers Wohnung gehen"
+        target: B9
+      - text: "Zum Friedhof — Gravens Grab"
+        target: B11
+      - text: "Erst noch mehr recherchieren"
+        target: D4
+
+  B9:
+    title: "Silbers Wohnung"
+    type: story
+    file: pfad_b/B09.md
+    next: B10
+
+  B10:
+    title: "Linas Tagebuch"
+    type: story
+    file: pfad_b/B10.md
+    next: B10a
+
+  B10a:
+    title: "Die Karte"
+    type: story
+    file: pfad_b/B10a.md
+    next: B10b
+
+  B10b:
+    title: "Das Werkzeug"
+    type: choice
+    file: pfad_b/B10b.md
+    choices:
+      - text: "Karte studieren"
+        target: E14
+      - text: "Erstmal verarbeiten"
+        target: E13
+      - text: "Alles zusammenfuegen — Karte UND Graven"
+        target: E16
+
+  B11:
+    title: "Schatten zerrt"
+    type: story
+    file: pfad_b/B11.md
+    next: B12
+    unique_event: true
+
+  B12:
+    title: "Der Erste"
+    type: choice
+    file: pfad_b/B12.md
+    choices:
+      - text: "Konfrontieren"
+        target: B13
+      - text: "Fliehen — erst Lina befreien"
+        target: B9
+
+  B13:
+    title: "Zu viel gewagt"
+    type: story
+    file: pfad_b/B13.md
+    next: E15
+
+  # --- Sub-Pfad B-FRAU HELD (B14-B22) ---
+
+  B14:
+    title: "Frau Held"
+    type: story
+    file: pfad_b/B14.md
+    next: B15
+
+  B15:
+    title: "Helds Geheimnis"
+    type: story
+    file: pfad_b/B15.md
+    next: B16
+    unique_event: true
+
+  B16:
+    title: "Der Schluessel"
+    type: choice
+    file: pfad_b/B16.md
+    choices:
+      - text: "Mit Frau Held hochgehen"
+        target: B17
+      - text: "Allein mit dem Schluessel"
+        target: B20
+
+  B17:
+    title: "Drei Generationen"
+    type: story
+    file: pfad_b/B17.md
+    next: B18
+
+  B18:
+    title: "Mama findet die Notizen"
+    type: choice
+    file: pfad_b/B18.md
+    unique_event: true
+    choices:
+      - text: "Mama anluegen — zurueck zu Held"
+        target: B19
+      - text: "Mama die volle Wahrheit sagen"
+        target: B18a
+
+  B18a:
+    title: "Die Wahrheit"
+    type: story
+    file: pfad_b/B18a.md
+    next: B19a
+
+  B19:
+    title: "Vier im Keller"
+    type: story
+    file: pfad_b/B19.md
+    next: B21
+
+  B19a:
+    title: "Fuenf im Keller"
+    type: story
+    file: pfad_b/B19a.md
+    next: B21a
+
+  B20:
+    title: "Allein mit dem Schluessel"
+    type: story
+    file: pfad_b/B20.md
+    next: B20a
+
+  B20a:
+    title: "Keller allein"
+    type: story
+    file: pfad_b/B20a.md
+    next: E18
+
+  B21:
+    title: "Helds Warnung"
+    type: choice
+    file: pfad_b/B21.md
+    choices:
+      - text: "Helds Hilfe annehmen"
+        target: E19
+      - text: "Die Warnung ernst nehmen — vorsichtig sein"
+        target: E20
+
+  B21a:
+    title: "Helds Warnung (mit Mama)"
+    type: story
+    file: pfad_b/B21a.md
+    next: E17
+
+  # =============================
+  # PFAD C — "Mama erzaehlen"
+  # =============================
+
+  C1:
+    title: "Am Kuechentisch"
+    type: story
+    file: pfad_c/C01.md
+    next: C2
+
+  C2:
+    title: "Verboten"
+    type: story
+    file: pfad_c/C02.md
+    next: C3
+
+  C3:
+    title: "Theo rebelliert"
+    type: choice
+    file: pfad_c/C03.md
+    unique_event: true
+    choices:
+      - text: "Mama gehorchen"
+        target: C4
+      - text: "Heimlich mit Theo nach oben"
+        target: C10
+
+  # --- GEHORCHEN-PFAD (Mama lernt) ---
+
+  C4:
+    title: "Allein mit dem Klopfen"
+    type: story
+    file: pfad_c/C04.md
+    next: C5
+
+  C5:
+    title: "Mama traeumt"
+    type: choice
+    file: pfad_c/C05.md
+    unique_event: true
+    choices:
+      - text: "Mama konfrontieren"
+        target: C6
+      - text: "Abwarten — Mama Zeit lassen"
+        target: C6b
+
+  C6:
+    title: "Mamas Sorge"
+    type: choice
+    file: pfad_c/C06.md
+    choices:
+      - text: "Ja, umziehen"
+        target: E21
+      - text: "Nein, wir bleiben — ich erklaere dir warum"
+        target: C7
+
+  C6b:
+    title: "Mama recherchiert"
+    type: choice
+    file: pfad_c/C06b.md
+    choices:
+      - text: "Mama geht zu Silbers Wohnung"
+        target: C7c
+      - text: "Mama ruft den Pfarrer"
+        target: C6c
+
+  C6c:
+    title: "Der Pfarrer"
+    type: story
+    file: pfad_c/C06c.md
+    next: C7c
+
+  C7:
+    title: "Klopfen eskaliert"
+    type: story
+    file: pfad_c/C07.md
+    next: C7a
+    unique_event: true
+
+  C7a:
+    title: "Schatten fuehrt"
+    type: story
+    file: pfad_c/C07a.md
+    next: C7b
+
+  C7b:
+    title: "Familie im Keller"
+    type: story
+    file: pfad_c/C07b.md
+    next: E23
+
+  C7c:
+    title: "Mama in Silbers Wohnung"
+    type: choice
+    file: pfad_c/C07c.md
+    choices:
+      - text: "Mama erzaehlt vom Keller"
+        target: C7d
+      - text: "Mama gibt Nora das Tagebuch sofort"
+        target: C7e
+
+  C7d:
+    title: "Mama allein im Keller"
+    type: story
+    file: pfad_c/C07d.md
+    next: C7e
+
+  C7e:
+    title: "Staffeluebergabe"
+    type: choice
+    file: pfad_c/C07e.md
+    choices:
+      - text: "Mit der Familie in den Keller"
+        target: C7b
+      - text: "Allein mit Schatten gehen"
+        target: C9
+
+  C9:
+    title: "Nora allein mit Mamas Segen"
+    type: story
+    file: pfad_c/C09.md
+    next: E22b
+
+  # --- SCHLEICHEN-PFAD (Kinder handeln) ---
+
+  C10:
+    title: "Mitternacht"
+    type: story
+    file: pfad_c/C10.md
+    next: C11
+
+  C11:
+    title: "Silbers Wohnung bei Nacht"
+    type: choice
+    file: pfad_c/C11.md
+    choices:
+      - text: "Sofort in den Keller"
+        target: C12
+      - text: "Erst Silbers Tagebuch studieren"
+        target: C13
+
+  C12:
+    title: "Ueberstuerzter Kellerversuch"
+    type: choice
+    file: pfad_c/C12.md
+    choices:
+      - text: "Mama die Wahrheit sagen"
+        target: C14
+      - text: "Luegen"
+        target: D7
+
+  C13:
+    title: "Tagebuch-Nacht"
+    type: choice
+    file: pfad_c/C13.md
+    choices:
+      - text: "Morgen mit Mama reden"
+        target: C14
+      - text: "Morgen Nacht allein versuchen"
+        target: C15
+
+  C14:
+    title: "Gestaendnis am Morgen"
+    type: story
+    file: pfad_c/C14.md
+    next: C7e
+
+  C15:
+    title: "Zweite Nacht, allein"
+    type: story
+    file: pfad_c/C15.md
+    next: E22
+
+  # =============================
+  # DEAD ENDS
+  # =============================
+
+  D1:
+    title: "Reden ist nicht Zuhoeren"
+    type: dead_end
+    file: dead_ends/D01.md
+    return_to: A11
+    return_text: "Zurueck zu Abschnitt A11"
+    lesson: "Reden ist nicht Zuhoeren"
+
+  D3:
+    title: "Allein im Dunkeln"
+    type: dead_end
+    file: dead_ends/D03.md
+    return_to: A8
+    return_text: "Zurueck zu Abschnitt A8"
+    lesson: "Zusammen staerker"
+
+  D4:
+    title: "Zu viel Wissen"
+    type: dead_end
+    file: dead_ends/D04.md
+    return_to: B8
+    return_text: "Zurueck zu Abschnitt B8"
+    lesson: "Handeln statt nur forschen"
+
+  D7:
+    title: "Mamas Schloss"
+    type: dead_end
+    file: dead_ends/D07.md
+    return_to: C12
+    return_text: "Zurueck zu Abschnitt C12"
+    lesson: "Luegen isolieren, Wahrheit verbindet"
+
+  # =============================
+  # ENDEN
+  # =============================
+
+  # --- Pfad A-Mutig Enden ---
+
+  E1:
+    title: "Die Kartenleserin"
+    type: ending
+    file: endings/E01.md
+    family: hueterin
+    tone: entschlossen
+    hook: voll
+    path: A-Mutig-Solo
+
+  E2:
+    title: "Schattens Blick"
+    type: ending
+    file: endings/E02.md
+    family: graven
+    tone: dunkel
+    hook: voll
+    path: A-Mutig-Solo
+
+  E3:
+    title: "Geschwister-Pakt"
+    type: ending
+    file: endings/E03.md
+    family: befreit
+    tone: warm
+    hook: voll
+    path: A-Mutig-Team
+
+  E4:
+    title: "Der Friedhof wartet"
+    type: ending
+    file: endings/E04.md
+    family: graven
+    tone: spannend
+    hook: voll
+    path: A-Mutig-Team
+
+  E5:
+    title: "Ungehoert"
+    type: ending
+    file: endings/E05.md
+    family: nicht_geschafft
+    tone: bitter
+    hook: mittel
+    path: A-Mutig-Scheitern
+
+  E6:
+    title: "Die Flucht"
+    type: ending
+    file: endings/E06.md
+    family: aufgegeben
+    tone: offen
+    hook: minimal
+    path: A-Mutig-Flucht
+
+  # --- Pfad A-Vorsichtig Enden ---
+
+  E7:
+    title: "Die neue Hueterin"
+    type: ending
+    file: endings/E07.md
+    family: hueterin
+    tone: episch
+    hook: maximum
+    path: A-Vorsichtig-Methode
+    codewort: SCHLUESSEL
+
+  E8:
+    title: "Noch nicht bereit"
+    type: ending
+    file: endings/E08.md
+    family: aufgegeben
+    tone: realistisch
+    hook: mittel
+    path: A-Vorsichtig-Methode
+
+  E9:
+    title: "Die Mauer"
+    type: ending
+    file: endings/E09.md
+    family: nicht_geschafft
+    tone: bitter
+    hook: minimal
+    path: A-Vorsichtig-Eigen
+
+  E10:
+    title: "Auge in Auge"
+    type: ending
+    file: endings/E10.md
+    family: graven
+    tone: dunkel
+    hook: voll
+    path: A-Vorsichtig-Graven
+
+  E11:
+    title: "Flucht vom Friedhof"
+    type: ending
+    file: endings/E11.md
+    family: graven
+    tone: horror
+    hook: voll
+    path: A-Vorsichtig-Graven
+
+  E12:
+    title: "Schatten bellt"
+    type: ending
+    file: endings/E12.md
+    family: graven
+    tone: mutig_humor
+    hook: voll
+    path: A-Vorsichtig-Graven
+
+  # --- Pfad B-Bibliothek Enden ---
+
+  E13:
+    title: "Die Ermittlerin"
+    type: ending
+    file: endings/E13.md
+    family: befreit
+    tone: warm_rational
+    hook: voll
+    path: B-Biblio-Silber
+
+  E14:
+    title: "Der Plan"
+    type: ending
+    file: endings/E14.md
+    family: hueterin
+    tone: systematisch
+    hook: voll
+    path: B-Biblio-Silber
+
+  E15:
+    title: "Zu nah am Feuer"
+    type: ending
+    file: endings/E15.md
+    family: graven
+    tone: dunkel
+    hook: voll
+    path: B-Biblio-Graven
+
+  E16:
+    title: "Schatten und Stein"
+    type: ending
+    file: endings/E16.md
+    family: befreit
+    tone: vollstaendig
+    hook: maximum
+    path: B-Biblio-Graven-Lina
+    codewort: KARTE
+
+  # --- Pfad B-Held Enden ---
+
+  E17:
+    title: "Drei Generationen"
+    type: ending
+    file: endings/E17.md
+    family: befreit
+    tone: emotional
+    hook: voll
+    path: B-Held-Gemeinsam
+
+  E18:
+    title: "Silbers Erbin"
+    type: ending
+    file: endings/E18.md
+    family: hueterin
+    tone: stark
+    hook: voll
+    path: B-Held-Allein
+
+  E19:
+    title: "Helds Versprechen"
+    type: ending
+    file: endings/E19.md
+    family: befreit
+    tone: hoffnung
+    hook: voll
+    path: B-Held-Gemeinsam
+
+  E20:
+    title: "Die Warnung"
+    type: ending
+    file: endings/E20.md
+    family: graven
+    tone: spannend
+    hook: voll
+    path: B-Held-Allein
+
+  # --- Pfad C Enden ---
+
+  E21:
+    title: "Gravenstedt verlassen"
+    type: ending
+    file: endings/E21.md
+    family: aufgegeben
+    tone: traurig
+    hook: minimal
+    path: C-Gehorchen
+
+  E22:
+    title: "Nicht genug"
+    type: ending
+    file: endings/E22.md
+    family: nicht_geschafft
+    tone: bittersweet
+    hook: mittel
+    path: C-Schleichen
+
+  E22b:
+    title: "Mamas Segen"
+    type: ending
+    file: endings/E22b.md
+    family: befreit
+    tone: warm
+    hook: voll
+    path: C-Gehorchen-Solo
+
+  E23:
+    title: "Mamas Frage"
+    type: ending
+    file: endings/E23.md
+    family: befreit
+    tone: warm
+    hook: mittel
+    path: C-Gehorchen
+    codewort: STIMME
+
+  # --- Geheim-Ending (Codewort-System) ---
+
+  E24:
+    title: "Das Versprechen"
+    type: ending
+    file: endings/E24_geheim.md
+    family: hueterin
+    tone: episch
+    hook: maximum
+    path: Geheim
+    codewort_system: true
+    requires: ["SCHLUESSEL", "KARTE", "STIMME"]
+    serien_codewort: ZUHOEREN

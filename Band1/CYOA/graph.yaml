@@ -1,0 +1,1573 @@
+# ============================================================
+# Die Geisterspürer Band 1 — CYOA Graph
+# "Das Haus, das flüstert — Entscheidungsbuch"
+# ============================================================
+#
+# 103 Abschnitte: 97 Story + 3 Enden + 3 Sackgassen
+# 10 Flaschenhälse (BN1-BN10) — in jedem Pfad Pflicht
+# 17 Entscheidungspunkte (E1-E17)
+# 6 Verzweigungszonen (A-F)
+#
+# Typen:
+#   bottleneck  = Pflicht-Abschnitt (jeder Pfad passiert hier)
+#   branch      = Verzweigungsabschnitt (nur ein Pfad)
+#   converge    = Zusammenführung (mehrere Pfade treffen sich)
+#   story       = Linearer Erzählabschnitt
+#   choice      = Entscheidungspunkt
+#   dead_end    = Sackgasse (zurückblättern)
+#   ending      = Ende
+# ============================================================
+
+metadata:
+  title: "Das Haus, das flüstert — Entscheidungsbuch"
+  series: "Die Geisterspürer"
+  band: 1
+  total_sections: 103
+  endings: 3
+  dead_ends: 3
+  bottlenecks: 10
+  decision_points: 17
+
+sections:
+
+  # ============================================================
+  # ZONE A: Ankunft & Erste Nacht (Abschnitte 1-15)
+  # Flaschenhälse: BN1 (Ankunft + Schatten), BN2 ("HILF")
+  # Entscheidungen: E1, E2, E3
+  # ============================================================
+
+  1:
+    title: "Neue Stadt, altes Haus"
+    file: "abschnitt_001.md"
+    type: "bottleneck"
+    bottleneck_id: 1
+    zone: "A"
+    act: 1
+    summary: >
+      Ankunft in Gravenstedt. Umzugswagen. Alte Wohnung, Kirchgasse 14. Knarrendes Holz.
+      Mutter muss sofort los (neuer Job). Nora versucht positiv zu sein, Theo nicht.
+      Vor der Haustür: ein dünner Hund mit bernsteinfarbenen Augen. Weicht nicht.
+    choices:
+      - text: "Du folgst dem Hund die Treppe hinauf. Geh zu Abschnitt 3."
+        target: 3
+        tag: "mutig"
+      - text: "Du erkundest erst die neue Wohnung. Geh zu Abschnitt 2."
+        target: 2
+        tag: "vorsichtig"
+
+  2:
+    title: "Kalte Wände"
+    file: "abschnitt_002.md"
+    type: "branch"
+    zone: "A"
+    act: 1
+    summary: >
+      Wohnung erkunden. Hohe Decken, alte Dielen, Staub in den Ecken.
+      Ein Zimmer ist eiskalt — mitten im Juli. Theo: "Hier wohnt schon jemand. Jemand Unsichtbares."
+      Nora ignoriert ihn. Dann: Kratzen im Treppenhaus. Der Hund.
+    next: 4
+
+  3:
+    title: "Bernsteinaugen"
+    file: "abschnitt_003.md"
+    type: "branch"
+    zone: "A"
+    act: 1
+    summary: >
+      Der Hund geht die Treppe hoch. Langsam, als ob er wartet. Zweiter Stock.
+      Bleibt vor einer Tür stehen. Knurrt leise. An der Tür: verblasstes Schild, handgeschrieben.
+      "Silber."
+    next: 5
+
+  4:
+    title: "Der Hund wartet"
+    file: "abschnitt_004.md"
+    type: "branch"
+    zone: "A"
+    act: 1
+    summary: >
+      Im Treppenhaus sitzt der Hund. Zweiter Stock. Vor einer Tür mit verblasstem Schild.
+      "Silber." Er schaut Nora an, als hätte er auf sie gewartet.
+    next: 5
+
+  5:
+    title: "Frau Silbers Tür"
+    file: "abschnitt_005.md"
+    type: "converge"
+    zone: "A"
+    act: 1
+    decision_id: "E2"
+    summary: >
+      Die Tür steht einen Spalt offen. Kalte Luft strömt heraus. Der Hund winselt.
+      Schatten auf dem Boden, die sich nicht bewegen sollten.
+    choices:
+      - text: "Du drückst die Tür auf und gehst hinein. Geh zu Abschnitt 6."
+        target: 6
+        tag: "mutig"
+      - text: "Nicht heute. Du gehst zurück in eure Wohnung. Geh zu Abschnitt 8."
+        target: 8
+        tag: "vorsichtig"
+
+  6:
+    title: "Spuren einer Flucht"
+    file: "abschnitt_006.md"
+    type: "branch"
+    zone: "A"
+    act: 1
+    summary: >
+      Leere Wohnung. Aber nicht leer wie "unbewohnt" — leer wie "fluchtartig verlassen."
+      Kratzer an den Wänden. Umgeworfene Möbel. In einem Zimmer: eisige Kälte.
+      Der Hund weigert sich, dieses Zimmer zu betreten. Stellt sich quer in der Tür.
+    next: 7
+
+  7:
+    title: "Das Foto"
+    file: "abschnitt_007.md"
+    type: "branch"
+    zone: "A"
+    act: 1
+    summary: >
+      Auf einem umgekippten Regal: ein Foto. Alte Frau, weißes Haar, gütige Augen.
+      Neben ihr: ein Hund. Dunkles Fell. Bernsteinfarbene Augen.
+      Nora schaut den Hund an. Der Hund schaut zurück. Derselbe Hund.
+    next: 9
+
+  8:
+    title: "Unruhige Stunden"
+    file: "abschnitt_008.md"
+    type: "branch"
+    zone: "A"
+    act: 1
+    summary: >
+      Zurück in der Wohnung. Auspacken. Der Hund bleibt vor der Tür sitzen.
+      Abends: Mutter kommt, erlaubt den Hund ("Vorläufig!"). Theo strahlt.
+      Nacht: Der Hund starrt an die Decke. Genau die Stelle, wo oben Silbers Wohnung ist.
+    next: 9
+
+  9:
+    title: "Schatten"
+    file: "abschnitt_009.md"
+    type: "converge"
+    zone: "A"
+    act: 1
+    summary: >
+      Theo nennt den Hund "Schatten". ("Weil er uns überall hin folgt. Wie ein Schatten.
+      Außerdem ist er schwarz. Kreativ, ich weiß.")
+      Mutter lacht zum ersten Mal seit dem Umzug. Normaler Abend.
+      Aber um Mitternacht: Nora wacht auf.
+    next: 10
+
+  10:
+    title: "Dreimal Klopfen"
+    file: "abschnitt_010.md"
+    type: "story"
+    zone: "A"
+    act: 1
+    decision_id: "E3"
+    summary: >
+      Klopfen. An der Wand. Dreimal. Pause. Dreimal. Pause. Dreimal.
+      Schatten sitzt aufrecht im Körbchen. Fell gesträubt. Er heult nicht — er WARTET.
+      Theo wacht auf. "Was ist das?" — "Wasserrohre", sagt Nora.
+      Theo: "Wasserrohre klopfen nicht in Dreiergruppen."
+    choices:
+      - text: "Du stehst auf und untersuchst das Klopfen. Geh zu Abschnitt 11."
+        target: 11
+        tag: "mutig"
+      - text: "Du bleibst im Bett und ziehst die Decke hoch. Geh zu Abschnitt 12."
+        target: 12
+        tag: "vorsichtig"
+
+  11:
+    title: "Eisige Treppe"
+    file: "abschnitt_011.md"
+    type: "branch"
+    zone: "A"
+    act: 1
+    summary: >
+      Nora schleicht ins Treppenhaus. Schatten folgt. Jede Stufe knarrt.
+      Zweiter Stock: Silbers Tür — diesmal zu. Verschlossen.
+      Das Klopfen verstummt. Aber die Luft ist eiskalt. Noras Atem dampft.
+      Und dann: leises Kratzen. Von innen. An der Tür.
+    next: 13
+
+  12:
+    title: "Unter der Decke"
+    file: "abschnitt_012.md"
+    type: "branch"
+    zone: "A"
+    act: 1
+    summary: >
+      Decke über den Kopf. Klopfen wird lauter. Dann leiser. Dann hört es auf.
+      Schatten legt sich auf Noras Füße. Warm. Schwer. Beruhigend.
+      Nora schläft irgendwann ein, Theos Hand in ihrer.
+      Morgens: alles normal. Fast.
+    next: 13
+
+  13:
+    title: "HILF"
+    file: "abschnitt_013.md"
+    type: "bottleneck"
+    bottleneck_id: 2
+    zone: "A"
+    act: 1
+    summary: >
+      Morgen. Küchenfenster. Kondenswasser. Ein Wort, wie mit dem Finger geschrieben: HILF.
+      Theo: "ICH HAB'S DIR GESAGT!" Nora wischt es weg. Sofort.
+      Schule — erster Tag. Nora kann sich nicht konzentrieren.
+      Nach der Schule: neues Wort. HIER. Daneben ein Pfeil. Nach oben.
+    next: 14
+
+  14:
+    title: "Schatten wartet"
+    file: "abschnitt_014.md"
+    type: "story"
+    zone: "A"
+    act: 1
+    summary: >
+      Schatten steht schon an der Treppe. Er wartet. Bernsteinfarbene Augen,
+      die sagen: Ihr wisst, was ihr tun müsst.
+      Theo: "Der Hund ist schlauer als wir." Nora: "Das ist kein großes Kunststück."
+    next: 15
+
+  15:
+    title: "Die Namen an der Wand"
+    file: "abschnitt_015.md"
+    type: "bottleneck"
+    bottleneck_id: 3
+    zone: "A"
+    act: 2
+    summary: >
+      Frau Silbers Wohnung. Diesmal anders. Kühler, aber nicht eisig. Schatten geht REIN.
+      Führt sie durch den Flur. Ein Zimmer: alte Bücher, Kerzenreste, Notizen an der Wand.
+      Namen, Daten, Adressen — Leute aus Gravenstedt. Die Daten gehen bis 1840 zurück.
+      Theo: "Das ist eine Liste von Toten." Foto: alte Frau mit Schatten.
+      Dann: Kinderfüße auf Holzboden. Rennend. Stille.
+    next: 16
+
+  # ============================================================
+  # ZONE B: Ermittlung (Abschnitte 16-30)
+  # Flaschenhals: BN4 (Tagebuch finden)
+  # Entscheidungen: E4, E5, E6
+  # Sackgasse: S1 (Mama erzählen)
+  # ============================================================
+
+  16:
+    title: "Lina Vogt, 1974"
+    file: "abschnitt_016.md"
+    type: "story"
+    zone: "B"
+    act: 2
+    decision_id: "E4"
+    summary: >
+      Flucht aus Silbers Wohnung. Treppenhaus. Theo: "Wir sind gerade aus einer Geisterwohnung
+      gerannt. Unser Hund hat uns reingeführt. Das ist mein Leben jetzt."
+      Nora analysiert die Namensliste. Ganz unten, andere Tinte: "Lina Vogt? — 1974?"
+      Kirchgasse 14. Ihre Adresse.
+    choices:
+      - text: "Du erzählst Mama alles. Geh zu Abschnitt 101."
+        target: 101
+        tag: "vorsichtig"
+      - text: "Du behältst das Geheimnis für euch. Geh zu Abschnitt 17."
+        target: 17
+        tag: "mutig"
+
+  17:
+    title: "Selber ermitteln"
+    file: "abschnitt_017.md"
+    type: "branch"
+    zone: "B"
+    act: 2
+    decision_id: "E5"
+    summary: >
+      Nora und Theo: allein ermitteln. Lina Vogt, 12 Jahre alt, 1974. Was ist passiert?
+      Zwei Spuren: die Stadtbibliothek (alte Zeitungen) oder Frau Held (Nachbarin im EG,
+      die viel redet und vielleicht viel weiß).
+    choices:
+      - text: "Ihr geht in die Stadtbibliothek. Geh zu Abschnitt 18."
+        target: 18
+        tag: "ermittlung"
+      - text: "Ihr fragt eure Nachbarin Frau Held. Geh zu Abschnitt 19."
+        target: 19
+        tag: "zuhoeren"
+
+  18:
+    title: "Mikrofiche"
+    file: "abschnitt_018.md"
+    type: "branch"
+    zone: "B"
+    act: 2
+    summary: >
+      Bibliothek. Alte Jahrgänge der Gravenstedter Zeitung auf Mikrofiche.
+      Winziger Artikel: "Lina Vogt (12), Tochter von Familie Vogt, Kirchgasse 14,
+      verstorben am 3. November 1974 an den Folgen eines Unfalls."
+      Kein weiterer Artikel. Keine Details. Nur ein totes Mädchen. In ihrer Wohnung.
+    next: 22
+
+  19:
+    title: "Frau Held"
+    file: "abschnitt_019.md"
+    type: "branch"
+    zone: "B"
+    act: 2
+    summary: >
+      Treppenhaus. Frau Held redet. Über alles. Das Wetter, die Mülltonnen, die Kinder von nebenan.
+      Die Kinder wollen eigentlich hoch. Aber dann sagt Frau Held: "Die alte Frau oben?
+      Ich hab der Polizei gesagt, dass da was nicht stimmt. Aber die haben mich abgewimmelt."
+      Sie schüttelt den Kopf. "Niemand hört mir zu."
+      Die Kinder BLEIBEN. Hören zu. Frau Held gibt ihnen einen echten Hinweis:
+      Silber ging abends mit Schatten los. Taschenlampe, Notizbuch.
+      "Manchmal hörte ich sie reden — mit jemandem, den ich nicht sehen konnte."
+    next: 20
+
+  20:
+    title: "VERGISS NICHT"
+    file: "abschnitt_020.md"
+    type: "branch"
+    zone: "B"
+    act: 2
+    summary: >
+      Zurück in der Wohnung. Neues Kondenswasser. Diesmal: VERGISS NICHT.
+      Nora und Theo schauen sich an. Dann gehen sie zur Bibliothek.
+      Lina Vogt suchen. Alles, was sie finden können.
+    next: 21
+
+  21:
+    title: "Zeitungsartikel"
+    file: "abschnitt_021.md"
+    type: "branch"
+    zone: "B"
+    act: 2
+    summary: >
+      Mikrofiche. Der Artikel über Lina. Und noch etwas:
+      Zeitungsartikel von vor 3 Monaten, Lokalteil: "Langjährige Bewohnerin
+      Margret Silber wird vermisst." Silber = die alte Frau auf dem Foto.
+      Silber = Schattens Besitzerin. Silber = verschwunden.
+    next: 22
+
+  22:
+    title: "Schatten kratzt"
+    file: "abschnitt_022.md"
+    type: "converge"
+    zone: "B"
+    act: 2
+    decision_id: "E6"
+    summary: >
+      In der Wohnung. Wissen über Lina gesammelt. Fragen über Fragen.
+      Schatten sitzt vor der Wand im Flur. Kratzt mit der Pfote. Immer wieder.
+      Eine Stelle. Hartnäckig. Jault leise.
+    choices:
+      - text: "Du untersuchst die Stelle, an der Schatten kratzt. Geh zu Abschnitt 23."
+        target: 23
+        tag: "schatten"
+      - text: "Du gehst nochmal in Silbers Wohnung, um dort mehr zu finden. Geh zu Abschnitt 25."
+        target: 25
+        tag: "ermittlung"
+
+  23:
+    title: "Hinter der Tapete"
+    file: "abschnitt_023.md"
+    type: "branch"
+    zone: "B"
+    act: 2
+    summary: >
+      Alte Tapete. Nora löst sie vorsichtig. Darunter: Riss in der Wand.
+      Brüchiger Mauerstein. Theo holt Werkzeug aus dem Umzugskarton.
+    next: 27
+
+  24:
+    title: "Mehr Notizen"
+    file: "abschnitt_024.md"
+    type: "branch"
+    zone: "B"
+    act: 2
+    summary: >
+      In Silbers Wohnung: mehr Notizen. "Die Unruhigen." "Schatten spürt sie."
+      Aber kein Tagebuch. Kein entscheidender Hinweis.
+      Dann: Schatten ist weg. Nicht in der Wohnung. Nicht im Treppenhaus.
+    next: 26
+
+  25:
+    title: "Silbers Notizen"
+    file: "abschnitt_025.md"
+    type: "branch"
+    zone: "B"
+    act: 2
+    summary: >
+      Nochmal in Silbers Wohnung. Gezielter suchen. Notizbücher durchblättern.
+      "Jeder von ihnen hat eine Geschichte. Jede Geschichte will gehört werden."
+      Nora liest weiter. Theo: "Nora? Wo ist Schatten?"
+    next: 24
+
+  26:
+    title: "Schatten lässt nicht los"
+    file: "abschnitt_026.md"
+    type: "branch"
+    zone: "B"
+    act: 2
+    summary: >
+      Sie finden ihn eine Etage tiefer. In ihrer Wohnung. Vor der Wand. Kratzend.
+      Dieselbe Stelle. Immer wieder.
+      Schatten schaut Nora an. Dann die Wand. Dann Nora.
+      Nora versteht: Schatten zeigt ihnen etwas.
+    next: 27
+
+  27:
+    title: "Der Hohlraum"
+    file: "abschnitt_027.md"
+    type: "converge"
+    zone: "B"
+    act: 2
+    summary: >
+      Stein raus. Dahinter: ein kleiner Hohlraum. Staubig, dunkel.
+      Theo leuchtet mit dem Handy rein. Etwas liegt drin.
+    next: 28
+
+  28:
+    title: "Linas Tagebuch"
+    file: "abschnitt_028.md"
+    type: "bottleneck"
+    bottleneck_id: 4
+    zone: "B"
+    act: 2
+    decision_id: "E7"
+    summary: >
+      Ein verstaubtes Buch. Ledereinband, vergilbt. Mädchenschrift auf der ersten Seite:
+      "Linas Tagebuch."
+      Als Nora es aufschlägt: schlagartig kalt im Raum. Glühbirne flackert. Schatten winselt.
+      Theo: "Das ist wie in einem Film. Einem, in dem alle sterben."
+      Nora: "Hilfreich, Theo." Theo: "Ich sag nur, was alle denken."
+    choices:
+      - text: "Du liest das Tagebuch allein in deinem Zimmer. Geh zu Abschnitt 29."
+        target: 29
+        tag: "allein"
+      - text: "Du rufst Theo — ihr lest es zusammen. Geh zu Abschnitt 30."
+        target: 30
+        tag: "geschwister"
+
+  # ============================================================
+  # ZONE C: Das Tagebuch (Abschnitte 29-43)
+  # Flaschenhals: BN5 (Linas Geschichte verstehen)
+  # Entscheidungen: E7 (→28), E8, E9
+  # ============================================================
+
+  29:
+    title: "Allein mit Lina"
+    file: "abschnitt_029.md"
+    type: "branch"
+    zone: "C"
+    act: 2
+    summary: >
+      Nacht. Theo schläft. Nora liest allein bei Taschenlampe.
+      Linas Worte werden zu Bildern. Normales Mädchen, 12 Jahre, Schule, Freundinnen, Hund Luna.
+      Dann: die Einträge werden dunkler. "Das kalte Zimmer." "Geräusche nachts."
+      Nora fühlt sich wie Linas Schwester. Allein mit einem Geheimnis, das niemand glaubt.
+    next: 31
+
+  30:
+    title: "Zusammen lesen"
+    file: "abschnitt_030.md"
+    type: "branch"
+    zone: "C"
+    act: 2
+    summary: >
+      Nebeneinander auf Noras Bett. Schatten zu ihren Füßen.
+      Theo kommentiert alles. "Die hatte einen Hund namens Luna? Wie originell."
+      Aber als die Einträge dunkler werden, wird Theo still.
+      "Keiner hat ihr geglaubt", flüstert er. "Genau wie bei mir."
+    next: 32
+
+  31:
+    title: "Noras Erkenntnis"
+    file: "abschnitt_031.md"
+    type: "branch"
+    zone: "C"
+    act: 2
+    summary: >
+      Morgens. Nora hat die ganze Nacht gelesen. Erzählt Theo alles.
+      Theo ist verletzt. "Warum hast du mich nicht geweckt?"
+      Nora: "Ich wollte dich beschützen." Theo: "Ich bin zehn, nicht drei."
+      Sie sieht es jetzt: sie hat Theo ausgeschlossen — genau wie Linas Eltern Lina.
+    next: 33
+
+  32:
+    title: "Theos Tränen"
+    file: "abschnitt_032.md"
+    type: "branch"
+    zone: "C"
+    act: 2
+    summary: >
+      Theo wischt sich die Augen. Versucht es zu verstecken.
+      "Ich wein nicht. Da war Staub im Buch."
+      Nora legt den Arm um ihn. "Ich weiß."
+      Stille. Dann Theo: "Keiner hat ihr zugehört. Ihre Eltern nicht. Niemand."
+    next: 33
+
+  33:
+    title: "Keiner hat zugehört"
+    file: "abschnitt_033.md"
+    type: "bottleneck"
+    bottleneck_id: 5
+    zone: "C"
+    act: 2
+    decision_id: "E8"
+    summary: >
+      Linas Geschichte — komplett. Normales Mädchen. Kaltes Zimmer. Geräusche.
+      Niemand glaubt ihr. Letzter Eintrag: "Morgen gehe ich in den Keller.
+      Ich muss wissen, was dort unten ist." Danach: leer.
+      Nora erkennt den Spiegel: sie hat Theo nicht zugehört. Genau wie Linas Eltern.
+      "Ich höre dir zu. Ab jetzt."
+    choices:
+      - text: "Du liest das Tagebuch in einem Zug durch — jetzt sofort. Geh zu Abschnitt 34."
+        target: 34
+        tag: "intensiv"
+      - text: "Du brauchst eine Pause. Morgen weiter. Geh zu Abschnitt 35."
+        target: 35
+        tag: "vorsichtig"
+
+  34:
+    title: "Alles auf einmal"
+    file: "abschnitt_034.md"
+    type: "branch"
+    zone: "C"
+    act: 2
+    summary: >
+      Nora liest weiter. Stunde um Stunde. Die Worte verschwimmen.
+      Die Kälte im Zimmer kriecht näher. Schatten legt seinen Kopf auf Noras Knie.
+      Als Nora die letzte Seite umblättert, ist es drei Uhr morgens.
+      Sie kann nicht schlafen. Linas Worte hallen nach.
+    next: 37
+
+  35:
+    title: "Unruhige Nacht"
+    file: "abschnitt_035.md"
+    type: "branch"
+    zone: "C"
+    act: 2
+    summary: >
+      Nora legt das Tagebuch weg. "Morgen."
+      Nacht. Klopfen. Lauter als sonst. Dreimal. Dreimal. Dreimal.
+      Kondenswasser am Fenster: "LIES WEITER."
+      Schatten steht vor dem Tagebuch. Stupst es mit der Nase.
+    next: 36
+
+  36:
+    title: "Weiterlesen"
+    file: "abschnitt_036.md"
+    type: "branch"
+    zone: "C"
+    act: 2
+    summary: >
+      Am nächsten Tag: weiterlesen. Diesmal mit Schatten direkt neben sich.
+      Linas letzte Einträge. Angst, Einsamkeit, der Keller.
+      "Wenn mir etwas passiert, soll jemand wissen, dass ich die Wahrheit gesagt habe."
+    next: 37
+
+  37:
+    title: "Der letzte Eintrag"
+    file: "abschnitt_037.md"
+    type: "converge"
+    zone: "C"
+    act: 2
+    decision_id: "E9"
+    summary: >
+      Linas letzte Worte gelesen. Stille. Das Tagebuch liegt schwer in Noras Händen.
+      Fünfzig Jahre hat niemand diese Worte gelesen.
+      Nora und Theo sitzen da. Was jetzt?
+    choices:
+      - text: "Nora will aufhören. Es ist zu gefährlich. Geh zu Abschnitt 38."
+        target: 38
+        tag: "vorsichtig"
+      - text: "\"Wir helfen ihr. Jetzt.\" Geh zu Abschnitt 39."
+        target: 39
+        tag: "mutig"
+
+  38:
+    title: "Das Muster"
+    file: "abschnitt_038.md"
+    type: "branch"
+    zone: "C"
+    act: 3
+    summary: >
+      Nora: "Wir hören auf." Theo: "NEIN."
+      "Du hast MIR am Anfang auch nicht zugehört. Und Mama hört DIR nicht zu.
+      Und Linas Eltern haben IHR nicht zugehört. Merkst du das Muster?"
+      Nora öffnet den Mund. Schließt ihn. Er hat recht.
+      Schatten legt sich vor Noras Füße und schaut sie an.
+    next: 40
+
+  39:
+    title: "Jetzt helfen"
+    file: "abschnitt_039.md"
+    type: "branch"
+    zone: "C"
+    act: 3
+    summary: >
+      "Wir schulden es ihr", sagt Nora. Theo nickt.
+      "Aber wie?" Nora denkt an Frau Silbers Notizen. An die Namensliste.
+      "Frau Silber hat es geschafft. Irgendwie. Wir müssen herausfinden, wie."
+    next: 40
+
+  40:
+    title: "Frau Silbers Methode"
+    file: "abschnitt_040.md"
+    type: "converge"
+    zone: "C"
+    act: 3
+    summary: >
+      In Silbers Wohnung. Gezielter suchen. Notizbuch finden. Frau Silbers Schrift:
+      "Die Unruhigen brauchen jemanden, der ihnen zuhört. Wirklich zuhört.
+      Erst dann können sie gehen."
+      Frau Silbers Methode: Geschichte des Geistes herausfinden → ZUHÖREN →
+      dem Geist zeigen, dass jemand seine Geschichte gehört hat.
+      Letzte Seite: "Ich glaube, die nächste bin ich. Der Schleier wird dünner."
+    next: 41
+
+  41:
+    title: "Der Keller"
+    file: "abschnitt_041.md"
+    type: "story"
+    zone: "C"
+    act: 3
+    summary: >
+      Lina ist im Keller gestorben. Im Keller hat sie etwas gesucht.
+      "Wir müssen dahin, wo sie zuletzt war", sagt Nora.
+      Theo schluckt. "Der Keller? Nachts? In einem Geisterhaus?"
+      Nora: "Es muss nicht nachts sein."
+      Theo: "Oh. Na dann. Nur ein Geister-Keller am Tag. Viel besser."
+    next: 42
+
+  # ============================================================
+  # ZONE D: Keller & Gefahr (Abschnitte 42-60)
+  # Flaschenhals: BN6 (Lina manifestiert sich)
+  # Entscheidungen: E10, E11, E12
+  # Sackgasse: S2 (Keller allein nachts)
+  # ============================================================
+
+  42:
+    title: "Wann?"
+    file: "abschnitt_042.md"
+    type: "story"
+    zone: "D"
+    act: 3
+    decision_id: "E10"
+    summary: >
+      Taschenlampe. Schatten an der Leine. Theos Gesicht: blass, aber entschlossen.
+      "Falls ich schreie, war das ein Kriegsschrei. Kein Angstschrei. Nur zur Info."
+    choices:
+      - text: "Ihr geht jetzt. Bei Tageslicht. Geh zu Abschnitt 43."
+        target: 43
+        tag: "vorsichtig"
+      - text: "Ihr wartet bis Mitternacht. Geister sind nachts stärker. Geh zu Abschnitt 44."
+        target: 44
+        tag: "mutig"
+
+  43:
+    title: "Tageslicht im Keller"
+    file: "abschnitt_043.md"
+    type: "branch"
+    zone: "D"
+    act: 3
+    summary: >
+      Nachmittag. Sonnenlicht fällt schräg in den Kellereingang. Aber nach zehn Stufen
+      ist es dunkel. Kalt. Feucht. Taschenlampe an.
+      Schatten geht voraus. Seine Krallen klicken auf dem Steinboden.
+    next: 47
+
+  44:
+    title: "Mitternacht"
+    file: "abschnitt_044.md"
+    type: "branch"
+    zone: "D"
+    act: 3
+    summary: >
+      Mitternacht. Mutter schläft. Das Haus knarrt.
+      Nora und Theo stehen vor der Kellertür. Schatten neben ihnen.
+      Theo: "Weißt du, was schlimmer ist als ein Geister-Keller? Ein Geister-Keller um Mitternacht."
+    choices:
+      - text: "Du nimmst Theo und Schatten mit. Zusammen. Geh zu Abschnitt 45."
+        target: 45
+        tag: "geschwister"
+      - text: "Du lässt Theo schlafen und gehst allein. Geh zu Abschnitt 102."
+        target: 102
+        tag: "allein"
+
+  45:
+    title: "Zusammen in die Dunkelheit"
+    file: "abschnitt_045.md"
+    type: "branch"
+    zone: "D"
+    act: 3
+    summary: >
+      Zu dritt die Treppe hinunter. Jede Stufe knarrt doppelt so laut in der Stille.
+      Schattens Augen leuchten in der Dunkelheit. Bernsteinfarben.
+      Theo greift nach Noras Ärmel. "Nicht loslassen."
+    next: 46
+
+  46:
+    title: "Keller nachts — intensiver"
+    file: "abschnitt_046.md"
+    type: "branch"
+    zone: "D"
+    act: 3
+    summary: >
+      Der Keller fühlt sich nachts anders an. Lebendiger. Die Schatten an den Wänden
+      bewegen sich, obwohl die Taschenlampe still in Noras Hand liegt.
+      Irgendwo tropft Wasser. Regelmäßig. Wie ein Herzschlag.
+    next: 48
+
+  47:
+    title: "Alter Keller"
+    file: "abschnitt_047.md"
+    type: "converge"
+    zone: "D"
+    act: 3
+    summary: >
+      Langer Gang. Steinwände. Niedrige Decke. Spinnweben.
+      Schatten führt. Sicher, als ob er den Weg kennt.
+      Theo: "Warte mal. Kennt er den Weg? WAR ER SCHON MAL HIER?"
+      Schatten bleibt vor einer Ecke stehen. Knurrt nicht — winselt.
+    next: 48
+
+  48:
+    title: "Die Ecke"
+    file: "abschnitt_048.md"
+    type: "story"
+    zone: "D"
+    act: 3
+    decision_id: "E11"
+    summary: >
+      Die Luft ist eiskalt. Noras Atem dampft. An der Wand: Risse, als hätte
+      jemand mit den Fingern gekratzt. Alt. Sehr alt.
+      Theo flüstert: "Hier ist es passiert."
+      Dann spürt Nora es: eine Präsenz. Nicht sehen. Nicht hören. Aber SPÜREN.
+      Wie jemand direkt hinter ihr steht.
+    choices:
+      - text: "Du bleibst ruhig stehen. Geh zu Abschnitt 49."
+        target: 49
+        tag: "mutig"
+      - text: "Du rennst zurück zur Treppe. Geh zu Abschnitt 50."
+        target: 50
+        tag: "vorsichtig"
+
+  49:
+    title: "Standhalten"
+    file: "abschnitt_049.md"
+    type: "branch"
+    zone: "D"
+    act: 3
+    summary: >
+      Nora bleibt stehen. Herz hämmert. Hände zittern. Aber sie bleibt.
+      Schatten drückt sich an ihr Bein. Warm.
+      Die Präsenz wird stärker. Kälter. Dann — Nora dreht sich um.
+      Nichts. Aber auf dem staubigen Boden: Fußspuren.
+      Kleine, nackte Kinderfüße. Die nicht von ihnen stammen.
+    next: 52
+
+  50:
+    title: "Flucht"
+    file: "abschnitt_050.md"
+    type: "branch"
+    zone: "D"
+    act: 3
+    summary: >
+      Raus. Raus. RAUS. Treppe hoch. Tür zu. Keuchen.
+      Theo: "Das war... das war..." Nora: "Ja."
+      Schatten sitzt ruhig neben ihnen. Schaut sie an.
+      "Wir müssen zurück", sagt Nora nach einer Minute. "Nicht heute. Aber morgen."
+      Theo: "Ich wusste, dass du das sagst."
+    next: 51
+
+  51:
+    title: "Zweiter Anlauf"
+    file: "abschnitt_051.md"
+    type: "branch"
+    zone: "D"
+    act: 3
+    summary: >
+      Nächster Tag. Vorbereitet. Taschenlampe, Kerzen, warme Jacke.
+      Schatten führt sie diesmal direkt zur Ecke. Sicherer als gestern.
+      Die Fußspuren sind noch da. Klein. Barfuß. Und es sind mehr geworden.
+    next: 52
+
+  52:
+    title: "Fußspuren im Staub"
+    file: "abschnitt_052.md"
+    type: "converge"
+    zone: "D"
+    act: 3
+    decision_id: "E12"
+    summary: >
+      Kleine Fußspuren. Barfuß. Im Kreis laufend, als ob jemand
+      nicht wüsste, wohin. Fünfzig Jahre lang.
+      Nora: "Wir müssen ihr zeigen, dass wir da sind. Dass wir zuhören."
+    choices:
+      - text: "Du versuchst Frau Silbers Methode — zuhören. Geh zu Abschnitt 53."
+        target: 53
+        tag: "zuhoeren"
+      - text: "Du versuchst es auf deine eigene Art. Geh zu Abschnitt 54."
+        target: 54
+        tag: "mutig"
+
+  53:
+    title: "Zuhören im Keller"
+    file: "abschnitt_053.md"
+    type: "branch"
+    zone: "D"
+    act: 3
+    summary: >
+      Nora setzt sich auf den kalten Steinboden. "Lina? Wir sind hier."
+      Stille. Kälte. Schattens Atem. Theos Herzschlag.
+      Dann: ein Flüstern. So leise, dass Nora nicht sicher ist, ob sie es hört
+      oder nur fühlt. Wie ein Wort, das sich in der Luft formt.
+    next: 56
+
+  54:
+    title: "Eigener Versuch"
+    file: "abschnitt_054.md"
+    type: "branch"
+    zone: "D"
+    act: 3
+    summary: >
+      Nora stellt sich in die Mitte des Raums. "Lina! Wir wissen, wer du bist!
+      Wir haben dein Tagebuch gelesen!"
+      Die Kälte schlägt zu wie eine Wand. Schattens Fell sträubt sich am ganzen Körper.
+      Nichts passiert. Oder doch — die Kälte wird schlimmer. Als ob Lina weint.
+    next: 55
+
+  55:
+    title: "Theos Idee"
+    file: "abschnitt_055.md"
+    type: "branch"
+    zone: "D"
+    act: 3
+    summary: >
+      Theo: "Vielleicht musst du nicht REDEN. Vielleicht musst du ZUHÖREN.
+      Frau Silber hat's doch geschrieben. Zuhören. Nicht reden."
+      Nora schließt die Augen. Hört.
+      Und diesmal hört sie etwas.
+    next: 56
+
+  56:
+    title: "Linas Stimme"
+    file: "abschnitt_056.md"
+    type: "converge"
+    zone: "D"
+    act: 3
+    summary: >
+      Kein Wort. Ein Gefühl. Traurigkeit, so tief wie ein Brunnen.
+      Einsamkeit, die seit fünfzig Jahren wartet.
+      Und unter allem: eine Bitte. Nicht in Worten. In Kälte und Stille und Staub.
+      "Vergiss mich nicht."
+    next: 57
+
+  57:
+    title: "BITTE"
+    file: "abschnitt_057.md"
+    type: "bottleneck"
+    bottleneck_id: 6
+    zone: "D"
+    act: 3
+    summary: >
+      Zurück in der Wohnung. Nacht. Nora und Theo wachen auf. Schatten bellt —
+      zum ersten Mal seit sie ihn haben.
+      Die Wohnung ist eiskalt. Kondenswasser an ALLEN Fenstern.
+      Überall Wörter: "TAGEBUCH" / "LIES" / "BITTE" / "VERGISS NICHT"
+      Theo sieht etwas: einen Schatten, kindsgroß, im Flur. Für eine Sekunde. Dann weg.
+    next: 58
+
+  # ============================================================
+  # ZONE E: Die Befreiung (Abschnitte 58-78)
+  # Flaschenhals: BN7 (Lina befreien)
+  # Entscheidungen: E13, E14
+  # Sackgasse: S3 (Tagebuch weglegen)
+  # ============================================================
+
+  58:
+    title: "Wir helfen ihr"
+    file: "abschnitt_058.md"
+    type: "story"
+    zone: "E"
+    act: 3
+    summary: >
+      Nora entscheidet: "Wir lesen das Tagebuch vor. Jedes Wort. Laut.
+      Wir zeigen ihr, dass jemand ihre Geschichte gehört hat."
+      Theo nickt. "Wo?"
+    choices:
+      - text: "In Linas altem Zimmer — eurer Wohnung. Geh zu Abschnitt 59."
+        target: 59
+        tag: "persoenlich"
+      - text: "In Frau Silbers Wohnung — wo Silber die Geister befreit hat. Geh zu Abschnitt 60."
+        target: 60
+        tag: "methode"
+
+  59:
+    title: "Linas Zimmer"
+    file: "abschnitt_059.md"
+    type: "branch"
+    zone: "E"
+    act: 3
+    summary: >
+      Noras Zimmer = Linas Zimmer. Hier hat sie geschlafen, gelacht, Tagebuch geschrieben.
+      Nora setzt sich auf ihr Bett. Öffnet das Tagebuch. Schatten legt sich daneben.
+      Die Luft kühlt ab. Langsam, aber spürbar.
+      "Sie ist hier", flüstert Theo.
+    next: 62
+
+  60:
+    title: "Silbers Zimmer"
+    file: "abschnitt_060.md"
+    type: "branch"
+    zone: "E"
+    act: 3
+    summary: >
+      Silbers Wohnung. Das kalte Zimmer. Dasselbe, das Schatten am Anfang gemieden hat.
+      Jetzt gehen sie bewusst hinein. Schatten zögert — dann folgt er.
+    next: 61
+
+  61:
+    title: "Der kalte Raum"
+    file: "abschnitt_061.md"
+    type: "branch"
+    zone: "E"
+    act: 3
+    summary: >
+      Das Zimmer atmet Kälte. Die Wände scheinen näher zu rücken.
+      Nora setzt sich auf den Boden. Kreuzbeining. Tagebuch auf dem Schoß.
+      "Hier hat Frau Silber es getan", sagt sie. "Hier hat sie zugehört."
+      Schatten legt sich neben sie. Wärme an ihrer Seite.
+    next: 62
+
+  62:
+    title: "Erste Worte"
+    file: "abschnitt_062.md"
+    type: "converge"
+    zone: "E"
+    act: 3
+    summary: >
+      Nora beginnt zu lesen. Laut. Jedes Wort.
+      "Liebes Tagebuch. Heute war mein erster Tag in der neuen Schule..."
+      Die Temperatur sinkt. Noras Atem dampft.
+      Aber sie liest weiter.
+    next: 63
+
+  63:
+    title: "Linas Leben"
+    file: "abschnitt_063.md"
+    type: "story"
+    zone: "E"
+    act: 3
+    summary: >
+      Seite um Seite. Linas Alltag. Freundinnen, Schule, Luna der Hund.
+      Nora gibt Lina eine Stimme. Nach fünfzig Jahren Stille.
+      Die Kälte wird stärker. Aber anders. Nicht feindlich. Aufmerksam.
+      Als ob jemand zuhört.
+    next: 64
+
+  64:
+    title: "Linas Angst"
+    file: "abschnitt_064.md"
+    type: "story"
+    zone: "E"
+    act: 3
+    decision_id: "E14"
+    summary: >
+      Die dunklen Einträge. "Das kalte Zimmer." "Geräusche nachts."
+      "Niemand glaubt mir." Die Kälte drückt auf Noras Brust.
+      Theos Lippen sind blau. Schatten winselt.
+    choices:
+      - text: "Du liest weiter. Egal wie kalt es wird. Geh zu Abschnitt 65."
+        target: 65
+        tag: "mutig"
+      - text: "Du legst das Tagebuch weg. Es ist zu viel. Geh zu Abschnitt 103."
+        target: 103
+        tag: "aufhoeren"
+
+  65:
+    title: "Trotz der Kälte"
+    file: "abschnitt_065.md"
+    type: "branch"
+    zone: "E"
+    act: 3
+    summary: >
+      Noras Hände zittern. Nicht vor Kälte — vor etwas anderem.
+      Sie liest weiter. Jedes Wort. Linas Angst. Linas Einsamkeit.
+      Linas letzter Satz: "Wenn mir etwas passiert, soll jemand wissen,
+      dass ich die Wahrheit gesagt habe."
+    next: 66
+
+  66:
+    title: "Letzte Seite"
+    file: "abschnitt_066.md"
+    type: "story"
+    zone: "E"
+    act: 3
+    summary: >
+      Stille. Nora klappt das Tagebuch zu. Die Kälte ist unerträglich.
+      Aber Nora steht auf. Spricht in den kalten Raum. Direkt. Laut.
+    next: 67
+
+  67:
+    title: "Wir hören dich"
+    file: "abschnitt_067.md"
+    type: "bottleneck"
+    bottleneck_id: 7
+    zone: "E"
+    act: 3
+    summary: >
+      "Wir hören dich, Lina. Wir sind hier. Wir wissen, was dir passiert ist.
+      Und es tut uns leid, dass so lange niemand zugehört hat."
+      Die Kälte — weicht. Langsam. Wie ein Atemzug, der losgelassen wird.
+      Die Luft wird wärmer. Das Kondenswasser an den Fenstern schreibt ein letztes Wort:
+      "DANKE."
+      Und dann ein zweites: "OBEN."
+    next: 68
+
+  68:
+    title: "OBEN"
+    file: "abschnitt_068.md"
+    type: "story"
+    zone: "E"
+    act: 3
+    summary: >
+      Theo: "OBEN? Was ist oben?" Nora: "Frau Silbers Wohnung."
+      Sie gehen hoch. Schatten voraus. Im kalten Zimmer — dem Zimmer,
+      das Schatten am Anfang gemieden hat — hat sich etwas verändert.
+      Die Luft ist weicher. Wärmer.
+    next: 69
+
+  69:
+    title: "Linas Licht"
+    file: "abschnitt_069.md"
+    type: "story"
+    zone: "E"
+    act: 3
+    summary: >
+      Auf dem Boden: ein kleiner Lichtfleck. Er bewegt sich langsam.
+      Wie Sonnenlicht — aber es ist mitten in der Nacht.
+      Theo flüstert: "Sie geht."
+    next: 70
+
+  70:
+    title: "Abschied"
+    file: "abschnitt_070.md"
+    type: "story"
+    zone: "E"
+    act: 3
+    summary: >
+      Das Licht wird heller. Wärmer. Für einen Moment füllt es den ganzen Raum.
+      Nora spürt etwas — wie eine Hand, die ihre berührt. Leicht wie Luft.
+      Dann wird das Licht kleiner. Und kleiner. Und ist weg.
+      Stille.
+      Schatten seufzt tief und legt sich hin.
+      Lina ist frei.
+    next: 71
+
+  71:
+    title: "Danach"
+    file: "abschnitt_071.md"
+    type: "story"
+    zone: "E"
+    act: 3
+    summary: >
+      Nora und Theo sitzen auf dem Boden von Silbers kaltem Zimmer.
+      Es ist nicht mehr kalt. Es ist nur noch ein Zimmer.
+      Theo: "Haben wir gerade wirklich...?" Nora: "Ja."
+      Theo: "Können wir das auf den Lebenslauf schreiben?"
+      Nora lacht. Zum ersten Mal seit Tagen.
+    next: 72
+
+  72:
+    title: "Blick über Gravenstedt"
+    file: "abschnitt_072.md"
+    type: "story"
+    zone: "E"
+    act: 4
+    summary: >
+      Nora schaut aus dem Fenster. Gravenstedt bei Nacht. Laternen, Dächer, Schornsteine.
+      Eine normale Stadt.
+      Aber dann: Drei Straßen weiter. Ein kaltes blaues Leuchten. Kurz. Dann weg.
+      "Theo?" — "Ja?" — "Da draußen sind noch mehr."
+    next: 73
+
+  # ============================================================
+  # ZONE F: Entdeckung & Serien-Hook (Abschnitte 73-97)
+  # Flaschenhälse: BN8 (Karte), BN9 (Brief), BN10 (Entscheidung)
+  # Entscheidungen: E15, E16, E17
+  # ============================================================
+
+  73:
+    title: "Nächster Tag"
+    file: "abschnitt_073.md"
+    type: "story"
+    zone: "F"
+    act: 4
+    decision_id: "E15"
+    summary: >
+      Verarbeitung. Normaler Tag. Schule. Aber Nora denkt nur an eines:
+      Frau Silbers Wohnung. Die Namensliste. Das Foto.
+      Da muss noch mehr sein.
+    choices:
+      - text: "Du gehst sofort nach der Schule in Silbers Wohnung. Geh zu Abschnitt 74."
+        target: 74
+        tag: "sofort"
+      - text: "Du wartest bis morgen. Heute erstmal verarbeiten. Geh zu Abschnitt 75."
+        target: 75
+        tag: "vorsichtig"
+
+  74:
+    title: "Sofort suchen"
+    file: "abschnitt_074.md"
+    type: "branch"
+    zone: "F"
+    act: 4
+    summary: >
+      Direkt nach der Schule. Schatten wartet schon an der Treppe.
+      Silbers Wohnung. Gründlicher suchen als je zuvor.
+      Jedes Brett, jede Ecke, jede Schublade.
+    next: 77
+
+  75:
+    title: "Noras Fenster"
+    file: "abschnitt_075.md"
+    type: "branch"
+    zone: "F"
+    act: 4
+    summary: >
+      Abend. Nora sitzt am Fenster. Gravenstedt.
+      Irgendwo da draußen: das blaue Leuchten von gestern.
+      Schatten legt den Kopf auf ihre Knie. Bernsteinfarbene Augen.
+      "Morgen", sagt Nora. Schatten stupst ihre Hand. Als ob er sagt: Versprochen?
+    next: 76
+
+  76:
+    title: "Morgens"
+    file: "abschnitt_076.md"
+    type: "branch"
+    zone: "F"
+    act: 4
+    summary: >
+      Nächster Tag. Entschlossen. Nora und Theo gehen in Silbers Wohnung.
+      Schatten führt. Er scheint zu wissen, wo sie suchen müssen.
+    next: 77
+
+  77:
+    title: "Hinter dem losen Brett"
+    file: "abschnitt_077.md"
+    type: "bottleneck"
+    bottleneck_id: 8
+    zone: "F"
+    act: 4
+    summary: >
+      Küche. Schatten kratzt an einem Brett in der Ecke. Los. Dahinter:
+      eine zusammengerollte Karte. Groß, handgezeichnet: Gravenstedt.
+      12 Markierungen. Adressen und Orte. Neben jeder: ein Name und ein Datum.
+      Eine Markierung — IHRE Adresse — ist durchgestrichen. Frisch.
+      Daneben: "Lina."
+    next: 78
+
+  78:
+    title: "11 Markierungen"
+    file: "abschnitt_078.md"
+    type: "story"
+    zone: "F"
+    act: 4
+    decision_id: "E16"
+    summary: >
+      11 Markierungen. Noch offen. Friedhof, alte Fabrik, U-Bahn-Station,
+      Park, Schule, Kirche — überall in Gravenstedt.
+      Neben den Namen: kurze Notizen. "Wütend. Grab." "Kind. Verloren." "Schleier dünn."
+      Eine Markierung am Rand: größer, roter Kreis, kein Name. Nur ein Wort: "GRAVEN."
+    choices:
+      - text: "Du studierst die Karte allein weiter. Geh zu Abschnitt 79."
+        target: 79
+        tag: "allein"
+      - text: "Du holst Theo dazu. Geh zu Abschnitt 80."
+        target: 80
+        tag: "geschwister"
+
+  79:
+    title: "Allein mit der Karte"
+    file: "abschnitt_079.md"
+    type: "branch"
+    zone: "F"
+    act: 4
+    summary: >
+      Nora studiert die Karte. Konzentriert. Allein.
+      GRAVEN. Der Name der Stadt. Gravenstedt. "Gravens Stadt."
+      Sie geht in die Bibliothek. Allein. Sucht: "Alwin Graven, 1823."
+    next: 83
+
+  80:
+    title: "Zusammen über der Karte"
+    file: "abschnitt_080.md"
+    type: "branch"
+    zone: "F"
+    act: 4
+    summary: >
+      "Theo? Komm mal her." Beide über der Karte. Theos Finger wandert von Punkt zu Punkt.
+      "Was ist GRAVEN?" Nora: "Nicht was. WER."
+      Theo: "Wie in Gravenstedt? Gravens Stadt?"
+      Nora nickt. "Genau."
+    next: 81
+
+  81:
+    title: "Gemeinsam forschen"
+    file: "abschnitt_081.md"
+    type: "branch"
+    zone: "F"
+    act: 4
+    summary: >
+      Bibliothek. Zusammen. Theo findet es zuerst:
+      "Alwin Graven, Begründer von Gravenstedt, 1823."
+      Kein Foto. Keine Details. Nur ein Name und ein Datum.
+      Theo: "Der hat vor 200 Jahren die Stadt gegründet. Und ist auf einer Geisterkarte.
+      Das ist entweder sehr cool oder sehr schlecht."
+    next: 82
+
+  82:
+    title: "Mehr Fragen"
+    file: "abschnitt_082.md"
+    type: "branch"
+    zone: "F"
+    act: 4
+    summary: >
+      Was hat Graven getan? Warum ist er auf der Karte? Warum sind die Geister hier?
+      Die Bibliothek hat keine Antworten. Nur den Namen.
+      Aber Frau Silbers Wohnung — vielleicht hat sie dort mehr versteckt.
+    next: 84
+
+  83:
+    title: "Graven"
+    file: "abschnitt_083.md"
+    type: "branch"
+    zone: "F"
+    act: 4
+    summary: >
+      Alwin Graven. Begründer der Stadt. 1823. Kein Foto, keine Details.
+      Aber Nora erinnert sich an Silbers Notizbuch: "Der Schleier wird dünner."
+      Und: "Der Erste." Ist Graven der Erste?
+    next: 84
+
+  84:
+    title: "Unter der Diele"
+    file: "abschnitt_084.md"
+    type: "story"
+    zone: "F"
+    act: 4
+    summary: >
+      Zurück in Silbers Wohnung. Schatten schnüffelt. Bleibt im Flur stehen.
+      Kratzt am Boden. Eine lose Diele. Nora hebt sie hoch.
+      Darunter: ein versiegelter Brief.
+      Adressiert an: "Die, die nach mir kommen."
+    next: 85
+
+  85:
+    title: "Frau Silbers Brief"
+    file: "abschnitt_085.md"
+    type: "bottleneck"
+    bottleneck_id: 9
+    zone: "F"
+    act: 4
+    summary: >
+      Nora öffnet den Brief. Frau Silbers Schrift:
+      "Ich heiße Margret Silber. Seit 40 Jahren kümmere ich mich um die Unruhigen
+      in Gravenstedt. Sie sind hier gefangen, weil jemand vor langer Zeit etwas geöffnet hat,
+      das geschlossen bleiben sollte.
+      Schatten hat mich immer zu ihnen geführt. Er spürt sie.
+      Er ist kein normaler Hund.
+      Wenn ihr diesen Brief lest, bin ich nicht mehr hier.
+      Der Schleier wird dünner. Es kommen mehr.
+      Bitte gebt nicht auf. Schatten wird euch führen."
+    next: 86
+
+  86:
+    title: "Der Erste"
+    file: "abschnitt_086.md"
+    type: "story"
+    zone: "F"
+    act: 4
+    summary: >
+      Ganz unten, in zittriger Schrift: "Und hütet euch vor dem Ersten.
+      Er ist nicht wie die anderen."
+      Stille. Nora und Theo schauen sich an.
+      Theo: "Der Erste. Alwin Graven. Der Typ, der die Stadt gegründet hat."
+      Nora: "Der Typ, der etwas geöffnet hat, das geschlossen bleiben sollte."
+    next: 87
+
+  87:
+    title: "Schattens Warnung"
+    file: "abschnitt_087.md"
+    type: "story"
+    zone: "F"
+    act: 4
+    summary: >
+      Auf dem Heimweg. Am alten Friedhof. Schatten bleibt stehen.
+      Fell gesträubt. Knurrt. Tief, leise, warnend.
+      Nora schaut hin. Zwischen den Grabsteinen: eine Gestalt.
+      Grau. Durchsichtig. Ein alter Mann. Er starrt zurück.
+      Dann ist er weg.
+    next: 88
+
+  88:
+    title: "Zuhause"
+    file: "abschnitt_088.md"
+    type: "story"
+    zone: "F"
+    act: 4
+    summary: >
+      Nora und Theo rennen nach Hause. Keuchend. Die Wohnungstür fällt zu.
+      Mutter kommt aus der Küche. "Alles okay? Ihr seht blass aus."
+      "Sport", sagt Nora. "Wir sind gerannt."
+      Mutter lächelt. "Schön, dass ihr rausgeht."
+    next: 89
+
+  89:
+    title: "Mamas Frage"
+    file: "abschnitt_089.md"
+    type: "story"
+    zone: "F"
+    act: 4
+    summary: >
+      Abend. Mutter will Gute Nacht sagen. Beginnt zu gehen.
+      Nora: "Mama? Wie war dein Tag?"
+      Sarah stutzt. Setzt sich auf die Bettkante.
+      Erzählt. Vom neuen Job, der netten Kollegin, der kaputten Kaffeemaschine.
+      Kleine, normale Dinge.
+      Nora hört zu. Wirklich zu. Sarah lächelt. "Das hat gutgetan."
+      Küsst sie auf die Stirn. Geht.
+    next: 90
+
+  90:
+    title: "Gravenstedt bei Nacht"
+    file: "abschnitt_090.md"
+    type: "story"
+    zone: "F"
+    act: 4
+    summary: >
+      Nora am Fenster. Schatten neben ihr. Theo schläft.
+      Gravenstedt bei Nacht. Lichter in den Fenstern. Eine normale Stadt.
+      Aber Nora weiß: unter der Oberfläche ist nichts normal.
+      11 Geister warten. Frau Silber ist verschwunden.
+      Und "der Erste" — wer auch immer das ist — ist dort draußen.
+    next: 91
+
+  91:
+    title: "Was Nora weiß"
+    file: "abschnitt_091.md"
+    type: "story"
+    zone: "F"
+    act: 4
+    summary: >
+      Aber Nora weiß auch etwas anderes:
+      Zuhören ist das Mächtigste, was sie tun kann.
+      Für Geister. Und für Menschen.
+      Frau Silber hat es 40 Jahre lang getan. Allein.
+      Aber Nora ist nicht allein. Sie hat Theo. Und Schatten.
+    next: 92
+
+  92:
+    title: "Mamas Bemerkung"
+    file: "abschnitt_092.md"
+    type: "story"
+    zone: "F"
+    act: 4
+    summary: >
+      Nächster Morgen. Frühstück. Mutter beiläufig:
+      "Eure Nachbarin von unten hat was Seltsames gesagt. Früher hätte hier oben
+      eine alte Frau gewohnt, die nachts mit einer Taschenlampe durch die Stadt lief.
+      Mit einem Hund. Immer zum Friedhof."
+      Sie schaut Schatten an. "Euer Hund sieht genauso aus."
+      Stille am Frühstückstisch.
+    next: 93
+
+  93:
+    title: "Die Karte an der Wand"
+    file: "abschnitt_093.md"
+    type: "story"
+    zone: "F"
+    act: 4
+    summary: >
+      Nora hängt Frau Silbers Karte an ihre Zimmerwand. 12 Markierungen.
+      Eine durchgestrichen: Lina. 11 offen.
+      Der nächste Punkt auf der Karte: der alte Friedhof.
+      Genau dort, wo Schatten gestern die graue Gestalt gesehen hat.
+    next: 94
+
+  94:
+    title: "Nachtschatten"
+    file: "abschnitt_094.md"
+    type: "bottleneck"
+    bottleneck_id: 10
+    zone: "F"
+    act: 4
+    decision_id: "E17"
+    summary: >
+      Nacht. Schatten liegt neben Noras Bett. Hebt den Kopf. Schaut aus dem Fenster.
+      Seine bernsteinfarbenen Augen spiegeln das Mondlicht.
+      Dann knurrt er. Leise. Tief.
+      Irgendwo in Gravenstedt flackert ein Licht.
+    choices:
+      - text: >
+          "Diese Geister brauchen jemanden, der zuhört.
+          Frau Silber hat zugehört. Jetzt sind wir dran."
+          Geh zu Abschnitt 95.
+        target: 95
+        tag: "hueterin"
+      - text: >
+          "Theo?" Du klopfst an seine Tür. "Können wir reden?"
+          Geh zu Abschnitt 96.
+        target: 96
+        tag: "geschwister"
+      - text: >
+          Du stehst auf. Ziehst dich an. Schatten springt vom Bett.
+          "Jetzt. Zum Friedhof."
+          Geh zu Abschnitt 97.
+        target: 97
+        tag: "mutig"
+
+  # ============================================================
+  # PRE-ENDING SECTIONS (95-97)
+  # Leiten zu den 3 Enden über
+  # ============================================================
+
+  95:
+    title: "Die neue Hüterin"
+    file: "abschnitt_095.md"
+    type: "story"
+    zone: "F"
+    act: 4
+    summary: >
+      Nora nimmt Frau Silbers Brief. Liest ihn nochmal.
+      "Die, die nach mir kommen." Das ist sie. Das sind sie.
+      Schatten legt seinen Kopf auf Noras Knie. Sie streichelt ihn.
+      "Wir schaffen das", flüstert sie.
+      Und sie weiß: Sie meint nicht nur die Geister.
+    ending: "ending_a"
+
+  96:
+    title: "Geschwister"
+    file: "abschnitt_096.md"
+    type: "story"
+    zone: "F"
+    act: 4
+    summary: >
+      Theo kommt rein. Im Schlafanzug. Haare zerzaust. "Was?"
+      "Ich brauche dich", sagt Nora. "Für das hier. Für alles."
+      Theo setzt sich neben sie. Schaut auf die Karte.
+      "Elf Geister", sagt er. "Das wird eine lange Liste."
+      "Ja", sagt Nora. "Gut, dass wir zu zweit sind."
+      Theo grinst. "Zu dritt." Schatten wedelt mit dem Schwanz.
+    ending: "ending_b"
+
+  97:
+    title: "Zum Friedhof"
+    file: "abschnitt_097.md"
+    type: "story"
+    zone: "F"
+    act: 4
+    summary: >
+      Nora zieht Schuhe an. Jacke. Taschenlampe. Schatten an der Leine.
+      Tür auf. Treppenhaus. Nachtkühle Luft.
+      Schatten zerrt an der Leine. Er weiß, wohin.
+      Der Friedhof ist fünf Minuten entfernt.
+    ending: "ending_c"
+
+  # ============================================================
+  # ENDEN (98-100)
+  # ============================================================
+
+  98:
+    title: "Ende A — Die Hüterin"
+    file: "endings/ending_a.md"
+    type: "ending"
+    ending_id: "A"
+    summary: >
+      Nora übernimmt Frau Silbers Aufgabe. Sie liest den Brief nochmal, studiert die Karte,
+      plant den nächsten Schritt. Am nächsten Tag geht sie zum Friedhof — aber nicht blind,
+      sondern vorbereitet. Mit Frau Silbers Notizbuch. Mit Wissen. Mit Schatten.
+      Das goldene Ende: Nora versteht, dass Zuhören ihre größte Stärke ist.
+      Letzter Satz: "Elf Geschichten, die gehört werden wollen. Und Nora war bereit zuzuhören."
+
+  99:
+    title: "Ende B — Geschwister"
+    file: "endings/ending_b.md"
+    type: "ending"
+    ending_id: "B"
+    summary: >
+      Nora und Theo planen zusammen. Die Karte wird zum gemeinsamen Projekt.
+      Theo bringt Humor, Nora bringt Struktur. Schatten bringt die Nase.
+      Am nächsten Tag — Samstag — gehen sie zusammen zum Friedhof.
+      "Bereit?" — "Nein." — "Ich auch nicht. Los."
+      Letzter Satz: "Manche Abenteuer schafft man nur zu zweit. Oder zu dritt, wenn man den Hund mitzählt."
+
+  100:
+    title: "Ende C — Schatten bellt"
+    file: "endings/ending_c.md"
+    type: "ending"
+    ending_id: "C"
+    summary: >
+      Nora und Schatten am Friedhof. Mitternacht. Nebel.
+      Schatten führt sie zwischen den Grabsteinen hindurch. Dann bleibt er stehen.
+      Knurrt. Dort: die graue Gestalt. Näher als beim letzten Mal.
+      Ein alter Mann. Durchsichtig. Wütend.
+      Er öffnet den Mund. Kein Ton — aber Nora HÖRT trotzdem.
+      "RAUS."
+      Schatten bellt. Einmal. Laut. Der Geist verschwindet.
+      Nora rennt nach Hause. Herz hämmert.
+      Aber sie lächelt. Weil sie weiß: Das war erst der Anfang.
+      Letzter Satz: "Im Mondlicht flackerte ein kaltes Licht über dem Friedhof. Und Schatten bellte."
+
+  # ============================================================
+  # SACKGASSEN (101-103)
+  # ============================================================
+
+  101:
+    title: "Sackgasse — Mama verbietet alles"
+    file: "abschnitt_101.md"
+    type: "dead_end"
+    dead_end_id: "S1"
+    zone: "B"
+    summary: >
+      Nora erzählt Mama alles. Die Wohnung oben, die Namensliste, das Klopfen, HILF.
+      Sarah hört zu. Wird blass. Dann: "Ihr bleibt von dieser Wohnung weg. Beide.
+      Sofort. Und der Hund kommt auch nicht mehr rein."
+      Nora liegt im Bett. Schatten neben ihr. Das Klopfen beginnt wieder.
+      Dreimal. Pause. Dreimal. Aber diesmal ist Nora allein damit.
+      Manche Geheimnisse muss man selbst lösen.
+    return_to: 16
+    return_text: "Das hat nicht funktioniert. Geh zurück zu Abschnitt 16 und wähle anders."
+
+  102:
+    title: "Sackgasse — Allein in der Dunkelheit"
+    file: "abschnitt_102.md"
+    type: "dead_end"
+    dead_end_id: "S2"
+    zone: "D"
+    summary: >
+      Allein. Nachts. Ohne Theo. Ohne Plan. Nur Taschenlampe und Schatten.
+      Der Keller verschluckt das Licht. Schatten bellt — panisch. Er hat noch nie so gebellt.
+      Die Taschenlampe flackert. Geht aus.
+      Dunkelheit. Völlige Dunkelheit.
+      Dann: ein Flüstern. Direkt an Noras Ohr. Kinderstimme. Kalt.
+      Nora rennt. Stolpert. Treppe hoch. Tür zu.
+      Ohne Schatten. Ohne Theo. Ohne Plan. Das geht so nicht.
+    return_to: 42
+    return_text: "Das war keine gute Idee. Geh zurück zu Abschnitt 42 und entscheide dich anders."
+
+  103:
+    title: "Sackgasse — Lina will nicht ignoriert werden"
+    file: "abschnitt_103.md"
+    type: "dead_end"
+    dead_end_id: "S3"
+    zone: "E"
+    summary: >
+      Nora legt das Tagebuch hin. "Ich kann nicht mehr."
+      Sofort: die Temperatur stürzt ab. Die Fenster frieren zu — von innen.
+      Die Wände zittern. Ein tiefes Brummen, als ob das ganze Haus ächzt.
+      Schatten jault. Hoch und durchdringend.
+      Und auf jedem Fenster, jedem Spiegel, jeder glatten Oberfläche:
+      "VERGISS NICHT VERGISS NICHT VERGISS NICHT"
+      Lina will nicht ignoriert werden. Nicht nochmal. Nicht nach fünfzig Jahren.
+      Du musst ihr zuhören.
+    return_to: 58
+    return_text: "Lina braucht dich. Geh zurück zu Abschnitt 58 und versuche es noch einmal."

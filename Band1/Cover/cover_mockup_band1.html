@@ -1,0 +1,1239 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Die Herrenhaus-Detektive - Band 1 Cover Mockup</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700;900&family=Oswald:wght@500;700&family=Crimson+Pro:wght@400;600&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --night-deep: #0d1b2a;
+    --night-mid: #1a2744;
+    --night-light: #243b5e;
+    --amber: #e8a030;
+    --amber-bright: #f4b942;
+    --gold: #ffd966;
+    --gold-light: #ffe599;
+    --warm-glow: #ff9f1c;
+    --fog: rgba(180, 200, 220, 0.15);
+    --cream: #f5e6c8;
+    --orange-accent: #e85d26;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #111;
+    font-family: 'Crimson Pro', Georgia, serif;
+  }
+
+  .cover {
+    width: 1000px;
+    height: 1600px;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(
+      180deg,
+      #070e1a 0%,
+      var(--night-deep) 15%,
+      var(--night-mid) 40%,
+      #1e3355 60%,
+      #243b5e 75%,
+      #1a2744 100%
+    );
+    box-shadow: 0 20px 80px rgba(0,0,0,0.8);
+  }
+
+  /* === STARS === */
+  .stars {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 45%;
+    z-index: 1;
+  }
+  .star {
+    position: absolute;
+    background: #fff;
+    border-radius: 50%;
+    animation: twinkle 3s ease-in-out infinite alternate;
+  }
+  .star:nth-child(1) { width: 2px; height: 2px; top: 8%; left: 12%; animation-delay: 0s; }
+  .star:nth-child(2) { width: 3px; height: 3px; top: 5%; left: 35%; animation-delay: 0.5s; }
+  .star:nth-child(3) { width: 2px; height: 2px; top: 12%; left: 58%; animation-delay: 1s; }
+  .star:nth-child(4) { width: 2px; height: 2px; top: 3%; left: 78%; animation-delay: 1.5s; }
+  .star:nth-child(5) { width: 3px; height: 3px; top: 15%; left: 90%; animation-delay: 0.3s; }
+  .star:nth-child(6) { width: 2px; height: 2px; top: 18%; left: 25%; animation-delay: 2s; }
+  .star:nth-child(7) { width: 2px; height: 2px; top: 7%; left: 45%; animation-delay: 0.8s; }
+  .star:nth-child(8) { width: 1px; height: 1px; top: 10%; left: 70%; animation-delay: 1.2s; }
+  .star:nth-child(9) { width: 2px; height: 2px; top: 20%; left: 15%; animation-delay: 1.8s; }
+  .star:nth-child(10) { width: 1px; height: 1px; top: 6%; left: 85%; animation-delay: 0.6s; }
+
+  @keyframes twinkle {
+    0% { opacity: 0.3; }
+    100% { opacity: 1; }
+  }
+
+  /* === MOON === */
+  .moon {
+    position: absolute;
+    top: 40px;
+    right: 100px;
+    width: 90px;
+    height: 90px;
+    background: radial-gradient(circle at 35% 35%, #fffde7, #ffd966, #e8a030);
+    border-radius: 50%;
+    box-shadow:
+      0 0 30px rgba(255, 217, 102, 0.5),
+      0 0 80px rgba(232, 160, 48, 0.3),
+      0 0 120px rgba(232, 160, 48, 0.15);
+    z-index: 2;
+  }
+  .moon::after {
+    content: '';
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    width: 25px;
+    height: 25px;
+    background: rgba(200, 150, 50, 0.3);
+    border-radius: 50%;
+  }
+
+  /* === SERIES DECORATIVE BORDER === */
+  .border-frame {
+    position: absolute;
+    top: 12px; left: 12px;
+    right: 12px; bottom: 12px;
+    border: 2px solid rgba(232, 160, 48, 0.25);
+    border-radius: 8px;
+    z-index: 20;
+    pointer-events: none;
+  }
+  .border-frame::before {
+    content: '';
+    position: absolute;
+    top: 6px; left: 6px;
+    right: 6px; bottom: 6px;
+    border: 1px solid rgba(232, 160, 48, 0.12);
+    border-radius: 5px;
+  }
+  /* Corner ornaments */
+  .corner {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    z-index: 21;
+  }
+  .corner::before, .corner::after {
+    content: '';
+    position: absolute;
+    background: var(--amber);
+  }
+  .corner-tl { top: 20px; left: 20px; }
+  .corner-tl::before { top: 0; left: 0; width: 20px; height: 2px; }
+  .corner-tl::after { top: 0; left: 0; width: 2px; height: 20px; }
+  .corner-tr { top: 20px; right: 20px; }
+  .corner-tr::before { top: 0; right: 0; width: 20px; height: 2px; }
+  .corner-tr::after { top: 0; right: 0; width: 2px; height: 20px; }
+  .corner-bl { bottom: 20px; left: 20px; }
+  .corner-bl::before { bottom: 0; left: 0; width: 20px; height: 2px; }
+  .corner-bl::after { bottom: 0; left: 0; width: 2px; height: 20px; }
+  .corner-br { bottom: 20px; right: 20px; }
+  .corner-br::before { bottom: 0; right: 0; width: 20px; height: 2px; }
+  .corner-br::after { bottom: 0; right: 0; width: 2px; height: 20px; }
+
+  /* === SERIES LOGO === */
+  .series-logo {
+    position: absolute;
+    top: 45px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 15;
+    text-align: center;
+  }
+  .series-logo-bg {
+    background: linear-gradient(135deg, var(--orange-accent), #c0392b);
+    padding: 10px 40px 8px;
+    border-radius: 4px;
+    position: relative;
+    box-shadow:
+      0 4px 15px rgba(232, 93, 38, 0.4),
+      inset 0 1px 0 rgba(255,255,255,0.15);
+  }
+  .series-name {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    letter-spacing: 8px;
+    color: #fff;
+    text-transform: uppercase;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    white-space: nowrap;
+  }
+  /* Magnifying glass icon */
+  .magnifier {
+    position: absolute;
+    right: -20px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 28px;
+    height: 28px;
+  }
+  .magnifier-lens {
+    width: 18px;
+    height: 18px;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .magnifier-handle {
+    width: 3px;
+    height: 12px;
+    background: #fff;
+    position: absolute;
+    bottom: 0;
+    right: 2px;
+    transform: rotate(-45deg);
+    border-radius: 2px;
+  }
+
+  /* === BAND BADGE === */
+  .band-badge {
+    position: absolute;
+    top: 110px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 15;
+    font-family: 'Crimson Pro', serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--gold);
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-style: italic;
+  }
+
+  /* === TITLE === */
+  .title-container {
+    position: absolute;
+    top: 155px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 15;
+    text-align: center;
+    width: 90%;
+  }
+  .title {
+    font-family: 'Cinzel', serif;
+    font-weight: 900;
+    font-size: 82px;
+    line-height: 1.05;
+    color: var(--gold);
+    text-transform: uppercase;
+    text-shadow:
+      0 0 20px rgba(255, 217, 102, 0.4),
+      0 3px 0 #b8860b,
+      0 6px 0 #8b6508,
+      0 9px 15px rgba(0,0,0,0.5),
+      0 0 60px rgba(232, 160, 48, 0.2);
+    letter-spacing: 3px;
+  }
+
+  /* === MANOR HOUSE === */
+  .manor {
+    position: absolute;
+    bottom: 280px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 3;
+  }
+
+  /* Main building */
+  .manor-body {
+    width: 400px;
+    height: 280px;
+    background: linear-gradient(180deg, #0f1a2e, #111e33);
+    position: relative;
+    margin: 0 auto;
+    clip-path: polygon(0% 100%, 0% 15%, 5% 15%, 5% 0%, 15% 0%, 15% 8%, 50% 8%, 85% 8%, 85% 0%, 95% 0%, 95% 15%, 100% 15%, 100% 100%);
+  }
+
+  /* Roof */
+  .roof {
+    position: absolute;
+    top: -60px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 120px solid transparent;
+    border-right: 120px solid transparent;
+    border-bottom: 60px solid #0a1220;
+  }
+  .roof-left {
+    position: absolute;
+    top: -30px;
+    left: -10px;
+    width: 0;
+    height: 0;
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    border-bottom: 30px solid #0a1220;
+  }
+  .roof-right {
+    position: absolute;
+    top: -30px;
+    right: -10px;
+    width: 0;
+    height: 0;
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    border-bottom: 30px solid #0a1220;
+  }
+
+  /* Tower */
+  .tower {
+    position: absolute;
+    top: -120px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 80px;
+    background: #0a1220;
+  }
+  .tower-roof {
+    position: absolute;
+    top: -35px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 35px solid #080f1a;
+  }
+
+  /* Windows */
+  .window {
+    position: absolute;
+    width: 35px;
+    height: 50px;
+    background: #080f1a;
+    border: 2px solid #1a2744;
+    border-radius: 15px 15px 0 0;
+  }
+  .window-1 { top: 80px; left: 40px; }
+  .window-2 { top: 80px; left: 100px; }
+  .window-3 { top: 80px; right: 100px; }
+  .window-4 { top: 80px; right: 40px; }
+  .window-5 { top: 175px; left: 40px; }
+  .window-6 { top: 175px; left: 100px; }
+  .window-7 { top: 175px; right: 100px; }
+  .window-8 { top: 175px; right: 40px; }
+
+  /* THE glowing window */
+  .window-glowing {
+    position: absolute;
+    top: 80px;
+    right: 100px;
+    width: 35px;
+    height: 50px;
+    background: radial-gradient(ellipse at center, var(--gold) 0%, var(--amber) 40%, rgba(232, 160, 48, 0.5) 70%, transparent 100%);
+    border: 2px solid var(--amber-bright);
+    border-radius: 15px 15px 0 0;
+    box-shadow:
+      0 0 20px rgba(232, 160, 48, 0.6),
+      0 0 50px rgba(232, 160, 48, 0.3),
+      0 0 100px rgba(232, 160, 48, 0.15);
+    z-index: 5;
+  }
+  /* Shadow figure in window */
+  .window-figure {
+    position: absolute;
+    bottom: 3px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 16px;
+    height: 28px;
+    background: rgba(10, 15, 25, 0.7);
+    border-radius: 8px 8px 0 0;
+    z-index: 6;
+  }
+  .window-figure::before {
+    content: '';
+    position: absolute;
+    top: -8px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 12px;
+    height: 12px;
+    background: rgba(10, 15, 25, 0.7);
+    border-radius: 50%;
+  }
+
+  /* Door */
+  .door {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 50px;
+    height: 75px;
+    background: #060c18;
+    border: 2px solid #1a2744;
+    border-radius: 25px 25px 0 0;
+    border-bottom: none;
+  }
+
+  /* Light spill from door */
+  .door-glow {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 120px;
+    height: 40px;
+    background: radial-gradient(ellipse at top center, rgba(232, 160, 48, 0.08) 0%, transparent 70%);
+  }
+
+  /* === IRON GATE === */
+  .gate {
+    position: absolute;
+    bottom: 200px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 8;
+    width: 700px;
+    height: 250px;
+  }
+
+  /* Gate pillars */
+  .pillar {
+    position: absolute;
+    bottom: 0;
+    width: 30px;
+    height: 250px;
+    background: linear-gradient(90deg, #1a1a2e, #252540, #1a1a2e);
+    z-index: 9;
+  }
+  .pillar-left { left: 80px; }
+  .pillar-right { right: 80px; }
+  .pillar::before {
+    content: '';
+    position: absolute;
+    top: -15px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40px;
+    height: 15px;
+    background: #252540;
+    border-radius: 3px;
+  }
+  /* Pillar spheres */
+  .pillar::after {
+    content: '';
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 25px;
+    height: 25px;
+    background: radial-gradient(circle at 40% 35%, #3a3a55, #1a1a2e);
+    border-radius: 50%;
+  }
+
+  /* Gate bars */
+  .gate-bars {
+    position: absolute;
+    bottom: 0;
+    left: 110px;
+    right: 110px;
+    height: 220px;
+    z-index: 8;
+  }
+  .bar {
+    position: absolute;
+    bottom: 0;
+    width: 5px;
+    height: 220px;
+    background: linear-gradient(180deg, #2a2a44, #1a1a30);
+    border-radius: 2px;
+  }
+  .bar:nth-child(1) { left: 0; }
+  .bar:nth-child(2) { left: 40px; }
+  .bar:nth-child(3) { left: 80px; }
+  .bar:nth-child(4) { left: 120px; }
+  .bar:nth-child(5) { left: 160px; }
+  .bar:nth-child(6) { right: 160px; }
+  .bar:nth-child(7) { right: 120px; }
+  .bar:nth-child(8) { right: 80px; }
+  .bar:nth-child(9) { right: 40px; }
+  .bar:nth-child(10) { right: 0; }
+  /* Gate top bar */
+  .gate-top {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 5px;
+    background: #2a2a44;
+    border-radius: 2px;
+  }
+  /* Gate spikes */
+  .spike {
+    position: absolute;
+    top: -15px;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 15px solid #2a2a44;
+  }
+  .spike:nth-child(12) { left: -3px; }
+  .spike:nth-child(13) { left: 37px; }
+  .spike:nth-child(14) { left: 77px; }
+  .spike:nth-child(15) { left: 117px; }
+  .spike:nth-child(16) { left: 157px; }
+  .spike:nth-child(17) { right: 157px; }
+  .spike:nth-child(18) { right: 117px; }
+  .spike:nth-child(19) { right: 77px; }
+  .spike:nth-child(20) { right: 37px; }
+  .spike:nth-child(21) { right: -3px; }
+
+  /* === SIGN === */
+  .sign {
+    position: absolute;
+    bottom: 300px;
+    right: 140px;
+    z-index: 12;
+    transform: rotate(5deg);
+  }
+  .sign-board {
+    background: linear-gradient(135deg, #5c4a2a, #4a3820);
+    padding: 8px 16px;
+    border-radius: 3px;
+    border: 2px solid #3a2a15;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.5);
+  }
+  .sign-text {
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    color: var(--cream);
+    font-weight: 500;
+    letter-spacing: 1px;
+  }
+  .sign-post {
+    width: 6px;
+    height: 50px;
+    background: #3a2a15;
+    margin-left: auto;
+    margin-right: 15px;
+  }
+
+  /* === GROUND / PATH === */
+  .ground {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 300px;
+    background: linear-gradient(180deg,
+      #141e30 0%,
+      #1a2538 30%,
+      #1c2840 60%,
+      #1e2a42 100%
+    );
+    z-index: 7;
+  }
+
+  /* Cobblestone path */
+  .path {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 200px;
+    height: 250px;
+    background: linear-gradient(180deg, #1a2538, #222e42);
+    clip-path: polygon(35% 0%, 65% 0%, 90% 100%, 10% 100%);
+    z-index: 7;
+  }
+  .path::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background:
+      radial-gradient(ellipse 15px 8px at 45% 20%, rgba(255,255,255,0.03) 0%, transparent 100%),
+      radial-gradient(ellipse 15px 8px at 55% 35%, rgba(255,255,255,0.03) 0%, transparent 100%),
+      radial-gradient(ellipse 15px 8px at 42% 50%, rgba(255,255,255,0.03) 0%, transparent 100%),
+      radial-gradient(ellipse 15px 8px at 58% 65%, rgba(255,255,255,0.03) 0%, transparent 100%),
+      radial-gradient(ellipse 15px 8px at 45% 80%, rgba(255,255,255,0.03) 0%, transparent 100%);
+  }
+
+  /* === FOG === */
+  .fog {
+    position: absolute;
+    bottom: 180px;
+    left: 0;
+    right: 0;
+    height: 200px;
+    z-index: 10;
+    pointer-events: none;
+  }
+  .fog-layer {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+  .fog-layer:nth-child(1) {
+    background: linear-gradient(90deg,
+      transparent 0%,
+      rgba(160, 180, 200, 0.06) 20%,
+      rgba(160, 180, 200, 0.1) 40%,
+      rgba(160, 180, 200, 0.06) 60%,
+      transparent 80%
+    );
+    animation: fog-drift 15s ease-in-out infinite;
+  }
+  .fog-layer:nth-child(2) {
+    background: linear-gradient(90deg,
+      transparent 10%,
+      rgba(160, 180, 200, 0.08) 30%,
+      rgba(160, 180, 200, 0.12) 50%,
+      rgba(160, 180, 200, 0.06) 70%,
+      transparent 90%
+    );
+    animation: fog-drift 20s ease-in-out infinite reverse;
+    top: 30px;
+  }
+  .fog-layer:nth-child(3) {
+    background: radial-gradient(ellipse 600px 60px at 50% 80%,
+      rgba(180, 200, 220, 0.12) 0%,
+      transparent 100%
+    );
+  }
+
+  @keyframes fog-drift {
+    0%, 100% { transform: translateX(-20px); }
+    50% { transform: translateX(20px); }
+  }
+
+  /* === FLASHLIGHT BEAM === */
+  .flashlight {
+    position: absolute;
+    bottom: 150px;
+    left: 50%;
+    transform: translateX(-30px);
+    z-index: 9;
+    width: 300px;
+    height: 400px;
+    background: radial-gradient(
+      ellipse 150px 400px at 50% 100%,
+      rgba(255, 220, 130, 0.12) 0%,
+      rgba(255, 200, 80, 0.06) 30%,
+      rgba(255, 180, 60, 0.02) 60%,
+      transparent 100%
+    );
+    pointer-events: none;
+  }
+
+  /* === CHILDREN === */
+  .children {
+    position: absolute;
+    bottom: 60px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 11;
+    width: 340px;
+    height: 200px;
+  }
+
+  /* Child silhouette base */
+  .child {
+    position: absolute;
+    bottom: 0;
+  }
+
+  /* Left child - girl, half turned (profile visible) */
+  .child-left {
+    left: 0;
+  }
+  .child-left .body {
+    width: 55px;
+    height: 95px;
+    background: #0a0f1a;
+    border-radius: 10px 15px 8px 12px;
+    position: relative;
+  }
+  .child-left .head {
+    position: absolute;
+    top: -35px;
+    left: 8px;
+    width: 35px;
+    height: 38px;
+    background: #0a0f1a;
+    border-radius: 50% 50% 45% 45%;
+  }
+  /* Profile face detail - nose bump */
+  .child-left .head::before {
+    content: '';
+    position: absolute;
+    top: 15px;
+    right: -4px;
+    width: 8px;
+    height: 6px;
+    background: #0a0f1a;
+    border-radius: 0 50% 50% 0;
+  }
+  /* Hair - ponytail */
+  .child-left .head::after {
+    content: '';
+    position: absolute;
+    top: 2px;
+    left: -8px;
+    width: 15px;
+    height: 35px;
+    background: #0a0f1a;
+    border-radius: 10px 0 5px 10px;
+  }
+  .child-left .arm {
+    position: absolute;
+    top: 10px;
+    right: -15px;
+    width: 12px;
+    height: 55px;
+    background: #0a0f1a;
+    border-radius: 6px;
+    transform: rotate(-10deg);
+  }
+  /* Flashlight in hand */
+  .child-left .flashlight-item {
+    position: absolute;
+    top: -2px;
+    right: -22px;
+    width: 20px;
+    height: 8px;
+    background: #2a2a3a;
+    border-radius: 2px;
+    transform: rotate(-20deg);
+  }
+  .child-left .flashlight-item::before {
+    content: '';
+    position: absolute;
+    right: -4px;
+    top: 1px;
+    width: 6px;
+    height: 6px;
+    background: var(--gold);
+    border-radius: 50%;
+    box-shadow: 0 0 8px var(--amber), 0 0 20px rgba(232, 160, 48, 0.5);
+  }
+  .child-left .legs {
+    position: absolute;
+    bottom: -35px;
+    left: 5px;
+    width: 45px;
+    height: 35px;
+  }
+  .child-left .leg {
+    position: absolute;
+    bottom: 0;
+    width: 14px;
+    height: 35px;
+    background: #0a0f1a;
+    border-radius: 4px;
+  }
+  .child-left .leg-l { left: 2px; }
+  .child-left .leg-r { right: 2px; transform: rotate(2deg); }
+
+  /* Middle child - tallest, looking forward, backpack */
+  .child-middle {
+    left: 120px;
+  }
+  .child-middle .body {
+    width: 60px;
+    height: 110px;
+    background: #080e18;
+    border-radius: 12px 12px 8px 8px;
+    position: relative;
+  }
+  .child-middle .head {
+    position: absolute;
+    top: -38px;
+    left: 10px;
+    width: 38px;
+    height: 40px;
+    background: #080e18;
+    border-radius: 50%;
+  }
+  /* Backpack */
+  .child-middle .backpack {
+    position: absolute;
+    top: 5px;
+    left: -12px;
+    width: 22px;
+    height: 40px;
+    background: #12182a;
+    border-radius: 8px 4px 4px 8px;
+  }
+  .child-middle .arm-l {
+    position: absolute;
+    top: 8px;
+    left: -8px;
+    width: 12px;
+    height: 50px;
+    background: #080e18;
+    border-radius: 6px;
+    transform: rotate(5deg);
+  }
+  .child-middle .arm-r {
+    position: absolute;
+    top: 8px;
+    right: -8px;
+    width: 12px;
+    height: 55px;
+    background: #080e18;
+    border-radius: 6px;
+    transform: rotate(-5deg);
+  }
+  .child-middle .legs {
+    position: absolute;
+    bottom: -38px;
+    left: 8px;
+    width: 50px;
+    height: 38px;
+  }
+  .child-middle .leg {
+    position: absolute;
+    bottom: 0;
+    width: 16px;
+    height: 38px;
+    background: #080e18;
+    border-radius: 4px;
+  }
+  .child-middle .leg-l { left: 0; }
+  .child-middle .leg-r { right: 0; }
+
+  /* Right child - smaller, cap, slightly nervous posture */
+  .child-right {
+    right: 0;
+  }
+  .child-right .body {
+    width: 50px;
+    height: 85px;
+    background: #0a0f1a;
+    border-radius: 10px 10px 8px 8px;
+    position: relative;
+  }
+  .child-right .head {
+    position: absolute;
+    top: -32px;
+    left: 8px;
+    width: 33px;
+    height: 35px;
+    background: #0a0f1a;
+    border-radius: 50%;
+  }
+  /* Cap */
+  .child-right .head::before {
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: -5px;
+    width: 42px;
+    height: 18px;
+    background: #0a0f1a;
+    border-radius: 20px 20px 0 0;
+  }
+  .child-right .head::after {
+    content: '';
+    position: absolute;
+    top: 8px;
+    right: -10px;
+    width: 15px;
+    height: 6px;
+    background: #0a0f1a;
+    border-radius: 0 5px 5px 0;
+  }
+  .child-right .arm-l {
+    position: absolute;
+    top: 5px;
+    left: -8px;
+    width: 11px;
+    height: 45px;
+    background: #0a0f1a;
+    border-radius: 6px;
+    transform: rotate(8deg);
+  }
+  .child-right .arm-r {
+    position: absolute;
+    top: 5px;
+    right: -6px;
+    width: 11px;
+    height: 42px;
+    background: #0a0f1a;
+    border-radius: 6px;
+    transform: rotate(-12deg);
+  }
+  .child-right .legs {
+    position: absolute;
+    bottom: -32px;
+    left: 5px;
+    width: 40px;
+    height: 32px;
+  }
+  .child-right .leg {
+    position: absolute;
+    bottom: 0;
+    width: 13px;
+    height: 32px;
+    background: #0a0f1a;
+    border-radius: 4px;
+  }
+  .child-right .leg-l { left: 0; }
+  .child-right .leg-r { right: 0; }
+
+  /* Warm light hitting children from flashlight direction */
+  .children-glow {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 400px;
+    height: 100px;
+    background: radial-gradient(ellipse at 50% 100%,
+      rgba(232, 160, 48, 0.08) 0%,
+      transparent 70%
+    );
+    z-index: 10;
+    pointer-events: none;
+  }
+
+  /* === TREES === */
+  .tree {
+    position: absolute;
+    z-index: 4;
+  }
+  .tree-left {
+    left: 30px;
+    bottom: 250px;
+  }
+  .tree-right {
+    right: 30px;
+    bottom: 260px;
+  }
+  .trunk {
+    width: 20px;
+    height: 120px;
+    background: linear-gradient(90deg, #0a0f18, #12182a, #0a0f18);
+    margin: 0 auto;
+    border-radius: 3px;
+  }
+  .canopy {
+    width: 120px;
+    height: 180px;
+    background: radial-gradient(ellipse at 50% 60%, #0f1a28 0%, #0a1220 50%, transparent 70%);
+    position: relative;
+    top: -30px;
+    margin: 0 auto;
+    border-radius: 50% 50% 40% 40%;
+  }
+  .tree-right .canopy {
+    width: 100px;
+    height: 160px;
+  }
+
+  /* === BUSHES === */
+  .bush {
+    position: absolute;
+    z-index: 8;
+    border-radius: 50% 50% 40% 40%;
+  }
+  .bush-1 {
+    bottom: 240px;
+    left: 50px;
+    width: 100px;
+    height: 60px;
+    background: radial-gradient(ellipse at 50% 70%, #0f1a25 0%, #0a1218 60%, transparent 100%);
+  }
+  .bush-2 {
+    bottom: 235px;
+    right: 40px;
+    width: 120px;
+    height: 65px;
+    background: radial-gradient(ellipse at 50% 70%, #0f1a25 0%, #0a1218 60%, transparent 100%);
+  }
+
+  /* === AUTHOR & SUBTITLE === */
+  .bottom-text {
+    position: absolute;
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 15;
+    text-align: center;
+    width: 80%;
+  }
+  .author {
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+    font-weight: 700;
+    color: var(--cream);
+    letter-spacing: 4px;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.6);
+    margin-bottom: 10px;
+  }
+  .subtitle {
+    font-family: 'Crimson Pro', serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(245, 230, 200, 0.8);
+    letter-spacing: 2px;
+    text-shadow: 0 1px 5px rgba(0,0,0,0.5);
+  }
+
+  /* === AMBIENT LIGHT OVERLAY === */
+  .ambient {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background:
+      radial-gradient(ellipse 300px 400px at 65% 35%, rgba(232, 160, 48, 0.04) 0%, transparent 100%),
+      radial-gradient(ellipse 500px 300px at 50% 85%, rgba(232, 160, 48, 0.06) 0%, transparent 100%);
+    z-index: 13;
+    pointer-events: none;
+  }
+
+  /* === VIGNETTE === */
+  .vignette {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background: radial-gradient(ellipse at center, transparent 50%, rgba(5, 10, 20, 0.6) 100%);
+    z-index: 14;
+    pointer-events: none;
+  }
+
+  /* === THUMBNAIL PREVIEW === */
+  .thumbnail-preview {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 150px;
+    height: 240px;
+    border: 2px solid #444;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  }
+  .thumbnail-preview .cover {
+    width: 100%;
+    height: 100%;
+    transform: scale(0.15);
+    transform-origin: top left;
+  }
+  .thumbnail-label {
+    position: fixed;
+    bottom: 265px;
+    right: 20px;
+    color: #888;
+    font-family: monospace;
+    font-size: 12px;
+  }
+</style>
+</head>
+<body>
+  <div class="cover">
+    <!-- Stars -->
+    <div class="stars">
+      <div class="star"></div><div class="star"></div><div class="star"></div>
+      <div class="star"></div><div class="star"></div><div class="star"></div>
+      <div class="star"></div><div class="star"></div><div class="star"></div>
+      <div class="star"></div>
+    </div>
+
+    <!-- Moon -->
+    <div class="moon"></div>
+
+    <!-- Decorative border frame -->
+    <div class="border-frame"></div>
+    <div class="corner corner-tl"></div>
+    <div class="corner corner-tr"></div>
+    <div class="corner corner-bl"></div>
+    <div class="corner corner-br"></div>
+
+    <!-- Series Logo -->
+    <div class="series-logo">
+      <div class="series-logo-bg">
+        <div class="series-name">DIE HERRENHAUS-DETEKTIVE</div>
+        <div class="magnifier">
+          <div class="magnifier-lens"></div>
+          <div class="magnifier-handle"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Band Badge -->
+    <div class="band-badge">Band 1</div>
+
+    <!-- Title -->
+    <div class="title-container">
+      <div class="title">DAS<br>VERBOTENE<br>HERRENHAUS</div>
+    </div>
+
+    <!-- Trees -->
+    <div class="tree tree-left">
+      <div class="canopy"></div>
+      <div class="trunk"></div>
+    </div>
+    <div class="tree tree-right">
+      <div class="canopy"></div>
+      <div class="trunk"></div>
+    </div>
+
+    <!-- Manor House -->
+    <div class="manor">
+      <div class="tower">
+        <div class="tower-roof"></div>
+      </div>
+      <div class="roof"></div>
+      <div class="roof-left"></div>
+      <div class="roof-right"></div>
+      <div class="manor-body">
+        <div class="window window-1"></div>
+        <div class="window window-2"></div>
+        <div class="window-glowing">
+          <div class="window-figure"></div>
+        </div>
+        <div class="window window-4"></div>
+        <div class="window window-5"></div>
+        <div class="window window-6"></div>
+        <div class="window window-7"></div>
+        <div class="window window-8"></div>
+        <div class="door"></div>
+        <div class="door-glow"></div>
+      </div>
+    </div>
+
+    <!-- Bushes -->
+    <div class="bush bush-1"></div>
+    <div class="bush bush-2"></div>
+
+    <!-- Gate -->
+    <div class="gate">
+      <div class="pillar pillar-left"></div>
+      <div class="pillar pillar-right"></div>
+      <div class="gate-bars">
+        <div class="bar"></div><div class="bar"></div><div class="bar"></div>
+        <div class="bar"></div><div class="bar"></div><div class="bar"></div>
+        <div class="bar"></div><div class="bar"></div><div class="bar"></div>
+        <div class="bar"></div>
+        <div class="gate-top"></div>
+        <div class="spike"></div><div class="spike"></div><div class="spike"></div>
+        <div class="spike"></div><div class="spike"></div><div class="spike"></div>
+        <div class="spike"></div><div class="spike"></div><div class="spike"></div>
+        <div class="spike"></div>
+      </div>
+    </div>
+
+    <!-- Sign -->
+    <div class="sign">
+      <div class="sign-board">
+        <div class="sign-text">Betreten verboten!</div>
+      </div>
+      <div class="sign-post"></div>
+    </div>
+
+    <!-- Ground -->
+    <div class="ground">
+      <div class="path"></div>
+    </div>
+
+    <!-- Flashlight beam -->
+    <div class="flashlight"></div>
+
+    <!-- Children glow -->
+    <div class="children-glow"></div>
+
+    <!-- Children -->
+    <div class="children">
+      <!-- Left child - girl with ponytail, half-turned, holding flashlight -->
+      <div class="child child-left">
+        <div class="body">
+          <div class="head"></div>
+          <div class="arm">
+            <div class="flashlight-item"></div>
+          </div>
+          <div class="legs">
+            <div class="leg leg-l"></div>
+            <div class="leg leg-r"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Middle child - tall, backpack, facing forward -->
+      <div class="child child-middle">
+        <div class="body">
+          <div class="head"></div>
+          <div class="backpack"></div>
+          <div class="arm-l"></div>
+          <div class="arm-r"></div>
+          <div class="legs">
+            <div class="leg leg-l"></div>
+            <div class="leg leg-r"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right child - smaller, cap, slightly timid -->
+      <div class="child child-right">
+        <div class="body">
+          <div class="head"></div>
+          <div class="arm-l"></div>
+          <div class="arm-r"></div>
+          <div class="legs">
+            <div class="leg leg-l"></div>
+            <div class="leg leg-r"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Fog -->
+    <div class="fog">
+      <div class="fog-layer"></div>
+      <div class="fog-layer"></div>
+      <div class="fog-layer"></div>
+    </div>
+
+    <!-- Ambient light -->
+    <div class="ambient"></div>
+
+    <!-- Vignette -->
+    <div class="vignette"></div>
+
+    <!-- Bottom text -->
+    <div class="bottom-text">
+      <div class="author">Benjamin Krug</div>
+      <div class="subtitle">Ein Detektiv-Abenteuer zum Mitraten ab 8 Jahren</div>
+    </div>
+  </div>
+
+  <!-- Thumbnail preview -->
+  <div class="thumbnail-label">↓ Amazon Thumbnail (150px)</div>
+  <div class="thumbnail-preview">
+    <div class="cover" style="width: 1000px; height: 1600px; position: absolute; top: 0; left: 0;">
+      <!-- Simplified duplicate for thumbnail reference -->
+    </div>
+  </div>
+</body>
+</html>

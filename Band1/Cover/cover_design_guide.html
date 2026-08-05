@@ -1,0 +1,997 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cover Design Guide — Die Geisterspürer Band 1</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Montserrat:wght@300;400;700&family=Cinzel+Decorative:wght@700;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #1a1a3e;
+    --indigo: #2d1b4e;
+    --cool-blue: #3a4a6b;
+    --silver-white: #e0e8f0;
+    --blue-glow: #6b8db5;
+    --teal: #7abfbf;
+    --amber: #d4920b;
+    --cold-blue: #c8dff5;
+    --author-color: #d0d8e0;
+    --subtitle-color: #c0c8d0;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Montserrat', sans-serif;
+    background: #0d0d1a;
+    color: #e0e0e0;
+    line-height: 1.6;
+  }
+
+  .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+
+  h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.5em;
+    text-align: center;
+    color: var(--silver-white);
+    margin: 40px 0 10px;
+    text-shadow: 0 0 30px rgba(107,141,181,0.5);
+  }
+
+  .subtitle {
+    text-align: center;
+    color: var(--teal);
+    font-size: 1.1em;
+    margin-bottom: 50px;
+    font-style: italic;
+  }
+
+  h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.8em;
+    color: var(--teal);
+    margin: 60px 0 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid rgba(122,191,191,0.3);
+  }
+
+  h3 {
+    font-size: 1.2em;
+    color: var(--silver-white);
+    margin: 30px 0 15px;
+  }
+
+  p { margin-bottom: 15px; color: #b0b0c0; }
+
+  .section {
+    background: rgba(26,26,62,0.5);
+    border: 1px solid rgba(122,191,191,0.15);
+    border-radius: 12px;
+    padding: 30px;
+    margin: 30px 0;
+  }
+
+  /* ===== 1. ANATOMIE ===== */
+  .anatomy-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    align-items: start;
+  }
+
+  .cover-zones {
+    width: 300px;
+    height: 480px;
+    border: 2px solid var(--teal);
+    border-radius: 4px;
+    position: relative;
+    background: linear-gradient(180deg, rgba(26,26,62,0.9) 0%, rgba(45,27,78,0.9) 100%);
+    margin: 0 auto;
+  }
+
+  .zone {
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    border: 2px dashed;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85em;
+    font-weight: 700;
+    text-align: center;
+    padding: 5px;
+  }
+
+  .zone-title {
+    top: 15px;
+    height: 100px;
+    border-color: var(--amber);
+    color: var(--amber);
+    background: rgba(212,146,11,0.1);
+  }
+
+  .zone-badge {
+    top: 125px;
+    height: 40px;
+    width: 120px;
+    left: auto;
+    right: 15px;
+    border-color: #ff6b6b;
+    color: #ff6b6b;
+    background: rgba(255,107,107,0.1);
+    font-size: 0.7em;
+  }
+
+  .zone-illustration {
+    top: 130px;
+    height: 220px;
+    border-color: var(--blue-glow);
+    color: var(--blue-glow);
+    background: rgba(107,141,181,0.1);
+  }
+
+  .zone-author {
+    bottom: 15px;
+    height: 55px;
+    border-color: var(--teal);
+    color: var(--teal);
+    background: rgba(122,191,191,0.1);
+  }
+
+  .zone-subtitle {
+    bottom: 80px;
+    height: 35px;
+    border-color: var(--subtitle-color);
+    color: var(--subtitle-color);
+    background: rgba(192,200,208,0.1);
+    font-size: 0.7em;
+  }
+
+  .anatomy-rules {
+    list-style: none;
+    padding: 0;
+  }
+
+  .anatomy-rules li {
+    padding: 12px 15px;
+    margin: 8px 0;
+    border-left: 3px solid var(--teal);
+    background: rgba(122,191,191,0.05);
+    border-radius: 0 6px 6px 0;
+    color: #c0c0d0;
+  }
+
+  .anatomy-rules li strong { color: var(--silver-white); }
+
+  /* ===== 2. FARBTHEORIE ===== */
+  .palette-compare {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+
+  .palette-card {
+    background: rgba(13,13,26,0.8);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .palette-card h4 {
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 15px;
+    font-size: 1.1em;
+  }
+
+  .swatches {
+    display: flex;
+    gap: 6px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+  }
+
+  .swatch {
+    width: 50px;
+    height: 50px;
+    border-radius: 6px;
+    border: 2px solid rgba(255,255,255,0.2);
+    position: relative;
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+
+  .swatch:hover {
+    transform: scale(1.15);
+  }
+
+  .swatch-label {
+    font-size: 0.65em;
+    color: #888;
+    margin-top: 4px;
+    text-align: center;
+    word-break: break-all;
+  }
+
+  .swatch-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .palette-note {
+    font-size: 0.85em;
+    color: #999;
+    font-style: italic;
+  }
+
+  .winner { border-color: var(--teal) !important; }
+  .winner h4 { color: var(--teal); }
+
+  /* ===== 3. TYPOGRAFIE ===== */
+  .typo-hierarchy {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 40px;
+    background: linear-gradient(180deg, var(--navy) 0%, var(--indigo) 100%);
+    border-radius: 12px;
+    text-align: center;
+    position: relative;
+    min-height: 500px;
+    justify-content: center;
+  }
+
+  .typo-series {
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: 3em;
+    color: var(--silver-white);
+    text-shadow: 0 0 20px rgba(107,141,181,0.6), 0 2px 4px rgba(0,0,0,0.8);
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+  }
+
+  .typo-band {
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1.6em;
+    color: var(--teal);
+    text-shadow: 0 2px 8px rgba(0,0,0,0.5);
+    margin-bottom: 20px;
+  }
+
+  .typo-badge-demo {
+    display: inline-block;
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    background: rgba(26,26,62,0.7);
+    border: 2px solid rgba(255,255,255,0.3);
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 0.7em;
+    line-height: 55px;
+    margin: 10px auto;
+  }
+
+  .typo-author {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 1em;
+    color: var(--author-color);
+    letter-spacing: 2px;
+    margin-top: 15px;
+  }
+
+  .typo-subtitle-demo {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 0.75em;
+    color: var(--subtitle-color);
+    opacity: 0.8;
+    margin-top: 5px;
+  }
+
+  .typo-compare {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-top: 20px;
+  }
+
+  .typo-bad, .typo-good {
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+  }
+
+  .typo-bad {
+    background: rgba(255,80,80,0.1);
+    border: 1px solid rgba(255,80,80,0.3);
+  }
+
+  .typo-good {
+    background: rgba(122,191,191,0.1);
+    border: 1px solid rgba(122,191,191,0.3);
+  }
+
+  .typo-bad h4 { color: #ff6b6b; }
+  .typo-good h4 { color: var(--teal); }
+
+  .typo-bad .demo-text {
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+    color: #999;
+    filter: blur(0.5px);
+    letter-spacing: -1px;
+  }
+
+  .typo-good .demo-text {
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: 2em;
+    color: var(--silver-white);
+    text-shadow: 0 0 15px rgba(107,141,181,0.4);
+    letter-spacing: 2px;
+  }
+
+  /* ===== 4. THUMBNAIL ===== */
+  .thumbnail-test {
+    display: flex;
+    gap: 30px;
+    align-items: flex-end;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 30px;
+    background: #fff;
+    border-radius: 12px;
+  }
+
+  .thumb-card {
+    text-align: center;
+  }
+
+  .thumb-card p {
+    color: #333;
+    font-size: 0.8em;
+    margin-top: 8px;
+    font-weight: 700;
+  }
+
+  .thumb-cover {
+    background: linear-gradient(180deg, var(--navy) 0%, var(--indigo) 60%, #111 100%);
+    border-radius: 3px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 8%;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .thumb-cover::before {
+    content: '';
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    width: 60%;
+    height: 35%;
+    background: radial-gradient(ellipse, rgba(200,223,245,0.15) 0%, transparent 70%);
+  }
+
+  .thumb-full { width: 320px; height: 512px; }
+  .thumb-medium { width: 200px; height: 320px; }
+  .thumb-small { width: 120px; height: 192px; }
+
+  .thumb-title {
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    color: var(--silver-white);
+    text-shadow: 0 0 10px rgba(107,141,181,0.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .thumb-full .thumb-title { font-size: 1.6em; }
+  .thumb-medium .thumb-title { font-size: 1em; }
+  .thumb-small .thumb-title { font-size: 0.6em; letter-spacing: 1px; }
+
+  .thumb-band {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    color: var(--teal);
+    text-align: center;
+    position: relative;
+    z-index: 1;
+  }
+
+  .thumb-full .thumb-band { font-size: 1em; }
+  .thumb-medium .thumb-band { font-size: 0.7em; }
+  .thumb-small .thumb-band { font-size: 0.4em; }
+
+  .thumb-cyoa-badge {
+    position: absolute;
+    background: rgba(212,146,11,0.9);
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    line-height: 1.1;
+    z-index: 2;
+  }
+
+  .thumb-full .thumb-cyoa-badge {
+    width: 70px; height: 70px; top: 15px; right: 15px; font-size: 0.6em;
+  }
+  .thumb-medium .thumb-cyoa-badge {
+    width: 50px; height: 50px; top: 10px; right: 10px; font-size: 0.45em;
+  }
+  .thumb-small .thumb-cyoa-badge {
+    width: 32px; height: 32px; top: 6px; right: 6px; font-size: 0.3em;
+  }
+
+  .thumb-author {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    color: var(--author-color);
+    text-align: center;
+    position: absolute;
+    bottom: 10%;
+    z-index: 1;
+  }
+
+  .thumb-full .thumb-author { font-size: 0.7em; }
+  .thumb-medium .thumb-author { font-size: 0.5em; }
+  .thumb-small .thumb-author { font-size: 0.3em; }
+
+  .thumb-verdict {
+    margin-top: 5px;
+    font-size: 0.75em;
+    padding: 3px 8px;
+    border-radius: 3px;
+    display: inline-block;
+  }
+
+  .verdict-pass { background: rgba(80,200,120,0.2); color: #50c878; }
+  .verdict-warn { background: rgba(255,200,50,0.2); color: #ddb833; }
+  .verdict-fail { background: rgba(255,80,80,0.2); color: #ff6b6b; }
+
+  /* ===== 5. CYOA ===== */
+  .cyoa-badges {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px 0;
+  }
+
+  .cyoa-badge-example {
+    padding: 12px 24px;
+    border-radius: 25px;
+    font-weight: 700;
+    font-size: 0.9em;
+    text-align: center;
+    transition: transform 0.2s;
+    cursor: default;
+  }
+
+  .cyoa-badge-example:hover { transform: scale(1.05); }
+
+  .badge-amber {
+    background: linear-gradient(135deg, var(--amber), #b87a08);
+    color: white;
+    box-shadow: 0 0 15px rgba(212,146,11,0.4);
+  }
+
+  .badge-teal {
+    background: linear-gradient(135deg, var(--teal), #5a9f9f);
+    color: var(--navy);
+    box-shadow: 0 0 15px rgba(122,191,191,0.4);
+  }
+
+  .badge-burst {
+    background: var(--navy);
+    border: 2px solid var(--amber);
+    color: var(--amber);
+    clip-path: polygon(50% 0%, 61% 15%, 80% 5%, 75% 25%, 98% 30%, 82% 45%, 95% 65%, 75% 60%, 70% 82%, 55% 68%, 40% 85%, 38% 65%, 15% 72%, 25% 50%, 2% 40%, 22% 30%, 8% 12%, 30% 18%, 38% 0%, 48% 15%);
+    padding: 25px 30px;
+    font-size: 0.8em;
+  }
+
+  .badge-circle {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background: rgba(212,146,11,0.9);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.7em;
+    line-height: 1.2;
+    box-shadow: 0 0 20px rgba(212,146,11,0.4);
+  }
+
+  .cyoa-compare {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-top: 20px;
+  }
+
+  .cyoa-without, .cyoa-with {
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+  }
+
+  .cyoa-without {
+    background: rgba(255,80,80,0.08);
+    border: 1px solid rgba(255,80,80,0.2);
+  }
+
+  .cyoa-with {
+    background: rgba(122,191,191,0.08);
+    border: 1px solid rgba(122,191,191,0.2);
+  }
+
+  .cyoa-without h4 { color: #ff6b6b; margin-bottom: 10px; }
+  .cyoa-with h4 { color: var(--teal); margin-bottom: 10px; }
+
+  .untertitel-var {
+    padding: 10px 15px;
+    margin: 8px 0;
+    border-radius: 6px;
+    background: rgba(26,26,62,0.5);
+    font-size: 0.85em;
+    color: var(--subtitle-color);
+    font-style: italic;
+  }
+
+  .untertitel-var.recommended {
+    border: 1px solid var(--teal);
+    background: rgba(122,191,191,0.1);
+    color: var(--teal);
+  }
+
+  .tag {
+    display: inline-block;
+    font-size: 0.65em;
+    padding: 2px 6px;
+    border-radius: 3px;
+    margin-left: 8px;
+    font-style: normal;
+    font-weight: 700;
+    vertical-align: middle;
+  }
+
+  .tag-yes { background: rgba(80,200,120,0.2); color: #50c878; }
+  .tag-no { background: rgba(255,80,80,0.2); color: #ff6b6b; }
+
+  /* ===== 6. KOMPOSITION ===== */
+  .composition-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+  }
+
+  .comp-card {
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid rgba(255,255,255,0.1);
+  }
+
+  .comp-card h4 {
+    padding: 15px 20px;
+    margin: 0;
+    font-size: 1em;
+  }
+
+  .comp-before h4 { background: rgba(255,80,80,0.15); color: #ff6b6b; }
+  .comp-after h4 { background: rgba(122,191,191,0.15); color: var(--teal); }
+
+  .comp-content {
+    padding: 20px;
+    background: rgba(13,13,26,0.5);
+  }
+
+  .comp-checklist {
+    list-style: none;
+    padding: 0;
+  }
+
+  .comp-checklist li {
+    padding: 8px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+    font-size: 0.9em;
+  }
+
+  .check-yes { color: #50c878; }
+  .check-no { color: #ff6b6b; }
+  .check-partial { color: #ddb833; }
+
+  /* ===== RUECKSEITEN-CLAIM ===== */
+  .rueckseite-demo {
+    background: linear-gradient(180deg, var(--navy) 0%, #111 100%);
+    border-radius: 12px;
+    padding: 40px;
+    text-align: center;
+    margin: 20px 0;
+    border: 1px solid rgba(122,191,191,0.2);
+  }
+
+  .rueckseite-claim {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1.3em;
+    color: var(--teal);
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+  }
+
+  .rueckseite-sub {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 0.9em;
+    color: var(--subtitle-color);
+    line-height: 1.8;
+  }
+
+  /* ===== RESPONSIVE ===== */
+  @media (max-width: 900px) {
+    .anatomy-grid, .palette-compare, .typo-compare, .cyoa-compare, .composition-grid {
+      grid-template-columns: 1fr;
+    }
+    .thumbnail-test { flex-direction: column; align-items: center; }
+    h1 { font-size: 1.8em; }
+    .typo-series { font-size: 2em; }
+  }
+
+  /* ===== NAV ===== */
+  nav {
+    position: sticky;
+    top: 0;
+    background: rgba(13,13,26,0.95);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(122,191,191,0.2);
+    z-index: 100;
+    padding: 10px 20px;
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  nav a {
+    color: var(--teal);
+    text-decoration: none;
+    font-size: 0.8em;
+    font-weight: 700;
+    padding: 5px 12px;
+    border-radius: 15px;
+    border: 1px solid rgba(122,191,191,0.3);
+    transition: all 0.2s;
+  }
+
+  nav a:hover {
+    background: rgba(122,191,191,0.15);
+    border-color: var(--teal);
+  }
+
+  .highlight-box {
+    background: rgba(212,146,11,0.1);
+    border: 1px solid rgba(212,146,11,0.3);
+    border-radius: 8px;
+    padding: 15px 20px;
+    margin: 15px 0;
+    color: var(--amber);
+    font-weight: 700;
+    font-size: 0.95em;
+  }
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="#anatomie">Anatomie</a>
+  <a href="#farben">Farben</a>
+  <a href="#typografie">Typografie</a>
+  <a href="#thumbnail">Thumbnail-Test</a>
+  <a href="#cyoa">CYOA-Signale</a>
+  <a href="#komposition">Komposition</a>
+</nav>
+
+<div class="container">
+
+<h1>Cover Design Guide</h1>
+<p class="subtitle">Die Geisterspurer Band 1 — Was professionelle Cover ausmacht</p>
+
+<!-- ===== 1. ANATOMIE ===== -->
+<h2 id="anatomie">1. Anatomie eines Kinder-Grusel-Covers</h2>
+
+<div class="section">
+<div class="anatomy-grid">
+
+  <div>
+    <div class="cover-zones">
+      <div class="zone zone-title">SERIENTITEL<br><small>30% der Flache</small></div>
+      <div class="zone zone-badge">CYOA<br>BADGE</div>
+      <div class="zone zone-illustration">ILLUSTRATION<br><small>Hauptmotiv</small><br><small>1 Fokuspunkt</small></div>
+      <div class="zone zone-subtitle">Untertitel + Altersangabe</div>
+      <div class="zone zone-author">AUTOR</div>
+    </div>
+  </div>
+
+  <div>
+    <h3>Die Regeln der Grossen</h3>
+    <ul class="anatomy-rules">
+      <li><strong>Titel-Zone (oben, 25-30%):</strong> Serientitel = grosster Text. Muss bei 150px Thumbnail noch lesbar sein. Goosebumps: 30% der Flache.</li>
+      <li><strong>CYOA-Badge (oben rechts):</strong> "DU ENTSCHEIDEST" oder "25 Enden!" — fehlt bei allen aktuellen Versuchen. Pflicht fur CYOA-Bucher.</li>
+      <li><strong>Illustrations-Zone (Mitte, 40-50%):</strong> EIN starkes Motiv. Nicht uberladen. Goosebumps: immer nur 1 Hauptelement. Lockwood: Figuren + 1 Lichtquelle.</li>
+      <li><strong>Bandtitel (unter Serientitel):</strong> Kleiner, andere Farbe (Teal), kursiv. Dient als Neugier-Wecker: "Das Haus, das flustert" — was flustert es?</li>
+      <li><strong>Autor-Zone (unten, 10-15%):</strong> Dezent. Nie grosser als der Bandtitel. Bei Debut: kleiner. Bei Bestseller: grosser.</li>
+      <li><strong>Freie Zonen:</strong> Oberer Himmel (fur Titel), unterer Rand (fur Autor). Die Illustration muss diese Bereiche DUNKEL halten.</li>
+    </ul>
+  </div>
+
+</div>
+</div>
+
+<!-- ===== 2. FARBEN ===== -->
+<h2 id="farben">2. Farbtheorie — Warum Sattigung verkauft</h2>
+
+<div class="section">
+<div class="palette-compare">
+
+  <div class="palette-card">
+    <h4 style="color: #4caf50;">Goosebumps</h4>
+    <div class="swatches">
+      <div class="swatch-wrap"><div class="swatch" style="background:#2e7d32;"></div><div class="swatch-label">Grun</div></div>
+      <div class="swatch-wrap"><div class="swatch" style="background:#7b1fa2;"></div><div class="swatch-label">Lila</div></div>
+      <div class="swatch-wrap"><div class="swatch" style="background:#1565c0;"></div><div class="swatch-label">Blau</div></div>
+      <div class="swatch-wrap"><div class="swatch" style="background:#e65100;"></div><div class="swatch-label">Orange</div></div>
+      <div class="swatch-wrap"><div class="swatch" style="background:#fdd835;"></div><div class="swatch-label">Gelb</div></div>
+    </div>
+    <p class="palette-note">Gesattigte, LEUCHTENDE Farben. Nie grau. Tim Jacobus: "Blau und Purpur statt einfach nur dunkel."</p>
+  </div>
+
+  <div class="palette-card">
+    <h4 style="color:#7986cb;">Lockwood & Co.</h4>
+    <div class="swatches">
+      <div class="swatch-wrap"><div class="swatch" style="background:#1a237e;"></div><div class="swatch-label">Navy</div></div>
+      <div class="swatch-wrap"><div class="swatch" style="background:#42a5f5;"></div><div class="swatch-label">Eis-Blau</div></div>
+      <div class="swatch-wrap"><div class="swatch" style="background:#2e7d32;"></div><div class="swatch-label">Nebel-Grun</div></div>
+      <div class="swatch-wrap"><div class="swatch" style="background:#c62828;"></div><div class="swatch-label">Rot-Akzent</div></div>
+    </div>
+    <p class="palette-note">Kalt-Warm-Kontrast. Dramatisches Blaulicht. Roter Akzent = Gefahr.</p>
+  </div>
+
+  <div class="palette-card winner">
+    <h4>Die Geisterspurer</h4>
+    <div class="swatches">
+      <div class="swatch-wrap"><div class="swatch" style="background:var(--navy);"></div><div class="swatch-label">#1a1a3e</div></div>
+      <div class="swatch-wrap"><div class="swatch" style="background:var(--indigo);"></div><div class="swatch-label">#2d1b4e</div></div>
+      <div class="swatch-wrap"><div class="swatch" style="background:var(--amber);"></div><div class="swatch-label">#d4920b</div></div>
+      <div class="swatch-wrap"><div class="swatch" style="background:var(--teal);"></div><div class="swatch-label">#7abfbf</div></div>
+      <div class="swatch-wrap"><div class="swatch" style="background:var(--cold-blue);"></div><div class="swatch-label">#c8dff5</div></div>
+    </div>
+    <p class="palette-note">Euer Plan: Navy + Amber (Schattens Augen) + Teal + Kalt-Blau (Geist). Gute Basis!</p>
+  </div>
+
+</div>
+
+<div class="highlight-box">
+  KERNREGEL: Das Cover muss auf weissem Amazon-Hintergrund "leuchten". Zu dunkle Cover verschwinden. Goosebumps beweist seit 30 Jahren: Gesattigte Farben > Dumpfe Dunkelheit. Euer aktuelles Cover ist zu gleichformig dunkel — mehr Kontrast durch helleres Amber/Teal notig.
+</div>
+</div>
+
+<!-- ===== 3. TYPOGRAFIE ===== -->
+<h2 id="typografie">3. Typografie-Hierarchie — Der grosste Schwachpunkt</h2>
+
+<div class="section">
+
+<h3>So muss es aussehen (Live-Vorschau)</h3>
+<div class="typo-hierarchy">
+  <div class="typo-series">DIE GEISTERSPURER</div>
+  <div class="typo-band">Das Haus, das flustert</div>
+  <div class="typo-badge-demo">Band 1</div>
+  <div class="typo-author">B E N J A M I N &nbsp; K R U G</div>
+  <div class="typo-subtitle-demo">Ein Grusel-Abenteuer zum Mitentscheiden — ab 10 Jahren</div>
+</div>
+
+<h3>AI-Schrift vs. Profi-Schrift</h3>
+<div class="typo-compare">
+  <div class="typo-bad">
+    <h4>AI-generiert (aktuell)</h4>
+    <div class="demo-text" style="margin: 20px 0;">DIE GEISTERSPURER</div>
+    <p style="font-size:0.8em; color:#999;">Unscharf, inkonsistentes Kerning, nicht skalierbar, sofort als AI erkennbar</p>
+  </div>
+  <div class="typo-good">
+    <h4>Playfair Display Black (Ziel)</h4>
+    <div class="demo-text" style="margin: 20px 0;">DIE GEISTERSPURER</div>
+    <p style="font-size:0.8em; color:#aab;">Crisp, professionell, kostenlos (Google Fonts), skalierbar, Glow-Effekt in Canva</p>
+  </div>
+</div>
+
+<div class="highlight-box">
+  WORKFLOW: 1) AI-Illustration OHNE Text generieren → 2) Typografie in Canva als Ebene drauflegen → 3) Export als PNG. Nie Text in der AI generieren lassen!
+</div>
+</div>
+
+<!-- ===== 4. THUMBNAIL ===== -->
+<h2 id="thumbnail">4. Thumbnail-Test — Amazon entscheidet in 150px</h2>
+
+<div class="section">
+<p>80% der Kaufentscheidungen auf Amazon fallen anhand des Thumbnails. Das Cover muss in 3 Grossen funktionieren:</p>
+
+<div class="thumbnail-test">
+
+  <div class="thumb-card">
+    <div class="thumb-cover thumb-full">
+      <div class="thumb-cyoa-badge">DU<br>ENTSCHEIDEST</div>
+      <div class="thumb-title">Die Geisterspurer</div>
+      <div class="thumb-band">Das Haus, das flustert</div>
+      <div class="thumb-author">Benjamin Krug</div>
+    </div>
+    <p>Full (320px) — Produktseite</p>
+    <span class="thumb-verdict verdict-pass">Alles lesbar</span>
+  </div>
+
+  <div class="thumb-card">
+    <div class="thumb-cover thumb-medium">
+      <div class="thumb-cyoa-badge">DU<br>ENTSCHEIDEST</div>
+      <div class="thumb-title">Die Geisterspurer</div>
+      <div class="thumb-band">Das Haus, das flustert</div>
+      <div class="thumb-author">Benjamin Krug</div>
+    </div>
+    <p>Medium (200px) — Suchergebnisse</p>
+    <span class="thumb-verdict verdict-warn">Bandtitel grenzwertig</span>
+  </div>
+
+  <div class="thumb-card">
+    <div class="thumb-cover thumb-small">
+      <div class="thumb-cyoa-badge">DU<br>ENTSCHEIDEST</div>
+      <div class="thumb-title">Die Geisterspurer</div>
+      <div class="thumb-band">Das Haus, das flustert</div>
+      <div class="thumb-author">Benjamin Krug</div>
+    </div>
+    <p>Thumbnail (120px) — Empfehlungen</p>
+    <span class="thumb-verdict verdict-pass">Serientitel + Badge erkennbar</span>
+  </div>
+
+</div>
+
+<div class="highlight-box" style="margin-top: 20px;">
+  Bei 120-150px mussen erkennbar sein: 1) Serientitel, 2) Grundstimmung (dunkel/gruselig), 3) CYOA-Badge (Farbe reicht). Bandtitel + Autor durfen verschwinden.
+</div>
+</div>
+
+<!-- ===== 5. CYOA ===== -->
+<h2 id="cyoa">5. CYOA-Signale — Das fehlende Verkaufsargument</h2>
+
+<div class="section">
+
+<p>Keines der 4 aktuellen Cover kommuniziert, dass das Buch interaktiv ist. Ein Kind sieht "Grusel-Geschichte", nicht "ICH entscheide." Das ist ein Verkaufsproblem.</p>
+
+<h3>Badge-Varianten</h3>
+<div class="cyoa-badges">
+  <div class="cyoa-badge-example badge-amber">DU ENTSCHEIDEST</div>
+  <div class="cyoa-badge-example badge-teal">25 verschiedene Enden!</div>
+  <div class="badge-circle">DU<br>ENTSCHEIDEST</div>
+  <div class="cyoa-badge-example badge-burst">25<br>ENDEN!</div>
+</div>
+
+<h3>Untertitel-Varianten</h3>
+<div class="untertitel-var">
+  Ein Grusel-Abenteuer fur Kinder ab 10 Jahren <span class="tag tag-no">KEIN CYOA-SIGNAL</span>
+</div>
+<div class="untertitel-var recommended">
+  Ein Grusel-Abenteuer zum Mitentscheiden — ab 10 Jahren <span class="tag tag-yes">EMPFOHLEN</span>
+</div>
+<div class="untertitel-var">
+  Du entscheidest, wie die Geschichte endet — ab 10 Jahren <span class="tag tag-yes">STARK</span>
+</div>
+
+<h3>Ruckseiten-Claim</h3>
+<div class="rueckseite-demo">
+  <div class="rueckseite-claim">In diesem Buch entscheidest DU.</div>
+  <div class="rueckseite-sub">
+    25 Enden. 3 Wege. 1 Geheimnis.<br>
+    <br>
+    An jedem Kapitelende triffst du eine Entscheidung.<br>
+    Gehst du die Treppe hoch? Oder rufst du um Hilfe?<br>
+    Jede Wahl fuhrt zu einer anderen Geschichte.<br>
+    <br>
+    Findest du alle drei Codeworter, wartet ein geheimes Ende auf dich.
+  </div>
+</div>
+
+<h3>Vorher vs. Nachher</h3>
+<div class="cyoa-compare">
+  <div class="cyoa-without">
+    <h4>Ohne CYOA-Signal</h4>
+    <p style="color:#999; font-size:0.85em;">Konkurriert mit: Gansehaut, Lockwood, normale Grusel-Bucher.<br>Zielgruppe erkennt nicht, dass sie mitentscheiden kann.<br>Amazon-Keywords "interaktiv" / "Mitmachbuch" greifen nicht.</p>
+  </div>
+  <div class="cyoa-with">
+    <h4>Mit CYOA-Signal</h4>
+    <p style="color:#aac; font-size:0.85em;">Konkurriert mit: 1000 Gefahren, Choose Your Own Adventure.<br>CYOA ist ein eigenes Subgenre — Kaufer filtern danach.<br>"DU ENTSCHEIDEST" = sofortiger Kaufimpuls bei 10-12-Jahrigen.</p>
+  </div>
+</div>
+
+</div>
+
+<!-- ===== 6. KOMPOSITION ===== -->
+<h2 id="komposition">6. Aktueller Stand vs. Ziel</h2>
+
+<div class="section">
+<div class="composition-grid">
+
+  <div class="comp-card comp-before">
+    <h4>Aktuell (beste Version: Feb 27)</h4>
+    <div class="comp-content">
+      <ul class="comp-checklist">
+        <li><span class="check-yes">&#10004;</span> Kinder + Hund von hinten</li>
+        <li><span class="check-yes">&#10004;</span> HILF im blauen Fenster sichtbar</li>
+        <li><span class="check-yes">&#10004;</span> Warmes Licht EG + kaltes Blau OG</li>
+        <li><span class="check-yes">&#10004;</span> Nasses Kopfsteinpflaster, Nebel</li>
+        <li><span class="check-partial">&#9888;</span> Gebäude nur 2 Stockwerke (soll 3-4)</li>
+        <li><span class="check-partial">&#9888;</span> Noras Hoodie-Farbe unklar</li>
+        <li><span class="check-partial">&#9888;</span> Theos Jacke nicht olive-grun</li>
+        <li><span class="check-no">&#10008;</span> Typografie AI-generiert</li>
+        <li><span class="check-no">&#10008;</span> Kein CYOA-Badge</li>
+        <li><span class="check-no">&#10008;</span> Kein Serien-Branding (Band 1-5)</li>
+        <li><span class="check-no">&#10008;</span> Stadtsilhouette fehlt</li>
+        <li><span class="check-no">&#10008;</span> Zu gleichformig dunkel</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="comp-card comp-after">
+    <h4>Ziel (professionell)</h4>
+    <div class="comp-content">
+      <ul class="comp-checklist">
+        <li><span class="check-yes">&#10004;</span> Textfreie AI-Illustration als Basis</li>
+        <li><span class="check-yes">&#10004;</span> Typografie manuell in Canva (Playfair Display)</li>
+        <li><span class="check-yes">&#10004;</span> CYOA-Badge: "DU ENTSCHEIDEST" (Amber, oben rechts)</li>
+        <li><span class="check-yes">&#10004;</span> Mehr Farbsattigung (Goosebumps-Lektion)</li>
+        <li><span class="check-yes">&#10004;</span> 3-Zonen-Beleuchtung klar differenziert</li>
+        <li><span class="check-yes">&#10004;</span> Serientitel = grosster Text (30% Flache)</li>
+        <li><span class="check-yes">&#10004;</span> Thumbnail-Test bestanden (150px lesbar)</li>
+        <li><span class="check-yes">&#10004;</span> Nora: Teal Hoodie, Theo: Olive Jacke</li>
+        <li><span class="check-yes">&#10004;</span> Band 1-Badge fur Serien-Branding</li>
+        <li><span class="check-yes">&#10004;</span> Stadtsilhouette im Hintergrund</li>
+        <li><span class="check-yes">&#10004;</span> Ruckseite: Atmosphare + Klappentext + ISBN-Zone</li>
+        <li><span class="check-yes">&#10004;</span> 2560x1600 (eBook) / 300 DPI (Print)</li>
+      </ul>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<div style="text-align:center; padding: 40px; color: #666; font-size: 0.8em;">
+  Cover Design Guide — Die Geisterspurer Band 1<br>
+  Basierend auf Konkurrenz-Analyse: Goosebumps, Lockwood & Co., Die drei ???, 1000 Gefahren<br>
+  Erstellt Marz 2026
+</div>
+
+</div>
+</body>
+</html>
