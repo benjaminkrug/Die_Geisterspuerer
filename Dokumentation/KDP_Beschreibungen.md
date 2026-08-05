@@ -82,7 +82,7 @@ Und einer davon leuchtet.<br><br>
 
 <b>Das Buch liegt unter dem Stein mit dem Hund.</b><br><br>
 
-Das Tagebuch von Friedrich Brenner — Totengräber, 1871 — erzählt, was hier passiert ist. Wer diese Menschen waren. Warum niemand ihre Namen kennt. Und wer dafür gesorgt hat, dass das so bleibt.<br><br>
+Das Buch von Heinrich Brenner — Totengräber — erzählt, was hier passiert ist. 47 Namen in enger Handschrift, zu jedem ein Satz. Wer diese Menschen waren. Warum niemand ihre Namen kennt. Und wer dafür gesorgt hat, dass das so bleibt.<br><br>
 
 Denn Brenner ist nicht der Einzige, der noch hier ist. Irgendwo zwischen den namenlosen Steinen wartet eine zweite Erscheinung: größer, dunkler — und wütend, dass jemand anfängt, Fragen zu stellen.<br><br>
 

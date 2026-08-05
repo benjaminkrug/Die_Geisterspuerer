@@ -3,8 +3,17 @@
 > Gilt zusammen mit `Dokumentation/Cover_Reihenstandard.md`. Die Blöcke A–E von
 > dort sind unten eingesetzt; geändert wird der Standard dort, nicht hier.
 >
-> **Ersetzt** `Cover_Prompt_Band1_v5_FINAL.md`. Format: **6 × 9 Zoll** (Band 1
-> lief bisher als einziger Band auf 5 × 8 — er wird umgestellt).
+> **Ersetzt** `Cover_Prompt_Band1_v5_FINAL.md`.
+>
+> **Format: 5 × 8 Zoll** — Band 1 ist der einzige Band der Reihe in diesem
+> Format, und das bleibt so. Eine Umstellung auf 6 × 9 wurde am 2026-08-04
+> gebaut und verworfen: KDP lässt die Trimmgröße eines veröffentlichten
+> Taschenbuchs nicht ändern, ein Wechsel wäre ein neues Buch ohne die
+> Rezensionen des Einstiegsbands.
+>
+> Daraus folgt die schärfste Regel dieses Prompts: Das Bild entsteht in **2:3**
+> (0,667), das Buch ist **0,621** — beim Einpassen fallen **6,7 % der Breite**
+> weg. Text braucht hier deutlich mehr Rand als bei Band 2–5.
 
 ---
 
@@ -18,7 +27,7 @@ Nachgemessen am ausgelieferten Bild, nicht vermutet:
 | **Untertitel steht unterhalb der Sicherheitslinie** | kann im Druck angeschnitten werden |
 | **Reihenname groß, Buchtitel klein in Schreibschrift** | umgekehrt zu Band 2–5 — der Käufer sieht nicht, wie das Buch heißt |
 | **Keine Bandnummer** | im Regal nicht als Reihe erkennbar |
-| **5 × 8 Zoll** | kleineres Buch als der Rest der Reihe |
+| **5 × 8 Zoll** | kleineres Buch als der Rest der Reihe — bleibt so (s. o.), kostet aber 6,7 % Bildbreite beim Beschnitt |
 | Rückseite im Repo gehört zum **Spielbuch**, nicht zum Roman | eine Roman-Rückseite existiert nicht |
 
 **Was gut war und bleibt:** die Bildidee. Ein Altbau bei Nacht, gestaffeltes
@@ -88,8 +97,10 @@ umstellen.
 
 ## HAUPT-PROMPT — VORDERSEITE
 
-> Bildformat **2 : 3 hochkant**, so groß wie möglich erzeugen. Anschließend auf
-> mindestens **1838 × 2775 px** hochskalieren.
+> Bildformat **2 : 3 hochkant**, so groß wie möglich erzeugen. Panel-Sollmaß
+> für Band 1 ist **1538 × 2475 px** — ein 2:3-Bild muss also mindestens
+> **1650 × 2475 px** haben, damit nach dem Beschnitt noch 300 dpi übrig sind.
+> `Scripts/build_cover.py 1` bricht sonst ab.
 
 ```
 ========================================
@@ -112,18 +123,34 @@ sticker, ribbon, banner or emblem; any age roundel; any painted frame or
 border around the artwork; any word not in the four texts above.
 ========================================
 
-SAFE MARGINS (CRITICAL - the outer edges are trimmed off when the book is
-printed, and the e-book version is cropped narrower still):
-- EVERY line of text must sit inside the central 84% of the width. There must
-  be clearly visible empty background - at least the width of two capital
-  letters - to the LEFT of the leftmost letter and to the RIGHT of the
-  rightmost letter of every single line.
-- Keep at least 6% of the height free of text at the TOP and at the BOTTOM.
+SAFE MARGINS - THIS IS THE MOST IMPORTANT CONSTRAINT ON THIS IMAGE.
+
+Think of it this way: a wide strip along EVERY edge of this image will be
+PHYSICALLY CUT AWAY when the book is printed and trimmed. Compose the
+typography as if those strips did not exist.
+
+- EVERY line of text must sit inside the CENTRAL 74% OF THE WIDTH. That means
+  a full 13% of the image width stays as empty background on the LEFT of the
+  leftmost letter, and 13% on the RIGHT of the rightmost letter, on every
+  single line.
+- As a visual check: the empty gap beside each end of the longest title line
+  must be at least AS WIDE AS FOUR CAPITAL LETTERS of that line. If you cannot
+  see that much empty background on both sides, the title is too wide.
+- Keep at least 9% OF THE HEIGHT free of text at the TOP and at the BOTTOM.
+  Below the author name there must be a clearly visible band of empty ground -
+  about as tall as the author name itself is tall, twice over.
 - NO letter may touch or approach an outer edge.
-- Better a slightly smaller title with clear margins than a big title that
-  reaches the edge. When in doubt, shrink the text.
+- Centre every line on the exact horizontal middle of the image. Do not let
+  the title block drift to one side.
+- A title at 74% width is still large and dominant. A title at 85% width gets
+  trimmed. When in doubt, make the text SMALLER.
 - The illustration itself still fills the whole image to all four edges -
   only the TEXT stays inside the safe area.
+
+(Why so strict here: this book is printed at 5 x 8 inches, but the image is
+generated at 2:3. Converting between the two removes 6.7% of the width. Text
+that looks comfortably placed in the generated image ends up on the trim line
+in the printed book - that has already happened once with this cover.)
 
 Children's book cover illustration, painterly semi-realistic digital painting
 with visible brushwork, rich texture and cinematic lighting. It should look
@@ -243,9 +270,10 @@ SERIES LINE (small, at the very top, thin widely spaced capitals, steel-grey
 #9aa6b0):
 DIE GEISTERSPÜRER · BAND 1
 
-MAIN TITLE (large, clearly the dominant text on the cover, heavy carved
-capitals, slightly condensed, chalk-bone-white #e8e6e0 with a hard dark shadow
-so it stays readable against the night sky). Set on TWO centred lines:
+MAIN TITLE (large and dominant, but NEVER wider than 74% of the image -
+heavy carved capitals, slightly condensed, chalk-bone-white #e8e6e0 with a
+hard dark shadow so it stays readable against the night sky). Set on TWO
+centred lines:
     DAS HAUS,
     DAS FLÜSTERT
 The comma at the end of the first line is required. The second line is the
@@ -334,11 +362,13 @@ background: no text, no focal detail, no bright object.
 Do NOT paint a grey, cream or white rectangle there, and do NOT paint a
 barcode. The printer places the real barcode on top of the plain background.
 
-LAYOUT AND SAFE ZONES:
-- ALL text sits within the upper 78% of the height. The bottom 20% carries no
+LAYOUT AND SAFE ZONES - a wide strip along every edge of this image will be
+PHYSICALLY CUT AWAY when the book is printed. Compose as if it did not exist.
+- ALL text sits within the upper 76% of the height. The bottom 22% carries no
   text at all.
-- Every line keeps at least 8% of the width free to the left and to the right,
-  and at least 6% of the height free at the top.
+- Every line keeps at least 13% OF THE WIDTH free to the left and to the
+  right, and at least 9% of the height free at the top. The text column is
+  narrow and centred - that is correct for a back cover, it reads better.
 - Do NOT stretch the text down the page. Set it compact in the upper area;
   calm empty background at the bottom is intended and correct.
 
@@ -471,7 +501,9 @@ Barcode-Zone unten rechts.
 - [ ] Kein gemalter Rahmen ums Bild
 
 **Technik:**
-- [ ] Aller Text innerhalb der zentralen 84 % der Breite, 6 % oben/unten frei
+- [ ] Aller Text innerhalb der zentralen **74 %** der Breite (Band 1 ist 5 × 8 —
+      der Beschnitt frisst 6,7 % der Breite), **9 %** oben und unten frei
+- [ ] Unter dem Autornamen ein sichtbares leeres Band — nicht direkt am Rand
 - [ ] Rückseite: Barcode-Zone unten rechts leer, **kein gemaltes helles Feld**
 - [ ] Beide Bilder auf **mindestens 1838 × 2775 px** hochskaliert
 - [ ] **Thumbnail-Test bei 150 px:** Titel lesbar? Blaues Fenster erkennbar?

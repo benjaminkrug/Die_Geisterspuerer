@@ -1,28 +1,30 @@
 """
-Build a properly formatted DOCX for KDP Taschenbuch (paperback, 6x9 inches)
+Build a properly formatted DOCX for KDP Taschenbuch (paperback, 5x8 inches)
 from Manuskript_Band1_Komplett.md.
 Handles: page size, mirror margins, page numbers, chapter headings,
 paragraphs with first-line indent, scene breaks, italic/bold text,
 front matter, back matter.
 
-★ FORMATWECHSEL 2026-08-04: 5 x 8 Zoll -> 6 x 9 Zoll.
+★ 5 x 8 ZOLL IST ABSICHT — NICHT "VERGESSEN ANZUGLEICHEN". NICHT AENDERN.
 
-Band 1 lief als EINZIGER Band der Reihe auf 5 x 8 Zoll; Band 2 bis 5 sind
-6 x 9 (build_taschenbuch_docx_band2..5.py). Im Regal stand der Einstiegsband
-damit sichtbar kleiner als der Rest der Reihe, und das Cover konnte nie zum
-Set passen.
+Band 1 ist der EINZIGE Band der Reihe auf 5 x 8 Zoll; Band 2 bis 5 laufen auf
+6 x 9 (build_taschenbuch_docx_band2..5.py). Im Regal ist der Einstiegsband
+dadurch sichtbar kleiner als der Rest.
 
-Uebernommen wurden Seitengroesse, Raender und Erstzeileneinzug exakt aus
-build_taschenbuch_docx_band5.py. Die uebrige Typografie war ohnehin identisch
-(Georgia 11 pt, Zeilenabstand 1,5) — es aendert sich also nur das Format,
-nicht das Schriftbild.
+Am 2026-08-04 wurde die Umstellung auf 6 x 9 gebaut und getestet (186 -> 152
+Seiten) und dann bewusst VERWORFEN:
 
-Folgen, die beachtet werden muessen:
-  - Die SEITENZAHL sinkt (5 x 8 / 186 Seiten -> geschaetzt ~160). Davon haengt
-    die Buchruecken-Breite ab: Scripts/build_cover.py braucht die echte Zahl
-    aus dem KDP-Previewer, BEVOR ein Cover gebaut wird.
-  - Das Taschenbuch muss bei KDP als NEUE Ausgabe hochgeladen werden; die ASIN
-    unten (Rezensions-QR-Code) bitte gegenpruefen.
+    KDP laesst die Trimmgroesse eines veroeffentlichten Taschenbuchs nicht
+    aendern. Ein Formatwechsel bedeutet ein NEUES Buch mit neuer ASIN — die
+    Rezensionen des Einstiegsbands wandern nicht zuverlaessig mit. Das wiegt
+    schwerer als ein einheitliches Regalbild.
+
+Wer das hier spaeter "aufraeumen" will: erst diesen Absatz lesen. Der
+Groessenunterschied ist der Preis fuer die Rezensionen von Band 1, und der
+Preis ist bewusst bezahlt.
+
+Folge fuers Cover: Scripts/build_cover.py rechnet Band 1 mit 5 x 8 Zoll
+(Panel 1538 x 2475 px) und 186 Seiten. Alle anderen Baende mit 6 x 9.
 """
 
 import os
@@ -48,15 +50,15 @@ QR_IMAGE = os.path.join(os.path.dirname(__file__), "..", "Band1", "Cover", "qr_r
 
 
 def setup_page(section):
-    """Set 6x9 inch page size and KDP margins — identisch zu Band 2 bis 5."""
-    section.page_width = Inches(6)
-    section.page_height = Inches(9)
-    section.left_margin = Inches(0.875)   # inner (binding)
-    section.right_margin = Inches(0.625)  # outer
-    section.top_margin = Inches(0.75)
-    section.bottom_margin = Inches(0.75)
+    """Set 5x8 inch page size and KDP margins. 5x8 ist Absicht — s. Dateikopf."""
+    section.page_width = Inches(5)
+    section.page_height = Inches(8)
+    section.left_margin = Inches(0.75)    # inner margin (with mirror)
+    section.right_margin = Inches(0.5)    # outer margin (with mirror)
+    section.top_margin = Inches(0.5)
+    section.bottom_margin = Inches(0.625)
     section.header_distance = Inches(0)
-    section.footer_distance = Inches(0.35)
+    section.footer_distance = Inches(0.3)
 
 
 def setup_mirror_margins(doc):
@@ -110,7 +112,7 @@ def create_styles(doc):
     pf.space_before = Pt(0)
     pf.space_after = Pt(0)
     pf.line_spacing = 1.5
-    pf.first_line_indent = Cm(0.6)  # wie Band 2-5 (war 0.5 beim 5x8-Satz)
+    pf.first_line_indent = Cm(0.5)  # ~1.2em at 11pt, passend zum 5x8-Satz
     pf.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
     pf.widow_control = True
 

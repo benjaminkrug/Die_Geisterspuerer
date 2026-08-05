@@ -37,19 +37,44 @@ Dazu zwei Fehler, die auf keinem Bildschirm auffallen:
 
 ---
 
-## 2. Technische Vorgaben (KDP, 6 × 9 Zoll, weißes Papier)
+## 2. Technische Vorgaben (KDP, weißes Papier)
 
-Ab sofort **alle fünf Bände 6 × 9 Zoll.** Band 1 wird umgestellt.
+**★ Zwei Formate. Band 1 ist 5 × 8, Band 2–5 sind 6 × 9.**
 
-| Größe | Pixel @ 300 dpi | Zoll | Verhältnis |
-|---|---|---|---|
-| Panel Vorder-/Rückseite inkl. Anschnitt | **1838 × 2775** | 6,125 × 9,25 | 0,662 |
-| Sichtbar nach dem Schnitt | 1800 × 2700 | 6,0 × 9,0 | — |
-| eBook-Cover | **1600 × 2560** | — | 0,625 |
+Das ist kein Versehen und wird auch nicht angeglichen: KDP lässt die
+Trimmgröße eines veröffentlichten Taschenbuchs nicht ändern. Ein Wechsel wäre
+ein **neues Buch mit neuer ASIN** — und die Rezensionen des Einstiegsbands
+wandern nicht zuverlässig mit. Der Größenunterschied im Regal ist der bewusst
+bezahlte Preis dafür. *(Geprüft und verworfen am 2026-08-04; die Umstellung
+war gebaut und hätte 186 → 152 Seiten ergeben.)*
 
-**Der eBook-Beschnitt ist enger, nicht kleiner.** Aus einem 0,662-Bild fallen
-seitlich je 2,8 % weg. Deshalb muss Text die seitlichen Ränder deutlich meiden —
-sonst steht er im Druck korrekt und ist im eBook angeschnitten.
+| | Band 1 (5 × 8) | Band 2–5 (6 × 9) |
+|---|---|---|
+| Panel inkl. Anschnitt | **1538 × 2475** px | **1838 × 2775** px |
+| in Zoll | 5,125 × 8,25 | 6,125 × 9,25 |
+| Verhältnis | **0,621** | **0,662** |
+| Sichtbar nach dem Schnitt | 1500 × 2400 | 1800 × 2700 |
+| eBook-Cover | 1600 × 2560 | 1600 × 2560 |
+
+### Seitenverhältnis beim Erzeugen
+
+Bildgeneratoren bieten `2:3` = 0,667 an. Das passt für **Band 2–5 fast exakt**
+(0,662, unter 1 % Beschnitt).
+
+**Für Band 1 nicht.** 0,667 gegen 0,621 heißt **6,7 % Breitenverlust**, also
+3,35 % je Seite. Ein näheres Verhältnis gibt es im Angebot der Generatoren
+nicht (`9:16` = 0,563 würde stattdessen 10 % Höhe kosten). Konsequenz:
+
+> **Bei Band 1 muss aller Text im erzeugten Bild in den zentralen 78 % der
+> Breite liegen** — nicht 84 % wie bei Band 2–5. Sonst rutscht er beim
+> Beschnitt in den Sicherheitsrand. Genau das ist beim ersten Band-1-Bild
+> passiert: „DAS FLÜSTERT" lag 7 px zu weit rechts und musste per
+> `front_shift` um 11 px zurückgeholt werden.
+
+Umgekehrt ist der **eBook-Beschnitt bei Band 1 praktisch null** (1600 × 2560 =
+0,625 gegen Trimmverhältnis 0,625). Bei Band 2–5 fallen seitlich je 2,8 % weg —
+dort muss Text die Seitenränder deutlich meiden, sonst steht er im Druck
+korrekt und ist im eBook angeschnitten.
 
 ### Auflösung — der Punkt, an dem bisher alles scheiterte
 
@@ -71,9 +96,9 @@ der nötigen Fläche.
 > Thumbnail zuerst ansieht. Wer 4K direkt erzeugt, umgeht das Problem, statt es
 > zu reparieren.
 
-**Seitenverhältnis immer `2:3`** (0,667). Das Druck-Panel ist 0,662 — der
-Beschnitt beträgt damit unter 1 %. Jedes andere Verhältnis kostet Bildrand:
-die Band-5-Vorderseite (0,739) verliert seitlich 10,4 %.
+**Seitenverhältnis immer `2:3`** (0,667) — für Band 2–5 liegt der Beschnitt
+damit unter 1 %, für Band 1 bei 6,7 % (siehe oben). Jedes andere Verhältnis
+kostet mehr Bildrand: die Band-5-Vorderseite (0,739) verliert seitlich 10,4 %.
 
 `Scripts/build_cover.py` **bricht bei zu kleinen Bildern ab** — mit Absicht.
 Eine Warnung reicht nicht: das Band-5-Skript hat gewarnt, und das Bild ist
@@ -81,16 +106,50 @@ trotzdem in den Druck gelaufen.
 
 ### Sicherheitszonen (Anteil am Panel, gilt für Vorder- UND Rückseite)
 
-| Zone | Regel |
-|---|---|
-| Text seitlich | mindestens **8 %** der Breite links und rechts frei |
-| Text oben | mindestens **6 %** der Höhe frei |
-| Text unten | mindestens **6 %** der Höhe frei |
-| **Barcode (nur Rückseite)** | rechte **42 %** der Breite × untere **20 %** der Höhe bleiben **komplett frei von Text und Blickfang** — und **ohne gemaltes Feld** |
+**Angaben als Anteil am erzeugten 2:3-Bild** — nicht am fertigen Panel. Das ist
+der Wert, den man dem Bildmodell nennt.
 
-Rechnerisch verlangt KDP 0,25 Zoll Abstand zur Trimmkante = 6,1 % seitlich und
-4,1 % oben/unten. Die 8 % / 6 % oben sind der Aufschlag dafür, dass ein
-Bildgenerator Ränder nicht auf den Pixel trifft.
+| Zone | Band 2–5 (6 × 9) | Band 1 (5 × 8) |
+|---|---|---|
+| Text seitlich frei | **9 %** (zentrale 82 %) | **13 %** (zentrale **74 %**) |
+| Text oben frei | 9 % | 9 % |
+| Text unten frei | 9 % | 9 % |
+| **Barcode (nur Rückseite)** | rechte **42 %** × untere **20 %** | rechte **46 %** × untere **22 %** |
+
+Die Barcode-Zone bleibt **komplett frei von Text und Blickfang — und ohne
+gemaltes Feld.**
+
+### Warum diese Zahlen und nicht die KDP-Mindestwerte
+
+KDP verlangt 0,25 Zoll (6,4 mm) Abstand zur Schnittkante. Genau darauf zu
+zielen, ist zu knapp — das ist **nachgemessen, nicht befürchtet:**
+
+> Der erste fertige Band-1-Umschlag hielt exakt die damals geforderten 8 %.
+> Ergebnis im KDP-Previewer: „DAS FLÜSTERT" lag bei **6,6 mm** von der
+> Schnittkante — 0,2 mm über der Grenze, optisch klebend. „Benjamin Krug" lag
+> bei **2 bis 3 mm**, also darunter. Der Prompt hatte 6 % Höhe verlangt; das
+> Modell lieferte 3,3 %.
+
+Zwei Lehren:
+
+1. **Bildmodelle unterschreiten die genannten Ränder.** Man muss mehr fordern,
+   als man braucht. Die Werte oben zielen auf ~10 mm Abstand statt 6,4 mm.
+2. **Prozentangaben allein wirken schlecht.** Immer eine anschauliche
+   Gegenprobe danebenstellen — „so breit wie vier Großbuchstaben" statt nur
+   „13 %" — und das Ganze als *„dieser Streifen wird abgeschnitten"*
+   formulieren, nicht als Gestaltungswunsch.
+
+### Wenn ein fertiges Bild zu knappe Ränder hat
+
+**Nicht neu generieren — die Leinwand vergrößern.** Adobe Firefly Generative
+Expand (oder ein vergleichbares Werkzeug) hängt oben Himmel und unten Boden an;
+strukturlose Flächen bekommt ein Modell zuverlässig hin. Das geprüfte Bild und
+sein geprüfter Text bleiben unangetastet, nur der Rahmen wächst.
+
+Zielmaß: die Leinwand so erweitern, dass sie **exakt das Panel-Verhältnis**
+trifft (Band 1: 0,621, Band 2–5: 0,662). Dann entfällt der Beschnitt ganz.
+Beispiel Band 1: aus 2047 × 3072 wird 2150 × 3460 — Titelabstand steigt von
+6,6 mm auf 12 mm, Autorname von ~2 mm auf ~15 mm.
 
 ### Buchrücken
 
@@ -99,7 +158,7 @@ Breite = Seitenzahl × 0,002252 Zoll (weißes Papier).
 
 | Band | Seiten | Rücken | davon nutzbar |
 |---|---:|---:|---:|
-| 1 | 152 | 8,7 mm | **5,5 mm** |
+| 1 | 186 | 10,6 mm | **7,5 mm** |
 | 2 | 113 | 6,5 mm | 3,3 mm |
 | 3 | 106 | 6,1 mm | 2,9 mm |
 | 4 | 95 | 5,4 mm | **2,3 mm** |
@@ -110,8 +169,10 @@ Aufbau von oben nach unten: **Bandnummer** (Bernsteingold) · **Titel** (Kalkwei
 Leserichtung **oben nach unten** — nachgemessen an den gedruckten Rücken von
 Band 2 bis 5, alle vier laufen so.
 
-**Band 1 ist mit 5,5 mm nutzbarer Höhe der einzige Rücken, auf dem alle vier
-Zeilen bequem stehen** — er hat mehr als doppelt so viel Platz wie Band 4.
+**Band 1 ist mit 7,5 mm nutzbarer Höhe der einzige Rücken, auf dem alle vier
+Zeilen bequem stehen** — er hat mehr als dreimal so viel Platz wie Band 4.
+(186 Seiten im kleineren 5×8-Format ergeben den mit Abstand dicksten Rücken
+der Reihe.)
 Bei Band 4 (2,3 mm nutzbar) wird es eng; wenn nötig entfällt zuerst die
 Reihenzeile, **nie die Bandnummer.** Im Regal ist sie das Einzige, was
 beantwortet, ob es mehr davon gibt — und bisher trägt sie **kein einziger** Band.
@@ -139,11 +200,22 @@ beantwortet, ob es mehr davon gibt — und bisher trägt sie **kein einziger** B
 
 | Rolle | Hex |
 |---|---|
-| Haupttitel | `#e8e6e0` Kalkweiß |
-| Reihenzeile / Untertitel | `#9aa6b0` Stahlgrau |
+| **Haupttitel** | **`#dfb057` Gold** (Glanzkante `#f0cb80`, Schattenkante `#d4a44a`) |
+| Reihenzeile / Untertitel | `#9aa6b0` Stahlgrau — oder in Gold mitlaufend |
 | Schattens Augen (Reihen-Akzent) | `#d4920b` Bernstein |
 | Noras Hoodie | `#2a8a7a` Teal |
 | Theos Bomberjacke | `#6b7a3a` Oliv |
+
+> **★ Titelfarbe GOLD — Entscheidung vom 2026-08-05.**
+> Der Wert oben ist aus den fertigen Vorderseiten von Band 2 (`#e1b162`) und
+> Band 3 (`#ddae4c`) **gemessen**, nicht gesetzt — beide Bildmodelle haben von
+> sich aus dasselbe warme Gold gewählt, und es steht den dunklen Motiven
+> besser als Kalkweiß. Es greift außerdem Schattens Bernstein auf.
+>
+> **Band 1 ist die Ausnahme:** Er ist bereits mit kalkweißem Titel
+> veröffentlicht und bleibt vorerst so. Nachziehen, wenn ohnehin ein
+> Cover-Update ansteht — dafür allein lohnt kein Upload. Band 4 und 5 werden
+> in Gold erzeugt.
 
 **Teal, Oliv und Bernstein sind nicht dekorativ — sie sind die
 Wiedererkennung der Reihe.** Auf dem Band-5-Cover fehlen alle drei (beide
