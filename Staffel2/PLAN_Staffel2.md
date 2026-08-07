@@ -820,7 +820,7 @@ Fließtext-Absatz war durch viele Nachträge unübersichtlich geworden):
 | S2-2 | ✅ [Kontinuitaet_S2-2.md](S2-2/Kontinuitaet_S2-2.md) | ✅ [Story_Outline_S2-2.md](S2-2/Story_Outline_S2-2.md) (2. Durchgang) | ✅ [Setup_Payoff](S2-2/Setup_Payoff_Tracker_S2-2.md) · [Cliffhanger](S2-2/Cliffhanger_Register_S2-2.md) · [Szenen](S2-2/Detaillierte_Szenenplanung_S2-2.md) | Grete, Methode Erinnern, Frieda unerkannt, ein Sieg + Dutzende offene Schlösser |
 | S2-3 | ✅ [Kontinuitaet_S2-3.md](S2-3/Kontinuitaet_S2-3.md) | ✅ [Story_Outline_S2-3.md](S2-3/Story_Outline_S2-3.md) | ✅ [Setup_Payoff](S2-3/Setup_Payoff_Tracker_S2-3.md) · [Cliffhanger](S2-3/Cliffhanger_Register_S2-3.md) · [Szenen](S2-3/Detaillierte_Szenenplanung_S2-3.md) | Ilse, Methode Vergeben, Doppel-Enthüllung (Halder + Frieda) |
 | S2-4 | ✅ [Kontinuitaet_S2-4.md](S2-4/Kontinuitaet_S2-4.md) | ✅ [Story_Outline_S2-4.md](S2-4/Story_Outline_S2-4.md) | ✅ [Setup_Payoff](S2-4/Setup_Payoff_Tracker_S2-4.md) · [Cliffhanger](S2-4/Cliffhanger_Register_S2-4.md) · [Szenen](S2-4/Detaillierte_Szenenplanung_S2-4.md) | Marie sucht Clara (kollektiv befreit in Band 5) — kanonbegründet unlösbar, Grenzfall statt Sieg, Nora zweifelt an sich selbst, Frieda wankt erstmals, bewusst keine 4. Methode (Zuhören wiederholt) |
-| S2-5 | ⬜ noch nicht begonnen | ⬜ | ⬜ | — |
+| S2-5 | ✅ [Kontinuitaet_S2-5.md](S2-5/Kontinuitaet_S2-5.md) | ⬜ | ⬜ | Finale (18 Kapitel wie Band 5): Frieda findet Beleg, dass das Feuer nicht seine Schuld war (Ursache bleibt bewusst unklar), konfrontiert Halder; er öffnet die Werkstatt selbst, Marie bleibt bewusst ungelöst |
 
 **Staffelweit:** [Hinweisketten_Tracker.md](Hinweisketten_Tracker.md) ✅ angelegt (Entscheidung
 #24), beide Ketten (Frieda, Feuer-Motiv) bis S2-3 nachgetragen, vollständiger
@@ -831,9 +831,9 @@ Reise-/Weg-Übergang, der beim Schreiben eine kurze Überleitungszeile braucht (
 S2-2 K2→K3, S2-3 K8→K9, S2-4 K9→K10) — kein Zufall mehr, jetzt als feste Schreibregel in
 Abschnitt 15 (Produktions-Workflow, Abweichung 5) festgehalten.
 
-**Nächster Schritt: S2-5, Phase 1 (Kontinuität)** — der letzte Band der Staffel — oder
-Phase 4 (Kapitel schreiben) für S2-1 bis S2-4, sobald die Aktivierungs-Checkliste
-(Abschnitt 1) erfüllt ist.
+**Nächster Schritt: S2-5, Phase 2 (Story-Outline + Mechanik-Prüfung)** — der letzte Band der
+Staffel — oder Phase 4 (Kapitel schreiben) für S2-1 bis S2-4, sobald die
+Aktivierungs-Checkliste (Abschnitt 1) erfüllt ist.
 
 ---
 
