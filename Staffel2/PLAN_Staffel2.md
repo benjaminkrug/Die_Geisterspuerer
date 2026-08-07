@@ -743,6 +743,69 @@ Kategorie-Wahl trägt.
 
 ---
 
+## 15. Produktions-Workflow für Staffel 2 — abgeleitet aus Band 4/5 (2026-08-07)
+
+> Rekonstruiert aus dem tatsächlichen Ablauf von Band 4 und Band 5 (`Band5/PLAN_Band5.md`
+> Abschnitt 6, Dateistruktur `Band4/` und `Band5/`) — nicht neu erfunden, sondern
+> dokumentiert, was sich über fünf Bände bewährt hat.
+
+### Das Sechs-Phasen-Modell (+ Produktion)
+
+| Phase | Datei(en) | Zweck |
+|---|---|---|
+| 0 — Konzept | im `PLAN_S2-N.md` | Prämisse, Antagonist-Profil, Mechanik, Entscheidungen |
+| 1 — Kontinuität | `Kontinuitaet_S2-N.md` | Stil, Figuren-Stand, Namen/Fakten, Wissensstand, offene Fäden, leere Gerüste |
+| 2 — Story-Outline | `Story_Outline_S2-N.md` | Alle Kapitel + **Mechanik-/Physik-Selbstprüfung** (Anti-Story-Fehler) + Twist-Logik + Wachpunkte |
+| 3 — Szenenplanung + Tracker | `Setup_Payoff_Tracker_S2-N.md`, `Cliffhanger_Register_S2-N.md`, `Detaillierte_Szenenplanung_S2-N.md` | Faire Hinweis-Ketten vorab geprüft, alle Übergänge kontrolliert |
+| 4 — Schreiben | `Manuskript/Kapitel_NN.md` | Kapitelweise, nach jedem Kapitel Tracker + Spannungs-Prüfplan |
+| 4b — Stimmen-Pass | — | Anti-Formel-Messung, nach dem Schreiben, vor dem Kompilieren |
+| 5 — Kompilieren | Build-Skripte | Manuskript zusammensetzen |
+| 6 — Abschluss-Prüfung | — | Alle Fäden belegt, Ghost-Regel geprüft, Staffel-Brücke erfüllt |
+
+**Der wertvollste Einzelbefund:** Phase 2s Mechanik-/Physik-Selbstprüfung fand bei Band 5
+**drei echte Logiklöcher, bevor ein Kapitel geschrieben war.** Diese Prüfung ist für
+Staffel 2 mindestens so wichtig wie für Staffel 1 — eher wichtiger, weil unsere eigenen
+Ausführungsrisiken (Abschnitt 14) genau die Art Frage sind, die diese Phase systematisch
+stellt.
+
+### Vier Abweichungen für Staffel 2 (2026-08-07)
+
+**1. Eigene `PLAN_S2-N.md` pro Band, zusätzlich zu dieser Staffel-Datei.**
+`PLAN_Staffel2.md` bleibt die **Staffel-Brücke** (Konzept, das Staffel 1 nicht brauchte,
+weil sie keine Staffel-Grenze hatte) — sie ersetzt nicht die Bandebene. Jeder Band bekommt
+sein eigenes Verzeichnis `Staffel2/S2-N/` mit Plan, Kontinuität, Outline, Tracker,
+Manuskript, Cover — analog zu `Band1/` … `Band5/`.
+
+**2. Mechanik-/Physik-Selbstprüfung VOR dem Story-Outline priorisieren**, nicht nur als
+Unterpunkt darin. Konkrete Fragen, die für S2-1 zu erwarten sind: Warum verlässt Halder
+nicht einfach die Stadt, sobald ein Schloss geknackt wurde? Warum ruft niemand die Polizei
+wegen eines Handwerkers, der überall auftaucht? Warum fragt Mama nie, wer da repariert?
+
+**3. Ein staffelweiter Hinweisketten-Tracker, zusätzlich zu den Band-Trackern.**
+Band 5s "faire Hinweis-Ketten" prüften Twists innerhalb eines Buches. Unsere zwei großen
+Twists — Frieda ist Halders Tochter (S2-3), das Feuer war nicht seine Schuld (S2-5) —
+spannen sich über mehrere Bände. Braucht einen eigenen `Staffel2/Hinweisketten_Tracker.md`,
+angelegt spätestens vor S2-2 (wenn Frieda zum ersten Mal auftaucht).
+
+**4. Neuleser-Spalte in der Kontinuitäts-Datei von S2-1** (nur S2-1, kein Serienstandard).
+Nora und Theo *wissen* technisch alles aus Staffel 1 — Regel 2 verlangt aber, dass sie
+geschrieben werden, als kenne sie niemand. Die "Was die Kinder wissen"-Sektion bekommt für
+S2-1 zusätzlich, was davon **im Text erklärt werden muss** (Neuleser-Regel) gegenüber was
+nur **Hintergrundwissen der Figuren** bleibt (Kontinuität, nicht ausgesprochen).
+
+### Fortsetzung — Produktions-Workflow (2026-08-07, vierte Sitzung)
+
+| # | Frage | Entscheidung | Begründung (kurz) |
+|---|---|---|---|
+| 22 | Workflow-Struktur pro Band | Eigene Verzeichnisse `Staffel2/S2-N/` mit PLAN/Kontinuität/Outline/Tracker | Analog zu Band1–5; `PLAN_Staffel2.md` bleibt Staffel-Brücke |
+| 23 | Reihenfolge Phase 1 vs. 2 | **Kontinuität VOR Story-Outline** (korrigiert gegenüber einem vorherigen Vorschlag in diesem Chat) | Entspricht der tatsächlichen Band-4/5-Praxis, nicht einer verkürzten Annahme |
+| 24 | Staffelweiter Hinweisketten-Tracker | Neue Datei `Staffel2/Hinweisketten_Tracker.md`, spätestens vor S2-2 anlegen | Frieda- und Feuer-Twist spannen sich über mehrere Bände, brauchen bandübergreifende Prüfung |
+| 25 | Neuleser-Spalte in S2-1-Kontinuität | Nur für S2-1, kein Serienstandard | Einziger Band mit dem Nora/Theo-wissen-vs-Text-erklärt-Konflikt |
+
+**Nächster Schritt:** Phase 1 für S2-1 — [Staffel2/S2-1/Kontinuitaet_S2-1.md](S2-1/Kontinuitaet_S2-1.md).
+
+---
+
 *Erstellt 2026-07-15. Konzept-Entscheidungen ergänzt 2026-08-07 (siehe Abschnitt 12).
 Reserve-Dokument – Produktionsstart wartet weiterhin auf Marktdaten
 (Aktivierungs-Checkliste, Abschnitt 1).*
