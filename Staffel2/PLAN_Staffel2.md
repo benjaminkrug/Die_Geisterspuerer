@@ -813,8 +813,11 @@ Durchgang nochmal geprüft (K14-Redundanz-Risiko behoben, Faire-Hinweisketten ta
 verifiziert statt nur behauptet).
 Entscheidung #24 ✅ [Staffel2/Hinweisketten_Tracker.md](Hinweisketten_Tracker.md) angelegt —
 verfolgt die beiden staffelweiten Enthüllungen (Frieda, das Feuer-Motiv) bandübergreifend.
-**Nächster Schritt: S2-2, Phase 1 (Kontinuität)** — oder Phase 4 (Kapitel schreiben) für
-S2-1, sobald die Aktivierungs-Checkliste (Abschnitt 1) erfüllt ist.
+S2-2, Phase 1 ✅ [Staffel2/S2-2/Kontinuitaet_S2-2.md](S2-2/Kontinuitaet_S2-2.md) — Figuren-
+Stand, insbesondere die kritische Regel für Frieda (kein Nachname, keine erkennbare
+Halder-Verbindung im S2-2-Text), vier zu prüfende Widersprüche, offene Fäden.
+**Nächster Schritt: S2-2, Phase 2 (Story-Outline mit Mechanik-Prüfung)** — oder Phase 4
+(Kapitel schreiben) für S2-1, sobald die Aktivierungs-Checkliste (Abschnitt 1) erfüllt ist.
 
 ---
 
