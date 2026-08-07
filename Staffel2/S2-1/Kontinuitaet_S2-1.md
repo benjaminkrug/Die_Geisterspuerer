@@ -227,15 +227,18 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
   Sichtung im Türspalt des Schrankzimmers.
 - **K3:** Direkter Anschluss. Erster Zuhören-Versuch im Schrankzimmer — Herbert erscheint
   vollständig, beginnt zu gehen, wird im letzten Moment zurückgerissen (Bindungssignatur #1).
+- **K4:** Direkter Anschluss (ABSCHLUSS AKT 1). Verarbeitung des Rückrisses, Noras kurzer
+  Selbstzweifel zurückgewiesen. Frau Brandt gibt Zusage, Herberts Sachen herauszusuchen.
+  Endet mit Noras Entschluss: herausfinden, WAS ihn physisch hält, nicht nur WARUM.
 
 ---
 
 ## AKT-FORTSCHRITT
 
-- 🟨 Akt 1 (K1–4) — in Arbeit: K1 ✅, K2 ✅, K3 ✅ geschrieben, K4 offen
-- ⬜ Akt 2 — noch nicht geschrieben
-- ⬜ Akt 3 — noch nicht geschrieben
-- ⬜ Akt 4 — noch nicht geschrieben
+- ✅ Akt 1 (K1–4) — abgeschlossen, alle vier Kapitel geschrieben
+- ⬜ Akt 2 (K5–8) — noch nicht geschrieben
+- ⬜ Akt 3 (K9–12) — noch nicht geschrieben
+- ⬜ Akt 4 (K13–16) — noch nicht geschrieben
 
 ---
 
@@ -246,6 +249,7 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
 | K1 | ~1.170 | Hoch — Großteil des zweiten Halbkapitels ist direkte Rede | ✅ im Zielbereich |
 | K2 | ~1.100 | Hoch — fast durchgehend Dialog zwischen Nora/Theo/Frau Brandt | ✅ im Zielbereich |
 | K3 | ~900 | Hoch — Zuhören-Szene ist fast vollständig Dialog mit Herbert | ⚠️ unter dem 1.200-Minimum, aber bewusst knapp gehalten (einzelne, intensive Szene ohne Nebenhandlung); im Stimmen-Pass (Phase 4b) gegenprüfen, ob mehr Raum nötig ist |
+| K4 | ~805 | Hoch — fast durchgehend Verarbeitung im Dialog | ⚠️ unter dem 1.200-Minimum, gleicher Grund wie K3 (direkte Fortsetzung derselben Szene, keine neue Nebenhandlung); zusammen mit K3 im Stimmen-Pass gegenprüfen |
 
 ---
 
