@@ -36,7 +36,7 @@ stillschweigend unbeantwortet.
 | 3 | Die Mappe, ungeöffnet (K3) | Gemeinsam gelesen — Ort/Zeit passen nicht zu Halders Erinnerung (K4) | geplant |
 | 4 | Gerücht: Halder ist zurück (K6) | Erklärt die Dringlichkeit, ihn noch am selben Tag zu konfrontieren | geplant |
 | 5 | Das vielstimmige Ticken hinter der Tür (K7) | Der volle Anblick der Werkstatt (K9) | geplant |
-| 6 | Schatten überwältigt, Theo hält ihn (K8) | Theo lässt ihn los, er läuft freudig durch den Raum (K15) — Bogen schließt sich innerhalb des Bandes | geplant |
+| 6 | Schatten überwältigt, Theo hält ihn (K8) | ⚠️ **Präzisiert (Phase 3):** Zwei Beats, kein durchgehendes Halten über neun Kapitel — Theo lässt ihn nach dem ersten Überwältigt-Sein los (K10), hält ihn ein zweites Mal kurz vor der Freisetzung (K14), lässt ihn dann endgültig los, er läuft freudig durch den Raum (K15) | geplant |
 | 7 | Die Mappe wird Halder übergeben (K10) | Sein Widerstand (K11), sein eigenes Nachrechnen (K12) | geplant |
 | 8 | „Ein Schlüssel, den er nie benutzt hat, gemacht für den Fall, dass er selbst falsch lag" (K14) | ⚠️ **Setup und Payoff im selben Kapitel** — kein Fehler: Es ist ein rückblickender Charakter-Reveal (ein seit Jahrzehnten unterdrückter Zweifel), kein Objekt, das schon früher hätte gezeigt werden müssen. Konsistent mit Band 5s Spiegel-Objekt, das ebenfalls in seiner vollen Bedeutung erst im Finale erklärt wird | geplant |
 | 9 | Der Leine-Lichtfaden (staffelweit, K1–K4 aller Vorbände) | Erlischt sichtbar, einer nach dem anderen (K15) | geplant |

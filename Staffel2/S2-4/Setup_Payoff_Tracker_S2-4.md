@@ -34,7 +34,7 @@ Ausführung übereinstimmt.
 | 1 | Zeugin hört ein Rufen im Park (K1) | Erste Sichtung Maries (K1, direkt im Anschluss) | geplant |
 | 2 | Maries verblasste Haarschleife, „wir hatten beide eine" (K3) | Zeigt Nora/Theo, dass es um eine Schwester geht — Grundlage der ganzen Suche | geplant |
 | 3 | Der Name „Clara" löst vage Erinnerung bei Nora aus (K3) | Bestätigt auf Silbers Karte als „Clara B. — 1889" (K4) | geplant |
-| 4 | Theos beiläufiges Gerücht über einen Fremden mit seltsamen Fragen (K4) | Konkreter: Fremder zuletzt am anderen Stadtende gesehen (K8) → Bestätigung, dass er verschwunden ist (K16, Season-Hook) | geplant |
+| 4 | Theos beiläufiges Gerücht über einen Fremden mit seltsamen Fragen (K4) | Konkreter: Fremder zuletzt am anderen Stadtende gesehen (K8) → ⚠️ **Korrigiert (Phase 3):** Am Ende von K16 ist der Fall noch NICHT abgeschlossen (nicht „schon gebunden", wie ein früherer Entwurf sagte) — Halder ist zu diesem Zeitpunkt weiterhin unterwegs; die tatsächliche Sicherung geschieht erst in den Tagen danach, off-page zu Beginn von S2-5 (`../S2-5/Story_Outline_S2-5.md` Mechanik Punkt 3 — Frieda nutzt genau dieses Zeitfenster) | geplant |
 | 5 | Die Markierung am Stadtpark ist bereits durchgestrichen (K4) | Erkenntnis, dass es ihre eigene Handschrift ist (K5) | geplant |
 | 6 | Rekonstruktion der Band-5-Finalnacht, acht Markierungen auf einmal (K5) | Erklärt, warum ihnen dieser eine Fall entging — kein Fehler, nur menschliches Vergessen in einer Ausnahmenacht | geplant |
 | 7 | Noras Entschluss, es trotzdem mit Zuhören zu versuchen (K6) | Scheitert sichtbar (K7) | geplant |

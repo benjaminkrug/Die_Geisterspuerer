@@ -35,7 +35,10 @@ Sache, die scheitern kann.
 # ⚠️ DIE MECHANIK / PHYSIK (Anti-Story-Fehler-Rückgrat)
 
 1. **Wie kommt Marie zu den Kindern?** ⚠️ Löst Kontinuität-Widerspruch 1. Wie in S2-1
-   (Regel 5, „die Fälle kommen zu ihnen"): Ein Zeuge — jemand, der abends im Stadtpark
+   (`PLAN_Staffel2.md` Abschnitt 5, „die Fälle kommen zu ihnen" — ⚠️ **Korrektur:** keine
+   „Regel 5", diese Bezeichnung geistert seit S2-2 fälschlich durch die Dokumente; die 4
+   Einstiegsregeln in Abschnitt 3 enden bei Regel 4, die Prämisse selbst steht unnummeriert
+   in Abschnitt 5): Ein Zeuge — jemand, der abends im Stadtpark
    unterwegs ist — hört seit mehreren Nächten ein Rufen, das niemand sonst hört, und
    spricht die Kinder direkt an (die Stadt kennt sie inzwischen, Season-Prämisse). Keine
    Werkstatt, kein Objekt nötig — die reinste Form des etablierten Ruf-Mechanismus.
@@ -76,11 +79,18 @@ Sache, die scheitern kann.
    „Nachfolger von Frau Silber", `PLAN_Staffel2.md` Abschnitt 5) — kein neues Objekt, keine
    neue Fähigkeit.
 
-5. **Warum hilft Zuhören diesmal nicht — und wie unterscheidet sich das von Band 3
-   (Marlene Weber, wo Zuhören explizit das „Schloss" statt der „Schlüssel" war,
-   `Serien_Kanon.md`)?** ⚠️ Wichtige Abgrenzung, damit sich der Kniff nicht wiederholt
-   anfühlt: Bei Marlene **schadete** Zuhören — es gab ihr einen Grund mehr zu bleiben.
-   Bei Marie **wirkt** Zuhören genau wie vorgesehen: Sie fühlt sich gehört, ihre
+5. **Warum hilft Zuhören diesmal nicht — und wie unterscheidet sich das von Band 4
+   (Cornelius Faber, wo Zuhören explizit das „Schloss" statt der „Schlüssel" war,
+   `Serien_Kanon.md`)?** ⚠️ **Korrigiert (Phase 3, Faktencheck):** Ein früherer Entwurf
+   schrieb dieses Zitat fälschlich Marlene Weber (Band 3) zu — es steht im Kanon eindeutig
+   bei **Faber**: „Bei allen anderen war Zuhören der Schlüssel. Hier ist Zuhören das
+   Schloss." (Marlenes eigene Ausnahme ist anders gelagert: Reden über Schuld machte es bei
+   ihr *schlimmer*, sie brauchte stattdessen Jonas' Botschaft aus dem Mund eines
+   Mitschuldigen — kein Zuhören-Gegenstück, sondern ein eigener, engerer Mechanismus.)
+   Wichtige Abgrenzung, damit sich der Kniff nicht wiederholt anfühlt: Bei Faber
+   **schadete** Zuhören — Verstehen gab ihm einen Grund mehr zu bleiben, er wurde erst frei,
+   als man ihm das Loslassen vormachte. Bei Marie **wirkt** Zuhören genau wie vorgesehen: Sie
+   fühlt sich gehört, ihre
    Verzweiflung wird gesehen, nicht ignoriert. Es **reicht nur nicht**, weil ihr
    Bedürfnis — Clara selbst — außerhalb dessen liegt, was jede Methode erreichen kann.
    **Kein Methodenfehler, eine strukturelle Grenze.** Deshalb auch bewusst **keine neue,
@@ -90,8 +100,11 @@ Sache, die scheitern kann.
    erprobteste, richtig ausgeführte Methode hier an eine Wand stößt.
 
 6. **Warum begegnet Halder den Kindern in diesem Band nicht direkt**, obwohl er seit S2-3
-   weiß, dass sie ihn kennen? ⚠️ Löst Kontinuität-Widerspruch 3 (Trennung von Maries Fall).
-   Nach der Niederlage mit Ilse (S2-3) verhält er sich vorsichtiger, nicht aggressiver — er
+   weiß, dass sie ihn kennen? ⚠️ Löst, zusammen mit Punkt 3 oben, Kontinuität-Widerspruch 3
+   (Trennung von Maries Fall) — Punkt 3 klärt, warum er sie nicht abfängt, dieser Punkt
+   klärt, warum er sie danach nicht sucht; zwei Seiten derselben „sauber getrennt
+   bleiben"-Frage, kein doppelt beanspruchter Widerspruch. Nach der Niederlage mit Ilse
+   (S2-3) verhält er sich vorsichtiger, nicht aggressiver — er
    sichert seinen eigenen neuen Fund ab, statt eine zweite direkte Konfrontation zu
    riskieren, die er wieder verlieren könnte. Eine rationale, charakterkonsistente
    Zurückhaltung, die die Spannung für S2-5 aufbaut, statt sie abzubauen.
@@ -292,20 +305,25 @@ Rückweg, Frieda begleitet sie ein Stück. Ihr Riss bleibt offen, keine Entschei
 was ich glauben soll. Aber ich will es wissen."
 
 ### Kapitel 16 – „Und Halder?" (EPILOG, ABSCHLUSS AKT 4)
-Zuhause, Verarbeitung. Ein letztes Gerücht erreicht sie: Der Fremde am anderen Stadtende ist
-verschwunden — sein neuer Fall vermutlich schon gebunden. **Schatten:** wachsam, spürt die
-Unruhe der Kinder. **Humor:** ein leiser, müder Theo-Kommentar, der die Season-Spannung
-nicht auflöst. **Cliffhanger [ERKENNTNIS, Season-Hook]:** Nora: „Er hat wieder einen. Und
+⚠️ **Präzisiert (Phase 3, Konsistenz mit S2-5):** Das Gerücht darf nicht behaupten, der Fall
+sei bereits abgeschlossen — S2-5s Mechanik (`../S2-5/Story_Outline_S2-5.md` Punkt 3) braucht
+Halder noch **mehrere Tage nach S2-4** unterwegs, um genau diesen Geist zu sichern; das ist
+Frieda Zeitfenster für die Schublade. Zuhause, Verarbeitung. Ein letztes Gerücht erreicht
+sie: Der Fremde ist zuletzt am anderen Stadtende gesehen worden, weiterhin auf der Suche —
+sein neuer Fall ist noch **nicht** abgeschlossen. **Schatten:** wachsam, spürt die Unruhe der
+Kinder. **Humor:** ein leiser, müder Theo-Kommentar, der die Season-Spannung nicht auflöst.
+**Cliffhanger [ERKENNTNIS, Season-Hook]:** Nora: „Er hat schon wieder einen gefunden. Und
 wir haben nicht mal gemerkt, dass er da war." **ENDE S2-4.**
 
 ---
 
 # Übergangs-Gesamtprüfung (vorläufig — vollständige Prüfung folgt in Phase 3)
 
-Alle Übergänge scheinen ohne Zeitsprung direkt aufzulösen — **kein** Reise-/Zeitpunkt-
-Übergang diesmal, da der Park über den ganzen Band hinweg der zentrale Ort bleibt (anders
-als S2-1/S2-2/S2-3, die je einen Verfolgungs-/Wegübergang hatten). **Vollständige Prüfung
-folgt in Phase 3.**
+⚠️ **Diese Vorab-Einschätzung wurde von der vollständigen Phase-3-Prüfung widerlegt** —
+siehe `Detaillierte_Szenenplanung_S2-4.md`: K9→K10 (Rückweg zum Park nach der
+Wahrheits-Entscheidung) IST ein Reise-Übergang, derselbe wiederkehrende Typ wie in
+S2-1/S2-2/S2-3. Diese Zeile bewusst unverändert als Beleg dafür stehen gelassen, dass die
+Vorab-Einschätzung in Phase 2 nicht immer trägt — die Phase-3-Datei ist die verbindliche.
 
 ---
 

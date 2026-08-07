@@ -136,12 +136,14 @@
    wissen."
 
 ### Kapitel 16 – „Und Halder?" (EPILOG, ABSCHLUSS AKT 4)
-1. Zuhause, erste Verarbeitung des Abends.
-2. Ein letztes Gerücht erreicht sie: Der Fremde am anderen Stadtende ist verschwunden —
-   sein neuer Fall vermutlich schon gebunden.
-3. Schatten wachsam, spürt die Unruhe der Kinder.
-4. Nora: „Er hat wieder einen. Und wir haben nicht mal gemerkt, dass er da war." **ENDE
-   S2-4.**
+1. ⚠️ **Korrigiert (Phase 3, Konsistenz mit S2-5):** Der Fall darf nicht als bereits
+   abgeschlossen gelten — S2-5 braucht Halder noch mehrere Tage weiter unterwegs, um ihn zu
+   sichern (Frieda nutzt genau dieses Zeitfenster, `../S2-5/Story_Outline_S2-5.md` Punkt 3).
+2. Zuhause, erste Verarbeitung des Abends.
+3. Ein letztes Gerücht erreicht sie: Der Fremde ist zuletzt am anderen Stadtende gesehen
+   worden, weiterhin auf der Suche — sein neuer Fall ist noch nicht abgeschlossen.
+4. Schatten wachsam, spürt die Unruhe der Kinder. Nora: „Er hat schon wieder einen
+   gefunden. Und wir haben nicht mal gemerkt, dass er da war." **ENDE S2-4.**
 
 ---
 

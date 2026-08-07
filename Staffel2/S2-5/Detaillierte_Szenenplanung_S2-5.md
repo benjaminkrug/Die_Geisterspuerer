@@ -113,7 +113,8 @@
 1. Er erklärt knapp, was der Schlüssel ist.
 2. Nie benutzt — gemacht für den Fall, dass er selbst einmal falsch gelegen haben könnte
    (ein stiller, nie zugegebener Zweifel, der offenbar schon lange existierte).
-3. Schatten vollkommen still, gespannt.
+3. ⚠️ **Zweiter Halt** (Mechanik Punkt 8): Schatten spürt die bevorstehende Freisetzung,
+   wird erneut unruhig — Theo hält ihn ein zweites Mal, vollkommen still, gespannt.
 4. Er setzt den Schlüssel an. Er dreht sich.
 
 ### Kapitel 15 – „Dutzende"

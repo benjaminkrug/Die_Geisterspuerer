@@ -136,7 +136,9 @@ entsprechend öffnen (Vorbild: Band 5s Schlusskapitel).
 - Dass sie ihn einmal widerlegt haben (Ilse), dass Marie ein Fall war, den sie nicht lösen
   konnten.
 - Dass Frieda selbst zu zweifeln begonnen hat (S2-4 K11, K15).
-- Dass Halder „wieder einen" hat — einen weiteren, off-page gebundenen Geist (S2-4 K16).
+- Dass Halder „wieder einen" gefunden hat — einen weiteren, off-page Geist, den er zu
+  S2-4s Ende noch nicht gesichert hatte (S2-4 K16, korrigiert in Phase 3: nicht „schon
+  gebunden" — er ist zu Beginn von S2-5 deshalb noch unterwegs, s. u.).
 
 ### Was die Kinder NOCH NICHT wissen (S2-5)
 
@@ -199,9 +201,11 @@ entsprechend öffnen (Vorbild: Band 5s Schlusskapitel).
 
 - Halders persönliches weiteres Schicksal (`PLAN_Staffel2.md` Abschnitt 6).
 - Maries Zustand — bleibt unverändert ungelöst (siehe FIGUREN oben).
-- Der off-page gebundene Geist aus S2-4 K16 — ⚠️ **Phase-2-Entscheidung, ob er Teil der
-  Werkstatt-Befreiung wird oder ein eigener, offener Faden bleibt.** Beides ist mit dem
-  Konzept vereinbar; Phase 2 entscheidet mit Begründung.
+- Der neue, off-page verfolgte Geist aus S2-4 K16 (zu S2-4s Ende noch nicht gesichert) —
+  ⚠️ **Phase-2-Entscheidung, ob er Teil der Werkstatt-Befreiung wird oder ein eigener,
+  offener Faden bleibt.** Beides ist mit dem Konzept vereinbar; Phase 2 entscheidet mit
+  Begründung. **Nachtrag:** In Phase 2 entschieden — er wird stillschweigend Teil der
+  Dutzenden (`Story_Outline_S2-5.md` Mechanik Punkt 9).
 
 ### Serie / separat
 

@@ -45,12 +45,15 @@ selbst erzählt hat, überhaupt stimmt.
    Kinder.
 
 2. **Was genau geschieht in K1, und warum reicht das als Noras aktiver Beitrag
-   (Ausführungsrisiko 3)?** Nora stellt keine Fragen, drängt nicht auf eine Entscheidung —
-   sie hört zu, wie sie es sonst bei Geistern tut, jetzt bei einem lebenden, ringenden
-   Menschen (bewusster Spiegel zu Band 3s Zuhören-Ausnahme bei Marlene Weber,
-   `Serien_Kanon.md` — dort schadete die Methode, hier wird sie zum ersten Mal auf einen
-   Lebenden übertragen und wirkt genau richtig). **Das ist der Moment, der Frieda den Mut
-   gibt, selbst zu suchen** — auf der Seite sichtbar, nicht behauptet.
+   (Ausführungsrisiko 3)?** ⚠️ **Korrigiert (Phase 3, Faktencheck):** Ein früherer Entwurf
+   verortete die „Zuhören ist das Schloss"-Ausnahme fälschlich bei Marlene Weber (Band 3) —
+   sie gehört im Kanon zu **Cornelius Faber (Band 4)**: „Bei allen anderen war Zuhören der
+   Schlüssel. Hier ist Zuhören das Schloss" (`Serien_Kanon.md`). Nora stellt keine Fragen,
+   drängt nicht auf eine Entscheidung — sie hört zu, wie sie es sonst bei Geistern tut,
+   jetzt bei einem lebenden, ringenden Menschen (bewusster Spiegel zu Fabers Ausnahme — dort
+   schadete die Methode einem Geist, hier wird sie zum ersten Mal auf einen Lebenden
+   übertragen und wirkt genau richtig). **Das ist der Moment, der Frieda den Mut gibt, selbst
+   zu suchen** — auf der Seite sichtbar, nicht behauptet.
 
 3. **Wie kommt Frieda an Halders gehortete Unterlagen?** ⚠️ Löst Kontinuität-Widerspruch 2.
    Die Unterlagen liegen in einer verschlossenen Schublade **in der Werkstatt selbst**
@@ -94,9 +97,16 @@ selbst erzählt hat, überhaupt stimmt.
    der Rest bleibt Ausmaß im Hintergrund.
 
 8. **Theos konkrete aktive Rolle im Klimax** (Ausführungsrisiko 3). ⚠️ Löst
-   Kontinuität-Widerspruch 6. Schatten ist von der schieren Zahl der Präsenzen überwältigt
-   (Echo zu S2-2, jetzt freudig statt bedrohlich) — **Theo hält ihn**, buchstäblich und
-   ruhig, während Nora bei Frieda/Halder ist. Nutzt die etablierte Theo-Schatten-Bindung
+   Kontinuität-Widerspruch 6. ⚠️ **Präzisiert (Phase 3):** Theo hält Schatten **zweimal**,
+   nicht durchgehend über neun Kapitel — einmal beim Eintreten (K8–K9, das erste
+   Überwältigt-Sein durch die schiere Zahl der Präsenzen), dann lässt die Anspannung nach
+   (Schatten gewöhnt sich an die Umgebung, wie schon in S2-3 etabliert, und kann sich
+   zwischen K10–K13 frei bewegen, u. a. tröstend zu Halder). Ein zweites Mal hält Theo ihn
+   kurz vor dem eigentlichen Öffnen (K14), wenn die bevorstehende Freisetzung erneut spürbar
+   wird — das ist der Halt, den er in K15 tatsächlich löst. Schatten ist von der schieren
+   Zahl der Präsenzen überwältigt (Echo zu S2-2, jetzt freudig statt bedrohlich) — **Theo
+   hält ihn**, buchstäblich und ruhig, während Nora bei Frieda/Halder ist. Nutzt die
+   etablierte Theo-Schatten-Bindung
    der ganzen Reihe, statt eine neue Fähigkeit zu erfinden — eine konkrete, notwendige aber
    nicht kämpferische Aufgabe.
 
@@ -245,9 +255,12 @@ der Mappe. **Schatten:** von Theo gehalten, winselt, aber bleibt. **Humor:** kei
 ## AKT 3 — Was er nie gefragt hat (K10–13)
 
 ### Kapitel 10 – „Was du nie gefragt hast"
-Frieda tritt vor, hält ihm die Mappe hin — nicht als Anklage geschrien, sondern ruhig,
-bestimmt. **Schatten:** ruhiger, jetzt an Noras Seite. **Humor:** keiner, ideologischer Kern
-des Bandes. **Cliffhanger [AKTION]:** Sie legt die Unterlagen in seine Hände.
+⚠️ **Präzisiert (Phase 3, Konsistenz mit Mechanik Punkt 8):** Die erste Überwältigung klingt
+ab — Theo kann ihn jetzt loslassen, ohne dass das schon der K15-Zahltag ist (Schatten bleibt
+im Raum, gewöhnt an die Umgebung). Frieda tritt vor, hält ihm die Mappe hin — nicht als
+Anklage geschrien, sondern ruhig, bestimmt. **Schatten:** ruhiger jetzt, nicht mehr
+gehalten, an Noras Seite. **Humor:** keiner, ideologischer Kern des Bandes. **Cliffhanger
+[AKTION]:** Sie legt die Unterlagen in seine Hände.
 
 ### Kapitel 11 – „Das kann nicht sein"
 Er liest, weist es zunächst zurück — die Berichte seien unvollständig, es gebe andere
@@ -273,8 +286,11 @@ altmodischen Schlüssel hervor.
 ### Kapitel 14 – „Der letzte Schlüssel"
 Er erklärt knapp, was der Schlüssel ist — nie benutzt, immer für den Fall gemacht, dass er
 selbst einmal falsch gelegen haben könnte (ein stiller, bereits vorher vorhandener Zweifel,
-den er nie zugegeben hat). Er setzt ihn an. **Schatten:** vollkommen still, gespannt.
-**Humor:** keiner, emotionaler Höhepunkt. **Cliffhanger [OBJEKT]:** Der Schlüssel dreht sich.
+den er nie zugegeben hat). ⚠️ **Zweiter Halt (Phase 3, Mechanik Punkt 8):** Schatten spürt
+die bevorstehende Freisetzung, wird erneut unruhig — Theo hält ihn ein zweites Mal, jetzt
+bewusst, in Erwartung dessen, was gleich kommt. Er setzt den Schlüssel an. **Schatten:**
+von Theo gehalten, vollkommen still, gespannt. **Humor:** keiner, emotionaler Höhepunkt.
+**Cliffhanger [OBJEKT]:** Der Schlüssel dreht sich.
 
 ### Kapitel 15 – „Dutzende"
 Alle Bindungen der Werkstatt lösen sich zugleich. Zwei, drei konkrete, kurze Bilder befreiter

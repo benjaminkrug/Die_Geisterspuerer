@@ -95,8 +95,10 @@ nie hoffnungslos wirken, auch wenn er der dunkelste der Staffel ist.
 
 ## EIGENNAMEN & FAKTEN (Schreibweise fixieren)
 
-- **Marie** (Nachname noch offen, Phase 2) — der neue, ungebundene Fall dieses Bandes
-  (nicht Halders Werk).
+- **Marie Falk** (Nachname in Phase 3 nachgetragen — in Phase 2 offengeblieben, hier
+  geschlossen, um kein loses Ende in die Szenenplanung zu tragen; kein Konflikt mit
+  bestehenden Namen der Reihe geprüft) — der neue, ungebundene Fall dieses Bandes (nicht
+  Halders Werk).
 - **Clara B. — 1889, Stadtpark** — Rückgriff auf `Serien_Kanon.md` Abschnitt 3, dort als
   einer der „nie einzeln erzählten" acht Karteneinträge geführt. **Erster echter Rückgriff
   der Staffel auf einen konkreten Staffel-1-Kartennamen** — Regel 3 beachten (Bonus für
@@ -131,7 +133,10 @@ nie hoffnungslos wirken, auch wenn er der dunkelste der Staffel ist.
 ## ⚠️ ZU PRÜFENDE WIDERSPRÜCHE (vor/bei Kap. 1 entscheiden)
 
 1. **Wie kommt Marie zu den Kindern?** Vermutlich über den etablierten Ruf-Mechanismus
-   (Regel 5, „Fälle kommen zu ihnen") oder direkt, weil sie am Stadtrand/in der Nähe
+   (`PLAN_Staffel2.md` Abschnitt 5, „die Fälle kommen zu ihnen" — ⚠️ trägt in älteren
+   S2-2-Dokumenten fälschlich die Bezeichnung „Regel 5"; es gibt keine so nummerierte Regel,
+   die vier Einstiegsregeln in Abschnitt 3 enden bei Regel 4) oder direkt, weil sie am
+   Stadtrand/in der Nähe
    auftaucht — **Phase 2.**
 2. **Wie stellen die Kinder fest, dass Clara bereits befreit ist?** Muss aktiv erarbeitet
    werden (Serien-Muster), nicht zufällig — vermutlich über Recherche + Abgleich mit dem,
