@@ -70,7 +70,7 @@ Frau Brandt schloss die Tür auf. Ein Hauch von kalter Luft schlug ihnen entgege
 
 ---
 
-Der Flur war eng, mit alten Fotos an der Wand — eine fremde Familie in einem fremden Leben. Ein Kalender hing schief, das Datum drei Wochen alt. Irgendwo tickte eine Uhr.
+Der Flur war eng, mit alten Fotos an der Wand. Eine fremde Familie in einem fremden Leben. Ein Kalender hing schief, das Datum drei Wochen alt. Irgendwo tickte eine Uhr.
 
 Schatten blieb auf der Schwelle stehen.
 
@@ -88,13 +88,13 @@ Er setzte keine Pfote weiter, die Ohren angelegt. Sein Blick hing starr an einer
 
 "Ein paar Mal. Ich musste. Wäsche, Werkzeug." Frau Brandt presste die Arme vor der Brust zusammen. "Aber ich bleibe nie lang. Irgendwas an diesem Zimmer will nicht, dass ich bleibe."
 
-Nora trat einen Schritt in den Flur. Die Kälte hier war anders als draußen — trockener, älter. Als käme sie nicht von einem offenen Fenster, sondern aus der Wand selbst. Ihr Atem stand nicht sichtbar in der Luft. Aber ihre Finger wurden kalt.
+Nora trat einen Schritt in den Flur. Die Kälte hier war trockener und älter als draußen. Als käme sie nicht von einem offenen Fenster, sondern aus der Wand selbst. Ihr Atem stand nicht sichtbar in der Luft. Aber ihre Finger wurden kalt.
 
 "Bleiben Sie hier", sagte sie zu Theo, ohne wirklich zu glauben, dass er es täte.
 
 Er tat es nicht. Er folgte ihr, dicht auf den Fersen, Schatten zwischen ihnen beiden, sein Winseln jetzt lauter. Hinter ihnen blieb Frau Brandt am Anfang des Flurs stehen. Eine Hand hatte sie fest um den Türrahmen gelegt, als könnte sie sich damit festhalten.
 
-Die Tür zum Schrankzimmer stand einen Spalt offen. Kein Luftzug hätte sie so halten können — nicht so gerade, nicht so still.
+Die Tür zum Schrankzimmer stand einen Spalt offen. Kein Luftzug hätte sie so gerade und so still gehalten.
 
 Nora hielt den Atem an und sah hindurch.
 

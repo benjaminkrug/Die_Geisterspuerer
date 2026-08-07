@@ -40,7 +40,7 @@ Ein alter Mann, größer als Nora erwartet hatte, mit schmalen Schultern und ein
 
 "Ja", sagte Nora. "Wir hören Ihnen zu."
 
-Er sah sie zum ersten Mal richtig an, mit Augen, die müder wirkten als alles andere an ihm. "Niemand hat mir lange zugehört. Nicht mehr, seit —" Er brach ab, als würde ihm das Sprechen selbst wehtun.
+Endlich sah er sie richtig an, mit Augen, die müder wirkten als alles andere an ihm. "Niemand hat mir lange zugehört. Nicht mehr, seit —" Er brach ab, als würde ihm das Sprechen selbst wehtun.
 
 "Seit wann?", fragte Nora sanft.
 
@@ -70,7 +70,7 @@ Und dann begann er zu gehen.
 
 Es war kein dramatischer Moment. Er wurde einfach heller, durchsichtiger, als würde das Licht ihn langsam auflösen. Seine Umrisse verschwammen an den Rändern. Nora spürte, wie sich etwas in ihrer Brust löste, warm und erleichtert zugleich.
 
-Schatten setzte sich neben ihr hin. Zum ersten Mal seit sie das Zimmer betreten hatten, war sein Winseln ganz verstummt.
+Schatten setzte sich neben ihr hin. Sein Winseln war jetzt ganz verstummt.
 
 "Es funktioniert", flüsterte Theo. Erleichterung schwang in seiner Stimme. "Es funktioniert tatsächlich, ich hab schon fast nicht mehr dran geglaubt —"
 
