@@ -818,11 +818,16 @@ Stand, insbesondere die kritische Regel für Frieda (kein Nachname, keine erkenn
 Halder-Verbindung im S2-2-Text), vier zu prüfende Widersprüche, offene Fäden.
 S2-2, Phase 2 ✅ [Staffel2/S2-2/Story_Outline_S2-2.md](S2-2/Story_Outline_S2-2.md) —
 Buchkonzept, 8-Punkte-Mechanik-Prüfung (u. a. Grundsatzregel: Einzelbindung vs.
-Sammel-Knoten hängt von persönlicher Verbindung des Geistes ab), 16-Kapitel-Liste mit einem
-echten, aber bewusst unvollständigen Sieg (Grete befreit, Frieda unterbricht vor dem
-zweiten Schloss). Friedas Auftritte in `Hinweisketten_Tracker.md` nachgetragen (K11, K12,
-K14). **Nächster Schritt: S2-2, Phase 3 (Szenenplanung + Tracker)** — oder Phase 4
-(Kapitel schreiben) für S2-1, sobald die Aktivierungs-Checkliste (Abschnitt 1) erfüllt ist.
+Sammel-Knoten hängt von persönlicher Verbindung des Geistes ab), 16-Kapitel-Liste, im
+zweiten Durchgang um zwei Fixes bereinigt (Frieda beobachtet jetzt die ganze
+Grete-Befreiung statt nur spät einzutreffen; ein ungesetuptes zweites Schloss gestrichen).
+S2-2, Phase 3 ✅ [Setup_Payoff_Tracker_S2-2.md](S2-2/Setup_Payoff_Tracker_S2-2.md) ·
+[Cliffhanger_Register_S2-2.md](S2-2/Cliffhanger_Register_S2-2.md) (zwei
+Typenkollisionen K3/K4 und K9/K10 beim Zusammenstellen gefunden und behoben) ·
+[Detaillierte_Szenenplanung_S2-2.md](S2-2/Detaillierte_Szenenplanung_S2-2.md) (14/15
+Übergänge lösen sofort auf). **Nächster Schritt: S2-3, Phase 1 (Kontinuität)** — oder
+Phase 4 (Kapitel schreiben) für S2-1/S2-2, sobald die Aktivierungs-Checkliste (Abschnitt 1)
+erfüllt ist.
 
 ---
 

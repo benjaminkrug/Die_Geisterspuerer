@@ -158,11 +158,14 @@ nervöser Scherz von Theo, um die Spannung zu brechen. **Cliffhanger [BILD]:** D
 liegt vor ihnen — mehr Licht in den Fenstern, als ein verlassenes Haus haben sollte.
 
 ### Kapitel 4 – „Drinnen" (ABSCHLUSS AKT 1)
-Erster Schritt hinein — noch kein voller Überblick, aber genug, um zu wissen: das ist kein
-gewöhnlicher Fall. **Schatten:** erste Anzeichen der „überwältigt"-Reaktion (Anspannung im
-ganzen Körper, nicht auf einen Punkt gerichtet). **Humor:** Theo bricht kurz die Anspannung,
-bevor die Wahrheit sie einholt. **Cliffhanger [BILD]:** Der volle Blick in den Hauptraum —
-Regale voller Schlösser, Uhren an jeder Wand.
+⚠️ **Cliffhanger-Typ korrigiert (Phase-3-Check):** ursprünglich [BILD], kollidierte direkt
+mit K3. Jetzt [AKTION] — der visuelle Moment bleibt, endet aber auf Bewegung statt auf
+einem stehenden Bild. Erster Schritt hinein — noch kein voller Überblick, aber genug, um zu
+wissen: das ist kein gewöhnlicher Fall. **Schatten:** erste Anzeichen der
+„überwältigt"-Reaktion (Anspannung im ganzen Körper, nicht auf einen Punkt gerichtet).
+**Humor:** Theo bricht kurz die Anspannung, bevor die Wahrheit sie einholt. **Cliffhanger
+[AKTION]:** Der volle Blick in den Hauptraum — Regale voller Schlösser, Uhren an jeder Wand
+— und im selben Moment schlägt irgendwo im Gebäude leise eine Tür zu.
 
 ## AKT 2 — Das Ausmaß (K5–8)
 
@@ -207,10 +210,14 @@ komischer Beat (Ausnahme erlaubt). **Cliffhanger [BILD]:** Das Schloss beginnt s
 öffnen — es funktioniert.
 
 ### Kapitel 10 – „Sie geht" (echter Sieg)
-Grete wird befreit — kurzer, würdevoller Abschied, echter Erfolg. **Schatten:** entspannt
-sich kurz, zum ersten Mal im Buch. **Humor:** Erleichterung, ein kleiner gemeinsamer
-Moment. **Cliffhanger [BILD]:** Kaum ist Grete gegangen, wenden sie sich dem nächsten
-Schloss zu — und eine Stimme stoppt sie.
+⚠️ **Cliffhanger-Typ korrigiert (Phase-3-Check):** ursprünglich [BILD], kollidierte direkt
+mit K9. Jetzt [STIMME/GERÄUSCH] — passt ohnehin besser zum Inhalt (eine Stimme, keine
+Worte, stoppt sie; die tatsächlichen Worte folgen erst in K11 als [DIALOG] — eine saubere
+Eskalation von unbestimmtem Laut zu konkreter Ansprache). Grete wird befreit — kurzer,
+würdevoller Abschied, echter Erfolg. **Schatten:** entspannt sich kurz, zum ersten Mal im
+Buch. **Humor:** Erleichterung, ein kleiner gemeinsamer Moment. **Cliffhanger
+[STIMME/GERÄUSCH]:** Kaum ist Grete gegangen, wenden sie sich dem nächsten Schloss zu —
+eine Stimme, noch ohne erkennbare Worte, stoppt sie mitten in der Bewegung.
 
 ### Kapitel 11 – „Das Mädchen"
 ⚠️ **Ergänzt (2. Durchgang):** Frieda tritt jetzt erst hervor — aber sie war die ganze Zeit
