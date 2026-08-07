@@ -246,6 +246,12 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
   Schloss überhaupt ist. Nora deutet einen zweiten Zuhören-Versuch mit Frau Brandt selbst
   an (Vorgriff auf K7). Endet mit einem einzelnen harten Schlag von innen gegen die Tür,
   dann Stille (AKTION).
+- **K7:** Direkter Anschluss. Nora erklärt, warum ein zweiter Versuch kein Wiederholen ist:
+  diesmal spricht Frau Brandt selbst zu Herbert, nicht die Kinder als Vermittler. Frau
+  Brandt spricht Herbert direkt an, gesteht ihre Wut UND ihre Vermissung, vergibt ihm.
+  Emotionale Arbeit vollständig — trotzdem derselbe Rückriss, diesmal heftiger. Schock liegt
+  bei Frau Brandt, nicht den Kindern; Theo hilft aus eigenem Antrieb. Endet auf Frau Brandts
+  erschüttertem Schlusssatz „Warum reicht das nicht?" (DIALOG).
 
 ---
 
@@ -268,6 +274,7 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
 | K4 | ~805 | Hoch — fast durchgehend Verarbeitung im Dialog | ⚠️ unter dem 1.200-Minimum, gleicher Grund wie K3 (direkte Fortsetzung derselben Szene, keine neue Nebenhandlung); zusammen mit K3 im Stimmen-Pass gegenprüfen |
 | K5 | ~1.090 | 45,4 % — drei Szenen, durchgehend dialoglastig | ⚠️ knapp unter dem 1.200-Minimum, aber alle drei geplanten Beats vollständig erzählt; kein Füllstoff nötig, im Stimmen-Pass gegenprüfen |
 | K6 | ~980 | 45,9 % — eine durchgehende Szene, direkte Fortsetzung von K5 | ⚠️ unter dem 1.200-Minimum, gleicher Grund wie K3/K4 (eine intensive Szene ohne Ortswechsel); alle drei geplanten Beats vollständig erzählt, im Stimmen-Pass gegenprüfen |
+| K7 | ~895 | 44,3 % — emotionale Kernszene, bewusst knapp gehalten | ⚠️ unter dem 1.200-Minimum, gleicher Grund wie K3/K4/K6 (eine intensive Szene); Straffheit dient hier der emotionalen Wirkung, im Stimmen-Pass gegenprüfen |
 
 ---
 
