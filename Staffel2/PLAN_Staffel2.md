@@ -825,9 +825,15 @@ S2-2, Phase 3 ✅ [Setup_Payoff_Tracker_S2-2.md](S2-2/Setup_Payoff_Tracker_S2-2.
 [Cliffhanger_Register_S2-2.md](S2-2/Cliffhanger_Register_S2-2.md) (zwei
 Typenkollisionen K3/K4 und K9/K10 beim Zusammenstellen gefunden und behoben) ·
 [Detaillierte_Szenenplanung_S2-2.md](S2-2/Detaillierte_Szenenplanung_S2-2.md) (14/15
-Übergänge lösen sofort auf). **Nächster Schritt: S2-3, Phase 1 (Kontinuität)** — oder
-Phase 4 (Kapitel schreiben) für S2-1/S2-2, sobald die Aktivierungs-Checkliste (Abschnitt 1)
-erfüllt ist.
+Übergänge lösen sofort auf).
+S2-3, Phase 1 ✅ [Staffel2/S2-3/Kontinuitaet_S2-3.md](S2-3/Kontinuitaet_S2-3.md) —
+Grusel 7-8/10, Halder tritt erstmals persönlich auf (Zugang über die Mutter/Hausverwaltung),
+Schattens gezielte Reaktion auf ihn als gelernte Assoziation begründet (keine neue
+Fähigkeit), sechs zu prüfende Widersprüche — darunter die noch offene Frage, ob die
+titelgebende Frau am Ende befreit wird (Empfehlung: ja, damit S2-4s späterer ungelöster
+Fall eine echte Ausnahme bleibt). **Nächster Schritt: S2-3, Phase 2 (Story-Outline mit
+Mechanik-Prüfung)** — oder Phase 4 (Kapitel schreiben) für S2-1/S2-2, sobald die
+Aktivierungs-Checkliste (Abschnitt 1) erfüllt ist.
 
 ---
 
