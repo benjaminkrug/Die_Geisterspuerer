@@ -65,11 +65,15 @@
 4. Zuhören verändert, zum ersten Mal in der Staffel, nichts an der Grundsituation.
 
 ### Kapitel 8 – „Was jetzt?" (ABSCHLUSS AKT 2)
-1. Nora, zum ersten Mal wirklich erschüttert: Was, wenn sie diesen Fall nicht lösen können?
-2. Zweiter, konkreterer Hinweis auf Halders Parallelfall — Theo hat gehört, der Fremde sei
+1. ⚠️ **Bewusster Rückbezug** (Uniqueness-Pass): Nora erinnert sich an ihre eigenen Worte
+   aus S2-2 K7 — „Wir können nicht alle retten. Aber wir können bei ihr anfangen." — damals
+   hoffnungsvoll gemeint, jetzt anders gehört: Sie hat bei Marie angefangen, und es reicht
+   nicht.
+2. Nora, zum ersten Mal wirklich erschüttert: Was, wenn sie diesen Fall nicht lösen können?
+3. Zweiter, konkreterer Hinweis auf Halders Parallelfall — Theo hat gehört, der Fremde sei
    zuletzt am anderen Stadtende gesehen worden.
-3. Schatten unruhig, pendelt zwischen Nora und der Tür.
-4. Nora, zum ersten Mal: „Was, wenn wir es diesmal nicht können?"
+4. Schatten unruhig, pendelt zwischen Nora und der Tür. Nora: „Ich habe gesagt, wir müssen
+   nicht alle retten, nur bei einem anfangen. Was, wenn wir nicht mal das schaffen?"
 
 ---
 
@@ -82,12 +86,16 @@
 3. Schatten ruhiger, als hätte er auf genau diesen Entschluss gewartet.
 4. Sie brechen auf, zurück in den Park.
 
-### Kapitel 10 – „Jemand beobachtet"
-1. Im Park, kurz bevor sie zu Marie zurückkehren (die im Hintergrund weiter unbeachtet
+### Kapitel 10 – „Schritte im Kies"
+1. ⚠️ **Bewusst anders inszeniert als S2-2 K8–11** (Uniqueness-Pass): kein heimliches
+   Beobachten aus der Distanz — sie versteckt sich hier nicht, ein Zeichen ihrer
+   Entwicklung seit S2-2.
+2. Im Park, kurz bevor sie zu Marie zurückkehren (die im Hintergrund weiter unbeachtet
    sucht).
-2. Eine zweite, lebendige Gestalt wartet am Rand.
-3. Schatten kurzer, gedämpfter Alarm, dann Beruhigung — er kennt sie.
-4. Frieda, allein, am Rand des Parks, beobachtet sie aus der Distanz.
+3. Schritte auf dem Kiesweg, unübersehbar, direkt auf sie zu. Schatten kurzer, gedämpfter
+   Alarm, dann sofortige Beruhigung — er kennt sie, und sie schleicht sich nicht an.
+4. Frieda, mitten auf dem Weg, geht ohne zu zögern direkt auf sie zu — kein Versteck, kein
+   Abwarten.
 
 ### Kapitel 11 – „Ich habe ihn nie gefragt"
 1. Frieda tritt zu Nora und Theo, **bevor** diese zu Marie zurückkehren — Marie bleibt in

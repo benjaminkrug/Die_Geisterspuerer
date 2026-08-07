@@ -24,9 +24,9 @@ ERKENNTNIS, KOMPLIKATION, OBJEKT, SPANNUNG/UNSICHERHEIT.
 | K5 | Das ist unsere Schrift | ERKENNTNIS | Clara wurde vor Monaten befreit — für immer zu spät |
 | K6 | Wie sagt man das jemandem | GEDANKE/ENTSCHLUSS | Nora: Sie versuchen es trotzdem mit Zuhören |
 | K7 | Es reicht nicht | KOMPLIKATION | Zuhören verändert nichts an der Grundsituation |
-| K8 | Was jetzt? | SPANNUNG/UNSICHERHEIT | Nora: „Was, wenn wir es diesmal nicht können?" |
+| K8 | Was jetzt? | SPANNUNG/UNSICHERHEIT | Nora: „Ich habe gesagt, wir müssen nicht alle retten, nur bei einem anfangen. Was, wenn wir nicht mal das schaffen?" (Rückbezug auf S2-2 K7) |
 | K9 | Die einzige Wahrheit, die wir haben | GEDANKE/ENTSCHLUSS | Entschluss, zurückzugehen und die Wahrheit zu sagen |
-| K10 | Jemand beobachtet | BILD | Frieda, allein, am Rand des Parks |
+| K10 | Schritte im Kies | BILD | Frieda geht direkt und unversteckt auf sie zu |
 | K11 | Ich habe ihn nie gefragt | DIALOG | Frieda: „Ich habe ihn nie gefragt, ob es stimmt." |
 | K12 | Vielleicht bin ich nicht genug | ERKENNTNIS | Nora: manche Dinge sind einfach nicht in ihrer Macht |
 | K13 | Was wir dir geben können | AKTION | Marie hält inne — hört zum ersten Mal auf zu rufen |

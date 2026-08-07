@@ -29,7 +29,7 @@ ERKENNTNIS, KOMPLIKATION, OBJEKT, SPANNUNG/UNSICHERHEIT.
 | K10 | Was du nie gefragt hast | AKTION | Sie legt die Unterlagen in seine Hände |
 | K11 | Das kann nicht sein | DIALOG | Halder: „Ihr versteht nicht, was ich gesehen habe." |
 | K12 | Dreißig Jahre | ERKENNTNIS | Nora sieht den Moment, in dem seine Gewissheit bricht |
-| K13 | Der letzte Weg | AKTION | Er zieht einen einzelnen, altmodischen Schlüssel hervor |
+| K13 | Der letzte Weg | AKTION | Er zieht eine Kette unterm Hemd hervor — der Schlüssel war die ganze Zeit bei ihm |
 | K14 | Der letzte Schlüssel | OBJEKT | Der Schlüssel dreht sich |
 | K15 | Dutzende | BILD | Der letzte Leine-Lichtfaden erlischt |
 | K16 | Was bleibt von ihm | SPANNUNG/UNSICHERHEIT | Nora weiß nicht, was aus ihm wird — und muss es nicht wissen |

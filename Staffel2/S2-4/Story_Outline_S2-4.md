@@ -239,12 +239,18 @@ nichts tun. **Humor:** keiner. **Cliffhanger [KOMPLIKATION]:** Zuhören, zum ers
 der Staffel, verändert nichts an der Grundsituation.
 
 ### Kapitel 8 – „Was jetzt?" (ABSCHLUSS AKT 2)
+⚠️ **Bewusster Rückbezug ergänzt (Uniqueness-Pass):** Nora erinnert sich an ihre eigenen
+Worte aus S2-2 K7 — „Wir können nicht alle retten. Aber wir können bei ihr anfangen." Damals
+ein hoffnungsvoller, entschlossener Satz beim ersten Erfolg der Staffel. Jetzt hört sie ihn
+anders: Sie hat bei Marie angefangen — und es reicht nicht. Aus einem zufälligen Echo wird
+ein bewusster Zahltag, der den Cliffhanger schärfer macht, statt ihn nur zu wiederholen.
 Nora, zum ersten Mal wirklich erschüttert: Was, wenn sie diesen Fall nicht lösen können?
 Ein zweiter, etwas konkreterer Nebenfaden zu Halders Fall (Theo hat mehr gehört — der Fremde
 wurde zuletzt am anderen Stadtende gesehen). **Schatten:** unruhig, zwischen Nora und der
 Tür hin und her. **Humor:** Theo versucht es, scheitert bewusst — der Ernst trägt das
-Kapitel. **Cliffhanger [SPANNUNG/UNSICHERHEIT]:** Nora, zum ersten Mal: „Was, wenn wir es
-diesmal nicht können?"
+Kapitel. **Cliffhanger [SPANNUNG/UNSICHERHEIT]:** Nora, zum ersten Mal: „Ich habe gesagt,
+wir müssen nicht alle retten, nur bei einem anfangen. Was, wenn wir nicht mal das
+schaffen?"
 
 ## AKT 3 — Die Grenze (K9–12)
 
@@ -254,11 +260,15 @@ wenigstens die Wahrheit. **Schatten:** ruhiger, als hätte er auf genau diesen E
 gewartet. **Humor:** keiner. **Cliffhanger [GEDANKE/ENTSCHLUSS]:** Sie gehen zurück in den
 Park, um es Marie zu sagen.
 
-### Kapitel 10 – „Jemand beobachtet"
-Im Park, kurz bevor sie beginnen — eine zweite Gestalt am Rand, lebendig, wartend. **Schatten:**
-kurzer, gedämpfter Alarm, dann Beruhigung — er kennt sie. **Humor:** Theos überraschtes
-„Was macht die denn hier?". **Cliffhanger [BILD]:** Frieda, allein, am Rand des Parks,
-beobachtet sie aus der Distanz.
+### Kapitel 10 – „Schritte im Kies"
+⚠️ **Bewusst anders inszeniert als S2-2 K8–11** (Uniqueness-Pass): Dort beobachtete Frieda
+heimlich, unbemerkt, aus der Distanz. Das hier zu wiederholen, hätte sich wie derselbe Beat
+noch einmal angefühlt. **Stattdessen:** Sie versteckt sich nicht — ein Zeichen, wie weit sie
+seit S2-2 gekommen ist. Schritte auf dem Kiesweg, unübersehbar, direkt auf sie zu. **Schatten:**
+kurzer, gedämpfter Alarm, dann sofortige Beruhigung — er kennt sie, und sie verhält sich
+nicht wie jemand, der sich anschleicht. **Humor:** Theos überraschtes „Was macht die denn
+hier?". **Cliffhanger [BILD]:** Frieda, mitten auf dem Weg, geht ohne zu zögern direkt auf
+sie zu — kein Versteck, kein Abwarten.
 
 ### Kapitel 11 – „Ich habe ihn nie gefragt"
 ⚠️ **Korrigiert beim Erstellen der Szenenplanung (Phase 3):** Der erste Entwurf ließ Frieda

@@ -12,6 +12,7 @@
 | „Jetzt weiß er, dass wir es wissen" (S2-3 K16) | **Ja, in Konsequenz** | K4/K8/K16 — Halder agiert mit vollem Wissen, aber **nicht** durch direkte Konfrontation (siehe Korrektur unten) |
 | Friedas Loyalität, seit S2-3 unter Druck (S2-3 K7 Enthüllung) | **Ja** | K10–K11, K15 — erster echter Riss |
 | Kette 2 (Feuer-Geschichte), Ilses erster Dissens (S2-3 K13) | **Ja, vertiefend** | K11 — Friedas eigener, erster Zweifel-Hinweis |
+| Noras „Wir können nicht alle retten. Aber wir können bei ihr anfangen." (S2-2 K7) | **Ja, nachträglich ergänzt (Uniqueness-Pass)** | K8 — bewusster Rückbezug, verwandelt den damals hoffnungsvollen Satz in einen bitteren Zahltag |
 
 ⚠️ **Korrektur beim Gegenprüfen (Phase 3):** `S2-3/Setup_Payoff_Tracker_S2-3.md` Abschnitt C
 sagte für diesen Faden voraus, Halder werde „mit vollem Wissen über die Kinder … dort
@@ -40,7 +41,7 @@ Ausführung übereinstimmt.
 | 7 | Noras Entschluss, es trotzdem mit Zuhören zu versuchen (K6) | Scheitert sichtbar (K7) | geplant |
 | 8 | Zuhören verändert nichts an der Grundsituation (K7) | Führt zu Noras offenem Selbstzweifel (K8, Höhepunkt K12) | geplant |
 | 9 | Noras Entschluss, Marie die Wahrheit zu sagen statt sie zu befreien (K9) | Die Wahrheits-Szene (K13) | geplant |
-| 10 | Frieda am Rand des Parks, beobachtend (K10) | Ihr Auftritt und ihre Erklärung (K11) | geplant |
+| 10 | Frieda kommt direkt und unversteckt auf sie zu (K10, bewusst anders als ihr heimliches Beobachten in S2-2) | Ihr Auftritt und ihre Erklärung (K11) | geplant |
 | 11 | Friedas „Ich habe ihn nie gefragt, ob es stimmt" (K11) | ⚠️ **Bewusst NICHT in S2-4 aufgelöst** — staffelweiter Faden, Payoff in S2-5 (`../Hinweisketten_Tracker.md` Kette 2) | bewusst offen (Staffel-Faden) |
 | 12 | Silbers Karte mit dem „Frei."-Vermerk (K4, als Trost-Objekt etabliert) | Wird Marie tatsächlich gezeigt (K13) | geplant |
 | 13 | Marie hält inne, hört auf zu rufen (K13) | Sitzt still, wartend statt suchend (K14) | geplant |

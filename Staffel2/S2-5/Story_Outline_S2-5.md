@@ -247,10 +247,16 @@ keiner, Anspannung trägt das Kapitel. **Cliffhanger [SPANNUNG/UNSICHERHEIT]:** 
 die Tür, bevor jemand sie aufhalten kann.
 
 ### Kapitel 9 – „Drinnen" (ABSCHLUSS AKT 2)
-Der volle Anblick: Dutzende Uhren, Dutzende Schlösser, Dutzende schemenhafte, gebundene
-Gestalten — zum ersten Mal in voller Zahl sichtbar. Halder dreht sich um, sieht Frieda mit
-der Mappe. **Schatten:** von Theo gehalten, winselt, aber bleibt. **Humor:** keiner.
-**Cliffhanger [BILD]:** Das ganze Ausmaß der Werkstatt, zum ersten Mal vollständig gesehen.
+⚠️ **Ton bewusst abgegrenzt von S2-2 Akt 2 „Das Ausmaß" (Uniqueness-Pass):** Dort war das
+Ausmaß ein **Schock der Entdeckung** — die Kinder ahnten nichts, das Bild löste Furcht aus.
+Hier ist es ein **Wiedersehen mit Entschlossenheit**: Sie wissen bereits, was sie erwartet
+(aus eigener Erinnerung an S2-2), der Anblick bestätigt nur, wie viel auf dem Spiel steht,
+statt sie zu überraschen. Nora registriert nüchtern, nicht erschrocken: *So viele. Immer noch
+so viele.* Der volle Anblick: Dutzende Uhren, Dutzende Schlösser, Dutzende schemenhafte,
+gebundene Gestalten — seit S2-2 nicht kleiner geworden. Halder dreht sich um, sieht Frieda
+mit der Mappe. **Schatten:** von Theo gehalten, winselt, aber bleibt. **Humor:** keiner.
+**Cliffhanger [BILD]:** Das ganze Ausmaß der Werkstatt — nicht neu, aber diesmal mit dem
+festen Vorsatz, dass es das letzte Mal ist.
 
 ## AKT 3 — Was er nie gefragt hat (K10–13)
 
@@ -276,21 +282,31 @@ emotionale Tiefpunkt des Bandes für ihn. **Cliffhanger [ERKENNTNIS]:** Nora sie
 Der genaue Moment, in dem dreißig Jahre Gewissheit brechen.
 
 ### Kapitel 13 – „Der letzte Weg" (ABSCHLUSS AKT 3)
-Ohne ein weiteres Wort dreht sich Halder um und geht zur Rückwand der Werkstatt, zu einem
-Schrank, den die Kinder nie beachtet haben. **Schatten:** folgt ihm, ruhig, nicht mehr
-alarmiert. **Humor:** keiner. **Cliffhanger [AKTION]:** Er zieht einen einzelnen,
-altmodischen Schlüssel hervor.
+⚠️ **Bewusst anders inszeniert als S2-3 K10 (Konsistenz-Check, Uniqueness-Pass):** S2-3 K10
+ließ Halder wortlos aufstehen und zu einer Tür quer durch den Raum gehen — dieselbe Geste
+hier zu wiederholen (wortlos umdrehen, zu einem Schrank laufen) hätte sich wie eine
+Zweitverwertung angefühlt. **Stattdessen:** Er bewegt sich gar nicht durch den Raum. Er
+spricht zuerst — leise, resigniert: „Es gibt einen Schlüssel, den ich nie benutzt habe."
+Dann greift er sich an den Hemdkragen und zieht eine dünne Kette hervor, die er die ganze
+Zeit unter der Kleidung getragen hat — daran der Schlüssel. Er hat den Zweifel, dass er sich
+irren könnte, buchstäblich am eigenen Körper getragen, dreißig Jahre lang, ohne es sich
+einzugestehen. **Schatten:** ruhig, dicht bei ihm, nicht mehr alarmiert. **Humor:** keiner.
+**Cliffhanger [OBJEKT]:** Der Schlüssel, an einer Kette um seinen Hals — die ganze Zeit bei
+ihm, nie benutzt.
 
 ## AKT 4 — Der letzte Schlüssel (K14–18)
 
 ### Kapitel 14 – „Der letzte Schlüssel"
-Er erklärt knapp, was der Schlüssel ist — nie benutzt, immer für den Fall gemacht, dass er
-selbst einmal falsch gelegen haben könnte (ein stiller, bereits vorher vorhandener Zweifel,
-den er nie zugegeben hat). ⚠️ **Zweiter Halt (Phase 3, Mechanik Punkt 8):** Schatten spürt
-die bevorstehende Freisetzung, wird erneut unruhig — Theo hält ihn ein zweites Mal, jetzt
-bewusst, in Erwartung dessen, was gleich kommt. Er setzt den Schlüssel an. **Schatten:**
-von Theo gehalten, vollkommen still, gespannt. **Humor:** keiner, emotionaler Höhepunkt.
-**Cliffhanger [OBJEKT]:** Der Schlüssel dreht sich.
+Er zieht die Kette über den Kopf, hält den Schlüssel einen Moment in der offenen Hand, bevor
+er zum zentralen Schloss der Werkstatt geht — die einzige Bewegung durch den Raum in dieser
+Szene, jetzt mit Ziel, nicht als wortloser Rückzug. Er erklärt knapp, was der Schlüssel ist
+— immer für den Fall gemacht, dass er selbst einmal falsch gelegen haben könnte (ein
+stiller, bereits vorher vorhandener Zweifel, den er nie zugegeben hat). ⚠️ **Zweiter Halt
+(Phase 3, Mechanik Punkt 8):** Schatten spürt die bevorstehende Freisetzung, wird erneut
+unruhig — Theo hält ihn ein zweites Mal, jetzt bewusst, in Erwartung dessen, was gleich
+kommt. Er setzt den Schlüssel an. **Schatten:** von Theo gehalten, vollkommen still,
+gespannt. **Humor:** keiner, emotionaler Höhepunkt. **Cliffhanger [OBJEKT]:** Der Schlüssel
+dreht sich.
 
 ### Kapitel 15 – „Dutzende"
 Alle Bindungen der Werkstatt lösen sich zugleich. Zwei, drei konkrete, kurze Bilder befreiter

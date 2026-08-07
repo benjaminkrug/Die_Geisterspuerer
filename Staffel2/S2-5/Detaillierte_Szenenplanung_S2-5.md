@@ -70,11 +70,14 @@
 4. Frieda öffnet die Tür, bevor jemand sie aufhalten kann.
 
 ### Kapitel 9 – „Drinnen" (ABSCHLUSS AKT 2)
-1. Der volle Anblick: Dutzende Uhren, Dutzende Schlösser, Dutzende schemenhafte, gebundene
-   Gestalten — zum ersten Mal in voller Zahl sichtbar.
-2. Halder dreht sich um, registriert sie aus der Distanz — sieht, dass Frieda etwas trägt.
-3. Schatten, von Theo gehalten, winselt, aber bleibt.
-4. Das ganze Ausmaß der Werkstatt, zum ersten Mal vollständig gesehen.
+1. ⚠️ **Ton bewusst abgegrenzt von S2-2 Akt 2** (Uniqueness-Pass): dort Schock der
+   Entdeckung, hier Wiedersehen mit Entschlossenheit — sie kennen den Anblick bereits,
+   nichts überrascht sie, nur die Tragweite bestätigt sich.
+2. Der volle Anblick: Dutzende Uhren, Dutzende Schlösser, Dutzende schemenhafte, gebundene
+   Gestalten — seit S2-2 nicht kleiner geworden.
+3. Halder dreht sich um, registriert sie aus der Distanz — sieht, dass Frieda etwas trägt.
+4. Schatten, von Theo gehalten, winselt, aber bleibt. Das ganze Ausmaß der Werkstatt — nicht
+   neu, aber diesmal mit dem festen Vorsatz, dass es das letzte Mal ist.
 
 ---
 
@@ -100,19 +103,23 @@
 4. Nora sieht es zuerst: der genaue Moment, in dem dreißig Jahre Gewissheit brechen.
 
 ### Kapitel 13 – „Der letzte Weg" (ABSCHLUSS AKT 3)
-1. Ohne ein weiteres Wort dreht sich Halder um.
-2. Er geht zur Rückwand der Werkstatt, zu einem Schrank, den die Kinder nie beachtet haben.
-3. Schatten folgt ihm, ruhig, nicht mehr alarmiert.
-4. Er zieht einen einzelnen, altmodischen Schlüssel hervor.
+1. ⚠️ **Bewusst anders inszeniert als S2-3 K10** (Uniqueness-Pass): kein wortloses
+   Umdrehen/Weggehen quer durch den Raum — Halder bewegt sich hier nicht.
+2. Er spricht zuerst, leise: „Es gibt einen Schlüssel, den ich nie benutzt habe."
+3. Er greift an den Hemdkragen, zieht eine Kette hervor, die er die ganze Zeit unter der
+   Kleidung trug — daran der Schlüssel.
+4. Der Schlüssel, um seinen Hals — die ganze Zeit bei ihm, nie benutzt.
 
 ---
 
 ## AKT 4 — Der letzte Schlüssel (K14–18)
 
 ### Kapitel 14 – „Der letzte Schlüssel"
-1. Er erklärt knapp, was der Schlüssel ist.
-2. Nie benutzt — gemacht für den Fall, dass er selbst einmal falsch gelegen haben könnte
-   (ein stiller, nie zugegebener Zweifel, der offenbar schon lange existierte).
+1. Er zieht die Kette über den Kopf, hält den Schlüssel kurz in der offenen Hand, geht dann
+   zum zentralen Schloss der Werkstatt — die einzige Bewegung durch den Raum in dieser Szene.
+2. Er erklärt knapp, was der Schlüssel ist — nie benutzt, gemacht für den Fall, dass er
+   selbst einmal falsch gelegen haben könnte (ein stiller, nie zugegebener Zweifel, der
+   offenbar schon lange existierte).
 3. ⚠️ **Zweiter Halt** (Mechanik Punkt 8): Schatten spürt die bevorstehende Freisetzung,
    wird erneut unruhig — Theo hält ihn ein zweites Mal, vollkommen still, gespannt.
 4. Er setzt den Schlüssel an. Er dreht sich.
@@ -162,8 +169,8 @@
 | K9→K10 | ✅ | Halders Registrieren aus der Distanz führt direkt zu Friedas Schritt auf ihn zu |
 | K10→K11 | ✅ | Die Übergabe der Unterlagen führt direkt zu seiner ersten Reaktion |
 | K11→K12 | ✅ | Sein Zurückweisen führt direkt zu seinem eigenen Nachrechnen |
-| K12→K13 | ✅ | Der Moment des Bruchs führt direkt zu seinem wortlosen Aufbruch zur Rückwand |
-| K13→K14 | ✅ | Das Hervorziehen des Schlüssels führt direkt zu seiner Erklärung und Anwendung |
+| K12→K13 | ✅ | Der Moment des Bruchs führt direkt zu seinem leisen Eingeständnis und dem Hervorholen der Kette |
+| K13→K14 | ✅ | Der enthüllte Schlüssel führt direkt zu seiner Erklärung und Anwendung |
 | K14→K15 | ✅ | Das Drehen des Schlüssels führt direkt zur Massenbefreiung |
 | K15→K16 | ✅ | Die Befreiung ebbt direkt in die Stille mit Halder über |
 | K16→K17 | ✅ | Der Moment mit Halder führt direkt zum Abschied von Frieda |
