@@ -104,9 +104,11 @@
    harter Cliffhanger — Beobachtungspunkt aus dem Cliffhanger-Register, K13/K14-Intensität.)
 
 ### Kapitel 14 – „Zuhören, zu Ende"
-1. Frau Brandt spricht direkt zu Herbert, jetzt ungestört.
+1. ⚠️ Kein drittes Zuhören — Frau Brandt erzählt Herbert etwas Neues: dass sie den Karton
+   gefunden hat, dass sein stummer Versuch angekommen ist.
 2. Zahltag K11: die letzte Karte wird vorgelesen/gezeigt.
-3. Herbert beginnt zu gehen — diesmal ohne Ruck, das Kapitel endet im Übergang selbst.
+3. Herbert beginnt zu gehen — diesmal ohne Ruck (Schloss offen + neue Information
+   zusammen, nicht Wiederholung), das Kapitel endet im Übergang selbst.
 
 ### Kapitel 15 – „Was bleibt, was verschwindet"
 1. Herbert geht endgültig — kurzer, würdevoller Abschied.

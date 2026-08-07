@@ -36,7 +36,7 @@ geerbtes.
 | 4 | Bindungssignatur (Rückriss) zum ersten Mal (K3) | Verstanden + überwunden (K13) | geplant |
 | 5 | Noras Entschluss „WAS hält ihn, nicht nur WARUM" (K4) | Beantwortet durch das gefundene Schloss (K9–10) | geplant |
 | 6 | Schrank als auffälliges Detail (K6, verschlossen ohne Schlüssel) | Enthält den physischen Anker (K9–10), wird geöffnet (K13) | geplant |
-| 7 | Zweiter Zuhören-Versuch, diesmal Frau Brandt selbst (K7) | Bezahlt sich final in K14 aus (derselbe Zuhören-Moment, diesmal ungestört) | geplant |
+| 7 | Zweiter Zuhören-Versuch, diesmal Frau Brandt selbst (K7) | ⚠️ **Präzisiert (3. Durchgang):** K14 ist **kein** dritter Zuhören-Versuch — die emotionale Arbeit ist mit K7 getan. K14 zahlt sich aus, weil Frau Brandt Herbert jetzt etwas **Neues erzählt** (dass sie die Karten gefunden hat), nicht weil sie ihm nochmal zuhört. Kombiniert mit dem geöffneten Schloss (K13) ergibt erst das zusammen den Payoff. | geplant |
 | 8 | Hausmeister erwähnt einen "Schlosser", der vor Monaten alle Schlösser wartete (K8) | Bestätigt als Halders Handschrift — **wird in S2-1 selbst NICHT aufgelöst**, Payoff erst S2-2/S2-3 | ⚠️ bewusst offen (Staffel-Faden) |
 | 9 | Karton mit Herberts Sachen (K11) | Der letzte, ungeöffnete Brief wird der Schlüsselmoment der Befreiung (K14) | geplant |
 | 10 | Winziges Schloss-Symbol, in den Schrank geritzt (K9) | Physisches Schloss gefunden (K10), geöffnet (K13) | geplant |
@@ -68,14 +68,26 @@ Friedas gestaffelter Einführung, `PLAN_Staffel2.md` Abschnitt 9).
 
 ---
 
-## D. Faire-Hinweis-Ketten — Vorab-Kontrolle
+## D. Faire-Hinweis-Ketten — tatsächlich geprüft (3. Durchgang)
 
-> Band 5 prüfte hier seine zwei großen Twists (Echo-Kind, Warum-jetzt). S2-1 hat **keinen
-> vergleichbaren Überraschungs-Twist** — es ist eine schrittweise Eskalation
-> (Standardmethode versagt → Suche → Fund → Auflösung), keine Wendung, die faire Hinweise
-> vorher bräuchte. Die einzige "Enthüllung" (Bindung ist systematisch, K16) wird direkt vor
-> den Augen des Lesers erarbeitet (K8–K9), nicht als Überraschung am Ende hingeworfen —
-> braucht daher keine gesonderte Hinweis-Ketten-Prüfung. **Bewusst leer, kein Fehlen.**
+> ⚠️ **Korrektur:** Diese Sektion behauptete zunächst, keine Prüfung sei nötig — eine
+> unbelegte Ausnahme, nicht anders als der Fehler, den `Serien_Kanon.md` Abschnitt 6 an
+> sich selbst korrigierte ("kein ✅ ohne durchgeführte Prüfung"). Nachgeholt:
+
+**Die Enthüllung, die geprüft wird:** Die Bindung ist vorbereitet/systematisch, kein Zufall
+(landet in K8, wird in K9 bestätigt). **Hinweiskette, tatsächlich verifiziert:**
+
+| Kapitel | Hinweis | Eskalationsstufe |
+|---|---|---|
+| K1 | Schatten knurrt allgemein Richtung Treppenhaus | vage, unspezifisch |
+| K2 | Schatten verweigert gezielt EIN Zimmer (Flur vor dem Schrankzimmer) | erste Eingrenzung |
+| K5 | Schatten reagiert unterschiedlich stark je nach Zimmerbereich | Eingrenzung verstärkt |
+| K6 | Schatten fixiert sich vollständig auf den Schrank | Eingrenzung abgeschlossen |
+| K8 | Schatten reagiert spezifisch auf das **Wort** „Schlosser" — nicht auf Herbert | zeigt: ein Mensch/Handwerk ist im Spiel, nicht nur Trauer |
+
+**Ergebnis:** Die Kette ist fair und sauber eskalierend — ein aufmerksamer Leser kann K8s
+Enthüllung kommen sehen, ohne dass sie vorweggenommen wird. **Bestätigt durch Prüfung, nicht
+durch Behauptung.**
 
 ---
 

@@ -300,7 +300,12 @@ ruhige Reaktion des ganzen Buches. **Humor:** kurz, erleichtert. **Cliffhanger
 [SPANNUNG/UNSICHERHEIT]:** Reicht das offene Schloss allein, oder braucht es noch etwas?
 
 ### Kapitel 14 – „Zuhören, zu Ende"
-Frau Brandt spricht direkt zu Herbert — der Zuhören-Moment, diesmal ungestört. **Zahltag
+⚠️ **Präzisiert (3. Durchgang):** Dies ist **kein dritter Zuhören-Versuch** — die
+emotionale Arbeit ist mit K7 bereits getan, das Schloss ist seit K13 offen. K14 zahlt sich
+aus, weil Frau Brandt Herbert jetzt etwas **Neues erzählt**, nicht weil sie ihm nochmal
+zuhört: Sie erzählt ihm vom Karton, von den nie abgeschickten Karten — **er erfährt zum
+ersten Mal, dass sein Versuch (wenn auch stumm) angekommen ist.** Das plus das offene
+Schloss ergeben zusammen den Payoff — keins der beiden allein hätte gereicht. **Zahltag
 K11:** Sie liest ihm die letzte, ungeöffnete Karte laut vor (oder hält sie einfach hoch —
 Details in der Szenenplanung). Er kann endlich antworten/loslassen. **Schatten:** bleibt
 ruhig, beobachtet respektvoll (wie in Staffel-1-Befreiungsszenen etabliert). **Humor:**
