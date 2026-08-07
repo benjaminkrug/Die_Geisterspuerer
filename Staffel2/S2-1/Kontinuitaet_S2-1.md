@@ -244,8 +244,14 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
   gescheiterter Büroklammer-Versuch (Humor-Beat). Kein Schlüssel im Haushalt, Frau Brandt
   bietet an, einen Schlosser zu rufen — Nora bremst, bis klar ist, ob es ein normales
   Schloss überhaupt ist. Nora deutet einen zweiten Zuhören-Versuch mit Frau Brandt selbst
-  an (Vorgriff auf K7). Endet mit einem einzelnen harten Schlag von innen gegen die Tür,
-  dann Stille (AKTION).
+  an (Vorgriff auf K7). Endet damit, dass der gemeinsame Zugversuch scheitert und die Kälte
+  sichtbar eskaliert: Noras und Theos Atem stehen erstmals als Wolke in der Luft, auf dem
+  Schrankholz bildet sich Reif — von innen nach außen (AKTION).
+  ⚠️ **Nachträglich umgebaut** (Stimmen-Prüfung Akt 2): Die Erstfassung endete mit einem
+  Schlag von innen gegen die Tür und verdoppelte damit K5s Geräusch-Cliffhanger fast Beat
+  für Beat. Details: `Cliffhanger_Register_S2-1.md`, Abschnitt „Korrektur nach dem Schreiben
+  von Akt 2". Sichtbarer Atem/Reif ist eine Intensivierung des kanonischen Zeichens „Kälte"
+  bzw. „Kondenswasser" — kein neues Erscheinungszeichen.
 - **K7:** Direkter Anschluss. Nora erklärt, warum ein zweiter Versuch kein Wiederholen ist:
   diesmal spricht Frau Brandt selbst zu Herbert, nicht die Kinder als Vermittler. Frau
   Brandt spricht Herbert direkt an, gesteht ihre Wut UND ihre Vermissung, vergibt ihm.
@@ -289,7 +295,17 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
 | K5 | ~1.090 | 45,4 % — drei Szenen, durchgehend dialoglastig | ⚠️ knapp unter dem 1.200-Minimum, aber alle drei geplanten Beats vollständig erzählt; kein Füllstoff nötig, im Stimmen-Pass gegenprüfen |
 | K6 | ~980 | 45,9 % — eine durchgehende Szene, direkte Fortsetzung von K5 | ⚠️ unter dem 1.200-Minimum, gleicher Grund wie K3/K4 (eine intensive Szene ohne Ortswechsel); alle drei geplanten Beats vollständig erzählt, im Stimmen-Pass gegenprüfen |
 | K7 | ~895 | 44,3 % — emotionale Kernszene, bewusst knapp gehalten | ⚠️ unter dem 1.200-Minimum, gleicher Grund wie K3/K4/K6 (eine intensive Szene); Straffheit dient hier der emotionalen Wirkung, im Stimmen-Pass gegenprüfen |
-| K8 | ~1.040 | 51,3 % — Ermittlungskapitel, Befragungsszene trägt den Großteil | ⚠️ knapp unter dem 1.200-Minimum; Dialoganteil liegt bewusst über dem 45-%-Zielband, weil das Kapitel eine Befragung ist — im Stimmen-Pass gegenprüfen, ob das im Gesamtbuch auffällt |
+| K8 | ~1.040 | 39,7 % — Ermittlungskapitel, Befragungsszene trägt den Großteil | ⚠️ knapp unter dem 1.200-Minimum, siehe geklärte Kapitellängen-Frage unten |
+
+⚠️ **Messkorrektur (Stimmen-Prüfung Akt 2):** Die Dialog-Prozentwerte für K1–K8 waren in
+früheren Einträgen dieser Tabelle **zu hoch angesetzt**. Die alte Methode zählte einen
+ganzen Absatz als Dialog, sobald er mit einem Anführungszeichen *begann* — inklusive der
+Erzähl-Anteile darin („…", sagte Nora und stand auf). Korrekt gemessen wird der Wortanteil
+**innerhalb** der Anführungszeichen. Reale Werte: K5 36,6 % · K6 31,4 % · K7 36,8 % ·
+K8 39,7 % · **Akt 2 gesamt 36,5 %**. Zum Vergleich: Band 1 = 50,5 %, Band 5 = 24,4 %.
+Akt 2 liegt damit im unteren Zielband (35–45 %) und **zwischen** beiden Referenzbänden.
+**K6 liegt mit 31,4 % unter der 35-%-Untergrenze** — einziger echter Ausreißer, aber immer
+noch deutlich über Band-5-Niveau. In Phase 4b gegenprüfen, nicht jetzt künstlich aufblähen.
 
 ### ⚠️ Kapitellängen-Frage — nach Akt 2 empirisch geklärt
 

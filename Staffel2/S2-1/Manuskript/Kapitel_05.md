@@ -36,7 +36,9 @@ Nora steckte es vorsichtig in ihre Jackentasche.
 
 Frau Brandt schüttelte den Kopf, und für einen Moment sah sie noch müder aus als vorher. "Nie. Sie war noch nicht geboren, als wir aufgehört haben zu reden. Er wusste nicht mal, wie sie heißt."
 
-Niemand sagte etwas. Selbst Theo ließ das Marmeladenbrot sinken.
+Niemand sagte etwas.
+
+Selbst Theo ließ das Marmeladenbrot sinken.
 
 "Deshalb will sie nicht in ihrem Zimmer schlafen, oder?", fragte Nora leise. "Sie spürt, dass da jemand ist. Jemand, den sie nie kennengelernt hat."
 

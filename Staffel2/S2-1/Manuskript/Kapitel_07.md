@@ -1,14 +1,16 @@
 # Kapitel 7 – Was Zuhören nicht lösen kann
 
-Niemand rührte sich, bis die Stille sicher genug wirkte.
+"Raus", sagte Nora. "Sofort."
 
-"Raus", sagte Nora schließlich. "Wir reden draußen weiter."
+Niemand widersprach. Sie zogen sich in den Flur zurück, dann ins Wohnzimmer, und mit jedem Schritt wurde die Luft wärmer.
 
-Sie zogen sich in den Flur zurück, dann ins Wohnzimmer. Frau Brandt sank auf die Couch, die Hände zwischen den Knien verschränkt. Schatten legte sich vor ihre Füße, den Blick noch immer wachsam Richtung Flur.
+Frau Brandt sank auf die Couch, die Hände zwischen den Knien verschränkt. Schatten legte sich vor ihre Füße, den Blick noch immer wachsam Richtung Flur.
 
-"Das war eindeutig kein Holz, das sich setzt", sagte Theo und ließ sich neben Frau Brandt fallen.
+Nora rieb sich die Arme. Ihre Finger waren taub.
 
-"Nein", sagte Nora. "Das war er. Er ist noch da drin, und er weiß, dass wir da waren."
+"Reif", sagte Theo und ließ sich neben Frau Brandt fallen. "Auf einem Schrank. In einer beheizten Wohnung."
+
+"Das war er", sagte Nora. "Er ist noch da drin. Und er hat gemerkt, dass wir versucht haben, ihn rauszuholen."
 
 Frau Brandt starrte auf ihre eigenen Hände. "Ich hab Angst, noch mal reinzugehen. Aber ich hab noch mehr Angst davor, es nicht zu tun."
 
@@ -36,7 +38,7 @@ Frau Brandt sah sie an, als hätte sie das nie so betrachtet.
 
 "Seit heute. Genießt es, es hält nicht lange an."
 
-Trotz allem musste Frau Brandt kurz lächeln. Es reichte, um ihre Schultern ein kleines Stück sinken zu lassen.
+Frau Brandt sah ihn an, und ihre Schultern sanken ein kleines Stück.
 
 Frau Brandt schwieg lange. Dann nickte sie, kaum merklich.
 
@@ -44,7 +46,7 @@ Frau Brandt schwieg lange. Dann nickte sie, kaum merklich.
 
 Sie standen wieder vor der Schrankzimmertür, diesmal mit Frau Brandt in der Mitte.
 
-Schatten drückte sich an Noras Bein, aber er knurrte nicht. Nur ein leises, angespanntes Hecheln.
+Schatten blieb dicht hinter ihnen, aber er knurrte nicht. Nur ein leises, angespanntes Hecheln.
 
 "Ich bin hier", sagte Nora zu Frau Brandt. "Wir beide sind hier. Sie müssen das nicht allein machen."
 
@@ -79,6 +81,8 @@ Herbert senkte den Kopf.
 Etwas in Herberts Gestalt löste sich, wurde heller. Er streckte eine durchsichtige Hand nach ihr aus.
 
 "Ich vergebe dir", sagte Frau Brandt. "Und ich hoffe, du mir auch."
+
+Herbert schloss die Augen.
 
 ---
 

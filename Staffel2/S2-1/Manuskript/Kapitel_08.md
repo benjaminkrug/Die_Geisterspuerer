@@ -108,13 +108,17 @@ Schatten machte einen Schritt auf das Heft zu. Ein leises Knurren kam aus seiner
 
 "Im August." Herr Kubiak tippte auf die Zeile. "Letztes Jahr im August."
 
+August.
+
 Nora rechnete nach. Einmal, dann noch einmal, weil sie sich nicht traute, dem Ergebnis zu glauben.
 
 "Die Brandts sind erst im November eingezogen", sagte sie leise.
 
 "Richtig. Die Wohnung stand vorher fast ein halbes Jahr leer." Herr Kubiak klappte das Heft zu. "Warum?"
 
-Nora suchte nach einer Antwort, die nicht nach Wahnsinn klang. Sie fand keine.
+Nora suchte nach einer Antwort, die nicht nach Wahnsinn klang.
+
+Sie fand keine.
 
 "Nur so", sagte sie. "Danke für Ihre Zeit."
 
@@ -134,7 +138,7 @@ Draußen war es dunkel geworden. Der Februarwind fuhr ihnen kalt entgegen, aber 
 
 Theo öffnete den Mund. Dann schloss er ihn wieder.
 
-Schatten drückte sich an Noras Bein und sah die Straße hinunter, in beide Richtungen.
+Schatten stand ganz still neben ihr und sah die Straße hinunter, in beide Richtungen.
 
 "Der Schrank war nicht wegen Herbert präpariert", sagte Nora. "Er war schon vorher fertig. Monate vorher."
 

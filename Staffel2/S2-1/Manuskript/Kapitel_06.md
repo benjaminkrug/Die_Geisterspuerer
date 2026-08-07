@@ -10,7 +10,7 @@ Nur der Schrank selbst, groß und dunkel, mit geschlossenen Türen.
 
 Die Luft stand still, so still, dass Nora ihren eigenen Puls in den Ohren hörte. Draußen, irgendwo im Haus, tickte die Uhr weiter, als wäre das alles ganz normal.
 
-Schatten folgte ihnen bis zur Schwelle, keinen Schritt weiter. Er setzte sich hin, starr wie eine Statue, den Blick fest auf den Schrank gerichtet. Kein Knurren mehr, kein Winseln. Nur dieses eine, ununterbrochene Starren.
+Schatten folgte ihnen bis zur Schwelle, keinen Schritt weiter. Er setzte sich hin, starr wie eine Statue. Kein Knurren mehr, kein Winseln. Nur dieses eine, ununterbrochene Starren, das nichts anderes mehr im Raum wahrnahm.
 
 "Er guckt gar nicht mehr weg", flüsterte Frau Brandt.
 
@@ -36,7 +36,9 @@ Er roch nach altem Holz und noch nach etwas anderem, das Nora nicht benennen kon
 
 "Der Vormieter hat gesagt, er war zu schwer zum Wegtragen", sagte Frau Brandt von der Tür aus. "Mehr weiß ich nicht. Er stand schon hier, als wir eingezogen sind."
 
-Nora suchte nach einem Griff, einem Schlüsselloch, irgendetwas. Die Türen saßen glatt zusammen, ohne sichtbaren Spalt.
+Nora suchte nach einem Griff, einem Schlüsselloch, irgendetwas.
+
+Nichts davon war da. Die Türen saßen glatt zusammen, ohne sichtbaren Spalt.
 
 "Da ist kein Griff", sagte sie. "Wie öffnet man das überhaupt?"
 
@@ -86,7 +88,7 @@ Er drückte sein Ohr gegen die Tür und klopfte dreimal, wie bei einem Adventska
 
 "Vielleicht ist das kein Schloss, das man überhaupt irgendwie knackt", gab Theo zurück. Frustriert ließ er sich auf den Boden sinken. "Ich hab einmal ein Fahrradschloss aufbekommen. Wie schwer kann ein Schrank sein?"
 
-Trotz der Anspannung musste Frau Brandt kurz lächeln.
+Frau Brandt gab ein Geräusch von sich, das fast ein Lachen war.
 
 ---
 
@@ -110,12 +112,22 @@ Theo stand wieder auf, klopfte sich den Staub von den Knien. "Okay. Letzter Vers
 
 Er packte die eine Tür, Nora die andere. Sie zogen, so fest sie konnten.
 
-Nichts bewegte sich. Der Schrank stand da wie angewachsen, als hätte er sich nie in seinem Leben geöffnet.
+Nichts.
+
+Der Schrank stand da wie angewachsen, als hätte er sich nie in seinem Leben geöffnet.
 
 Sie ließen los, außer Atem.
 
-Und dann, aus dem Inneren des Schranks, ein einziger, harter Schlag. Als hätte etwas von innen gegen das Holz getreten.
+Und als Nora ausatmete, sah sie ihren eigenen Atem.
 
-Alle drei fuhren zurück. Schatten sprang auf und bellte, laut und scharf, direkt auf den Schrank gerichtet.
+Eine weiße Wolke, mitten im Zimmer, deutlich wie an einem Wintermorgen.
 
-Danach: Stille. Als wäre nichts gewesen.
+Beim ersten Besuch war das nicht so gewesen. Da war die Luft kalt gewesen. Kalt, aber normal.
+
+Theo atmete aus. Seine Wolke stand genauso in der Luft.
+
+"Nora." Seine Stimme war ganz dünn. "Wird das gerade schlimmer?"
+
+Sie antwortete nicht. Sie sah zu, wie sich auf dem dunklen Holz der Schranktür ein feiner, silbriger Reif bildete.
+
+Von innen nach außen.

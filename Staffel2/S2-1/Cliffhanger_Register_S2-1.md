@@ -29,7 +29,7 @@
 | K3 | Der erste Versuch | AKTION | Herbert wird sichtbar zurückgerissen — Bindungssignatur #1 |
 | K4 | Das darf nicht sein | GEDANKE/ENTSCHLUSS | Nora: herausfinden, WAS ihn hält |
 | K5 | Wer Herbert war | STIMME/GERÄUSCH | Geräusch aus dem Schrank, unerklärlich |
-| K6 | Der Schrank | AKTION | Schrank verschlossen, kein Schlüssel im Haushalt |
+| K6 | Der Schrank | AKTION | Öffnungsversuch scheitert; Kälte eskaliert sichtbar — Atem wird sichtbar, Reif bildet sich von innen nach außen auf dem Holz |
 | K7 | Was Zuhören nicht lösen kann | DIALOG | Frau Brandt: „Warum reicht das nicht?" |
 | K8 | Die Frage an den Hausmeister | ERKENNTNIS | Wartung fand vor dem Einzug statt — vor Herberts Tod |
 | K9 | Nicht der Erste | BILD | Winziges Schloss-Symbol, in den Schrank geritzt |
@@ -69,3 +69,31 @@ BILD · KOMPLIKATION · OBJEKT+DIALOG · AKTION · SPANNUNG · BILD · OBJEKT ·
 **Ergebnis:** Register ist tragfähig. Einziger Beobachtungspunkt (K13/K14-Intensität) ist
 notiert, nicht korrigiert — echte Bewertung erst möglich, wenn die Szenen tatsächlich
 formuliert sind.
+
+---
+
+## ⚠️ Korrektur nach dem Schreiben von Akt 2 — K5/K6-Doppelung
+
+**Der Muster-Wächter hat einen Treffer übersehen.** K5 (STIMME/GERÄUSCH) und K6 (AKTION)
+sind als Typen verschieden und haben die Vorabprüfung deshalb passiert. **In der
+tatsächlichen Ausführung waren sie fast identisch:**
+
+| Beat | K5 (Erstfassung) | K6 (Erstfassung) |
+|---|---|---|
+| 1 | unerklärliches Geräusch aus dem Schrank | unerklärliches Geräusch aus dem Schrank |
+| 2 | „Alle drei erstarrten." | „Alle drei fuhren zurück." |
+| 3 | Schatten reagiert, „…auf den Schrank gerichtet" | Schatten reagiert, „…auf den Schrank gerichtet" |
+
+Erschwerend: Das Register sah für K6 gar kein Geräusch vor („Schrank verschlossen, kein
+Schlüssel im Haushalt") — der Schlag von innen war eine Zutat beim Schreiben, die den
+K5-Beat verdoppelt hat.
+
+**Behoben:** K6s Schluss auf ein rein visuelles, kinetisches Ereignis umgebaut (sichtbarer
+Atem + Reifbildung auf dem Holz). Kein Ton, kein Erstarren, keine Schatten-Fixierung —
+maximale Differenzierung zu K5. K5s Schlusszeile blieb **unangetastet** (Tabu-Liste:
+Cliffhanger-Schlusszeilen).
+
+**Lehre für die Restplanung (Akt 3/4):** Der Muster-Wächter darf nicht nur **Typen-Namen**
+vergleichen, sondern muss die **konkrete Beat-Abfolge** prüfen. Zwei verschieden benannte
+Cliffhanger können dieselbe Szene sein. Bei K13/K14 (bereits als Intensitäts-Risiko notiert)
+und bei K9/K10 (BILD → KOMPLIKATION, beide am Schrank) **vor dem Schreiben gegenprüfen**.
