@@ -810,7 +810,7 @@ Fließtext-Absatz war durch viele Nachträge unübersichtlich geworden):
 | S2-1 | ✅ [Kontinuitaet_S2-1.md](S2-1/Kontinuitaet_S2-1.md) | ✅ [Story_Outline_S2-1.md](S2-1/Story_Outline_S2-1.md) (3. Durchgang) | ✅ [Setup_Payoff](S2-1/Setup_Payoff_Tracker_S2-1.md) · [Cliffhanger](S2-1/Cliffhanger_Register_S2-1.md) · [Szenen](S2-1/Detaillierte_Szenenplanung_S2-1.md) | Herbert Lenz, Methode Zuhören, echter Sieg + Season-Haken |
 | S2-2 | ✅ [Kontinuitaet_S2-2.md](S2-2/Kontinuitaet_S2-2.md) | ✅ [Story_Outline_S2-2.md](S2-2/Story_Outline_S2-2.md) (2. Durchgang) | ✅ [Setup_Payoff](S2-2/Setup_Payoff_Tracker_S2-2.md) · [Cliffhanger](S2-2/Cliffhanger_Register_S2-2.md) · [Szenen](S2-2/Detaillierte_Szenenplanung_S2-2.md) | Grete, Methode Erinnern, Frieda unerkannt, ein Sieg + Dutzende offene Schlösser |
 | S2-3 | ✅ [Kontinuitaet_S2-3.md](S2-3/Kontinuitaet_S2-3.md) | ✅ [Story_Outline_S2-3.md](S2-3/Story_Outline_S2-3.md) | ✅ [Setup_Payoff](S2-3/Setup_Payoff_Tracker_S2-3.md) · [Cliffhanger](S2-3/Cliffhanger_Register_S2-3.md) · [Szenen](S2-3/Detaillierte_Szenenplanung_S2-3.md) | Ilse, Methode Vergeben, Doppel-Enthüllung (Halder + Frieda) |
-| S2-4 | ✅ [Kontinuitaet_S2-4.md](S2-4/Kontinuitaet_S2-4.md) | ⬜ | ⬜ | Marie sucht Clara (kollektiv befreit in Band 5) — kanonbegründet unlösbar, Grenzfall statt Sieg, Nora zweifelt an sich selbst, Frieda wankt erstmals |
+| S2-4 | ✅ [Kontinuitaet_S2-4.md](S2-4/Kontinuitaet_S2-4.md) | ✅ [Story_Outline_S2-4.md](S2-4/Story_Outline_S2-4.md) | ⬜ | Marie sucht Clara (kollektiv befreit in Band 5) — kanonbegründet unlösbar, Grenzfall statt Sieg, Nora zweifelt an sich selbst, Frieda wankt erstmals, bewusst keine 4. Methode (Zuhören wiederholt) |
 | S2-5 | ⬜ noch nicht begonnen | ⬜ | ⬜ | — |
 
 **Staffelweit:** [Hinweisketten_Tracker.md](Hinweisketten_Tracker.md) ✅ angelegt (Entscheidung
@@ -822,9 +822,9 @@ Reise-/Zeitpunkt-Übergang, der beim Schreiben eine kurze Überleitungszeile bra
 K10→K11, S2-2 K2→K3, S2-3 K8→K9) — evtl. ein serienweites Strukturmuster, bei S2-4/S2-5 im
 Blick behalten.
 
-**Nächster Schritt: S2-4, Phase 2 (Story-Outline + Mechanik-Prüfung)** — oder Phase 4
-(Kapitel schreiben) für S2-1/S2-2/S2-3, sobald die Aktivierungs-Checkliste (Abschnitt 1)
-erfüllt ist.
+**Nächster Schritt: S2-4, Phase 3 (Setup/Payoff-Tracker + Cliffhanger-Register +
+Detaillierte Szenenplanung)** — oder Phase 4 (Kapitel schreiben) für S2-1/S2-2/S2-3, sobald
+die Aktivierungs-Checkliste (Abschnitt 1) erfüllt ist.
 
 ---
 

@@ -50,7 +50,7 @@ reicht.
 | S2-1 bis S2-2 | — (Halders Vergangenheit ist noch kein Thema) | ✅ bestätigt: kein verfrühter Hinweis |
 | S2-3 K12 | ✅ **Umgesetzt:** Halder erzählt vom Feuer als gefestigte, nie hinterfragte Überzeugung (Mechanik-Prüfung S2-3, Punkt 6) — Nora erkennt in K12: „Er lügt nicht. Er glaubt das wirklich." Kein Zweifel von ihm selbst gesät, wie gefordert | geplant (`S2-3/Story_Outline_S2-3.md`) |
 | S2-3 K13 | Ilses eigene, abweichende Version der Geschichte ("Er hat mich nie gefragt, ob ich bleiben will") — erster, indirekter Riss in Halders Version, ohne dass die Wahrheit übers Feuer selbst schon infrage steht | geplant (`S2-3/Story_Outline_S2-3.md`) |
-| S2-4 | Vertiefung — vermutlich über Frieda, die mit dieser Geschichte aufgewachsen ist, aber selbst nie geprüft hat, ob sie stimmt | geplant |
+| S2-4 K11 | ✅ **Umgesetzt:** Frieda, nachdem sie Maries Wahrheits-Szene mit ansieht: „Ich habe ihn nie gefragt, ob es stimmt. Ich habe es einfach geglaubt." Erster Zweifel-Hinweis der Kette, explizit nur bei Frieda — kein Zweifel an der Tatsachenbehauptung übers Feuer selbst, nur daran, dass sie sie nie geprüft hat (hält die S2-3-Präzisierung oben ein) | geplant (`S2-4/Story_Outline_S2-4.md`) |
 | S2-5 | Frieda findet in Halders gehorteten Unterlagen den Beleg, dass der Grund banal/unabhängig war | geplant |
 
 **Wichtig (Lehre aus Band 5, Abschnitt „Faire-Hinweis-Ketten"):** Die Kette darf nicht zu
