@@ -55,10 +55,13 @@ wie lange es das schon gibt.
    eine wachsame Person sind Halders einzige Sicherung, und genau das reicht fast.
 
 4. **Warum lässt Frieda die Kinder überhaupt EINEN Geist befreien, bevor sie eingreift?**
-   Sie ist nicht die ganze Zeit anwesend, und selbst als sie es bemerkt, zögert sie kurz —
-   ein erster, kleiner Riss in ihrer Überzeugung (bewusst gesät, siehe
-   `../Hinweisketten_Tracker.md`). Sie greift erst ein, als ein **zweites** Schloss
-   angegangen wird — das liest sich als Eskalation ihrerseits, nicht als Beliebigkeit.
+   ⚠️ **Präzisiert (2. Durchgang):** Sie ist **von Anfang an anwesend und beobachtet die
+   gesamte Grete-Befreiung**, ohne einzugreifen (K8s "beobachtet, ohne es zu merken" ist
+   sie) — ein bewusst starker, erster Riss in ihrer Überzeugung, nicht bloßes Zuspätkommen.
+   Sie sieht eine vollständige Befreiung mit an und lässt sie geschehen. Erst beim
+   **zweiten** Schloss greift sie ein — das liest sich als eine gezogene Grenze, nicht als
+   Beliebigkeit: einen Geist gehen zu sehen, den sie nicht kannte, ist etwas anderes für
+   sie, als tatenlos zuzusehen, wie systematisch weitergemacht wird.
 
 5. **Warum reagiert Schatten nicht alarmiert AUF Frieda selbst?** Er ist ein
    Frühwarnsystem für Übernatürliches und Gefahr — Frieda ist ein ganz normaler, wenn auch
@@ -195,10 +198,13 @@ zum Öffnen an — und werden beobachtet, ohne es zu merken.
 ## AKT 3 — Der Sieg und die Grenze (K9–12)
 
 ### Kapitel 9 – „Erinnern"
-Anwendung der Methode Erinnern auf Grete — ihre Geschichte wird lebendig erzählt/gezeigt
-(Serien-Muster: entdecken statt vortragen). **Schatten:** ruhig, konzentriert bei Grete.
-**Humor:** ein warmer, kein komischer Beat (Ausnahme erlaubt). **Cliffhanger [BILD]:** Das
-Schloss beginnt sich zu öffnen — es funktioniert.
+⚠️ **Ergänzt (2. Durchgang):** Ab hier beobachtet Frieda die Kinder bereits, unbemerkt
+(Payoff von K8s Cliffhanger) — im Text nicht gezeigt, aber beim Schreiben mitzudenken
+(Perspektive bleibt bei Nora, die es nicht merkt). Anwendung der Methode Erinnern auf
+Grete — ihre Geschichte wird lebendig erzählt/gezeigt (Serien-Muster: entdecken statt
+vortragen). **Schatten:** ruhig, konzentriert bei Grete. **Humor:** ein warmer, kein
+komischer Beat (Ausnahme erlaubt). **Cliffhanger [BILD]:** Das Schloss beginnt sich zu
+öffnen — es funktioniert.
 
 ### Kapitel 10 – „Sie geht" (echter Sieg)
 Grete wird befreit — kurzer, würdevoller Abschied, echter Erfolg. **Schatten:** entspannt
@@ -207,9 +213,12 @@ Moment. **Cliffhanger [BILD]:** Kaum ist Grete gegangen, wenden sie sich dem nä
 Schloss zu — und eine Stimme stoppt sie.
 
 ### Kapitel 11 – „Das Mädchen"
-Erster Auftritt Friedas (unerkannt) — misstrauisch, warnt sie weg, gibt wenig von sich
-preis. ⚠️ Strikt nach `Kontinuitaet_S2-2.md`-Regel: Vorname erlaubt, kein Nachname, keine
-Halder-Verbindung erkennbar. **Schatten:** reagiert NICHT alarmiert auf sie selbst
+⚠️ **Ergänzt (2. Durchgang):** Frieda tritt jetzt erst hervor — aber sie war die ganze Zeit
+da, hat Gretes gesamte Befreiung mit angesehen und nichts unternommen (Mechanik Punkt 4).
+Das darf beiläufig durchscheinen (z. B. "Wie lange stehst du da schon?"), ohne dass sie es
+erklärt. Erster Auftritt Friedas (unerkannt) — misstrauisch, warnt sie weg, gibt wenig von
+sich preis. ⚠️ Strikt nach `Kontinuitaet_S2-2.md`-Regel: Vorname erlaubt, kein Nachname,
+keine Halder-Verbindung erkennbar. **Schatten:** reagiert NICHT alarmiert auf sie selbst
 (Mechanik Punkt 5) — bleibt neutral/beobachtend. **Humor:** Theo versucht sein
 Charme-Register, scheitert erkennbar. **Cliffhanger [DIALOG]:** Frieda: "Ihr wisst nicht,
 was ihr da tut. Geht. Jetzt."
@@ -239,12 +248,14 @@ S2-3 vorbehalten). **Schatten:** keine besondere Reaktion beim Gespräch über F
 dass wir nicht verstehen."
 
 ### Kapitel 15 – „Was sie wissen"
-Die Kinder ordnen alles neu: ein System, viele Geister, ein Mädchen, das es bewacht — und
-noch immer kein Gesicht für den Verantwortlichen. **Schatten:** ruhig, Pflichtreaktion
-erfüllt (z. B. legt sich zufrieden nach dem anstrengenden Tag hin). **Humor:** ein
-familiärer, wärmender Moment zum Ausklang. **Cliffhanger [OBJEKT]:** Ein zweites,
-identisches Schloss — Grete hatte eins bei sich getragen, das sie den Kindern beim Abschied
-zusteckte, jetzt liegt es auf dem Tisch.
+⚠️ **Bereinigt (2. Durchgang):** Das zuvor hier geplante "zweite Schloss" gestrichen — kein
+Setup dafür vorhanden (weder bei Gretes Einführung K7 noch bei ihrer Befreiung K9/K10),
+reines Ballast-Objekt ohne Zweck. Die Kinder ordnen stattdessen alles neu: ein System,
+viele Geister, ein Mädchen, das es bewacht — und noch immer kein Gesicht für den
+Verantwortlichen. **Schatten:** ruhig, Pflichtreaktion erfüllt (z. B. legt sich zufrieden
+nach dem anstrengenden Tag hin). **Humor:** ein familiärer, wärmender Moment zum Ausklang.
+**Cliffhanger [GEDANKE/ENTSCHLUSS]:** Nora fasst zusammen, was als Nächstes zu klären ist —
+wer dieses Mädchen ist, und wer über ihr steht.
 
 ### Kapitel 16 – „Nicht allein" (EPILOG, ABSCHLUSS AKT 4)
 Ruhiger Ausklang, aber mit deutlich weniger Frieden als S2-1s Schluss — passend zur

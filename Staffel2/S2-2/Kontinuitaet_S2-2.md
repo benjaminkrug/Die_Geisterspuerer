@@ -157,16 +157,20 @@ eine erkennbare Verbindung zum Sammel-Knoten-Betreiber.
 
 - Wer Frieda wirklich ist (S2-3).
 - Wer Halder ist, sein Motiv, sein Aussehen (S2-3).
-- ✅ **Entschieden (2026-08-07):** S2-2 endet mit **genau EINEM** befreiten Geist aus der
-  Werkstatt — echter, kleiner Sieg, hält das Serien-Muster „jeder Band schließt seinen Fall
-  ab" (Entscheidungs-Log #12) ein. Danach **unterbricht Frieda** die Kinder, bevor sie
-  weitere Schlösser öffnen können — nicht aus Bosheit, sondern aus ihrer eigenen (noch
-  unverstandenen) Schutz-Überzeugung. Begründet zugleich, warum „Schloss-für-Schloss"
-  nicht einfach wiederholt wird: **gezeigt, nicht nur behauptet.** Dutzende weitere
-  Schlösser bleiben sichtbar zurück — der eigentliche Schreckensmoment des Bandes.
-  **Bonus:** Friedas Unterbrechung ist selbst ein fairer, früher Hinweis auf ihren späteren
-  Charakter (sie „schützt" auf ihre Art, wie ihr Vater) — in
-  `../Hinweisketten_Tracker.md`, Kette 1, nachgetragen.
+- ✅ **Entschieden (2026-08-07), präzisiert im 2. Durchgang der Phase-2-Prüfung:** S2-2
+  endet mit **genau EINEM** befreiten Geist aus der Werkstatt — echter, kleiner Sieg, hält
+  das Serien-Muster „jeder Band schließt seinen Fall ab" (Entscheidungs-Log #12) ein.
+  ⚠️ **Frieda ist dabei von Anfang an anwesend und beobachtet die gesamte Befreiung**, ohne
+  einzugreifen — kein bloßes Zuspätkommen, sondern ein bewusst gezeigter, starker erster
+  Riss in ihrer Überzeugung. Erst beim **zweiten** Schloss greift sie ein und drängt die
+  Kinder hinaus — nicht aus Bosheit, sondern aus ihrer eigenen (noch unverstandenen)
+  Schutz-Überzeugung. Begründet zugleich, warum „Schloss-für-Schloss" nicht einfach
+  wiederholt wird: **gezeigt, nicht nur behauptet.** Dutzende weitere Schlösser bleiben
+  sichtbar zurück — der eigentliche Schreckensmoment des Bandes.
+  **Bonus:** Dass Frieda eine ganze Befreiung mit ansieht und zulässt, ist ein starker,
+  fairer, früher Hinweis auf ihren späteren Charakter (sie „schützt" auf ihre Art, wie ihr
+  Vater, aber ist nicht gefühllos) — in `../Hinweisketten_Tracker.md`, Kette 1,
+  nachgetragen.
 
 ### Serie / separat
 
