@@ -804,11 +804,16 @@ nur **Hintergrundwissen der Figuren** bleibt (Kontinuität, nicht ausgesprochen)
 
 **Nächster Schritt:** Phase 1 für S2-1 ✅ [Staffel2/S2-1/Kontinuitaet_S2-1.md](S2-1/Kontinuitaet_S2-1.md).
 Phase 2 ✅ [Staffel2/S2-1/Story_Outline_S2-1.md](S2-1/Story_Outline_S2-1.md) — Buchkonzept,
-Mechanik-/Physik-Prüfung (8 Regeln, bestätigt), alle offenen Outline-Entscheidungen fixiert
-(Fall: Herbert Lenz/Frau Brandt; Zeitabstand ~3 Monate; Schrank-Schloss; 16 Kapitel/4 Akte)
-und die vollständige 16-Kapitel-Liste mit Kernszene/Schatten/Humor/Cliffhanger je Kapitel.
-Übergangs-Gesamtprüfung nur vorläufig — vollständig erst in Phase 3. **Nächster Schritt:
-Phase 3 — Setup/Payoff-Tracker, Cliffhanger-Register, Detaillierte Szenenplanung für S2-1.**
+Mechanik-/Physik-Prüfung, 16-Kapitel-Liste, im zweiten Durchgang um vier Logikfixes bereinigt
+(u. a. ein echter Zeitlinien-Widerspruch bei Herberts Todes-/Ankunftsdatum).
+Phase 3 ✅ [Setup_Payoff_Tracker_S2-1.md](S2-1/Setup_Payoff_Tracker_S2-1.md) (12 Band-Setups
+gemappt, 2 bewusst offene Staffel-Fäden markiert) ·
+[Cliffhanger_Register_S2-1.md](S2-1/Cliffhanger_Register_S2-1.md) (16 Cliffhanger, keine
+zwei Typen in Folge gleich) ·
+[Detaillierte_Szenenplanung_S2-1.md](S2-1/Detaillierte_Szenenplanung_S2-1.md) (Szenen pro
+Kapitel, 14/15 Übergänge lösen sofort auf, einer mit vermerkter Überleitungs-Auflage).
+**Nächster Schritt: Phase 4 — Kapitel schreiben.** Wartet laut Aktivierungs-Checkliste
+(Abschnitt 1) weiterhin auf Marktdaten, bevor tatsächlich Prosa entsteht.
 
 ---
 
