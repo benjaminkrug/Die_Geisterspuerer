@@ -1,4 +1,4 @@
-# Detaillierte Szenenplanung — S2-4 "Das Zimmer, das sich erinnert"
+# Detaillierte Szenenplanung — S2-4 "Der Park, der nicht vergisst"
 
 > Phase 3 von 6 (`PLAN_Staffel2.md` Abschnitt 15). Format wie
 > `S2-3/Detaillierte_Szenenplanung_S2-3.md`. Noch kein Fließtext. ⚠️ Beim Erstellen dieser

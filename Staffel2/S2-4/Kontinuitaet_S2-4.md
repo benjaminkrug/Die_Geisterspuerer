@@ -1,4 +1,4 @@
-# Kontinuitäts-Tracker — S2-4 "Das Zimmer, das sich erinnert"
+# Kontinuitäts-Tracker — S2-4 "Der Park, der nicht vergisst"
 
 > **Vor JEDEM Kapitel lesen.** Sichert Stil + Kanon-Konsistenz über die ganze Reihe.
 > Konzept-Grundlage: [../PLAN_Staffel2.md](../PLAN_Staffel2.md) (Abschnitt 6 = Bogen,

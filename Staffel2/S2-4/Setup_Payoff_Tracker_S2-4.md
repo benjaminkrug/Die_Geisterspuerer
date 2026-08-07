@@ -1,4 +1,4 @@
-# Setup & Payoff Tracker — S2-4 "Das Zimmer, das sich erinnert"
+# Setup & Payoff Tracker — S2-4 "Der Park, der nicht vergisst"
 
 > Phase 3 von 6 (`PLAN_Staffel2.md` Abschnitt 15). Format wie
 > `S2-3/Setup_Payoff_Tracker_S2-3.md`.

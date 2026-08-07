@@ -1,4 +1,4 @@
-# Story-Outline — S2-4 "Das Zimmer, das sich erinnert"
+# Story-Outline — S2-4 "Der Park, der nicht vergisst"
 
 > **Vor dem Schreiben:** [../PLAN_Staffel2.md](../PLAN_Staffel2.md) (Abschnitt 6, 14) +
 > [Kontinuitaet_S2-4.md](Kontinuitaet_S2-4.md) +

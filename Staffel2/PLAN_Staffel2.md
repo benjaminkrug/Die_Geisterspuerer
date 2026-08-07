@@ -289,7 +289,7 @@ verschwand – jemand arbeitete gegen sie".)
 | **S2-1** (freier Einstieg) | „Der Gast, der blieb" | Ein neuer Geist – aber er verhält sich *falsch*: Die Kinder wenden ihre Methode an (zuhören), und er kann trotzdem nicht gehen. Etwas hält ihn (die Bindungssignatur). Führt die neue Prämisse ein (jemand brachte den Fall zu ihnen). Nora/Theo/Schatten voll neu etabliert. **Ende:** Die Kinder finden den physischen Anker (ein winziges Schloss) und befreien den Geist — echter Sieg —, aber die größere Erkenntnis bleibt offen: Die Bindung war Absicht, jemand tut das systematisch. | 6/10 |
 | **S2-2** | „Die Uhr, die rückwärts läuft" | Die Spur führt zu einer alten Uhrmacher-/Schlosserwerkstatt — ein „Sammel-Knoten" mit *vielen* gebundenen Geistern. Schatten reagiert erstmals überwältigt (mehrere Präsenzen zugleich). Die Kinder begreifen: Es gibt einen Gegen-Hüter, und Schloss-für-Schloss-Befreien skaliert nicht. Ein unbekanntes Mädchen (Frieda, unerkannt) taucht am Ort auf. | 6–7/10 |
 | **S2-3** | „Die Frau, die niemand gehen ließ" | Der Antagonist wird persönlich — nutzt seine Handwerker-Tarnung für legitimen Zugang zur Familie (Dread durch Nähe, nicht Gewalt). Zeigt den Kindern einen gebundenen Geist als „Beweis" seiner Überzeugung. Doppel-Enthüllung: wer er ist (Anton Halder) — **und** dass Frieda seine Tochter ist. | 7–8/10 |
-| **S2-4** | „Das Zimmer, das sich erinnert" | Der dunkelste Band, aus zwei unabhängigen Quellen: (1) ein Geist, den die Kinder mit der *richtigen* Methode trotzdem nicht retten können — ein echter, kanonbegründeter Grenzfall, bewusst **nicht** Halders Werk, damit „Empathie reicht nicht immer" nicht zur Ausrede wird; (2) Halder fängt parallel einen weiteren Geist ab. Nora zweifelt an der Rolle, Friedas Loyalität gerät ins Wanken. | 8/10 |
+| **S2-4** | „Der Park, der nicht vergisst" | Der dunkelste Band, aus zwei unabhängigen Quellen: (1) ein Geist, den die Kinder mit der *richtigen* Methode trotzdem nicht retten können — ein echter, kanonbegründeter Grenzfall, bewusst **nicht** Halders Werk, damit „Empathie reicht nicht immer" nicht zur Ausrede wird; (2) Halder fängt parallel einen weiteren Geist ab. Nora zweifelt an der Rolle, Friedas Loyalität gerät ins Wanken. | 8/10 |
 | **S2-5** (Finale) | „Der letzte Schlüssel" | Rückkehr zur Werkstatt aus S2-2. Frieda findet in Halders eigenen, jahrzehntelang gehorteten Unterlagen den Beweis, dass das Feuer einen banalen, unabhängigen Grund hatte — sie, nicht die Kinder, bringt ihn zur Konfrontation mit der Wahrheit. Er öffnet die Werkstatt selbst; alle dort gebundenen Geister werden frei. Sein weiteres Schicksal bleibt bewusst offen (möglicher Staffel-3-Faden). | 8–9/10 |
 
 ### ★ S2-1 — Konzept bestätigt (2026-08-07)
@@ -336,7 +336,11 @@ der Werkstatt Dutzende identischer Schlösser finden.
 Von den verbleibenden Platzhaltern gewählt, weil Gebunden-Sein Stillstand bedeutet — eine
 rückwärtslaufende Uhr ist dieses Bild konkret und kindgerecht, ohne das Wort „gebunden"
 auszusprechen. „Das Zimmer, das sich erinnert" wäre hier zu nah an Fabers magischem Zimmer
-aus Band 4 gewesen — für S2-4 aufgehoben (siehe unten), wo es besser passt.
+aus Band 4 gewesen — ursprünglich für S2-4 aufgehoben. ⚠️ **Revidiert bei der
+Konsistenzprüfung nach S2-4s Phase-1–3-Planung (2026-08-07):** Die tatsächliche
+S2-4-Handlung (Marie sucht Clara im Stadtpark) enthält kein Zimmer — der Titel wurde nie
+in die Handlung eingebaut. Ersetzt durch „Der Park, der nicht vergisst" (Details:
+S2-4-Konzept unten), das dieselbe Erinnerungs-Idee am tatsächlichen Schauplatz einlöst.
 
 **Der Ort:** eine alte Uhrmacher- und Schlosserwerkstatt, die Halder als Tarnung und Lager
 nutzt — erweitert seine Schlosser-Tarnung aus Abschnitt 6 organisch, statt einen zweiten,
@@ -372,11 +376,17 @@ in Abschnitt 8 gefordert.
 Werkstatt aus S2-2 identifiziert) — **und** dass Frieda seine Tochter ist. ⚠️ Ersetzt die
 alte Vorgabe „seine Verbindung zu Silber" (Abschnitt 6: bewusst verworfen, Regel 3).
 
-### ★ S2-4 — Konzept bestätigt (2026-08-07)
+### ★ S2-4 — Konzept bestätigt (2026-08-07, Titel revidiert 2026-08-07)
 
-**Arbeitstitel: „Das Zimmer, das sich erinnert"**
-Der letzte reguläre Platzhalter, hier aufgehoben statt bei S2-2, weil das Bild — ein Raum,
-der an etwas festhält — genau zum unlösbaren Fall dieses Bandes passt.
+**Titel: „Der Park, der nicht vergisst"**
+⚠️ **Ersetzt den ursprünglichen Arbeitstitel „Das Zimmer, das sich erinnert".** Der war
+gewählt worden, bevor die tatsächliche Handlung (Phase 1–3) feststand, und ging von einem
+Raum aus, der an etwas festhält. Die fertige Handlung spielt vollständig im Stadtpark — dort
+sucht Marie ihre Schwester Clara, dort endet sie „wartend, nicht mehr suchend"
+(`S2-4/Story_Outline_S2-4.md` K14). Der neue Titel überträgt genau dasselbe Bild
+(ein Ort, der etwas festhält, das nicht mehr da ist) auf den tatsächlichen Schauplatz, statt
+Titel und Handlung auseinanderlaufen zu lassen. Passt außerdem zum etablierten
+Titel-Muster „Ort, der [Verb]" (wie S2-2 „Die Uhr, die rückwärts läuft").
 
 **★ Bewusste Trennung des Tiefpunkts von Halder:** Der gescheiterte Fall dieses Bandes ist
 **nicht** von Halder gebunden. Begründung: Ginge jeder Fehlschlag auf den Antagonisten
@@ -541,11 +551,15 @@ Bänden zugeordnet (2026-08-07)** — Details und Begründung je Band in Abschni
 | „Der Gast, der blieb" | S2-1 |
 | „Die Uhr, die rückwärts läuft" | S2-2 |
 | „Die Frau, die niemand gehen ließ" | S2-3 |
-| „Das Zimmer, das sich erinnert" | S2-4 |
+| „Der Park, der nicht vergisst" | S2-4 |
 | „Der letzte Schlüssel" | S2-5 (Finale) |
 
 Weiterhin **Arbeitstitel**, nicht final — endgültig erst bei Detailplanung des jeweiligen
-Bands.
+Bands. ⚠️ **Bestätigt durch S2-4:** Genau dieser Vorbehalt bewahrheitete sich — der
+ursprüngliche S2-4-Titel wurde erst nach Abschluss von Phase 1–3 als unpassend zur
+tatsächlichen Handlung erkannt und ersetzt (s. o.). Alle fünf Titel sind jetzt mit
+abgeschlossener Phase-1–3-Planung unterlegt, aber erst beim tatsächlichen Schreiben
+(Phase 4) endgültig zu bestätigen.
 
 **Cover — Konzept ausgearbeitet (2026-08-07):** Baut vollständig auf
 [Dokumentation/Cover_Reihenstandard.md](../Dokumentation/Cover_Reihenstandard.md) auf
@@ -610,7 +624,7 @@ weg, wenn Halder die Werkstatt öffnet.
 | S2-1 „Der Gast, der blieb" | fremde Altbauwohnung, Geist als „Gast" gefangen | kühles Graphit-/Schiefergrau | Bernstein + blasser, kalter Leine-Lichtfaden |
 | S2-2 „Die Uhr, die rückwärts läuft" | Uhrmacher-/Schlosserwerkstatt | gedämpftes Messing/Kupfer | Bernstein + viele kleine kalte Lichtpunkte |
 | S2-3 „Die Frau, die niemand gehen ließ" | unnatürlich konservierte alte Wohnung | verblasstes Staubrosa/Ocker | Bernstein + kalter Leine-Faden um die gebundene Gestalt |
-| S2-4 „Das Zimmer, das sich erinnert" | eingefrorenes Erinnerungszimmer | kaltes Taubenblau-Grau | Bernstein + ein einzelnes warmes, unerreichbares Licht |
+| S2-4 „Der Park, der nicht vergisst" | nächtlicher Stadtpark, zwischen den Bäumen (⚠️ korrigiert von „eingefrorenes Erinnerungszimmer" — Titel/Ort-Umbenennung, s. Abschnitt 6) | kaltes Taubenblau-Grau | Bernstein + ein einzelnes warmes, unerreichbares Licht (jetzt ein reales Element der Parkszene — z. B. eine ferne Laterne — statt eines Zimmer-Details) |
 | S2-5 „Der letzte Schlüssel" (Finale) | Rückkehr zur Werkstatt, jetzt geöffnet | warmes Kupfer, aufbrechend zu Licht | Bernstein + viele befreite, warme Lichtpunkte — kein Leine-Faden mehr |
 
 Cover-Build-Skripte aus Staffel 1 wiederverwendbar
@@ -665,7 +679,7 @@ die Staffel 2 später abholt.
 | 10 | Name & Alter der neuen Figur | **Frieda Halder, 12** | „Frieda" = Friede, Ironie zum Vater; Details in Abschnitt 9 |
 | 11 | Einführung der neuen Figur | **Gestaffelt:** unerkannt ab S2-2, Enthüllung als Tochter in S2-3, entscheidende Rolle im Finale S2-5 | Erzeugt einen echten Wendepunkt statt eines erwarteten Auftritts; gibt Theo eine wachsende Beziehung vor der Enthüllung |
 | 12 | Wie S2-1 endet | **Physischer Anker (ein Schloss)**, den die Kinder finden und öffnen — Geist wird befreit, größere Erkenntnis bleibt offen | Bewahrt das Staffel-1-Muster „jeder Band schließt seinen Fall" gerade im wichtigsten (freien) Einstiegsband; erklärt zugleich, warum die Lösung nicht auf die ganze Staffel skaliert |
-| 13 | Titel-Zuordnung S2-2 bis S2-5 | „Die Uhr, die rückwärts läuft" (S2-2) · „Die Frau, die niemand gehen ließ" (S2-3) · „Das Zimmer, das sich erinnert" (S2-4) · „Der letzte Schlüssel" (S2-5) | Details je Band in Abschnitt 6; Tabelle in Abschnitt 10 |
+| 13 | Titel-Zuordnung S2-2 bis S2-5 | „Die Uhr, die rückwärts läuft" (S2-2) · „Die Frau, die niemand gehen ließ" (S2-3) · ~~„Das Zimmer, das sich erinnert"~~ „Der Park, der nicht vergisst" (S2-4, revidiert — s. #26) · „Der letzte Schlüssel" (S2-5) | Details je Band in Abschnitt 6; Tabelle in Abschnitt 10 |
 | 14 | Tiefpunkt in S2-4 | **Bewusst nicht Halders Werk** — ein echter, kanonbegründeter Grenzfall | Verhindert, dass „Empathie reicht nicht immer" zur Ausrede wird; Nora zweifelt an sich selbst, nicht am Gegner |
 | 15 | Auflösung in S2-5 | **Frieda** legt Halder Beweise vor (nicht Nora/Theo, nicht Kampf) | Zahltag von Friedas Bogen; hält „Empathie schlägt Kampf" ein, ohne dass die Kinder ihn „besiegen" |
 
@@ -810,6 +824,7 @@ spart das erneute Suchen/Finden desselben Musters bei S2-5.
 | 23 | Reihenfolge Phase 1 vs. 2 | **Kontinuität VOR Story-Outline** (korrigiert gegenüber einem vorherigen Vorschlag in diesem Chat) | Entspricht der tatsächlichen Band-4/5-Praxis, nicht einer verkürzten Annahme |
 | 24 | Staffelweiter Hinweisketten-Tracker | Neue Datei `Staffel2/Hinweisketten_Tracker.md`, spätestens vor S2-2 anlegen | Frieda- und Feuer-Twist spannen sich über mehrere Bände, brauchen bandübergreifende Prüfung |
 | 25 | Neuleser-Spalte in S2-1-Kontinuität | Nur für S2-1, kein Serienstandard | Einziger Band mit dem Nora/Theo-wissen-vs-Text-erklärt-Konflikt |
+| 26 | S2-4-Titel korrigiert | „Das Zimmer, das sich erinnert" → **„Der Park, der nicht vergisst"** | Konsistenzprüfung nach Abschluss von S2-4s Phase 1–3 fand: kein Zimmer kommt in der fertigen Handlung vor (spielt vollständig im Stadtpark). Neuer Titel überträgt dieselbe Erinnerungs-Idee auf den tatsächlichen Ort, statt Titel und Handlung auseinanderlaufen zu lassen; Nutzerentscheidung 2026-08-07 (Option B: Titel/Cover anpassen, kein Zimmer nachträglich einbauen) |
 
 **Produktionsstand je Band** (umgebaut in eine Tabelle 2026-08-07 — der vorherige
 Fließtext-Absatz war durch viele Nachträge unübersichtlich geworden):

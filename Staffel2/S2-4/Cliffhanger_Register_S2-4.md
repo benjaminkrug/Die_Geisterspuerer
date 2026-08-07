@@ -1,4 +1,4 @@
-# Cliffhanger-Register — S2-4 "Das Zimmer, das sich erinnert"
+# Cliffhanger-Register — S2-4 "Der Park, der nicht vergisst"
 
 > Phase 3 von 6 (`PLAN_Staffel2.md` Abschnitt 15). Format wie
 > `S2-3/Cliffhanger_Register_S2-3.md`. Übernimmt die vorläufige Typenfolge aus
