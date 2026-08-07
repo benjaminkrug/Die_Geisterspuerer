@@ -222,12 +222,15 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
 
 - **K1:** Februar-Nachmittag, drei Monate nach Band 5. Frau Brandt klopft an, Nora sagt zu,
   den Fall zu übernehmen.
+- **K2:** Direkter Anschluss, selber Nachmittag. Frau Brandt erzählt bei Nora zuhause von
+  Herbert; anschließend gehen alle drei zur Wohnung der Brandts (~10 Min. entfernt). Erste
+  Sichtung im Türspalt des Schrankzimmers.
 
 ---
 
 ## AKT-FORTSCHRITT
 
-- 🟨 Akt 1 (K1–4) — in Arbeit: K1 ✅ geschrieben, K2–K4 offen
+- 🟨 Akt 1 (K1–4) — in Arbeit: K1 ✅, K2 ✅ geschrieben, K3–K4 offen
 - ⬜ Akt 2 — noch nicht geschrieben
 - ⬜ Akt 3 — noch nicht geschrieben
 - ⬜ Akt 4 — noch nicht geschrieben
@@ -239,6 +242,7 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
 | Kapitel | Wörter (gesamt) | Dialog-Anteil (grob) | Ziel 35–45 %? |
 |---|---|---|---|
 | K1 | ~1.170 | Hoch — Großteil des zweiten Halbkapitels ist direkte Rede | ✅ im Zielbereich |
+| K2 | ~1.100 | Hoch — fast durchgehend Dialog zwischen Nora/Theo/Frau Brandt | ✅ im Zielbereich |
 
 ---
 

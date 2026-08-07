@@ -32,7 +32,7 @@ geerbtes.
 |---|---|---|---|
 | 1 | Frau Held erwähnt als Grund, warum Frau Brandt weiß, an wen sie sich wendet (K1) | Eröffnet den ganzen Fall — Payoff ist die Prämisse selbst | ✅ K1 geschrieben |
 | 2 | Schatten knurrt Richtung Treppenhaus, bevor die Tür überhaupt offen ist (K1) | Bestätigt sich, als Frau Brandts Anliegen sich als real herausstellt (K2) | ✅ K1 geschrieben, Setup gepflanzt |
-| 3 | Erste Gestalt im Türspalt (K2) | Vollständig sichtbar bei Herberts erstem Zuhören-Versuch (K3) | geplant |
+| 3 | Erste Gestalt im Türspalt (K2) | Vollständig sichtbar bei Herberts erstem Zuhören-Versuch (K3) | ✅ K2 geschrieben, Setup gepflanzt |
 | 4 | Bindungssignatur (Rückriss) zum ersten Mal (K3) | Verstanden + überwunden (K13) | geplant |
 | 5 | Noras Entschluss „WAS hält ihn, nicht nur WARUM" (K4) | Beantwortet durch das gefundene Schloss (K9–10) | geplant |
 | 6 | Schrank als auffälliges Detail (K6, verschlossen ohne Schlüssel) | Enthält den physischen Anker (K9–10), wird geöffnet (K13) | geplant |
