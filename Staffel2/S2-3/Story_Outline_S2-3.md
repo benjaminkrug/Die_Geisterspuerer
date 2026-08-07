@@ -198,10 +198,14 @@ Nervosität abzubauen. **Cliffhanger [BILD]:** Ein Fenster, hinter dem sich etwa
 das nicht Halder ist.
 
 ### Kapitel 10 – „Entdeckt"
-Halder bemerkt sie — kein Wutausbruch, stattdessen ruhige, fast einladende Reaktion.
-**Schatten:** knurrt, hält aber Abstand, keine Eskalation. **Humor:** keiner — Spannung
-trägt das Kapitel. **Cliffhanger [DIALOG]:** Halder: "Ihr wollt wissen, warum ich das tue?
-Dann zeig ich's euch."
+⚠️ **Cliffhanger-Typ korrigiert (Phase-3-Check):** ursprünglich [DIALOG], kollidierte direkt
+mit K11 (beide Male Halder spricht). Jetzt [AKTION] — er antwortet wortlos, dreht sich um
+und geht auf eine Tür zu; die Kinder folgen, bevor sie sich dagegen entscheiden können.
+Spart seine erste tatsächliche Zeile für K11 auf, wo sie mehr Gewicht hat. Halder bemerkt
+sie — kein Wutausbruch, stattdessen ruhige, fast einladende Reaktion. **Schatten:** knurrt,
+hält aber Abstand, keine Eskalation. **Humor:** keiner — Spannung trägt das Kapitel.
+**Cliffhanger [AKTION]:** Ohne ein Wort dreht er sich um und geht auf eine Tür zu — sie
+folgen ihm, bevor sie sich dagegen entscheiden können.
 
 ### Kapitel 11 – „Ilse"
 Er zeigt ihnen Ilse — gebunden, aber äußerlich "sicher", "gut behandelt". Erste Bruchstücke

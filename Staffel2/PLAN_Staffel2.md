@@ -837,9 +837,15 @@ Fäden: Theo sieht Frieda mit Halder, Nora erkennt seinen Namen aus den eigenen
 S2-2-Notizen wieder — dafür ein Setup rückwirkend in `S2-2/Setup_Payoff_Tracker_S2-2.md`
 nachgetragen), 16-Kapitel-Liste mit Ilse als drittem, per **Vergeben** befreitem Geist der
 Staffel (volle Methoden-Vielfalt: Zuhören/S2-1, Erinnern/S2-2, Vergeben/S2-3). Beide
-Hinweisketten in `Hinweisketten_Tracker.md` bis hierhin nachgetragen. **Nächster Schritt:
-S2-3, Phase 3 (Szenenplanung + Tracker)** — oder Phase 4 (Kapitel schreiben) für S2-1/S2-2,
-sobald die Aktivierungs-Checkliste (Abschnitt 1) erfüllt ist.
+Hinweisketten in `Hinweisketten_Tracker.md` bis hierhin nachgetragen. S2-3, Phase 3 ✅ [Setup_Payoff_Tracker_S2-3.md](S2-3/Setup_Payoff_Tracker_S2-3.md) ·
+[Cliffhanger_Register_S2-3.md](S2-3/Cliffhanger_Register_S2-3.md) (eine Typenkollision
+K10/K11 gefunden und behoben) ·
+[Detaillierte_Szenenplanung_S2-3.md](S2-3/Detaillierte_Szenenplanung_S2-3.md) (14/15
+Übergänge lösen sofort auf). ⚠️ **Beobachtung:** Alle drei bisherigen Bände haben je einen
+Reise-/Zeitpunkt-Übergang, der eine kurze Überleitungszeile braucht (S2-1 K10→K11, S2-2
+K2→K3, S2-3 K8→K9) — evtl. ein serienweites Muster, bei S2-4/S2-5 im Blick behalten.
+**Nächster Schritt: S2-4, Phase 1 (Kontinuität)** — oder Phase 4 (Kapitel schreiben) für
+S2-1/S2-2/S2-3, sobald die Aktivierungs-Checkliste (Abschnitt 1) erfüllt ist.
 
 ---
 
