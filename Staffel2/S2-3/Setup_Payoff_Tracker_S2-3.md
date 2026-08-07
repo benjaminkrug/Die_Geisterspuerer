@@ -47,7 +47,7 @@ aber sein voller Wahrheitsgehalt bleibt staffelweit offen bis S2-5. Konsistent m
 | Doppel-Enthüllung (K6–K7): Halders Identität + Friedas Tochter-Status | Trägt den Rest der Staffel; Friedas Konflikt vertieft sich S2-4 |
 | Halders Feuer-Erzählung als feste Überzeugung (K12) | S2-5: Frieda findet Beweise, dass sie falsch/unvollständig ist |
 | Ilses abweichende Version („Er hat mich nie gefragt", K13) | Erster indirekter Riss in Halders Erzählung — Payoff in S2-5, wenn die volle Wahrheit ans Licht kommt |
-| „Jetzt weiß er, dass wir es wissen" (K16) | S2-4: Halder agiert mit vollem Wissen über die Kinder — erklärt, warum er dort persönlicher/aggressiver in seiner Überzeugung wird |
+| „Jetzt weiß er, dass wir es wissen" (K16) | ⚠️ **Korrigiert bei S2-4-Planung (Phase 3):** Halder agiert mit vollem Wissen über die Kinder — wird dadurch **vorsichtiger, nicht aggressiver**: Er sichert seinen neuen Fund ab und vermeidet eine zweite Konfrontation, die er wieder verlieren könnte (`S2-4/Story_Outline_S2-4.md`, Mechanik Punkt 6) |
 
 ---
 

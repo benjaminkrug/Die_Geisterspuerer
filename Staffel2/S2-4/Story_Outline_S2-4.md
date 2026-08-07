@@ -59,14 +59,22 @@ Sache, die scheitern kann.
    ihrem eigenen Ort.
 
 4. **Wie stellen die Kinder fest, dass Clara bereits befreit ist?** ⚠️ Löst
-   Kontinuität-Widerspruch 2. Aktive Recherche, kein Zufall: Sie durchsuchen Frau Silbers
-   Kartei nach „Stadtpark" und finden die Karte „Clara B. — 1889". ⚠️ **Der eigentliche
-   Stich:** Der Vermerk „Frei." trägt **ihre eigene Handschrift** — sie haben die Karte
-   selbst aktualisiert, in der Hektik von Band 5s Massen-Befreiung, und es seither
-   vergessen, weil an jenem Abend acht Karten auf einmal fertig wurden. Die Antwort lag die
-   ganze Zeit im eigenen Haus. Das macht den Fund härter als eine fremde Notiz — und
-   fairer, weil er aus ihrer eigenen, etablierten Praxis folgt (sie führen die Kartei seit
-   Band 5 fort), nicht aus einer neuen Fähigkeit.
+   Kontinuität-Widerspruch 2. ⚠️ **Korrektur beim Gegenprüfen der Objekt-Kontinuität
+   (Phase 3):** Der erste Entwurf sprach von einer „Kartei" mit Einzelkarten — das ist
+   **kein etabliertes Objekt der Serie**. Kanonisch existiert **eine einzige, handgezeichnete
+   Karte** mit zwölf Markierungen, an denen jeweils Name+Todesjahr im festen Format
+   „Vorname + Nachname-Initial — Todesjahr" steht (`Serien_Kanon.md` Abschnitt 2, Beleg:
+   „Lina V. — 1974"); befreite Geister werden **durchgestrichen** (`Serien_Kanon.md`,
+   „acht offenen Markierungen. Von zwölf sind vier durchgestrichen."). **Richtig:** Aktive
+   Recherche, kein Zufall — sie suchen auf Silbers Karte die Markierung am Stadtpark und
+   finden sie **bereits durchgestrichen**: „Clara B. — 1889". ⚠️ **Der eigentliche Stich:**
+   Der Strich und der knappe Rand-Vermerk „Frei." tragen **ihre eigene Handschrift** — sie
+   haben die Markierung selbst durchgestrichen, in der Hektik von Band 5s
+   Massen-Befreiung, und es seither vergessen, weil an jenem Abend alle acht verbliebenen
+   Markierungen auf einmal durchgestrichen wurden. Die Antwort lag die ganze Zeit im
+   eigenen Haus, auf einer Karte, die sie seit Band 5 selbst weiterführen (konsistent mit
+   „Nachfolger von Frau Silber", `PLAN_Staffel2.md` Abschnitt 5) — kein neues Objekt, keine
+   neue Fähigkeit.
 
 5. **Warum hilft Zuhören diesmal nicht — und wie unterscheidet sich das von Band 3
    (Marlene Weber, wo Zuhören explizit das „Schloss" statt der „Schlüssel" war,
@@ -135,7 +143,7 @@ Sache, die scheitern kann.
 - **Akt 1:** Ein neuer Ruf, wie immer — aber die erste Begegnung mit Marie fühlt sich
   anders an: keine Bedrohung, nur reine, ungefilterte Verzweiflung. *Angst: kein Gegner,
   nur ein Schmerz, den man (noch) nicht einordnen kann.*
-- **Akt 2:** Die Kartei liefert die Antwort — und sie ist die schlechteste mögliche.
+- **Akt 2:** Silbers Karte liefert die Antwort — und sie ist die schlechteste mögliche.
   *Angst: die eigene Methode könnte diesmal wirklich nicht reichen.*
 - **Akt 3:** Zuhören scheitert, sichtbar, zum ersten Mal. Frieda wird Zeugin.
   *Angst: Wenn nicht mal die Gründungsmethode reicht — was reicht dann noch?*
@@ -188,20 +196,21 @@ ungewohntes Verhalten. **Cliffhanger [ERKENNTNIS]:** Der Name „Clara" — Nora
 einmal gesehen. Aber wo?
 
 ### Kapitel 4 – „Frei." (ABSCHLUSS AKT 1)
-Zuhause, sie durchsuchen Frau Silbers Kartei nach „Stadtpark". Die Karte: „Clara B. — 1889".
+Zuhause, sie suchen auf Frau Silbers Karte die Markierung am Stadtpark: „Clara B. — 1889".
 Ein kurzer Nebensatz — Theo erwähnt beiläufig ein Gerücht von der Straße, ein Fremder soll
 anderswo in der Stadt seltsame Fragen stellen (erster, beiläufiger Hinweis auf Halders
 Parallelfall, unkommentiert). **Schatten:** unruhig, blickt zur Tür, als könnte draußen noch
-etwas sein. **Humor:** keiner, bewusst ernster Akt-Schluss. **Cliffhanger [OBJEKT]:** Am
-Rand der Karte, in vertrauter Handschrift: „Frei."
+etwas sein. **Humor:** keiner, bewusst ernster Akt-Schluss. **Cliffhanger [OBJEKT]:** Die
+Markierung ist bereits durchgestrichen — und am Rand steht, in vertrauter Handschrift: „Frei."
 
 ## AKT 2 — Die Wahrheit auf der Karte (K5–8)
 
 ### Kapitel 5 – „Das ist unsere Schrift"
 Der Schock setzt sich: Es ist ihre eigene Handschrift. Sie rekonstruieren die Nacht von
-Band 5s Finale — acht Karten auf einmal, in der Hektik vergessen. **Schatten:** legt den
-Kopf auf Noras Fuß, ungewohnt still. **Humor:** keiner. **Cliffhanger [ERKENNTNIS]:** Clara
-wurde vor Monaten befreit. Marie ist zu spät gekommen — für immer zu spät.
+Band 5s Finale — alle acht letzten Markierungen auf einmal durchgestrichen, in der Hektik
+vergessen. **Schatten:** legt den Kopf auf Noras Fuß, ungewohnt still. **Humor:** keiner.
+**Cliffhanger [ERKENNTNIS]:** Clara wurde vor Monaten befreit. Marie ist zu spät gekommen —
+für immer zu spät.
 
 ### Kapitel 6 – „Wie sagt man das jemandem"
 Nora und Theo ringen damit, wie man Marie das sagt. Erster echter Zweifel: Gibt es
@@ -239,9 +248,14 @@ kurzer, gedämpfter Alarm, dann Beruhigung — er kennt sie. **Humor:** Theos ü
 beobachtet sie aus der Distanz.
 
 ### Kapitel 11 – „Ich habe ihn nie gefragt"
-Frieda erklärt, sie habe von einem Fall gehört, der nicht glatt lief, und wollte selbst
-sehen. Sie sieht die Wahrheits-Szene mit an. Danach, leise: sie sei mit der Feuer-Geschichte
-aufgewachsen, habe sie aber nie selbst geprüft. ⚠️ **Kette 2 (Hinweisketten_Tracker):**
+⚠️ **Korrigiert beim Erstellen der Szenenplanung (Phase 3):** Der erste Entwurf ließ Frieda
+hier bereits „die Wahrheits-Szene" miterleben — die findet aber erst in K13 statt; sonst
+gäbe es die Szene zweimal. **Richtig:** Frieda tritt zu Nora und Theo, **bevor** diese zu
+Marie zurückkehren (Marie sucht währenddessen unbeachtet im Hintergrund weiter). Frieda
+erklärt, sie habe von einem Fall gehört, der nicht glatt lief, und wollte selbst sehen,
+bevor sie es glaubt. Nora erzählt ihr knapp, was sie herausgefunden haben und was sie jetzt
+vorhaben. Danach, leise: Frieda sagt, sie sei mit der Feuer-Geschichte aufgewachsen, habe
+sie aber nie selbst geprüft. ⚠️ **Kette 2 (Hinweisketten_Tracker):**
 Erster Zweifel-Hinweis, der explizit nur Frieda gehört — kein Zweifel an der
 Tatsachenbehauptung selbst, nur daran, dass sie sie nie hinterfragt hat. **Schatten:**
 bleibt zwischen den Kindern und Frieda, wachsam, aber nicht abwehrend. **Humor:** keiner.
@@ -259,9 +273,10 @@ nicht darum, ob sie gut genug ist. Manche Dinge sind einfach nicht in ihrer Mach
 
 ### Kapitel 13 – „Was wir dir geben können"
 Sie zeigen Marie die Karte — nicht als Beweis gegen sie, sondern als Geschenk: Clara wurde
-gefunden, es ging ihr am Ende gut, sie ist in Frieden gegangen. **Schatten:** ruhig, dicht
-an Marie. **Humor:** keiner, emotionaler Höhepunkt. **Cliffhanger [AKTION]:** Marie hält
-inne — zum ersten Mal, seit sie sie kennen, hört sie auf zu rufen.
+gefunden, es ging ihr am Ende gut, sie ist in Frieden gegangen. Frieda bleibt am Rand des
+Parks stehen und sieht zum ersten Mal, was weder Binden noch Befreien ist. **Schatten:**
+ruhig, dicht an Marie. **Humor:** keiner, emotionaler Höhepunkt. **Cliffhanger [AKTION]:**
+Marie hält inne — zum ersten Mal, seit sie sie kennen, hört sie auf zu rufen.
 
 ### Kapitel 14 – „Ein anderes Ende"
 Keine Befreiung — Marie bleibt, aber ihre Verzweiflung weicht einem stillen, traurigen
