@@ -802,7 +802,10 @@ nur **Hintergrundwissen der Figuren** bleibt (Kontinuität, nicht ausgesprochen)
 | 24 | Staffelweiter Hinweisketten-Tracker | Neue Datei `Staffel2/Hinweisketten_Tracker.md`, spätestens vor S2-2 anlegen | Frieda- und Feuer-Twist spannen sich über mehrere Bände, brauchen bandübergreifende Prüfung |
 | 25 | Neuleser-Spalte in S2-1-Kontinuität | Nur für S2-1, kein Serienstandard | Einziger Band mit dem Nora/Theo-wissen-vs-Text-erklärt-Konflikt |
 
-**Nächster Schritt:** Phase 1 für S2-1 — [Staffel2/S2-1/Kontinuitaet_S2-1.md](S2-1/Kontinuitaet_S2-1.md).
+**Nächster Schritt:** Phase 1 für S2-1 ✅ [Staffel2/S2-1/Kontinuitaet_S2-1.md](S2-1/Kontinuitaet_S2-1.md).
+Phase 2 begonnen — [Staffel2/S2-1/Story_Outline_S2-1.md](S2-1/Story_Outline_S2-1.md) enthält
+Buchkonzept, Zielumfang und die Mechanik-/Physik-Selbstprüfung (8 Regeln). Kapitelliste noch
+offen, wartet auf Bestätigung der Mechanik-Regeln.
 
 ---
 
