@@ -50,6 +50,7 @@
 | Frieda beobachtet die gesamte Grete-Befreiung, ohne einzugreifen (K8–K11) | S2-3/S2-4: erster Riss in ihrer Überzeugung, wird dort vertieft |
 | Frieda greift erst beim zweiten Schloss ein (K12) | Zeigt ihre Grenze — Payoff in S2-4, wenn diese Grenze sich verschiebt |
 | „Es gibt jemanden, der es für ihn bewacht" (K16, Schlusssatz) | S2-3: Frieda wird als genau diese Person enthüllt |
+| ⚠️ **Nachgetragen (S2-3-Planung):** Der Gewerberegister-Eintrag in K2 sollte beim Schreiben einen **Inhaber-Namen** enthalten (nicht nur die Adresse) — unauffällig zum Zeitpunkt von S2-2, aber notwendiges Setup für S2-3 K3, wo Nora genau diesen Namen in ihren alten Notizen wiedererkennt | S2-3 K3: Nora erkennt Halders Namen aus den eigenen S2-2-Notizen wieder |
 
 ---
 

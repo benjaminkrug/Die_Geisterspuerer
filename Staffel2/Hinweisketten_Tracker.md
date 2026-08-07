@@ -31,7 +31,7 @@ deshalb ein eigenes Dokument statt eines Abschnitts im Band-Tracker.
 | S2-2 K11 | Frieda taucht unerkannt in der Werkstatt auf — Startpunkt der Kette. Nennt vermutlich ihren Vornamen, keinen Nachnamen; Schatten reagiert nicht alarmiert auf sie (Mechanik-Regel S2-2 Punkt 5) | geplant (`S2-2/Story_Outline_S2-2.md`) |
 | S2-2 K8–K11 | ⚠️ **Präzisiert (2. Durchgang):** Frieda beobachtet die **gesamte** Grete-Befreiung von Anfang an (K8s Cliffhanger „beobachtet, ohne es zu merken" ist sie), ohne einzugreifen — kein bloßes Zuspätkommen, ein bewusster, starker erster Riss in ihrer Überzeugung. Erst beim ZWEITEN Schloss (K12) greift sie ein. Wirkt wie reines Wegscheuchen, ist rückblickend (ab S2-3) ihre erste gezeigte „Schutz"-Handlung, dieselbe verquere Logik wie ihr Vater — aber eben auch die erste Andeutung, dass sie nicht gefühllos zusieht. Fair, weil zum Zeitpunkt des Lesens nicht erkennbar, wessen Logik das ist | geplant (`S2-2/Story_Outline_S2-2.md`) |
 | S2-2 K14 | Theo: „Sie hat nicht gesagt, dass es falsch ist, was wir tun. Nur dass wir nicht verstehen." — deutet ihre Überzeugungslogik an, ohne sie zu erklären | geplant (`S2-2/Story_Outline_S2-2.md`) |
-| S2-3 | Enthüllung: Frieda ist Halders Tochter | geplant |
+| S2-3 K6–K7 | Enthüllung: Theo sieht Frieda vertraut mit Halder (K6), Nora verbindet unabhängig Halders Namen mit den S2-2-Notizen (K3) — beide Fäden laufen in K7 zusammen: „Sie ist seine Tochter." | geplant (`S2-3/Story_Outline_S2-3.md`) |
 
 **Noch offen (bei der S2-2-Planung zu entscheiden):** Wie genau Frieda in S2-2 auftritt,
 ohne dass ihre Verbindung zu Halder schon zu erkennbar ist — z. B. darf sie keine
@@ -48,7 +48,8 @@ reicht.
 | Band/Kapitel | Hinweis | Status |
 |---|---|---|
 | S2-1 bis S2-2 | — (Halders Vergangenheit ist noch kein Thema) | ✅ bestätigt: kein verfrühter Hinweis |
-| S2-3 | Halders Motiv/das Feuer wird erstmals erwähnt (er selbst erzählt oder deutet an) — MUSS als seine feste Überzeugung erscheinen, NICHT als offene Frage, sonst nimmt es S2-5 die Wendung vorweg | geplant |
+| S2-3 K12 | ✅ **Umgesetzt:** Halder erzählt vom Feuer als gefestigte, nie hinterfragte Überzeugung (Mechanik-Prüfung S2-3, Punkt 6) — Nora erkennt in K12: „Er lügt nicht. Er glaubt das wirklich." Kein Zweifel von ihm selbst gesät, wie gefordert | geplant (`S2-3/Story_Outline_S2-3.md`) |
+| S2-3 K13 | Ilses eigene, abweichende Version der Geschichte ("Er hat mich nie gefragt, ob ich bleiben will") — erster, indirekter Riss in Halders Version, ohne dass die Wahrheit übers Feuer selbst schon infrage steht | geplant (`S2-3/Story_Outline_S2-3.md`) |
 | S2-4 | Vertiefung — vermutlich über Frieda, die mit dieser Geschichte aufgewachsen ist, aber selbst nie geprüft hat, ob sie stimmt | geplant |
 | S2-5 | Frieda findet in Halders gehorteten Unterlagen den Beleg, dass der Grund banal/unabhängig war | geplant |
 

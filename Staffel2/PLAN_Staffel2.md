@@ -831,9 +831,15 @@ Grusel 7-8/10, Halder tritt erstmals persönlich auf (Zugang über die Mutter/Ha
 Schattens gezielte Reaktion auf ihn als gelernte Assoziation begründet (keine neue
 Fähigkeit), sechs zu prüfende Widersprüche — darunter die noch offene Frage, ob die
 titelgebende Frau am Ende befreit wird (Empfehlung: ja, damit S2-4s späterer ungelöster
-Fall eine echte Ausnahme bleibt). **Nächster Schritt: S2-3, Phase 2 (Story-Outline mit
-Mechanik-Prüfung)** — oder Phase 4 (Kapitel schreiben) für S2-1/S2-2, sobald die
-Aktivierungs-Checkliste (Abschnitt 1) erfüllt ist.
+Fall eine echte Ausnahme bleibt). S2-3, Phase 2 ✅ [Staffel2/S2-3/Story_Outline_S2-3.md](S2-3/Story_Outline_S2-3.md) —
+Buchkonzept, 10-Punkte-Mechanik-Prüfung (u. a. die Doppel-Enthüllung über zwei unabhängige
+Fäden: Theo sieht Frieda mit Halder, Nora erkennt seinen Namen aus den eigenen
+S2-2-Notizen wieder — dafür ein Setup rückwirkend in `S2-2/Setup_Payoff_Tracker_S2-2.md`
+nachgetragen), 16-Kapitel-Liste mit Ilse als drittem, per **Vergeben** befreitem Geist der
+Staffel (volle Methoden-Vielfalt: Zuhören/S2-1, Erinnern/S2-2, Vergeben/S2-3). Beide
+Hinweisketten in `Hinweisketten_Tracker.md` bis hierhin nachgetragen. **Nächster Schritt:
+S2-3, Phase 3 (Szenenplanung + Tracker)** — oder Phase 4 (Kapitel schreiben) für S2-1/S2-2,
+sobald die Aktivierungs-Checkliste (Abschnitt 1) erfüllt ist.
 
 ---
 
