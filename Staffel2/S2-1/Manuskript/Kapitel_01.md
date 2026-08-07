@@ -20,7 +20,7 @@ Theo ließ das Comicheft sinken. "Weißt du, was ich vermisse? Nicht die Geister
 
 "Ja, aber wenigstens war uns nie langweilig dabei."
 
-Nora schnaubte und stand auf, um sich einen Tee zu machen. Mama hatte Nachtschicht, wie so oft — das Krankenhaus brauchte sie immer dann, wenn die Wohnung am ruhigsten war. Seit dem Gewölbe unter dem Gravenhaus war Ruhe eigentlich alles, was Nora sich gewünscht hatte. Jetzt, wo sie sie hatte, wusste sie manchmal nicht so recht, was sie damit anfangen sollte.
+Nora schnaubte und stand auf, um sich einen Tee zu machen. Mama hatte Nachtschicht, wie so oft. Das Krankenhaus brauchte sie immer dann, wenn die Wohnung am ruhigsten war. Seit dem Gewölbe unter dem Gravenhaus war Ruhe eigentlich alles, was Nora sich gewünscht hatte. Jetzt, wo sie sie hatte, wusste sie manchmal nicht so recht, was sie damit anfangen sollte.
 
 ---
 
@@ -86,7 +86,7 @@ Nora spürte, wie sich etwas in ihrem Nacken zusammenzog. Kein neues Gefühl. Si
 
 Theo hatte aufgehört zu grinsen. Er stand jetzt ganz still neben Nora, die Arme leicht angewinkelt, bereit.
 
-Schatten setzte sich, direkt vor Frau Brandts Füße, und sah zu ihr hoch. Kein Knurren. Nur dieser eine, konzentrierte Blick, den Nora inzwischen kannte — der Blick, der sagte: *hier ist etwas.*
+Schatten setzte sich, direkt vor Frau Brandts Füße, und sah zu ihr hoch. Kein Knurren. Nur dieser eine, konzentrierte Blick, den Nora inzwischen kannte. Der Blick, der sagte: *hier ist etwas.*
 
 "Okay", sagte Theo und rieb sich die Hände, mit einer Munterkeit, die er sichtlich nicht fühlte. "Kein Grund zur Panik. Wir haben das schon öfter gemacht. Also — ziemlich oft, eigentlich."
 
