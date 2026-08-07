@@ -26,9 +26,9 @@ Nora schnaubte und stand auf, um sich einen Tee zu machen. Mama hatte Nachtschic
 
 Normal war es trotzdem nicht ganz geworden.
 
-Seit ein paar Wochen kannte Nora ein bestimmtes Gefühl: Leute auf der Straße, die kurz stehen blieben, wenn sie mit Theo und Schatten vorbeikam. Die tuschelten, sobald sie vorbei war. Letzte Woche hatte eine alte Frau im Supermarkt sie am Ärmel gepackt. Ob es stimme, dass sie mit den Toten reden könne, hatte sie gefragt. Nora hatte nur genickt und war schnell weitergegangen.
+Seit ein paar Wochen kannte Nora ein bestimmtes Gefühl. Leute auf der Straße blieben kurz stehen, wenn sie mit Theo und Schatten vorbeikam. Die tuschelten, sobald sie vorbei war. Letzte Woche hatte eine alte Frau im Supermarkt sie am Ärmel gepackt. Ob es stimme, dass sie mit den Toten reden könne, hatte sie gefragt. Nora hatte nur genickt und war schnell weitergegangen.
 
-Gravenstedt war klein. Ein Gerücht wie dieses brauchte nicht lange, um jedes Haus zu erreichen, vom Marktplatz bis zu den neuen Siedlungen am Stadtrand.
+Gravenstedt war klein. Ein Gerücht wie dieses brauchte nicht lange, um jedes Haus zu erreichen. Vom Marktplatz bis zu den neuen Siedlungen am Stadtrand.
 
 "Was guckst du so?", fragte Theo, das Comicheft jetzt gesenkt.
 
