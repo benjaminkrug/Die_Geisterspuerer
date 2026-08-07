@@ -252,13 +252,27 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
   Emotionale Arbeit vollständig — trotzdem derselbe Rückriss, diesmal heftiger. Schock liegt
   bei Frau Brandt, nicht den Kindern; Theo hilft aus eigenem Antrieb. Endet auf Frau Brandts
   erschüttertem Schlusssatz „Warum reicht das nicht?" (DIALOG).
+- **K8** (ABSCHLUSS AKT 2): Direkter Anschluss, selber Nachmittag/Abend. Nora beantwortet
+  Frau Brandts Frage („nicht an Ihnen — etwas Handfestes") und geht aktiv zum Hausmeister.
+  Frau Brandt bleibt zurück (holt ihre Tochter von der Schule). **Herr Kubiak**, ~60,
+  Hausmeister mit Werkstatt im Keller des Brandt-Hauses: Schrank steht seit ≥30 Jahren da,
+  war nie offen, kein Schlüssel am Schlüsselbrett. Er erinnert sich an einen **Schlosser**,
+  der **im August letzten Jahres** zwei Tage lang im ganzen Haus Sicherheitsschlösser
+  einbaute — auch in den leerstehenden Wohnungen, dokumentiert in seinem Werkstattheft.
+  Schatten reagiert stark (Nackenfell, Knurren) auf das Stichwort und das Heft. Endet auf
+  Noras Erkenntnis: Der Einbau lag **vor** dem Einzug der Brandts im November und Herbert
+  war zu dem Zeitpunkt zwar tot, aber nicht in der Nähe — der Schrank war präpariert,
+  bevor es überhaupt etwas zu binden gab (ERKENNTNIS).
+  ⚠️ **Neue Kanon-Fakten aus diesem Kapitel:** Herr Kubiak (Hausmeister, Name jetzt fest) ·
+  Schlosser-Termin = **August letztes Jahr** · Einzug der Brandts = **November** · Wohnung
+  stand davor ~ein halbes Jahr leer · Schrank ≥30 Jahre im Haus.
 
 ---
 
 ## AKT-FORTSCHRITT
 
 - ✅ Akt 1 (K1–4) — abgeschlossen, alle vier Kapitel geschrieben
-- 🔶 Akt 2 (K5–8) — in Arbeit, K5 geschrieben
+- ✅ Akt 2 (K5–8) — abgeschlossen, alle vier Kapitel geschrieben
 - ⬜ Akt 3 (K9–12) — noch nicht geschrieben
 - ⬜ Akt 4 (K13–16) — noch nicht geschrieben
 
@@ -275,6 +289,33 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
 | K5 | ~1.090 | 45,4 % — drei Szenen, durchgehend dialoglastig | ⚠️ knapp unter dem 1.200-Minimum, aber alle drei geplanten Beats vollständig erzählt; kein Füllstoff nötig, im Stimmen-Pass gegenprüfen |
 | K6 | ~980 | 45,9 % — eine durchgehende Szene, direkte Fortsetzung von K5 | ⚠️ unter dem 1.200-Minimum, gleicher Grund wie K3/K4 (eine intensive Szene ohne Ortswechsel); alle drei geplanten Beats vollständig erzählt, im Stimmen-Pass gegenprüfen |
 | K7 | ~895 | 44,3 % — emotionale Kernszene, bewusst knapp gehalten | ⚠️ unter dem 1.200-Minimum, gleicher Grund wie K3/K4/K6 (eine intensive Szene); Straffheit dient hier der emotionalen Wirkung, im Stimmen-Pass gegenprüfen |
+| K8 | ~1.040 | 51,3 % — Ermittlungskapitel, Befragungsszene trägt den Großteil | ⚠️ knapp unter dem 1.200-Minimum; Dialoganteil liegt bewusst über dem 45-%-Zielband, weil das Kapitel eine Befragung ist — im Stimmen-Pass gegenprüfen, ob das im Gesamtbuch auffällt |
+
+### ⚠️ Kapitellängen-Frage — nach Akt 2 empirisch geklärt
+
+Alle acht Kapitel liegen unter dem 1.200-Wörter-Minimum aus CLAUDE.md (Spanne 795–1.091,
+Ø 980). Das sah nach einem Problem aus, ist aber **keins** — gemessen, nicht vermutet:
+
+| Buch | Kapitel | Gesamt | Ø/Kapitel | kürzestes | längstes |
+|---|---|---|---|---|---|
+| Band 1 | 18 | 26.988 W | **1.499** | 1.308 | 1.667 |
+| Band 5 | 18 | 16.910 W | **939** | **748** | 1.262 |
+| S2-1 (K1–8) | 8 | 7.837 W | **980** | 795 | 1.091 |
+
+**Befund:** Das 1.400–1.600-Ziel bzw. 1.200-Minimum beschreibt **Band 1**, nicht die
+tatsächliche Serienpraxis. Band 5 — der unmittelbar vorangehende, veröffentlichte Band —
+hat **kein einziges** Kapitel über 1.262 Wörter und ein kürzestes von 748. S2-1 liegt mit
+Ø 980 fast exakt auf Band-5-Niveau (939) und **über** dessen Minimum.
+
+Das ist dasselbe Muster wie bei der Satzlänge (`Stimmen_Pruefplan.md`, Prinzip
+„**Benchmark, nicht Ideal**"): die Stilblätter beschreiben Band 1, die gelebte Serienstimme
+hat sich seither verschoben. **Keine Nachbesserung nötig, kein Auffüllen.** Die Kapitel sind
+nicht zu kurz — die Vorgabe ist veraltet.
+
+**Einziger echter Beobachtungspunkt:** Gesamtumfang. Hochrechnung 16 × Ø 980 ≈ **15.700 W**,
+gegenüber Band 5 mit 16.910 W. Das ist knapp darunter, aber in derselben Größenordnung —
+für die KDP-Positionierung unkritisch. **In Phase 4b final gegenrechnen**, nicht jetzt
+gegensteuern.
 
 ---
 

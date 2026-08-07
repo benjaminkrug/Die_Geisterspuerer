@@ -37,7 +37,7 @@ geerbtes.
 | 5 | Noras Entschluss „WAS hält ihn, nicht nur WARUM" (K4) | Beantwortet durch das gefundene Schloss (K9–10) | ✅ K4 geschrieben, Setup gepflanzt |
 | 6 | Schrank als auffälliges Detail (K6, verschlossen ohne Schlüssel) | Enthält den physischen Anker (K9–10), wird geöffnet (K13) | ✅ K6 geschrieben, Setup gepflanzt |
 | 7 | Zweiter Zuhören-Versuch, diesmal Frau Brandt selbst (K7) | ⚠️ **Präzisiert (3. Durchgang):** K14 ist **kein** dritter Zuhören-Versuch — die emotionale Arbeit ist mit K7 getan. K14 zahlt sich aus, weil Frau Brandt Herbert jetzt etwas **Neues erzählt** (dass sie die Karten gefunden hat), nicht weil sie ihm nochmal zuhört. Kombiniert mit dem geöffneten Schloss (K13) ergibt erst das zusammen den Payoff. | ✅ K7 geschrieben, Setup gepflanzt — Frau Brandt hat Herbert direkt angesprochen und ihm vergeben, emotionale Arbeit vollständig abgeschlossen, Rückriss trotzdem |
-| 8 | Hausmeister erwähnt einen "Schlosser", der vor Monaten alle Schlösser wartete (K8) | Bestätigt als Halders Handschrift — **wird in S2-1 selbst NICHT aufgelöst**, Payoff erst S2-2/S2-3 | ⚠️ bewusst offen (Staffel-Faden) |
+| 8 | Hausmeister erwähnt einen "Schlosser", der vor Monaten alle Schlösser wartete (K8) | Bestätigt als Halders Handschrift — **wird in S2-1 selbst NICHT aufgelöst**, Payoff erst S2-2/S2-3 | ✅ K8 geschrieben, Setup gepflanzt — Herr Kubiak, Werkstattheft, Datum **August letztes Jahr**; Name/Aussehen des Schlossers bewusst nicht genannt (Kanon-Regel 4) · Payoff bleibt offen (Staffel-Faden) |
 | 9 | Karton mit Herberts Sachen (K11) | Der letzte, ungeöffnete Brief wird der Schlüsselmoment der Befreiung (K14) | geplant |
 | 10 | Winziges Schloss-Symbol, in den Schrank geritzt (K9) | Physisches Schloss gefunden (K10), geöffnet (K13) | geplant |
 | 11 | „Wir machen alles richtig — dann sind wir nicht das Problem" (K4) | Bestätigt durch den Fund des Schlosses — die Bindung war nie ein Kompetenz-Problem (K12/K13) | ✅ K4 geschrieben, Setup gepflanzt |
@@ -89,6 +89,24 @@ Friedas gestaffelter Einführung, `PLAN_Staffel2.md` Abschnitt 9).
 **Ergebnis:** Die Kette ist fair und sauber eskalierend — ein aufmerksamer Leser kann K8s
 Enthüllung kommen sehen, ohne dass sie vorweggenommen wird. **Bestätigt durch Prüfung, nicht
 durch Behauptung.**
+
+### Nachtrag nach dem Schreiben (Phase 4, K1–K8 vollständig)
+
+Alle fünf Stufen sind im Text tatsächlich vorhanden und in der geplanten Reihenfolge:
+
+| Stufe | Umsetzung im Manuskript | Status |
+|---|---|---|
+| K1 | Schatten knurrt Richtung Treppenhaus, bevor die Tür offen ist | ✅ |
+| K2 | Schatten bleibt auf der Flurschwelle stehen, fixiert die Tür am Flurende | ✅ |
+| K5 | Raumweiser Test (Theos Idee): Wohnzimmer/Kinderzimmer ruhig, Flur stufenweise unruhiger | ✅ |
+| K6 | Schatten fixiert im Schrankzimmer ausschließlich den Schrank, starr, ohne wegzusehen | ✅ |
+| K8 | Nackenfell + Knurren beim Stichwort „Schlosser" und am Werkstattheft — **im Keller, ohne Herbert in der Nähe** | ✅ |
+
+⚠️ **Wach-Regel-Prüfung (Kontinuität, Widerspruch 2):** K8s Reaktion war der Punkt mit dem
+größten Risiko, Schatten wieder geheimnisvoll wirken zu lassen. Umsetzung bleibt geerdet —
+er reagiert auf einen realen, physisch anwesenden Auslöser (Werkbank, Heft), Nora deutet die
+Reaktion selbst, der Text behauptet kein Sonderwissen des Hundes. **Kein Rückschritt ins
+Rätselhafte.**
 
 ---
 
