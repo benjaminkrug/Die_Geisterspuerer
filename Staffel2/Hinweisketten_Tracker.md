@@ -59,6 +59,26 @@ Fund, sondern wie eine erwartete Bestätigung. Der Zweifel sollte fast ausschlie
 **Frieda** liegen (sie hat nie nachgeprüft), nicht bei Nora/Theo, die die Geschichte gar
 nicht kennen, bis Halder sie erzählt.
 
+⚠️ **Präzisierung nach Rückwärtslesen der Kette (2026-08-07):** Ilses Dissens in S2-3 K13
+("Er hat mich nie gefragt, ob ich bleiben will") ist **Zweifel an seinem Recht, zu binden**
+— nicht Zweifel an der **Tatsachenbehauptung** über das Feuer selbst. Diese zwei Ebenen beim
+Schreiben von S2-3/S2-4 sauber auseinanderhalten: Ilse darf sein Handeln infrage stellen,
+aber niemand außer Frieda (ab S2-4/S2-5) darf andeuten, dass die Geschichte vom Feuer selbst
+möglicherweise falsch/unvollständig ist. Sonst würde K13 versehentlich schon einen Hinweis
+Richtung Kette-2-Auflösung setzen, den nur Frieda setzen soll.
+
+---
+
+## Vollständiger Rückwärtsdurchgang — nachgeholt (2026-08-07)
+
+> Die eigene Regel unten verlangt einen Rückwärts-Durchgang „vor S2-3" — das war beim
+> eigentlichen Planen von S2-3 nicht als eigener, expliziter Schritt durchgeführt worden,
+> nur implizit mitgedacht. Hier nachgeholt, im Rahmen der Gesamt-Konsistenzprüfung über
+> Staffel 2: Beide Ketten von vorn nach hinten gelesen (Kette 1: S2-1 → S2-2 K11 → K8–K11 →
+> K14 → S2-3 K6–K7; Kette 2: S2-1/S2-2 → S2-3 K12 → K13). **Ergebnis: beide Ketten halten,
+> kein Hinweis nimmt seine Enthüllung vorweg.** Einzige gefundene Unschärfe: die Ilse/K13-
+> Präzisierung oben. Kein weiterer Befund.
+
 ---
 
 ## Regeln für die Pflege

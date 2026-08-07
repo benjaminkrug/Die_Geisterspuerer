@@ -802,48 +802,26 @@ nur **Hintergrundwissen der Figuren** bleibt (Kontinuität, nicht ausgesprochen)
 | 24 | Staffelweiter Hinweisketten-Tracker | Neue Datei `Staffel2/Hinweisketten_Tracker.md`, spätestens vor S2-2 anlegen | Frieda- und Feuer-Twist spannen sich über mehrere Bände, brauchen bandübergreifende Prüfung |
 | 25 | Neuleser-Spalte in S2-1-Kontinuität | Nur für S2-1, kein Serienstandard | Einziger Band mit dem Nora/Theo-wissen-vs-Text-erklärt-Konflikt |
 
-**Nächster Schritt:** Phase 1 für S2-1 ✅ [Staffel2/S2-1/Kontinuitaet_S2-1.md](S2-1/Kontinuitaet_S2-1.md).
-Phase 2 ✅ [Staffel2/S2-1/Story_Outline_S2-1.md](S2-1/Story_Outline_S2-1.md) — Buchkonzept,
-Mechanik-/Physik-Prüfung, 16-Kapitel-Liste, im zweiten Durchgang um vier Logikfixes bereinigt
-(u. a. ein echter Zeitlinien-Widerspruch bei Herberts Todes-/Ankunftsdatum).
-Phase 3 ✅ [Setup_Payoff_Tracker_S2-1.md](S2-1/Setup_Payoff_Tracker_S2-1.md) ·
-[Cliffhanger_Register_S2-1.md](S2-1/Cliffhanger_Register_S2-1.md) ·
-[Detaillierte_Szenenplanung_S2-1.md](S2-1/Detaillierte_Szenenplanung_S2-1.md) — im dritten
-Durchgang nochmal geprüft (K14-Redundanz-Risiko behoben, Faire-Hinweisketten tatsächlich
-verifiziert statt nur behauptet).
-Entscheidung #24 ✅ [Staffel2/Hinweisketten_Tracker.md](Hinweisketten_Tracker.md) angelegt —
-verfolgt die beiden staffelweiten Enthüllungen (Frieda, das Feuer-Motiv) bandübergreifend.
-S2-2, Phase 1 ✅ [Staffel2/S2-2/Kontinuitaet_S2-2.md](S2-2/Kontinuitaet_S2-2.md) — Figuren-
-Stand, insbesondere die kritische Regel für Frieda (kein Nachname, keine erkennbare
-Halder-Verbindung im S2-2-Text), vier zu prüfende Widersprüche, offene Fäden.
-S2-2, Phase 2 ✅ [Staffel2/S2-2/Story_Outline_S2-2.md](S2-2/Story_Outline_S2-2.md) —
-Buchkonzept, 8-Punkte-Mechanik-Prüfung (u. a. Grundsatzregel: Einzelbindung vs.
-Sammel-Knoten hängt von persönlicher Verbindung des Geistes ab), 16-Kapitel-Liste, im
-zweiten Durchgang um zwei Fixes bereinigt (Frieda beobachtet jetzt die ganze
-Grete-Befreiung statt nur spät einzutreffen; ein ungesetuptes zweites Schloss gestrichen).
-S2-2, Phase 3 ✅ [Setup_Payoff_Tracker_S2-2.md](S2-2/Setup_Payoff_Tracker_S2-2.md) ·
-[Cliffhanger_Register_S2-2.md](S2-2/Cliffhanger_Register_S2-2.md) (zwei
-Typenkollisionen K3/K4 und K9/K10 beim Zusammenstellen gefunden und behoben) ·
-[Detaillierte_Szenenplanung_S2-2.md](S2-2/Detaillierte_Szenenplanung_S2-2.md) (14/15
-Übergänge lösen sofort auf).
-S2-3, Phase 1 ✅ [Staffel2/S2-3/Kontinuitaet_S2-3.md](S2-3/Kontinuitaet_S2-3.md) —
-Grusel 7-8/10, Halder tritt erstmals persönlich auf (Zugang über die Mutter/Hausverwaltung),
-Schattens gezielte Reaktion auf ihn als gelernte Assoziation begründet (keine neue
-Fähigkeit), sechs zu prüfende Widersprüche — darunter die noch offene Frage, ob die
-titelgebende Frau am Ende befreit wird (Empfehlung: ja, damit S2-4s späterer ungelöster
-Fall eine echte Ausnahme bleibt). S2-3, Phase 2 ✅ [Staffel2/S2-3/Story_Outline_S2-3.md](S2-3/Story_Outline_S2-3.md) —
-Buchkonzept, 10-Punkte-Mechanik-Prüfung (u. a. die Doppel-Enthüllung über zwei unabhängige
-Fäden: Theo sieht Frieda mit Halder, Nora erkennt seinen Namen aus den eigenen
-S2-2-Notizen wieder — dafür ein Setup rückwirkend in `S2-2/Setup_Payoff_Tracker_S2-2.md`
-nachgetragen), 16-Kapitel-Liste mit Ilse als drittem, per **Vergeben** befreitem Geist der
-Staffel (volle Methoden-Vielfalt: Zuhören/S2-1, Erinnern/S2-2, Vergeben/S2-3). Beide
-Hinweisketten in `Hinweisketten_Tracker.md` bis hierhin nachgetragen. S2-3, Phase 3 ✅ [Setup_Payoff_Tracker_S2-3.md](S2-3/Setup_Payoff_Tracker_S2-3.md) ·
-[Cliffhanger_Register_S2-3.md](S2-3/Cliffhanger_Register_S2-3.md) (eine Typenkollision
-K10/K11 gefunden und behoben) ·
-[Detaillierte_Szenenplanung_S2-3.md](S2-3/Detaillierte_Szenenplanung_S2-3.md) (14/15
-Übergänge lösen sofort auf). ⚠️ **Beobachtung:** Alle drei bisherigen Bände haben je einen
-Reise-/Zeitpunkt-Übergang, der eine kurze Überleitungszeile braucht (S2-1 K10→K11, S2-2
-K2→K3, S2-3 K8→K9) — evtl. ein serienweites Muster, bei S2-4/S2-5 im Blick behalten.
+**Produktionsstand je Band** (umgebaut in eine Tabelle 2026-08-07 — der vorherige
+Fließtext-Absatz war durch viele Nachträge unübersichtlich geworden):
+
+| Band | Phase 1 (Kontinuität) | Phase 2 (Outline) | Phase 3 (Tracker) | Kernpunkt |
+|---|---|---|---|---|
+| S2-1 | ✅ [Kontinuitaet_S2-1.md](S2-1/Kontinuitaet_S2-1.md) | ✅ [Story_Outline_S2-1.md](S2-1/Story_Outline_S2-1.md) (3. Durchgang) | ✅ [Setup_Payoff](S2-1/Setup_Payoff_Tracker_S2-1.md) · [Cliffhanger](S2-1/Cliffhanger_Register_S2-1.md) · [Szenen](S2-1/Detaillierte_Szenenplanung_S2-1.md) | Herbert Lenz, Methode Zuhören, echter Sieg + Season-Haken |
+| S2-2 | ✅ [Kontinuitaet_S2-2.md](S2-2/Kontinuitaet_S2-2.md) | ✅ [Story_Outline_S2-2.md](S2-2/Story_Outline_S2-2.md) (2. Durchgang) | ✅ [Setup_Payoff](S2-2/Setup_Payoff_Tracker_S2-2.md) · [Cliffhanger](S2-2/Cliffhanger_Register_S2-2.md) · [Szenen](S2-2/Detaillierte_Szenenplanung_S2-2.md) | Grete, Methode Erinnern, Frieda unerkannt, ein Sieg + Dutzende offene Schlösser |
+| S2-3 | ✅ [Kontinuitaet_S2-3.md](S2-3/Kontinuitaet_S2-3.md) | ✅ [Story_Outline_S2-3.md](S2-3/Story_Outline_S2-3.md) | ✅ [Setup_Payoff](S2-3/Setup_Payoff_Tracker_S2-3.md) · [Cliffhanger](S2-3/Cliffhanger_Register_S2-3.md) · [Szenen](S2-3/Detaillierte_Szenenplanung_S2-3.md) | Ilse, Methode Vergeben, Doppel-Enthüllung (Halder + Frieda) |
+| S2-4 | ⬜ noch nicht begonnen | ⬜ | ⬜ | — |
+| S2-5 | ⬜ noch nicht begonnen | ⬜ | ⬜ | — |
+
+**Staffelweit:** [Hinweisketten_Tracker.md](Hinweisketten_Tracker.md) ✅ angelegt (Entscheidung
+#24), beide Ketten (Frieda, Feuer-Motiv) bis S2-3 nachgetragen, vollständiger
+Rückwärtsdurchgang nachgeholt (siehe dort).
+
+**Wiederkehrende Beobachtung:** Alle drei bisherigen Bände haben je einen
+Reise-/Zeitpunkt-Übergang, der beim Schreiben eine kurze Überleitungszeile braucht (S2-1
+K10→K11, S2-2 K2→K3, S2-3 K8→K9) — evtl. ein serienweites Strukturmuster, bei S2-4/S2-5 im
+Blick behalten.
+
 **Nächster Schritt: S2-4, Phase 1 (Kontinuität)** — oder Phase 4 (Kapitel schreiben) für
 S2-1/S2-2/S2-3, sobald die Aktivierungs-Checkliste (Abschnitt 1) erfüllt ist.
 
