@@ -238,6 +238,14 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
   Idee (nicht von Nora vorgegeben): Schatten raumweise testen. Eingrenzung bestätigt:
   Wohnzimmer/Kinderzimmer ruhig, Flur zunehmend unruhig, Schrankzimmertür = vollständige
   Blockade. Endet mit unerklärlichem metallischem Klicken aus dem Schrank (STIMME/GERÄUSCH).
+- **K6:** Direkter Anschluss, gleiche Szene. Sie betreten das Schrankzimmer; Schatten
+  fixiert sich vollständig auf den Schrank (Eingrenzung abgeschlossen). Äußere Untersuchung:
+  dunkles geschnitztes Holz, kein Hersteller, unbeweglich wie festgeschraubt. Theos
+  gescheiterter Büroklammer-Versuch (Humor-Beat). Kein Schlüssel im Haushalt, Frau Brandt
+  bietet an, einen Schlosser zu rufen — Nora bremst, bis klar ist, ob es ein normales
+  Schloss überhaupt ist. Nora deutet einen zweiten Zuhören-Versuch mit Frau Brandt selbst
+  an (Vorgriff auf K7). Endet mit einem einzelnen harten Schlag von innen gegen die Tür,
+  dann Stille (AKTION).
 
 ---
 
@@ -259,6 +267,7 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
 | K3 | ~900 | Hoch — Zuhören-Szene ist fast vollständig Dialog mit Herbert | ⚠️ unter dem 1.200-Minimum, aber bewusst knapp gehalten (einzelne, intensive Szene ohne Nebenhandlung); im Stimmen-Pass (Phase 4b) gegenprüfen, ob mehr Raum nötig ist |
 | K4 | ~805 | Hoch — fast durchgehend Verarbeitung im Dialog | ⚠️ unter dem 1.200-Minimum, gleicher Grund wie K3 (direkte Fortsetzung derselben Szene, keine neue Nebenhandlung); zusammen mit K3 im Stimmen-Pass gegenprüfen |
 | K5 | ~1.090 | 45,4 % — drei Szenen, durchgehend dialoglastig | ⚠️ knapp unter dem 1.200-Minimum, aber alle drei geplanten Beats vollständig erzählt; kein Füllstoff nötig, im Stimmen-Pass gegenprüfen |
+| K6 | ~980 | 45,9 % — eine durchgehende Szene, direkte Fortsetzung von K5 | ⚠️ unter dem 1.200-Minimum, gleicher Grund wie K3/K4 (eine intensive Szene ohne Ortswechsel); alle drei geplanten Beats vollständig erzählt, im Stimmen-Pass gegenprüfen |
 
 ---
 

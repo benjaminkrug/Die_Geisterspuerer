@@ -35,7 +35,7 @@ geerbtes.
 | 3 | Erste Gestalt im Türspalt (K2) | Vollständig sichtbar bei Herberts erstem Zuhören-Versuch (K3) | ✅ K2 geschrieben, Setup gepflanzt |
 | 4 | Bindungssignatur (Rückriss) zum ersten Mal (K3) | Verstanden + überwunden (K13) | ✅ K3 geschrieben, Setup gepflanzt |
 | 5 | Noras Entschluss „WAS hält ihn, nicht nur WARUM" (K4) | Beantwortet durch das gefundene Schloss (K9–10) | ✅ K4 geschrieben, Setup gepflanzt |
-| 6 | Schrank als auffälliges Detail (K6, verschlossen ohne Schlüssel) | Enthält den physischen Anker (K9–10), wird geöffnet (K13) | geplant |
+| 6 | Schrank als auffälliges Detail (K6, verschlossen ohne Schlüssel) | Enthält den physischen Anker (K9–10), wird geöffnet (K13) | ✅ K6 geschrieben, Setup gepflanzt |
 | 7 | Zweiter Zuhören-Versuch, diesmal Frau Brandt selbst (K7) | ⚠️ **Präzisiert (3. Durchgang):** K14 ist **kein** dritter Zuhören-Versuch — die emotionale Arbeit ist mit K7 getan. K14 zahlt sich aus, weil Frau Brandt Herbert jetzt etwas **Neues erzählt** (dass sie die Karten gefunden hat), nicht weil sie ihm nochmal zuhört. Kombiniert mit dem geöffneten Schloss (K13) ergibt erst das zusammen den Payoff. | geplant |
 | 8 | Hausmeister erwähnt einen "Schlosser", der vor Monaten alle Schlösser wartete (K8) | Bestätigt als Halders Handschrift — **wird in S2-1 selbst NICHT aufgelöst**, Payoff erst S2-2/S2-3 | ⚠️ bewusst offen (Staffel-Faden) |
 | 9 | Karton mit Herberts Sachen (K11) | Der letzte, ungeöffnete Brief wird der Schlüsselmoment der Befreiung (K14) | geplant |
