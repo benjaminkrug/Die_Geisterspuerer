@@ -116,8 +116,13 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
 
 - Stadt: **Gravenstedt**.
 - Wohnhaus der Familie: **Kirchgasse 14** (unverändert).
-- Der neue Fall in S2-1: Ort/Familie/Name des "Gastes" (des gebundenen Geistes) —
-  **noch nicht festgelegt, Phase 2.**
+- Der neue Fall in S2-1: **Herbert Lenz** (Geist), gestorben vor einem Jahr in einer
+  anderen Stadt; **Frau Brandt** (Tochter, lebt mit Familie seit 3 Monaten in Gravenstedt).
+  ⚠️ Zwei getrennte Daten: Todesjahr ≠ Ankunft in Gravenstedt (die liegt erst 3 Monate
+  zurück, mit dem Leuchtturm-Effekt). Details: `Story_Outline_S2-1.md`, Outline-
+  Entscheidung 1 (2. Durchgang korrigiert).
+- Trägerobjekt: ein Stapel nie abgeschickter Geburtstagskarten Herberts an seine Tochter
+  (Details: `Story_Outline_S2-1.md`, Kapitel 11).
 - Serien-Dach: „Die Geisterspürer" · Staffel-Untertitel: „Die Gebundenen" · Bandtitel S2-1:
   „Der Gast, der blieb".
 - Alterstext (Cover/Klappentext): „ab 12 Jahren" (`PLAN_Staffel2.md` Abschnitt 10).

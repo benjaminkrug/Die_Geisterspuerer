@@ -92,9 +92,11 @@ Diese Regeln machen den Plot logisch dicht. Jede Szene muss ihnen gehorchen.
    verifizierte Quelle aus den tatsächlichen Büchern, hier maßgeblich). In einer Kleinstadt
    verbreitet sich ein Gerücht wie „diese Kinder reden mit Toten" glaubwürdig **innerhalb
    weniger Monate**, besonders nachdem etwas so Sichtbares wie Band 5s Finale (acht Geister
-   auf einmal, öffentlich genug für Gerede) passiert ist. **Vorschlag: ~3–4 Monate seit
-   Band-5-Ende** (November → Februar/März) — lang genug fürs Gerücht, kurz genug, dass
-   Nora/Theo glaubwürdig 13/11 sind. Endgültig in der Akt-Planung festlegen.
+   auf einmal, öffentlich genug für Gerede) passiert ist. **Fixiert: 3 Monate seit
+   Band-5-Ende** (November → Februar) — lang genug fürs Gerücht, kurz genug, dass Nora/Theo
+   glaubwürdig 13/11 sind. ⚠️ **Wichtig (2. Durchgang):** Dieses 3-Monats-Fenster gilt für
+   den **Leuchtturm-Effekt und Frau Brandts Umzug**, NICHT für Herberts Todeszeitpunkt — der
+   liegt ein Jahr zurück und davon getrennt zu halten (siehe Outline-Entscheidung 1).
 
 > **Was diese Prüfung NICHT abdeckt:** Fragen, die erst ab S2-3 relevant werden (Halders
 > Zugang zur Familie, Friedas Verhalten), gehören in die Mechanik-Prüfung des jeweiligen
@@ -137,13 +139,26 @@ Diese Regeln machen den Plot logisch dicht. Jede Szene muss ihnen gehorchen.
 
 # Outline-Entscheidungen — fixiert (2026-08-07)
 
-1. **Der Fall: Herbert Lenz.** Vor ~einem Jahr in einer anderen Stadt gestorben. Seine
-   Tochter, **Frau Brandt**, und ihre kleine Familie sind erst kürzlich nach Gravenstedt
-   gezogen. Vom Leuchtturm-Effekt angezogen, findet sein Geist den einzigen Ort, an den ihn
-   noch etwas bindet: seine Tochter. Er war ihr zu Lebzeiten nie wirklich nah — ein
-   Familienbruch, der nie geheilt wurde. **Methode: Zuhören** (Band-1-Methode, wie in
-   `PLAN_Staffel2.md` Abschnitt 6 vorgegeben) — er braucht, dass jemand ihm zuhört, was er
-   zu Lebzeiten nie aussprechen konnte, UND dass Frau Brandt ihm zuhört, nicht nur Nora.
+1. **Der Fall: Herbert Lenz.** ⚠️ **Zeitlinie korrigiert (2. Durchgang):** Zwei getrennte
+   Daten, nicht eins — Herbert **starb vor einem Jahr** in einer anderen Stadt (der
+   Leuchtturm-Effekt existierte da noch nicht, Band 5 war noch nicht geschrieben). Seither
+   **wanderte er ruhelos umher**, gebunden an nichts. Erst **vor drei Monaten**, als der
+   Schleier in Gravenstedt heilte, wurde er von zwei Dingen zugleich dorthin gezogen: dem
+   neuen Leuchtturm-Effekt UND seiner Tochter, die zur selben Zeit — aus eigenen, weltlichen
+   Gründen (Neuanfang, neuer Job) — nach Gravenstedt zog. **Beide Fäden gemeinsam** erklären,
+   warum er ausgerechnet jetzt und ausgerechnet dort auftaucht; keiner allein würde reichen.
+   Seine Tochter, **Frau Brandt**, und ihre kleine Familie sind seit Kurzem in Gravenstedt.
+   Er war ihr zu Lebzeiten nie wirklich nah — ein Familienbruch, der nie geheilt wurde.
+   **Konkretes Objekt (2. Durchgang ergänzt):** Ein Karton mit Herberts Sachen, den Frau
+   Brandt nie ausgepackt hat, enthält **einen Stapel Geburtstagskarten für sie — eine pro
+   Jahr, nie abgeschickt.** Der Bruch entstand, weil er ihre Partnerwahl/ihren Wegzug damals
+   scharf verurteilte und ein Wort zu viel sagte; zu stolz, es zurückzunehmen, kaufte er
+   trotzdem jedes Jahr eine Karte, ohne den Mut, sie abzuschicken. Serien-typisches
+   Trägerobjekt (wie Lina Tagebuch, Brenner Zweig, Marlene Murmel, Faber Medaillon) — macht
+   die Tragik konkret statt abstrakt ("Scham/Angst" allein war zu vage).
+   **Methode: Zuhören** (Band-1-Methode, wie in `PLAN_Staffel2.md` Abschnitt 6 vorgegeben) —
+   er braucht, dass jemand ihm zuhört, was er zu Lebzeiten nie aussprechen konnte, UND dass
+   Frau Brandt ihm zuhört, nicht nur Nora.
 2. **Zeitabstand zu Band 5: ~3 Monate.** Band 5 endete im November, S2-1 beginnt im
    **Februar**. Passt zur dunklen Jahreszeit (Atmosphäre) und ist plausibel für ein
    Kleinstadt-Gerücht (Mechanik Punkt 8).
@@ -173,10 +188,12 @@ selbst suchen müssen. **Cliffhanger [DIALOG]:** Frau Brandt: "Er war nie so, al
 Warum ist er jetzt die ganze Zeit da?"
 
 ### Kapitel 2 – „Was Frau Brandt erzählt"
-Die Geschichte: Herbert Lenz, ihr Vater, vor einem Jahr gestorben, Familienbruch, den
-niemand je reparierte. Erste Anzeichen in der neuen Wohnung (Kälte, ein Schatten am
-Schrank). **Schatten:** verweigert den Flur vor dem Schrankzimmer. **Humor:** Theo fragt,
-ob "Familienstreit" jetzt offiziell zu ihrem Aufgabenbereich gehört. **Cliffhanger [BILD]:**
+Die Geschichte: Herbert Lenz, ihr Vater, vor einem Jahr gestorben — **aber erst seit ihrem
+eigenen Umzug vor drei Monaten ist er plötzlich da** (die zeitliche Lücke wird hier beiläufig
+benannt, nicht erklärt — das WARUM kommt erst später). Familienbruch, den niemand je
+reparierte. Erste Anzeichen in der neuen Wohnung (Kälte, ein Schatten am Schrank).
+**Schatten:** verweigert den Flur vor dem Schrankzimmer. **Humor:** Theo fragt, ob
+"Familienstreit" jetzt offiziell zu ihrem Aufgabenbereich gehört. **Cliffhanger [BILD]:**
 Durch den Türspalt sehen sie kurz eine Gestalt, die sofort wieder verschwindet.
 
 ### Kapitel 3 – „Der erste Versuch"
@@ -212,21 +229,30 @@ einer Büroklammer zu öffnen, scheitert kläglich. **Cliffhanger [AKTION]:** De
 verschlossen — und es gibt keinen Schlüssel im ganzen Haushalt.
 
 ### Kapitel 7 – „Was Zuhören nicht lösen kann"
-Zweiter Versuch mit Herbert (jetzt mit Frau Brandt aktiv einbezogen, sie hört ihm selbst
-zu) — emotional stark, aber derselbe Rückriss passiert wieder. Bestätigt Mechanik Punkt 4:
-Wiederholung wirkt nicht. **Schatten:** winselt kurz, ungewöhnlich für ihn. **Humor:**
-knapp gehalten, dieses Kapitel ist bewusst ernster (Wach-Regel: nicht zwei dialogarme
-Kapitel in Folge, hier gegenprüfen). **Cliffhanger [DIALOG]:** Frau Brandt, erschüttert:
-"Ich hab ihm doch endlich zugehört. Warum reicht das nicht?"
+⚠️ **Begründung ergänzt (2. Durchgang):** Das ist bewusst **kein** bloßer zweiter Versuch —
+Nora und Theo wissen seit K4 längst, dass Wiederholen nichts bringt. Diesmal ist die neue
+Variable **Frau Brandt selbst**, die zum ersten Mal direkt mit ihrem Vater spricht, nicht
+Nora stellvertretend. Nora sagt das im Text auch so: "Ich glaube nicht, dass es nochmal an
+uns liegt. Aber er muss das von Ihnen hören, nicht von mir." **Der eigentliche Zweck des
+Kapitels ist nicht, dass die Kinder etwas Neues lernen — sondern dass Frau Brandt selbst
+erlebt**, dass hier mehr dahintersteckt, als sie glauben wollte. Derselbe Rückriss passiert
+trotzdem — bestätigt für SIE, nicht für die Kinder, dass etwas Äußeres im Spiel ist.
+**Schatten:** winselt kurz, ungewöhnlich für ihn. **Humor:** knapp gehalten, dieses Kapitel
+ist bewusst ernster (Wach-Regel: nicht zwei dialogarme Kapitel in Folge, hier gegenprüfen).
+**Cliffhanger [DIALOG]:** Frau Brandt, erschüttert: "Ich hab ihm doch endlich zugehört.
+Warum reicht das nicht?"
 
-### Kapitel 8 – „Die Handwerker-Rechnung" (ABSCHLUSS AKT 2)
-Nora findet einen Hinweis auf frühere "Wartungsarbeiten" am Schrank/den Schlössern des
-Hauses — eine alte Quittung oder ein Vermerk der Hausverwaltung, Monate vor Herberts Tod.
-Erste, noch unklare Ahnung: **Jemand hat hier gearbeitet, bevor irgendjemand von Herbert
-wusste.** **Schatten:** reagiert stark auf das Papier selbst (riecht/knurrt es an) — ein
-neuer Reaktionstyp. **Humor:** Theo witzelt über "Verschwörungstheorien", nimmt es dann
-doch ernst. **Cliffhanger [ERKENNTNIS]:** Die Wartung fand statt, **bevor die Brandts
-überhaupt eingezogen waren.**
+### Kapitel 8 – „Die Frage an den Hausmeister" (ABSCHLUSS AKT 2)
+⚠️ **Aktiv statt zufällig (2. Durchgang):** Nora fragt gezielt beim Hausmeister/der
+Hausverwaltung nach, ob am Schrank oder an den alten Schlössern des Hauses je gearbeitet
+wurde — eine bewusste Ermittlungshandlung, kein Zufallsfund (Serien-Muster: entdecken durch
+Nachfragen/Recherche, wie die Bibliotheksszenen in Band 1–2). Der Hausmeister erinnert sich
+vage an einen "Schlosser", der vor Monaten die alten Schlösser im ganzen Haus "gewartet"
+hat — lange bevor die Brandts einzogen. **Schatten:** reagiert stark, als der Hausmeister
+den Namen des Handwerks (nicht den Namen der Person — die kennt niemand) erwähnt. **Humor:**
+Theo witzelt über "Verschwörungstheorien", nimmt es dann doch ernst. **Cliffhanger
+[ERKENNTNIS]:** Die Wartung fand statt, **bevor die Brandts überhaupt eingezogen waren —
+und lange bevor irgendjemand von Herbert wusste.**
 
 ## AKT 3 — Das Schloss (K9–12)
 
@@ -245,13 +271,17 @@ vergleicht es mit einem Adventskalender-Schlösschen. **Cliffhanger [KOMPLIKATIO
 Ein grober Öffnungsversuch schlägt fehl — das Schloss ist nicht mit Gewalt zu knacken,
 nur mit dem richtigen Ansatz.
 
-### Kapitel 11 – „Was Herbert wirklich wollte"
-Emotionaler Kern-Beat: Ein ruhiges Gespräch (Frau Brandt + Nora/Theo), in dem endlich
-klar wird, was zwischen Herbert und seiner Tochter wirklich stand — nicht Groll, sondern
-Scham/Angst, sich zu entschuldigen. **Schatten:** legt sich still neben Frau Brandt,
-tröstende Reaktion (neuer Typ). **Humor:** dezent, ein warmer statt ein komischer Beat
-(Ausnahme erlaubt, CLAUDE.md: 2–3 pro Buch). **Cliffhanger [DIALOG]:** Frau Brandt: "Wenn
-ich das gewusst hätte, hätte ich ihn nie gehen lassen. Jetzt versteh ich's zu spät."
+### Kapitel 11 – „Der Karton"
+⚠️ **Konkretisiert (2. Durchgang):** Emotionaler Kern-Beat, jetzt an einem echten Gegenstand
+statt an einem abstrakten Gefühl. Frau Brandt geht durch einen nie ausgepackten Karton mit
+Herberts Sachen — findet **einen Stapel Geburtstagskarten, eine pro Jahr, alle für sie, keine
+abgeschickt.** Erst hier wird der Bruch konkret: Herbert verurteilte damals scharf ihre
+Partnerwahl/ihren Wegzug, sagte ein Wort zu viel — und war danach zu stolz, es
+zurückzunehmen, obwohl er jedes Jahr eine Karte kaufte. **Schatten:** legt sich still neben
+Frau Brandt, tröstende Reaktion (neuer Typ). **Humor:** dezent, ein warmer statt ein
+komischer Beat (Ausnahme erlaubt, CLAUDE.md: 2–3 pro Buch). **Cliffhanger [OBJEKT+DIALOG]:**
+Frau Brandt hält die ungeöffnete letzte Karte in der Hand: "Er hat sie letztes Jahr gekauft.
+Kurz bevor er starb. Ich hab sie nie gefunden, bis jetzt."
 
 ### Kapitel 12 – „Der richtige Ansatz" (ABSCHLUSS AKT 3)
 Aus dem emotionalen Durchbruch (K11) UND der handwerklichen Beobachtung (K10) setzt sich
@@ -270,10 +300,12 @@ ruhige Reaktion des ganzen Buches. **Humor:** kurz, erleichtert. **Cliffhanger
 [SPANNUNG/UNSICHERHEIT]:** Reicht das offene Schloss allein, oder braucht es noch etwas?
 
 ### Kapitel 14 – „Zuhören, zu Ende"
-Frau Brandt spricht direkt zu Herbert — der Zuhören-Moment, diesmal ungestört. Er kann
-endlich antworten/loslassen. **Schatten:** bleibt ruhig, beobachtet respektvoll (wie in
-Staffel-1-Befreiungsszenen etabliert). **Humor:** keiner nötig — bewusster ernster Beat.
-**Cliffhanger [BILD]:** Herbert beginnt zu gehen — diesmal ohne Ruck.
+Frau Brandt spricht direkt zu Herbert — der Zuhören-Moment, diesmal ungestört. **Zahltag
+K11:** Sie liest ihm die letzte, ungeöffnete Karte laut vor (oder hält sie einfach hoch —
+Details in der Szenenplanung). Er kann endlich antworten/loslassen. **Schatten:** bleibt
+ruhig, beobachtet respektvoll (wie in Staffel-1-Befreiungsszenen etabliert). **Humor:**
+keiner nötig — bewusster ernster Beat. **Cliffhanger [BILD]:** Herbert beginnt zu gehen —
+diesmal ohne Ruck.
 
 ### Kapitel 15 – „Was bleibt, was verschwindet"
 Herbert geht endgültig, Frau Brandt bleibt mit Trauer UND Frieden zurück statt nur mit
