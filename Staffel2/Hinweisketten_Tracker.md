@@ -81,6 +81,19 @@ Richtung Kette-2-Auflösung setzen, den nur Frieda setzen soll.
 
 ---
 
+## Vollständiger Rückwärtsdurchgang vor S2-5 — durchgeführt (2026-08-07)
+
+> Kette 2 löst sich in S2-5 auf — Pflicht-Check laut „Regeln für die Pflege" unten. Kette von
+> vorn nach hinten gelesen: S2-1/S2-2 (kein Hinweis) → S2-3 K12 (Überzeugung etabliert) →
+> S2-3 K13 (Ilses Dissens, nur sein Recht zu binden) → S2-4 K11 (Friedas erster Zweifel an
+> der Prüfung, nicht der Tatsache) → S2-5 K3–K4 (Beleg gefunden) → S2-5 K10–K14
+> (Konfrontation, Auflösung). Vollständige Tabelle in
+> `S2-5/Setup_Payoff_Tracker_S2-5.md` Abschnitt D. **Ergebnis: Kette hält lückenlos über
+> drei Bände, jede Eskalationsstufe plausibel bei der jeweiligen Figur, keine Stufe nimmt
+> die nächste vorweg.** Kein weiterer Befund. **Kette 2 damit vollständig abgeschlossen.**
+
+---
+
 ## Regeln für die Pflege
 
 - Jede S2-Band-Planung (ab S2-2) prüft diese Datei **vor** der eigenen Mechanik-Prüfung.

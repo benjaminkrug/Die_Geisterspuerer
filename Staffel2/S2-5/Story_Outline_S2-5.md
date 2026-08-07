@@ -214,11 +214,14 @@ verworfen. **Cliffhanger [GEDANKE/ENTSCHLUSS]:** Frieda: Sie muss es ihm selbst 
 in der Werkstatt.
 
 ### Kapitel 6 – „Er ist zurück"
-Ein kurzer Zwischenstopp bei einer vertrauten Quelle (z. B. Frau Held oder ein Gerücht von
-der Straße) bestätigt: Halder ist mit einem neuen, gebundenen Fall zurück in der Stadt.
-**Schatten:** knurrt kurz in Richtung Werkstatt-Richtung, dann still. **Humor:** ein
-angespannter, kurzer Scherz von Theo, der nicht ganz zündet. **Cliffhanger [BILD]:** Ein
-Wagen mit Werkstattnamen, der gerade in Richtung Stadtrand fährt — er ist dort.
+⚠️ **Präzisiert (Phase 3):** Halder war für die Suche im Zeitfenster seiner Abwesenheit
+(Mechanik Punkt 3) mehrere Tage fort; Frieda kam direkt danach zu den Kindern. Ein kurzer
+Zwischenstopp bei einer vertrauten Quelle (z. B. Frau Held oder ein Gerücht von der Straße)
+bestätigt: Er ist bereits wieder zurück, mit dem neuen, gebundenen Fall — was die Dringlichkeit
+erklärt, es ihm **heute** zu sagen, bevor er die durchsuchte Schublade selbst bemerkt.
+**Schatten:** knurrt kurz in Richtung Werkstatt, dann still. **Humor:** ein angespannter,
+kurzer Scherz von Theo, der nicht ganz zündet. **Cliffhanger [ERKENNTNIS]:** Er ist schon
+zurück — sie haben weniger Zeit, als sie dachten.
 
 ### Kapitel 7 – „Der Weg zur Werkstatt"
 ⚠️ **Reise-Übergang (Serienmuster, `PLAN_Staffel2.md` Abschnitt 15, Abweichung 5):** Der
@@ -316,12 +319,11 @@ aufzulösen. **Vollständige Prüfung folgt in Phase 3.**
 
 # Cliffhanger-Typenfolge (vorläufig, volle Prüfung in Phase 3)
 
-DIALOG · BILD · OBJEKT · ERKENNTNIS · GEDANKE/ENTSCHLUSS · BILD · STIMME/GERÄUSCH ·
+⚠️ **Korrigiert in Phase 3:** K6 war ursprünglich BILD (fünftes Mal in der Folge) — beim
+Gegenzählen inhaltlich präziser als ERKENNTNIS erkannt (der Kern des Beats ist die
+Information „er ist zurück", nicht das Bild des Wagens selbst). Vollständige Prüfung in
+`Cliffhanger_Register_S2-5.md`.
+
+DIALOG · BILD · OBJEKT · ERKENNTNIS · GEDANKE/ENTSCHLUSS · ERKENNTNIS · STIMME/GERÄUSCH ·
 SPANNUNG/UNSICHERHEIT · BILD · AKTION · DIALOG · ERKENNTNIS · AKTION · OBJEKT · BILD ·
 SPANNUNG/UNSICHERHEIT · DIALOG · BILD (Staffel-Abschluss, kein echter Cliffhanger)
-
-Keine zwei gleichen Typen direkt hintereinander (Vorabprüfung, formal bestätigt in Phase 3).
-⚠️ **BILD 5×** (K2, K6, K9, K15, K18) — auffällig hoch, aber plausibel für ein
-bildgetriebenes Finale (Ankunft, Ausmaß, Befreiung, Abschluss); **bei der Phase-3-Prüfung
-besonders genau gegenzählen**, ob sich das durch andere Typen entschärfen lässt, ohne die
-stärksten Bilder zu verlieren.
