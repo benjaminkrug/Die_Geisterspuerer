@@ -225,12 +225,14 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
 - **K2:** Direkter Anschluss, selber Nachmittag. Frau Brandt erzählt bei Nora zuhause von
   Herbert; anschließend gehen alle drei zur Wohnung der Brandts (~10 Min. entfernt). Erste
   Sichtung im Türspalt des Schrankzimmers.
+- **K3:** Direkter Anschluss. Erster Zuhören-Versuch im Schrankzimmer — Herbert erscheint
+  vollständig, beginnt zu gehen, wird im letzten Moment zurückgerissen (Bindungssignatur #1).
 
 ---
 
 ## AKT-FORTSCHRITT
 
-- 🟨 Akt 1 (K1–4) — in Arbeit: K1 ✅, K2 ✅ geschrieben, K3–K4 offen
+- 🟨 Akt 1 (K1–4) — in Arbeit: K1 ✅, K2 ✅, K3 ✅ geschrieben, K4 offen
 - ⬜ Akt 2 — noch nicht geschrieben
 - ⬜ Akt 3 — noch nicht geschrieben
 - ⬜ Akt 4 — noch nicht geschrieben
@@ -243,6 +245,7 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
 |---|---|---|---|
 | K1 | ~1.170 | Hoch — Großteil des zweiten Halbkapitels ist direkte Rede | ✅ im Zielbereich |
 | K2 | ~1.100 | Hoch — fast durchgehend Dialog zwischen Nora/Theo/Frau Brandt | ✅ im Zielbereich |
+| K3 | ~900 | Hoch — Zuhören-Szene ist fast vollständig Dialog mit Herbert | ⚠️ unter dem 1.200-Minimum, aber bewusst knapp gehalten (einzelne, intensive Szene ohne Nebenhandlung); im Stimmen-Pass (Phase 4b) gegenprüfen, ob mehr Raum nötig ist |
 
 ---
 
