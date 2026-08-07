@@ -254,6 +254,28 @@ Vergangenheit, sondern weil er weiß: *hier werden ab jetzt laufend neue ankomme
 will jeden abfangen, bevor die Kinder ihn „zu früh" gehen lassen. Das liefert automatisch
 einen neuen Fall pro Band, ohne dass jedes Mal ein neuer Zufall erfunden werden muss.
 
+**★ Wer er ist — Name, Alter, Tarnung, Aussehen (bestätigt 2026-08-07):**
+**Anton Halder**, Ende 40 (~48). Reist als **Schlosser und Uhrmacher** — ein historisch
+plausibler Doppelberuf (beide Handwerke arbeiten mit Mechanik), der ihm einen legitimen
+Grund gibt, alte Häuser zu betreten und von Stadt zu Stadt zu ziehen, genau wie Frau
+Silber vierzig Jahre lang unauffällig unterwegs war. Bewusst **kein** klischeehaftes
+Bösewicht-Äußeres: ruhig, freundlich im Ton, jemand, dem man beim ersten Treffen
+vertrauen würde — wichtig für den freien Einstieg (ein Neuleser soll ihn nicht sofort
+als Gegner erkennen) und für die Serien-Ethik (er hält sich selbst für einen
+Beschützer). Einziges konkretes körperliches Detail: eine alte, verblasste
+**Brandnarbe an einer Hand** — nie erklärt, bis die Kinder (und der Leser) später
+verstehen, was sie bedeutet.
+
+**Das Unglück in seiner alten Stadt:** Jung, ehrgeizig, wollte sich als angehender
+Hüter beweisen — hat einen besonders unruhigen Geist **zu hastig** mit der falschen
+Methode gehen lassen wollen. In derselben Nacht brach in der Altstadt ein **Feuer**
+aus (auch im ehemaligen Haus des Geistes), das sich ungewöhnlich schnell ausbreitete.
+Der tatsächliche Grund war vermutlich banal — das bleibt **absichtlich unklar**, für
+ihn war die Abfolge der Ereignisse seit dreißig Jahren Beweis genug. Bewusst **kein**
+zweiter Frau-Silber-Vorfall (er sei ihr Schüler gewesen) — das würde Regel 3
+verletzen (Rückbezüge nie tragend) und Neuleser verwirren. Bewusst **kein** Einsturz
+(zu nah an Marlene/Johann, Band 3) und **keine** Krankheit (zu nah an Faber, Band 4).
+
 **Die neue Leitfrage der Staffel:** Jemand macht rückgängig, was Silber und die
 Kinder erreicht haben – bindet die Toten neu. Wer, und warum? Und was hatte Frau
 Silbers Verschwinden wirklich mit ihm zu tun? (Bereichert Silber rückwirkend, ohne
@@ -262,13 +284,13 @@ verschwand – jemand arbeitete gegen sie".)
 
 ### 5-Band-Skizze (Staffel 2, eigener Band 1–5)
 
-| Band | Kern | Grusel |
-|------|------|--------|
-| **S2-1** (eigener Band 1, freier Einstieg) | Ein neuer Geist – aber er verhält sich *falsch*: Die Kinder wenden ihre Methode an (zuhören), und er kann trotzdem nicht gehen. Etwas hält ihn. Führt die neue Prämisse ein (jemand brachte den Fall zu ihnen) + erstes Zeichen des Antagonisten (der Geist wurde **gebunden**, mit einer Art Signatur). Nora/Theo/Schatten voll neu etabliert. **Ende:** Die Bindung war Absicht – jemand tut das. | 6/10 |
-| **S2-2** | Ein Ort, an dem *viele* gebunden sind (ein „Sammel-Knoten" des Antagonisten). Die Kinder begreifen: Es gibt einen Gegen-Hüter. | 6–7/10 |
-| **S2-3** | Der Antagonist wird persönlich – zielt auf die Kinder / Schatten / die Mutter. Mid-Season-Enthüllung: wer er ist, seine Verbindung zu Silber. | 7–8/10 |
-| **S2-4** | Der dunkelste Band. Der Antagonist gewinnt die Oberhand. Ein Geist, den die Kinder *nicht* retten können – der Tiefpunkt „Empathie reicht nicht immer". Nora zweifelt an der Rolle. | 8/10 |
-| **S2-5** (Finale) | Konfrontation. Empathie + eine neue, erwachsenere Einsicht siegen: Man bezwingt Angst nicht mit Kraft – man versteht die Angst des Antagonisten. Optional Auflösung des Schatten-Rätsels. Setzt Serienende ODER Staffel 3 auf. | 8–9/10 |
+| Band | Titel | Kern | Grusel |
+|------|-------|------|--------|
+| **S2-1** (freier Einstieg) | „Der Gast, der blieb" | Ein neuer Geist – aber er verhält sich *falsch*: Die Kinder wenden ihre Methode an (zuhören), und er kann trotzdem nicht gehen. Etwas hält ihn (die Bindungssignatur). Führt die neue Prämisse ein (jemand brachte den Fall zu ihnen). Nora/Theo/Schatten voll neu etabliert. **Ende:** Die Kinder finden den physischen Anker (ein winziges Schloss) und befreien den Geist — echter Sieg —, aber die größere Erkenntnis bleibt offen: Die Bindung war Absicht, jemand tut das systematisch. | 6/10 |
+| **S2-2** | „Die Uhr, die rückwärts läuft" | Die Spur führt zu einer alten Uhrmacher-/Schlosserwerkstatt — ein „Sammel-Knoten" mit *vielen* gebundenen Geistern. Schatten reagiert erstmals überwältigt (mehrere Präsenzen zugleich). Die Kinder begreifen: Es gibt einen Gegen-Hüter, und Schloss-für-Schloss-Befreien skaliert nicht. Ein unbekanntes Mädchen (Frieda, unerkannt) taucht am Ort auf. | 6–7/10 |
+| **S2-3** | „Die Frau, die niemand gehen ließ" | Der Antagonist wird persönlich — nutzt seine Handwerker-Tarnung für legitimen Zugang zur Familie (Dread durch Nähe, nicht Gewalt). Zeigt den Kindern einen gebundenen Geist als „Beweis" seiner Überzeugung. Doppel-Enthüllung: wer er ist (Anton Halder) — **und** dass Frieda seine Tochter ist. | 7–8/10 |
+| **S2-4** | „Das Zimmer, das sich erinnert" | Der dunkelste Band, aus zwei unabhängigen Quellen: (1) ein Geist, den die Kinder mit der *richtigen* Methode trotzdem nicht retten können — ein echter, kanonbegründeter Grenzfall, bewusst **nicht** Halders Werk, damit „Empathie reicht nicht immer" nicht zur Ausrede wird; (2) Halder fängt parallel einen weiteren Geist ab. Nora zweifelt an der Rolle, Friedas Loyalität gerät ins Wanken. | 8/10 |
+| **S2-5** (Finale) | „Der letzte Schlüssel" | Rückkehr zur Werkstatt aus S2-2. Frieda findet in Halders eigenen, jahrzehntelang gehorteten Unterlagen den Beweis, dass das Feuer einen banalen, unabhängigen Grund hatte — sie, nicht die Kinder, bringt ihn zur Konfrontation mit der Wahrheit. Er öffnet die Werkstatt selbst; alle dort gebundenen Geister werden frei. Sein weiteres Schicksal bleibt bewusst offen (möglicher Staffel-3-Faden). | 8–9/10 |
 
 ### ★ S2-1 — Konzept bestätigt (2026-08-07)
 
@@ -294,6 +316,106 @@ Liefert den Cliffhanger von selbst: alles richtig gemacht, und trotzdem nicht fu
 nicht mit einer zufälligen Entdeckung wie Band 1, sondern damit, dass **jemand an ihre Tür
 klopft** und um Hilfe bittet — ein Fall, der zunächst simpel wirkt (die Art, die sie in
 Staffel 1 souverän gelöst hätten), bis die Leine-Szene zeigt: dieses Mal ist etwas anders.
+
+**Die Auflösung — ein physischer Anker statt eines endgültigen Siegs über den
+Antagonisten:** Halders „Leine" hat einen konkreten Ankerpunkt — ein winziges Schloss,
+unsichtbar, bis man weiß, wonach man sucht (passend zu seinem Schlosser-Beruf, konkretes
+Vokabular statt Abstraktion). Die Kinder finden und öffnen es und befreien damit *diesen*
+Geist — ein echter, hart erarbeiteter Sieg, der das bewährte Staffel-1-Muster (jeder Band
+schließt seinen Fall ab) bewahrt. Bewusst **kein** genereller Trick gegen Halder: Ein
+Schloss pro Geist knacken skaliert nicht — sobald er merkt, dass es geht, wird er
+vorsichtiger und versteckt seine Anker besser. Das begründet, warum die Staffel nicht nach
+zwei Bänden vorbei ist, und warum das Finale ihn nur durch **sein eigenes Aufhören**
+stoppen kann, nicht durch das Knacken weiterer Schlösser. Das geöffnete Schloss wird ein
+physisches Beweisstück, das die Kinder behalten — es taucht in S2-2 wieder auf, wenn sie in
+der Werkstatt Dutzende identischer Schlösser finden.
+
+### ★ S2-2 — Konzept bestätigt (2026-08-07)
+
+**Arbeitstitel: „Die Uhr, die rückwärts läuft"**
+Von den verbleibenden Platzhaltern gewählt, weil Gebunden-Sein Stillstand bedeutet — eine
+rückwärtslaufende Uhr ist dieses Bild konkret und kindgerecht, ohne das Wort „gebunden"
+auszusprechen. „Das Zimmer, das sich erinnert" wäre hier zu nah an Fabers magischem Zimmer
+aus Band 4 gewesen — für S2-4 aufgehoben (siehe unten), wo es besser passt.
+
+**Der Ort:** eine alte Uhrmacher- und Schlosserwerkstatt, die Halder als Tarnung und Lager
+nutzt — erweitert seine Schlosser-Tarnung aus Abschnitt 6 organisch, statt einen zweiten,
+unabhängigen Handlungsort zu erfinden. Mehrere Uhren zeigen falsche oder rückwärtslaufende
+Zeiten — das äußere Symptom mehrerer gleichzeitig „angehaltener" Geister.
+
+**Schattens Reaktion:** Zum ersten Mal überwältigt — nicht eine einzelne Präsenz wie sonst,
+sondern mehrere zugleich. Neue Variante seiner Pflicht-Reaktion pro Kapitel, keine
+Regelverletzung.
+
+**Frieda:** taucht hier unerkannt auf, hütet den Ort, ohne dass die Kinder wissen, wozu sie
+gehört (gestaffelte Einführung, siehe Abschnitt 9).
+
+### ★ S2-3 — Konzept bestätigt (2026-08-07)
+
+**Arbeitstitel: „Die Frau, die niemand gehen ließ"**
+Anders als S2-1/S2-2 beschreibt dieser Titel wörtlich einen konkreten gebundenen Geist, den
+Halder den Kindern in diesem Band zeigt — als „Beweis", dass Binden schützt.
+
+**Wie er „persönlich wird" — ohne Gewalt:** Er nutzt seine Schlosser-/Uhrmacher-Tarnung, um
+sich legitimen Zugang zur Familie zu verschaffen (repariert ein altes Schloss oder eine
+Standuhr in ihrer Nähe). Kein Überfall, sondern unheimliche Nähe — Dread statt Schock, wie
+in Abschnitt 8 gefordert.
+- **Mutter:** ahnungslos freundlich zu ihr — macht den Kindern Angst, ohne sie in echte
+  Gefahr zu bringen.
+- **Schatten:** knurrt ihn an, verweigert den Raum — Frühwarnsystem gegen einen Menschen,
+  den alle anderen sympathisch finden.
+- **Kinder:** Er zeigt ihnen die gebundene Frau direkt, nicht als Drohung, sondern als
+  „Beweis": *„Seht ihr? Ihr geht es gut."* Stärkster Moment für seine Ideologie, weil er
+  nicht lügt — sie *wirkt* sicher, nur nicht frei.
+
+**Doppel-Enthüllung:** wer er ist (Anton Halder, über die Leine-Signatur aus S2-1 und die
+Werkstatt aus S2-2 identifiziert) — **und** dass Frieda seine Tochter ist. ⚠️ Ersetzt die
+alte Vorgabe „seine Verbindung zu Silber" (Abschnitt 6: bewusst verworfen, Regel 3).
+
+### ★ S2-4 — Konzept bestätigt (2026-08-07)
+
+**Arbeitstitel: „Das Zimmer, das sich erinnert"**
+Der letzte reguläre Platzhalter, hier aufgehoben statt bei S2-2, weil das Bild — ein Raum,
+der an etwas festhält — genau zum unlösbaren Fall dieses Bandes passt.
+
+**★ Bewusste Trennung des Tiefpunkts von Halder:** Der gescheiterte Fall dieses Bandes ist
+**nicht** von Halder gebunden. Begründung: Ginge jeder Fehlschlag auf den Antagonisten
+zurück, würde „Empathie reicht nicht immer" zu „…wenn ein Bösewicht dazwischenfunkt" — ein
+schwächeres Thema. Stattdessen ein Geist, den die Kinder mit der **komplett richtigen**
+Methode trotzdem nicht befreien können — ein echter, kanonbegründeter Grenzfall (die Serie
+selbst sagt „jeder Geist braucht etwas anderes", nicht „jeder lässt sich befreien"; ein
+Fall, der Versöhnung mit einem selbst längst Verstorbenen bräuchte, kollidiert mit der
+Kanon-Regel „befreite Geister kehren nicht zurück"). Nora zweifelt dadurch an der eigenen
+Fähigkeit — nicht daran, ob der Gegner zu stark ist.
+
+**Parallel dazu:** Halder gewinnt an Boden — fängt anderswo einen weiteren, vom Leuchtturm
+angezogenen Geist ab. Friedas Loyalität gerät ins Wanken (noch keine endgültige
+Entscheidung, das ist S2-5).
+
+### ★ S2-5 — Konzept bestätigt (2026-08-07)
+
+**Arbeitstitel: „Der letzte Schlüssel"**
+Passt doppelt: wörtlich (der Schlüssel zur Werkstatt aus S2-2) und übertragen (der letzte
+„Verschluss", den Halder selbst öffnen muss). ⚠️ Ersetzt die alte Vorgabe „Optional
+Auflösung des Schatten-Rätsels" (Abschnitt 9: Schatten ist bereits in Band 5 vollständig
+aufgelöst, kein Staffel-2-Thema).
+
+**Schauplatz:** Rückkehr zur Uhrmacher-/Schlosserwerkstatt aus S2-2 — strukturelle Klammer
+statt eines dritten, neuen Ortes.
+
+**Wie er aufgelöst wird — Beweis statt Kampf oder reiner Gefühlsappell:** Frieda findet in
+Halders eigenen, jahrzehntelang gehorteten Unterlagen (Zeitungsausschnitte, Berichte über
+das Feuer aus Abschnitt 6) den Hinweis, dass es einen banalen, unabhängigen Grund hatte — er
+selbst hat sich diese Fakten 30 Jahre nicht angesehen. **Frieda**, nicht Nora oder Theo,
+trägt die entscheidende Konfrontation — der Zahltag ihres ganzen Bogens (S2-2 unerkannt →
+S2-3 enthüllt → S2-4 zweifelnd → S2-5 entscheidet). Hält die Serien-Regel „Empathie schlägt
+Kampf" ein, ohne dass die Kinder ihn „besiegen" — sie ermöglichen nur, dass er die Wahrheit
+sieht.
+
+**Ende:** Er öffnet die Werkstatt selbst — alle dort gebundenen, vom Leuchtturm angezogenen
+Geister werden frei. Sein weiteres Schicksal bleibt bewusst offen (denkbar: er bleibt,
+versucht es „richtig" zu lernen) — möglicher, nicht zwingender Baustein für eine dritte
+Staffel, passend zur Serienlängen-Entscheidung (Abschnitt 12, #6).
 
 ---
 
@@ -373,17 +495,21 @@ das Frühwarn-Gespür der Kinder (Schatten-Pflicht: 1 Reaktion pro Kapitel gilt 
 aber **ohne offenes Rätsel**. Staffel 2 stellt **ein oder mehrere ganz neue Geheimnisse**
 ins Zentrum (siehe Abschnitt 6), unabhängig von Schatten und Graven.
 
-**Neue Figuren (bestätigt 2026-08-07):**
-- **★ Das Kind des Antagonisten (~Noras/Theos Alter), bestätigt statt offener Optionen.**
-  Mit dem Weltbild des Vaters/der Mutter aufgewachsen — glaubt ehrlich, dass Binden
-  schützt, weil es nie etwas anderes gelernt hat. Spiegelt die Serien-Ethik („verstehen
-  statt bekämpfen") auf Kinderebene und gibt **Theo** einen eigenen Gegenpart (er ist es,
-  der als Erster wirklich mit dieser Figur redet — passt zu seinem Arc „aus Noras Schatten
-  treten"). Bewusst **keine** eigene Tragödie dieser Figur (das wäre zu nah an
-  Marlene/Johann aus Band 3) — sie trägt die Überzeugung des Vaters, nicht dessen Trauma.
+**Neue Figuren (konkretisiert 2026-08-07):**
+- **★ Frieda Halder, 12** — Antons Tochter, mit seinem Weltbild aufgewachsen, glaubt
+  ehrlich, dass Binden schützt. Der Name ist bewusst gewählt: „Frieda" kommt von „Friede" —
+  genau das, was ihr Vater den Toten verweigert, dieselbe leise Ironie-Technik wie bei
+  „Faber" (Band 4). Aufgewachsen unterwegs, verschlossen, praktisch, misstraut Fremden aus
+  Gewohnheit, nicht aus Bosheit; ihre Zweifel sind von Anfang an da, nur unterdrückt.
+  Spiegelt die Serien-Ethik („verstehen statt bekämpfen") auf Kinderebene und gibt **Theo**
+  einen eigenen Gegenpart (er ist der Erste, der wirklich mit ihr redet — passt zu seinem
+  Arc „aus Noras Schatten treten"). Bewusst **keine** eigene Tragödie (das wäre zu nah an
+  Marlene/Johann aus Band 3) — sie trägt die Überzeugung ihres Vaters, nicht dessen Trauma.
+  **Gestaffelte Einführung:** unerkannt ab S2-2, als seine Tochter enthüllt in S2-3, trägt
+  die entscheidende Konfrontation im Finale S2-5 (siehe 5-Band-Skizze, Abschnitt 6).
 - **Frau Held** oder eine andere Staffel-1-Nebenfigur darf als Bonus zurückkehren
   (Regel 3: nie handlungstragend).
-- Der **Antagonist** und sein Kind (siehe Abschnitt 6).
+- Der **Antagonist Anton Halder** (Name, Alter, Motiv, Hintergrund: siehe Abschnitt 6).
 
 ---
 
@@ -407,10 +533,19 @@ Verworfene Alternativen:
   Kampf". Nur nehmen, wenn der Ton bewusst kippen soll.
 
 **Buchtitel-Register:** wie Staffel 1 – ein konkretes Bild + etwas Falsches
-(„Das Haus, das flüstert" / „Die zugemauerte Tür"). Nur **Platzhalter-Seeds**, final
-erst bei Planung des jeweiligen Bands:
-*„Der Gast, der blieb" · „Die Uhr, die rückwärts läuft" · „Das Zimmer, das sich
-erinnert" · „Die Frau, die niemand gehen ließ" · „Der letzte Schlüssel".*
+(„Das Haus, das flüstert" / „Die zugemauerte Tür"). **Alle fünf Arbeitstitel jetzt den
+Bänden zugeordnet (2026-08-07)** — Details und Begründung je Band in Abschnitt 6:
+
+| Titel | Band |
+|---|---|
+| „Der Gast, der blieb" | S2-1 |
+| „Die Uhr, die rückwärts läuft" | S2-2 |
+| „Die Frau, die niemand gehen ließ" | S2-3 |
+| „Das Zimmer, das sich erinnert" | S2-4 |
+| „Der letzte Schlüssel" | S2-5 (Finale) |
+
+Weiterhin **Arbeitstitel**, nicht final — endgültig erst bei Detailplanung des jeweiligen
+Bands.
 
 **Cover:** Farbschema und Schatten-mit-leuchtenden-Augen-Motiv bleiben (Marken-
 Wiedererkennung), aber **dunklere, reifere Stimmung** und ältere Kinder-Silhouetten
@@ -456,11 +591,25 @@ die Staffel 2 später abholt.
 | 6 | Serienlänge | **5 Bände, in sich abgeschlossen**, optionaler leiser Faden für Staffel 3 möglich | 2026-08-07 | Konsistent mit Windwalkers-Vorbild und bestehender 5-Band-Skizze (Abschnitt 6) |
 | 7 | Leiser Faden am Ende von Band 5 | **Leuchtturm-Narbe** — so geschrieben in Kapitel 18 „Was bleibt" | Band 5, veröff. 2026-08-05 | War die Hauptempfehlung in Abschnitt 4; Band 5 hat sie 1:1 umgesetzt |
 
-**Offen bleibt weiterhin** (bewusst nicht am 2026-08-07 entschieden, siehe
-Aktivierungs-Checkliste in Abschnitt 1): Wann konkret die Produktion von
-Staffel-2-Band-1 beginnt — das hängt an Marktdaten, die erst Monate nach
-Veröffentlichung von Band 5 vorliegen. Dieser Durchgang hat das **Konzept** fixiert,
-nicht den Startzeitpunkt.
+### Fortsetzung — zweite Sitzung (2026-08-07)
+
+| # | Frage | Entscheidung | Begründung (kurz) |
+|---|---|---|---|
+| 8 | Name/Alter/Beruf/Aussehen des Antagonisten | **Anton Halder, ~48, reisender Schlosser/Uhrmacher**, unauffälliges Auftreten, Brandnarbe an einer Hand | Tarnberuf erklärt Reisen + Zugang zu Häusern (wie Frau Silber); unauffälliges Auftreten hält den freien Einstieg offen; Details in Abschnitt 6 |
+| 9 | Historischer Vorfall in seiner alten Stadt | **Feuer**, ausgelöst kurz nach einer zu hastigen Befreiung mit falscher Methode | Weltlich, altersgerecht off-page, dupliziert keine bestehende Tragödie (kein Einsturz wie B3, keine Krankheit wie B4); Details in Abschnitt 6 |
+| 10 | Name & Alter der neuen Figur | **Frieda Halder, 12** | „Frieda" = Friede, Ironie zum Vater; Details in Abschnitt 9 |
+| 11 | Einführung der neuen Figur | **Gestaffelt:** unerkannt ab S2-2, Enthüllung als Tochter in S2-3, entscheidende Rolle im Finale S2-5 | Erzeugt einen echten Wendepunkt statt eines erwarteten Auftritts; gibt Theo eine wachsende Beziehung vor der Enthüllung |
+| 12 | Wie S2-1 endet | **Physischer Anker (ein Schloss)**, den die Kinder finden und öffnen — Geist wird befreit, größere Erkenntnis bleibt offen | Bewahrt das Staffel-1-Muster „jeder Band schließt seinen Fall" gerade im wichtigsten (freien) Einstiegsband; erklärt zugleich, warum die Lösung nicht auf die ganze Staffel skaliert |
+| 13 | Titel-Zuordnung S2-2 bis S2-5 | „Die Uhr, die rückwärts läuft" (S2-2) · „Die Frau, die niemand gehen ließ" (S2-3) · „Das Zimmer, das sich erinnert" (S2-4) · „Der letzte Schlüssel" (S2-5) | Details je Band in Abschnitt 6; Tabelle in Abschnitt 10 |
+| 14 | Tiefpunkt in S2-4 | **Bewusst nicht Halders Werk** — ein echter, kanonbegründeter Grenzfall | Verhindert, dass „Empathie reicht nicht immer" zur Ausrede wird; Nora zweifelt an sich selbst, nicht am Gegner |
+| 15 | Auflösung in S2-5 | **Frieda** legt Halder Beweise vor (nicht Nora/Theo, nicht Kampf) | Zahltag von Friedas Bogen; hält „Empathie schlägt Kampf" ein, ohne dass die Kinder ihn „besiegen" |
+
+**Offen bleibt weiterhin** (bewusst nicht entschieden, siehe Aktivierungs-Checkliste in
+Abschnitt 1): Wann konkret die Produktion von Staffel-2-Band-1 beginnt — das hängt an
+Marktdaten, die erst Monate nach Veröffentlichung von Band 5 vorliegen. Außerdem noch
+offen: das **Cover-Konzept** für Staffel 2 (eigene Sitzung, anderes Handwerk) sowie alle
+Detailfragen auf Kapitelebene (Produktionsphase). Diese beiden Durchgänge haben das
+**Konzept** fixiert, nicht den Startzeitpunkt oder die Ausführung.
 
 ---
 
