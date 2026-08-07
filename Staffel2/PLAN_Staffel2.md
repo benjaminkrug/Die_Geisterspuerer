@@ -547,10 +547,75 @@ Bänden zugeordnet (2026-08-07)** — Details und Begründung je Band in Abschni
 Weiterhin **Arbeitstitel**, nicht final — endgültig erst bei Detailplanung des jeweiligen
 Bands.
 
-**Cover:** Farbschema und Schatten-mit-leuchtenden-Augen-Motiv bleiben (Marken-
-Wiedererkennung), aber **dunklere, reifere Stimmung** und ältere Kinder-Silhouetten
-signalisieren die 11–12-Stufe. Cover-Build-Skripte aus Staffel 1 wiederverwendbar
-([Scripts/build_cover_kdp_band4.py](../Scripts/build_cover_kdp_band4.py)).
+**Cover — Konzept ausgearbeitet (2026-08-07):** Baut vollständig auf
+[Dokumentation/Cover_Reihenstandard.md](../Dokumentation/Cover_Reihenstandard.md) auf
+(Panel-Maße, Prompt-Blöcke A–E, Figuren-Grammatik) — nichts davon wird neu erfunden, nur
+gezielt erweitert. Teal (Nora, `#2a8a7a`), Oliv (Theo, `#6b7a3a`) und Schattens Bernsteinauge
+(`#d4920b`) bleiben unverändert die Wiedererkennung der Reihe.
+
+**Format:** Einheitlich **6×9 Zoll für alle fünf Staffel-2-Bände** — keine Wiederholung
+des Band-1/2–5-Formatbruchs aus Staffel 1. S2-1 hat als neue ASIN keine Altlast, die ein
+kleineres Format erzwingt; direkt das ausgereiftere, bereits gut getestete 6×9-Format
+übernehmen.
+
+**Text-Layout — drei statt zwei Kopfzeilen-Ebenen:**
+```
+DIE GEISTERSPÜRER                             ← winzig, Stahlgrau (unverändert)
+DIE GEBUNDENEN · BAND N                       ← 1,6–1,8× so hoch wie Zeile 1, Stahlgrau
+<Bandtitel>                                   ← groß, Gold, dominant (unverändert)
+Ein Grusel-Abenteuer für Kinder ab 12 Jahren  ← unverändert klein
+Benjamin Krug                                 ← unverändert
+```
+Kopfbereich dafür von ~30 % auf **~37 % der Bildhöhe** erweitert (geht zulasten der
+mittleren Zone, 37–64 % statt 34–64 %; die untere Figuren-Zone bleibt bei 68–100 %
+unangetastet). Neuer Checklisten-Punkt: 150-px-Thumbnail-Test explizit auch für
+„DIE GEBUNDENEN · BAND N", nicht nur für die Reihenzeile.
+
+**Sicherheitsränder oben/unten: 13 % statt der bisherigen 9 %** — bewusster
+Sicherheitsaufschlag, keine technische Notwendigkeit. Übernimmt die Zahl, die der
+Reihenstandard selbst schon für den riskanteren Fall (Band 1) validiert hat, jetzt aber für
+oben/unten bei allen fünf Staffel-2-Bändern. **Generative-Expand-Nachbearbeitung (Adobe
+Firefly o. ä.) ist eingeplanter Standardschritt**, nicht Notfall-Lösung — wird ausgelöst,
+sobald der Thumbnail-Test einen knappen Rand zeigt.
+
+**Alterstext: „ab 12 Jahren"** statt „ab 10 Jahren" — ehrliches Content-Signal für den
+härteren Grusel (6→9 statt 3→8) und Standard-Amazon-Alterskategorie (suchbares Keyword,
+anders als ein unübliches „ab 11"). Bewusste Entscheidung gegen Kontinuität mit der
+Staffel-1-Zahl, zugunsten von Ehrlichkeit gegenüber Eltern.
+
+**Halder auf dem Cover — gestaffelt, nie vor seiner Enthüllung in der Handlung:**
+- S2-1, S2-2: **nie** — er ist in der Geschichte selbst noch unsichtbar. Stattdessen zeigt
+  jedes Cover den Geist dieses Bandes als vierte Figur (analog zu Graven auf Band 5).
+- S2-3: **möglich**, nicht zwingend — Entscheidung bei der konkreten Prompt-Arbeit, je
+  nachdem was stärker trägt (er selbst oder die gebundene Frau).
+- S2-4: **nicht als Hauptmotiv** — der gescheiterte Fall dieses Bandes ist bewusst nicht
+  sein Werk (siehe Abschnitt 6, S2-4-Konzept); ihn hier prominent zu zeigen würde das
+  Cover das Gegenteil der Geschichte behaupten lassen.
+- S2-5 (Finale): **ja, definitiv** — wie Graven auf Band 5.
+
+**Frieda auf keinem einzigen Cover** — sie ist ein Kind, und die Verbotsliste in Block D des
+Reihenstandards untersagt ausdrücklich ein drittes Kind. Keine Ausnahme, das würde die
+Drei-Figuren-Wiedererkennung für die ganze Reihe aufweichen.
+
+**Staffel-Signatur:** Insgesamt kühlere, entsättigtere Grundstimmung als Staffel 1, plus ein
+neues wiederkehrendes Element — ein blasser, kalter **Leine-Lichtfaden** (Echo der
+Bindungssignatur aus S2-1), der in S2-1 bis S2-4 in irgendeiner Form erscheint und im
+Finale-Cover bewusst **fehlt** — visueller Zahltag: Bindung sichtbar vier Bände lang, dann
+weg, wenn Halder die Werkstatt öffnet.
+
+**Pro-Band-Farbwelt** (analog zur Staffel-1-Tabelle in `Cover_Reihenstandard.md`):
+
+| Band | Ort | Dominant | Akzent |
+|---|---|---|---|
+| S2-1 „Der Gast, der blieb" | fremde Altbauwohnung, Geist als „Gast" gefangen | kühles Graphit-/Schiefergrau | Bernstein + blasser, kalter Leine-Lichtfaden |
+| S2-2 „Die Uhr, die rückwärts läuft" | Uhrmacher-/Schlosserwerkstatt | gedämpftes Messing/Kupfer | Bernstein + viele kleine kalte Lichtpunkte |
+| S2-3 „Die Frau, die niemand gehen ließ" | unnatürlich konservierte alte Wohnung | verblasstes Staubrosa/Ocker | Bernstein + kalter Leine-Faden um die gebundene Gestalt |
+| S2-4 „Das Zimmer, das sich erinnert" | eingefrorenes Erinnerungszimmer | kaltes Taubenblau-Grau | Bernstein + ein einzelnes warmes, unerreichbares Licht |
+| S2-5 „Der letzte Schlüssel" (Finale) | Rückkehr zur Werkstatt, jetzt geöffnet | warmes Kupfer, aufbrechend zu Licht | Bernstein + viele befreite, warme Lichtpunkte — kein Leine-Faden mehr |
+
+Cover-Build-Skripte aus Staffel 1 wiederverwendbar
+([Scripts/build_cover_kdp_band4.py](../Scripts/build_cover_kdp_band4.py)), Panel-Maße und
+Prompt-Blöcke aus `Cover_Reihenstandard.md` gelten unverändert als Basis.
 
 ---
 
@@ -604,12 +669,23 @@ die Staffel 2 später abholt.
 | 14 | Tiefpunkt in S2-4 | **Bewusst nicht Halders Werk** — ein echter, kanonbegründeter Grenzfall | Verhindert, dass „Empathie reicht nicht immer" zur Ausrede wird; Nora zweifelt an sich selbst, nicht am Gegner |
 | 15 | Auflösung in S2-5 | **Frieda** legt Halder Beweise vor (nicht Nora/Theo, nicht Kampf) | Zahltag von Friedas Bogen; hält „Empathie schlägt Kampf" ein, ohne dass die Kinder ihn „besiegen" |
 
+### Fortsetzung — Cover-Konzept (2026-08-07, dritte Sitzung)
+
+| # | Frage | Entscheidung | Begründung (kurz) |
+|---|---|---|---|
+| 16 | Cover-Format | **6×9 Zoll einheitlich** für alle fünf Bände | Keine Wiederholung des Band-1/2–5-Formatbruchs; S2-1 hat als neue ASIN keine Altlast |
+| 17 | Text-Layout für Staffel-Namen | **Drei Kopfzeilen-Ebenen** (Reihe/Staffel+Band/Bandtitel), Kopfbereich auf ~37 % erweitert | Vermeidet zu lange Einzelzeile (Lesbarkeitsrisiko); feste Größenrelation 1,6–1,8× statt vager Angabe |
+| 18 | Sicherheitsränder oben/unten | **13 % statt 9 %**, Generative Expand als Standardschritt | Übernimmt die im Reihenstandard bereits validierte "vorsichtige" Zahl; zusätzliche Sicherheit durch die neue dritte Textebene |
+| 19 | Alterstext auf dem Cover | **„ab 12 Jahren"** statt „ab 10 Jahren" | Ehrliches Content-Signal für härteren Grusel; Standard-Amazon-Alterskategorie |
+| 20 | Halder/Frieda auf Covern | **Halder gestaffelt** (nie vor S2-3, sicher in S2-5, nie in S2-4 als Hauptmotiv); **Frieda nie** | Folgt dem Graven/Band-5-Präzedenzfall; Frieda ist ein Kind, Verbotsliste untersagt drittes Kind |
+| 21 | Farbwelt-Signatur der Staffel | Kühlere Grundstimmung + neuer **Leine-Lichtfaden**-Akzent (verschwindet im Finale); Pro-Band-Tabelle mit Ort/Dominant/Akzent | Bildet die Bindung-zu-Befreiung-Dramaturgie der Staffel visuell ab; Details in Abschnitt 10 |
+
 **Offen bleibt weiterhin** (bewusst nicht entschieden, siehe Aktivierungs-Checkliste in
 Abschnitt 1): Wann konkret die Produktion von Staffel-2-Band-1 beginnt — das hängt an
-Marktdaten, die erst Monate nach Veröffentlichung von Band 5 vorliegen. Außerdem noch
-offen: das **Cover-Konzept** für Staffel 2 (eigene Sitzung, anderes Handwerk) sowie alle
-Detailfragen auf Kapitelebene (Produktionsphase). Diese beiden Durchgänge haben das
-**Konzept** fixiert, nicht den Startzeitpunkt oder die Ausführung.
+Marktdaten, die erst Monate nach Veröffentlichung von Band 5 vorliegen. Außerdem noch offen:
+die konkreten Bild-Prompts je Band sowie alle Detailfragen auf Kapitelebene
+(Produktionsphase). Diese drei Durchgänge haben das **Konzept** fixiert — Narrativ, Figuren
+und jetzt auch Cover —, nicht den Startzeitpunkt oder die Ausführung.
 
 ---
 
