@@ -157,12 +157,16 @@ eine erkennbare Verbindung zum Sammel-Knoten-Betreiber.
 
 - Wer Frieda wirklich ist (S2-3).
 - Wer Halder ist, sein Motiv, sein Aussehen (S2-3).
-- Was mit den vielen gebundenen Geistern in der Werkstatt am Ende geschieht — **vermutlich
-  nicht in S2-2 gelöst**, sondern erst im Finale (S2-5, Rückkehr zur Werkstatt laut
-  `PLAN_Staffel2.md` Abschnitt 6). In Phase 2 entscheiden, ob S2-2 einen Teil-Sieg
-  braucht (Serien-Muster „jeder Band schließt seinen Fall ab", siehe S2-1-Präzedenzfall)
-  oder ob hier bewusst abgewichen wird, weil der „Fall" dieses Bandes die Erkenntnis
-  selbst ist, nicht eine Befreiung. **Offene Entscheidung für Phase 2.**
+- ✅ **Entschieden (2026-08-07):** S2-2 endet mit **genau EINEM** befreiten Geist aus der
+  Werkstatt — echter, kleiner Sieg, hält das Serien-Muster „jeder Band schließt seinen Fall
+  ab" (Entscheidungs-Log #12) ein. Danach **unterbricht Frieda** die Kinder, bevor sie
+  weitere Schlösser öffnen können — nicht aus Bosheit, sondern aus ihrer eigenen (noch
+  unverstandenen) Schutz-Überzeugung. Begründet zugleich, warum „Schloss-für-Schloss"
+  nicht einfach wiederholt wird: **gezeigt, nicht nur behauptet.** Dutzende weitere
+  Schlösser bleiben sichtbar zurück — der eigentliche Schreckensmoment des Bandes.
+  **Bonus:** Friedas Unterbrechung ist selbst ein fairer, früher Hinweis auf ihren späteren
+  Charakter (sie „schützt" auf ihre Art, wie ihr Vater) — in
+  `../Hinweisketten_Tracker.md`, Kette 1, nachgetragen.
 
 ### Serie / separat
 
