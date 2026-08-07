@@ -8,6 +8,14 @@
 > Band 6 kommt eine **Staffel 2 mit eigenem Band 1** (Woodwalkers → Seawalkers →
 > Windwalkers-Modell). Gleiche Welt, gleiche Figuren, gleiches Cover-Branding –
 > aber ein zweiter, freier Einstiegspunkt. Siehe Memory `staffel2-konzept.md`.
+>
+> **Update (User, 2026-08-07):** Band 5 ist erschienen ("Was bleibt", Leuchtturm-Narbe
+> als leiser Faden — genau wie hier vorgeschlagen). Die zentralen Weichen aus Abschnitt 12
+> sind gestellt: Antagonist kommt von außerhalb, konkretes Motiv steht, neue Figur ist
+> sein Kind, 5 Bände, Untertitel „Die Gebundenen". Abschnitt 12 ist jetzt ein
+> Entscheidungs-Log statt einer offenen Fragenliste. **Die Produktion wartet weiter auf
+> Marktdaten** (Aktivierungs-Checkliste unten ist erst teilweise erfüllt) — dieser
+> Durchgang war Konzeptarbeit, kein Startschuss.
 
 ---
 
@@ -26,12 +34,14 @@ Dieses Dokument ist die **Brücke von Staffel 1 zu Staffel 2**. Es hat zwei Aufg
 
 **Aktivierungs-Checkliste (abhaken, wenn Staffel 2 startet):**
 
-- [ ] Band 5 geschrieben, Graven-Rätsel vollständig abgeschlossen
+- [x] Band 5 geschrieben, Graven-Rätsel vollständig abgeschlossen (veröffentlicht 05.08.2026)
 - [ ] Alle 5 Bände veröffentlicht und einige Monate am Markt (Rezensionen,
-      Read-Through, kalibrierte Ads liegen vor)
+      Read-Through, kalibrierte Ads liegen vor) — **Band 5 ist erst seit 2 Tagen draußen,
+      noch keine Marktdaten (Stand 2026-08-07)**
 - [ ] KDP-Zahlen geprüft: Read-Through B1→B2, stärkster Band, CYOA-Quote
       (entscheidet, ob Staffel 2 oder zuerst noch Formate/Sammelbände kommen)
-- [ ] Abschnitt 4 gegen das tatsächliche Band-5-Ende abgeglichen
+- [x] Abschnitt 4 gegen das tatsächliche Band-5-Ende abgeglichen (2026-08-07) — **stimmt
+      exakt überein**, die Leuchtturm-Narbe wurde 1:1 wie hier vorgeschlagen geschrieben
 
 ---
 
@@ -113,6 +123,14 @@ darf Wissen voraussetzen**, das nur in Band 1–5 steht.
 ---
 
 ## 4. ⚠️ Was Band 5 liefern MUSS (vor dem Schreiben lesen!)
+
+> **✅ Abgleich (2026-08-07):** Band 5 ist geschrieben und liefert alle vier Punkte unten
+> exakt wie gefordert. Der leise Faden (D) wurde als **Leuchtturm-Narbe** umgesetzt (die
+> Hauptempfehlung unten, textnah): *"Da, wo zweihundert Jahre lang ein Riss gewesen war,
+> war jetzt eine Narbe. […] Gravenstedt lag in seinem Regen, still und frei und heil, und
+> leuchtete leise in die Dunkelheit hinaus wie ein Leuchtturm. Und ganz weit draußen, am
+> äußersten Rand von allem, ging ein einzelnes Licht an. Nora sah es nicht. Noch nicht."*
+> (Kapitel 18, „Was bleibt"). Dieser Text ist jetzt die Grundlage für Abschnitt 6.
 
 Band 5 („Der Schleier", Graven-Finale, Grusel 8/10) ist noch nicht geschrieben.
 Damit Staffel 2 möglich wird, muss das Finale vier Dinge leisten – ohne das Finale
@@ -203,13 +221,38 @@ Bedrohung.
   indem man seine eigene Angst versteht. Das ist die Serien-Ethik, jetzt auf einen
   **lebenden** Menschen angewandt.
 
-**Motiv des Antagonisten (bewusst NEU – nicht Graven/Faber wiederholen):**
-Nicht Trauer (das war Graven und der Sammler). Empfohlen: **Überzeugung/Angst** –
-er glaubt, die Toten *sollen* bleiben. Vielleicht schützt die Stadt etwas, solange
-die Toten da sind; vielleicht hat er Angst, dass „das Loslassen" etwas Schlimmeres
-hereinlässt; vielleicht braucht er sie als Wächter. Er hält Frau Silber und die
-Kinder für gefährlich naiv. → Echter ideologischer Konflikt: Die Kinder *befreien*,
-er *bindet*. Beide glauben, das Richtige zu tun.
+**★ Motiv des Antagonisten — konkretisiert und bestätigt (2026-08-07):**
+Nicht Trauer (das war Graven und der Sammler) und nicht Macht/Kontrolle (abgewogen und
+verworfen — zu kalt für die Serien-Ethik „verstehen statt bekämpfen"). Stattdessen:
+**Schuld aus einer falsch angewendeten Serienregel.** Er war früher selbst so etwas wie
+ein Hüter, in einer anderen Stadt — vielleicht sogar mit Berührungspunkten zu Frau Silber
+(optionaler Bonus-Faden für Altleser, nie Voraussetzung). Er hat dort einen Geist **mit
+der falschen Methode zu hastig gehen lassen wollen** — die Serie selbst etabliert ja, dass
+„jeder Geist etwas anderes braucht" und dass die falsche Methode das Loslassen sogar
+*verhindern* kann (Faber: Zuhören war dort „das Schloss, nicht der Schlüssel"). Kurz danach
+geschah in seiner Stadt ein reales, weltliches Unglück (Brand, Einsturz o. Ä. — **kein**
+neues übernatürliches Wesen, das würde die Content-Grenzen der Serie verletzen). Ob das
+Unglück wirklich mit dem Loslassen zusammenhing, bleibt **absichtlich unklar** — für ihn
+ist es seit Jahren Gewissheit, für die Leser zunehmend erkennbar als Trauma-Logik, nicht
+Beweis. Seine Schlussfolgerung: nicht „Geister sind böse", sondern *„Man darf nie sicher
+sein, also lieber binden als riskieren."* Er zieht seither umher und bindet unruhige Tote
+**präventiv**, überzeugt, Städte damit zu schützen. → Echter ideologischer Konflikt mit
+intellektuellem Gewicht: Er hat einen wahren Kern (falsche Methode kann schiefgehen) und
+zieht daraus die falsche Lehre (deshalb nie loslassen). Aufgelöst wird er nicht durch ein
+Gegenargument, sondern dadurch, dass die Kinder ihm live zeigen, dass richtig ausgeführtes
+Loslassen funktioniert — wie in allen fünf Bänden zuvor. *(Der genaue historische Vorfall
+in seiner alten Stadt ist Detailarbeit für die Planung von S2-3, nicht heute festgelegt.)*
+
+**★ Warum er nach Gravenstedt kommt — und was er dort eigentlich will (2026-08-07):**
+Gravenstedts eigene fünf Geister (Lina, Brenner, Marlene, Faber, Graven) sind laut Kanon
+**für immer weg** („Befreite Geister kehren nicht zurück") — er kann sie nicht zurückbinden,
+und die Handlung darf sie nicht zurückholen. Sein Ziel ist etwas anderes: Der geheilte,
+vernarbte Schleier macht Gravenstedt zu einem **Leuchtturm**, der ab jetzt **neue,
+wandernde unruhige Tote von außerhalb anzieht** — das erfüllt Regel 4 („eine große Sache
+ändert sich") sauber, ohne die alte Karte wieder aufzugreifen. Er kommt nicht wegen der
+Vergangenheit, sondern weil er weiß: *hier werden ab jetzt laufend neue ankommen* — und er
+will jeden abfangen, bevor die Kinder ihn „zu früh" gehen lassen. Das liefert automatisch
+einen neuen Fall pro Band, ohne dass jedes Mal ein neuer Zufall erfunden werden muss.
 
 **Die neue Leitfrage der Staffel:** Jemand macht rückgängig, was Silber und die
 Kinder erreicht haben – bindet die Toten neu. Wer, und warum? Und was hatte Frau
@@ -303,13 +346,17 @@ das Frühwarn-Gespür der Kinder (Schatten-Pflicht: 1 Reaktion pro Kapitel gilt 
 aber **ohne offenes Rätsel**. Staffel 2 stellt **ein oder mehrere ganz neue Geheimnisse**
 ins Zentrum (siehe Abschnitt 6), unabhängig von Schatten und Graven.
 
-**Neue Figuren (optional, Appeal für 11–12):**
-- Eine **gleichaltrige Figur** (Freund/in oder Rivale/in), die hineingezogen wird –
-  gibt Nora jemanden außerhalb der Geschwister-Dyade und öffnet das Buch für Leser,
-  die eine Peer-Beziehung suchen.
+**Neue Figuren (bestätigt 2026-08-07):**
+- **★ Das Kind des Antagonisten (~Noras/Theos Alter), bestätigt statt offener Optionen.**
+  Mit dem Weltbild des Vaters/der Mutter aufgewachsen — glaubt ehrlich, dass Binden
+  schützt, weil es nie etwas anderes gelernt hat. Spiegelt die Serien-Ethik („verstehen
+  statt bekämpfen") auf Kinderebene und gibt **Theo** einen eigenen Gegenpart (er ist es,
+  der als Erster wirklich mit dieser Figur redet — passt zu seinem Arc „aus Noras Schatten
+  treten"). Bewusst **keine** eigene Tragödie dieser Figur (das wäre zu nah an
+  Marlene/Johann aus Band 3) — sie trägt die Überzeugung des Vaters, nicht dessen Trauma.
 - **Frau Held** oder eine andere Staffel-1-Nebenfigur darf als Bonus zurückkehren
   (Regel 3: nie handlungstragend).
-- Der **Antagonist** und ggf. sein Umfeld (siehe Abschnitt 6).
+- Der **Antagonist** und sein Kind (siehe Abschnitt 6).
 
 ---
 
@@ -319,10 +366,15 @@ ins Zentrum (siehe Abschnitt 6), unabhängig von Schatten und Graven.
 Amazon-Serie mit eigener Nummerierung** (Band 1–5), damit der Neuleser „Band 1"
 sieht.
 
-**Staffel-Untertitel (Vorschläge, User entscheidet):**
-- „Die Geisterspürer – **Die Gebundenen**" (passt zum Antagonisten-Bogen)
-- „Die Geisterspürer – **Die Hüter**" (die neue Rolle der Kinder)
-- „Die Geisterspürer – **Der zweite Schleier**"
+**Staffel-Untertitel — bestätigt (2026-08-07): „Die Geisterspürer – Die Gebundenen"**
+Begründung: passt zum Titel-Register der Reihe (konkretes Bild statt Rollenbezeichnung,
+wie „Das Haus, das flüstert"); bleibt geheimnisvoll, bis man liest, wer/was gebunden ist;
+vermeidet die Doppeldeutigkeit von „Die Hüter" (der Antagonist hält sich selbst für einen
+Beschützer — der Titel darf nicht offenlassen, wer gemeint ist).
+
+Verworfene Alternativen:
+- „Die Hüter" — zu doppeldeutig (s. o.)
+- „Der zweite Schleier" — zu abstrakt für einen Serien-Untertitel, eher als Bandtitel geeignet
 - ⚠️ „Die Schattenjäger" (der interne Projekt-Codename / Repo-Name) – **Vorsicht:**
   „Jäger" impliziert *kämpfen/jagen* und widerspricht der Kern-Regel „Empathie statt
   Kampf". Nur nehmen, wenn der Ton bewusst kippen soll.
@@ -362,16 +414,26 @@ die Staffel 2 später abholt.
 
 ---
 
-## 12. Offene Entscheidungen (für den Start von Staffel 2)
+## 12. Entscheidungs-Log (ehemals „Offene Entscheidungen")
 
-1. **Übergreifendes Geheimnis:** Empfehlung „Anti-Silber/Binder" (Abschnitt 6)
-   bestätigen oder Alternative wählen.
-2. **Motiv des Antagonisten:** Überzeugung/Angst (empfohlen) vs. Macht vs. anderes.
-3. **Staffel-Untertitel** (Abschnitt 10).
-4. **Schatten-Rätsel:** in Staffel 2 auflösen – ja/nein, und wie (ohne „magisch").
-5. **Neue gleichaltrige Figur:** ja/nein.
-6. **Serienlänge:** wieder 5 Bände? Offenes Ende für Staffel 3?
-7. **Welcher leise Faden** wird am Ende von Band 5 gepflanzt (Abschnitt 4-D)?
+> Alle sieben Punkte sind entschieden. Log statt Fragenliste — Format wie
+> `Serien_Kanon.md` Abschnitt 7 (Datum, Ergebnis, kurze Begründung).
+
+| # | Frage | Entscheidung | Datum | Begründung (kurz) |
+|---|---|---|---|---|
+| 1 | Übergreifendes Geheimnis | **Anti-Silber/Binder, von außerhalb** (nicht ortsansässig) | 2026-08-07 | Nutzt das tatsächliche Band-5-Schlussbild (Leuchtturm zieht etwas von außen an) statt eines vorab in Gravenstedt sitzenden Gegners |
+| 2 | Motiv des Antagonisten | **Schuld aus falsch angewendeter Serienregel** (nicht Trauer, nicht Macht) | 2026-08-07 | Dritte Trauer-Variante nach Graven/Faber wäre Wiederholung; Macht wäre zu kalt für „verstehen statt bekämpfen". Details in Abschnitt 6 |
+| 3 | Staffel-Untertitel | **„Die Gebundenen"** | 2026-08-07 | Passt zum Titel-Register der Reihe, vermeidet Doppeldeutigkeit von „Die Hüter". Details in Abschnitt 10 |
+| 4 | Schatten-Rätsel auflösen? | **Bereits erledigt** — Band 5 löst es vollständig auf, Staffel 2 baut nicht darauf | 2026-07-15 (User) | War schon vor diesem Planungsdurchgang entschieden, hier nur bestätigt |
+| 5 | Neue gleichaltrige Figur | **Ja — das Kind des Antagonisten** | 2026-08-07 | Spiegelt Serien-Ethik auf Kinderebene, gibt Theo einen Gegenpart. Details in Abschnitt 9 |
+| 6 | Serienlänge | **5 Bände, in sich abgeschlossen**, optionaler leiser Faden für Staffel 3 möglich | 2026-08-07 | Konsistent mit Windwalkers-Vorbild und bestehender 5-Band-Skizze (Abschnitt 6) |
+| 7 | Leiser Faden am Ende von Band 5 | **Leuchtturm-Narbe** — so geschrieben in Kapitel 18 „Was bleibt" | Band 5, veröff. 2026-08-05 | War die Hauptempfehlung in Abschnitt 4; Band 5 hat sie 1:1 umgesetzt |
+
+**Offen bleibt weiterhin** (bewusst nicht am 2026-08-07 entschieden, siehe
+Aktivierungs-Checkliste in Abschnitt 1): Wann konkret die Produktion von
+Staffel-2-Band-1 beginnt — das hängt an Marktdaten, die erst Monate nach
+Veröffentlichung von Band 5 vorliegen. Dieser Durchgang hat das **Konzept** fixiert,
+nicht den Startzeitpunkt.
 
 ---
 
@@ -391,4 +453,6 @@ die Staffel 2 später abholt.
 
 ---
 
-*Erstellt 2026-07-15. Reserve-Dokument – Aktivierung nach Band 5.*
+*Erstellt 2026-07-15. Konzept-Entscheidungen ergänzt 2026-08-07 (siehe Abschnitt 12).
+Reserve-Dokument – Produktionsstart wartet weiterhin auf Marktdaten
+(Aktivierungs-Checkliste, Abschnitt 1).*
