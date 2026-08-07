@@ -51,7 +51,7 @@ reicht.
 | S2-3 K12 | ✅ **Umgesetzt:** Halder erzählt vom Feuer als gefestigte, nie hinterfragte Überzeugung (Mechanik-Prüfung S2-3, Punkt 6) — Nora erkennt in K12: „Er lügt nicht. Er glaubt das wirklich." Kein Zweifel von ihm selbst gesät, wie gefordert | geplant (`S2-3/Story_Outline_S2-3.md`) |
 | S2-3 K13 | Ilses eigene, abweichende Version der Geschichte ("Er hat mich nie gefragt, ob ich bleiben will") — erster, indirekter Riss in Halders Version, ohne dass die Wahrheit übers Feuer selbst schon infrage steht | geplant (`S2-3/Story_Outline_S2-3.md`) |
 | S2-4 K11 | ✅ **Umgesetzt:** Frieda, nachdem sie Maries Wahrheits-Szene mit ansieht: „Ich habe ihn nie gefragt, ob es stimmt. Ich habe es einfach geglaubt." Erster Zweifel-Hinweis der Kette, explizit nur bei Frieda — kein Zweifel an der Tatsachenbehauptung übers Feuer selbst, nur daran, dass sie sie nie geprüft hat (hält die S2-3-Präzisierung oben ein) | geplant (`S2-4/Story_Outline_S2-4.md`) |
-| S2-5 | Frieda findet in Halders gehorteten Unterlagen den Beleg, dass der Grund banal/unabhängig war | geplant |
+| S2-5 K3–K4 | ✅ **Umgesetzt:** Frieda verschafft sich mit ihrem eigenen Werkstatt-Schlüssel Zugang zu einer bisher tabuisierten Schublade und findet Zeitungsausschnitte/Feuerwehrbericht. ⚠️ **Wichtige Leitplanke:** Die konkrete Brandursache bleibt bewusst unbenannt (`PLAN_Staffel2.md` Abschnitt 6, „absichtlich unklar") — gezeigt wird nur, dass Ort und Zeitpunkt nicht zu Halders eigener Erinnerung passen, nicht was stattdessen geschah | geplant (`S2-5/Story_Outline_S2-5.md`) |
 
 **Wichtig (Lehre aus Band 5, Abschnitt „Faire-Hinweis-Ketten"):** Die Kette darf nicht zu
 früh zu viel Zweifel an Halders Version säen — sonst wirkt S2-5s Enthüllung nicht wie ein
