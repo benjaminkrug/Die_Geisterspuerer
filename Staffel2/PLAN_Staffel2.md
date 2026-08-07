@@ -816,7 +816,12 @@ verfolgt die beiden staffelweiten Enthüllungen (Frieda, das Feuer-Motiv) bandü
 S2-2, Phase 1 ✅ [Staffel2/S2-2/Kontinuitaet_S2-2.md](S2-2/Kontinuitaet_S2-2.md) — Figuren-
 Stand, insbesondere die kritische Regel für Frieda (kein Nachname, keine erkennbare
 Halder-Verbindung im S2-2-Text), vier zu prüfende Widersprüche, offene Fäden.
-**Nächster Schritt: S2-2, Phase 2 (Story-Outline mit Mechanik-Prüfung)** — oder Phase 4
+S2-2, Phase 2 ✅ [Staffel2/S2-2/Story_Outline_S2-2.md](S2-2/Story_Outline_S2-2.md) —
+Buchkonzept, 8-Punkte-Mechanik-Prüfung (u. a. Grundsatzregel: Einzelbindung vs.
+Sammel-Knoten hängt von persönlicher Verbindung des Geistes ab), 16-Kapitel-Liste mit einem
+echten, aber bewusst unvollständigen Sieg (Grete befreit, Frieda unterbricht vor dem
+zweiten Schloss). Friedas Auftritte in `Hinweisketten_Tracker.md` nachgetragen (K11, K12,
+K14). **Nächster Schritt: S2-2, Phase 3 (Szenenplanung + Tracker)** — oder Phase 4
 (Kapitel schreiben) für S2-1, sobald die Aktivierungs-Checkliste (Abschnitt 1) erfüllt ist.
 
 ---

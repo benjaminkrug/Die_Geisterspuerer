@@ -28,8 +28,9 @@ deshalb ein eigenes Dokument statt eines Abschnitts im Band-Tracker.
 | Band/Kapitel | Hinweis | Status |
 |---|---|---|
 | S2-1 | — (Frieda kommt in S2-1 nicht vor, absichtlich, siehe `Setup_Payoff_Tracker_S2-1.md` Abschnitt C) | ✅ bestätigt: kein verfrühter Hinweis |
-| S2-2 | Frieda taucht unerkannt am Sammel-Knoten (der Werkstatt) auf — Startpunkt der Kette | geplant, noch nicht kapitelgenau geplant |
-| S2-2 | ✅ **Ergänzt (2026-08-07):** Frieda unterbricht die Kinder, nachdem sie einen Geist befreit haben, bevor sie weitere Schlösser öffnen können — wirkt wie reines Wegscheuchen, ist aber (rückblickend ab S2-3) ihre erste gezeigte „Schutz"-Handlung, dieselbe verquere Logik wie ihr Vater. Fair, weil zum Zeitpunkt des Lesens nicht erkennbar, wessen Logik das ist. | geplant (Kontinuitaet_S2-2.md) |
+| S2-2 K11 | Frieda taucht unerkannt in der Werkstatt auf — Startpunkt der Kette. Nennt vermutlich ihren Vornamen, keinen Nachnamen; Schatten reagiert nicht alarmiert auf sie (Mechanik-Regel S2-2 Punkt 5) | geplant (`S2-2/Story_Outline_S2-2.md`) |
+| S2-2 K12 | Frieda unterbricht die Kinder erst beim ZWEITEN Schloss, nicht beim ersten — kurzes Zögern davor (Riss in ihrer Überzeugung, noch unsichtbar). Wirkt wie reines Wegscheuchen, ist rückblickend (ab S2-3) ihre erste gezeigte „Schutz"-Handlung, dieselbe verquere Logik wie ihr Vater. Fair, weil zum Zeitpunkt des Lesens nicht erkennbar, wessen Logik das ist | geplant (`S2-2/Story_Outline_S2-2.md`) |
+| S2-2 K14 | Theo: „Sie hat nicht gesagt, dass es falsch ist, was wir tun. Nur dass wir nicht verstehen." — deutet ihre Überzeugungslogik an, ohne sie zu erklären | geplant (`S2-2/Story_Outline_S2-2.md`) |
 | S2-3 | Enthüllung: Frieda ist Halders Tochter | geplant |
 
 **Noch offen (bei der S2-2-Planung zu entscheiden):** Wie genau Frieda in S2-2 auftritt,
