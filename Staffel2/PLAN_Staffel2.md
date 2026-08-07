@@ -270,6 +270,33 @@ verschwand – jemand arbeitete gegen sie".)
 | **S2-4** | Der dunkelste Band. Der Antagonist gewinnt die Oberhand. Ein Geist, den die Kinder *nicht* retten können – der Tiefpunkt „Empathie reicht nicht immer". Nora zweifelt an der Rolle. | 8/10 |
 | **S2-5** (Finale) | Konfrontation. Empathie + eine neue, erwachsenere Einsicht siegen: Man bezwingt Angst nicht mit Kraft – man versteht die Angst des Antagonisten. Optional Auflösung des Schatten-Rätsels. Setzt Serienende ODER Staffel 3 auf. | 8–9/10 |
 
+### ★ S2-1 — Konzept bestätigt (2026-08-07)
+
+**Arbeitstitel: „Der Gast, der blieb"**
+Von den fünf Platzhaltern in Abschnitt 10 gewählt: konkret, verrät den Twist nicht (anders
+als „Die Frau, die niemand gehen ließ" — das nimmt die Pointe vorweg). „Gast" impliziert
+von sich aus etwas Vorübergehendes, das nicht hätte bleiben sollen — passt exakt zum
+Bild-plus-etwas-Falsches-Muster der Reihe.
+
+**Die Bindungssignatur — das achte, neue Erscheinungszeichen der Reihe:**
+Der Serien-Kanon (`Dokumentation/Serien_Kanon.md` Abschnitt 1) listet sieben etablierte
+Formen (Kälte, Kondenswasser-Schrift, Klopfen, Gegenstände bewegen, Licht/Strom, Spiegel,
+sichtbare Gestalt) — keine davon zeigt „gebunden". Neues Signal, ab jetzt die Handschrift
+des Antagonisten: **Der Geist wird im letzten Moment zurückgerissen — wie an einer
+unsichtbaren Leine.** Nora und Theo wenden die richtige Methode an, der Geist beginnt zu
+gehen — und wird dann sichtbar, ruckartig gegen seinen eigenen Willen zurückgezogen.
+Zurück bleibt eine dünne, helle Narbe an der Stelle, wo die „Leine" saß — bewusstes Echo
+auf die Leuchtturm-Narbe aus Band 5, jetzt am einzelnen Geist statt an der ganzen Stadt.
+Liefert den Cliffhanger von selbst: alles richtig gemacht, und trotzdem nicht funktioniert
+— sofortiger Verdacht, dass das Absicht war.
+
+**Eröffnungshook:** Passend zur neuen Prämisse („die Fälle kommen zu ihnen") beginnt S2-1
+nicht mit einer zufälligen Entdeckung wie Band 1, sondern damit, dass **jemand an ihre Tür
+klopft** und um Hilfe bittet — ein Fall, der zunächst simpel wirkt (die Art, die sie in
+Staffel 1 souverän gelöst hätten), bis die Leine-Szene zeigt: dieses Mal ist etwas anders.
+
+---
+
 ### Verworfene / alternative Bögen (falls die Empfehlung nicht passt)
 
 - **„Die Neuen" (nur Auswärts-Geister):** Geister von außerhalb Gravenstedts
