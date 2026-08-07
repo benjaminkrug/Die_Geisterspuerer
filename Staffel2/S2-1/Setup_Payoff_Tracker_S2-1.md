@@ -42,6 +42,7 @@ geerbtes.
 | 10 | Winziges Schloss-Symbol, in den Schrank geritzt (K9) | Physisches Schloss gefunden (K10), geöffnet (K13) | geplant |
 | 11 | „Wir machen alles richtig — dann sind wir nicht das Problem" (K4) | Bestätigt durch den Fund des Schlosses — die Bindung war nie ein Kompetenz-Problem (K12/K13) | ✅ K4 geschrieben, Setup gepflanzt |
 | 12 | Das geöffnete, kalte Schloss in Noras Hand (K15) | Wird zum Season-Beweisstück — taucht in S2-2 in der Werkstatt wieder auf | ⚠️ bewusst offen (Staffel-Faden) |
+| 13 | *(spontan, beim Schreiben entstanden)* Foto von Herbert im Garten, das Frau Brandt Nora überlässt (K5) | Optional — könnte bei der Zuhören-Szene in K14 als zusätzliches Zeichen von "wir kennen dich" wiederverwendet werden. Kein Zwang, keine Kanon-Verpflichtung. | geplant (optional) |
 
 **Regel A/E-Check (wie Band 5):** Kein Setup in dieser Liste bleibt am Ende von S2-1
 unbezahlt, außer den beiden explizit markierten Staffel-Fäden (#8, #12) — die sind

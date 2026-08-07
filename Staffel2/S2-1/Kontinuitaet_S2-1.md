@@ -230,13 +230,21 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
 - **K4:** Direkter Anschluss (ABSCHLUSS AKT 1). Verarbeitung des Rückrisses, Noras kurzer
   Selbstzweifel zurückgewiesen. Frau Brandt gibt Zusage, Herberts Sachen herauszusuchen.
   Endet mit Noras Entschluss: herausfinden, WAS ihn physisch hält, nicht nur WARUM.
+- **K5** (ABSCHNITT AKT 2): Zwei Tage später, wieder bei den Brandts. Foto von Herbert im
+  Garten (neues Charakterdetail: Gärtner, zeigte Zuneigung nie in Worten). Erste vage
+  Andeutung des Bruchs (Herbert mochte Frau Brandts Mann nicht). Neu: Herbert kannte seine
+  Enkelin nie, sie war noch nicht geboren, als der Kontakt abbrach — Grund, warum sie nicht
+  in ihrem Zimmer schlafen will, obwohl Schatten dort komplett ruhig bleibt. Theos eigene
+  Idee (nicht von Nora vorgegeben): Schatten raumweise testen. Eingrenzung bestätigt:
+  Wohnzimmer/Kinderzimmer ruhig, Flur zunehmend unruhig, Schrankzimmertür = vollständige
+  Blockade. Endet mit unerklärlichem metallischem Klicken aus dem Schrank (STIMME/GERÄUSCH).
 
 ---
 
 ## AKT-FORTSCHRITT
 
 - ✅ Akt 1 (K1–4) — abgeschlossen, alle vier Kapitel geschrieben
-- ⬜ Akt 2 (K5–8) — noch nicht geschrieben
+- 🔶 Akt 2 (K5–8) — in Arbeit, K5 geschrieben
 - ⬜ Akt 3 (K9–12) — noch nicht geschrieben
 - ⬜ Akt 4 (K13–16) — noch nicht geschrieben
 
@@ -250,6 +258,7 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
 | K2 | ~1.100 | Hoch — fast durchgehend Dialog zwischen Nora/Theo/Frau Brandt | ✅ im Zielbereich |
 | K3 | ~900 | Hoch — Zuhören-Szene ist fast vollständig Dialog mit Herbert | ⚠️ unter dem 1.200-Minimum, aber bewusst knapp gehalten (einzelne, intensive Szene ohne Nebenhandlung); im Stimmen-Pass (Phase 4b) gegenprüfen, ob mehr Raum nötig ist |
 | K4 | ~805 | Hoch — fast durchgehend Verarbeitung im Dialog | ⚠️ unter dem 1.200-Minimum, gleicher Grund wie K3 (direkte Fortsetzung derselben Szene, keine neue Nebenhandlung); zusammen mit K3 im Stimmen-Pass gegenprüfen |
+| K5 | ~1.090 | 45,4 % — drei Szenen, durchgehend dialoglastig | ⚠️ knapp unter dem 1.200-Minimum, aber alle drei geplanten Beats vollständig erzählt; kein Füllstoff nötig, im Stimmen-Pass gegenprüfen |
 
 ---
 
