@@ -220,26 +220,25 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
 
 ## ZEITLINIE S2-1 (wird beim Schreiben fortgeschrieben)
 
-> Leeres Gerüst. Direkter Anschluss an Band 5 (Zeitabstand noch in Phase 2 festzulegen,
-> siehe Widerspruch 1 oben).
+- **K1:** Februar-Nachmittag, drei Monate nach Band 5. Frau Brandt klopft an, Nora sagt zu,
+  den Fall zu übernehmen.
 
 ---
 
 ## AKT-FORTSCHRITT
 
-> Leeres Gerüst — Akt-Struktur und Kapitelzahl werden in Phase 2 (Story-Outline)
-> festgelegt, nicht hier vorweggenommen.
-
-- ⬜ Akt 1 — noch nicht geplant
-- ⬜ Akt 2 — noch nicht geplant
-- ⬜ Akt 3 — noch nicht geplant
-- ⬜ Akt 4 — noch nicht geplant
+- 🟨 Akt 1 (K1–4) — in Arbeit: K1 ✅ geschrieben, K2–K4 offen
+- ⬜ Akt 2 — noch nicht geschrieben
+- ⬜ Akt 3 — noch nicht geschrieben
+- ⬜ Akt 4 — noch nicht geschrieben
 
 ---
 
 ## DIALOG-BILANZ
 
-> Leeres Gerüst — wird nach dem Schreiben jedes Kapitels befüllt (Spannungs-Prüfplan).
+| Kapitel | Wörter (gesamt) | Dialog-Anteil (grob) | Ziel 35–45 %? |
+|---|---|---|---|
+| K1 | ~1.170 | Hoch — Großteil des zweiten Halbkapitels ist direkte Rede | ✅ im Zielbereich |
 
 ---
 

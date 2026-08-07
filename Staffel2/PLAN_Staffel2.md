@@ -13,9 +13,16 @@
 > als leiser Faden — genau wie hier vorgeschlagen). Die zentralen Weichen aus Abschnitt 12
 > sind gestellt: Antagonist kommt von außerhalb, konkretes Motiv steht, neue Figur ist
 > sein Kind, 5 Bände, Untertitel „Die Gebundenen". Abschnitt 12 ist jetzt ein
-> Entscheidungs-Log statt einer offenen Fragenliste. **Die Produktion wartet weiter auf
-> Marktdaten** (Aktivierungs-Checkliste unten ist erst teilweise erfüllt) — dieser
-> Durchgang war Konzeptarbeit, kein Startschuss.
+> Entscheidungs-Log statt einer offenen Fragenliste. Phase 1–3 (Kontinuität, Story-Outline,
+> Tracker) ist für alle fünf Bände abgeschlossen.
+>
+> **★ Update (User, 2026-08-07, spätere Sitzung): Phase 4 (Kapitel schreiben) explizit
+> gestartet — Aktivierungs-Checkliste bewusst übergangen.** Die Checkliste unten ist weiterhin
+> nur teilweise erfüllt (Band 5 erst wenige Tage am Markt, keine Marktdaten) — der Nutzer hat
+> sich bewusst entschieden, mit dem Schreiben von S2-1 zu beginnen, statt auf Marktdaten zu
+> warten. Kein Widerruf der Checkliste, sondern eine bewusste Entscheidung, sie für den
+> Schreibstart nicht abzuwarten. `S2-1/Manuskript/Kapitel_01.md` ist der erste geschriebene
+> Text der Staffel.
 
 ---
 
@@ -849,9 +856,11 @@ je einen Reise-/Weg-Übergang, der beim Schreiben eine kurze Überleitungszeile 
 K10→K11, S2-2 K2→K3, S2-3 K8→K9, S2-4 K9→K10, S2-5 K6→K7) — festgehalten als feste
 Schreibregel in Abschnitt 15 (Produktions-Workflow, Abweichung 5).
 
-**Nächster Schritt:** Die gesamte Planung (Phase 1–3) für Staffel 2 ist abgeschlossen. Es
-bleibt **Phase 4 (Kapitel schreiben)** für S2-1 bis S2-5 — bewusst pausiert, bis die
-Aktivierungs-Checkliste (Abschnitt 1) durch Marktdaten zu Band 5 erfüllt ist.
+**Nächster Schritt:** Die gesamte Planung (Phase 1–3) für Staffel 2 ist abgeschlossen.
+**Phase 4 (Kapitel schreiben) hat begonnen** — S2-1 Kapitel 1 ist geschrieben
+(`S2-1/Manuskript/Kapitel_01.md`), bewusst vor vollständiger Erfüllung der
+Aktivierungs-Checkliste (Abschnitt 1), auf ausdrücklichen Nutzerwunsch. Weiter mit S2-1
+Kapitel 2.
 
 ---
 
