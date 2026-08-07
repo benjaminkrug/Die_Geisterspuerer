@@ -24,8 +24,8 @@ einzige Mal.
 
 # Zielumfang
 
-- Kapitelzahl: **noch offen**, voraussichtlich 16–18 (Serienrahmen, CLAUDE.md: 1.400–1.600 W
-  Zielbereich, 1.200 W Minimum) — wird nach der Akt-Grobplanung fixiert, nicht hier geraten.
+- Kapitelzahl: **16, in 4 Akten à 4** (fixiert, siehe Outline-Entscheidungen unten). CLAUDE.md:
+  1.400–1.600 W Zielbereich, 1.200 W Minimum.
 - Jedes Kapitel endet mit Cliffhanger; das nächste löst ihn DIREKT auf.
 - Schatten-Reaktion in JEDEM Kapitel (Pflicht — jetzt als erfahrener, kein rätselhafter Hund).
 - Perspektive: 3. Person nah an Nora.
@@ -135,11 +135,170 @@ Diese Regeln machen den Plot logisch dicht. Jede Szene muss ihnen gehorchen.
 
 ---
 
-# Offene Outline-Entscheidungen (bei der Kapitelplanung fixieren)
+# Outline-Entscheidungen — fixiert (2026-08-07)
 
-1. Name/Ort/Familie des „Gastes" (des gebundenen Geistes) und seine persönliche Geschichte.
-2. Konkreter Zeitabstand zu Band 5 (Vorschlag: ~3–4 Monate, siehe Mechanik Punkt 8).
-3. Konkreter Ort, an dem das Schloss versteckt ist.
-4. Exakte Kapitelzahl und Akt-Split (16–18, Split noch offen).
-5. Wie genau der Fall vermittelt wird — reicht „Frau Held erzählt es weiter", oder soll die
-   Bekannte selbst auftauchen und den Kindern die Geschichte erzählen?
+1. **Der Fall: Herbert Lenz.** Vor ~einem Jahr in einer anderen Stadt gestorben. Seine
+   Tochter, **Frau Brandt**, und ihre kleine Familie sind erst kürzlich nach Gravenstedt
+   gezogen. Vom Leuchtturm-Effekt angezogen, findet sein Geist den einzigen Ort, an den ihn
+   noch etwas bindet: seine Tochter. Er war ihr zu Lebzeiten nie wirklich nah — ein
+   Familienbruch, der nie geheilt wurde. **Methode: Zuhören** (Band-1-Methode, wie in
+   `PLAN_Staffel2.md` Abschnitt 6 vorgegeben) — er braucht, dass jemand ihm zuhört, was er
+   zu Lebzeiten nie aussprechen konnte, UND dass Frau Brandt ihm zuhört, nicht nur Nora.
+2. **Zeitabstand zu Band 5: ~3 Monate.** Band 5 endete im November, S2-1 beginnt im
+   **Februar**. Passt zur dunklen Jahreszeit (Atmosphäre) und ist plausibel für ein
+   Kleinstadt-Gerücht (Mechanik Punkt 8).
+3. **Versteck des Schlosses: ein alter, verschlossener Schrank**, der schon in der Wohnung
+   stand, bevor die Familie einzog. Halder hatte legitimen Zugang — Monate zuvor von der
+   Hausverwaltung für „Routine-Wartung der alten Schlösser im Haus" engagiert, lange bevor
+   die Brandts einzogen oder Herbert starb. **Erklärt zugleich, warum S2-2 gleich viele
+   Schlösser hat** — er präpariert Orte systematisch im Voraus, nicht reaktiv pro Geist.
+4. **16 Kapitel, 4 Akte à 4** — sauberer Split, passend zu Grusel 6/10.
+5. **Vermittlung:** Frau Brandt klopft selbst an die Tür (erfüllt den Eröffnungshook
+   direkt); Frau Held taucht nur beiläufig auf, als Erklärung, woher Frau Brandt überhaupt
+   wusste, an wen sie sich wenden soll.
+
+---
+
+# 4-Akt-Struktur — 16 Kapitel
+
+## AKT 1 — Ein Fall kommt zu ihnen (K1–4)
+
+### Kapitel 1 – „Die Frau vor der Tür"
+Neuleser-Einführung (Regel 2): Nora, Theo, Schatten im ganz normalen Alltag, Februar, drei
+Monate nach Band 5 — beiläufig etabliert als die "Hüter" von Gravenstedt, ohne
+Rückblenden-Referat. Frau Brandt klopft, wirkt aufgelöst, bittet um Hilfe. **Schatten:**
+knurrt leise Richtung Treppenhaus, bevor sie überhaupt die Tür öffnen. **Humor:** Theo
+kommentiert trocken, dass "Kundschaft" jetzt an der Wohnungstür klingelt statt dass sie
+selbst suchen müssen. **Cliffhanger [DIALOG]:** Frau Brandt: "Er war nie so, als er lebte.
+Warum ist er jetzt die ganze Zeit da?"
+
+### Kapitel 2 – „Was Frau Brandt erzählt"
+Die Geschichte: Herbert Lenz, ihr Vater, vor einem Jahr gestorben, Familienbruch, den
+niemand je reparierte. Erste Anzeichen in der neuen Wohnung (Kälte, ein Schatten am
+Schrank). **Schatten:** verweigert den Flur vor dem Schrankzimmer. **Humor:** Theo fragt,
+ob "Familienstreit" jetzt offiziell zu ihrem Aufgabenbereich gehört. **Cliffhanger [BILD]:**
+Durch den Türspalt sehen sie kurz eine Gestalt, die sofort wieder verschwindet.
+
+### Kapitel 3 – „Der erste Versuch"
+Nora wendet Zuhören an — sie lassen Herbert erzählen (über Frau Brandt als Medium/Kanal,
+oder direkt). Es funktioniert scheinbar: er beginnt zu gehen. **Schatten:** entspannt sich
+kurz, dann plötzlich wieder alarmiert. **Humor:** kurzer, erleichterter Scherz von Theo,
+bevor es kippt. **Cliffhanger [AKTION]:** Herbert wird sichtbar, ruckartig zurückgerissen —
+die Bindungssignatur zum ersten Mal.
+
+### Kapitel 4 – „Das darf nicht sein" (ABSCHLUSS AKT 1)
+Nora und Theo begreifen: Das war kein Fehlschlag ihrer Methode — etwas hat aktiv
+eingegriffen. Erste Verwirrung/Selbstzweifel, sofort zurückgewiesen (Mechanik Punkt 4: "wir
+machen alles richtig"). **Schatten:** stellt sich schützend vor die Stelle, wo Herbert
+zurückgerissen wurde. **Humor:** Theo bricht die Anspannung mit einem schiefen Vergleich.
+**Cliffhanger [GEDANKE/ENTSCHLUSS]:** Nora entscheidet: Sie müssen herausfinden, WAS ihn
+hält, nicht nur WARUM er nicht gehen will.
+
+## AKT 2 — Die Spur (K5–8)
+
+### Kapitel 5 – „Wer Herbert war"
+Vertiefung: Recherche/Gespräch über Herbert Lenz' Leben, warum der Familienbruch entstand
+(Serien-Muster: entdecken statt vortragen, über Frau Brandts Erinnerungen). **Schatten:**
+reagiert unterschiedlich stark je nachdem, wo im Zimmer sie sich aufhalten — hilft, den
+Bereich einzugrenzen. **Humor:** Theo dokumentiert "Hinweise" mit übertriebenem
+Detektiv-Ernst. **Cliffhanger [STIMME/GERÄUSCH]:** Ein Geräusch aus dem Schrank, das keiner
+erklären kann.
+
+### Kapitel 6 – „Der Schrank"
+Der alte Schrank rückt in den Fokus — Frau Brandt weiß nicht viel über seine Herkunft
+("stand schon da"). Erste Untersuchung, nichts Offensichtliches. **Schatten:** legt sich
+demonstrativ direkt davor, rührt sich nicht. **Humor:** Theo versucht, den Schrank mit
+einer Büroklammer zu öffnen, scheitert kläglich. **Cliffhanger [AKTION]:** Der Schrank ist
+verschlossen — und es gibt keinen Schlüssel im ganzen Haushalt.
+
+### Kapitel 7 – „Was Zuhören nicht lösen kann"
+Zweiter Versuch mit Herbert (jetzt mit Frau Brandt aktiv einbezogen, sie hört ihm selbst
+zu) — emotional stark, aber derselbe Rückriss passiert wieder. Bestätigt Mechanik Punkt 4:
+Wiederholung wirkt nicht. **Schatten:** winselt kurz, ungewöhnlich für ihn. **Humor:**
+knapp gehalten, dieses Kapitel ist bewusst ernster (Wach-Regel: nicht zwei dialogarme
+Kapitel in Folge, hier gegenprüfen). **Cliffhanger [DIALOG]:** Frau Brandt, erschüttert:
+"Ich hab ihm doch endlich zugehört. Warum reicht das nicht?"
+
+### Kapitel 8 – „Die Handwerker-Rechnung" (ABSCHLUSS AKT 2)
+Nora findet einen Hinweis auf frühere "Wartungsarbeiten" am Schrank/den Schlössern des
+Hauses — eine alte Quittung oder ein Vermerk der Hausverwaltung, Monate vor Herberts Tod.
+Erste, noch unklare Ahnung: **Jemand hat hier gearbeitet, bevor irgendjemand von Herbert
+wusste.** **Schatten:** reagiert stark auf das Papier selbst (riecht/knurrt es an) — ein
+neuer Reaktionstyp. **Humor:** Theo witzelt über "Verschwörungstheorien", nimmt es dann
+doch ernst. **Cliffhanger [ERKENNTNIS]:** Die Wartung fand statt, **bevor die Brandts
+überhaupt eingezogen waren.**
+
+## AKT 3 — Das Schloss (K9–12)
+
+### Kapitel 9 – „Nicht der Erste"
+Die Kinder erkennen: Wenn die Wartung vor dem Einzug war, hatte sie nichts mit Herbert zu
+tun — der Schrank war schon "präpariert". Erster echter Verdacht: Das ist kein Einzelfall.
+**Schatten:** unruhig im ganzen Zimmer, nicht mehr nur am Schrank fixiert. **Humor:** Theo
+zieht einen (falschen) Verdächtigen aus dem Hut, wird sanft korrigiert. **Cliffhanger
+[BILD]:** Ein winziges, kaum sichtbares Schloss-Symbol, in den Schrank geritzt.
+
+### Kapitel 10 – „Das kleinste Schloss der Welt"
+Die Suche konzentriert sich auf ein tatsächliches physisches Schloss — winzig, gut
+versteckt, am Schrank selbst. Erste Untersuchung, wie man es öffnen könnte, ohne
+Schlüssel. **Schatten:** legt die Schnauze exakt auf die Stelle. **Humor:** Theo
+vergleicht es mit einem Adventskalender-Schlösschen. **Cliffhanger [KOMPLIKATION]:**
+Ein grober Öffnungsversuch schlägt fehl — das Schloss ist nicht mit Gewalt zu knacken,
+nur mit dem richtigen Ansatz.
+
+### Kapitel 11 – „Was Herbert wirklich wollte"
+Emotionaler Kern-Beat: Ein ruhiges Gespräch (Frau Brandt + Nora/Theo), in dem endlich
+klar wird, was zwischen Herbert und seiner Tochter wirklich stand — nicht Groll, sondern
+Scham/Angst, sich zu entschuldigen. **Schatten:** legt sich still neben Frau Brandt,
+tröstende Reaktion (neuer Typ). **Humor:** dezent, ein warmer statt ein komischer Beat
+(Ausnahme erlaubt, CLAUDE.md: 2–3 pro Buch). **Cliffhanger [DIALOG]:** Frau Brandt: "Wenn
+ich das gewusst hätte, hätte ich ihn nie gehen lassen. Jetzt versteh ich's zu spät."
+
+### Kapitel 12 – „Der richtige Ansatz" (ABSCHLUSS AKT 3)
+Aus dem emotionalen Durchbruch (K11) UND der handwerklichen Beobachtung (K10) setzt sich
+zusammen, WIE das Schloss zu öffnen ist — nicht durch Kraft, sondern durch eine genaue,
+fast zärtliche Bewegung (Echo der eigentlichen Botschaft: Herbert brauchte Sanftheit, nicht
+Druck). **Schatten:** reagiert das erste Mal "erwartungsvoll" statt alarmiert. **Humor:**
+Theo hält die Spannung mit einem letzten nervösen Scherz. **Cliffhanger [AKTION]:** Nora
+setzt an, das Schloss zu öffnen — Licht flackert, irgendetwas registriert es.
+
+## AKT 4 — Der Gast geht (K13–16)
+
+### Kapitel 13 – „Es öffnet sich"
+Das Schloss öffnet sich. Sofortige, spürbare Veränderung im Raum — Herbert erscheint klar,
+zum ersten Mal ohne die "Leine"-Spannung. **Schatten:** entspannt vollständig, erste
+ruhige Reaktion des ganzen Buches. **Humor:** kurz, erleichtert. **Cliffhanger
+[SPANNUNG/UNSICHERHEIT]:** Reicht das offene Schloss allein, oder braucht es noch etwas?
+
+### Kapitel 14 – „Zuhören, zu Ende"
+Frau Brandt spricht direkt zu Herbert — der Zuhören-Moment, diesmal ungestört. Er kann
+endlich antworten/loslassen. **Schatten:** bleibt ruhig, beobachtet respektvoll (wie in
+Staffel-1-Befreiungsszenen etabliert). **Humor:** keiner nötig — bewusster ernster Beat.
+**Cliffhanger [BILD]:** Herbert beginnt zu gehen — diesmal ohne Ruck.
+
+### Kapitel 15 – „Was bleibt, was verschwindet"
+Herbert geht endgültig, Frau Brandt bleibt mit Trauer UND Frieden zurück statt nur mit
+Trauer. Ausklang der emotionalen Haupthandlung dieses Bandes — ein echter, abgeschlossener
+Sieg (Qualitäts-Leitlinie 2). **Schatten:** legt sich zufrieden hin, Pflicht-Reaktion
+erfüllt. **Humor:** Theo bringt die Familie sanft zum Lachen, bricht die Schwere.
+**Cliffhanger [OBJEKT]:** Das leere, jetzt offene Schloss liegt in Noras Hand — kalt,
+eindeutig kein Zufallsprodukt, sondern gefertigt.
+
+### Kapitel 16 – „Jemand tut das" (EPILOG, ABSCHLUSS AKT 4)
+Zuhause, ruhiger Ausklang wie Band 5 K18 — aber diesmal kein Frieden, sondern eine neue,
+unruhige Frage. Nora und Theo begreifen: Das Schloss war kein Einzelstück, sondern
+handwerklich, systematisch, geplant. **Schatten:** hebt am Ende den Kopf, schaut zum
+Fenster hinaus — nicht alarmiert, aber wachsam (bewusstes Echo auf Band 5 K18, diesmal
+nicht beruhigend). **Humor:** ein letzter Theo-Kommentar, der die Spannung nicht ganz
+auflöst. **Cliffhanger [ERKENNTNIS, KEIN Cliffhanger im klassischen Sinn — Season-Hook]:**
+"Jemand hat das gebaut. Und wenn er das einmal getan hat …" — Nora verstummt. Die größere
+Bedrohung ist jetzt real, nicht mehr nur eine Vermutung. **ENDE S2-1.**
+
+---
+
+# Übergangs-Gesamtprüfung (vorläufig — vollständige Prüfung folgt in Phase 3)
+
+Alle 15 Kapitelübergänge lösen ihren jeweiligen Cliffhanger im direkt folgenden Kapitel auf
+— keine Zeitsprünge außer keinem (anders als Band 5 hat S2-1 keinen Epilog-Zeitsprung, K16
+schließt direkt an K15 an). **Vollständige Prüfung, Setup/Payoff-Mapping und
+Cliffhanger-Typenkontrolle (keine zwei gleichen in Folge) folgen in Phase 3
+(Szenenplanung + Tracker) — noch nicht hier durchgeführt.**

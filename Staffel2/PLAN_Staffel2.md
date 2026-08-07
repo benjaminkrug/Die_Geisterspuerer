@@ -803,9 +803,12 @@ nur **Hintergrundwissen der Figuren** bleibt (Kontinuität, nicht ausgesprochen)
 | 25 | Neuleser-Spalte in S2-1-Kontinuität | Nur für S2-1, kein Serienstandard | Einziger Band mit dem Nora/Theo-wissen-vs-Text-erklärt-Konflikt |
 
 **Nächster Schritt:** Phase 1 für S2-1 ✅ [Staffel2/S2-1/Kontinuitaet_S2-1.md](S2-1/Kontinuitaet_S2-1.md).
-Phase 2 begonnen — [Staffel2/S2-1/Story_Outline_S2-1.md](S2-1/Story_Outline_S2-1.md) enthält
-Buchkonzept, Zielumfang und die Mechanik-/Physik-Selbstprüfung (8 Regeln). Kapitelliste noch
-offen, wartet auf Bestätigung der Mechanik-Regeln.
+Phase 2 ✅ [Staffel2/S2-1/Story_Outline_S2-1.md](S2-1/Story_Outline_S2-1.md) — Buchkonzept,
+Mechanik-/Physik-Prüfung (8 Regeln, bestätigt), alle offenen Outline-Entscheidungen fixiert
+(Fall: Herbert Lenz/Frau Brandt; Zeitabstand ~3 Monate; Schrank-Schloss; 16 Kapitel/4 Akte)
+und die vollständige 16-Kapitel-Liste mit Kernszene/Schatten/Humor/Cliffhanger je Kapitel.
+Übergangs-Gesamtprüfung nur vorläufig — vollständig erst in Phase 3. **Nächster Schritt:
+Phase 3 — Setup/Payoff-Tracker, Cliffhanger-Register, Detaillierte Szenenplanung für S2-1.**
 
 ---
 
