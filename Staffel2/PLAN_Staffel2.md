@@ -806,14 +806,15 @@ nur **Hintergrundwissen der Figuren** bleibt (Kontinuität, nicht ausgesprochen)
 Phase 2 ✅ [Staffel2/S2-1/Story_Outline_S2-1.md](S2-1/Story_Outline_S2-1.md) — Buchkonzept,
 Mechanik-/Physik-Prüfung, 16-Kapitel-Liste, im zweiten Durchgang um vier Logikfixes bereinigt
 (u. a. ein echter Zeitlinien-Widerspruch bei Herberts Todes-/Ankunftsdatum).
-Phase 3 ✅ [Setup_Payoff_Tracker_S2-1.md](S2-1/Setup_Payoff_Tracker_S2-1.md) (12 Band-Setups
-gemappt, 2 bewusst offene Staffel-Fäden markiert) ·
-[Cliffhanger_Register_S2-1.md](S2-1/Cliffhanger_Register_S2-1.md) (16 Cliffhanger, keine
-zwei Typen in Folge gleich) ·
-[Detaillierte_Szenenplanung_S2-1.md](S2-1/Detaillierte_Szenenplanung_S2-1.md) (Szenen pro
-Kapitel, 14/15 Übergänge lösen sofort auf, einer mit vermerkter Überleitungs-Auflage).
-**Nächster Schritt: Phase 4 — Kapitel schreiben.** Wartet laut Aktivierungs-Checkliste
-(Abschnitt 1) weiterhin auf Marktdaten, bevor tatsächlich Prosa entsteht.
+Phase 3 ✅ [Setup_Payoff_Tracker_S2-1.md](S2-1/Setup_Payoff_Tracker_S2-1.md) ·
+[Cliffhanger_Register_S2-1.md](S2-1/Cliffhanger_Register_S2-1.md) ·
+[Detaillierte_Szenenplanung_S2-1.md](S2-1/Detaillierte_Szenenplanung_S2-1.md) — im dritten
+Durchgang nochmal geprüft (K14-Redundanz-Risiko behoben, Faire-Hinweisketten tatsächlich
+verifiziert statt nur behauptet).
+Entscheidung #24 ✅ [Staffel2/Hinweisketten_Tracker.md](Hinweisketten_Tracker.md) angelegt —
+verfolgt die beiden staffelweiten Enthüllungen (Frieda, das Feuer-Motiv) bandübergreifend.
+**Nächster Schritt: S2-2, Phase 1 (Kontinuität)** — oder Phase 4 (Kapitel schreiben) für
+S2-1, sobald die Aktivierungs-Checkliste (Abschnitt 1) erfüllt ist.
 
 ---
 
