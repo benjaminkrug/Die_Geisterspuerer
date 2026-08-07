@@ -705,6 +705,44 @@ und jetzt auch Cover —, nicht den Startzeitpunkt oder die Ausführung.
 
 ---
 
+## 14. Ausführungsrisiken — beim Schreiben aktiv gegensteuern (2026-08-07)
+
+> Diese vier Punkte sind keine offenen Entscheidungen und kein Grund, das Konzept zu
+> ändern — sie sind Stellen, an denen die **Ausführung** beim tatsächlichen Schreiben der
+> jeweiligen Bände sehr bewusst gegensteuern muss. Vor dem Schreiben von S2-3, S2-4 und
+> S2-5 diesen Abschnitt lesen.
+
+**1. S2-4: Der unlösbare Fall darf nicht zu „einfach nur traurig" kippen.**
+Alle zwölf Geister aus Staffel 1 wurden befreit — ausnahmslos. Der Geist in S2-4 bleibt für
+immer gebunden (kanonbegründet, „befreite Geister kehren nicht zurück"). Das ist ein echter
+Bruch mit dem „Kribbeln, kein Albtraum"-Versprechen der Marke. **Gegensteuern:** Dem Geist
+am Ende trotzdem eine Art Gnade geben — nicht Freiheit, aber z. B. Gesellschaft,
+Anerkennung, ein Innehalten der Angst —, damit „man kann nicht jeden retten" nicht zu
+purer Trauer ohne Trost wird.
+
+**2. S2-3: Halders Nähe zur Familie darf nicht ins Psychothriller-Register kippen.**
+Ein sympathischer Erwachsener, der sich über eine Tarnung Zugang zur Familie verschafft,
+berührt ein anderes Angstregister als Geister — strukturell näher an einer
+Fremden-Gefahr-Erzählung als an Gruselliteratur, auch wenn er körperlich niemanden
+bedroht. **Gegensteuern:** Beim Schreiben sehr bewusst in der Abenteuer-/Rätsel-Tonlage
+bleiben, nicht in Richtung häusliches Psychothriller-Gefühl abdriften.
+
+**3. S2-5: Nora/Theo dürfen im eigenen Finale nicht zu Zuschauern werden.**
+Frieda trägt die entscheidende Konfrontation (Abschnitt 6, S2-5) — das hält „Empathie
+schlägt Kampf" ein, riskiert aber, dass die Hauptfiguren im Höhepunkt ihrer eigenen
+Staffel passiv wirken. **Gegensteuern:** Sicherstellen, dass Nora oder Theo einen klar
+notwendigen, aktiven Anteil daran haben, dass Frieda überhaupt so weit kommt (z. B.
+Noras Verständnis überzeugt Frieda erst, überhaupt zu suchen).
+
+**4. „Ab 12 Jahren" ist ein bewusstes Geschäftsrisiko, kein neutrales Detail.**
+Entscheidung getroffen (Abschnitt 12, #19): ehrliches Content-Signal vor
+Marken-Kontinuität zu „ab 10". Kappt potenziell die Brücke zu bestehenden Käufern, die
+noch nicht wissen, dass ihr Kind älter geworden ist. Vertretbar, aber bei den ersten
+Marktdaten (Aktivierungs-Checkliste, Abschnitt 1) explizit gegenprüfen, ob die
+Kategorie-Wahl trägt.
+
+---
+
 *Erstellt 2026-07-15. Konzept-Entscheidungen ergänzt 2026-08-07 (siehe Abschnitt 12).
 Reserve-Dokument – Produktionsstart wartet weiterhin auf Marktdaten
 (Aktivierungs-Checkliste, Abschnitt 1).*
