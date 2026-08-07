@@ -80,13 +80,9 @@ Frau Brandt sah zwischen den beiden hin und her. Als müsste sie sich entscheide
 
 Sie schluckte.
 
-"Aber seit wir hier eingezogen sind, ist er da. In der Wohnung. Jede Nacht ein bisschen mehr." Ihre Stimme brach. "Zuerst dachte ich, ich bilde es mir ein. Kalte Stellen im Flur, genau vor dem Schrankzimmer, egal wie hoch ich die Heizung stelle. Ein Schatten am Schrank, der verschwindet, wenn ich hinsehe. Aber letzte Nacht hat er direkt vor meinem Bett gestanden. Ganz still. Ich hab sein Gesicht gesehen, genau wie damals, als ich klein war."
+"Aber seit wir hier eingezogen sind, ist er da. Jede Nacht ein bisschen mehr." Ihre Stimme brach. "Ich weiß nicht, was in dieser Wohnung mit ihm passiert. Ich habe nur Angst, nach Hause zu gehen. Und meine eigene Tochter will nicht mehr in ihrem Zimmer schlafen."
 
 Nora spürte, wie sich etwas in ihrem Nacken zusammenzog. Kein neues Gefühl. Sie kannte es gut.
-
-"Warum jetzt?", fragte sie. "Wenn er letztes Jahr gestorben ist — warum erst seit Ihrem Umzug?"
-
-"Ich weiß es nicht." Frau Brandts Augen füllten sich mit Tränen, die sie wütend wegblinzelte. "Ich weiß gar nichts mehr. Ich habe Angst, nach Hause zu gehen. Und meine eigene Tochter will nicht mehr in ihrem Zimmer schlafen."
 
 Theo hatte aufgehört zu grinsen. Er stand jetzt ganz still neben Nora, die Arme leicht angewinkelt, bereit.
 
