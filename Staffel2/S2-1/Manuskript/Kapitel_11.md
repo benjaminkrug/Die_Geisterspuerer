@@ -22,19 +22,67 @@ Frau Brandt saß eine Weile still. Dann stand sie auf.
 
 "Doch." Sie nahm den Kellerschlüssel vom Haken. "Ich sitze hier und mein Vater hat gerade geschrien. Ich kann nicht einfach dasitzen."
 
+"Wir kommen mit", sagte Nora.
+
 ---
 
-Es waren drei Kartons, kleiner als Nora erwartet hatte.
+Im Keller war es kälter als oben, aber es war eine ehrliche Kälte. Beton und Februar, mehr nicht.
 
-Frau Brandt stellte sie auf den Küchenboden und blieb davor stehen, ohne sie anzufassen. Das Klebeband war vergilbt. Auf dem obersten stand in fremder Handschrift *Wohnzimmer*.
+Schatten trabte die Treppe hinunter und wartete unten, den Schwanz locker.
 
-"Das hat die Firma geschrieben, die die Wohnung ausgeräumt hat", sagte sie. "Ich war nicht dabei."
+Sie kamen an Kubiaks Tür vorbei. Darunter war kein Licht.
 
-Theo rutschte vom Stuhl und setzte sich im Schneidersitz davor. "Soll ich?"
+"Der schläft wahrscheinlich", flüsterte Theo. "Wie normale Menschen. Um diese Uhrzeit."
+
+"Wir sind auch normale Menschen."
+
+"Wir sind unterwegs in einem Keller. Nachts."
+
+Der Verschlag der Brandts lag ganz hinten, hinter der Waschküche. Lattenwände, Maschendraht darüber, ein Vorhängeschloss dran.
+
+Nora blieb davor stehen.
+
+"Guck mal", sagte sie.
+
+"Was denn?"
+
+"Das hier ist ein Schloss."
+
+Theo verstand nicht sofort. Dann schon.
+
+Es war groß und silbern, und man sah es aus drei Metern Entfernung.
+
+"Okay", sagte er langsam. "Das ist echt ein Unterschied."
+
+Frau Brandt brauchte drei Anläufe, bis der Schlüssel drehte.
+
+"Ich war seit dem Einzug nicht mehr hier unten", sagte sie. "Ich hab das Zeug abstellen lassen und die Tür zugemacht."
+
+"Und seitdem nie wieder?"
+
+"Nie wieder."
+
+---
+
+Das Licht im Kellergang lief über einen Zeitschalter. Es klickte alle zwei Minuten aus.
+
+Beim ersten Mal zuckten alle drei zusammen.
+
+"Ich hasse diese Dinger", sagte Theo in die Dunkelheit hinein und tastete nach dem Knopf. "Wer denkt sich das aus? Licht, aber nur ein bisschen."
+
+Danach drückte er einfach alle zwei Minuten neu, ohne dass ihn jemand darum bat.
+
+Die Kartons standen auf einer Palette. Es waren drei, kleiner als Nora erwartet hatte. Das Klebeband war vergilbt, auf dem obersten stand in fremder Handschrift *Wohnzimmer*.
+
+"Das hat die Firma geschrieben, die die Wohnung ausgeräumt hat", sagte Frau Brandt. "Ich war nicht dabei."
+
+Theo ging in die Hocke. "Soll ich?"
 
 "Ja. Bitte."
 
 Er schnitt das Klebeband mit dem Daumennagel auf, langsam, als wäre es etwas Zerbrechliches.
+
+---
 
 Im ersten Karton lag ein Leben.
 
@@ -44,21 +92,29 @@ Eine Lesebrille im Etui. Zwei Bücher über Rosen, beide mit Eselsohren. Ein Rad
 
 Frau Brandt nahm die Handschuhe in die Hand und legte sie sofort wieder hin.
 
-"Ich kann das nicht."
+"Ich kann das nicht." Sie trat einen Schritt zurück, bis sie an den Maschendraht stieß. "Nicht hier unten. Nicht so."
 
-"Sie müssen nicht", sagte Nora. "Wir machen das. Sie sagen uns nur, wenn etwas wichtig ist."
+"Müssen Sie auch nicht", sagte Nora.
+
+Sie schob den Deckel wieder drauf. Der zweite Karton war deutlich schwerer.
+
+"Der hier ist Papier", sagte sie. "Den nehmen wir mit hoch."
+
+Das Licht klickte aus.
+
+Diesmal drückte Theo den Knopf, bevor jemand etwas sagen konnte.
+
+---
+
+Sie trugen den Karton zu zweit die Treppe hoch, und in der Küche war es plötzlich sehr warm.
+
+Frau Brandt machte die Tür hinter ihnen zu. Sie setzte sich auf einen Küchenstuhl, ein Stück abseits. Ihre Hände lagen im Schoß wie bei jemandem im Wartezimmer.
+
+"Sagen Sie einfach, wenn Ihnen etwas komisch vorkommt", sagte Nora.
 
 "Woran erkenne ich das denn?"
 
-"An gar nichts. Sagen Sie einfach, wenn Ihnen etwas komisch vorkommt."
-
-Frau Brandt setzte sich auf einen Küchenstuhl, ein Stück abseits. Sie legte die Hände in den Schoß wie jemand im Wartezimmer.
-
-Theo hob den Radiowecker hoch. "Der steht auf Viertel nach sechs."
-
-"Der hat einfach aufgehört, als der Strom weg war", sagte Nora.
-
-"Ich weiß." Er stellte ihn vorsichtig zur Seite. "Trotzdem komisch."
+"An gar nichts. Deshalb sagen Sie es einfach."
 
 ---
 

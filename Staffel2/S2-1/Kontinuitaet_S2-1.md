@@ -313,7 +313,21 @@ beim Kanon-Check zu K8.
   explizite Überleitungszeile — Frau Brandt holt die Kiste **als Reaktion auf diesen
   Fehlschlag** („wenn wir ihn nicht aufbrechen können, müssen wir ihn verstehen"), nicht als
   freistehende Ermittlungshandlung. → ✅ **in K11 umgesetzt** (siehe dort).
-- **K11:** Direkter Anschluss, gleiche Nacht, Küche der Brandts. Herbert ist verschwunden
+- **K11:** Direkter Anschluss, gleiche Nacht. **Zwei Schauplätze: Keller → Küche.**
+  ⚠️ **Nachträglich umgebaut (Abwechslungs-Analyse, 2026-08-07):** Ursprünglich spielte das
+  ganze Kapitel in der Küche; Frau Brandt holte die Kisten allein. Jetzt gehen **alle drei
+  gemeinsam in den Keller**. Neuer Ort: der Verschlag der Brandts hinter der Waschküche,
+  Lattenwände, Maschendraht, Zeitschalter-Licht, das alle zwei Minuten ausklickt (Theo
+  drückt danach ungefragt nach). Der **erste** Karton wird unten geöffnet — dort trägt die
+  Szene Frau Brandts jahrelange Vermeidung („Ich war seit dem Einzug nicht mehr hier
+  unten"). Als sie es nicht aushält, tragen sie den **zweiten** Karton hoch; die Karten
+  werden am warmen Küchentisch gefunden und gelesen.
+  ➡️ **Neuer Beat, der zahlt:** Am Verschlag hängt ein **ganz normales Vorhängeschloss** —
+  groß, silbern, aus drei Metern sichtbar. Nora stellt es dem winzigen Schloss gegenüber
+  („Das hier ist ein Schloss"). Macht ohne Erklärung greifbar, wie unnatürlich das andere ist.
+  ⚠️ **Echo-Kontrolle gegen K8** (dort spielt Kubiaks Werkstatt im selben Keller): kein
+  gemeinsames Beschreibungsvokabular außer dem Ortsnamen „Waschküche". K8 = Metall/Öl/Werkbank,
+  K11 = Beton/Staub/Maschendraht. Herbert ist verschwunden
   (nicht gegangen — nur nicht mehr sichtbar). ✅ **Übergangszeile geliefert:** Nora: „Wenn wir
   ihn nicht rausbrechen können, müssen wir ihn verstehen" → Frau Brandt holt die Kellerkisten
   aus Hilflosigkeit („Ich sitze hier und mein Vater hat gerade geschrien"), nicht als geplante
@@ -437,7 +451,7 @@ beim Kanon-Check zu K8.
 - ✅ Akt 2 (K5–8) — abgeschlossen, alle vier Kapitel geschrieben
 - ✅ Akt 3 (K9–12) — abgeschlossen, alle vier Kapitel geschrieben
 - ✅ Akt 4 (K13–16) — abgeschlossen, alle vier Kapitel geschrieben
-- 🎉 **S2-1 „Der Gast, der blieb" ist vollständig — 16/16 Kapitel, 15.807 Wörter.**
+- 🎉 **S2-1 „Der Gast, der blieb" ist vollständig — 16/16 Kapitel, 16.069 Wörter.**
 
 ---
 
@@ -456,7 +470,7 @@ beim Kanon-Check zu K8.
 
 | K9 | ~965 | 35,7 % — Ermittlung + Suchsequenz als Klimax | ✅ Ø-Satz 6,73 · 0 Verstöße · exakt auf Band-5-Schnitt (939 W) |
 | K10 | ~1.050 | 35,8 % — Fund, Werkzeugszene, Fehlschlag | ✅ Ø-Satz 6,38 · 0 Verstöße · Kurz-Absätze 6,1 % |
-| K11 | ~1.060 | 36,0 % — stille Trauerszene, bewusst dialogisch gehalten | ✅ Ø-Satz 6,59 · 0 echte Verstöße · Kurz-Absätze 6,2 % |
+| K11 | ~1.315 | 34,2 % — zwei Schauplätze (Keller + Küche) | ✅ Ø-Satz 6,61 · 0 echte Verstöße · Kurz-Abs 6,6 % · **längstes Kapitel des Buchs**, trägt aber zwei Orte |
 | K12 | ~950 | 38,7 % — Synthese + Ausführung, Aktschluss | ✅ Ø-Satz 6,18 · 0 Verstöße · Kurz-Absätze 8,9 % |
 | K13 | ~1.110 | **33,9 %** — Ereignis- und Wahrnehmungskapitel | ⚠️ Ø-Satz 5,96 · 0 Verstöße · Kurz-Abs 9,5 % · **Dialog unter der 35-%-Grenze** — zweiter Fall nach K6 (31,4 %). Beide Male ein Kapitel, dessen Kern ein physisches Ereignis ist. Im Stimmen-Pass zusammen prüfen, ob das buchweit auffällt |
 | K14 | ~985 | 46,9 % — emotionaler Höhepunkt, fast durchgehend Dialog | ✅ Ø-Satz 6,53 · 0 Verstöße · Kurz-Abs 11,2 % (über Band 5s 9,6 %, im Klimax vertretbar — bei Aktschluss gegenprüfen) |
@@ -575,8 +589,8 @@ Umformulieren neu entstandener 19-Wort-Satz wurde sofort gesplittet.
 | Marker | **S2-1** | Band 1 | Band 5 | Bewertung |
 |---|---|---|---|---|
 | Kapitel | 16 | 18 | 18 | |
-| Wörter gesamt | **15.807** | 26.988 | 16.910 | knapp unter Band 5, gleiche Größenordnung |
-| Ø je Kapitel | **988** | 1.499 | 939 | auf Band-5-Niveau |
+| Wörter gesamt | **16.069** | 26.988 | 16.910 | knapp unter Band 5, gleiche Größenordnung |
+| Ø je Kapitel | **1.004** | 1.499 | 939 | auf Band-5-Niveau |
 | Ø-Satzlänge | **6,82** | 4,74 | 6,38 | zwischen beiden, unter Stilblatt-Untergrenze |
 | Sätze > 18 W | **0 echte** (4 Messartefakte) | 11 | 49 | strenger als beide Referenzbände |
 | Dialoganteil | **37,1 %** | 50,5 % | 24,4 % | im Zielband 35–45 % |
