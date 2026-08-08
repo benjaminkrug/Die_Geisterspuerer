@@ -333,6 +333,25 @@ beim Kanon-Check zu K8.
   Mal nach K5/K7 gewesen) — er beschnüffelt stattdessen die Gartenhandschuhe und setzt sich
   davor. Nora stellt ausdrücklich klar: „Da ist kein Geist dran. Da ist nur Erde." Hält die
   Wach-Regel ein, Schatten bleibt normaler Hund.
+- **K12** (ABSCHLUSS AKT 3): Direkter Anschluss, gleiche Nacht. **Die Synthese entsteht aus
+  beiden Akt-3-Zutaten zusammen**, wie in der Szenenplanung gefordert:
+  · aus **K11**: Herbert konnte alles Harte (schreiben, zukleben, frankieren) — nur den
+    letzten kleinen Schritt nicht;
+  · aus **K10**: Gewalt am Schloss bewirkt nichts, und das Schloss ist **auffallend kalt**,
+    weil es nicht zum Zimmer gehört, sondern zu ihm.
+  **Theo liefert den Reframe** („vielleicht ist das Harte nie das Problem gewesen — bei ihm
+  war es auch nicht das Harte, es war das Kleine") — sein Arc-Beitrag, nicht Noras Einfall.
+  Daraus der Ansatz: nicht ziehen, sondern **halten**. Nora legt die Hand um das Schloss und
+  hält es einfach, trotz Kälte bis in die Schulter, und spricht dabei **zu Herbert, nicht zum
+  Schloss**. Sie geht ausdrücklich unbewaffnet hinein („Sehen Sie? Nichts in den Händen") und
+  gibt Frau Brandt das Versprechen, sofort aufzuhören, falls er wieder schreit.
+  Schatten bleibt an der Schwelle, aber **ruhig** — erstmals kein Winseln, kein unruhiges
+  Treten. Frühwarnsystem meldet Entwarnung, ohne dass der Text ihm Sonderwissen andichtet.
+  Endet mitten in der Bewegung: Flurlicht flackert zweimal, unter Noras Fingern gibt etwas
+  minimal nach — „Sie hielt einfach weiter." (AKTION)
+  ➡️ **K10s Fehlschlag zahlt hier direkt aus** — die Wende ist erarbeitet, nicht behauptet.
+  ⚠️ **Für K13:** Das Schloss ist **noch nicht offen**. K12 endet beim ersten Nachgeben; das
+  eigentliche Öffnen gehört K13.
 
 ---
 
@@ -340,7 +359,7 @@ beim Kanon-Check zu K8.
 
 - ✅ Akt 1 (K1–4) — abgeschlossen, alle vier Kapitel geschrieben
 - ✅ Akt 2 (K5–8) — abgeschlossen, alle vier Kapitel geschrieben
-- 🔶 Akt 3 (K9–12) — in Arbeit, K9 geschrieben
+- ✅ Akt 3 (K9–12) — abgeschlossen, alle vier Kapitel geschrieben
 - ⬜ Akt 4 (K13–16) — noch nicht geschrieben
 
 ---
@@ -361,6 +380,7 @@ beim Kanon-Check zu K8.
 | K9 | ~965 | 35,7 % — Ermittlung + Suchsequenz als Klimax | ✅ Ø-Satz 6,73 · 0 Verstöße · exakt auf Band-5-Schnitt (939 W) |
 | K10 | ~1.050 | 35,8 % — Fund, Werkzeugszene, Fehlschlag | ✅ Ø-Satz 6,38 · 0 Verstöße · Kurz-Absätze 6,1 % |
 | K11 | ~1.060 | 36,0 % — stille Trauerszene, bewusst dialogisch gehalten | ✅ Ø-Satz 6,59 · 0 echte Verstöße · Kurz-Absätze 6,2 % |
+| K12 | ~950 | 38,7 % — Synthese + Ausführung, Aktschluss | ✅ Ø-Satz 6,18 · 0 Verstöße · Kurz-Absätze 8,9 % |
 
 ⚠️ **Messkorrektur (Stimmen-Prüfung Akt 2):** Die Dialog-Prozentwerte für K1–K8 waren in
 früheren Einträgen dieser Tabelle **zu hoch angesetzt**. Die alte Methode zählte einen

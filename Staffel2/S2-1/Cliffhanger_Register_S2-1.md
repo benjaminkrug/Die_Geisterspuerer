@@ -119,3 +119,23 @@ K6 lehrte nur „zu". K10 muss zeigen, dass das Schloss nach dem Gewaltversuch *
 unversehrt** ist — kein Kratzer, kein Verzug, als greife Kraft daran nicht an. Genau das
 trägt K12s Wende („Sanftheit statt Kraft"). Ohne diesen Unterschied ist K10 eine
 Wiederholung von K6.
+
+→ ✅ **Umgesetzt.** K10 liefert den Unterschied sogar doppelt: das Schloss bleibt unversehrt
+**und** Herbert schreit vor Schmerz. Damit ist K10 kein zweiter Fehlschlag, sondern der
+Erkenntnisschritt — und K12s Wende ist erarbeitet statt behauptet.
+
+### ⚠️ Beat-Prüfung K13/K14 — vor dem Schreiben von Akt 4 zu erledigen
+
+Der offene Beobachtungspunkt aus der Vorabplanung (beide Cliffhanger „ruhig, kein harter
+Schock"). Nach Akt 3 kommt ein **zweites** Risiko dazu:
+
+| | K12 (geschrieben) | K13 (geplant) |
+|---|---|---|
+| Auslöser | Nora hält das Schloss, erstes Nachgeben | das Schloss öffnet sich |
+| Schlussbild | Bewegung, die weitergeht | offene Frage: reicht das? |
+
+**Risiko:** K12 und K13 spielen beide am Schloss, mit derselben Handlung (Nora hält es) und
+derselben Figurenkonstellation. K13 darf **nicht** einfach „dasselbe, nur weiter" sein.
+**Vorgabe:** K13 muss den Schauplatz der Spannung verschieben — weg vom Schloss, hin zu
+Herbert bzw. dem Raum. Das Öffnen gehört an den **Anfang** von K13, nicht ans Ende, damit
+das Kapitel danach etwas Eigenes erzählen kann.
