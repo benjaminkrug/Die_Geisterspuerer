@@ -1,5 +1,7 @@
 # Kapitel 1 – Die Frau vor der Tür
 
+Schatten hatte den ganzen Winter nicht geknurrt.
+
 Nora sortierte die Post auf dem Küchentisch, dreizehn Jahre alt und mit der Geduld einer viel Älteren. Rechnung. Werbung für einen Pizza-Lieferdienst. Noch eine Rechnung.
 
 "Langweilig", sagte Theo von der Couch aus. Elf Jahre alt, die Haare wie immer zu lang, weil er sich vorm Friseur drückte. Er hatte die Beine über die Lehne gehängt, ein Comicheft vors Gesicht gehalten. "Seit drei Wochen nichts. Kein Klopfen, kein kalter Luftzug, keine Handschrift aus dem Nichts. Ich werde noch verlernen, wie man das macht."

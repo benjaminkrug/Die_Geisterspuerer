@@ -114,6 +114,17 @@ er reagiert auf einen realen, physisch anwesenden Auslöser (Werkbank, Heft), No
 Reaktion selbst, der Text behauptet kein Sonderwissen des Hundes. **Kein Rückschritt ins
 Rätselhafte.**
 
+### Nachtrag Qualitäts-Prüfplan Teil A (2026-08-08) — Setup #20
+
+| # | Setup | Payoff | Status |
+|---|---|---|---|
+| 20 | **Erster Satz des Buchs:** „Schatten hatte den ganzen Winter nicht geknurrt." | K1, Wort 430: „Dann knurrte Schatten." | ✅ |
+
+Kürzestmögliches Setup/Payoff-Paar des Buchs — beides in Kapitel 1, 430 Wörter auseinander.
+Zweck: Der Leser weiß ab Wort 0, **worauf er wartet**. Damit ist die ruhige Eröffnung eine
+Erwartung statt einer Verzögerung. Ergänzt zugleich die Klammer zu K16, das ebenfalls auf
+einer Schatten-Beobachtung endet („Er legte sich nicht wieder hin.").
+
 ---
 
 ## E. Regeln für die Pflege

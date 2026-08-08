@@ -826,4 +826,108 @@ dem „0–1"-Schwellenwert. **Ein vollständiger Lese-Durchgang B ist laut Plan
 
 ---
 
-➡️ **Nächster Schritt: Phase 5** (Kompilieren) bzw. `Qualitaets_Pruefplan` Teil A.
+---
+
+## ✅ QUALITÄTS-PRÜFPLAN TEIL A — DURCHGEFÜHRT 2026-08-08
+
+> Stufe 2 des Gesamtprozesses. Gemessen mit den **geprüften Funktionen aus
+> `Scripts/pruefe_qualitaet.py`** (kein Nachbau der Muster), gefüttert mit den
+> S2-1-Einzelkapiteln, weil noch kein kompiliertes Manuskript existiert.
+
+### Der Reihenvergleich (alle Zahlen frisch gemessen)
+
+| Band | →Figurenrede | →Unheimliches | K1 Länge | Dialog% K1 | Ø Kapitel | tote Zone |
+|---|---|---|---|---|---|---|
+| 1 | 68 W | 213 W | 1.537 W | 32 % | 1.510 W | 321 W (K2) |
+| 2 | 75 W | 33 W | 1.307 W | 21 % | 1.237 W | 249 W (K9) |
+| 3 | 85 W | 21 W | 1.503 W | 28 % | 1.068 W | 218 W (K15) |
+| 4 | 95 W | 54 W | 1.103 W | 38 % | 1.003 W | 196 W (K7) |
+| 5 | 136 W | 0 W | 979 W | 26 % | 950 W | 220 W (K11) |
+| **S2-1** | **32 W** | **0 W** | **1.084 W** | **43 %** | **1.044 W** | **153 W (K1)** |
+
+S2-1 liegt in **jeder** Kennzahl im oder über dem Korridor der Reihe. Die **tote Zone ist
+die kürzeste aller sechs Bücher**, der Dialoganteil in Kapitel 1 der höchste.
+
+### 🟠 A1 — der einzige echte Befund: der erste Satz
+
+**Was das Skript zuerst meldete:** „erstes Unheimliches nach 25 Wörtern" — ✅ **Fehltreffer.**
+Getroffen hatte die Regex Theos Aufzählung *„kein Klopfen, kein kalter Luftzug, keine
+Handschrift aus dem Nichts"* — also die **Abwesenheit** des Unheimlichen.
+
+**Von Hand nachgemessen:** Das erste echte Ereignis ist *„Dann knurrte Schatten."* bei
+**Wort 430**. Das ist der späteste Einstieg der ganzen Reihe (Band 1: 213) und liegt über der
+Skript-eigenen Schwelle „ab ~400 W lohnt ein Blick".
+
+**Gegenprobe, bevor daraus ein Fehler wurde** (Warnung aus 2026-07-18):
+Die 430 Wörter sind **nicht** leer — Theos Genre-Ansage bei Wort 32, ein Schlagabtausch bei 82,
+dramatische Ironie bei 124 („Nora vermisste es nicht. Jedenfalls redete sie sich das ein."),
+und bei 314 packt eine Fremde sie im Supermarkt am Ärmel. Die *tote-Zone*-Messung bestätigt
+das unabhängig: kürzeste der Reihe. **„Langsamer Einstieg" wäre ein Fehlbefund gewesen.**
+
+**Der benennbare Schaden lag woanders — beim ersten Satz selbst:**
+
+| | erster Satz |
+|---|---|
+| B1 | „Der Umzugswagen parkte schief vor dem Haus." |
+| B2 | „Schatten wollte nicht rein." |
+| B3 | „Man kann eine Nummer nicht anrufen, wenn niemand mehr da ist, der abhebt." |
+| B4 | „Manche Türen sind schon offen, lange bevor man sie findet." |
+| B5 | „Es gibt eine Kälte, die von draußen kommt. Und es gibt die andere." |
+| S2-1 alt | „Nora sortierte die Post auf dem Küchentisch, dreizehn Jahre alt und mit der Geduld einer viel Älteren." |
+
+Die Reihe hat über fünf Bände gelernt, mit einem **Haken** zu öffnen. S2-1 fiel auf das
+Band-1-Muster zurück: eine Alltagshandlung mit **Figurenerklärung im ersten Satz** (17 Wörter,
+am CLAUDE.md-Limit) — genau das, was A1-Lesefrage 2 verbietet („Erklärung vor Ereignis").
+Und das ist der meistgelesene Satz des Buchs: „Blick ins Buch" beginnt dort.
+
+**Eingriff — Stufe 2 der Rangfolge, genau ein vorangestellter Satz:**
+
+> **„Schatten hatte den ganzen Winter nicht geknurrt."**
+
+Warum dieser:
+- **Haken bei Wort 0**, im Register von B2 („Schatten wollte nicht rein.")
+- Er **entschärft die 430 Wörter, statt sie zu kürzen**: Die Wartezeit wird zur geladenen
+  Waffe. Wort 430 („Dann knurrte Schatten.") ist jetzt die **Einlösung von Satz 1**.
+- **Stärkere Klammer mit K16**, das ebenfalls auf Schatten endet („Er legte sich nicht wieder
+  hin."). Vorher trug die Klammer nur das Post-Sortieren — das steht unverändert in Satz 2.
+- **Kanon-geprüft:** Staffel 1 endete vor drei Monaten (November), Handlung spielt im Februar.
+- **Regel 3 / Falle 8 geprüft:** „vorbei" steht in K1 schon 2× → nicht verwendet.
+  „nicht ein einziges Mal" kollidiert mit dem K13-Fix → auf „nicht geknurrt" verkürzt.
+  „drei Monate" hätte mit Theos „drei Wochen" und dem Absatz bei Wort 124 gedrängelt →
+  „den ganzen Winter".
+
+**Nachmessung:** erster Satz 7 Wörter · Figurenrede bei 32 W · K1 1.084 W · Dialog 43 % ·
+tote Zone unverändert 153 W · Amazon-Leseprobe 17 statt 16 Grusel-Signale.
+
+### ✅ A2 — das letzte Kapitel
+
+| Prüfung | Befund |
+|---|---|
+| Fall abgeschlossen? | ✅ Herbert befreit (K15), Familie versorgt, Jule-Payoff eingelöst |
+| Letzter Haken leise? | ✅ „Er legte sich nicht wieder hin." — Register von B5 („Noch nicht.") |
+| Hauptfigur belohnt? | ✅ Frau Brandts „Danke", Jules Vorbeigehen, und in K16 die Antwort auf die Frage aus K1: Nora **vermisst** es doch — jetzt hat sie wieder eine Aufgabe |
+| Weiterempfehlungs-Satz | ✅ „Wie eine Falle im Wald. Die wartet auch nicht auf ein bestimmtes Tier." |
+
+Kein Cliffhanger am Buchende, der den Käufer bestraft — ein offener **Faden** (wer baut die
+Schlösser), kein offener **Fall**.
+
+### ✅ A4 — Amazon-Leseprobe (erste 10 %)
+
+1.682 Wörter · 2 Kapitel · 17 Grusel-Signale → **trägt** (B2: 15, B4: 16).
+
+### ⏸️ A3 — Leseprobe auf den nächsten Band
+
+**Nicht durchführbar.** S2-2 ist noch nicht geschrieben. ⚠️ Vormerken: In Band 1–4 waren die
+Leseproben **erfunden**. Für S2-1 gilt: **erst nach S2-2 erstellen, dann maschinell Absatz für
+Absatz gegen den echten Text prüfen.**
+
+### Bilanz
+
+**1 Befund (🟠), 1 Zeile geändert, 1 Fehltreffer verworfen.** Kein 🔴.
+Die Struktur von S2-1 ist im Reihenvergleich die sauberste bisher.
+
+---
+
+➡️ **Nächster Schritt: Stufe 3** — `Dokumentation/Spannungs_Pruefplan.md` („Ist es
+langweilig?"). Danach Stufe 5 (Teil B) und Phase 5 (Kompilieren); A3 und Abschluss-Schritt 6
+des Logik-Plans hängen an S2-2 bzw. am fertigen Artefakt.
