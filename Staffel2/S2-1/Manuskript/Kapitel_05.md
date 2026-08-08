@@ -70,7 +70,7 @@ Das Zimmer war klein, mit bunten Postern und einem Berg Kuscheltiere auf dem Bet
 
 "Nichts", sagte Nora. "Hier ist wirklich nichts."
 
-"Dann ist es nicht der Ort, vor dem sie Angst haben sollte", sagte Frau Brandt leise. "Nur der Gedanke, dass irgendwo in ihrem Zuhause etwas ist. Das reicht schon."
+"Dann ist es nicht der Ort, vor dem sie Angst haben sollte", sagte Frau Brandt. "Nur der Gedanke, dass irgendwo in ihrem Zuhause etwas ist. Das reicht schon."
 
 Nora nickte. Manchmal machte nicht das Gesehene am meisten Angst. Nur das Wissen, dass da etwas sein könnte.
 

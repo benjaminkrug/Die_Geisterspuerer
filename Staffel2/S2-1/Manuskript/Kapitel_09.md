@@ -76,7 +76,7 @@ Sie gingen auf Zehenspitzen durch den Flur. Schatten setzte keine Pfote in Richt
 
 Im Zimmer war es kalt, aber nicht mehr so kalt wie am Nachmittag. Kein sichtbarer Atem. Der Reif war verschwunden, als wäre er nie da gewesen.
 
-"Ich hab das Holz abgewischt", sagte Frau Brandt leise. "Ich wusste nicht, was ich sonst tun sollte."
+"Ich hab das Holz abgewischt", murmelte Frau Brandt. "Ich wusste nicht, was ich sonst tun sollte."
 
 "Ist okay." Nora ging vor dem Schrank in die Hocke. "Ich suche was anderes."
 

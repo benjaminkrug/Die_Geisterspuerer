@@ -228,6 +228,23 @@ Diese Falle hat in Band 5 real zugeschlagen (ein Fix in Akt 3 erzeugte zwei neue
   gegenrechnen, bevor man ihm glaubt.** Reproduziert das Skript Band 1s bekannte Werte
   nicht, ist das Skript falsch, nicht der Text.
 
+- **★ Falle 11 — Dieser Plan findet keine wiederholten *Formulierungen*.** Gefunden nach dem
+  Abschluss von S2-1 (2026-08-07). Alle Marker hier sind **vorab bekannte Konstruktionen**
+  („Und"-Anfang, „Zum ersten Mal", Gedankenstrich …). Eine Wendung, die ein Autor
+  unbewusst achtmal benutzt, steht in keiner Liste und wird deshalb **nie gemeldet** — der
+  Pass kann sauber durchlaufen, während dieselbe Geste in jedem zweiten Kapitel steht.
+  In S2-1 war das „Frau Brandt sah ihn/sie an" (8×), gefunden erst durch einen separaten
+  **buchweiten n-Gramm-Scan**, nicht durch diesen Prüfplan.
+
+  **Konsequenz — als eigener Schritt in Phase 4b aufnehmen:** Vor dem Marker-Pass einmal
+  alle Kapitel zusammenfügen und inhaltsstarke 4- und 5-Wort-Folgen zählen, die mehrfach
+  vorkommen. Aktweise Prüfungen reichen nicht: Eine Wiederholung zwischen Kapitel 2 und
+  Kapitel 14 fällt dabei durch jedes Raster.
+
+  ⚠️ **Und Falle 8 dabei mitprüfen:** In S2-1 war eine der gefundenen Doppelungen ein
+  **Ersatztext aus einem früheren Pass**. Jeder Fix muss danach selbst gegen das restliche
+  Buch geprüft werden, nicht nur die Stelle, die er ersetzt hat.
+
 - **★ Falle 10 — Der Muster-Wächter vergleicht Etiketten, nicht Szenen.** Gefunden beim
   S2-1-Pass an Akt 2. `Cliffhanger_Register` prüft vor dem Schreiben, dass kein Typ zweimal
   hintereinander vorkommt. S2-1 K5 (STIMME/GERÄUSCH) und K6 (AKTION) galten damit als

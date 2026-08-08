@@ -14,7 +14,7 @@ Schatten folgte ihnen bis zur Schwelle, keinen Schritt weiter. Er setzte sich hi
 
 "Er guckt gar nicht mehr weg", flüsterte Frau Brandt.
 
-"Das ist neu", sagte Nora. "Vorher hat er den ganzen Raum angesehen. Jetzt nur noch das eine Ding."
+"So war er noch nie", sagte Nora. "Vorher hat er den ganzen Raum angesehen. Jetzt nur noch das eine Ding."
 
 Ihr Nacken kribbelte. Sie rieb sich die Arme, obwohl das nichts an der Kälte änderte.
 
@@ -88,7 +88,7 @@ Er drückte sein Ohr gegen die Tür und klopfte dreimal, wie bei einem Adventska
 
 "Vielleicht ist das kein Schloss, das man überhaupt irgendwie knackt", gab Theo zurück. Frustriert ließ er sich auf den Boden sinken. "Ich hab einmal ein Fahrradschloss aufbekommen. Wie schwer kann ein Schrank sein?"
 
-Frau Brandt gab ein Geräusch von sich, das fast ein Lachen war.
+In der Tür schnaubte Frau Brandt, halb belustigt, halb verzweifelt.
 
 ---
 

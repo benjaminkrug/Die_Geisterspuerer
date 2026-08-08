@@ -523,6 +523,53 @@ einziger unklarer Bezug.** Jeder ist im Vorabsatz eindeutig gesetzt.
 
 ---
 
+## WIEDERHOLUNGS-PASS ÜBER DAS GESAMTBUCH (2026-08-07)
+
+> ⚠️ **Diese Prüfung stand in keinem Prüfplan.** Der Stimmen-Prüfplan (Phase 4b) misst
+> *Formel-Marker* — „Und"-Anfänge, „erste Mal", Gedankenstriche. Er sucht **nicht** nach
+> wiederholten Formulierungen und Bildern. Die aktweisen Prüfungen deckten das ebenfalls
+> nicht ab: Eine Wiederholung zwischen K2 und K14 wäre in keinem Durchgang aufgefallen.
+> Erstmals als **buchweiter n-Gramm-Scan** über alle 16 Kapitel durchgeführt.
+
+### Gefunden und behoben
+
+| Formulierung | vorher | nachher | Anmerkung |
+|---|---|---|---|
+| „Frau Brandt sah ihn/sie an" | **8×** | 3× | K1,2,7,7,10,11,12,14 — größter Fund. Sie war meine Standard-Reaktionsfigur und „sah an" mein Standard-Verb |
+| „sagte Frau Brandt leise" | 4× | 1× | K4,5,9,10 |
+| „gab ein Geräusch von sich, das fast …" | 2× | 1× | K6,13 — **siehe Falle-8-Notiz unten** |
+| „Nora suchte nach den richtigen Worten" | 2× | 1× | K7,11, wörtlich identisch |
+| „Tränen liefen ihr über das Gesicht" | 2× | 1× | K3,7 |
+| „Das ist neu", sagte Nora | 2× | 1× | K5,6 — **direkt benachbarte Kapitel** |
+| „langsam, wie aus Nebel geformt, erschien er" | 2× | 1× | K3,7 |
+| „Theo stellte sich neben sie" | 2× | 1× | K3,7 |
+| „in einer anderen Stadt, weit weg von hier" | 2× | 1× | K1,2 — Frau Brandt wiederholt sich fast wörtlich |
+
+**Keine davon wurde auf null gebracht** (Regel A). Fix-Typen gemischt: Streichen, Verb
+tauschen, Perspektive der Beschreibung wechseln, Satz umbauen.
+
+### Zwei strukturelle Erkenntnisse
+
+**1. K7 ist der Wiederholungs-Hotspot.** Fünf der neun Funde betreffen K7 — weil K7
+*strukturell* eine Wiederholung von K3 ist (zweiter Zuhören-Versuch) und ich dort
+unbewusst auch dessen **Vokabular** wiederverwendet habe. Erscheinen des Geistes, Weinen,
+Theos Position: alles wörtlich wie in K3. **Lehre für S2-2 ff.: Wenn ein Kapitel eine
+Szene strukturell wiederholt, ist das Beschreibungsvokabular der ersten Szene tabu** —
+so wie es für K14 ausdrücklich vorgegeben war und dort auch funktioniert hat.
+
+**2. ⚠️ Falle 8 hat real zugeschlagen.** K6s „gab ein Geräusch von sich, das fast ein Lachen
+war" war **mein eigener Fix aus dem Akt-2-Pass** (Ersatz für „musste Frau Brandt kurz
+lächeln"). Der Ersatz hat eine neue Wiederholung mit K13 erzeugt. Genau das beschreibt
+`Stimmen_Pruefplan.md` als Falle 8 — „Der Ersatz verstärkt ein anderes Muster". **Konsequenz:
+Nach jedem Pass muss der Ersatztext selbst gegen den Rest des Buchs geprüft werden**, nicht
+nur die ersetzte Stelle.
+
+**Regel B nach dem Pass:** 15.818 W · Ø-Satz 6,81 · 0 echte Satzlängen-Verstöße ·
+Dialog 37,1 % · Kurz-Absätze 6,3 % — alle Werte unverändert, keine Regression. Ein beim
+Umformulieren neu entstandener 19-Wort-Satz wurde sofort gesplittet.
+
+---
+
 ## ✅ GESAMTBILANZ S2-1 — 16/16 Kapitel fertig
 
 | Marker | **S2-1** | Band 1 | Band 5 | Bewertung |

@@ -10,7 +10,7 @@ Sie saßen zu dritt in der Küche, ohne dass jemand vorgeschlagen hätte, dorthi
 
 "Dass wir es anders aufkriegen müssen." Nora legte die Hände flach auf den Tisch. "Wenn wir ihn nicht rausbrechen können, müssen wir ihn verstehen."
 
-Frau Brandt sah sie an. "Sie meinen meinen Vater."
+Frau Brandt hob den Kopf. "Sie meinen meinen Vater."
 
 "Ich meine alles. Den Schrank, das Schloss, ihn. Irgendwas davon hat einen Sinn, den wir noch nicht sehen."
 
@@ -116,7 +116,7 @@ Theo sah auf den Stapel. "Warum schreibt man zwölf Karten und schickt keine ab?
 
 "Versteh ich nicht."
 
-"Solange die Karte in der Schublade liegt, hat er sich noch nicht entschuldigt." Nora suchte nach den richtigen Worten. "Er kann jederzeit sagen, er hätte ja fast. Wenn er sie einwirft, ist es raus. Dann hat er zugegeben, dass er schuld war."
+"Solange die Karte in der Schublade liegt, hat er sich noch nicht entschuldigt." Nora überlegte, wie sie es erklären sollte. "Er kann jederzeit sagen, er hätte ja fast. Wenn er sie einwirft, ist es raus. Dann hat er zugegeben, dass er schuld war."
 
 Theo dachte darüber nach. "Das ist ziemlich dumm."
 

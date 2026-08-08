@@ -26,7 +26,7 @@ Schatten stand auf, ging zu ihr und legte den Kopf auf ihr Knie, genau wie beim 
 
 "Nicht so, wie wir es gemacht haben." Nora suchte nach den richtigen Worten. "Beim letzten Mal hat Herbert geredet. Er hat sich entschuldigt, er hat alles gesagt, was er sagen wollte. Aber Sie haben nichts gesagt. Sie standen nur da."
 
-Frau Brandt sah sie an, als hätte sie das nie so betrachtet.
+Frau Brandt wurde ganz still. So hatte sie es offenbar nie betrachtet.
 
 "Vielleicht braucht er nicht nur, dass jemand ihm zuhört", sagte Nora. "Vielleicht braucht er, dass Sie ihm etwas sagen. Direkt. Nicht wir als Vermittler."
 
@@ -38,7 +38,7 @@ Frau Brandt sah sie an, als hätte sie das nie so betrachtet.
 
 "Seit heute. Genießt es, es hält nicht lange an."
 
-Frau Brandt sah ihn an, und ihre Schultern sanken ein kleines Stück. Sie schwieg lange. Dann nickte sie, kaum merklich.
+Etwas an Frau Brandts Schultern sank ein kleines Stück. Sie schwieg lange. Dann nickte sie, kaum merklich.
 
 ---
 
@@ -52,7 +52,7 @@ Frau Brandt atmete tief durch und trat über die Schwelle.
 
 Die Kälte im Zimmer war noch stärker als beim letzten Mal, dichter, wie eine zweite Haut. Der Schrank stand unverändert da, dunkel und still.
 
-Nora blieb an der Tür, nah genug, um einzugreifen, weit genug weg, um Frau Brandt Raum zu lassen. Theo stellte sich neben sie, die Arme fest verschränkt, als könnte er so verhindern, dass seine Hände zitterten.
+Nora blieb an der Tür, nah genug, um einzugreifen, weit genug weg, um Frau Brandt Raum zu lassen. Theo hielt sich dicht bei ihr, die Arme fest verschränkt. Als könnte er so verhindern, dass seine Hände zitterten.
 
 "Herbert?" Frau Brandts Stimme zitterte. "Papa? Ich bin's."
 
@@ -60,7 +60,7 @@ Nichts bewegte sich.
 
 "Ich weiß, dass du hier bist. Ich hab's die ganze Zeit gewusst, auch wenn ich Angst hatte, es zuzugeben."
 
-Langsam, wie aus Nebel geformt, erschien er zwischen ihr und dem Schrank.
+Diesmal ging es schneller. Er war einfach da, zwischen ihr und dem Schrank, als hätte er die ganze Zeit gewartet.
 
 ---
 
@@ -70,7 +70,7 @@ Herbert sah seine Tochter an, mit Augen voller Erstaunen. Er hatte nicht erwarte
 
 Herbert senkte den Kopf.
 
-"Aber ich hab dich trotzdem vermisst. Jeden Tag. Auch wenn ich es niemandem erzählt hab, nicht mal mir selbst." Tränen liefen ihr über das Gesicht. "Es tut mir leid, dass ich nicht zur Beerdigung gekommen bin. Es tut mir leid, dass du meine Tochter nie kennengelernt hast."
+"Aber ich hab dich trotzdem vermisst. Jeden Tag. Auch wenn ich es niemandem erzählt hab, nicht mal mir selbst." Ihre Stimme hielt, obwohl ihr Gesicht längst nass war. "Es tut mir leid, dass ich nicht zur Beerdigung gekommen bin. Es tut mir leid, dass du meine Tochter nie kennengelernt hast."
 
 "Meine Schuld", flüsterte Herbert. "Nicht deine."
 

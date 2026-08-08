@@ -2,7 +2,7 @@
 
 "Weil der Weg zum Briefkasten das Schwerste war", sagte Nora.
 
-Frau Brandt sah sie an.
+Am Tisch wurde es still.
 
 "Er konnte schreiben. Er konnte zukleben. Er konnte sogar die Marke draufmachen." Nora suchte nach den Worten, während sie sprach. "Alles, was hart war, konnte er. Nur den letzten kleinen Schritt nicht."
 

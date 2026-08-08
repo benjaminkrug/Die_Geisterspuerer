@@ -86,7 +86,7 @@ Theo klappte ihn auf, als wäre Weihnachten.
 
 "Ich wusste es." Er hielt sie hoch. "Ich wusste es ungefähr."
 
-"Er hat alles beschriftet", sagte Frau Brandt leise. "Sehen Sie? Auf jedem Griff ein Klebeband mit seinem Namen. Als hätte ihm jemand was klauen wollen."
+"Er hat alles beschriftet", sagte Frau Brandt. "Sehen Sie? Auf jedem Griff ein Klebeband mit seinem Namen. Als hätte ihm jemand was klauen wollen."
 
 "Vielleicht wollte er einfach, dass es seins ist", sagte Theo.
 

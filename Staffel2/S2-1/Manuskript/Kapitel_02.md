@@ -8,7 +8,7 @@ Frau Brandt trank einen Schluck, mit zitternden Händen. "Es tut mir leid. Ich w
 
 "Ist schon okay", sagte Nora. "Erzählen Sie einfach. Von Anfang an."
 
-"Mein Vater hieß Herbert. Herbert Lenz." Frau Brandt drehte das Glas zwischen den Fingern, als bräuchte sie etwas zum Festhalten. "Er ist vor einem Jahr gestorben, in einer anderen Stadt, weit weg von hier. Wir hatten kaum noch Kontakt."
+"Mein Vater hieß Herbert. Herbert Lenz." Frau Brandt drehte das Glas zwischen den Fingern, als bräuchte sie etwas zum Festhalten. "Er ist vor einem Jahr gestorben. Achthundert Kilometer von hier, in dem Haus, in dem ich aufgewachsen bin. Wir hatten kaum noch Kontakt."
 
 "Warum nicht?", fragte Theo.
 
@@ -36,7 +36,7 @@ Frau Brandt dachte einen Moment nach. "Stur. Fleißig. Er hat nie viel geredet. 
 
 "Warum ausgerechnet jetzt?" Die Frage drängte sich vor Nora, bevor sie sie zurückhalten konnte. "Er ist doch schon ein Jahr tot. Warum erst seit Ihrem Umzug?"
 
-"Ich weiß es nicht." Frau Brandt sah sie an, hilflos. "Ich hab keine Ahnung, warum jetzt. Warum hier. Wir haben nie zusammen in dieser Stadt gelebt. Er kannte diese Wohnung nicht mal. Er kannte diese Stadt nicht mal."
+"Ich weiß es nicht." Frau Brandt hob hilflos die Hände. "Ich hab keine Ahnung, warum jetzt. Warum hier. Wir haben nie zusammen in dieser Stadt gelebt. Er kannte diese Wohnung nicht mal. Er kannte diese Stadt nicht mal."
 
 Nora und Theo wechselten einen Blick. Keiner von beiden hatte eine Antwort. Noch nicht.
 
