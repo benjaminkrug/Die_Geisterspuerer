@@ -33,7 +33,8 @@ geerbtes.
 | 1 | Frau Held erwähnt als Grund, warum Frau Brandt weiß, an wen sie sich wendet (K1) | Eröffnet den ganzen Fall — Payoff ist die Prämisse selbst | ✅ K1 geschrieben |
 | 2 | Schatten knurrt Richtung Treppenhaus, bevor die Tür überhaupt offen ist (K1) | Bestätigt sich, als Frau Brandts Anliegen sich als real herausstellt (K2) | ✅ K1 geschrieben, Setup gepflanzt |
 | 3 | Erste Gestalt im Türspalt (K2) | Vollständig sichtbar bei Herberts erstem Zuhören-Versuch (K3) | ✅ K2 geschrieben, Setup gepflanzt |
-| 4 | Bindungssignatur (Rückriss) zum ersten Mal (K3) | Verstanden + überwunden (K13) | ✅ K3 geschrieben, Setup gepflanzt |
+| 4 | Bindungssignatur (Rückriss) zum ersten Mal (K3) | Verstanden + überwunden (K13) | ✅ K3 gepflanzt → ✅ K13 eingelöst (Schloss offen, „Es zieht nicht mehr") |
+| 19 | *(rückwirkend erkannt)* Schatten verweigert das Schrankzimmer, ab K2 durchgehend eskalierend | K13: Er betritt den Raum zum ersten Mal und läuft quer hindurch — körperlicher Beweis, dass der Ort frei ist | ✅ K2/K5/K6 gepflanzt → ✅ K13 eingelöst |
 | 5 | Noras Entschluss „WAS hält ihn, nicht nur WARUM" (K4) | Beantwortet durch das gefundene Schloss (K9–10) | ✅ K4 geschrieben, Setup gepflanzt |
 | 6 | Schrank als auffälliges Detail (K6, verschlossen ohne Schlüssel) | Enthält den physischen Anker (K9–10), wird geöffnet (K13) | ✅ K6 geschrieben, Setup gepflanzt |
 | 7 | Zweiter Zuhören-Versuch, diesmal Frau Brandt selbst (K7) | ⚠️ **Präzisiert (3. Durchgang):** K14 ist **kein** dritter Zuhören-Versuch — die emotionale Arbeit ist mit K7 getan. K14 zahlt sich aus, weil Frau Brandt Herbert jetzt etwas **Neues erzählt** (dass sie die Karten gefunden hat), nicht weil sie ihm nochmal zuhört. Kombiniert mit dem geöffneten Schloss (K13) ergibt erst das zusammen den Payoff. | ✅ K7 geschrieben, Setup gepflanzt — Frau Brandt hat Herbert direkt angesprochen und ihm vergeben, emotionale Arbeit vollständig abgeschlossen, Rückriss trotzdem |

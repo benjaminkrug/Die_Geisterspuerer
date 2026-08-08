@@ -139,3 +139,25 @@ derselben Figurenkonstellation. K13 darf **nicht** einfach „dasselbe, nur weit
 **Vorgabe:** K13 muss den Schauplatz der Spannung verschieben — weg vom Schloss, hin zu
 Herbert bzw. dem Raum. Das Öffnen gehört an den **Anfang** von K13, nicht ans Ende, damit
 das Kapitel danach etwas Eigenes erzählen kann.
+
+→ ✅ **Umgesetzt.** Das Schloss öffnet sich im ersten Drittel. Der Rest des Kapitels erzählt
+etwas anderes: Schatten betritt den Raum, die erste warme Vater-Tochter-Szene — und dann
+das Ausbleiben des Weggehens. K13s Spannung liegt am Ende **bei Herbert**, nicht am Schloss.
+
+### ⚠️ Beat-Prüfung K14/K15 — vor dem Schreiben zu erledigen
+
+| | K14 (geplant) | K15 (geplant) |
+|---|---|---|
+| Typ | BILD | OBJEKT |
+| Auslöser | Herbert beginnt zu gehen, ohne Ruck | Abschied ist vollzogen |
+| Schlussbild | der Übergang selbst | das Schloss in Noras Hand |
+
+**Kein Deckungsrisiko** — K14 endet in der Bewegung, K15 danach in der Stille.
+
+⚠️ **Das eigentliche Risiko für K14 liegt woanders: Wiederholung von K3/K7.** Beides waren
+schon Szenen „Herbert löst sich und geht". Dreimal dieselbe Bewegung wäre auch dann
+ermüdend, wenn sie diesmal gelingt. **Vorgaben für K14:**
+1. **Kein drittes Zuhören** (Setup-Tracker #7) — Frau Brandt *erzählt ihm etwas Neues*.
+2. Der Auslöser ist die **zwölfte, versiegelte Karte** (Setup #9), keine andere.
+3. Das Gehen muss sich **anders anfühlen** als in K3/K7: dort brach es ab, hier trägt es
+   durch. Beschreibungsvokabular bewusst nicht recyceln.

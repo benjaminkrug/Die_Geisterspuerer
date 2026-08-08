@@ -351,7 +351,25 @@ beim Kanon-Check zu K8.
   minimal nach — „Sie hielt einfach weiter." (AKTION)
   ➡️ **K10s Fehlschlag zahlt hier direkt aus** — die Wende ist erarbeitet, nicht behauptet.
   ⚠️ **Für K13:** Das Schloss ist **noch nicht offen**. K12 endet beim ersten Nachgeben; das
-  eigentliche Öffnen gehört K13.
+  eigentliche Öffnen gehört K13. → ✅ eingehalten.
+- **K13** (BEGINN AKT 4): Direkter Anschluss. **Das Schloss öffnet sich früh im Kapitel**
+  (Vorgabe aus der Beat-Prüfung eingehalten — nicht am Ende, damit K13 danach etwas Eigenes
+  erzählt). Der Bügel gleitet aus der Öse, das Schloss fällt Nora in die Hand. Die Kälte
+  läuft binnen Sekunden ab, das Zimmer wird normal warm.
+  **Großer Payoff:** Schatten betritt zum ersten Mal seit K2 das Schrankzimmer, läuft quer
+  hindurch und schnüffelt hinter dem Schrank — die körperliche Bestätigung, dass der Ort
+  frei ist. Der Blockade-Faden aus K2/K5/K6 ist damit eingelöst.
+  Herbert erscheint **ohne die Leine-Spannung**: er steht erstmals gerade, klare Umrisse,
+  „Es zieht nicht mehr". Erste warme Vater-Tochter-Szene der Reihe („Du siehst aus wie deine
+  Mutter. Das hab ich dir nie gesagt.").
+  **Aber er geht nicht.** Auf Noras „Sie können jetzt gehen" antwortet er „Ich weiß nicht,
+  wohin" — was Nora ihm ausdrücklich nicht abnimmt: ein Mann, der zwölf Jahre lang Karten
+  schrieb, weiß sehr genau, wohin er will. Er deutet an, dass das Schloss „nicht das Einzige"
+  war, kann es aber nicht aussprechen. Endet auf Unsicherheit: „Und er stand immer noch in
+  diesem Zimmer." (SPANNUNG/UNSICHERHEIT)
+  ➡️ **Fehlt für K14:** Herbert weiß nicht, dass seine zwölf Jahre **angekommen** sind. Das
+  ist die Lücke, die K14 mit der letzten Karte schließt — nicht ein drittes Zuhören.
+  ⚠️ **Das offene Schloss ist ab jetzt in Noras Besitz** (Vorbereitung Setup #12, K15).
 
 ---
 
@@ -381,6 +399,7 @@ beim Kanon-Check zu K8.
 | K10 | ~1.050 | 35,8 % — Fund, Werkzeugszene, Fehlschlag | ✅ Ø-Satz 6,38 · 0 Verstöße · Kurz-Absätze 6,1 % |
 | K11 | ~1.060 | 36,0 % — stille Trauerszene, bewusst dialogisch gehalten | ✅ Ø-Satz 6,59 · 0 echte Verstöße · Kurz-Absätze 6,2 % |
 | K12 | ~950 | 38,7 % — Synthese + Ausführung, Aktschluss | ✅ Ø-Satz 6,18 · 0 Verstöße · Kurz-Absätze 8,9 % |
+| K13 | ~1.110 | **33,9 %** — Ereignis- und Wahrnehmungskapitel | ⚠️ Ø-Satz 5,96 · 0 Verstöße · Kurz-Abs 9,5 % · **Dialog unter der 35-%-Grenze** — zweiter Fall nach K6 (31,4 %). Beide Male ein Kapitel, dessen Kern ein physisches Ereignis ist. Im Stimmen-Pass zusammen prüfen, ob das buchweit auffällt |
 
 ⚠️ **Messkorrektur (Stimmen-Prüfung Akt 2):** Die Dialog-Prozentwerte für K1–K8 waren in
 früheren Einträgen dieser Tabelle **zu hoch angesetzt**. Die alte Methode zählte einen
