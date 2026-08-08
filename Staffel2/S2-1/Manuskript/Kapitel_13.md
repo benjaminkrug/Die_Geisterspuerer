@@ -102,7 +102,7 @@ Die ganze Zeit über hatte er ausgesehen wie jemand, der gegen einen Wind anlehn
 
 "Das kenne ich", sagte Theo. "Also, nicht mit Geistern. Mit Schuhen."
 
-Herbert gab ein Geräusch von sich, das fast wie ein Lachen klang. Es war das erste Mal.
+Herbert gab ein Geräusch von sich, das fast wie ein Lachen klang.
 
 Frau Brandt machte einen Schritt ins Zimmer. "Papa."
 

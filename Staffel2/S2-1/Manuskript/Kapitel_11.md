@@ -80,7 +80,7 @@ Frau Brandts Name.
 
 "Sind Sie sicher?", fragte Nora.
 
-"Das ist seine Schrift. Die erkenne ich überall." Frau Brandt war aufgestanden, ohne es zu merken. "Und das ist mein Name. Er hat mich nie anders geschrieben."
+"Das ist seine Schrift. Die erkenne ich überall." Frau Brandt stand plötzlich am Tisch, ohne dass jemand sie hatte aufstehen sehen. "Und das ist mein Name. Er hat mich nie anders geschrieben."
 
 Nora zählte die Umschläge, während Theo sie auf den Küchentisch fächerte.
 

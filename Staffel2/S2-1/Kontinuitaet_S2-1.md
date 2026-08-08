@@ -437,7 +437,7 @@ beim Kanon-Check zu K8.
 - ✅ Akt 2 (K5–8) — abgeschlossen, alle vier Kapitel geschrieben
 - ✅ Akt 3 (K9–12) — abgeschlossen, alle vier Kapitel geschrieben
 - ✅ Akt 4 (K13–16) — abgeschlossen, alle vier Kapitel geschrieben
-- 🎉 **S2-1 „Der Gast, der blieb" ist vollständig — 16/16 Kapitel, 15.809 Wörter.**
+- 🎉 **S2-1 „Der Gast, der blieb" ist vollständig — 16/16 Kapitel, 15.807 Wörter.**
 
 ---
 
@@ -465,12 +465,70 @@ beim Kanon-Check zu K8.
 
 ---
 
+## STIMMEN-PRÜFUNG AKT 4 (durchgeführt 2026-08-07, nach K16)
+
+| Marker | Akt 1 | Akt 2 | Akt 3 | **Akt 4** | Band 1 | Band 5 |
+|---|---|---|---|---|---|---|
+| Ø-Satzlänge | 7,47 | 7,22 | 6,47 | **6,27** | 4,74 | 6,39 |
+| Sätze > 18 W | 2 | 0 | 1 | **0** (1 Artefakt) | 11 | 49 |
+| Dialoganteil | 37,5 % | 36,1 % | 36,5 % | **38,3 %** | 50,5 % | 24,4 % |
+| Kurz-Absätze | 3,3 % | 6,0 % | 6,5 % | **7,9 %** | 7,7 % | 9,5 % |
+| „Und"-Satzanfang /1000 W | 0,52 | 0,25 | 1,74 | **1,03** | 1,67 | 2,60 |
+| „erste Mal" /1000 W | 0,26 | 0,74 | 1,24 | **1,28 → 0,77** | 0,48 | 0,83 |
+
+**Akt 4 ist metrisch der stärkste Akt** — bester Dialoganteil, beste Kurz-Absatz-Quote
+(praktisch exakt Band 1), null echte Satzlängen-Verstöße. Ein Befund fällt trotzdem heraus.
+
+### Befund 1 — „erste Mal" driftet monoton über alle vier Akte ⚠️ GERECHTFERTIGT
+
+0,26 → 0,74 → 1,24 → 1,28. Genau das Driftmuster, das `Stimmen_Pruefplan.md` als Kernproblem
+beschreibt. **K13 allein lag bei 2,71/1000 W — der höchste Einzelwert des ganzen Buchs**,
+das 5,6-fache von Band 1.
+
+⚠️ **Wichtige Unterscheidung, die das Skript nicht macht:** Die Mehrheit der Treffer sind
+**rückbezügliche** Vergleiche („so wie beim ersten Mal", „schneller als beim ersten Mal").
+Das ist normales Deutsch, kein Marker. Problematisch sind nur die **Meilenstein-Behauptungen**
+(„Es war das erste Mal"). Davon standen **drei allein in K13**, innerhalb von 60 Zeilen.
+
+**Zusätzlich ein echter Logikfehler:** K13 behauptete zweimal denselben Meilenstein —
+Z. 105 „ein Geräusch, das fast wie ein Lachen klang. **Es war das erste Mal.**" und Z. 163
+„lächelte schwach, **zum ersten Mal, seit sie ihn kannten**". Wenn er schon gelacht hat, ist
+das Lächeln kein Erstes mehr.
+
+**Behoben:** Z. 105 gestrichen (löst Formel *und* Logikfehler zugleich), K15s
+„Zum ersten Mal, ohne Angst" umformuliert. **Behalten:** K13 Z. 111 (Nora hört ihn erstmals
+ihren Namen sagen) und Z. 163 (das Lächeln, das K15s ersten Satz trägt). Ergebnis:
+**Akt 4 von 1,28 auf 0,77**, buchweit 0,76 — zwischen Band 1 (0,48) und Band 5 (0,83).
+**Nicht genullt.**
+
+### Befund 2 — „ohne es zu merken" als Frau-Brandt-Tic ⚠️ TEILWEISE GERECHTFERTIGT
+
+Dreimal dieselbe Konstruktion, jedes Mal Frau Brandt, jedes Mal „sie tut etwas, ohne es zu
+bemerken" (K5, K11, K13). Als Kurzschrift für Überforderung war das bequem geworden.
+K11 und K13 lagen nur zwei Kapitel auseinander. **K11 umformuliert**, K5 und K13 behalten
+(acht Kapitel Abstand, verschiedene Verben). 3 → 2.
+
+### Befund 3 — doppelte Absatzanfänge ✅ GEPRÜFT UND VERWORFEN
+
+Drei Treffer in Akt 4: K13 „Er / Er" (zweimal) und K15 „Einmal / Einmal". **Alle drei sind
+bewusste Anaphern**, keine Versehen — K13s Reihen bauen auf („Er blieb nicht… Er blieb
+überhaupt nicht… Er lief"), K15s Doppelung ist das Schlusscouplet des Buchs. Mechanisches
+Auflösen hätte hier Rhythmus zerstört. **Keine Änderung** (Falle 3, Zahlen statt Ohr).
+
+### Befund 4 — Perspektive ✅ GEPRÜFT, SAUBER
+
+Nach dem Perspektivbruch in K11 alle Erzählabsätze in Akt 4 auf mehrdeutige „Sie"-Bezüge
+geprüft, besonders dort, wo Nora und Frau Brandt gemeinsam in der Szene sind. **Kein
+einziger unklarer Bezug.** Jeder ist im Vorabsatz eindeutig gesetzt.
+
+---
+
 ## ✅ GESAMTBILANZ S2-1 — 16/16 Kapitel fertig
 
 | Marker | **S2-1** | Band 1 | Band 5 | Bewertung |
 |---|---|---|---|---|
 | Kapitel | 16 | 18 | 18 | |
-| Wörter gesamt | **15.809** | 26.988 | 16.910 | knapp unter Band 5, gleiche Größenordnung |
+| Wörter gesamt | **15.807** | 26.988 | 16.910 | knapp unter Band 5, gleiche Größenordnung |
 | Ø je Kapitel | **988** | 1.499 | 939 | auf Band-5-Niveau |
 | Ø-Satzlänge | **6,82** | 4,74 | 6,38 | zwischen beiden, unter Stilblatt-Untergrenze |
 | Sätze > 18 W | **0 echte** (4 Messartefakte) | 11 | 49 | strenger als beide Referenzbände |

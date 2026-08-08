@@ -154,7 +154,7 @@ Es blieb kalt.
 
 ---
 
-Sie hielt es ins Licht und sah es richtig an. Zum ersten Mal, ohne Angst und ohne Eile.
+Sie hielt es ins Licht und sah es richtig an. Ohne Angst diesmal, und ohne Eile.
 
 Es war schön.
 
