@@ -409,6 +409,25 @@ beim Kanon-Check zu K8.
   „Einmal geritzt, damit man es findet. / Einmal geprägt, damit man weiß, von wem es ist."
   ➡️ **Verbindet K9s Symbol mit dem Objekt** und macht die Handschrift des Täters greifbar,
   **ohne** zu verraten, dass es viele davon gibt — das bleibt K16 bzw. S2-2.
+- **K16** (EPILOG, ENDE S2-1): Zwei Tage später, Kirchgasse 14. **Bewusste Klammer zu K1:**
+  Nora sortiert wieder die Post, Theo liegt wieder auf der Couch, „Langweilig" fällt wieder —
+  diesmal aber mit „Ich meine es diesmal nicht so." Mama kommt von der Schicht, fragt, wie es
+  war, und bekommt eine Halbwahrheit; sie weiß weiterhin nichts (Kanon gehalten).
+  Theo hat aus eigenem Antrieb eine **Zeitleiste** aufgeschrieben (August / November / Januar
+  / Herbert seit einem Jahr tot). Daraus die Kernerkenntnis: Das Schloss war **nicht für
+  Herbert** — als es eingebaut wurde, stand die Wohnung leer. Theos Bild: „Wie eine Falle im
+  Wald. Die wartet auch nicht auf ein bestimmtes Tier."
+  Sie verwerfen Polizei und Frau Held als Adressaten: „Wir sind die Einzigen, die überhaupt
+  wissen, dass es das gibt." Noras Zettel wandert in dieselbe Schublade wie das Schloss —
+  **der erste Zettel einer neuen Sammlung.** ⚠️ Bewusst **kein** Rückgriff auf Frau Silbers
+  alte Karte (Widerspruch 3 gehalten).
+  **Season-Hook:** „Jemand hat das gebaut … Und wenn er das einmal gemacht hat —" / „Warum
+  sollte er dann aufhören?" Danach die zweite K1-Klammer: Theo sagt jetzt „Normal ist gut",
+  Nora stimmt zu, und **diesmal lacht keiner von beiden**.
+  **Schlussbild — bewusste Umkehrung von Band 5 K18:** Dort sah Schatten aus dem Fenster,
+  seufzte und legte sich wieder hin („Ein Hund, der aus dem Fenster guckt. Mehr nicht."). Hier
+  sieht er hinaus, ohne Knurren, ohne gesträubtes Fell — **und legt sich nicht wieder hin.**
+  Die Beruhigung bleibt aus, genau wie im Plan gefordert. **ENDE S2-1.**
 
 ---
 
@@ -417,7 +436,8 @@ beim Kanon-Check zu K8.
 - ✅ Akt 1 (K1–4) — abgeschlossen, alle vier Kapitel geschrieben
 - ✅ Akt 2 (K5–8) — abgeschlossen, alle vier Kapitel geschrieben
 - ✅ Akt 3 (K9–12) — abgeschlossen, alle vier Kapitel geschrieben
-- ⬜ Akt 4 (K13–16) — noch nicht geschrieben
+- ✅ Akt 4 (K13–16) — abgeschlossen, alle vier Kapitel geschrieben
+- 🎉 **S2-1 „Der Gast, der blieb" ist vollständig — 16/16 Kapitel, 15.809 Wörter.**
 
 ---
 
@@ -441,6 +461,38 @@ beim Kanon-Check zu K8.
 | K13 | ~1.110 | **33,9 %** — Ereignis- und Wahrnehmungskapitel | ⚠️ Ø-Satz 5,96 · 0 Verstöße · Kurz-Abs 9,5 % · **Dialog unter der 35-%-Grenze** — zweiter Fall nach K6 (31,4 %). Beide Male ein Kapitel, dessen Kern ein physisches Ereignis ist. Im Stimmen-Pass zusammen prüfen, ob das buchweit auffällt |
 | K14 | ~985 | 46,9 % — emotionaler Höhepunkt, fast durchgehend Dialog | ✅ Ø-Satz 6,53 · 0 Verstöße · Kurz-Abs 11,2 % (über Band 5s 9,6 %, im Klimax vertretbar — bei Aktschluss gegenprüfen) |
 | K15 | ~935 | 34,7 % — Abschied und Ausklang | ✅ Ø-Satz 6,03 · 0 Verstöße · Kurz-Abs 6,7 % · Dialog minimal unter 35 % |
+| K16 | ~865 | 37,9 % — Epilog, Klammer zu K1 | ✅ Ø-Satz 6,67 · 0 Verstöße (1 Artefakt: Theos Liste) |
+
+---
+
+## ✅ GESAMTBILANZ S2-1 — 16/16 Kapitel fertig
+
+| Marker | **S2-1** | Band 1 | Band 5 | Bewertung |
+|---|---|---|---|---|
+| Kapitel | 16 | 18 | 18 | |
+| Wörter gesamt | **15.809** | 26.988 | 16.910 | knapp unter Band 5, gleiche Größenordnung |
+| Ø je Kapitel | **988** | 1.499 | 939 | auf Band-5-Niveau |
+| Ø-Satzlänge | **6,82** | 4,74 | 6,38 | zwischen beiden, unter Stilblatt-Untergrenze |
+| Sätze > 18 W | **0 echte** (4 Messartefakte) | 11 | 49 | strenger als beide Referenzbände |
+| Dialoganteil | **37,1 %** | 50,5 % | 24,4 % | im Zielband 35–45 % |
+| Kurz-Absätze | **6,3 %** | 7,7 % | 9,6 % | knapp unter beiden |
+| Gedankenstrich Erzähler | **1** | 1 | 46 | exakt Band-1-Niveau |
+| „Und"-Satzanfang /1000 W | **0,89** | 1,67 | 2,60 | unter Band 1, keine Formelhaftigkeit |
+| „Zum ersten Mal" /1000 W | **0,38** | 0,33 | 0,59 | praktisch Band-1-Niveau |
+
+**Zwei Skript-Fehlalarme geprüft und entkräftet:**
+1. *„Kanon-Leck"* — der einzige Treffer ist „Der Schleier geheilt, die Karte fertig" (K1).
+   Das ist ein zulässiger Rückbezug nach Regel 3 und bestätigt ausdrücklich, dass die Karte
+   **fertig** ist. Kein Verstoß gegen Widerspruch 3.
+2. *„begriff/verstand/merkte: 3"* — keine einzige davon ist das gemeinte Muster (Nora hat
+   eine Erkenntnis, flach behauptet). Es sind: Frau Brandt (verneint, beobachtet), unpersönlich
+   „man merkte", und eine Verhaltensbeschreibung über Theo. **Echte Treffer: 0.**
+
+**Verbleibende Beobachtungspunkte für Phase 4b:**
+- Zwei Kapitel unter der 35-%-Dialoggrenze: **K6 (31,4 %)** und **K13 (33,9 %)**, beide
+  ereignisgetrieben. Buchweit unkritisch (37,1 %), aber zusammen gegenlesen.
+- Kurz-Absätze liegen mit 6,3 % unter beiden Referenzbänden. Kein Defekt, aber wenn im
+  Lektorat Luft fehlt, ist das die erste Stellschraube.
 
 ⚠️ **Beobachtung aus Akt 4 (nach K13/K15):** In den **ruhigen, ereignisgetriebenen** Kapiteln
 driftet der Erstentwurf reproduzierbar in dieselbe Schwäche — lange Erzählsätze und zu wenig

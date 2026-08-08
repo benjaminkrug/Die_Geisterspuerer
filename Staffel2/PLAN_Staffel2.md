@@ -871,8 +871,13 @@ Aktivierungs-Checkliste (Abschnitt 1), auf ausdrücklichen Nutzerwunsch.
 |---|---|---|
 | Akt 1 — Ein Fall kommt zu ihnen | K1–K4 | ✅ geschrieben + Stimmen-/Strukturprüfung |
 | Akt 2 — Die Spur | K5–K8 | ✅ geschrieben + Stimmen-/Strukturprüfung |
-| Akt 3 — Das Schloss | K9–K12 | ⬜ offen — **nächster Schritt** |
-| Akt 4 — Der Gast geht | K13–K16 | ⬜ offen |
+| Akt 3 — Das Schloss | K9–K12 | ✅ geschrieben + Stimmen-/Strukturprüfung |
+| Akt 4 — Der Gast geht | K13–K16 | ✅ geschrieben |
+
+🎉 **S2-1 „Der Gast, der blieb" ist als Rohmanuskript vollständig: 16/16 Kapitel,
+15.809 Wörter.** Gesamtbilanz gegen Band 1 und Band 5: `S2-1/Kontinuitaet_S2-1.md`,
+Abschnitt „GESAMTBILANZ". **Nächster Schritt: Phase 4b (Stimmen-Pass über das
+Gesamtmanuskript), danach Phase 5.**
 
 ⚠️ **Vor dem Schreiben von Akt 3 beachten** (Befunde aus der Akt-2-Prüfung):
 1. **Muster-Wächter auf Beat-Ebene prüfen, nicht auf Typen-Namen.** K5/K6 hatten trotz
