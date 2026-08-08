@@ -1188,7 +1188,97 @@ K10 daran und fühlt sich klug, statt sich betrogen zu fühlen.
 
 ---
 
-➡️ **Nächster Schritt: Stufe 5** — `Qualitaets_Pruefplan` Teil B („Hält es sein
-Versprechen?"). Für S2-1 nur zur Hälfte prüfbar, solange Cover und KDP-Beschreibung
-fehlen. Danach Phase 5 (Kompilieren). A3, der Vorlese-Test am gedruckten Buch und
-Abschluss-Schritt 6 des Logik-Plans hängen weiterhin an S2-2 bzw. am fertigen Artefakt.
+---
+
+## ✅ PHASE 5 — KOMPILIEREN (2026-08-08)
+
+> Teil B des Qualitäts-Prüfplans **entfällt auf Wunsch des Autors** (2026-08-08).
+
+**Neues Skript:** [`Scripts/build_manuskript_komplett_s2_1.py`](../../Scripts/build_manuskript_komplett_s2_1.py)
+**Ergebnis:** `Staffel2/S2-1/Manuskript/Manuskript_S2-1_Komplett.md` — 16 Kapitel,
+**16.624 Wörter** Fließtext.
+
+### Warum ein eigenes Skript und kein Umbau des Band-5-Skripts
+
+`build_manuskript_komplett_band5.py` ist an einem echten Druckfehler gehärtet worden
+(SEPARATOR-BUG, siehe unten) — an einem laufenden Skript dieser Art herumzuparametrisieren
+riskiert genau die Sorte stiller Regression, gegen die es gebaut wurde. Die Reihe macht es
+seit Band 3 so: ein Build-Skript pro Band. Übernommen sind **alle** Prüfungen, geändert
+sind nur Pfade, Kapitelzahl und Kopfzeile.
+
+### Der SEPARATOR-BUG — hier von Anfang an vermieden
+
+Die Downstream-Parser machen aus **jeder** `---`-Zeile einen Szenentrenner `✦ ✦ ✦`. Die
+Skripte für Band 1–4 setzten zusätzlich ein `---` *zwischen* die Kapitel — nicht
+unterscheidbar. Im Druck stand damit hinter jedem Cliffhanger ein Ornament statt des
+Cliffhangers. **Band 4 ist mit 15 solchen Fehl-Ornamenten in den Druck gegangen.** Da in
+dieser Reihe jedes Kapitel auf einem Cliffhanger endet, trifft der Fehler das
+Konstruktionsprinzip des Buchs.
+
+S2-1 baut ohne Kapiteltrenner — `# Kapitel N` markiert die Grenze eindeutig.
+
+### Prüfungen, die den Build abbrechen statt still Falsches zu bauen
+
+| Prüfung | Ergebnis |
+|---|---|
+| 16 Dateien, lückenlos ab 1 | ✅ |
+| Kopfzeile `# Kapitel N – Titel` in jeder Datei, Nummer = Dateiname | ✅ |
+| keine doppelten Kapiteltitel | ✅ |
+| kein Fehl-Ornament vor/nach einer Kapitelüberschrift, keine doppelten `---` | ✅ |
+| jede Kapiteldatei vollständig im Output | ✅ |
+| **neu:** Schlusszeile jedes Kapitels steht **unmittelbar** vor der nächsten Überschrift | ✅ 15/15 Übergänge |
+
+Die letzte Prüfung ist eine Ergänzung gegenüber Band 5 — sie hält den Cliffhanger direkt
+an der Kapitelgrenze fest, statt nur zu prüfen, dass er irgendwo im Text vorkommt.
+
+### ⚠️ Offen: Frontmatter
+
+**Band 3, 4 und 5 haben je eine Widmung und ein Epigraph — für S2-1 existiert kein
+freigegebener Text.** Weder `PLAN_Staffel2.md` noch die S2-1-Dateien enthalten einen.
+Das Skript **erfindet dafür nichts**: Die Konstanten stehen leer, das Manuskript wird ohne
+Frontmatter gebaut, und der Build gibt eine deutliche Warnung aus. Nach Freigabe durch den
+Autor eintragen und neu bauen — am übrigen Build ändert das nichts.
+
+### Titelkopf (nach `PLAN_Staffel2.md` Abschnitt 10)
+
+```
+# Die Geisterspürer – Der Gast, der blieb
+
+**Die Gebundenen · Band 1**
+Ein Grusel-Abenteuer für Kinder ab 12 Jahren
+```
+
+Abschluss-Marker: `**ENDE BAND 1 · DIE GEBUNDENEN**` — bewusst nicht „ENDE BAND 1",
+das mit Staffel 1 kollidieren würde. Das `**ENDE**` am Schluss von K16 bleibt stehen
+(Ende der Geschichte); der Marker darunter ist der Buch-Marker, genau wie bei Band 1–5.
+
+### ✅ Damit erledigt: Abschluss-Schritt 6 des Logik-Prüfplans
+
+Der Schritt „am fertigen Artefakt prüfen" hing seit dem Logik-Durchgang. Am kompilierten
+Manuskript verifiziert:
+
+| Prüfung | Ergebnis |
+|---|---|
+| 16 Kapitel, Nummern lückenlos | ✅ |
+| alle 16 Schlusszeilen im Artefakt vorhanden | ✅ 16/16 |
+| die vier Logik-Fixes im Artefakt | ✅ |
+| die vier Qualitäts-/Spannungs-Fixes im Artefakt | ✅ |
+| die alten Fassungen restlos entfernt | ✅ |
+| Fehl-Ornamente vor Kapitelköpfen | **0** |
+
+### Reproduzierbarkeit der Teil-A-Zahlen
+
+**Neues Skript:** [`Scripts/pruefe_qualitaet_s2.py`](../../Scripts/pruefe_qualitaet_s2.py) —
+dünner Aufsatz auf `pruefe_qualitaet.py`, der die Messfunktionen **importiert statt
+nachzubauen** (zwei Kopien derselben Regex driften auseinander) und die Staffel-2-Bände
+nachreicht. Liest bevorzugt das kompilierte Manuskript, fällt sonst auf die Einzelkapitel
+zurück. Damit sind alle in diesem Dokument zitierten Vergleichszahlen jederzeit neu
+herleitbar statt nur behauptet.
+
+---
+
+➡️ **Nächster Schritt: Phase 6** — Abschluss-Prüfung (alle Fäden belegt, Ghost-Regel
+geprüft, Staffel-Brücke erfüllt). Danach Produktion: Cover, Taschenbuch-/eBook-Build,
+KDP-Beschreibung. Weiterhin offen und an S2-2 gebunden: die Leseprobe auf den nächsten
+Band (A3) — ⚠️ in Band 1–4 waren diese Leseproben **erfunden**, für S2-1 gilt: erst nach
+S2-2 erstellen und maschinell Absatz für Absatz gegen den echten Text prüfen.
