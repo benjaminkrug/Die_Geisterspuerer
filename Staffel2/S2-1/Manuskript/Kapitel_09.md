@@ -70,6 +70,36 @@ Frau Brandt öffnete im Bademantel, mit einem Finger auf den Lippen.
 
 "Sie fragt nichts mehr. Das ist das Schlimme." Frau Brandt trat zur Seite. "Sie hat sich einfach daran gewöhnt."
 
+Hinter ihr im Flur ging eine Tür.
+
+Ein Mädchen stand da, barfuß, mit einem Glas Wasser in beiden Händen. Acht vielleicht. Ihre Haare standen auf einer Seite ab.
+
+Sie sah Nora an, dann Theo, dann den Hund. Nichts davon schien sie besonders zu wundern.
+
+"Sind das die?", fragte sie.
+
+"Jule, du solltest schlafen."
+
+"Ich hab Durst." Sie trank einen Schluck, ohne den Blick von Schatten zu nehmen. "Sind das die, die das wegmachen?"
+
+Frau Brandt schloss kurz die Augen. "Ja. Das sind die."
+
+"Okay."
+
+Mehr nicht. Kein *endlich*, kein *wirklich*, keine Angst.
+
+*Sie hat sich einfach daran gewöhnt*, hatte ihre Mutter eine Minute vorher gesagt. Jetzt wusste Nora, wie das aussah.
+
+Schatten ging zu ihr. Er drängte sich nicht auf, er stellte sich nur neben sie.
+
+Jule stellte das Glas auf den Boden und legte beide Hände in sein Fell.
+
+"Der ist warm", sagte sie.
+
+"Der ist immer warm", sagte Theo.
+
+Sie blieb noch einen Moment so stehen. Dann nahm sie ihr Glas und ging zurück, ohne gute Nacht zu sagen.
+
 "Wir sind ganz leise", flüsterte Nora. "Ich will nur eine Sache prüfen."
 
 Sie gingen auf Zehenspitzen durch den Flur. Schatten setzte keine Pfote in Richtung Schrankzimmer, blieb aber diesmal näher als sonst, dicht hinter Noras Fersen.

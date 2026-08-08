@@ -98,7 +98,7 @@ Frau Brandt stellte sie zurück in den Flur, aber nicht in den Keller. "Die blei
 
 Die zwölf Karten legte sie in eine Schublade in der Küche. Die zwölfte, die vorgelesene, legte sie obenauf.
 
-"Ich hole Jule gleich von der Schule ab", sagte sie. "Und dann erzähle ich ihr von ihrem Opa."
+"Ich erzähle Jule von ihrem Opa", sagte sie. "Heute noch."
 
 "Alles?", fragte Theo.
 
@@ -107,6 +107,40 @@ Die zwölf Karten legte sie in eine Schublade in der Küche. Die zwölfte, die v
 Sie brachte sie zur Wohnungstür.
 
 Im Flur roch es nach nichts Besonderem mehr. Nach Wohnung. Nach Kaffee von heute Morgen.
+
+Unten fiel die Haustür zu. Schritte kamen die Treppe hoch, zwei Stufen auf einmal.
+
+"Das ist sie", sagte Frau Brandt. "Freitags hat sie früher aus."
+
+Jule kam um die Ecke, den Ranzen an einem Riemen hinter sich her. Sie sah die beiden Fremden im Flur und blieb kurz stehen.
+
+"Ihr wart gestern Nacht da."
+
+"Stimmt", sagte Nora.
+
+"Habt ihr's weggemacht?"
+
+Nora überlegte, wie man einem Achtjährigen sagt, dass ein trauriger alter Mann endlich nach Hause gegangen war.
+
+"Ja", sagte sie. "Ist weg."
+
+"Okay."
+
+Dann ging Jule an ihnen vorbei, den Flur hinunter, direkt an der Tür zum Schrankzimmer entlang.
+
+Sie machte keinen Bogen. Sie wurde nicht langsamer. Sie warf nicht mal einen Blick hin.
+
+Sie verschwand in ihrem eigenen Zimmer und ließ die Tür offen.
+
+Frau Brandt musste sich am Rahmen festhalten.
+
+"Sie geht da einfach vorbei", sagte sie.
+
+"Ja."
+
+"Sie hat drei Wochen lang nicht mal in diesen Flur gewollt."
+
+"Ich weiß", sagte Nora. "Sie hat nichts gemerkt. Das ist der Punkt."
 
 "Danke", sagte Frau Brandt.
 

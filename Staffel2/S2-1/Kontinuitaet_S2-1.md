@@ -281,7 +281,13 @@ beim Kanon-Check zu K8.
   ⚠️ **Neue Kanon-Fakten aus diesem Kapitel:** Herr Kubiak (Hausmeister, Name jetzt fest) ·
   Schlosser-Termin = **August letztes Jahr** · Einzug der Brandts = **November** · Wohnung
   stand davor ~ein halbes Jahr leer · Schrank ≥30 Jahre im Haus.
-- **K9** (BEGINN AKT 3): Direkter Anschluss, gleicher Abend. Auf der Straße: Theo verdächtigt
+- **K9** (BEGINN AKT 3) ⚠️ **enthält seit dem Abwechslungs-Umbau Jules ersten Auftritt**
+  (Setup): Sie wacht nachts auf und steht barfuß mit einem Wasserglas im Flur. **Nicht
+  panisch — sachlich.** „Sind das die, die das wegmachen?" · „Okay." Mehr nicht. Damit wird
+  Frau Brandts Satz aus demselben Kapitel („Sie fragt nichts mehr. Das ist das Schlimme")
+  sichtbar statt behauptet. Schatten stellt sich wortlos neben sie, sie legt die Hände in
+  sein Fell: „Der ist warm." Erster Auftritt der Figur nach sechs Kapiteln Erwähnung.
+  Direkter Anschluss, gleicher Abend. Auf der Straße: Theo verdächtigt
   Kubiak, Nora widerlegt sauber (wer etwas versteckt, führt kein Heft und zeigt es nicht her;
   Schatten reagierte auf das Wort, nicht auf Kubiak). Nora denkt Kubiaks Nebensatz „jede
   Wohnung, auch die leerstehenden" weiter — **Herbert ist vermutlich nicht der Erste**
@@ -402,8 +408,20 @@ beim Kanon-Check zu K8.
   Dann die Umrisse."): Nichts davon geschieht. Herbert dreht sich um und geht wie ein alter
   Mann, der abends nach Hause geht — nur ohne Schritt-Geräusch. Endet mitten in der Bewegung:
   er sieht über die Schulter zurück und **lächelt** (BILD).
-  ⚠️ **Neuer Kanon-Fakt:** Die Tochter der Brandts heißt **Jule**. ⚠️ Bewusst *nicht* „Lena" —
-  zu nah an **Lina**, dem befreiten Geist aus Staffel 1 (11 Nennungen in `Serien_Kanon.md`).
+  ⚠️ **Kanon:** Die Tochter der Brandts heißt **Jule**. Bewusst *nicht* „Lena" — zu nah an
+  **Lina**, dem befreiten Geist aus Staffel 1 (11 Nennungen in `Serien_Kanon.md`).
+  ⚠️ **Verschoben:** Der Name fällt seit dem Jule-Einbau bereits in **K9**, nicht erst hier.
+  K14s Beat trägt trotzdem — er richtet sich an **Herbert**, und der Punkt ist, dass *er* nie
+  gefragt hat. Dass der Leser sie inzwischen kennt, macht es schärfer, nicht schwächer.
+- **K15** ⚠️ **enthält Jules zweiten Auftritt** (Payoff): Sie kommt von der Schule heim,
+  während Nora und Theo an der Tür stehen. Fragt nüchtern „Habt ihr's weggemacht?" — und geht
+  dann **direkt an der Tür zum Schrankzimmer vorbei**. Kein Bogen, kein Zögern, kein Blick.
+  Sie verschwindet in ihrem **eigenen** Zimmer und lässt die Tür offen. Frau Brandt muss sich
+  am Rahmen festhalten: „Sie hat drei Wochen lang nicht mal in diesen Flur gewollt."
+  Noras Antwort ist der Payoff-Satz: **„Sie hat nichts gemerkt. Das ist der Punkt."**
+  ➡️ Setup K9 (Kind hat sich an die Angst gewöhnt) → Payoff K15 (die Angst ist weg, und das
+  Kind merkt es nicht einmal). Zeigt das Ergebnis der Befreiung an einem Menschen statt an
+  einem Geist.
 - **K15:** Direkter Anschluss. Herbert geht endgültig — **ohne markierten Moment**: irgendwo
   zwischen Schranktür und Flur ist er nicht mehr da, niemand könnte sagen, wann. Kein Licht,
   kein Windstoß, kein Geräusch. Nur der leere Sonnenstreifen.
@@ -451,7 +469,7 @@ beim Kanon-Check zu K8.
 - ✅ Akt 2 (K5–8) — abgeschlossen, alle vier Kapitel geschrieben
 - ✅ Akt 3 (K9–12) — abgeschlossen, alle vier Kapitel geschrieben
 - ✅ Akt 4 (K13–16) — abgeschlossen, alle vier Kapitel geschrieben
-- 🎉 **S2-1 „Der Gast, der blieb" ist vollständig — 16/16 Kapitel, 16.069 Wörter.**
+- 🎉 **S2-1 „Der Gast, der blieb" ist vollständig — 16/16 Kapitel, 16.395 Wörter.**
 
 ---
 
@@ -468,13 +486,13 @@ beim Kanon-Check zu K8.
 | K7 | ~895 | 44,3 % — emotionale Kernszene, bewusst knapp gehalten | ⚠️ unter dem 1.200-Minimum, gleicher Grund wie K3/K4/K6 (eine intensive Szene); Straffheit dient hier der emotionalen Wirkung, im Stimmen-Pass gegenprüfen |
 | K8 | ~1.040 | 39,7 % — Ermittlungskapitel, Befragungsszene trägt den Großteil | ⚠️ knapp unter dem 1.200-Minimum, siehe geklärte Kapitellängen-Frage unten |
 
-| K9 | ~965 | 35,7 % — Ermittlung + Suchsequenz als Klimax | ✅ Ø-Satz 6,73 · 0 Verstöße · exakt auf Band-5-Schnitt (939 W) |
+| K9 | ~1.135 | **32,8 %** — Ermittlung + Suchsequenz + Jules Auftritt | ⚠️ Ø-Satz 6,71 · 0 Verstöße · **Dialog unter 35 %** seit dem Jule-Einbau |
 | K10 | ~1.050 | 35,8 % — Fund, Werkzeugszene, Fehlschlag | ✅ Ø-Satz 6,38 · 0 Verstöße · Kurz-Absätze 6,1 % |
 | K11 | ~1.315 | 34,2 % — zwei Schauplätze (Keller + Küche) | ✅ Ø-Satz 6,61 · 0 echte Verstöße · Kurz-Abs 6,6 % · **längstes Kapitel des Buchs**, trägt aber zwei Orte |
 | K12 | ~950 | 38,7 % — Synthese + Ausführung, Aktschluss | ✅ Ø-Satz 6,18 · 0 Verstöße · Kurz-Absätze 8,9 % |
 | K13 | ~1.110 | **33,9 %** — Ereignis- und Wahrnehmungskapitel | ⚠️ Ø-Satz 5,96 · 0 Verstöße · Kurz-Abs 9,5 % · **Dialog unter der 35-%-Grenze** — zweiter Fall nach K6 (31,4 %). Beide Male ein Kapitel, dessen Kern ein physisches Ereignis ist. Im Stimmen-Pass zusammen prüfen, ob das buchweit auffällt |
 | K14 | ~985 | 46,9 % — emotionaler Höhepunkt, fast durchgehend Dialog | ✅ Ø-Satz 6,53 · 0 Verstöße · Kurz-Abs 11,2 % (über Band 5s 9,6 %, im Klimax vertretbar — bei Aktschluss gegenprüfen) |
-| K15 | ~935 | 34,7 % — Abschied und Ausklang | ✅ Ø-Satz 6,03 · 0 Verstöße · Kurz-Abs 6,7 % · Dialog minimal unter 35 % |
+| K15 | ~1.085 | **33,5 %** — Abschied, Ausklang, Jules Payoff | ⚠️ Ø-Satz 6,04 · 0 Verstöße · Dialog unter 35 % |
 | K16 | ~865 | 37,9 % — Epilog, Klammer zu K1 | ✅ Ø-Satz 6,67 · 0 Verstöße (1 Artefakt: Theos Liste) |
 
 ---
@@ -589,8 +607,8 @@ Umformulieren neu entstandener 19-Wort-Satz wurde sofort gesplittet.
 | Marker | **S2-1** | Band 1 | Band 5 | Bewertung |
 |---|---|---|---|---|
 | Kapitel | 16 | 18 | 18 | |
-| Wörter gesamt | **16.069** | 26.988 | 16.910 | knapp unter Band 5, gleiche Größenordnung |
-| Ø je Kapitel | **1.004** | 1.499 | 939 | auf Band-5-Niveau |
+| Wörter gesamt | **16.395** | 26.988 | 16.910 | knapp unter Band 5, gleiche Größenordnung |
+| Ø je Kapitel | **1.025** | 1.499 | 939 | leicht über Band-5-Niveau |
 | Ø-Satzlänge | **6,82** | 4,74 | 6,38 | zwischen beiden, unter Stilblatt-Untergrenze |
 | Sätze > 18 W | **0 echte** (4 Messartefakte) | 11 | 49 | strenger als beide Referenzbände |
 | Dialoganteil | **37,1 %** | 50,5 % | 24,4 % | im Zielband 35–45 % |
@@ -608,8 +626,10 @@ Umformulieren neu entstandener 19-Wort-Satz wurde sofort gesplittet.
    „man merkte", und eine Verhaltensbeschreibung über Theo. **Echte Treffer: 0.**
 
 **Verbleibende Beobachtungspunkte für Phase 4b:**
-- Zwei Kapitel unter der 35-%-Dialoggrenze: **K6 (31,4 %)** und **K13 (33,9 %)**, beide
-  ereignisgetrieben. Buchweit unkritisch (37,1 %), aber zusammen gegenlesen.
+- **Vier** Kapitel unter der 35-%-Dialoggrenze: **K6 (31,4 %)**, **K9 (32,8 %)**,
+  **K13 (33,9 %)**, **K15 (33,5 %)**. K9 und K15 sind erst durch die Jule-Szenen dorthin
+  gerutscht — beide Auftritte bringen notwendigerweise Erzähltext mit. Buchweit weiterhin
+  unkritisch (36,6 %), aber die vier zusammen im Stimmen-Pass gegenlesen.
 - Kurz-Absätze liegen mit 6,3 % unter beiden Referenzbänden. Kein Defekt, aber wenn im
   Lektorat Luft fehlt, ist das die erste Stellschraube.
 

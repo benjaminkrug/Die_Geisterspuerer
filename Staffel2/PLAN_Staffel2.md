@@ -875,7 +875,7 @@ Aktivierungs-Checkliste (Abschnitt 1), auf ausdrücklichen Nutzerwunsch.
 | Akt 4 — Der Gast geht | K13–K16 | ✅ geschrieben |
 
 🎉 **S2-1 „Der Gast, der blieb" ist als Rohmanuskript vollständig: 16/16 Kapitel,
-16.069 Wörter.** Gesamtbilanz gegen Band 1 und Band 5: `S2-1/Kontinuitaet_S2-1.md`,
+16.395 Wörter.** Gesamtbilanz gegen Band 1 und Band 5: `S2-1/Kontinuitaet_S2-1.md`,
 Abschnitt „GESAMTBILANZ". **Nächster Schritt: Phase 4b (Stimmen-Pass über das
 Gesamtmanuskript), danach Phase 5.**
 

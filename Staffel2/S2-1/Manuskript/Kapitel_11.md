@@ -66,7 +66,7 @@ Frau Brandt brauchte drei Anläufe, bis der Schlüssel drehte.
 
 Das Licht im Kellergang lief über einen Zeitschalter. Es klickte alle zwei Minuten aus.
 
-Beim ersten Mal zuckten alle drei zusammen.
+Beim ersten Klicken zuckten alle drei zusammen.
 
 "Ich hasse diese Dinger", sagte Theo in die Dunkelheit hinein und tastete nach dem Knopf. "Wer denkt sich das aus? Licht, aber nur ein bisschen."
 
