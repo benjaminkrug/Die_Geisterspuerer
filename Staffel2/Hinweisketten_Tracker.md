@@ -138,3 +138,20 @@ den Beruf und eine Person im selben Satz nennt, ist die Pointe verbraucht.
 - Kein Eintrag als „geprüft" markieren, ohne die Prüfung tatsächlich durchzuführen (Regel
   aus `Serien_Kanon.md` Abschnitt 6 — siehe auch die Korrektur in
   `Setup_Payoff_Tracker_S2-1.md` Abschnitt D).
+
+---
+
+## ⚠️ Geltungsbereich — was dieser Tracker NICHT abdeckt (2026-08-08)
+
+Die Ketten 1–3 verfolgen ausschließlich den **Staffel-Bogen** (Halder / die Schlosser-Spur
+/ Frieda). Das **Rätsel innerhalb eines einzelnen Bandes** — warum Zuhören bei diesem
+Geist nicht reicht und wie die Kinder es lösen — steht hier nicht.
+
+Für **S2-1** ist dieser bandinterne Fair-Play-Durchgang nachgeholt und dokumentiert in
+[`S2-1/Kontinuitaet_S2-1.md`](S2-1/Kontinuitaet_S2-1.md), Abschnitt
+„LOGIK-PRÜFPLAN DURCHGANG C — FAIR PLAY": sechs Auflösungen, alle Hinweise mit
+Kapitelnummer, Ergebnis 0 🔴 · 0 🟠 · 1 🟡.
+
+**Regel für S2-2 bis S2-5:** Durchgang C zweimal fahren — einmal hier für den
+Staffel-Bogen, einmal in der Kontinuitäts-Datei des Bandes für dessen eigenes Rätsel.
+Wer nur diesen Tracker prüft, hält den Band für fair geprüft, ohne dass er es ist.

@@ -258,3 +258,5 @@ lässt es stehen. Im Zweifel: 🟡.
 | 1 | „einen Moment — einen einzigen, kurzen Moment", „vorbei … vorbei … vorbei" u. a. | Bewusste Anapher, Stilmittel (Check 10) |
 | 5 | „Zum ersten Mal seit zweihundert Jahren" (mehrfach) | Tragendes Leitmotiv, trägt den Payoff |
 | 5 | K1/K8 „hielt alles ein bisschen zu fest" (fast wortgleich) | Callback: K1 benennt das Verhalten, K8 liefert den Grund |
+| S2-1 | K12 „Bei einem Menschen hört man auf zu ziehen" — Analogie statt Ableitung | Durchgang C 2026-08-08: Der letzte Schritt der Auflösung ist bewusst weich. Das Buch flaggt es selbst durch Theo („klingt wie ein Poster im Klassenzimmer"); K10 hat die Richtung („sanft, nicht mit Gewalt") gerade vorgeführt, die Form bleibt Überraschung. Ein härterer Hinweis wäre nach der Gegenprobe **ein Hinweis zu viel**. |
+| S2-1 | Das Schloss bleibt nach Herberts Befreiung kalt (K13/K15/K16), obwohl K12 die Kälte mit „es gehört zu ihm" erklärt | Kein Widerspruch, sondern Konstruktion: Noras Deutung ist wahr, aber unvollständig — die Kälte kommt vom **Erbauer**, nicht vom Gehaltenen. K13 und K15 markieren die Abweichung ausdrücklich. Trägt den Staffel-Haken. |

@@ -1100,9 +1100,95 @@ für Qualität: im Zweifel stehen lassen — und hier bestand kein Zweifel.
 
 ---
 
+---
+
+## ✅ LOGIK-PRÜFPLAN DURCHGANG C — FAIR PLAY (2026-08-08)
+
+> **Regel:** Eine Auflösung in Kapitel N darf nur Hinweise nutzen, die in Kapiteln ≤ N
+> stehen. Gegenprobe: Kann ein aufmerksames Kind es vorher ahnen? Nein → Hinweis fehlt.
+> Offensichtlich → ein Hinweis zu viel.
+>
+> ⚠️ **Für Durchgang C gibt es kein Skript.** Die Hinweisliste ist von Hand gebaut. Der
+> `Hinweisketten_Tracker` deckt nur den **Staffel-Bogen** ab (Kette 1–3, Halder); das
+> Rätsel *dieses Buchs* war bis hierher ungeprüft.
+
+### Die sechs Auflösungen und ihre Hinweise
+
+| # | Auflösung | Kap. | Hinweise (alle ≤ N) | Fair |
+|---|---|---|---|---|
+| 1 | Es liegt nicht am Zuhören, es ist etwas Handfestes | K4 | K3 Rückriss trotz gelungener Auflösung | ✅ |
+| 2 | Am Schrank ist eine markierte Stelle | K9 | K3 „als hinge er an einer Kette" · K4 „wie eine Hand, die mich nicht loslassen will" · K4 Theos Witz von der **unsichtbaren Hundeleine** · K5 Schatten fixiert nur noch den Schrank · **K5 das metallische Klicken aus dem Schrank** · K6 kein Griff, kein Schlüsselloch, „als wäre er Teil der Wand" · K6 Reif von innen nach außen | ✅ |
+| 3 | Es ist ein winziges Schloss, und es ist „an ihm dran" | K10 | alle aus #2, plus K9 das eingeritzte Schloss-Symbol · K10 die Kälte des Metalls beim Ertasten | ✅ |
+| 4 | Es war vor Herbert da — für niemanden Bestimmtes | K8/K16 | **K2 „Er kannte diese Wohnung nicht mal. Er kannte diese Stadt nicht mal."** · K2 Noras Frage „Warum ausgerechnet jetzt?" · K6 der Schrank stand schon da, der Vormieter sah ihn nie offen · K8 Schlosser im August, jede Wohnung, auch die leeren · K8 Einzug im November | ✅ |
+| 5 | Man öffnet es, indem man aufhört zu ziehen | K12/K13 | K3+K7 Sanftheit bringt ihn zweimal fast frei · **K10 Gewalt scheitert und verletzt ihn — das Metall unversehrt, der Mann nicht** · K10 Herbert: „Es ist an mir dran" · K10 die Kälte des Schlosses · K11 zwölf Karten, keine abgeschickt | 🟡 s. u. |
+| 6 | Herbert bleibt wegen der zwölften Karte; „Papa" ist der Beweis | K14 | K11 elf offen, eine zugeklebt, adressiert **und frankiert** · K11 Handschrift wird nach oben zittriger · K12 „Alles, was hart war, konnte er. Nur den letzten kleinen Schritt nicht." · K13 er bleibt und behauptet, er wisse nicht wohin — Nora glaubt es nicht | ✅ |
+
+**Keine einzige Auflösung greift auf einen späteren Hinweis zurück.** Formal ist Fair Play
+über alle sechs eingehalten.
+
+### 🟡 Der eine weiche Punkt: der letzte Schritt in K12
+
+Die Kette bis dorthin ist sauber: *Kälte → das Ding gehört nicht zum Zimmer → es gehört zu
+ihm → da hängt ein Mensch dran.* Alle vier Glieder stehen in K10.
+
+Der letzte Schritt — **„Bei einem Menschen hört man auf zu ziehen"** — ist eine
+**Analogie, keine Ableitung.** Nichts im Buch sagt, dass Sanftheit ein Schloss öffnet.
+
+Warum das trotzdem stehen bleibt, in dieser Reihenfolge:
+
+1. **Das Buch flaggt es selbst.** Theo: *„Ich sage nur, es klingt auch ein bisschen wie ein
+   Poster im Klassenzimmer."* — *„So eins mit einem Kätzchen an einem Ast."* Der Text tut
+   nicht so, als wäre der Schluss zwingend. Das ist ehrliches Handwerk, kein Kaschieren.
+2. **Die Richtung ist ahnbar, die Form nicht** — und genau das verlangt die Regel. K10 hat
+   gerade vorgeführt, dass Gewalt scheitert *und* wehtut. Ein aufmerksames Kind erwartet
+   danach, dass die Lösung sanft sein wird. Dass sie aus bloßem Aushalten besteht, ist die
+   Überraschung. Ein härterer Hinweis wäre nach der Gegenprobe **ein Hinweis zu viel**.
+3. Es ist die DNA der Reihe, in K3 explizit gesetzt: „Zuhören. Das ist alles."
+
+**Einstufung 🟡 (Absicht) — stehen lassen, notiert, beim nächsten Durchgang nicht erneut
+melden.**
+
+### ⚪ Geprüft und entkräftet: „Theo hat in K6 dieselbe Stelle abgesucht"
+
+Der schärfste denkbare Einwand: In K6 sucht Theo den Schrank mit einer Büroklammer ab und
+findet nichts — in K10 findet Nora das Schloss mit den Fingern. Hat das Buch geschummelt?
+
+**Nein, und der Unterschied ist eine einzige Präposition.** Theo probiert: *die Ritze
+**zwischen den Türen*** · Oberkante · Unterkante · jede Schnitzerei · die beiden unteren
+Ecken · die Rückseite. Nora schiebt die Finger *in den schmalen Spalt **zwischen Tür und
+Rahmen***. Das ist der äußere Spalt, den Theo nie berührt hat.
+
+**Und sie tut es nur, weil das Symbol dorthin zeigt** — der Text sagt es in vier Wörtern:
+*„Ein Zeichen zeigt auf etwas."* Der Hinweis aus K9 ermöglicht den Fund in K10. Das ist
+Fair Play im Lehrbuchsinn, kein Loch.
+
+### ✅ Positiv-Befund: der Hinweis, der die Auflösung überlebt
+
+K12 löst mit „es ist kalt, **weil es zu ihm gehört**". Nach Herberts Befreiung müsste das
+Schloss demnach warm werden. Es wird nicht warm — K13 „immer noch kalt, aber anders kalt",
+K15 „Nichts davon hatte geholfen. Es blieb kalt.", K16 „kein bisschen erwärmt".
+
+Das ist **kein Widerspruch, sondern die beste Konstruktion des Buchs:** Noras Deutung war
+wahr, aber unvollständig. Sie reichte, um zu öffnen, und erklärte nicht alles. Die Kälte
+kommt nicht von dem, der gehalten wurde, sondern von dem, der es **gebaut** hat — und
+genau darüber läuft der Staffel-Haken. Beide Anschlussstellen (K13, K15) markieren die
+Abweichung ausdrücklich, statt sie zu übergehen.
+
+### Gegenprobe „ein Hinweis zu viel"
+
+Geprüft, keiner. Der offensichtlichste Kandidat ist Theos Witz von der **unsichtbaren
+Hundeleine** (K4) — er benennt die Lösung vier Kapitel früher fast korrekt. Er bleibt
+zulässig, weil er als Witz abgetan wird und im Detail **falsch** ist: Es gibt keine Leine,
+es gibt ein Schloss. Das ist die produktive Sorte Vorwegnahme — der Leser erinnert sich in
+K10 daran und fühlt sich klug, statt sich betrogen zu fühlen.
+
+### Bilanz
+
+**0 🔴 · 0 🟠 · 1 🟡 · 1 ⚪ entkräftet · 1 Positiv-Befund. Keine Änderung am Manuskript.**
+
+---
+
 ➡️ **Nächster Schritt: Stufe 5** — `Qualitaets_Pruefplan` Teil B („Hält es sein
 Versprechen?"). Für S2-1 nur zur Hälfte prüfbar, solange Cover und KDP-Beschreibung
 fehlen. Danach Phase 5 (Kompilieren). A3, der Vorlese-Test am gedruckten Buch und
 Abschluss-Schritt 6 des Logik-Plans hängen weiterhin an S2-2 bzw. am fertigen Artefakt.
-**Durchgang C des Logik-Plans (Fair Play für das Buch-Rätsel) ist noch offen** — die
-Hinweisketten sind bisher nur für den Staffel-Bogen geprüft.
