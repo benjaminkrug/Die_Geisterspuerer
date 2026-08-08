@@ -38,9 +38,7 @@ Frau Brandt sah sie an, als hätte sie das nie so betrachtet.
 
 "Seit heute. Genießt es, es hält nicht lange an."
 
-Frau Brandt sah ihn an, und ihre Schultern sanken ein kleines Stück.
-
-Frau Brandt schwieg lange. Dann nickte sie, kaum merklich.
+Frau Brandt sah ihn an, und ihre Schultern sanken ein kleines Stück. Sie schwieg lange. Dann nickte sie, kaum merklich.
 
 ---
 

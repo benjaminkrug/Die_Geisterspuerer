@@ -12,9 +12,9 @@
 
 "Ich sag ja nur. Zeichen funktionieren nur, wenn zwei Leute dasselbe darüber wissen."
 
-Nora sah ihn an. Manchmal sagte er etwas, das viel klüger war, als er selbst merkte.
+Nora sah ihn an. Manchmal sagte er etwas, das viel klüger war, als er selbst mitbekam.
 
-Nora hatte trotzdem keine Antwort darauf. Sie leuchtete noch einmal auf das eingeritzte Zeichen und dachte an etwas anderes.
+Eine Antwort auf Frau Brandts Frage hatte sie trotzdem nicht. Sie leuchtete noch einmal auf das eingeritzte Zeichen und dachte an etwas anderes.
 
 Ein Zeichen zeigt auf etwas.
 

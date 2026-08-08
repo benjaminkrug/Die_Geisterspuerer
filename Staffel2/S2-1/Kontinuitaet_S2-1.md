@@ -420,6 +420,49 @@ gegensteuern.
 
 ---
 
+## STIMMEN-PRÜFUNG AKT 3 (durchgeführt 2026-08-07, nach K12)
+
+| Marker | Akt 1 | Akt 2 | **Akt 3** | Band 1 | Band 5 |
+|---|---|---|---|---|---|
+| Ø-Satzlänge | 7,47 | 7,22 | **6,47** | 4,74 | 6,38 |
+| Sätze > 18 W | 2 | 0 | **0** (1 Messartefakt) | 11 | 49 |
+| Dialoganteil | 37,5 % | 36,1 % | **36,5 %** | 50,5 % | 24,4 % |
+| Kurz-Absätze | 3,3 % | 6,0 % | **6,5 %** | 7,7 % | 9,6 % |
+| Gedankenstrich Erzähler | 1 | 0 | **0** | 1 | 46 |
+| „Und"-Satzanfang /1000 W | 0,52 | 0,25 | **1,74** (vorher 2,73) | 1,67 | 2,60 |
+
+### Befunde und was daraus folgte
+
+**1. ⚠️ PERSPEKTIVBRUCH in K11 — der schwerste Fund der bisherigen Prüfungen.**
+`Sie dachte an einen Werkzeugkasten…` stand unmittelbar **nach einer Replik von Frau
+Brandt**. Grammatisch verwies „Sie" damit auf Frau Brandt, gemeint war Nora. Gelesen als
+Frau Brandt wäre es ein Wechsel in eine fremde Figurenperspektive — Bruch der
+Kardinalregel der Reihe (3. Person, ausschließlich nah an Nora). **Behoben:** „Nora dachte".
+
+**2. „Und"-Formel als Enthüllungs-Einleitung.** Alle vier Akt-3-Kapitel führten ihren
+Fundmoment mit „Und [Enthüllung]" ein. Einzeln je gut, in Serie ein hörbares Muster —
+2,73/1000 W lag über Band 1 **und** über Band 5, also über dem Band, den der Prüfplan als
+formelhaft driftend markiert. **Vier von zehn variiert, sechs bewusst behalten**
+(u. a. „Und drückte zu." / „Und hinter ihr schrie Herbert." — die tragen). Jetzt 1,74,
+praktisch Band-1-Niveau. **Nicht genullt.**
+
+**3. Doppelte Absatzanfänge — eigene Bearbeitungsspuren.** K7 („Frau Brandt" / „Frau
+Brandt") und K10 („Nora" / „Nora") — beide Reste früherer Korrekturen, beide behoben.
+
+**4. „Sie" als Absatzanfang: geprüft, überwiegend NICHT beanstandet.** Akt 3 liegt bei
+16,9 % (Band 1: 4,8 %, Band 5: 14,4 %) — statistisch auffällig. **Alle 17 Vorkommen
+einzeln gelesen:** Bezug ist jeweils im Vorabsatz eindeutig gesetzt, keine
+Verwechslungsgefahr. In K12s Schlussszene ist die Häufung sogar bewusste Anapher
+(„Sie hielt nur." / „Sie hielt einfach weiter."), die den emotionalen Schluss trägt.
+**Mechanisches Kürzen hätte hier die beste Stelle des Kapitels beschädigt** — Falle 3
+(Zahlen statt Ohr). Einziger echter Fall war Punkt 1, und der ist behoben.
+
+**5. Ebenfalls geprüft, kein Handlungsbedarf:** Satzlänge (6,47 = Band-5-Niveau, unter der
+Stilblatt-Untergrenze), Kurz-Absätze (6,5 %, zwischen Akt 2 und Band 1), Gedankenstriche
+(0), „begriff/verstand/merkte" (buchweit 2, am Zielwert), Kanon-Leck (keins).
+
+---
+
 ## STIMMEN-PASS (Phase 4b)
 
 > Leeres Gerüst — läuft erst nach vollständigem Manuskript, vor dem Kompilieren

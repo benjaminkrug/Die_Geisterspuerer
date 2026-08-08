@@ -66,13 +66,13 @@ Der zweite Karton war Papier.
 
 Rechnungen. Ein Ordner mit Kontoauszügen. Eine Bedienungsanleitung für eine Waschmaschine, die es wahrscheinlich längst nicht mehr gab.
 
-Und ganz unten, in einer Plastiktüte, ein Stapel Umschläge.
+Ganz unten, in einer Plastiktüte, lag ein Stapel Umschläge.
 
 Theo zog ihn heraus und hielt ihn hoch.
 
 Sie waren alle gleich. Etwas größer als normale Briefe, in verschiedenen Farben, manche mit Blumen darauf, einer mit einem Kuchen. Geburtstagskarten.
 
-Und auf jedem einzelnen stand dieselbe Handschrift. Derselbe Name.
+Auf jedem einzelnen stand dieselbe Handschrift. Derselbe Name.
 
 Frau Brandts Name.
 
@@ -122,7 +122,7 @@ Theo dachte darüber nach. "Das ist ziemlich dumm."
 
 "Ja", sagte Frau Brandt. "Das war er auch. Ziemlich oft."
 
-Sie dachte an einen Werkzeugkasten, auf dessen Griffen jedes einzelne Teil seinen Namen trug. An einen Mann, der wollte, dass etwas seins war, und der es niemandem sagen konnte.
+Nora dachte an einen Werkzeugkasten, auf dessen Griffen jedes Teil seinen Namen trug. An einen Mann, der wollte, dass etwas seins war, und der es niemandem sagen konnte.
 
 ---
 
