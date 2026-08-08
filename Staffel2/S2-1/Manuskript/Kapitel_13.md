@@ -64,7 +64,7 @@ Schatten kam ins Zimmer.
 
 Er blieb nicht auf der Schwelle stehen. Er blieb überhaupt nicht stehen.
 
-Er lief quer durch den Raum, direkt an dem Schrank vorbei, und schnüffelte in der Ecke dahinter. In der Ecke, an der er wochenlang nicht vorbeigekommen war.
+Er lief quer durch den Raum, direkt an dem Schrank vorbei, und schnüffelte in der Ecke dahinter. In der Ecke, an der er bisher kein einziges Mal vorbeigekommen war.
 
 Dann setzte er sich hin und wedelte.
 
@@ -74,7 +74,7 @@ Dann setzte er sich hin und wedelte.
 
 "Ist das gut?"
 
-"Das ist das Beste." Sie musste schlucken. "Er hat sich dieses Zimmer nie angesehen. In vier Wochen nicht einen Schritt. Und jetzt sucht er da hinten nach Mäusen."
+"Das ist das Beste." Sie musste schlucken. "Er hat sich dieses Zimmer nie angesehen. Bei keinem einzigen Besuch. Und jetzt sucht er da hinten nach Mäusen."
 
 Theo lachte. Es klang halb erstickt.
 

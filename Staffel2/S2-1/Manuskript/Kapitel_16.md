@@ -153,7 +153,7 @@ Es war der erste Zettel. Sie wusste, dass es nicht der letzte bleiben würde.
 
 Nora sah ihn an.
 
-Vor sechs Wochen hatte sie genau denselben Satz gesagt, an genau diesem Tisch, und er hatte gelacht.
+Vor sechs Tagen hatte sie genau denselben Satz gesagt, an genau diesem Tisch, und er hatte gelacht.
 
 "Ja", sagte sie. "Ist es."
 

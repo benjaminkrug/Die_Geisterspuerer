@@ -765,4 +765,65 @@ es keine tragenden Stellen gegeben (Falle 2).
 künstlich angehoben — Absätze ohne Schock-Funktion zu befördern wäre genau die mechanische
 Bewegung, vor der Regel C und Falle 2 warnen. Für den menschlichen Read notiert.
 
-➡️ **Nächster Schritt: Phase 5** (Kompilieren) bzw. der `Qualitaets_Pruefplan`.
+---
+
+## ✅ LOGIK-PRÜFPLAN — DURCHGEFÜHRT 2026-08-07
+
+Stufe 1 der Qualitäts-Reihenfolge („Stimmt es?"). Durchgang A maschinell mit den geprüften
+Suchmustern aus `Scripts/pruefe_logik.py`, Durchgang B mit den acht Fragen.
+**12 Kandidaten → 3 echte Fehler, 1 Schwäche.**
+
+### 🔴 Drei Fehler — alle mit derselben Ursache
+
+Ich hatte die Beteiligung der Kinder geschrieben, als liefe sie **seit Wochen**.
+Tatsächlich umfasst die Handlung **sechs Tage** (K1 = Tag 1, K5 „zwei Tage später" = Tag 3,
+K5–K13 = Tag 3, K14/K15 = Tag 4, K16 „zwei Tage später" = Tag 6).
+
+| Kap. | vorher | nachher | Warum |
+|---|---|---|---|
+| K16 | „Vor **sechs Wochen** hatte sie genau denselben Satz gesagt" | „Vor **sechs Tagen**" | Bezug ist K1 = sechs Tage vorher |
+| K13 | „**In vier Wochen** nicht einen Schritt" | „**Bei keinem einzigen Besuch**" | Schatten kennt die Wohnung seit drei Tagen (erster Besuch K2) |
+| K13 | „an der er **wochenlang** nicht vorbeigekommen war" | „an der er **bisher kein einziges Mal** vorbeigekommen war" | dieselbe Ursache |
+
+### 🟠 Eine Schwäche
+
+K12: „**damals** bei Frau Brandt an der Tür" → „**vorgestern** an ihrer eigenen Wohnungstür".
+„Damals" für vorgestern; die Präzisierung verschärft nebenbei den Kontrast.
+
+### 🟡 Geprüft und bewusst stehen gelassen
+
+- **Alle Wochen-Angaben von Frau Brandt und Jule sind korrekt** — sie *wohnen* dort, die
+  Spukphase läuft wirklich seit ~drei Wochen (K13 „seit drei Wochen nicht geschlafen",
+  K15 „drei Wochen lang nicht in diesen Flur gewollt"). Nur die Kinderperspektive war falsch.
+- POV-Kandidaten (4): „Frau Brandt dachte nach", „Theo verstand nicht sofort" u. a. — alle
+  von außen beobachtbar, keine Gedankenwiedergabe fremder Figuren.
+- „Graven" (5×): 4× Stadtname Gravenstedt, 1× Rückbezug auf das Gewölbe unterm Gravenhaus —
+  zulässiger Bonus nach Regel 3, nicht handlungstragend.
+- ⚠️ **Foto aus K5** („Behaltet es") wird nie wieder erwähnt. Im Setup-Tracker als
+  *optional* geführt (#13), daher kein Fehler — aber ein loser Gegenstand. Für den
+  menschlichen Read notiert.
+
+### ⚪ Fehltreffer (Muster-Schwächen, Regel 5)
+
+- „zwölf von zwölf Markierungen" — korrekter Kanon
+- 2× „presste" als verdächtiges Sprechverb — beide sind **Handlungs**verben
+  („presste die Zähne zusammen"), die dokumentierte Fehltreffer-Klasse
+- **„K13 ohne Schatten-Reaktion"** — glatt falsch: K13 enthält den *stärksten* Schatten-Moment
+  des Buchs (er betritt erstmals das Zimmer und läuft hindurch). Der Katalog des Skripts kennt
+  nur Alarm-Verben und übersieht **Entwarnung**. Als Muster-Lücke gemeldet.
+
+### Abschlussprüfung (Abschnitt 7)
+
+1. `git diff`: **4 geänderte Zeilen**, jede einem Befund zugeordnet, keine Streuänderung ✅
+2. Skript erneut gelaufen: **keine neuen Treffer** ✅
+3. **Alle 16 Kapitel-Schlusssätze unverändert** ✅
+4. Setup/Payoff-Anker vollständig vorhanden ✅
+5. Wortdifferenz **−2 W** (Vorgabe: wenige Dutzend) ✅
+6. ⚠️ Prüfung am fertigen Artefakt **steht aus** — Phase 5 noch nicht gelaufen.
+
+**Stopp-Kriterium (Abschnitt 8):** 3 echte Fehler auf 16 Kapitel = 0,2 pro Kapitel, unter
+dem „0–1"-Schwellenwert. **Ein vollständiger Lese-Durchgang B ist laut Plan nicht angezeigt.**
+
+---
+
+➡️ **Nächster Schritt: Phase 5** (Kompilieren) bzw. `Qualitaets_Pruefplan` Teil A.
