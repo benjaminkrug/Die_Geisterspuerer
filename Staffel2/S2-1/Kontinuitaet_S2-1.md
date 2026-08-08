@@ -278,6 +278,18 @@ beim Kanon-Check zu K8.
   ⚠️ **Neue Kanon-Fakten aus diesem Kapitel:** Herr Kubiak (Hausmeister, Name jetzt fest) ·
   Schlosser-Termin = **August letztes Jahr** · Einzug der Brandts = **November** · Wohnung
   stand davor ~ein halbes Jahr leer · Schrank ≥30 Jahre im Haus.
+- **K9** (BEGINN AKT 3): Direkter Anschluss, gleicher Abend. Auf der Straße: Theo verdächtigt
+  Kubiak, Nora widerlegt sauber (wer etwas versteckt, führt kein Heft und zeigt es nicht her;
+  Schatten reagierte auf das Wort, nicht auf Kubiak). Nora denkt Kubiaks Nebensatz „jede
+  Wohnung, auch die leerstehenden" weiter — **Herbert ist vermutlich nicht der Erste**
+  (bewusst nur angedeutet, nicht verfolgt: Staffel-Faden für S2-2). Sie gehen abends nochmal
+  hoch; Frau Brandts Tochter schläft im Elternbett, fragt nichts mehr. Nora sucht den Schrank
+  erstmals **als bearbeitetes Objekt** ab, nicht als Möbel, und findet unten an der rechten
+  Tür ein ausgespartes glattes Feld mit einem fein eingeritzten **Schloss-Symbol** — scharfe
+  Linien, Staub obenauf, also viel später angebracht als die Schnitzereien. Schlusserkenntnis:
+  ein Zeichen ist nie für den gemacht, der es anbringt (BILD).
+  ⚠️ **Neu:** Der Reif aus K6 ist weg — Frau Brandt hat das Holz abgewischt. Bewusst gesetzt,
+  damit der Fund in K9 auf dem Symbol liegt und nicht auf Resten des Vorkapitels.
 
 ---
 
@@ -285,7 +297,7 @@ beim Kanon-Check zu K8.
 
 - ✅ Akt 1 (K1–4) — abgeschlossen, alle vier Kapitel geschrieben
 - ✅ Akt 2 (K5–8) — abgeschlossen, alle vier Kapitel geschrieben
-- ⬜ Akt 3 (K9–12) — noch nicht geschrieben
+- 🔶 Akt 3 (K9–12) — in Arbeit, K9 geschrieben
 - ⬜ Akt 4 (K13–16) — noch nicht geschrieben
 
 ---
@@ -302,6 +314,8 @@ beim Kanon-Check zu K8.
 | K6 | ~980 | 45,9 % — eine durchgehende Szene, direkte Fortsetzung von K5 | ⚠️ unter dem 1.200-Minimum, gleicher Grund wie K3/K4 (eine intensive Szene ohne Ortswechsel); alle drei geplanten Beats vollständig erzählt, im Stimmen-Pass gegenprüfen |
 | K7 | ~895 | 44,3 % — emotionale Kernszene, bewusst knapp gehalten | ⚠️ unter dem 1.200-Minimum, gleicher Grund wie K3/K4/K6 (eine intensive Szene); Straffheit dient hier der emotionalen Wirkung, im Stimmen-Pass gegenprüfen |
 | K8 | ~1.040 | 39,7 % — Ermittlungskapitel, Befragungsszene trägt den Großteil | ⚠️ knapp unter dem 1.200-Minimum, siehe geklärte Kapitellängen-Frage unten |
+
+| K9 | ~965 | 35,7 % — Ermittlung + Suchsequenz als Klimax | ✅ Ø-Satz 6,73 · 0 Verstöße · exakt auf Band-5-Schnitt (939 W) |
 
 ⚠️ **Messkorrektur (Stimmen-Prüfung Akt 2):** Die Dialog-Prozentwerte für K1–K8 waren in
 früheren Einträgen dieser Tabelle **zu hoch angesetzt**. Die alte Methode zählte einen

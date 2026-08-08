@@ -97,3 +97,25 @@ Cliffhanger-Schlusszeilen).
 vergleichen, sondern muss die **konkrete Beat-Abfolge** prüfen. Zwei verschieden benannte
 Cliffhanger können dieselbe Szene sein. Bei K13/K14 (bereits als Intensitäts-Risiko notiert)
 und bei K9/K10 (BILD → KOMPLIKATION, beide am Schrank) **vor dem Schreiben gegenprüfen**.
+
+### ✅ Beat-Prüfung K9/K10 — durchgeführt vor dem Schreiben von K9 (2026-08-07)
+
+| | K9 (BILD) | K10 (KOMPLIKATION) |
+|---|---|---|
+| Auslöser | Entdeckung — etwas war immer da | eigene Handlung scheitert |
+| Reaktion der Gruppe | stilles Hinsehen | Frust / Ratlosigkeit |
+| Schlussbild | das Zeichen selbst | Folge des Scheiterns |
+
+**Ergebnis:** Auslöser sind gegensätzlich (passiv/aktiv), keine Deckung. K9/K10 sind
+unbedenklich.
+
+⚠️ **Aber: Die Prüfung hat ein anderes Risiko sichtbar gemacht — K6 ↔ K10.** Beide sind
+„sie versuchen den Schrank zu öffnen und scheitern". Das steht in **keiner** Registerzeile
+nebeneinander, weil vier Kapitel dazwischenliegen — genau die Art Doppelung, die eine reine
+Nachbarschaftsprüfung nicht findet.
+
+**Zwingende Vorgabe für K10:** Das Scheitern muss **informativ** sein, anders als in K6.
+K6 lehrte nur „zu". K10 muss zeigen, dass das Schloss nach dem Gewaltversuch **völlig
+unversehrt** ist — kein Kratzer, kein Verzug, als greife Kraft daran nicht an. Genau das
+trägt K12s Wende („Sanftheit statt Kraft"). Ohne diesen Unterschied ist K10 eine
+Wiederholung von K6.
