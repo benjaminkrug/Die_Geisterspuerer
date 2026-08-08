@@ -161,3 +161,54 @@ ermüdend, wenn sie diesmal gelingt. **Vorgaben für K14:**
 2. Der Auslöser ist die **zwölfte, versiegelte Karte** (Setup #9), keine andere.
 3. Das Gehen muss sich **anders anfühlen** als in K3/K7: dort brach es ab, hier trägt es
    durch. Beschreibungsvokabular bewusst nicht recyceln.
+
+---
+
+## ✅ Korrektur nach dem Spannungs-Prüfplan (2026-08-08) — K4
+
+**Befund:** K4 war der einzige der 16 Cliffhanger, der Frage 7 nicht bestand
+(„Frage, Drohung oder Umkehrung"). Der Schlussabsatz lautete:
+
+> ~~Nicht nur, warum er nicht gehen wollte. Das wusste Nora längst. Sondern was ihn
+> buchstäblich davon abhielt.~~
+
+**Drei Gründe, unabhängig voneinander:**
+
+1. **Dritte Nennung derselben Sache im selben Kapitel.** Szene 2 sagt es („solange das da
+   ist, reicht Zuhören allein nicht"), Theo sagt es im Absatz davor. Der Absatz ergänzte
+   genau ein Wort: „buchstäblich". → Killer 3 (Verknappen).
+2. **Er nahm K6 die Pointe vorweg.** K6, Szene 2: *„WARUM war nie das eigentliche Problem
+   gewesen. Es war immer das WAS."* — dieselbe Denkfigur, derselbe Inhalt, zwei Kapitel
+   später und dort in Großbuchstaben als Erkenntnis gesetzt.
+   ⚠️ **Das ist ein Treffer für Falle 11:** Der Wiederholungs-Pass sucht wiederholte
+   *Formulierungen*; das hier war eine wiederholte **Figur**. Zwei Passes sind daran
+   vorbeigelaufen.
+3. „Das wusste Nora längst" ist die flache Wissensformel, die Regel D des
+   Stimmen-Prüfplans auflösen soll.
+
+Dazu: Die Schlussszene war mit 334 W die **längste Szene des Buchs ganz ohne Schatten** —
+in dem Kapitel, in dem er kurz zuvor als Wache vor Herbert steht.
+
+**Neuer Schluss (Eingriffstiefe Stufe 2, ein Absatz ersetzt):**
+
+> Schatten setzte sich vor die Haustür und ging nicht weiter.
+>
+> Nora musste ihn zweimal rufen.
+
+| | |
+|---|---|
+| Typ geplant | GEDANKE/ENTSCHLUSS |
+| Typ realisiert | **BILD** (Schlussbild ist der Hund) — der Entschluss bleibt, er liegt jetzt in Theos Replik |
+| Sog | offene Frage: *Warum will der Hund nicht weg?* |
+| Subtext | zahlt K4 Szene 1 ein („eine Wache, die weiß, dass sie nichts ausrichten kann, aber trotzdem bleibt") — er lässt ungern jemanden zurück. Steht nirgends, der Leser schließt es. |
+| Serien-Echo | dreht Band 2s Eröffnung um: dort *„Schatten wollte nicht rein."*, hier will er nicht raus |
+
+**Muster-Wächter, neu geprüft:** Nachbarn K3 = AKTION, K5 = STIMME/GERÄUSCH → keine
+Dopplung in Folge. BILD steht damit 4× (K2, K4, K9, K14), K2 und K4 nur zwei auseinander.
+⚠️ **Das ist ausdrücklich als Falle 10 zu werten und kein Befund:** K2s Bild ist eine
+Erscheinung im Türspalt, K4s ein Hund, der sich hinsetzt. Der Wächter vergleicht Etiketten,
+nicht Szenen. Gehört, nicht gezählt: die beiden Kapitelenden haben nichts gemeinsam.
+
+**Kollisionsprüfung der neuen Formulierung (Regel 3):** „Gehweg" steht in K8, „rührte sich
+nicht" in K11, „Ohren flach" in K5, „sah zurück" drei Absätze höher im selben Kapitel —
+alle vermieden. „zweimal rufen" kommt im Buch sonst nicht vor.

@@ -12,7 +12,7 @@
 
 "Ich sag ja nur. Zeichen funktionieren nur, wenn zwei Leute dasselbe darüber wissen."
 
-Nora sah ihn an. Manchmal sagte er etwas, das viel klüger war, als er selbst mitbekam.
+Nora sah ihn an. Er merkte es nicht mal.
 
 Eine Antwort auf Frau Brandts Frage hatte sie trotzdem nicht. Sie leuchtete noch einmal auf das eingeritzte Zeichen und dachte an etwas anderes.
 

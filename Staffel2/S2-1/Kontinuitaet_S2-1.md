@@ -928,6 +928,99 @@ Die Struktur von S2-1 ist im Reihenvergleich die sauberste bisher.
 
 ---
 
-➡️ **Nächster Schritt: Stufe 3** — `Dokumentation/Spannungs_Pruefplan.md` („Ist es
-langweilig?"). Danach Stufe 5 (Teil B) und Phase 5 (Kompilieren); A3 und Abschluss-Schritt 6
-des Logik-Plans hängen an S2-2 bzw. am fertigen Artefakt.
+---
+
+## ✅ SPANNUNGS-PRÜFPLAN — DURCHGEFÜHRT 2026-08-08
+
+> Stufe 3 des Gesamtprozesses: „Ist es langweilig?" Teil A mit dem Snippet aus dem Plan
+> über alle 16 Kapitel, Teil B als Lese-Durchgang über **alle 78 Szenen** mit den 7 Fragen.
+
+### Teil A — Messung
+
+| Kennzahl | Grün | Gelb | Rot | S2-1 |
+|---|---|---|---|---|
+| längster dialogfreier Block | <130 | 130–180 | >180 | **Max 153 W (K1)** — kein Rot |
+| Dialog-Anteil | 30–45 % | 20–30 | <20 | 13/16 grün, Rest 29 % — kein Rot |
+| Sätze >18 W | ≤3 | 4–6 | >6 | **0 echte in allen 16** |
+| Wörter | 950–1.300 | 1.300–1.500 | >1.500/<850 | 14 grün, K9+K11 gelb, K4 803 W |
+
+**Reihenvergleich tote Zone:** Band 1 = 321 W · Band 2 = 249 · Band 3 = 218 · Band 4 = 196 ·
+Band 5 = 220 · **S2-1 = 153**. Bester Wert der Reihe.
+
+⚪ **Sechs Roh-Treffer „Satz >18 W" — alle sechs Messartefakte.** Der Regex hängt ein
+Anführungszeichen oder einen `---`-Trenner an den Satzanfang; die echten Sätze haben exakt
+18 Wörter (K4, K5, K7, K11), bei K1 gehört die Hälfte zur Figurenrede, bei K16 ist es der
+kursive Listenblock. Bestätigt Falle 9.
+
+⚪ **K4 mit 803 W unter der Rot-Schwelle — kein Befund.** Band 5 hat fünf Kapitel unter 850
+(Minimum 754), Band 4 eines. Die Schwelle beschreibt Band 1–3, nicht die aktuelle Praxis.
+K4 ist ein reines Reaktionskapitel nach zwei Schocks; Kürze ist dort richtig.
+
+### Teil B — 7 Fragen über alle 78 Szenen
+
+| Frage | Befund |
+|---|---|
+| 1 Haken | 70 von 78 Szenenenden tragen Sog weiter; 8 sind Gefühls-/Schatten-Beats in bewusst ruhigen Kapiteln — **eines davon stand an einer Kapitelgrenze (K4)** |
+| 2 Vorwärts | ✅ kein Stillstand; die Risikokapitel K5 (Küchentisch) und K11 (Karton) sind beide durch Handlung gebrochen (Raumtest / Keller-Split) |
+| 3 zäher Block | ✅ null — höchster Wert 153 W |
+| 4 Schatten | ✅ alle 16 Kapitel; **eine Lücke behoben** (K4 Schlussszene), eine bewusst gelassen |
+| 5 Subtext | ✅ stark; **ein Satz erklärte statt zu zeigen** (K10) |
+| 6 Rhythmus | ✅ Ø 6,8 W/Satz, viele Ein-Satz-Absätze, null echte Überlängen |
+| 7 Cliffhanger | **15 von 16 stark**, einer fiel ab (K4) |
+
+### 🟠 Befund 1 — der Schluss von K4 *(behoben)*
+
+Vollständig dokumentiert im [Cliffhanger-Register](Cliffhanger_Register_S2-1.md),
+Abschnitt „Korrektur nach dem Spannungs-Prüfplan". Kurz: Der Schlussabsatz sagte zum
+dritten Mal dasselbe, nahm K6 die Pointe vorweg (**Falle 11: wiederholte Figur, nicht
+wiederholte Formulierung — zwei Passes liefen daran vorbei**) und enthielt die
+Wissensformel „Das wusste Nora längst". Ersetzt durch:
+
+> Schatten setzte sich vor die Haustür und ging nicht weiter.
+>
+> Nora musste ihn zweimal rufen.
+
+Schließt zugleich die längste schattenlose Szene des Buchs (334 W) und legt Setup #21.
+
+### 🟠 Befund 2 — ein Satz in K10 *(behoben)*
+
+> ~~Nora sah ihn an. Manchmal sagte er etwas, das viel klüger war, als er selbst mitbekam.~~
+> **Nora sah ihn an. Er merkte es nicht mal.**
+
+Der Erzähler erklärte die Pointe (Frage 5: „nichts zu füllen = langweilig"), und es war die
+zweite Auflage derselben Figur — K5 hat nach Theos guter Idee „Nora sah ihn an. Es war ein
+guter Plan, und er war nicht von ihr gekommen." Die K5-Fassung **zeigt**, die K10-Fassung
+**erklärte**. Elf Wörter auf fünf verkürzt, der Theo-Bogen läuft unverändert auf K12 zu.
+
+### ⚪ Bewusst stehen gelassen
+
+- **K11 läuft 725 W ohne Schatten** — die längste Mittelstrecke ohne ihn. Es ist die
+  Küchenszene, in der drei Menschen Karten lesen; ein Hund unter dem Tisch fehlt dort
+  nicht. Direkt danach kommt sein stärkster ruhiger Beat (er setzt sich vor die
+  Gartenhandschuhe).
+- **K14 S2 bis K15 S2 = 1.101 W ohne Schatten**, die absolut längste Lücke. K14 Szene 1
+  lizenziert sie ausdrücklich im Text: „Er sah aus wie ein Hund, der wartet, bis die
+  Menschen fertig sind."
+- **K16 S1–S5 = 799 W ohne Schatten** — weil die Schlussszene des Buchs ganz ihm gehört.
+
+### Abschlussprüfung
+
+1. `git diff`: **2 Dateien, 3 geänderte Zeilen**, beide einem Befund zugeordnet ✅
+2. Neu gemessen, keine Regression: K4 811→809, K10 1070→1063, Blöcke unverändert,
+   keine neuen Langsätze, Dialog K10 35→36 % ✅
+3. Alle übrigen 15 Kapitel-Schlusssätze unverändert ✅
+4. Cliffhanger-Register und Setup/Payoff-Tracker nachgeführt (Regel E) ✅
+5. Wortdifferenz **−9 W** ✅
+
+### Bilanz
+
+**2 Befunde (🟠), 3 Zeilen geändert, 2 Fehltreffer begründet verworfen, 3 Stellen bewusst
+gelassen.** Kein 🔴. Teil A liefert bei den drei Struktur-Kennzahlen **null rote Kapitel** —
+das hat in der Reihe bisher kein Band erreicht.
+
+---
+
+➡️ **Nächster Schritt: Stufe 5** — `Qualitaets_Pruefplan` Teil B („Hält es sein
+Versprechen?": Cover, Titel, KDP-Beschreibung gegen das fertige Buch). Danach Phase 5
+(Kompilieren) und Stufe 6 (Teil F). A3 und Abschluss-Schritt 6 des Logik-Plans hängen
+weiterhin an S2-2 bzw. am fertigen Artefakt.

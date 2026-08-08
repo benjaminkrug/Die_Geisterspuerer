@@ -84,4 +84,6 @@ Draußen war es fast dunkel geworden. Nora blieb kurz stehen und sah zurück zum
 
 Theo nickte, alle Scherze für den Moment vergessen. "Und wenn wir wissen, wonach wir suchen — dann finden wir auch, was ihn hier festhält."
 
-Nicht nur, warum er nicht gehen wollte. Das wusste Nora längst. Sondern was ihn buchstäblich davon abhielt.
+Schatten setzte sich vor die Haustür und ging nicht weiter.
+
+Nora musste ihn zweimal rufen.

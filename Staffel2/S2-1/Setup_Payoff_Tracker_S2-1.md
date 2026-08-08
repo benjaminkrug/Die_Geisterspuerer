@@ -125,6 +125,17 @@ Zweck: Der Leser weiß ab Wort 0, **worauf er wartet**. Damit ist die ruhige Er�
 Erwartung statt einer Verzögerung. Ergänzt zugleich die Klammer zu K16, das ebenfalls auf
 einer Schatten-Beobachtung endet („Er legte sich nicht wieder hin.").
 
+### Nachtrag Spannungs-Prüfplan (2026-08-08) — Setup #21
+
+| # | Setup | Payoff | Status |
+|---|---|---|---|
+| 21 | **K4 Schluss:** Schatten setzt sich vor die Haustür und geht nicht weiter; Nora muss ihn zweimal rufen | **K13:** Er betritt das Schrankzimmer, läuft hindurch, setzt sich hin und wedelt | ✅ |
+
+Der Hund weigert sich als Erster zu gehen, weil noch jemand drinnen ist — und er ist als
+Erster wieder drin, sobald niemand mehr festgehalten wird. Beides ungesagt. Verbindet
+zugleich K4 Szene 1 („eine Wache, die weiß, dass sie nichts ausrichten kann, aber
+trotzdem bleibt") mit dem stärksten Schatten-Moment des Buchs.
+
 ---
 
 ## E. Regeln für die Pflege
