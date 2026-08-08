@@ -281,7 +281,19 @@ beim Kanon-Check zu K8.
   ⚠️ **Neue Kanon-Fakten aus diesem Kapitel:** Herr Kubiak (Hausmeister, Name jetzt fest) ·
   Schlosser-Termin = **August letztes Jahr** · Einzug der Brandts = **November** · Wohnung
   stand davor ~ein halbes Jahr leer · Schrank ≥30 Jahre im Haus.
-- **K9** (BEGINN AKT 3) ⚠️ **enthält seit dem Abwechslungs-Umbau Jules ersten Auftritt**
+- **K9** (BEGINN AKT 3) ⚠️ **enthält seit dem Abwechslungs-Umbau eine Heimszene**: Theo
+  besteht darauf, erst nach Hause zu gehen („Es ist halb sieben, ich hab seit dem
+  Marmeladenbrot nichts gegessen") — sein zweiter eigenständiger Beschluss nach K5.
+  Kirchgasse 14: Zwiebelgeruch, Radio, Licht, Wärme. Mama fragt beiläufig nach, Nora gibt
+  eine Halbwahrheit und stellt fest, **dass sie dafür nicht mehr überlegen muss** („Das ging
+  inzwischen von allein, und das war das Unangenehme daran") — direkter Arc-Beitrag zur
+  Frage, ob sie die Hüter-Rolle tragen kann, ohne etwas zu verlieren.
+  ⚠️ **Schließt zugleich eine Plausibilitätslücke:** Mama geht um acht zur **Nachtschicht**.
+  Damit ist erklärt, warum zwei Kinder die ganze folgende Nacht unterwegs sein können, ohne
+  dass jemand nachfragt. Vorher fehlte das über neun Kapitel komplett.
+  ⚠️ Danach kehren sie um Viertel nach acht zurück — **kein Tageswechsel**, die Dringlichkeit
+  bleibt erhalten, und Jules Nachtszene funktioniert weiterhin.
+  Enthält außerdem **Jules ersten Auftritt**
   (Setup): Sie wacht nachts auf und steht barfuß mit einem Wasserglas im Flur. **Nicht
   panisch — sachlich.** „Sind das die, die das wegmachen?" · „Okay." Mehr nicht. Damit wird
   Frau Brandts Satz aus demselben Kapitel („Sie fragt nichts mehr. Das ist das Schlimme")
@@ -469,7 +481,7 @@ beim Kanon-Check zu K8.
 - ✅ Akt 2 (K5–8) — abgeschlossen, alle vier Kapitel geschrieben
 - ✅ Akt 3 (K9–12) — abgeschlossen, alle vier Kapitel geschrieben
 - ✅ Akt 4 (K13–16) — abgeschlossen, alle vier Kapitel geschrieben
-- 🎉 **S2-1 „Der Gast, der blieb" ist vollständig — 16/16 Kapitel, 16.395 Wörter.**
+- 🎉 **S2-1 „Der Gast, der blieb" ist vollständig — 16/16 Kapitel, 16.598 Wörter.**
 
 ---
 
@@ -486,7 +498,7 @@ beim Kanon-Check zu K8.
 | K7 | ~895 | 44,3 % — emotionale Kernszene, bewusst knapp gehalten | ⚠️ unter dem 1.200-Minimum, gleicher Grund wie K3/K4/K6 (eine intensive Szene); Straffheit dient hier der emotionalen Wirkung, im Stimmen-Pass gegenprüfen |
 | K8 | ~1.040 | 39,7 % — Ermittlungskapitel, Befragungsszene trägt den Großteil | ⚠️ knapp unter dem 1.200-Minimum, siehe geklärte Kapitellängen-Frage unten |
 
-| K9 | ~1.135 | **32,8 %** — Ermittlung + Suchsequenz + Jules Auftritt | ⚠️ Ø-Satz 6,71 · 0 Verstöße · **Dialog unter 35 %** seit dem Jule-Einbau |
+| K9 | ~1.335 | **32,3 %** — vier Szenen: Straße, Zuhause, Jule, Suche | ⚠️ Ø-Satz 6,62 · 0 Verstöße · **längstes Kapitel des Buchs** · Dialog unter 35 % |
 | K10 | ~1.050 | 35,8 % — Fund, Werkzeugszene, Fehlschlag | ✅ Ø-Satz 6,38 · 0 Verstöße · Kurz-Absätze 6,1 % |
 | K11 | ~1.315 | 34,2 % — zwei Schauplätze (Keller + Küche) | ✅ Ø-Satz 6,61 · 0 echte Verstöße · Kurz-Abs 6,6 % · **längstes Kapitel des Buchs**, trägt aber zwei Orte |
 | K12 | ~950 | 38,7 % — Synthese + Ausführung, Aktschluss | ✅ Ø-Satz 6,18 · 0 Verstöße · Kurz-Absätze 8,9 % |
@@ -607,8 +619,8 @@ Umformulieren neu entstandener 19-Wort-Satz wurde sofort gesplittet.
 | Marker | **S2-1** | Band 1 | Band 5 | Bewertung |
 |---|---|---|---|---|
 | Kapitel | 16 | 18 | 18 | |
-| Wörter gesamt | **16.395** | 26.988 | 16.910 | knapp unter Band 5, gleiche Größenordnung |
-| Ø je Kapitel | **1.025** | 1.499 | 939 | leicht über Band-5-Niveau |
+| Wörter gesamt | **16.598** | 26.988 | 16.910 | knapp unter Band 5, gleiche Größenordnung |
+| Ø je Kapitel | **1.037** | 1.499 | 939 | leicht über Band-5-Niveau |
 | Ø-Satzlänge | **6,82** | 4,74 | 6,38 | zwischen beiden, unter Stilblatt-Untergrenze |
 | Sätze > 18 W | **0 echte** (4 Messartefakte) | 11 | 49 | strenger als beide Referenzbände |
 | Dialoganteil | **37,1 %** | 50,5 % | 24,4 % | im Zielband 35–45 % |

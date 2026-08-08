@@ -56,9 +56,47 @@ Schatten blieb ebenfalls stehen und sah zu ihr hoch. Er wedelte einmal, kurz, al
 
 "Wir gehen nochmal hoch."
 
-"Das ist nicht Pizza. Das ist das Gegenteil von Pizza."
+"Nein." Theo blieb stehen. "Erst nach Hause."
 
-Aber er drehte trotzdem um, noch bevor sie es tat.
+"Theo —"
+
+"Es ist halb sieben. Ich hab seit dem Marmeladenbrot nichts gegessen, und der Hund auch nicht." Er deutete auf Schatten, der prompt aufsah, als hätte er seinen Namen gehört. "Eine Stunde. Dann gehen wir wieder."
+
+Nora wollte widersprechen. Dann merkte sie, wie kalt ihre Hände waren.
+
+"Eine Stunde", sagte sie.
+
+---
+
+Zuhause roch es nach Zwiebeln.
+
+Das war so gewöhnlich, dass Nora einen Moment in der Tür stehen blieb. Licht, Wärme, Radio in der Küche. Kein Reif auf irgendwelchen Möbeln.
+
+"Ihr seid spät", sagte Mama, ohne sich umzudrehen.
+
+"Wir waren bei jemandem." Nora zog die Jacke aus. "Eine Bekannte von Frau Held. Die hatte ein Problem."
+
+"Und, gelöst?"
+
+"Noch nicht ganz."
+
+Nora hörte sich selbst zu. Sie musste für so einen Satz gar nicht mehr überlegen. Das ging inzwischen von allein, und das war das Unangenehme daran.
+
+Schatten fraß, als hätte er drei Tage nichts bekommen.
+
+"Ich muss um acht los", sagte Mama. "Wieder Nachtschicht. Ihr kriegt das hin?"
+
+"Wir kriegen das hin."
+
+"Türen zu, Handy an." Sie drehte sich um und sah Nora an, einen Moment zu lang. "Du siehst müde aus."
+
+"Bin ich auch."
+
+Mehr fragte sie nicht. Nora war dankbar dafür und schämte sich gleichzeitig ein bisschen.
+
+Um zehn nach acht fiel unten die Haustür ins Schloss.
+
+Um Viertel nach acht standen Nora und Theo wieder in ihren Jacken.
 
 ---
 
@@ -139,10 +177,6 @@ Die linke Tür: nichts. Die Seitenwand: nichts. Die Leiste über dem Boden, halb
 Ihre Knie taten weh. Der Akku fiel unter zwanzig Prozent.
 
 "Und wenn da nichts ist?", fragte Theo leise.
-
-"Dann ist da nichts."
-
-"Und dann?"
 
 "Dann such ich morgen weiter." Nora rutschte ein Stück zur Seite. "Halt mal das Licht."
 
