@@ -83,7 +83,7 @@ Theo wurde langsamer, so wie immer, wenn er etwas wirklich verstand.
 
 "Wie eine Falle im Wald", sagte Theo. "Die wartet auch nicht auf ein bestimmtes Tier."
 
-Nora hätte gern widersprochen. Sie fand keinen Grund.
+Nora hätte gern widersprochen. Und sie fand keinen Grund.
 
 ---
 

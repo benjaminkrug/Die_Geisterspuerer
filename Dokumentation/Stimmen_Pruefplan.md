@@ -90,6 +90,29 @@ Immer relativ zur Buchlänge rechnen (pro 1.000 Wörter), nie absolut.
 > ### ⚠️ ZWEI HARTE REGELN aus dem ersten realen Pass (2026-07-17) — vor jedem Pass lesen
 > 1. **Nur /1.000 W vergleichen, nie Rohzahlen.** Band 1 = 27.006 W, Band 5 = 16.934 W. Gleiche Rohzahl = 1,6× Dichte. (→ Korrektur A)
 > 2. **Dialog-% ist KEIN Ziel dieses Passes.** Band 5 (31 %) hat exakt das Profil von Band 1 — beide 12 von 18 Kapiteln unter 35 %. Wer hier „nachbessert", zieht das Buch von der Benchmark weg und fasst Tabu-Material an. (→ Korrektur B)
+>
+> ### 🔴 KORREKTUR ZU KORREKTUR B (2026-08-07, beim S2-1-Pass nachgemessen)
+> **Die Begründung von Punkt 2 stimmt faktisch nicht.** Gemessen als Wortanteil *innerhalb*
+> der Anführungszeichen, kapitelweise:
+>
+> | | Kapitel unter 35 % | Buch-Schnitt | Spanne |
+> |---|---|---|---|
+> | Band 1 | **3 von 18** | 45,6 % | 28–59 % |
+> | Band 5 | **17 von 18** | 24,5 % | 12–37 % |
+>
+> Nicht „beide 12 von 18", sondern **fast das Gegenteil**. Die beiden Bände haben beim Dialog
+> **gegensätzliche** Profile — die Serie ist von 45,6 % auf 24,5 % gefallen, also ein Drift
+> in derselben Größenordnung wie bei den „Und"-Anfängen (2,26 → 8,59 vor dem B5-Pass).
+>
+> ⚠️ **Was daraus folgt und was nicht:** Punkt 2 bleibt als *Verfahrensregel* richtig — Dialog
+> steht auf der Tabu-Liste, und dieser Pass soll ihn nicht anfassen. **Falsch ist nur die
+> Begründung**, Dialog-% sei kein aussagekräftiger Wert. Er ist einer, nur gehört er nicht
+> hierher, sondern in den `Qualitaets_Pruefplan`. Wer künftig mit dem alten Satz argumentiert,
+> „Dialog-% sagt nichts aus", zieht die falsche Schlussfolgerung aus einer falschen Zahl.
+>
+> *(Mögliche Ursache des Fehlers: die alte Zahl wurde vermutlich mit der Absatz-Heuristik
+> gemessen — Absatz zählt als Dialog, wenn er mit einem Anführungszeichen beginnt. Die
+> überschätzt systematisch, siehe Falle 9.)*
 
 ---
 
@@ -322,3 +345,61 @@ Dialog anzufassen — und Dialog steht auf der **Tabu-Liste (Abschnitt 7)**. Nie
 „Und" zuerst (größter Hebel, geringstes Risiko) → Kurz-Absätze (Regel C) → Einzelformeln
 → zuletzt Erkenntnis-Formeln. **Danach zwingend: beide Prüfpläne neu messen + Setup-Payoff-
 Tracker und Cliffhanger-Register gegenlesen** (Regel E).
+
+---
+
+## 11. S2-1 — zweiter realer Pass: ABGESCHLOSSEN 2026-08-07
+
+Buch: `Staffel2/S2-1/` „Der Gast, der blieb", 16 Kapitel, 16.615 W.
+Gemessen mit dem Skript aus Abschnitt 5, unverändert.
+
+### Baseline vs. Ergebnis
+
+| Marker | Budget | Band 1 | **S2-1 vorher** | **S2-1 nachher** |
+|---|---|---|---|---|
+| „Und"-Satzanfang (Erzähler) /1000 W | 2,3 (bis 4,0) | 2,26 | **0,78** 🔴 | **1,81** ✅ |
+| „Und dann" /1000 W | 0,5 (bis 1,0) | 0,41 | 0,36 ✅ | 0,36 ✅ |
+| „Zum ersten Mal" /1000 W | 0,4 (bis 0,8) | 0,33 | 0,30 ✅ | 0,30 ✅ |
+| Dramatische Kurz-Absätze | 7–8 % (bis 9) | 7,7 % | 6,2 % 🟡 | 6,2 % 🟡 |
+| „Nora begriff/verstand/merkte" | ≤ 2 | — | **0** ✅ | 0 ✅ |
+| „das Schlimmste" | ≤ 2 | — | **1** ✅ | 1 ✅ |
+| Gedankenstrich /1000 W | ≤ 5,5 | 0,04 | 1,44 ✅ | 1,44 ✅ |
+| Leitmotiv, dichtester Akt | ≤ 6 /1000 W | — | — | **4,1** („Schloss", Akt 3) ✅ |
+
+### Der einzige echte Befund: Falle 1 hatte zugeschlagen — in die andere Richtung
+
+Sieben von acht Budgets waren schon vor dem Pass erfüllt. Der Ausreißer war **„Und"-Erzähler
+mit 0,78 — ein Drittel der Band-1-Dichte.** Ursache: In den vorangegangenen aktweisen
+Prüfungen wurde gegen eine **selbstgebaute, breitere Regex** gemessen statt gegen das Skript
+aus Abschnitt 5, und dabei auf einen zu niedrigen Zielwert hin gekürzt. Genau das beschreibt
+**Falle 1 (Über-Korrektur)** — nur ist sie hier nicht durch Übereifer beim Kürzen entstanden,
+sondern durch eine **falsche Messmethode**.
+
+**Behoben durch Wieder-Aufbau, nicht durch Kürzen:** 17 „Und"-Satzanfänge ergänzt, verteilt
+über 15 der 16 Kapitel — vier davon Rücknahmen eigener Streichungen aus früheren Pässen,
+dreizehn an neuen Rhythmus-Stellen (kurzer Nachschlagsatz nach längerem Vorsatz). 0,78 → 1,81.
+
+⚠️ **Bewusst NICHT auf 2,26 gebracht.** Für die letzten ~7 Instanzen hätte es keine tragenden
+Stellen mehr gegeben; Einfügen um der Zahl willen wäre **Falle 2** (der Pass erzeugt selbst
+ein Muster). 80 % der Benchmark-Dichte an echten Stellen ist besser als 100 % an erzwungenen.
+
+### Regel-B- und Regel-E-Kontrolle
+
+- Sätze > 18 W: **4 → 4** (alle vier verifizierte Messartefakte, keine echten Verstöße)
+- Ø-Satzlänge: 6,79 → **6,80** · Dialoganteil: 36,5 % → **36,5 %** (unverändert)
+- Ø-Absatzlänge: **14,1 W** (Grenze ~18)
+- **Alle 16 Cliffhanger-Schlusszeilen unangetastet** (gegen `Cliffhanger_Register` geprüft)
+- Tabu-Liste eingehalten: kein Dialog, kein erster/letzter Kapitelsatz angefasst
+
+### Was dieser Pass über den Plan selbst gelernt hat
+
+1. **Falle 1 kann durch Messfehler entstehen**, nicht nur durch Übereifer. Wer mit einer
+   eigenen Regex arbeitet, unterläuft die Vergleichbarkeit, die Abschnitt 5 herstellen soll.
+   → **Ohne Ausnahme das Skript aus Abschnitt 5 verwenden.** Auch für Zwischenprüfungen.
+2. **Korrektur B enthielt eine falsche Zahl** (siehe die rote Korrektur in Abschnitt 4).
+3. Der Marker „Zum ersten Mal" ist im Skript **eng** definiert (`[Zz]um ersten Mal`) und
+   erfasst „beim ersten Mal" / „das erste Mal" **nicht**. Beim S2-1-Pass wurde vorher gegen
+   die breite Variante optimiert — strenger als der Plan verlangt, aber nicht schädlich.
+4. **Der n-Gramm-Scan (Falle 11) gehört wirklich vor den Marker-Pass.** Er fand in S2-1 neun
+   wiederholte Wendungen, die kein Marker dieses Plans gemeldet hätte — darunter eine achtmal
+   verwendete Geste.

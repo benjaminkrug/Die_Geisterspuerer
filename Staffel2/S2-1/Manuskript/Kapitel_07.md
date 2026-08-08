@@ -96,7 +96,7 @@ Frau Brandt schrie auf und griff ins Leere, wo eben noch seine Hand gewesen war.
 
 Schatten bellte, laut und verzweifelt, sprang sogar einen Schritt in Richtung Schrank, bevor er sich selbst zurückriss.
 
-Nora hielt Frau Brandt an den Schultern fest, die zu Boden zu sinken drohte. Theo stand einen Moment wie erstarrt, sein Gesicht kreidebleich. Dann riss er sich los und stützte Frau Brandt von der anderen Seite. Niemand hatte ihn darum gebeten.
+Nora hielt Frau Brandt an den Schultern fest, die zu Boden zu sinken drohte. Theo stand einen Moment wie erstarrt, sein Gesicht kreidebleich. Dann riss er sich los und stützte Frau Brandt von der anderen Seite. Und niemand hatte ihn darum gebeten.
 
 Sonst war es immer Nora gewesen, die den Schmerz eines Geistes mit ansehen musste. Diesmal war es der Schmerz eines lebenden Menschen, und der war irgendwie schlimmer.
 

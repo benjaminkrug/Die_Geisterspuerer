@@ -94,7 +94,7 @@ Frau Brandt sah ihn an. Dann nickte sie, mehrmals hintereinander, und sagte nich
 
 Nora nahm die Zange. Sie war schwer und lag gut in der Hand. Einen Moment lang fühlte sich das Problem lösbar an.
 
-Ein Stück Metall, dünner als ein Draht. Sie hatten schon Schlimmeres geschafft.
+Ein Stück Metall, dünner als ein Draht. Und sie hatten schon Schlimmeres geschafft.
 
 Dann fing Schatten an zu winseln.
 

@@ -481,7 +481,7 @@ beim Kanon-Check zu K8.
 - ✅ Akt 2 (K5–8) — abgeschlossen, alle vier Kapitel geschrieben
 - ✅ Akt 3 (K9–12) — abgeschlossen, alle vier Kapitel geschrieben
 - ✅ Akt 4 (K13–16) — abgeschlossen, alle vier Kapitel geschrieben
-- 🎉 **S2-1 „Der Gast, der blieb" ist vollständig — 16/16 Kapitel, 16.598 Wörter.**
+- 🎉 **S2-1 „Der Gast, der blieb" ist vollständig — 16/16 Kapitel, 16.615 Wörter.**
 
 ---
 
@@ -619,7 +619,7 @@ Umformulieren neu entstandener 19-Wort-Satz wurde sofort gesplittet.
 | Marker | **S2-1** | Band 1 | Band 5 | Bewertung |
 |---|---|---|---|---|
 | Kapitel | 16 | 18 | 18 | |
-| Wörter gesamt | **16.598** | 26.988 | 16.910 | knapp unter Band 5, gleiche Größenordnung |
+| Wörter gesamt | **16.615** | 26.988 | 16.910 | knapp unter Band 5, gleiche Größenordnung |
 | Ø je Kapitel | **1.037** | 1.499 | 939 | leicht über Band-5-Niveau |
 | Ø-Satzlänge | **6,82** | 4,74 | 6,38 | zwischen beiden, unter Stilblatt-Untergrenze |
 | Sätze > 18 W | **0 echte** (4 Messartefakte) | 11 | 49 | strenger als beide Referenzbände |
@@ -733,7 +733,36 @@ Stilblatt-Untergrenze), Kurz-Absätze (6,5 %, zwischen Akt 2 und Band 1), Gedank
 
 ---
 
-## STIMMEN-PASS (Phase 4b)
+## ✅ STIMMEN-PASS (Phase 4b) — ABGESCHLOSSEN 2026-08-07
 
-> Leeres Gerüst — läuft erst nach vollständigem Manuskript, vor dem Kompilieren
-> (`Dokumentation/Stimmen_Pruefplan.md`, Benchmark bleibt Band 1).
+Vollständige Dokumentation: `Dokumentation/Stimmen_Pruefplan.md`, **Abschnitt 11**.
+Gemessen mit dem vorgeschriebenen Skript aus Abschnitt 5, unverändert.
+
+**Sieben von acht Budgets waren bereits erfüllt.** Der einzige echte Befund war ein
+Ausreißer in die *falsche* Richtung:
+
+| Marker | Budget | Band 1 | vorher | nachher |
+|---|---|---|---|---|
+| „Und"-Satzanfang (Erzähler) /1000 W | 2,3 | 2,26 | **0,78** 🔴 | **1,81** ✅ |
+| „Und dann" · „Zum ersten Mal" | 0,5 · 0,4 | 0,41 · 0,33 | 0,36 · 0,30 | unverändert ✅ |
+| Kurz-Absätze | 7–8 % | 7,7 % | 6,2 % 🟡 | 6,2 % 🟡 |
+| Erkenntnis-Formeln · „das Schlimmste" | ≤2 · ≤2 | — | **0** · **1** | unverändert ✅ |
+| Gedankenstrich /1000 W | ≤5,5 | 0,04 | 1,44 ✅ | unverändert |
+| Leitmotiv, dichtester Akt | ≤6 /1000 W | — | — | **4,1** ✅ |
+
+⚠️ **Falle 1 hatte zugeschlagen — durch meinen eigenen Messfehler.** In den aktweisen
+Prüfungen habe ich „Und"-Anfänge mit einer selbstgebauten, breiteren Regex gemessen und
+gegen einen zu niedrigen Zielwert gekürzt. Ergebnis: ein Drittel der Band-1-Dichte.
+**Behoben durch Wieder-Aufbau**, 17 Instanzen über 15 Kapitel ergänzt, davon vier Rücknahmen
+eigener Streichungen. Bewusst **nicht** auf 2,26 gezwungen — für die letzten Instanzen hätte
+es keine tragenden Stellen gegeben (Falle 2).
+
+**Regel B:** Sätze >18 W 4 → 4 (alle Artefakte) · Ø-Satz 6,79 → 6,80 · Dialog 36,5 % → 36,5 %
+· Ø-Absatz 14,1 W. **Keine Regression.**
+**Regel E:** alle 16 Cliffhanger-Schlusszeilen gegen das Register geprüft, **unangetastet**.
+
+**Verbleibender Beobachtungspunkt:** Kurz-Absätze bei 6,2 % gegen 7–8 % Ziel. Bewusst nicht
+künstlich angehoben — Absätze ohne Schock-Funktion zu befördern wäre genau die mechanische
+Bewegung, vor der Regel C und Falle 2 warnen. Für den menschlichen Read notiert.
+
+➡️ **Nächster Schritt: Phase 5** (Kompilieren) bzw. der `Qualitaets_Pruefplan`.

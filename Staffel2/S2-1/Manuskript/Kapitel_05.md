@@ -110,7 +110,7 @@ Ihre Nackenhaare stellten sich auf, noch bevor sie wusste, warum.
 
 "Ja", sagte Nora nur.
 
-Theo sagte gar nichts mehr. Das Marmeladenbrot lag vergessen in seiner Hand.
+Theo sagte gar nichts mehr. Und das Marmeladenbrot lag vergessen in seiner Hand.
 
 Dann kam das Geräusch.
 

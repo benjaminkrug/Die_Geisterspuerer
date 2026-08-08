@@ -172,7 +172,7 @@ Herbert öffnete den Mund. Schloss ihn wieder.
 
 Nora kannte diese Bewegung inzwischen. Sie hatte sie bei Theo gesehen, wenn er etwas sagen wollte und es nicht schaffte. Sie hatte sie bei Frau Brandt gesehen, an ihrer Wohnungstür, an diesem ersten Nachmittag.
 
-Irgendwo auf einem Küchentisch lagen zwölf Umschläge, die genau davon erzählten.
+Und irgendwo auf einem Küchentisch lagen zwölf Umschläge, die genau davon erzählten.
 
 "Können Sie es uns nicht einfach sagen?", fragte Theo. "Wir haben Ihretwegen zwei Stunden auf dem Boden gekniet."
 

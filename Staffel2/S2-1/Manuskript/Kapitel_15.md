@@ -164,7 +164,7 @@ Ein Auto suchte einen Parkplatz. Zwei Straßen weiter bellte ein anderer Hund. S
 
 "Warum hast du es behalten?"
 
-Nora sagte erst nichts. Sie war sich selbst nicht sicher.
+Nora sagte erst nichts. Und sie war sich selbst nicht sicher.
 
 "Weil ich es nicht wegwerfen wollte", sagte sie dann. "Und weil ich nicht wollte, dass es bei ihr in der Wohnung liegt."
 

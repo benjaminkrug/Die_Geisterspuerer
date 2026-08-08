@@ -62,9 +62,9 @@ Frau Brandt hatte sich vorgebeugt. "Und was ändert das?"
 
 "Ich bin trotzdem dabei." Er wurde ernst. "Ich sag's nur, damit du es einmal gehört hast, bevor wir es machen."
 
-Das war genau der Punkt, dachte Nora. Es klang zu einfach. Genau wie Zuhören zu einfach geklungen hatte, damals bei Frau Brandt an der Tür.
+Und das war genau der Punkt, dachte Nora. Es klang zu einfach. Genau wie Zuhören zu einfach geklungen hatte, damals bei Frau Brandt an der Tür.
 
-Zuhören hatte funktioniert. Es hatte nur nicht gereicht.
+Zuhören hatte funktioniert. Und es hatte nur nicht gereicht.
 
 "Es muss nicht reichen", sagte sie laut. "Es muss nur der Anfang sein."
 

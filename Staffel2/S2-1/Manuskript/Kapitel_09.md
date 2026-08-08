@@ -206,7 +206,7 @@ Nora hielt das Handy ganz still. Die Linien waren scharf und sauber, ohne jede V
 
 Das hier war viel später gemacht worden als alles andere an diesem Schrank.
 
-Wer immer es geritzt hatte, hatte sich dafür die eine Stelle ausgesucht, an der niemand jemals hinsehen würde.
+Und wer immer es geritzt hatte, hatte sich die eine Stelle ausgesucht, an der niemand jemals hinsehen würde.
 
 "Theo", sagte sie, ohne den Blick zu heben. "Sieh dir das an."
 

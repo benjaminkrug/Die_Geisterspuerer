@@ -82,7 +82,7 @@ Sie schluckte.
 
 "Aber seit wir hier eingezogen sind, ist er da. Jede Nacht ein bisschen mehr." Ihre Stimme brach. "Ich weiß nicht, was in dieser Wohnung mit ihm passiert. Ich habe nur Angst, nach Hause zu gehen. Und meine eigene Tochter will nicht mehr in ihrem Zimmer schlafen."
 
-Nora spürte, wie sich etwas in ihrem Nacken zusammenzog. Kein neues Gefühl. Sie kannte es gut.
+Nora spürte, wie sich etwas in ihrem Nacken zusammenzog. Kein neues Gefühl. Und sie kannte es gut.
 
 Theo hatte aufgehört zu grinsen. Er stand jetzt ganz still neben Nora, die Arme leicht angewinkelt, bereit.
 

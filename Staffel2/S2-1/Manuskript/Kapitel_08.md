@@ -34,7 +34,7 @@ Frau Brandt stand langsam auf. Ihre Augen waren rot, aber ihr Rücken war wieder
 
 "Ich komme nicht mit", sagte sie. "Ich muss meine Tochter von der Schule holen. Und ich muss dabei so tun, als wäre alles normal."
 
-Nora nickte. Sie wusste, wie viel Kraft genau das kostete.
+Nora nickte. Und sie wusste genau, wie viel Kraft das kostete.
 
 ---
 
@@ -90,7 +90,7 @@ Aber hier war kein Schrank. Hier war nur ein alter Mann mit einer Lesebrille und
 
 Herr Kubiak lachte kurz und rau. Schatten bewegte sich nicht.
 
-Theo warf Nora einen Blick zu. Er hatte es auch gesehen.
+Theo warf Nora einen Blick zu. Und er hatte es auch gesehen.
 
 ---
 

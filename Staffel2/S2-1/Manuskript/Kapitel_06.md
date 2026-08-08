@@ -110,7 +110,7 @@ Frau Brandts Augen weiteten sich, aber sie sagte nichts dazu. Noch nicht.
 
 Theo stand wieder auf, klopfte sich den Staub von den Knien. "Okay. Letzter Versuch. Gemeinsam ziehen."
 
-Er packte die eine Tür, Nora die andere. Sie zogen, so fest sie konnten.
+Er packte die eine Tür, Nora die andere. Und sie zogen, so fest sie konnten.
 
 Nichts.
 

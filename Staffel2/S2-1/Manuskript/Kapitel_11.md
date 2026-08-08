@@ -122,7 +122,7 @@ Der zweite Karton war Papier.
 
 Rechnungen. Ein Ordner mit Kontoauszügen. Eine Bedienungsanleitung für eine Waschmaschine, die es wahrscheinlich längst nicht mehr gab.
 
-Ganz unten, in einer Plastiktüte, lag ein Stapel Umschläge.
+Und ganz unten, in einer Plastiktüte, lag ein Stapel Umschläge.
 
 Theo zog ihn heraus und hielt ihn hoch.
 
@@ -156,7 +156,7 @@ Sie hatten es für eine Redewendung gehalten.
 
 "Darf ich?", fragte Frau Brandt.
 
-Es war seltsam, dass sie überhaupt fragte. Es waren ihre eigenen Karten.
+Es war seltsam, dass sie überhaupt fragte. Und es waren ihre eigenen Karten.
 
 Sie zog die unterste heraus.
 
@@ -220,7 +220,7 @@ Frau Brandt nahm sie ihr aus der Hand. Sie sah lange darauf, ohne etwas zu sagen
 
 "Das ist meine alte Adresse", sagte sie schließlich. "Da haben wir noch gewohnt."
 
-Sie drehte den Umschlag um. Er war unversehrt.
+Sie drehte den Umschlag um. Und er war unversehrt.
 
 "Die hier ist fertig." Ihre Stimme war kaum zu hören. "Er hat sie geschrieben. Er hat sie zugeklebt. Er hat eine Briefmarke draufgemacht."
 

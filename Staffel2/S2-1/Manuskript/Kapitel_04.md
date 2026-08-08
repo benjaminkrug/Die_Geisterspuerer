@@ -24,7 +24,7 @@ Schatten stellte sich zwischen sie und die Stelle, wo Herbert saß. Nicht drohen
 
 "Von etwas anderem." Theo trat näher, seine Stimme fester, als er sich fühlte. "Nicht von dir. Du hast ihn zum Reden gebracht, du hast ihn fast rausgeholt. Das war kein Fehler in deiner Methode. Das war jemand, der sie kaputtgemacht hat."
 
-Nora atmete langsam aus. Er hatte recht, sie wusste es, noch während der Zweifel in ihr nachhallte. Sie hatten alles richtig gemacht. Das Problem lag nicht bei ihnen.
+Nora atmete langsam aus. Er hatte recht, sie wusste es, noch während der Zweifel in ihr nachhallte. Sie hatten alles richtig gemacht. Und das Problem lag nicht bei ihnen.
 
 "Wenn wir es nochmal versuchen —", begann Frau Brandt.
 
