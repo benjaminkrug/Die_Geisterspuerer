@@ -94,6 +94,39 @@ Richtung Kette-2-Auflösung setzen, den nur Frieda setzen soll.
 
 ---
 
+## Kette 3: Halders Handwerk — die Schlosser-Spur
+
+> ⚠️ **Nachgetragen 2026-08-07, nach dem Schreiben von S2-1 K8.** Diese Kette fehlte hier,
+> obwohl `Setup_Payoff_Tracker_S2-1.md` Abschnitt C sie ausdrücklich als staffelweiten Faden
+> auswies („gehören in den staffelweiten Tracker, sobald der angelegt ist"). Der Tracker war
+> inzwischen angelegt, der Übertrag aber nie erfolgt — **erster tatsächlich geschriebener
+> Staffel-Hinweis wäre so ungetrackt geblieben.**
+
+**Die Enthüllung, die vorbereitet wird:** Der Mensch, der Geister bindet, ist von Beruf
+Schlosser/Handwerker — das ist seine Tarnung und zugleich der Grund, warum er überall
+legalen Zugang hat. Volle Zuordnung zu Halder erst S2-3.
+
+| Band/Kapitel | Hinweis | Status |
+|---|---|---|
+| S2-1 K6 | Der Schrank hat kein sichtbares Schloss, keinen Griff, kein Schlüsselloch — handwerklich auffällig, aber noch ohne Deutung | ✅ **geschrieben** |
+| S2-1 K8 | Hausmeister Kubiak erinnert sich an **„einen Schlosser"**, der im August zwei Tage lang im ganzen Haus Sicherheitsschlösser einbaute, auch in leerstehenden Wohnungen. ⚠️ **Bewusst ohne Name und ohne Beschreibung** (Kanon-Regel: Halder darf in S2-1 nirgends auftauchen). Schatten reagiert auf Stichwort + Werkstattheft — zeigt: ein *Mensch* ist im Spiel, kein Geist | ✅ **geschrieben** |
+| S2-1 K15 | Das geöffnete Schloss ist erkennbar **gefertigt**, kein Zufallsprodukt — Beweisstück, das die Kinder behalten | geplant (`S2-1/Story_Outline_S2-1.md`) |
+| S2-2 | Dutzende **identischer** Schlösser in der Werkstatt — dieselbe Hand, industrielle Menge | geplant (`S2-2/Story_Outline_S2-2.md`) |
+| S2-3 | Rückblick-Erkenntnis: Der „Schlosser" aus S2-1 K8 war Halder. Der Beruf war nie eine Tarnung *für* die Tat — er ist die Tat | geplant (`S2-3/Story_Outline_S2-3.md`) |
+
+**Fairness-Prüfung (tatsächlich durchgeführt, nicht behauptet):** Ein Leser bekommt in
+S2-1 genau zwei Bausteine — *jemand mit legalem Zugang hat vorher an allen Schlössern
+gearbeitet* und *der Zeitpunkt liegt vor jedem denkbaren Anlass*. Beides reicht für die
+S2-1-Schlusserkenntnis („jemand tut das absichtlich"), aber **nicht**, um auf eine konkrete
+Person zu schließen — es gibt keine. Das ist die richtige Dosis: die Spur trägt, ohne S2-3
+vorwegzunehmen.
+
+⚠️ **Leitplanke für S2-2/S2-3:** Der Begriff „Schlosser" darf bis zur Enthüllung **nicht**
+mit einem Namen oder einer Personenbeschreibung zusammengebracht werden. Sobald eine Figur
+den Beruf und eine Person im selben Satz nennt, ist die Pointe verbraucht.
+
+---
+
 ## Regeln für die Pflege
 
 - Jede S2-Band-Planung (ab S2-2) prüft diese Datei **vor** der eigenen Mechanik-Prüfung.

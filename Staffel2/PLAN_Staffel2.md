@@ -23,6 +23,11 @@
 > warten. Kein Widerruf der Checkliste, sondern eine bewusste Entscheidung, sie für den
 > Schreibstart nicht abzuwarten. `S2-1/Manuskript/Kapitel_01.md` ist der erste geschriebene
 > Text der Staffel.
+>
+> **★ Stand 2026-08-07 (Ende der Sitzung): S2-1 Akt 1 und Akt 2 vollständig geschrieben**
+> — Kapitel 1–8, ~7.900 Wörter. Beide Akte haben zusätzlich eine kritische Stimmen-/
+> Strukturprüfung durchlaufen (Befunde und Korrekturen: `S2-1/Kontinuitaet_S2-1.md`,
+> `S2-1/Cliffhanger_Register_S2-1.md`). Nächster Schreibschritt ist Akt 3 (K9–K12).
 
 ---
 
@@ -857,10 +862,27 @@ K10→K11, S2-2 K2→K3, S2-3 K8→K9, S2-4 K9→K10, S2-5 K6→K7) — festgeha
 Schreibregel in Abschnitt 15 (Produktions-Workflow, Abweichung 5).
 
 **Nächster Schritt:** Die gesamte Planung (Phase 1–3) für Staffel 2 ist abgeschlossen.
-**Phase 4 (Kapitel schreiben) hat begonnen** — S2-1 Kapitel 1 ist geschrieben
-(`S2-1/Manuskript/Kapitel_01.md`), bewusst vor vollständiger Erfüllung der
-Aktivierungs-Checkliste (Abschnitt 1), auf ausdrücklichen Nutzerwunsch. Weiter mit S2-1
-Kapitel 2.
+**Phase 4 (Kapitel schreiben) läuft** — bewusst vor vollständiger Erfüllung der
+Aktivierungs-Checkliste (Abschnitt 1), auf ausdrücklichen Nutzerwunsch.
+
+**Stand S2-1 „Der Gast, der blieb":**
+
+| Akt | Kapitel | Status |
+|---|---|---|
+| Akt 1 — Ein Fall kommt zu ihnen | K1–K4 | ✅ geschrieben + Stimmen-/Strukturprüfung |
+| Akt 2 — Die Spur | K5–K8 | ✅ geschrieben + Stimmen-/Strukturprüfung |
+| Akt 3 — Das Schloss | K9–K12 | ⬜ offen — **nächster Schritt** |
+| Akt 4 — Der Gast geht | K13–K16 | ⬜ offen |
+
+⚠️ **Vor dem Schreiben von Akt 3 beachten** (Befunde aus der Akt-2-Prüfung):
+1. **Muster-Wächter auf Beat-Ebene prüfen, nicht auf Typen-Namen.** K5/K6 hatten trotz
+   verschiedener Register-Typen fast denselben Cliffhanger. Risikostellen in Akt 3/4:
+   **K9/K10** (beide am Schrank) und **K13/K14** (bereits als Intensitäts-Risiko notiert).
+2. **K10→K11 braucht eine explizite Überleitungszeile** (Ortswechsel zum Karton) — siehe
+   Übergangs-Gesamtprüfung in `S2-1/Detaillierte_Szenenplanung_S2-1.md`.
+3. **Kapitellängen-Vorgabe aus CLAUDE.md ist für diese Serie veraltet** (beschreibt Band 1
+   mit Ø 1.499 W; Band 5 liegt bei Ø 939 W). Nicht künstlich auffüllen — Beleg in
+   `S2-1/Kontinuitaet_S2-1.md`.
 
 ---
 

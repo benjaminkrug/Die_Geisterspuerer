@@ -210,6 +210,32 @@ Diese Falle hat in Band 5 real zugeschlagen (ein Fix in Akt 3 erzeugte zwei neue
   die Angst der Lebenden verbraucht werden.** Lösung war, *nichts* zu ersetzen.
   **Vor jedem Umbau prüfen, ob die neue Formulierung anderswo schon arbeitet.**
 - **Falle 5 — Die Liste ist nicht vollständig.** Diese Marker wurden an Band 5 gefunden. Andere Bände driften vielleicht anders (z. B. Adjektiv-Dreier, „Es war…"-Ketten). **Bei jedem Band zusätzlich frei lesen und nach neuen Maschen suchen** — und diese Datei ergänzen.
+- **★ Falle 9 — Das Messwerkzeug lügt, und zwar systematisch in eine Richtung.** Gefunden
+  beim S2-1-Pass (2026-08-07), zweimal in derselben Sitzung:
+  - **Dialog-Anteil:** Ein Skript, das einen Absatz als Dialog zählt, sobald er mit einem
+    Anführungszeichen *beginnt*, zählt die Inquit-Formeln und Erzähleinschübe mit
+    („…", sagte Nora und stand auf). Überschätzung um **10–15 Prozentpunkte**. Korrekt ist
+    der Wortanteil *innerhalb* der Anführungszeichen: `re.findall(r'"([^"]*)"', text)`.
+  - **Gedankenstriche im Erzählertext:** Dieselbe Absatzanfang-Heuristik erklärt jeden
+    Absatz zum Erzählertext, der nicht mit einem Zitat *beginnt* — und übersieht die
+    eingebetteten Dialogzeilen darin. Ergebnis: Dialog-Gedankenstriche werden als
+    Erzähler-Gedankenstriche gemeldet und **fälschlich als Tabu-Bruch behandelt**. Korrekt
+    ist, die Zitatspannen vorher zu entfernen: `re.sub(r'"[^"]*"', ' ', text)`.
+
+  **Die Lehre ist allgemeiner als die zwei Bugs:** Beide Fehler zeigten *zu hohe* Werte und
+  hätten zu Fixes an Stellen geführt, an denen nichts kaputt war — also genau zu Falle 1
+  (Über-Korrektur), nur mit einer Zahl als Alibi. **Jeden neuen Marker einmal an Band 1
+  gegenrechnen, bevor man ihm glaubt.** Reproduziert das Skript Band 1s bekannte Werte
+  nicht, ist das Skript falsch, nicht der Text.
+
+- **★ Falle 10 — Der Muster-Wächter vergleicht Etiketten, nicht Szenen.** Gefunden beim
+  S2-1-Pass an Akt 2. `Cliffhanger_Register` prüft vor dem Schreiben, dass kein Typ zweimal
+  hintereinander vorkommt. S2-1 K5 (STIMME/GERÄUSCH) und K6 (AKTION) galten damit als
+  verschieden — **geschrieben waren sie fast identisch**: Geräusch aus demselben Möbelstück,
+  alle erstarren, Hund fixiert dasselbe Ziel, teils wortgleich formuliert. Verschiedene
+  Typen-Namen sind **kein** Beleg für verschiedene Szenen. **Nach dem Schreiben jedes Akts
+  die Cliffhanger-Beats nebeneinanderlegen** (Auslöser · Reaktion der Gruppe · Schlussbild)
+  und auf Deckung prüfen, nicht nur die Registerspalte lesen.
 
 ---
 

@@ -180,10 +180,11 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
 
 ## ⚠️ ZU PRÜFENDE WIDERSPRÜCHE (vor/bei Kap. 1 entscheiden)
 
-1. **Zeitabstand zu Band 5 noch offen.** Nora 13/Theo 11 setzt voraus, dass zwischen
-   Band-5-Ende (November) und S2-1-Beginn genug Zeit vergangen ist. Konkreten Abstand in
-   Phase 2 festlegen und mit der Serien-Chronologie-Tabelle (`Serien_Kanon.md` Abschnitt 5)
-   abgleichen.
+1. ✅ **ERLEDIGT — Zeitabstand zu Band 5 ist gesetzt: drei Monate.** S2-1 beginnt an einem
+   **Februar**-Nachmittag, Band 5 endete im November. Im Text etabliert in K1 („Vor drei
+   Monaten war es das geworden: vorbei"), ohne Bandnummer zu nennen. Nora 13, Theo 11.
+   ⚠️ Diese drei Monate sind **derselbe Zeitraum** wie der Einzug der Brandts (November) —
+   das ist Absicht und trägt die Prämisse, kein Zufall.
 2. **Schatten darf nicht zurück ins Geheimnisvolle rutschen.** Sein Rätsel ist vollständig
    aufgelöst (Band 5) — jede Formulierung, die ihn wieder mysteriös wirken lässt, ist ein
    Rückschritt, kein Cliffhanger.
@@ -192,9 +193,14 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
 4. **Halders Name/Beschreibung darf in S2-1 nirgends stehen** — auch nicht angedeutet. Nur
    die Bindungssignatur (die Leine) ist sichtbar.
 5. **Mutters Beruf:** Krankenhaus/Schichtdienst — Fakt, nicht neu erfinden.
-6. **Der neue Fall braucht einen plausiblen Grund, warum er zu IHNEN kommt** (Prämisse aus
-   Abschnitt 5) — wer bringt den Fall, und warum ausgerechnet jetzt? In Phase 2 (Mechanik-
-   Selbstprüfung) konkret klären.
+6. ✅ **ERLEDIGT — der Fall kommt über Frau Held.** Sie hat Frau Brandt an die Kinder
+   verwiesen (K1). Die Hüter-Prämisse selbst ist in K1 über gezeigtes Verhalten etabliert
+   (Tuscheln auf der Straße, die alte Frau im Supermarkt), nicht über ein Referat.
+
+**Verbleibend offen:** Punkte 2–5 bleiben Dauer-Wachregeln für den Rest des Bandes
+(Schatten nicht remystifizieren · Karte nicht reaktivieren · Halder nicht benennen ·
+Mutter-Beruf nicht neu erfinden). Alle vier sind in K1–K8 eingehalten — geprüft, zuletzt
+beim Kanon-Check zu K8.
 
 ---
 
