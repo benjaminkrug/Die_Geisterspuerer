@@ -290,6 +290,26 @@ beim Kanon-Check zu K8.
   ein Zeichen ist nie für den gemacht, der es anbringt (BILD).
   ⚠️ **Neu:** Der Reif aus K6 ist weg — Frau Brandt hat das Holz abgewischt. Bewusst gesetzt,
   damit der Fund in K9 auf dem Symbol liegt und nicht auf Resten des Vorkapitels.
+- **K10:** Direkter Anschluss. Das Symbol *zeigt auf* etwas: Nora ertastet im Spalt zwischen
+  Tür und Rahmen, direkt darunter, das **physische Schloss** — winzig, dunkles Metall,
+  versenkt, auffallend kalt, Bügel dünner als ein Draht, sauber gearbeitet ohne Rost oder
+  Grat. Schlüsselloch **kleiner als ein Streichholzkopf** → erklärt endgültig, warum im
+  Haushalt nie ein Schlüssel gefunden wurde. Herberts alter **Werkzeugkasten** kommt zum
+  Einsatz (jedes Werkzeug mit seinem Namen beklebt — stiller Charakterbeleg). Schatten warnt
+  **vorher** (Winseln, unruhiges Treten, anders als sein sonstiges Sitzen), Nora setzt sich
+  darüber hinweg und drückt die Zange zu.
+  ⚠️ **Zentrale neue Mechanik-Erkenntnis:** Das Schloss bleibt **völlig unversehrt** — kein
+  Kratzer, keine Delle. **Aber Herbert schreit vor Schmerz.** Gewalt am Schloss trifft nicht
+  das Schloss, sondern den Gebundenen. Herbert: *„Es ist nicht nur ein Schloss. Es ist an mir
+  dran."* Nora trägt die Schuld daran bewusst (Arc: Verantwortung tragen heißt auch, eigene
+  Fehlentscheidungen aushalten). Endet auf: „Das Metall war völlig unversehrt. Nur der Mann
+  daneben nicht." (KOMPLIKATION)
+  ➡️ **Trägt direkt K12** („Sanftheit statt Kraft") — die Wende ist damit nicht behauptet,
+  sondern durch einen erlebten Fehlschlag verdient.
+  ⚠️ **Für K11 zwingend:** Der Übergang zum Karton braucht die im Übergangs-Check geforderte
+  explizite Überleitungszeile — Frau Brandt holt die Kiste **als Reaktion auf diesen
+  Fehlschlag** („wenn wir ihn nicht aufbrechen können, müssen wir ihn verstehen"), nicht als
+  freistehende Ermittlungshandlung.
 
 ---
 
@@ -316,6 +336,7 @@ beim Kanon-Check zu K8.
 | K8 | ~1.040 | 39,7 % — Ermittlungskapitel, Befragungsszene trägt den Großteil | ⚠️ knapp unter dem 1.200-Minimum, siehe geklärte Kapitellängen-Frage unten |
 
 | K9 | ~965 | 35,7 % — Ermittlung + Suchsequenz als Klimax | ✅ Ø-Satz 6,73 · 0 Verstöße · exakt auf Band-5-Schnitt (939 W) |
+| K10 | ~1.050 | 35,8 % — Fund, Werkzeugszene, Fehlschlag | ✅ Ø-Satz 6,38 · 0 Verstöße · Kurz-Absätze 6,1 % |
 
 ⚠️ **Messkorrektur (Stimmen-Prüfung Akt 2):** Die Dialog-Prozentwerte für K1–K8 waren in
 früheren Einträgen dieser Tabelle **zu hoch angesetzt**. Die alte Methode zählte einen
