@@ -117,7 +117,10 @@ etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts 
 - Stadt: **Gravenstedt**.
 - Wohnhaus der Familie: **Kirchgasse 14** (unverändert).
 - Der neue Fall in S2-1: **Herbert Lenz** (Geist), gestorben vor einem Jahr in einer
-  anderen Stadt; **Frau Brandt** (Tochter, lebt mit Familie seit 3 Monaten in Gravenstedt).
+  anderen Stadt; **Frau Brandt**, Vorname **Marion** (Tochter, lebt mit Familie seit
+  3 Monaten in Gravenstedt). Bruch zwischen beiden: **zwölf Jahre**.
+  Weitere feste Namen/Fakten: **Herr Kubiak** (Hausmeister) · Schlosser-Termin **August
+  letztes Jahr** · Einzug der Brandts **November** · Schrank ≥30 Jahre im Haus.
   ⚠️ Zwei getrennte Daten: Todesjahr ≠ Ankunft in Gravenstedt (die liegt erst 3 Monate
   zurück, mit dem Leuchtturm-Effekt). Details: `Story_Outline_S2-1.md`, Outline-
   Entscheidung 1 (2. Durchgang korrigiert).
@@ -309,7 +312,27 @@ beim Kanon-Check zu K8.
   ⚠️ **Für K11 zwingend:** Der Übergang zum Karton braucht die im Übergangs-Check geforderte
   explizite Überleitungszeile — Frau Brandt holt die Kiste **als Reaktion auf diesen
   Fehlschlag** („wenn wir ihn nicht aufbrechen können, müssen wir ihn verstehen"), nicht als
-  freistehende Ermittlungshandlung.
+  freistehende Ermittlungshandlung. → ✅ **in K11 umgesetzt** (siehe dort).
+- **K11:** Direkter Anschluss, gleiche Nacht, Küche der Brandts. Herbert ist verschwunden
+  (nicht gegangen — nur nicht mehr sichtbar). ✅ **Übergangszeile geliefert:** Nora: „Wenn wir
+  ihn nicht rausbrechen können, müssen wir ihn verstehen" → Frau Brandt holt die Kellerkisten
+  aus Hilflosigkeit („Ich sitze hier und mein Vater hat gerade geschrien"), nicht als geplante
+  Ermittlung. Damit ist der im Übergangs-Check markierte Ortswechsel motiviert.
+  Drei Kartons, von einer Räumungsfirma gepackt. Inhalt: Lesebrille, zwei Rosenbücher,
+  Radiowecker, durchgescheuerte Gartenhandschuhe mit Erde. Im zweiten Karton, ganz unten:
+  **zwölf Geburtstagskarten**, alle an Frau Brandt adressiert, aus zwölf Jahren, **keine
+  einzige abgeschickt**. Elf offen, die zwölfte **zugeklebt, adressiert und frankiert** —
+  fertig zum Einwerfen, nie eingeworfen. Endet auf ihrer Frage: „Warum hat er sie nicht
+  eingeworfen?" (OBJEKT+DIALOG)
+  ⚠️ **Neue Kanon-Fakten:** Frau Brandts Vorname ist **Marion** (erstmals genannt, in Herberts
+  Anrede „Liebe Marion") · Dauer des Bruchs = **zwölf Jahre** · die Adresse auf der letzten
+  Karte ist ihre **alte** Adresse (vor dem Umzug nach Gravenstedt).
+  ➡️ **Zahlt K3 ein:** Herberts „Jedes Jahr wollte ich es ihr sagen" war keine Redewendung —
+  hier liegt der physische Beweis. Nora denkt das im Text explizit mit.
+  ⚠️ **Schatten bewusst anders eingesetzt:** kein Kopf-aufs-Knie mehr (das wäre das dritte
+  Mal nach K5/K7 gewesen) — er beschnüffelt stattdessen die Gartenhandschuhe und setzt sich
+  davor. Nora stellt ausdrücklich klar: „Da ist kein Geist dran. Da ist nur Erde." Hält die
+  Wach-Regel ein, Schatten bleibt normaler Hund.
 
 ---
 
@@ -337,6 +360,7 @@ beim Kanon-Check zu K8.
 
 | K9 | ~965 | 35,7 % — Ermittlung + Suchsequenz als Klimax | ✅ Ø-Satz 6,73 · 0 Verstöße · exakt auf Band-5-Schnitt (939 W) |
 | K10 | ~1.050 | 35,8 % — Fund, Werkzeugszene, Fehlschlag | ✅ Ø-Satz 6,38 · 0 Verstöße · Kurz-Absätze 6,1 % |
+| K11 | ~1.060 | 36,0 % — stille Trauerszene, bewusst dialogisch gehalten | ✅ Ø-Satz 6,59 · 0 echte Verstöße · Kurz-Absätze 6,2 % |
 
 ⚠️ **Messkorrektur (Stimmen-Prüfung Akt 2):** Die Dialog-Prozentwerte für K1–K8 waren in
 früheren Einträgen dieser Tabelle **zu hoch angesetzt**. Die alte Methode zählte einen

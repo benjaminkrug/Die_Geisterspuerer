@@ -76,7 +76,7 @@ Theo war schon aufgestanden. "Endlich mal ein Satz, der Spaß macht."
 
 Frau Brandt holte einen Kasten aus der Küche und stellte ihn auf den Boden.
 
-"Der ist von ihm", sagte sie. "Das Einzige, was ich behalten hab."
+"Der ist von ihm", sagte sie. "Das Einzige, was ich je ausgepackt hab."
 
 Theo klappte ihn auf, als wäre Weihnachten.
 
