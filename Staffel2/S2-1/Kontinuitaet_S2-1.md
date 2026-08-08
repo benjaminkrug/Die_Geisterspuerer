@@ -1020,7 +1020,89 @@ das hat in der Reihe bisher kein Band erreicht.
 
 ---
 
+---
+
+## ✅ QUALITÄTS-PRÜFPLAN TEIL F2 — WIRKUNG (2026-08-08)
+
+> Stufe 6, vorgezogen. Reiner Lese-Durchgang über alle 16 Kapitel gegen die vierzehn
+> scharfen Fragen. **Keine Änderung am Manuskript** — die zwei Befunde sind
+> Staffel-Vorgaben, keine S2-1-Fehler.
+
+### GRUSEL — 5 von 5 bestanden
+
+| Frage | Befund |
+|---|---|
+| 1 Angst im Körper? | ✅ **Null behauptete Angst im ganzen Buch.** Gesucht nach „hatte Angst / war besorgt / ein seltsames Gefühl / fühlte sich unwohl" — kein einziger Treffer. Stattdessen: Nacken zieht sich zusammen (K1), Nackenhaare (K5), Magen (K8), Kälte bis in den Unterarm (K12) |
+| 2 malbar? | ✅ Reif, der sich **von innen nach außen** auf Holz bildet (K6) · sichtbarer Atem in geheizter Wohnung (K6) · ein Schloss kleiner als ein Streichholzkopf (K10) · ein Zeichen, das nur im Streiflicht sichtbar wird (K9) |
+| 3 dramatische Ironie? | ✅ zweimal, beide stark: der neue erste Satz (Leser weiß, dass Schatten knurren wird) und **K10** — Theo sagt „er hat sich noch nie geirrt", Nora nimmt die Zange trotzdem. ⚠️ Sonst läuft der Leser im Gleichschritt mit Nora. **Das ist Folge der Er-/Sie-Perspektive, kein Mangel** — Band 1–5 tragen dieselbe Beschränkung und brechen sie ebenfalls nur am Schluss (B5: „Nora sah es nicht. / Noch nicht.", S2-1 K16 analog) |
+| 4 steigert sich? | ✅ K5 Kälte → Klick → Stille → Klick näher → Knurren · K6 Ziehen scheitert → eigener Atem → Theos Atem → Reif |
+| 5 nur Kribbeln? | ✅ kein Blut, kein Körperhorror, kein Kind ohne Ausweg. Härtester Moment ist K10 — und der tut **moralisch** weh, nicht körperlich: „Sie haben ihm wehgetan." / „Ja." |
+
+### HUMOR — 5 von 5 bestanden
+
+Rund 25 Pointen auf 16 Kapitel, **ausnahmslos von Theo**. Stichproben, die Frage 1
+bestehen (nur von ihm denkbar): *„Fünf Sterne, würde ich als Hund wiederkommen."* ·
+*„Kalt, wärmer, heiß, bitte-lauf-weg."* · *„Man hat immer eine Büroklammer dabei.
+Grundregel des Lebens."* · *„Endlich mal ein Plan, bei dem keiner schreit."* / „Sag das
+nicht so laut." / *„Zu spät. Ich hab's schon gesagt."* · *„So eins mit einem Kätzchen an
+einem Ast."* · *„Auf wütende Briefe klebt man keine Marke. Wütende Briefe zerreißt man."*
+
+- **Frage 4 (komisch, weil er Angst hat und weitermacht):** ✅ die Wurstbrot-Ausrede vor
+  Kubiak, „Irgendwas mit Pizza?", „Wir sind unterwegs in einem Keller. Nachts."
+- **Frage 5 (2–3 humorlose Strecken, wo die Dramatik es verlangt):** ✅ **vier** —
+  K3/K4 nach dem ersten Rückriss · K7 von der Vergebung bis „Warum reicht das nicht?" ·
+  K10 nach Herberts Schrei · K14 das Vorlesen der zwölften Karte.
+- ⚪ Der gemessene Abstand Grusel→Theo liegt bei Ø 4,4 Absätzen (Reihe 3,1–4,3). **Kein
+  Befund:** F0 des Plans stellt selbst fest, dass der zugrunde liegende Stichwortkatalog
+  Wirkung nicht misst — S2-1 hat nur 20 Katalog-Treffer gegen 57 bei Band 1.
+
+### HERZ — 4 von 4 bestanden
+
+| Frage | Befund |
+|---|---|
+| 1 Verletzlichkeit | ✅ Nora: „Habe ich etwas falsch gemacht?" (K4) · „Ich weiß es nicht" statt etwas Zuversichtlichem (K13) · Theo: kreidebleich und erstarrt, bevor er sich losreißt (K7) |
+| 2 Geschwister **in einer Handlung** | ✅ Theos Schulter berührt ihre, kurz, ohne ein Wort (K3) · er verteidigt trotzig ihre Methode (K4) · **er überstimmt sie und schickt sie nach Hause essen (K9)** — der stärkste, weil er dabei auf sie aufpasst |
+| 3 ★ Mitgefühl mit dem Geist | ✅ **die klarste Einlösung der Serien-Prämisse bisher.** Herbert startet unsympathisch (stur, hart, wortkarg), kippt in K3 („Seit ich meine Tochter verloren habe. Nicht durch den Tod. Vorher schon.") und ist in K14 vollständig verstanden: *„Solange ich sie nicht einwerfe, kann ich mir noch einbilden, dass du antworten würdest."* Sein Versagen ist eines, das ein Kind kennt — sich nicht zuerst entschuldigen |
+| 4 Hauptfigur belohnt | ✅ und zwar präzise: nicht mit Dank, sondern damit, dass ein Erwachsener ausspricht, was es kostet — „Du bist dreizehn." / „Ich wollte nur, dass das mal jemand ausspricht." (K15) |
+
+### ↩️ Teilweise zurückgenommen: „Das Buch gehört den Erwachsenen"
+
+Vor dem Lese-Durchgang hatte ich ausgezählt, dass nur rund **12 von 78 Szenen** einen
+eigenen Einsatz für Nora oder Theo tragen, und daraus den Verdacht abgeleitet, das Buch
+gehöre emotional Frau Brandt und Herbert.
+
+**Die Zahl stimmt, sie misst aber das Falsche** — derselbe Fehlertyp wie „17 Absätze bis
+zum Grusel". In Band 1–5 fielen Szenen-Besitz und Einsatz zusammen, weil die Kinder in
+Gefahr waren. Hier ist Noras Einsatz **moralisch** und läuft als Durchzug, nicht als
+Szenenbesitz: K1 die Leute auf der Straße tuscheln → K9 sie lügt ihre Mutter an, ohne noch
+nachzudenken („Das ging inzwischen von allein, und das war das Unangenehme daran") →
+K15 ein Erwachsener spricht es aus → K16 sie fühlt sich deswegen nicht mehr schlecht.
+
+Das ist ein sauberer Vierschritt und exakt der Motor, den `PLAN_Staffel2.md` Abschnitt 5
+für die Staffel vorsieht. **Vorwurf entkräftet.**
+
+### Was übrig bleibt — zwei Vorgaben für die Staffel, keine S2-1-Änderung
+
+Beide sind in `PLAN_Staffel2.md` Abschnitt 14 als Punkt 5 und 6 eingetragen:
+
+1. **Herbert hat ein schärferes Dilemma als Nora.** Er muss zwischen der Karte und der
+   Hoffnung wählen. Sie muss nichts aufgeben — K12 ist Schmerz, keine Wahl. Für Band 1
+   einer Staffel vertretbar, über fünf Bände eine Schwäche.
+2. **Jule steht in 3 Kapiteln auf der Seite, wird in 9 erwähnt.** Das einzige betroffene
+   Kind wirkt zu vier Fünfteln als Bericht ihrer Mutter. In S2-1 nicht reparierbar, ohne
+   funktionierende Szenen aufzubrechen — K5 lebt davon, dass ihr Zimmer *leer* ist.
+
+### Bilanz
+
+**14 von 14 Fragen bestanden. Null Änderungen am Manuskript.** Ein eigener Verdacht
+zurückgenommen, zwei Befunde als Staffel-Vorgaben abgelegt. Nach Teil C des Plans gilt
+für Qualität: im Zweifel stehen lassen — und hier bestand kein Zweifel.
+
+---
+
 ➡️ **Nächster Schritt: Stufe 5** — `Qualitaets_Pruefplan` Teil B („Hält es sein
-Versprechen?": Cover, Titel, KDP-Beschreibung gegen das fertige Buch). Danach Phase 5
-(Kompilieren) und Stufe 6 (Teil F). A3 und Abschluss-Schritt 6 des Logik-Plans hängen
-weiterhin an S2-2 bzw. am fertigen Artefakt.
+Versprechen?"). Für S2-1 nur zur Hälfte prüfbar, solange Cover und KDP-Beschreibung
+fehlen. Danach Phase 5 (Kompilieren). A3, der Vorlese-Test am gedruckten Buch und
+Abschluss-Schritt 6 des Logik-Plans hängen weiterhin an S2-2 bzw. am fertigen Artefakt.
+**Durchgang C des Logik-Plans (Fair Play für das Buch-Rätsel) ist noch offen** — die
+Hinweisketten sind bisher nur für den Staffel-Bogen geprüft.

@@ -767,6 +767,32 @@ noch nicht wissen, dass ihr Kind älter geworden ist. Vertretbar, aber bei den e
 Marktdaten (Aktivierungs-Checkliste, Abschnitt 1) explizit gegenprüfen, ob die
 Kategorie-Wahl trägt.
 
+**5. Nora braucht ab S2-2 eine Entscheidung, die sie etwas kostet.** *(aus der
+Wirkungs-Prüfung von S2-1, 2026-08-08)*
+S2-1 besteht alle vierzehn Fragen von Teil F2 — bis auf eine Beobachtung, die sich erst
+im Vergleich zeigt: **Herbert hat ein schärferes Dilemma als Nora.** Er muss zwischen der
+Karte und der Hoffnung wählen (einwerfen heißt, ein „Nein" zu riskieren); sie muss nichts
+aufgeben. Ihre härteste Szene, das Halten des Schlosses in K12, ist *Schmerz*, keine
+*Wahl* — sie will die ganze Zeit dasselbe. Für Band 1 einer Staffel ist das vertretbar,
+über fünf Bände wird es zur Schwäche: Wer nie etwas aufgibt, wächst nicht.
+**Gegensteuern:** Ab S2-2 mindestens einmal pro Band eine Situation, in der Nora zwei
+Dinge will und nur eines haben kann. Der Plan liefert das Material dafür bereits —
+Abschnitt 5 nennt „Nora verliert ein Stück normale Kindheit" den emotionalen Motor der
+Staffel. In S2-1 ist dieser Motor als sauberer Vierschritt angelegt (K1 Gerücht in der
+Stadt → K9 das Lügen geht von allein → K15 „Du bist dreizehn" → K16 sie fühlt sich
+deswegen nicht mehr schlecht). **Er läuft, aber er fordert noch nichts.**
+
+**6. Das betroffene Kind gehört früher auf die Seite.** *(ebenfalls aus der
+Wirkungs-Prüfung von S2-1)*
+In S2-1 ist Jule, die Achtjährige, die nicht in ihrem Zimmer schlafen kann, das einzige
+Kind im Fall — und damit die Figur, über die ein zehnjähriger Leser am ehesten selbst
+betroffen ist. Sie steht in **drei** Kapiteln auf der Seite (K9, K14, K15), wird aber in
+**neun** als „meine Tochter" erwähnt. Vier Fünftel ihrer Wirkung sind Bericht der Mutter.
+Das ist in S2-1 nicht zu reparieren, ohne funktionierende Szenen aufzubrechen — die
+Rundgangs-Szene in K5 lebt gerade davon, dass Jules Zimmer *leer* ist.
+**Gegensteuern:** In S2-2 bis S2-5 das betroffene Kind (falls es eines gibt) **vor der
+Mitte** einmal selbst sprechen lassen, nicht erst im letzten Drittel.
+
 ---
 
 ## 15. Produktions-Workflow für Staffel 2 — abgeleitet aus Band 4/5 (2026-08-07)
