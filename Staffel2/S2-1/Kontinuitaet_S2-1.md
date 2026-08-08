@@ -370,6 +370,26 @@ beim Kanon-Check zu K8.
   ➡️ **Fehlt für K14:** Herbert weiß nicht, dass seine zwölf Jahre **angekommen** sind. Das
   ist die Lücke, die K14 mit der letzten Karte schließt — nicht ein drittes Zuhören.
   ⚠️ **Das offene Schloss ist ab jetzt in Noras Besitz** (Vorbereitung Setup #12, K15).
+- **K14:** Nächster Vormittag (in K13 angekündigt, kein unmarkierter Zeitsprung). Frau Brandt
+  hat die Nacht durchgemacht und **elf** Karten gelesen; die zwölfte bekommt sie nicht auf.
+  Alle drei Register-Vorgaben eingehalten:
+  · **kein drittes Zuhören** — Frau Brandt *erzählt* Herbert etwas Neues (dass sie die Kisten
+    geöffnet und die Karten gefunden hat);
+  · Auslöser ist ausschließlich die **zwölfte, versiegelte** Karte;
+  · das Geh-Vokabular aus K3/K7 („heller", „durchsichtiger", „auflösen", „Umrisse
+    verschwammen") wurde **nachweislich nicht recycelt**.
+  **Inhalt der zwölften Karte** (jetzt Kanon): Herbert entschuldigt sich dafür, ihr gesagt zu
+  haben, wen sie lieben soll; er habe zwölf Jahre auf ihren Anruf gewartet, obwohl er selbst
+  hätte anrufen müssen; er schreibe es auf, weil er es am Telefon wieder nicht sagen würde.
+  **Schlüsseldetail:** Die anderen elf sind mit *„Dein Vater"* unterschrieben — **nur diese
+  mit „Papa"**, weil er sie wirklich abschicken wollte. Er stand am Briefkasten und warf sie
+  nicht ein, weil er sich lieber einbilden wollte, sie würde antworten.
+  **Der Weggang unterläuft bewusst K13s eigene Ankündigung** („Erst wurde das Licht anders.
+  Dann die Umrisse."): Nichts davon geschieht. Herbert dreht sich um und geht wie ein alter
+  Mann, der abends nach Hause geht — nur ohne Schritt-Geräusch. Endet mitten in der Bewegung:
+  er sieht über die Schulter zurück und **lächelt** (BILD).
+  ⚠️ **Neuer Kanon-Fakt:** Die Tochter der Brandts heißt **Jule**. ⚠️ Bewusst *nicht* „Lena" —
+  zu nah an **Lina**, dem befreiten Geist aus Staffel 1 (11 Nennungen in `Serien_Kanon.md`).
 
 ---
 
@@ -400,6 +420,7 @@ beim Kanon-Check zu K8.
 | K11 | ~1.060 | 36,0 % — stille Trauerszene, bewusst dialogisch gehalten | ✅ Ø-Satz 6,59 · 0 echte Verstöße · Kurz-Absätze 6,2 % |
 | K12 | ~950 | 38,7 % — Synthese + Ausführung, Aktschluss | ✅ Ø-Satz 6,18 · 0 Verstöße · Kurz-Absätze 8,9 % |
 | K13 | ~1.110 | **33,9 %** — Ereignis- und Wahrnehmungskapitel | ⚠️ Ø-Satz 5,96 · 0 Verstöße · Kurz-Abs 9,5 % · **Dialog unter der 35-%-Grenze** — zweiter Fall nach K6 (31,4 %). Beide Male ein Kapitel, dessen Kern ein physisches Ereignis ist. Im Stimmen-Pass zusammen prüfen, ob das buchweit auffällt |
+| K14 | ~985 | 46,9 % — emotionaler Höhepunkt, fast durchgehend Dialog | ✅ Ø-Satz 6,53 · 0 Verstöße · Kurz-Abs 11,2 % (über Band 5s 9,6 %, im Klimax vertretbar — bei Aktschluss gegenprüfen) |
 
 ⚠️ **Messkorrektur (Stimmen-Prüfung Akt 2):** Die Dialog-Prozentwerte für K1–K8 waren in
 früheren Einträgen dieser Tabelle **zu hoch angesetzt**. Die alte Methode zählte einen
