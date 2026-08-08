@@ -390,6 +390,25 @@ beim Kanon-Check zu K8.
   er sieht über die Schulter zurück und **lächelt** (BILD).
   ⚠️ **Neuer Kanon-Fakt:** Die Tochter der Brandts heißt **Jule**. ⚠️ Bewusst *nicht* „Lena" —
   zu nah an **Lina**, dem befreiten Geist aus Staffel 1 (11 Nennungen in `Serien_Kanon.md`).
+- **K15:** Direkter Anschluss. Herbert geht endgültig — **ohne markierten Moment**: irgendwo
+  zwischen Schranktür und Flur ist er nicht mehr da, niemand könnte sagen, wann. Kein Licht,
+  kein Windstoß, kein Geräusch. Nur der leere Sonnenstreifen.
+  Frau Brandt setzt sich in den Sonnenstreifen und benennt **Trauer UND Frieden** getrennt:
+  „Vorher war es Angst. Jetzt ist es nur noch traurig." Schatten legt sich genau dorthin, wo
+  Herbert stand, und schläft in der Sonne ein — Theos Lachen darüber ist der Humor-Beat, den
+  der Plan für dieses Kapitel vorsah.
+  Frau Brandt behält die Kartons **oben statt im Keller** und legt die zwölf Karten in eine
+  Küchenschublade, die vorgelesene obenauf. Sie will Jule (8) von ihrem Opa erzählen — „nicht
+  alles", aber dass er Rosen hatte und nicht gut in Anrufen war.
+  ⚠️ **Neuer Kanon-Fakt: Jule ist acht Jahre alt.** Konsistent mit K5 (sie war noch nicht
+  geboren, als der Kontakt vor zwölf Jahren abbrach).
+  **Schluss (OBJEKT):** Nora sieht sich das Schloss zum ersten Mal in Ruhe an. Es ist
+  **immer noch kalt** — Wohnung, Jackentasche, Faust haben nichts daran geändert. Verarbeitung
+  fehlerfrei, kein Rost, keine Gussnaht. Und auf der flachen Seite sitzt eine **Prägung:
+  dasselbe winzige Schloss-Zeichen, das in die Schranktür geritzt war.** Schlusszeilen:
+  „Einmal geritzt, damit man es findet. / Einmal geprägt, damit man weiß, von wem es ist."
+  ➡️ **Verbindet K9s Symbol mit dem Objekt** und macht die Handschrift des Täters greifbar,
+  **ohne** zu verraten, dass es viele davon gibt — das bleibt K16 bzw. S2-2.
 
 ---
 
@@ -421,6 +440,14 @@ beim Kanon-Check zu K8.
 | K12 | ~950 | 38,7 % — Synthese + Ausführung, Aktschluss | ✅ Ø-Satz 6,18 · 0 Verstöße · Kurz-Absätze 8,9 % |
 | K13 | ~1.110 | **33,9 %** — Ereignis- und Wahrnehmungskapitel | ⚠️ Ø-Satz 5,96 · 0 Verstöße · Kurz-Abs 9,5 % · **Dialog unter der 35-%-Grenze** — zweiter Fall nach K6 (31,4 %). Beide Male ein Kapitel, dessen Kern ein physisches Ereignis ist. Im Stimmen-Pass zusammen prüfen, ob das buchweit auffällt |
 | K14 | ~985 | 46,9 % — emotionaler Höhepunkt, fast durchgehend Dialog | ✅ Ø-Satz 6,53 · 0 Verstöße · Kurz-Abs 11,2 % (über Band 5s 9,6 %, im Klimax vertretbar — bei Aktschluss gegenprüfen) |
+| K15 | ~935 | 34,7 % — Abschied und Ausklang | ✅ Ø-Satz 6,03 · 0 Verstöße · Kurz-Abs 6,7 % · Dialog minimal unter 35 % |
+
+⚠️ **Beobachtung aus Akt 4 (nach K13/K15):** In den **ruhigen, ereignisgetriebenen** Kapiteln
+driftet der Erstentwurf reproduzierbar in dieselbe Schwäche — lange Erzählsätze und zu wenig
+Dialog. K13 startete mit 754 W / 14,5 % Dialog / 6 Satzlängen-Verstößen, K15 mit 726 W /
+24,5 % / 6 Verstößen. Die dialoggetriebenen Kapitel (K14: 46,9 %) haben das Problem nicht.
+**Konsequenz für S2-2: bei Abschied-, Ankunfts- und Beobachtungskapiteln von vornherein mit
+Dialoggerüst planen**, nicht erst nachträglich Dialog einziehen.
 
 ⚠️ **Messkorrektur (Stimmen-Prüfung Akt 2):** Die Dialog-Prozentwerte für K1–K8 waren in
 früheren Einträgen dieser Tabelle **zu hoch angesetzt**. Die alte Methode zählte einen

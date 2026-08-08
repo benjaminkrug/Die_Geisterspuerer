@@ -110,7 +110,7 @@ legalen Zugang hat. Volle Zuordnung zu Halder erst S2-3.
 |---|---|---|
 | S2-1 K6 | Der Schrank hat kein sichtbares Schloss, keinen Griff, kein Schlüsselloch — handwerklich auffällig, aber noch ohne Deutung | ✅ **geschrieben** |
 | S2-1 K8 | Hausmeister Kubiak erinnert sich an **„einen Schlosser"**, der im August zwei Tage lang im ganzen Haus Sicherheitsschlösser einbaute, auch in leerstehenden Wohnungen. ⚠️ **Bewusst ohne Name und ohne Beschreibung** (Kanon-Regel: Halder darf in S2-1 nirgends auftauchen). Schatten reagiert auf Stichwort + Werkstattheft — zeigt: ein *Mensch* ist im Spiel, kein Geist | ✅ **geschrieben** |
-| S2-1 K15 | Das geöffnete Schloss ist erkennbar **gefertigt**, kein Zufallsprodukt — Beweisstück, das die Kinder behalten | geplant (`S2-1/Story_Outline_S2-1.md`) |
+| S2-1 K15 | Das geöffnete Schloss ist erkennbar **gefertigt**, kein Zufallsprodukt — Beweisstück, das die Kinder behalten | ✅ **geschrieben** — dazu neu: das Schloss trägt eine **Prägung** desselben Zeichens, das in die Schranktür geritzt war. Macht die Handschrift des Täters greifbar, **ohne** zu verraten, dass es viele gibt |
 | S2-2 | Dutzende **identischer** Schlösser in der Werkstatt — dieselbe Hand, industrielle Menge | geplant (`S2-2/Story_Outline_S2-2.md`) |
 | S2-3 | Rückblick-Erkenntnis: Der „Schlosser" aus S2-1 K8 war Halder. Der Beruf war nie eine Tarnung *für* die Tat — er ist die Tat | geplant (`S2-3/Story_Outline_S2-3.md`) |
 
