@@ -1317,8 +1317,43 @@ herleitbar statt nur behauptet.
 
 ---
 
-➡️ **Nächster Schritt: Phase 6** — Abschluss-Prüfung (alle Fäden belegt, Ghost-Regel
-geprüft, Staffel-Brücke erfüllt). Danach Produktion: Cover, Taschenbuch-/eBook-Build,
-KDP-Beschreibung. Weiterhin offen und an S2-2 gebunden: die Leseprobe auf den nächsten
-Band (A3) — ⚠️ in Band 1–4 waren diese Leseproben **erfunden**, für S2-1 gilt: erst nach
-S2-2 erstellen und maschinell Absatz für Absatz gegen den echten Text prüfen.
+---
+
+## ✅ PHASE 6 — ABSCHLUSS-PRÜFUNG BESTANDEN (2026-08-09)
+
+**Volles Protokoll:** [`Setup_Payoff_Tracker_S2-1.md`](Setup_Payoff_Tracker_S2-1.md),
+Abschnitt „Phase 6". Kurzfassung:
+
+- **Ghost-Regel gewahrt** — null verbotene Begriffe auf 16.610 Wörter
+- **Setup/Payoff:** 33 ✅, zwei bewusste Staffel-Fäden offen, **ein echter offener Posten**
+  (das Foto aus K5)
+- **Staffel-Brücke:** 4 von 5 Pflichten erfüllt, **eine Abweichung** (die geplante „dünne,
+  helle Narbe" nach dem Rückriss steht nicht im Buch)
+- **Cliffhanger:** Muster ✅; die **Form** erstmals geprüft (Band-5-Blindstelle) — 6
+  gesprochene, 10 Erzählerschlüsse, längster Lauf K12–K16. Kein Befund
+- **Schatten:** 16/16 mit echter Reaktion — nach Korrektur eines **eigenen Prüffehlers**
+- **Kanon:** Silber 0×, Lina 0×, insgesamt zwei Sätze Staffel-1-Rückbezug, beide in K1.
+  Neuleser-Regel eingehalten
+- **Grusel-Grad:** nicht messbar — die geplanten Bauteile sind nachweislich verbaut
+
+### ★ Prozess-Fund für S2-2: der Schatten-Check misst am falschen Ort
+
+Mein Check verlangte „Schatten" **und** ein Reaktionsverb im selben Absatz und meldete für
+K13 keine Reaktion — dabei steht dort der stärkste Schatten-Moment des Buchs. Der Name
+steht in einem Absatz, die Verben in den folgenden: **Pronomen.**
+
+Band 5 dokumentierte denselben Fehler in der Gegenrichtung („Erwähnung ≠ Reaktion").
+Beide Male misst das Werkzeug am Absatz, was über Absätze hinweg erzählt wird. **Für S2-2
+bis S2-5: Der Schatten-Check muss Pronomen-Ketten auflösen oder von Hand gelesen werden.**
+
+---
+
+➡️ **Nächster Schritt: Produktion** — Cover, Taschenbuch-/eBook-Build, KDP-Beschreibung.
+⚠️ Vor dem Taschenbuch-Build den Kopfkommentar von
+[`build_manuskript_komplett_s2_1.py`](../../Scripts/build_manuskript_komplett_s2_1.py)
+lesen: **beide ENDE-Marker gehören aus dem Druck**, und die Frontmatter (Widmung,
+Epigraph) ist weiterhin nicht freigegeben.
+
+Weiterhin offen und an S2-2 gebunden: die Leseprobe auf den nächsten Band (A3) — ⚠️ in
+Band 1–4 waren diese Leseproben **erfunden**, für S2-1 gilt: erst nach S2-2 erstellen und
+maschinell Absatz für Absatz gegen den echten Text prüfen.

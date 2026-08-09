@@ -41,8 +41,8 @@ geerbtes.
 | 8 | Hausmeister erwähnt einen "Schlosser", der vor Monaten alle Schlösser wartete (K8) | Bestätigt als Halders Handschrift — **wird in S2-1 selbst NICHT aufgelöst**, Payoff erst S2-2/S2-3 | ✅ K8 geschrieben, Setup gepflanzt — Herr Kubiak, Werkstattheft, Datum **August letztes Jahr**; Name/Aussehen des Schlossers bewusst nicht genannt (Kanon-Regel 4) · Payoff bleibt offen (Staffel-Faden) |
 | 9 | Karton mit Herberts Sachen (K11) | Der letzte, ungeöffnete Brief wird der Schlüsselmoment der Befreiung (K14) | ✅ K11 gepflanzt → ✅ **K14 eingelöst** — genau die zwölfte Karte geöffnet und vorgelesen; „Papa" statt „Dein Vater" als Schlüsseldetail |
 | 17 | *(rückwirkend erkannt)* Herberts „Jedes Jahr wollte ich es ihr sagen" (K3) | Die zwölf nie abgeschickten Geburtstagskarten (K11) — aus einer Floskel wird physischer Beweis | ✅ K3 gepflanzt → K11 eingelöst |
-| 10 | Winziges Schloss-Symbol, in den Schrank geritzt (K9) | Physisches Schloss gefunden (K10), geöffnet (K13) | ✅ K9 gepflanzt (Symbol) → ✅ K10 eingelöst (physisches Schloss ertastet, direkt unter dem Symbol). Öffnung K13 offen |
-| 15 | *(neu, K10)* Gewalt am Schloss verletzt **Herbert**, nicht das Schloss — „Es ist an mir dran" | K12: Nora leitet daraus „Sanftheit statt Kraft" ab; K13: der richtige Ansatz öffnet es | ✅ K10 gepflanzt → ✅ K12 eingelöst (Halten statt Ziehen, erstes Nachgeben). Öffnung K13 offen |
+| 10 | Winziges Schloss-Symbol, in den Schrank geritzt (K9) | Physisches Schloss gefunden (K10), geöffnet (K13) | ✅ K9 gepflanzt (Symbol) → ✅ K10 eingelöst (physisches Schloss ertastet, direkt unter dem Symbol) → ✅ K13 geöffnet („Der Bügel glitt aus seiner Öse") |
+| 15 | *(neu, K10)* Gewalt am Schloss verletzt **Herbert**, nicht das Schloss — „Es ist an mir dran" | K12: Nora leitet daraus „Sanftheit statt Kraft" ab; K13: der richtige Ansatz öffnet es | ✅ K10 gepflanzt → ✅ K12 eingelöst (Halten statt Ziehen, erstes Nachgeben) → ✅ K13 geöffnet |
 | 18 | *(neu, K10/K12)* Das Schloss ist **auffallend kalt**, gehört nicht zum Zimmer | K12: die Kälte ist der Beleg, dass es zu Herbert gehört, nicht zum Möbel — trägt die Synthese | ✅ K10 gepflanzt → ✅ K12 eingelöst |
 | 16 | *(neu, K10)* Herberts Werkzeugkasten, jedes Werkzeug mit seinem Namen beklebt | Stiller Charakterbeleg (er wollte, dass etwas *seins* ist) — zahlt thematisch auf K11 ein, wo dieselbe stumme Zuwendung in den Geburtstagskarten steckt | ✅ K10 geschrieben |
 | 11 | „Wir machen alles richtig — dann sind wir nicht das Problem" (K4) | Bestätigt durch den Fund des Schlosses — die Bindung war nie ein Kompetenz-Problem (K12/K13) | ✅ K4 geschrieben, Setup gepflanzt |
@@ -145,3 +145,108 @@ trotzdem bleibt") mit dem stärksten Schatten-Moment des Buchs.
 - Kein Setup ohne Payoff am Ende von Phase 4 — außer den in C gelisteten Staffel-Fäden.
 - Neue, beim Schreiben spontan entstehende Setups sofort hier ergänzen (wie bei Band 5
   passiert, z. B. der Ortsschild-Beat in K9).
+
+---
+
+## ✅ PHASE 6 — ABSCHLUSS-PRÜFUNG (2026-08-09)
+
+> Prüfliste aus `Band5/PLAN_Band5.md` Abschnitt 6 — **inklusive der drei Prüffehler, die
+> Band 5 dabei bei sich selbst gefunden hat.** Leitregel von dort: *nichts behaupten, alles
+> wörtlich am Text nachweisen.*
+
+### 1. Ghost-Regel — ✅ gewahrt
+
+Gesucht nach `Dämon · Monster · Entität · Bestie · teuflisch · böser Geist · das Böse`:
+**null Treffer auf 16.610 Wörter.** Herbert ist durchgehend ein trauriger, festgehaltener
+Mensch; bedrohlich ist ausschließlich, was *ihm angetan* wird. Der Kanon-Eintrag zum
+Rückriss (`Serien_Kanon.md`) deckt sich mit dem Text.
+
+### 2. Setup/Payoff — ✅ bis auf einen offenen Posten
+
+**33 Einträge, alle ✅, kein ❌.** Zwei bewusste Staffel-Fäden bleiben offen (#8 Schlosser →
+S2-2/S2-3, #12 Schloss als Beweisstück → S2-2) — genau wie Band 5 seinen einen
+Staffel-2-Faden offenließ.
+
+Zwei Tracker-Zeilen sagten noch „Öffnung K13 offen" — Stand von vor dem Schreiben von K13.
+Am Text geprüft und korrigiert: *„Der Bügel glitt aus seiner Öse."* **Papierfehler, kein
+Buchfehler.**
+
+⚠️ **Offen: Setup #13, das Foto.** Frau Brandt gibt Nora in K5 ein Foto von Herbert im
+Garten — *„Behaltet es. Vielleicht hilft es euch, ihn zu verstehen."* Nora steckt es ein.
+**Danach kommt es im ganzen Buch nicht mehr vor.** Im Tracker als „optional" geführt, aber
+es ist der einzige Gegenstand, den eine Figur der Hauptfigur mit einem ausgesprochenen
+Zweck übergibt. → Entscheidung des Autors, siehe unten.
+
+### 3. Staffel-Brücke — 4 von 5 Pflichten erfüllt, 1 abgewichen
+
+| Pflicht (`PLAN_Staffel2.md` Abschnitt 6, S2-1) | Im Text |
+|---|---|
+| Bindungssignatur: Geist wird sichtbar zurückgerissen | ✅ K3 und K7 |
+| Eröffnungshook: jemand klopft an ihre Tür | ✅ K1 |
+| Physischer Anker: winziges Schloss, unsichtbar bis man weiß, wonach man sucht | ✅ K9 (Symbol) → K10 (Fund) → K13 (geöffnet) |
+| Kein genereller Trick gegen den Antagonisten | ✅ die Methode wird nie verallgemeinert |
+| Beweisstück, das die Kinder behalten → S2-2 | ✅ K15 (warum sie es behält), K16 (in der Schublade) |
+| **„Zurück bleibt eine dünne, helle Narbe an der Stelle, wo die Leine saß"** | ❌ **nicht im Manuskript** |
+
+→ Bewertung und Entscheidungsvorschlag unten.
+
+### 4. Cliffhanger — Muster ✅, Form geprüft
+
+Band 5s Phase 6 fand eine Blindstelle: Das Register typisiert nach **Inhalt** und prüft nie
+die **Form** des Schlusssatzes. Für S2-1 hier zum ersten Mal geprüft.
+
+**6 gesprochene Zeilen · 10 Erzählerzeilen.** Längster gleichförmiger Lauf: **K12–K16, fünf
+Erzählerschlüsse hintereinander.**
+
+⚪ **Kein Befund.** Band 5 hatte denselben Fall spiegelverkehrt (K09–K13, fünf gesprochene)
+und ließ ihn bewusst stehen, mit dem Argument: Band 1–3 haben Läufe von 8–9 am Stück, und
+die Form folgt dem Inhalt. Hier ist der Lauf die Auflösungsstrecke von Akt 4 — dort ist
+Erzählung die richtige Form, gesprochene Schlüsse würden das Ende zerreden.
+
+### 5. Schatten — ✅ 16/16 mit echter Reaktion
+
+★ **Prüffehler, meiner, nicht des Buchs — die dritte Auflage von Band 5s Fehler Nr. 2.**
+
+Mein erster Check verlangte „Schatten" **und** ein Reaktionsverb im selben Absatz und
+meldete für **K13 keine Reaktion**. K13 enthält den **stärksten** Schatten-Moment des
+ganzen Buchs: Er betritt das Zimmer zum ersten Mal, läuft quer hindurch, schnüffelt in der
+Ecke, setzt sich und wedelt. Der Name steht in einem Absatz (*„Schatten kam ins Zimmer."*),
+die Verben in den folgenden (*„Er lief quer durch den Raum …"*) — **Pronomen.**
+
+Band 5 dokumentierte den Fehler als „Erwähnung ≠ Reaktion". Meiner ist die Umkehrung:
+**Reaktion ohne Namen im selben Absatz.** Beide Male misst das Werkzeug am Absatz, was
+über Absätze hinweg erzählt wird. Für S2-2 vormerken: Der Schatten-Check muss
+Pronomen-Ketten auflösen oder von Hand gelesen werden.
+
+Von Hand nachgeprüft: **alle 16 Kapitel** tragen mindestens eine echte Reaktion.
+
+### 6. Kanon — ✅ sauber
+
+| Name | Vorkommen | Bewertung |
+|---|---|---|
+| Frau Silber | **0×** | korrekt — Bonus, nie Pflicht (Abschnitt A) |
+| Lina | **0×** | korrekt — befreiter Staffel-1-Geist, kehrt nicht zurück |
+| Graven | 5× | 4× als Stadtname, 1× als erlaubte Erinnerung („das Gewölbe unter dem Gravenhaus") |
+| Schleier | 1× | eine Zeile in K1, selbsterklärend für Neuleser |
+| Frau Held | 4× | die Vermittlerin — trägt die neue Prämisse „die Fälle kommen zu ihnen" |
+
+Insgesamt **zwei Sätze** Staffel-1-Rückbezug im ganzen Buch, beide in K1, beide ohne
+Vorwissen verständlich. **Neuleser-Regel eingehalten.**
+
+**Leuchtturm-Faden:** im Text bewusst nicht benannt. K15 stellt die Tatsache fest, ohne sie
+zu erklären — *„Früher haben wir sie gesucht. Jetzt kommen sie zu uns."* Genau die richtige
+Form für einen Staffel-Seed: benannt, nicht aufgelöst.
+
+### 7. Grusel-Grad — nicht messbar (ehrliche Antwort, wie bei Band 5)
+
+Band 5s Phase 6 hatte diesen Punkt zuerst stillschweigend übersprungen. Die ehrliche
+Antwort dort gilt hier unverändert: **Vokabeln zählen misst keine Angst** (Band 1 mit
+3/10 hat die höchste Kälte-Dichte der Reihe). Nachweisbar ist nur, dass die **geplanten
+Bauteile verbaut sind**: Rückriss 2×, Kälte-Eskalation mit sichtbarem Atem und Reif von
+innen nach außen, das winzige Schloss, Herberts Schrei bei Gewaltanwendung. Ob es als der
+geplante Grad wirkt, entscheidet der Autoren-Read.
+
+### Bilanz
+
+**Phase 6 bestanden.** Ein offener Posten (Foto), eine Plan-Abweichung (Narbe), ein
+Prozess-Fund (Schatten-Check), zwei korrigierte Papierfehler. **Kein Buchfehler.**
