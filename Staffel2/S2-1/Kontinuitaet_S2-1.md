@@ -1231,13 +1231,51 @@ S2-1 baut ohne Kapiteltrenner — `# Kapitel N` markiert die Grenze eindeutig.
 Die letzte Prüfung ist eine Ergänzung gegenüber Band 5 — sie hält den Cliffhanger direkt
 an der Kapitelgrenze fest, statt nur zu prüfen, dass er irgendwo im Text vorkommt.
 
-### ⚠️ Offen: Frontmatter
+### ✅ Frontmatter — freigegeben 2026-08-09
 
-**Band 3, 4 und 5 haben je eine Widmung und ein Epigraph — für S2-1 existiert kein
-freigegebener Text.** Weder `PLAN_Staffel2.md` noch die S2-1-Dateien enthalten einen.
-Das Skript **erfindet dafür nichts**: Die Konstanten stehen leer, das Manuskript wird ohne
-Frontmatter gebaut, und der Build gibt eine deutliche Warnung aus. Nach Freigabe durch den
-Autor eintragen und neu bauen — am übrigen Build ändert das nichts.
+> *Für alle, die zuerst hätten anrufen sollen.*
+> *Und für die, die es noch können.*
+
+> *Ein Geist, der nicht gehen kann, ist eine traurige Sache.*
+> *Ein Geist, der nicht gehen darf, ist etwas anderes.*
+> — aus dem Notizbuch von Margret Silber
+
+**Die Regel, an der beides gemessen wurde**, stammt aus einem Fehlversuch bei Band 5: Eine
+Widmung wird **vor** dem Buch gelesen. Sie muss eine Lebenserfahrung benennen, die man
+**sofort** erkennt — und beim Wiederlesen **noch besser** werden. Band 5s erster Entwurf
+(„Für alle, die sich nicht umzudrehen trauen") konnte nur das Zweite.
+
+**Widmung:** Vorher verständlich, weil jedes Kind aus Streit mit Geschwistern kennt, sich
+nicht als Erster zu entschuldigen. Nachher besser, weil es Herberts wörtliches Geständnis
+aus K14 ist: *„Dabei war ich derjenige, der hätte anrufen müssen." / „Ich habe nie
+angerufen."* Keine Überschneidung mit B3 (zuhören — was dieses Buch ausdrücklich nicht
+reichen lässt), B4 (gehen lassen) oder B5 (etwas verpasst).
+
+**Epigraph — mit einer Zusatzaufgabe.** Alle drei bisherigen sagen sinngemäß „der
+schlimmste Geist ist der, der …". Die Bedrohung von Staffel 2 ist aber **kein Geist mehr**,
+sondern ein lebender Mensch. Das Epigraph markiert diesen Kategorienwechsel — sonst
+verspricht es ein Buch, das die Staffel gerade hinter sich lässt. Motiv-Reihe:
+
+| B3 | die Erlaubnis aufzuhören |
+|---|---|
+| B4 | die Liebe, die nicht hergibt |
+| B5 | die Gewissheit, die nicht hinsieht |
+| **S2-1** | **die Erlaubnis, die jemand anderes verweigert** |
+
+Damit ist es die Umkehrung von Band 3 und begründet zugleich den Staffeltitel „Die
+Gebundenen". Kein Twist-Spoiler: nennt weder Täter noch Methode noch das Schloss. Es macht
+den Rückriss in K3 zur **Bestätigung statt zur Verwirrung** — Teil F2 hatte festgestellt,
+dass dem Buch dramatische Ironie eher fehlt.
+
+**Quelle bleibt Silber**, obwohl sie in S2-1 kein einziges Mal vorkommt: Die Kinder sind
+jetzt ihre Nachfolger, für einen Neuleser liest sich die Zeile einfach als alte Quelle, und
+es ist die einzige Klammer zu Staffel 1, die kein Vorwissen verlangt.
+
+Neu gebaut und am Artefakt geprüft: Frontmatter sitzt, **kein Ornament direkt vor Kapitel 1**,
+alle Strukturprüfungen bestehen. Buch jetzt **16.723 Wörter** — die 14 Wörter Zuwachs
+gegenüber 16.709 sind die Widmung, die `zaehle_woerter` wie die Titelzeilen mitzählt
+(bekannte, bewusst stehen gelassene Ungenauigkeit; das Epigraph wird als `>`-Block korrekt
+ausgenommen).
 
 ### Titelkopf (nach `PLAN_Staffel2.md` Abschnitt 10)
 
@@ -1387,8 +1425,10 @@ bis S2-5: Der Schatten-Check muss Pronomen-Ketten auflösen oder von Hand gelese
 ➡️ **Nächster Schritt: Produktion** — Cover, Taschenbuch-/eBook-Build, KDP-Beschreibung.
 ⚠️ Vor dem Taschenbuch-Build den Kopfkommentar von
 [`build_manuskript_komplett_s2_1.py`](../../Scripts/build_manuskript_komplett_s2_1.py)
-lesen: **beide ENDE-Marker gehören aus dem Druck**, und die Frontmatter (Widmung,
-Epigraph) ist weiterhin nicht freigegeben.
+lesen: **beide ENDE-Marker gehören aus dem Druck.** Frontmatter ist seit 2026-08-09
+freigegeben und im Manuskript. ⚠️ Band 5 hat gelernt, sie im Taschenbuch-Skript zu
+**importieren statt zu kopieren** — B1–4 definierten sie in zwei Dateien, mit
+Divergenzrisiko zwischen Manuskript und Druck. Für S2-1 genauso halten.
 
 Weiterhin offen und an S2-2 gebunden: die Leseprobe auf den nächsten Band (A3) — ⚠️ in
 Band 1–4 waren diese Leseproben **erfunden**, für S2-1 gilt: erst nach S2-2 erstellen und

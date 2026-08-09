@@ -5,6 +5,20 @@ Ein Grusel-Abenteuer für Kinder ab 12 Jahren
 Autor: Benjamin Krug
 Stand: 2026-08-09
 
+---
+
+*Für alle, die zuerst hätten anrufen sollen.*
+
+*Und für die, die es noch können.*
+
+---
+
+> *Ein Geist, der nicht gehen kann, ist eine traurige Sache.*
+>
+> *Ein Geist, der nicht gehen darf, ist etwas anderes.*
+>
+> — aus dem Notizbuch von Margret Silber
+
 
 # Kapitel 1 – Die Frau vor der Tür
 

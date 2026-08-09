@@ -104,10 +104,56 @@ ALTERSANGABE = "Ein Grusel-Abenteuer für Kinder ab 12 Jahren"
 ERWARTETE_KAPITEL = 16
 
 # ── Literarische Frontmatter ──────────────────────────────────────────────────
-# ⚠️ LEER = NICHT FREIGEGEBEN. Siehe Kopfkommentar. Nicht selbst befuellen,
-#    ohne dass der Autor den Text bestaetigt hat.
-WIDMUNG_ZEILEN: list = []
-EPIGRAPH_ZEILEN: list = []
+# ✅ VOM AUTOR FREIGEGEBEN 2026-08-09 (Benjamin Krug).
+#
+# ★ Die Regel, an der sich beides messen lassen muss, stammt aus einem
+#   Fehlversuch bei Band 5 (dort im Skript dokumentiert): Eine Widmung wird
+#   VOR dem Buch gelesen. Sie muss eine Lebenserfahrung benennen, die man
+#   SOFORT erkennt - und beim Wiederlesen NOCH besser werden. Beides zu
+#   koennen ist der Standard der Serie. Band 5s erster Entwurf ("Fuer alle,
+#   die sich nicht umzudrehen trauen") konnte nur das Zweite und wurde
+#   deshalb ersetzt.
+#
+# Widmung: Thema "nicht als Erster nachgeben" = das Herz von S2-1.
+#   Vorher verstaendlich: sich nicht als Erster entschuldigen kennt jedes
+#   Kind aus Streit mit Geschwistern und Freunden.
+#   Nachher besser: Es ist Herberts woertliches Gestaendnis in K14 -
+#   "Dabei war ich derjenige, der haette anrufen muessen." / "Ich habe nie
+#   angerufen."
+#   Kein Twist-Spoiler: nennt weder das Schloss noch den Binder noch die
+#   zwoelf Karten.
+#   Keine Wiederholung: B3 = zuhoeren (dieses Buch laesst Zuhoeren
+#   ausdruecklich NICHT reichen), B4 = gehen lassen, B5 = etwas verpasst.
+WIDMUNG_ZEILEN = [
+    "Für alle, die zuerst hätten anrufen sollen.",
+    "Und für die, die es noch können.",
+]
+
+# Epigraph: Thema "kann vs. darf".
+#   ★ Diesmal hat das Epigraph eine zusaetzliche Aufgabe. Alle drei bisherigen
+#   sagen sinngemaess "der schlimmste Geist ist der, der ...". Die Bedrohung
+#   von Staffel 2 ist aber KEIN Geist mehr, sondern ein lebender Mensch, der
+#   Geister festhaelt. Das Epigraph muss diesen Kategorienwechsel markieren,
+#   sonst verspricht es ein Buch, das die Staffel gerade hinter sich laesst.
+#
+#   Steigert das Serien-Motiv und kehrt Band 3 um:
+#     B3 = die Erlaubnis aufzuhoeren  ·  B4 = die Liebe, die nicht hergibt
+#     B5 = die Gewissheit, die nicht hinsieht
+#     S2-1 = die Erlaubnis, die jemand anderes verweigert
+#   Begruendet zugleich den Staffeltitel "Die Gebundenen".
+#
+#   Kein Twist-Spoiler: sagt nicht wer, nicht wie, und nichts von einem
+#   Schloss. Es macht den Rueckriss in K3 zur Bestaetigung statt zur
+#   Verwirrung - die Wirkungspruefung (Teil F2) hatte festgestellt, dass dem
+#   Buch dramatische Ironie eher fehlt.
+EPIGRAPH_ZEILEN = [
+    "Ein Geist, der nicht gehen kann, ist eine traurige Sache.",
+    "Ein Geist, der nicht gehen darf, ist etwas anderes.",
+]
+# Quelle bleibt Silber, obwohl sie in S2-1 kein einziges Mal vorkommt: Die
+# Kinder sind jetzt ihre Nachfolger, fuer einen Neuleser liest sich die Zeile
+# einfach als alte Quelle, und es ist die einzige Klammer zu Staffel 1, die
+# kein Vorwissen verlangt.
 EPIGRAPH_SOURCE = "aus dem Notizbuch von Margret Silber"
 
 # ── Pfade ─────────────────────────────────────────────────────────────────────
