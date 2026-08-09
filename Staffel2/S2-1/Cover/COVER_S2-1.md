@@ -186,12 +186,35 @@ and never harsh.
 THE UPPER THIRD of the image is calm, dark hallway wall and door lintel -
 plain surface with no detail, because the title text sits there.
 
-[BLOCK C - THE THREE FIGURES, wörtlich aus Cover_Reihenstandard.md]
+THE THREE FIGURES - ALL SEEN FROM DIRECTLY BEHIND, in the lower third.
+The viewer stands behind them and looks past their shoulders. We see the BACK
+of their heads. Their faces are simply not in the picture - not in profile,
+not in three-quarter view, not glimpsed. This is a fixed rule of the series.
+They are NOT flat silhouettes: they are fully painted figures lit from the
+front by the scene's single light source, so their clothing colours read
+clearly even though they are seen from behind.
 
-The three of them stand in the hallway, a few steps short of the door,
-looking towards the gap. Nora is closest to the door. Schatten has stopped
-and is NOT moving forward - he stands slightly apart, refusing to go nearer,
-his one amber eye catching the cold light.
+NORA (girl, 13) - straight shoulder-length MID-BROWN hair (not red, not
+blonde). DARK TEAL zip-up hoodie (#2a8a7a), a clear blue-green. This is her
+fixed series colour and must be plainly visible.
+
+THEO (boy, 11) - smaller, half a step behind. Messy slightly curly DARK-BLOND
+hair. Oversized MILITARY OLIVE-GREEN bomber jacket (#6b7a3a), a dull
+yellow-green. His fixed series colour, plainly visible.
+
+DO NOT SWAP THESE COLOURS: the GIRL wears TEAL, the BOY wears OLIVE. Readers
+identify them by exactly this.
+
+SCHATTEN (the dog) - medium-sized shaggy mixed-breed with dark, almost black
+fur, a plain narrow LEATHER COLLAR (no harness, no chest straps, no vest).
+Seen from behind and slightly to the side so that ONE eye is visible: a
+LUMINOUS AMBER EYE (#d4920b), glowing from within. It is the single living
+warm point of the cover and must stay visible at thumbnail size.
+
+They stand in the hallway, a few steps short of the door, looking towards the
+gap. Nora is closest to it. Schatten has STOPPED and is not moving forward -
+he stands slightly apart, refusing to go nearer, his one amber eye catching
+the cold light.
 
 DO NOT INCLUDE: children's faces or any face in profile; a clearly rendered
 ghost figure with a visible face; monsters, skeletons, bones, blood, gore,
@@ -228,7 +251,12 @@ background: no text, no focal detail, no bright object.
 Do NOT paint a grey, cream or white rectangle there, and do NOT paint a
 barcode. The printer places the real barcode on top of the plain background.
 
-DO NOT INCLUDE: [Block D wie oben]
+DO NOT INCLUDE: children's faces or any face in profile; a clearly rendered
+ghost figure with a visible face; monsters, skeletons, bones, blood, gore,
+scary grimaces; a third child or any additional person; publisher logos,
+badges, seals, age roundels; a painted frame or border around the image;
+modern elements, cars, phones, screens; neon colours; manga, anime or flat
+cartoon style; any text anywhere - the back cover carries NO text at all.
 ```
 
 ---
