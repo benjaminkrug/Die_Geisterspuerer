@@ -1422,6 +1422,92 @@ bis S2-5: Der Schatten-Check muss Pronomen-Ketten auflösen oder von Hand gelese
 
 ---
 
+---
+
+## ⏸️ TASCHENBUCH-BUILD — Skript fertig, DOCX steht aus (2026-08-09)
+
+**Neues Skript:** [`Scripts/build_taschenbuch_docx_s2_1.py`](../../Scripts/build_taschenbuch_docx_s2_1.py),
+abgeleitet von dem für Band 5.
+
+### ⚠️ Was NICHT passiert ist
+
+**DOCX und PDF wurden nicht gebaut.** `python-docx` lässt sich in dieser Umgebung nicht
+installieren — PyPI und das Ubuntu-Archiv liefern beide **403**. Das Skript bricht dort
+sauber ab (Exit 2) und verweist auf die Prüf-Betriebsart. LibreOffice für die
+PDF-Konvertierung ist vorhanden; nur die DOCX-Erzeugung fehlt.
+
+**Zum Bauen** in einer Umgebung mit `python-docx`:
+```
+python Scripts/build_taschenbuch_docx_s2_1.py
+```
+
+### ★ Die Prüf-Betriebsart — und warum sie existiert
+
+```
+python Scripts/build_taschenbuch_docx_s2_1.py --pruefen
+```
+
+Läuft **ohne** `python-docx` und führt genau die Textaufbereitung aus, die auch der echte
+Build benutzt. Das ist kein Komfort-Feature: **Band 5s einziger echter Druckfehler saß
+genau hier.** `Kapitel_18.md` endete mit `**ENDE**`, der Marker schlug bis ins fertige DOCX
+durch — direkt vor die Rezensions-Bitte — und fiel erst beim Prüfen des fertigen Dokuments
+auf. Alles, was diesen Fehler hätte fangen können, ist Textverarbeitung und braucht kein
+Word.
+
+**Ergebnis für S2-1:**
+
+| Prüfung | Ergebnis |
+|---|---|
+| ENDE-Marker (beide) entfernt, keine Restzeile | ✅ |
+| Kapitel im Druck | **16 / 16** |
+| echte Szenentrenner | 65 |
+| Fehl-Ornamente vor/nach Kapitelüberschriften | **0** |
+| letzte Zeile vor dem Nachwort | *„Er legte sich nicht wieder hin."* — der Cliffhanger, kein Marker |
+| Anführungszeichen | 926 öffnende / **926** schließende, 0 gerade übrig |
+| Apostrophe | 12 im Quelltext → 0 übrig |
+| Geviertstriche | 24 im Quelltext → 0 übrig, 40 Halbgeviertstriche gesamt |
+| Frontmatter | importiert, nicht kopiert — Widmung und Epigraph identisch zum Manuskript |
+
+Die Anführungszeichen-Bilanz ist der schärfste Einzeltest: 926 zu 926 heißt, dass der
+paarweise Algorithmus über 16.700 Wörter kein einziges Mal aus dem Tritt gekommen ist.
+
+### Fünf Unterschiede zu Band 5, jeder mit Grund
+
+1. **ENDE-Regex für zwei Marker.** S2-1 trägt `**ENDE**` (Schluss von K16) *und*
+   `**ENDE BAND 1 · DIE GEBUNDENEN**`. Beide gehören aus dem Druck.
+2. **Kein QR-Code ohne ASIN.** S2-1 ist unveröffentlicht. Band 5s Skript hätte ein
+   fehlendes Bild stillschweigend übersprungen — im Buch stünde dann *„Einfach den Code
+   scannen"* und danach kein Code. Hier schaltet `BAND_ASIN = None` den ganzen Block ab,
+   und der Build sagt es laut.
+3. **Kein Teaser.** S2-2 ist nicht geschrieben. Die Regel steht seit Band 5 fest: Von
+   Band 4s 12 Leseproben-Absätzen existieren **0** in Band 5, von Band 3s 16 genau **1**
+   in Band 4 — beide waren spekulativ geschrieben.
+4. **Serienübersicht nur mit kaufbaren Titeln.** S2-2 bis S2-5 gibt es nicht; sie zu
+   listen bräche die Band-5-Regel *„Nie einen Titel bewerben, den es noch nicht zu kaufen
+   gibt."* Stattdessen die fünf Bände der ersten Staffel als Backlist, mit dem
+   ausdrücklichen Hinweis, dass die Reihenfolge egal ist — das stützt den freien Einstieg,
+   statt ihn zu untergraben.
+5. **Titelseite mit Reihenname.** „Die Geisterspürer" hat jetzt zwei Bände mit der Nummer 1.
+   Die Titelseite trägt deshalb „Die Gebundenen · Band 1".
+   ⚠️ Das Wort **„Staffel" taucht nirgends im Buch auf** — internes Planungswort, der Leser
+   kennt es nicht (Regel aus Band 5).
+
+Unverändert aus Band 5 übernommen: der defensive Skip für einen Szenentrenner direkt vor
+einer Kapitelüberschrift (Gürtel und Hosenträger neben dem Wurzel-Fix im Kompilier-Skript)
+und die **importierte statt kopierte** Frontmatter.
+
+### Offen bis zur Veröffentlichung
+
+1. **DOCX + PDF bauen** in einer Umgebung mit `python-docx`
+2. ⚠️ **Am fertigen DOCX prüfen, nicht am Skript.** Band 5s Fehler wurde genau dort
+   gefunden: Kapitelzahl, Fehl-Ornamente, Szenentrenner, kein ENDE-Marker, deutsche
+   Anführungszeichen, Kapitälchen-Auftakt, Seitenzahl
+3. **ASIN eintragen** nach der Veröffentlichung, `build_qr_rezension.py` laufen lassen,
+   neu bauen
+4. **Teaser auf S2-2** erst nach dessen Manuskript — und maschinell gegen den echten Text
+
+---
+
 ➡️ **Nächster Schritt: Produktion** — Cover, Taschenbuch-/eBook-Build, KDP-Beschreibung.
 ⚠️ Vor dem Taschenbuch-Build den Kopfkommentar von
 [`build_manuskript_komplett_s2_1.py`](../../Scripts/build_manuskript_komplett_s2_1.py)
