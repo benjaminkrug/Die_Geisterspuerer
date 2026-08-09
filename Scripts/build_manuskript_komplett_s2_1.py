@@ -51,11 +51,40 @@ Pruefungen (brechen den Build ab, statt still Falsches zu bauen):
 ⚠️ TODO Produktion (uebernommen aus Band 5, gilt hier genauso)
 
   Ein spaeteres build_taschenbuch_docx_s2_1.py braucht:
-  - defensives Ueberspringen eines Szenentrenners direkt vor einer
-    Kapitelueberschrift, egal was im Manuskript steht
-  - eine ENDE-Strip-Regex, die BEIDE Marker erwischt: das "**ENDE**" am Schluss
-    von Kapitel 16 gehoert ins Buch, der Build-Marker darunter nicht:
-        re.sub(r'\\n\\n---\\n\\n\\*\\*ENDE BAND 1 · DIE GEBUNDENEN\\*\\*\\n\\n---\\n*', '', body)
+
+  1. defensives Ueberspringen eines Szenentrenners direkt vor einer
+     Kapitelueberschrift, egal was im Manuskript steht
+
+  2. eine ENDE-Strip-Regex, die BEIDE Marker entfernt — den Build-Marker UND
+     das "**ENDE**" aus Kapitel 16:
+
+         body = re.sub(
+             r'\\n+---\\n+\\*\\*ENDE BAND 1 · DIE GEBUNDENEN\\*\\*\\n+---\\n*', '', body)
+         body = re.sub(r'(?m)^\\s*\\*\\*ENDE\\*\\*\\s*$\\n?', '', body)
+
+     ★ KORREKTUR 2026-08-08: Hier stand zuvor, das "**ENDE**" aus Kapitel 16
+       gehoere ins Buch. **Das ist falsch.** KEIN gedrucktes
+       Geisterspuerer-Buch hat ein alleinstehendes "ENDE" — in den
+       Kapiteldateien von Band 1 bis 4 kommt der Marker ueberhaupt nicht vor
+       (nachgezaehlt), nur Band 5 fuehrt ihn, und dessen Taschenbuch-Skript
+       streicht ihn ausdruecklich wieder heraus, mit genau dieser Begruendung.
+       S2-1 uebernimmt Band 5s Manuskript-Konvention, also auch dessen
+       Druck-Konvention. Wer der alten Anweisung folgt, macht S2-1 zum ersten
+       Band der Reihe mit einem freistehenden "ENDE" im Druck — direkt vor der
+       Rezensions-Bitte.
+
+     Die \\n+-Form ist Absicht: build_taschenbuch_docx_band5.py benutzt sie,
+     eine exakte \\n\\n-Form greift nicht mehr, sobald der Build die Zahl der
+     Leerzeilen aendert.
+
+  3. den Guard aus Band 5 uebernehmen, der nach dem Strippen prueft, ob noch
+     eine ENDE-Zeile uebrig ist, und dann abbricht:
+
+         rest = [z for z in body.split('\\n')
+                 if re.fullmatch(r'\\s*\\*{0,2}ENDE[^*]*\\*{0,2}\\s*', z)]
+
+     Geprueft: Dieser Guard erkennt beide S2-1-Marker. Er ist die Rueckfalllinie,
+     falls Punkt 2 je wieder falsch gefasst wird.
 """
 
 import os
@@ -241,8 +270,10 @@ def build(files: list) -> str:
         parts.append(content)
 
     # ── Abschluss ──────────────────────────────────────────────────────────
-    # Kapitel 16 traegt bereits ein "**ENDE**" (Ende der Geschichte).
-    # Der Marker hier ist der Buch-Marker — genau wie bei Band 1-5.
+    # Kapitel 16 traegt bereits ein "**ENDE**" (Ende der Geschichte), der
+    # Marker hier ist der Buch-Marker — genau wie bei Band 1-5.
+    # ⚠️ BEIDE sind Manuskript-Marker und gehoeren NICHT in den Druck.
+    #    Siehe TODO Produktion, Punkt 2, im Kopfkommentar.
     parts.append(f"\n\n---\n\n{ENDE_MARKER}\n\n---\n")
 
     return "".join(parts)

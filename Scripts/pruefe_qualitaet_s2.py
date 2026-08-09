@@ -38,16 +38,59 @@ STAFFEL2 = {
 
 
 def lade_s2(label: str):
-    """Kompiliertes Manuskript, sonst die Einzelkapitel."""
+    """Kompiliertes Manuskript, sonst die Einzelkapitel.
+
+    ★ Das Artefakt wird gegen die Kapiteldateien geprueft, BEVOR es benutzt wird.
+
+      Ohne diese Pruefung ist das Skript eine Falle: Es bevorzugt das kompilierte
+      Manuskript, und das ist eine zweite Kopie desselben Texts. Wer ein Kapitel
+      aendert und nicht neu baut, bekommt hier weiterhin die alten Zahlen —
+      **ohne jeden Hinweis.** Real getestet 2026-08-08: ein zusaetzlicher Satz in
+      K16 blieb voellig unsichtbar, die Ausgabe war byte-identisch.
+
+      `pruefe_qualitaet.py` hat dieses Problem nicht, weil es ausschliesslich
+      kompilierte Dateien liest — dort gibt es keine zweite Quelle, die
+      auseinanderdriften koennte. Die Zwei-Quellen-Lage entsteht erst hier und
+      muss deshalb auch hier abgesichert werden.
+
+      Geprueft wird inhaltlich, nicht ueber Zeitstempel: `git checkout` setzt
+      mtimes zurueck, der Inhalt luegt nicht.
+    """
     d = os.path.join(ROOT, "Staffel2", label, "Manuskript")
-    fertig = os.path.join(d, f"Manuskript_{label}_Komplett.md")
-    if os.path.exists(fertig):
-        return open(fertig, encoding="utf-8").read(), "kompiliert"
     teile = sorted(glob.glob(os.path.join(d, "Kapitel_*.md")))
     if not teile:
         return None, None
-    return "\n\n".join(open(p, encoding="utf-8").read().strip()
-                       for p in teile) + "\n", "Einzelkapitel"
+    aus_kapiteln = "\n\n".join(open(p, encoding="utf-8").read().strip()
+                               for p in teile) + "\n"
+
+    fertig = os.path.join(d, f"Manuskript_{label}_Komplett.md")
+    if not os.path.exists(fertig):
+        return aus_kapiteln, "Einzelkapitel (noch nicht kompiliert)"
+
+    text = open(fertig, encoding="utf-8").read()
+
+    grund = []
+    fehlend = [os.path.basename(p) for p in teile
+               if open(p, encoding="utf-8").read().strip() not in text]
+    if fehlend:
+        grund.append("nicht im Artefakt enthalten: " + ", ".join(fehlend))
+    # Faengt den umgekehrten Fall: ein Kapitel ist NACH dem Build dazugekommen.
+    im_artefakt = len(re.findall(r"^# Kapitel ", text, re.M))
+    if im_artefakt != len(teile):
+        grund.append(f"{im_artefakt} Kapitel im Artefakt, {len(teile)} Dateien")
+
+    if grund:
+        skript = f"build_manuskript_komplett_{label.lower().replace('-', '_')}.py"
+        print("\n" + "!" * 74)
+        print(f"!! ARTEFAKT VERALTET: {os.path.basename(fertig)}")
+        for g in grund:
+            print(f"!!   {g}")
+        print("!! Gemessen wird an den Kapiteldateien (Quelle der Wahrheit).")
+        print(f"!! Neu bauen mit:  python Scripts/{skript}")
+        print("!" * 74 + "\n")
+        return aus_kapiteln, "Einzelkapitel — ARTEFAKT VERALTET"
+
+    return text, "kompiliert"
 
 
 def messe(text):

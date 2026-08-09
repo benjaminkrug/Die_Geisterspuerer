@@ -1266,6 +1266,46 @@ Manuskript verifiziert:
 | die alten Fassungen restlos entfernt | ✅ |
 | Fehl-Ornamente vor Kapitelköpfen | **0** |
 
+### ⚠️ Nachprüfung von Phase 5 (2026-08-09) — zwei eigene Fehler behoben
+
+Phase 5 wurde nach dem Bau noch einmal **gegen die tatsächlichen Downstream-Skripte**
+geprüft, nicht gegen die eigenen Annahmen. Der Build selbst war sauber; zwei Fehler saßen
+daneben, beide beim ersten Durchgang neu eingebaut.
+
+**🔴 Die TODO-Anweisung im Build-Skript war inhaltlich falsch.** Sie besagte, das
+`**ENDE**` am Schluss von Kapitel 16 gehöre ins gedruckte Buch. Das Gegenteil stimmt:
+`build_taschenbuch_docx_band5.py` streicht diesen Marker ausdrücklich mit der Begründung
+*„KEIN gedrucktes Geisterspürer-Buch hat ein alleinstehendes ENDE"*. Nachgezählt: In den
+Kapiteldateien von Band 1 bis 4 kommt der Marker **überhaupt nicht** vor, nur Band 5 führt
+ihn. S2-1 übernimmt Band 5s Manuskript-Konvention, also auch dessen Druck-Konvention. Wer
+der alten Anweisung gefolgt wäre, hätte S2-1 zum ersten Band der Reihe mit freistehendem
+„ENDE" im Druck gemacht — direkt vor der Rezensions-Bitte. Korrigiert, mit
+Fehler-Historie im Skript, plus dem Band-5-Guard als dritter Rückfalllinie.
+
+**🟠 `pruefe_qualitaet_s2.py` merkte nicht, wenn das kompilierte Manuskript veraltet ist.**
+Das Skript bevorzugt das Artefakt — und das ist eine zweite Kopie desselben Texts. Real
+getestet: ein zusätzlicher Satz in K16, Skript neu gelaufen, **byte-identische Zahlen, keine
+Warnung.** `pruefe_qualitaet.py` hat das Problem nicht, weil es ausschließlich kompilierte
+Dateien liest; die Zwei-Quellen-Lage entsteht erst durch den Fallback auf Einzelkapitel.
+Behoben: Das Artefakt wird vor Gebrauch **inhaltlich** gegen die Kapiteldateien geprüft
+(nicht über Zeitstempel — `git checkout` setzt mtimes zurück). Bei Abweichung: lauter
+Warnblock, Rückfall auf die Kapiteldateien, und die Quelle steht in der Ausgabe.
+
+Vier Zustände getestet: sauber → `[kompiliert]` · Kapitel geändert → erkannt · Kapitel
+gelöscht → über den Kapitelzähler erkannt · wiederhergestellt → wieder `[kompiliert]`.
+Im Fehlerfall wichen die Zahlen tatsächlich ab (Streuung 142 vs. 143) — die Prüfung ist
+also kein Selbstzweck.
+
+**Bewusst nicht angefasst** (vom Autor als nachrangig eingestuft): Die gemeldete Wortzahl
+ist um 14 Wörter zu hoch, weil `zaehle_woerter` die schmucklosen Titelblock-Zeilen nicht
+streicht (16.624 gemeldet, 16.610 echter Fließtext); Kapitel 16 misst im Artefakt 8 Wörter
+zu viel, weil die ENDE-Marker in seinen Body fallen. Beides von Band 1–5 geerbt — eine
+Korrektur würde alle bisher gemeldeten Bandzahlen verschieben.
+
+**Nebenbefund:** Der Build ist bis auf die `Stand:`-Zeile deterministisch — verifiziert
+durch einen zweiten Lauf, der zeilenweise identisch war. Der Zeitstempel ist Absicht und
+verhält sich wie bei Band 1–5.
+
 ### Reproduzierbarkeit der Teil-A-Zahlen
 
 **Neues Skript:** [`Scripts/pruefe_qualitaet_s2.py`](../../Scripts/pruefe_qualitaet_s2.py) —
