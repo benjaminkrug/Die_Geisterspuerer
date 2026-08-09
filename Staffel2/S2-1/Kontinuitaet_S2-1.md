@@ -1508,6 +1508,83 @@ und die **importierte statt kopierte** Frontmatter.
 
 ---
 
+---
+
+## ⏸️ eBOOK-BUILD — Skript fertig, DOCX steht aus (2026-08-09)
+
+**Neues Skript:** [`Scripts/build_ebook_docx_s2_1.py`](../../Scripts/build_ebook_docx_s2_1.py).
+Wie beim Taschenbuch: **DOCX nicht gebaut**, `python-docx` ist hier nicht installierbar.
+Prüf-Betriebsart läuft:
+
+```
+python Scripts/build_ebook_docx_s2_1.py --pruefen
+```
+
+| Prüfung | Ergebnis |
+|---|---|
+| ENDE-Marker (beide) entfernt | ✅ |
+| Kapitel → Heading 1 → Kindle-Navigation | **16 / 16** |
+| echte Szenentrenner | 65 |
+| Fehl-Ornamente | **0** |
+| Anführungszeichen nach Typografie | 926 / 926, 0 gerade übrig |
+| Frontmatter | importiert |
+
+### Die Textaufbereitung wird importiert, nicht kopiert
+
+Band 5 hat gelernt, die **Frontmatter** zu importieren statt sie zu kopieren — B1–4
+definierten sie in zwei Dateien, mit Divergenzrisiko. Für die **Textaufbereitung** gilt
+dasselbe Argument schärfer: ENDE-Regex, Szenentrenner-Logik und Typografie müssten sonst in
+Taschenbuch *und* eBook doppelt gepflegt werden. Deshalb zieht das eBook-Skript
+`bereite_body_vor`, `ereignisfolge`, `apply_typography` und die Frontmatter aus
+`build_taschenbuch_docx_s2_1.py`. **Eine Quelle für alle drei Formate** — Manuskript,
+Taschenbuch, eBook.
+
+### Unterschiede zum Taschenbuch
+
+- Kapitel als **Heading 1** statt eigenem zentrierten Absatz — daraus baut Kindle die
+  Navigation
+- **Inhaltsverzeichnis als Word-Feld** (`TOC \o "1-1" \h \z \u`), direkt nach dem
+  Impressum, mit `updateFields` damit es sich beim Öffnen selbst füllt
+- Keine Seitengröße, keine Ränder, keine Seitenzahlen, keine Spiegelränder
+- **Kein Kapitälchen-Auftakt** — Kindle rendert small-caps unzuverlässig
+- Widmung und Epigraph stehen wie im Druck unmittelbar vor Kapitel 1, das
+  Inhaltsverzeichnis davor
+- Statt QR-Code ein Link (ebenfalls erst ab vorhandener ASIN)
+
+---
+
+## ⚠️ NEBENBEFUND ZU BAND 1 — halb umgestellte Anführungszeichen
+
+Beim Vergleich der Skripte gefunden. **Betrifft nicht S2-1, sondern ein veröffentlichtes
+Buch.**
+
+| Buch | ASCII `"` | öffnend `„` | schließend `“` |
+|---|---|---|---|
+| **Band 1** | **1.078** | **1.078** | **0** |
+| Band 2–5 | 1.300–1.700 | 0 | 0 |
+| S2-1 | 1.852 | 0 | 0 |
+
+Band 1s kompiliertes Manuskript ist das einzige der Reihe, das **halb** umgestellt ist:
+deutsches Anführungszeichen am Anfang, gerades ASCII am Ende — `„Text"`. Alle anderen
+Bände sind reines ASCII, und die Build-Skripte wandeln sie korrekt um.
+
+Dazu kommt: **`build_ebook_docx.py` und `build_taschenbuch_docx.py` (beide Band 1) wandeln
+überhaupt keine Anführungszeichen um** — nachgezählt, null Aufrufe. Band 1 dürfte also mit
+`„Text"` in den Handel gegangen sein. Mild, aber sichtbar.
+
+⚠️ **Die eigentliche Falle liegt in der Zukunft:** Wer je ein modernes Skript mit
+`typo_quotes` auf Band 1s Manuskript ansetzt, macht aus dem schließenden ASCII-Zeichen ein
+**zweites öffnendes** — verifiziert:
+
+> vorher: `„Das sieht aus wie in einem Horrorfilm", sagte Theo`
+> nachher: `„Das sieht aus wie in einem Horrorfilm„, sagte Theo`
+
+**Band 1 braucht deshalb zuerst eine Bereinigung des Manuskripts, nicht nur ein neues
+Skript.** Nicht in dieser Sitzung angefasst — es ist ein verkauftes Buch und gehört nicht
+zu S2-1. Als Notiz abgelegt, damit es beim nächsten Anfassen von Band 1 nicht übersehen wird.
+
+---
+
 ➡️ **Nächster Schritt: Produktion** — Cover, Taschenbuch-/eBook-Build, KDP-Beschreibung.
 ⚠️ Vor dem Taschenbuch-Build den Kopfkommentar von
 [`build_manuskript_komplett_s2_1.py`](../../Scripts/build_manuskript_komplett_s2_1.py)
