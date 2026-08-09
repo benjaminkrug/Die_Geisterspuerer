@@ -1585,6 +1585,65 @@ zu S2-1. Als Notiz abgelegt, damit es beim nächsten Anfassen von Band 1 nicht �
 
 ---
 
+---
+
+## ⏸️ COVER — Konzept fertig, Bild steht aus (2026-08-09)
+
+**Arbeitsvorlage:** [`Cover/COVER_S2-1.md`](Cover/COVER_S2-1.md) — Motiv, beide Prompts,
+Zonen, Prüfliste. **Build-Skript:** [`Scripts/build_cover_kdp_s2_1.py`](../../Scripts/build_cover_kdp_s2_1.py).
+
+⚠️ **Kein Bild erzeugt** — Bildgenerierung ist hier nicht möglich, und die Cover-Skripte
+laufen ebenfalls nicht (`PyMuPDF`, `Pillow` nicht installierbar).
+
+### Der eine echte Beitrag: Kapitel 2 ist das Cover
+
+Der Staffelplan legte das Motiv am 2026-08-07 fest — **vor dem Manuskript**, als
+*„fremde Altbauwohnung, Geist als ‚Gast' gefangen"*. Jetzt existiert das Buch, und K2
+enthält eine Komposition, die **alle acht Regeln der Reihen-Grammatik gleichzeitig
+erfüllt**, ohne dass etwas dazuerfunden werden muss: die einen Spalt offene Tür, das kalte
+Licht dahinter, der dunkle Schrank, und davor *„ein Mann, grau und verschwommen wie durch
+Nebel gesehen. Der Rücken zu ihnen gewandt, den Kopf leicht gesenkt."*
+
+**Regel 6 ist der Punkt.** Auf allen bisherigen Covern musste die Gesichtslosigkeit des
+Geistes kaschiert werden. Hier ist sie **Handlung**: Herbert hat sich abgewandt — genau
+das erzählt das Buch.
+
+Abgrenzung zu Band 4, der ebenfalls eine Tür mit Lichtspalt hat: Band 4s Tür ist
+**zugemauert** (dahinter nichts) und ihr Spalt **warm golden**; S2-1s Tür steht offen,
+dahinter ein Raum, und das Licht ist **kalt silbergrau**. Trägt auch im 150-px-Thumbnail.
+
+### Maße gegengerechnet
+
+Die Formel im Skript ist an Band 5 verifiziert: 104 Seiten → 12,484 × 9,250 Zoll →
+**3745 × 2775 px**, Rücken 1,88 % der Breite — exakt die dort dokumentierten Sollwerte.
+
+S2-1 geschätzt **≈ 102 Seiten** (16.723 W bei Ø 163,5 W/Seite; Band 4: 164,2 · Band 5:
+162,8) → 3744 × 2775 px, Rücken 5,83 mm.
+
+### ★ Warum das Skript ohne Seitenzahl abbricht
+
+Band 5 hatte `PAGES = 104` fest verdrahtet — eine echte, abgelesene Zahl. Für S2-1 gibt es
+sie nicht, das Taschenbuch-PDF ist ungebaut. Das Skript verlangt deshalb `--seiten` und
+bricht sonst ab.
+
+⚠️ **Korrektur an meiner eigenen ersten Begründung:** Ich hatte im Skript geschrieben, zwei
+Seiten Differenz seien 1,1 mm Rücken. Nachgerechnet sind es **0,11 mm** — Faktor zehn
+daneben. Das Argument trägt trotzdem, aber aus einem anderen Grund: **KDP prüft die
+Gesamtbreite des Covers gegen die tatsächliche Seitenzahl des Manuskripts** und lehnt bei
+Abweichung ab. Und die Schätzung hat keine Fehlerspanne — sie stammt aus zwei Datenpunkten
+und hängt stark davon ab, wo die Kapitelumbrüche fallen (16 statt 18 Kapitel).
+
+### Offen
+
+| Punkt | Blockiert durch |
+|---|---|
+| Bilder erzeugen (4–6 Varianten Vorderseite, dann Rückseite) | keine Bildgenerierung hier |
+| Cover-Skript laufen lassen | `PyMuPDF` / `Pillow` nicht installierbar |
+| Echte Seitenzahl für den Buchrücken | Taschenbuch-PDF ungebaut |
+| Klappentext für die Rückseite | entsteht mit der KDP-Beschreibung |
+
+---
+
 ➡️ **Nächster Schritt: Produktion** — Cover, Taschenbuch-/eBook-Build, KDP-Beschreibung.
 ⚠️ Vor dem Taschenbuch-Build den Kopfkommentar von
 [`build_manuskript_komplett_s2_1.py`](../../Scripts/build_manuskript_komplett_s2_1.py)
