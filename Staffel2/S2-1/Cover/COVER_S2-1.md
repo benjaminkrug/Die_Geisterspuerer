@@ -226,38 +226,211 @@ cartoon style; any text beyond the five given lines.
 
 ---
 
-## 4. Prompt Rückseite
+## 4. Prompt Rückseite — All-in-One, mit allen Texten
 
-> Die gewählte Vorderseite als Referenzbild anhängen. Der Klappentext steht **noch nicht
-> fest** — er entsteht mit der KDP-Beschreibung und wird nachträglich gesetzt, nicht
-> vom Bildmodell gemalt.
+> **Die gewählte Vorderseite als Referenzbild anhängen.** Ohne sie driften Palette und
+> Lichtqualität auseinander.
+>
+> Aufbau nach dem Muster von Band 2 (`Band2/Cover/Prompts/Cover_Prompt_Band2_Rueckseite_ChatGPT_Ready.md`):
+> Hintergrund in Kantenzonen, dann nummerierte Textzonen. Alle Texte stammen wörtlich aus
+> [`KDP_S2-1.md`](../KDP_S2-1.md) Abschnitt 6.
+>
+> ⚠️ **Eine Abweichung von Band 2, und sie ist wichtig:** Band 2s Prompt ließ das Modell
+> einen hellen Barcode-Kasten samt Platzhalter-Strichcode malen. Der Reihenstandard hat
+> genau das später **verboten** (Block E) — bei Band 4 und Band 5 saß der gemalte Kasten
+> *neben* der echten Barcode-Position. Hier bleibt die Zone leer.
 
 ```
-BACK COVER for the same book - attach the chosen front cover as reference.
+Generate a complete, print-ready BACK COVER for a German children's book. This
+is a single image containing BOTH the background illustration AND all
+typographic text rendered directly onto it. No placeholder boxes, no lorem
+ipsum. All German text must be spelled correctly including umlauts (ä ö ü ß).
 
-Same apartment, same cold graphite palette, same light quality. This time we
-see the small room itself: the old carved WARDROBE standing against a wall,
-seen straight on from a few steps away. A small barred window high on the left
-lets in the same cold grey-silver light. Dust. Bare floorboards. Nothing else
-in the room.
+The chosen FRONT COVER is attached as reference. Match its palette, its light
+quality and its level of detail exactly.
 
-NO figures at all on the back cover - no children, no dog, no ghost.
+FORMAT: vertical portrait, aspect ratio 2:3. This is the back cover of a
+6 x 9 inch paperback.
 
-The upper half stays calm and dark - the blurb text will be placed there later.
+════════════════════════════════════════
+BACKGROUND ILLUSTRATION
+════════════════════════════════════════
 
-BARCODE ZONE (CRITICAL): the BOTTOM-RIGHT of the back cover - the right 42%
-of the width by the bottom 20% of the height - must stay calm, dark, empty
-background: no text, no focal detail, no bright object.
-Do NOT paint a grey, cream or white rectangle there, and do NOT paint a
-barcode. The printer places the real barcode on top of the plain background.
+The same apartment as on the front cover, in the same cold graphite and slate
+palette - desaturated, cold, never black and never harsh. The illustration is
+SUBTLE: it frames the edges and stays dark and uniform in the centre so that
+text is readable.
 
-DO NOT INCLUDE: children's faces or any face in profile; a clearly rendered
-ghost figure with a visible face; monsters, skeletons, bones, blood, gore,
-scary grimaces; a third child or any additional person; publisher logos,
-badges, seals, age roundels; a painted frame or border around the image;
-modern elements, cars, phones, screens; neon colours; manga, anime or flat
-cartoon style; any text anywhere - the back cover carries NO text at all.
+TOP EDGE (upper 12%): the dark upper part of a plain old wall and a simple
+door lintel. Nothing else. Quiet surface.
+
+LEFT EDGE (left 12%): the edge of a small BARRED WINDOW high up, letting in a
+cold grey-silver light - the same frost-coloured light as on the front cover.
+It is the only light source in the image. The light falls to the right and
+downward and fades out well before the centre.
+
+RIGHT EDGE (right 12%): the dark vertical edge of a very old carved wooden
+WARDROBE, seen from the side. Only a strip of it - carved vines and leaves in
+deep shadow. On its lower part, a fine silvery FROST is forming on the wood.
+
+BOTTOM EDGE (lower 12%): bare, dusty floorboards. A thin, hair-fine thread of
+PALE COLD LIGHT lies across them, running from the right towards the centre,
+where it fades out. It is faint and delicate and must not dominate.
+
+CENTRE (the large middle area): smooth, dark, atmospheric - dust in still air,
+deep graphite gradient. This is the text zone and must stay uniform and dark
+enough for light text to read clearly. No bright spots, no detail here.
+
+NO FIGURES ANYWHERE on the back cover - no children, no dog, no ghost, nobody.
+
+════════════════════════════════════════
+TEXT LAYOUT - RENDER ALL TEXT EXACTLY AS SPECIFIED
+════════════════════════════════════════
+
+Do not alter, shorten, translate or paraphrase any text. Render every word
+exactly as written.
+
+──── ZONE 1 - TOP (centred, top 6-11%) ────
+
+Line 1 (larger):   Die Geisterspürer
+Line 2 (smaller, directly below):   Die Gebundenen · Band 1
+
+- Font: elegant, slightly worn serif. Readable, not decorative.
+- Colour line 1: steel grey (#9aa6b0), line 2 slightly dimmer.
+- Size: line 1 about 3.2% of image height, line 2 about 2%.
+
+──── ZONE 2 - PULL QUOTE (centred, about 14-20% from top) ────
+
+A thin faint separator rule above and below this zone.
+
+Render exactly, including the German quotation marks:
+„Es ist nicht nur ein Schloss. Es ist an mir dran."
+
+- Font: italic serif, literary.
+- Colour: warm AMBER GOLD (#d4920b). This is the ONLY warm-coloured element
+  on the entire back cover. It must stand out.
+- Size: about 2.1% of image height. Break into two centred lines.
+
+──── ZONE 3 - KLAPPENTEXT (about 23-70% from top) ────
+
+Left-aligned text inside a centred column about 76% of the image width.
+
+- Font: clean readable serif, like a book set in Georgia or Garamond.
+- Colour: warm light-white (#eaedf2)
+- Size: about 1.7% of image height per line, line spacing about 160%.
+
+Render the following paragraphs exactly, with a blank line between each:
+
+PARAGRAPH 1:
+Frau Brandt klopft an eine fremde Wohnungstür, weil sie nicht mehr weiß,
+wohin. In ihrer Wohnung ist ihr Vater. Er ist seit einem Jahr tot,
+achthundert Kilometer entfernt gestorben — und diese Stadt hat er nie gesehen.
+
+PARAGRAPH 2:
+Nora und Theo wissen, wie das geht. Zuhören. Das hat immer gereicht.
+
+PARAGRAPH 3:
+Es reicht auch diesmal. Der alte Mann sagt alles, was er zwölf Jahre lang
+nicht gesagt hat. Er fängt an zu gehen — und wird zurückgerissen. Als hinge
+er an einer Kette.
+
+PARAGRAPH 4:
+Die Kette gibt es wirklich. Ganz unten an einer alten Schranktür sitzt ein
+Schloss, kaum größer als ein Daumennagel, und es ist eiskalt. Wer daran
+zieht, tut nicht dem Schloss weh.
+
+PARAGRAPH 5:
+Der Schlosser war im August im Haus. In jeder Wohnung, auch in den leeren.
+Die Familie zog erst im November ein.
+
+PARAGRAPH 6 - render in ITALIC, same colour, centred:
+Jemand hat das gebaut und dann gewartet. Bis irgendwer hineinpasste.
+
+──── ZONE 4 - AGE & GENRE LINE (centred, about 73-77%) ────
+
+A thin faint separator rule above this zone.
+
+Render exactly:
+Grusel-Abenteuer für mutige Leser ab 12 Jahren — Kribbeln ja, Albträume nein.
+
+- Font: clean sans-serif, slightly bolder than the body text.
+- Colour: muted light grey (#c0c8c0)
+- Size: about 1.5% of image height. Centred, may break into two lines.
+
+──── ZONE 5 - SERIES NOTE (centred, about 79-82%, small) ────
+
+Render exactly:
+Band 1 einer neuen Reihe. Die fünf Bände der ersten Geisterspürer-Reihe sind
+bereits erschienen.
+
+- Font: clean sans-serif, light weight.
+- Colour: dim grey (#8d959c)
+- Size: about 1.2% of image height - clearly smaller than Zone 4.
+
+──── ZONE 6 - AUTHOR (centred, about 85-89%) ────
+
+Render exactly:
+Benjamin Krug
+
+- Font: clean sans-serif.
+- Colour: steel grey (#9aa6b0)
+- Size: about 1.8% of image height.
+
+──── ZONE 7 - BARCODE ZONE (CRITICAL - LEAVE IT EMPTY) ────
+
+The BOTTOM-RIGHT of the back cover - the right 42% of the width by the
+bottom 20% of the height - must stay calm, dark, EMPTY background: no text,
+no focal detail, no bright object, no thread of light.
+
+Do NOT paint a grey, cream or white rectangle there. Do NOT paint a barcode,
+an ISBN, or any placeholder digits. The printer places the real barcode on
+top of the plain dark background.
+
+No text from any other zone may reach into this area.
+
+════════════════════════════════════════
+TYPOGRAPHY RULES (ALL TEXT)
+════════════════════════════════════════
+
+- German umlauts must be correct: ä ö ü Ä Ö Ü ß - never replaced by ae oe ue
+- German quotation marks: „opening" and "closing" - not English " or '
+- Em-dashes: — not hyphens
+- Crisp and anti-aliased, never blurry
+- All text stays inside the central 84% of the width and keeps at least 13%
+  of the height free at the very top and the very bottom
+- Text lives in the dark centre and must not overlap illustration detail
+
+════════════════════════════════════════
+FINAL CHECK BEFORE YOU FINISH
+════════════════════════════════════════
+
+✓ All SIX paragraphs of the Klappentext are present and complete
+✓ Paragraph 6 is italic
+✓ The pull quote is amber gold and italic - the only warm element
+✓ "Die Geisterspürer" and "Die Gebundenen · Band 1" stand at the top
+✓ It says "ab 12 Jahren" - NOT "ab 10 Jahren"
+✓ "Benjamin Krug" stands near the bottom
+✓ The bottom-right barcode area is EMPTY and DARK - no rectangle, no barcode
+✓ No figures anywhere
+✓ The image is dark, cold and graphite - not blue, not brown, not bright
+
+════════════════════════════════════════
+DO NOT INCLUDE
+════════════════════════════════════════
+
+Any face; any figure; a clearly rendered ghost; monsters, skeletons, bones,
+blood, gore, scary grimaces; publisher logos, badges, seals, age roundels;
+a painted frame or border around the image; modern elements, cars, phones,
+screens; neon colours; manga, anime or flat cartoon style; any text beyond
+the zones specified above.
 ```
+
+> ⚠️ **Realistische Erwartung:** Ein Klappentext dieser Länge ist für ein Bildmodell die
+> schwerste Aufgabe des ganzen Covers — Band 2s Anleitung rechnet ausdrücklich mit
+> Umlautfehlern und Nachgenerieren. Wenn nach drei bis vier Versuchen kein Durchgang
+> fehlerfrei ist, ist der **Rückfallweg**: dieselbe Szene ohne Text erzeugen (Zonen 1–6
+> weglassen, Zone 7 behalten) und die Texte in einem Layoutprogramm setzen. Das ist kein
+> Rückschritt — Band 4 und 5 sind so gebaut.
 
 ---
 
@@ -287,4 +460,4 @@ cartoon style; any text anywhere - the back cover carries NO text at all.
 | Bilder erzeugen | keine Bildgenerierung in dieser Umgebung |
 | Cover-Skript laufen lassen | `PyMuPDF` und `Pillow` nicht installierbar |
 | Echte Seitenzahl für den Buchrücken | Taschenbuch-PDF ungebaut (`python-docx` fehlt) |
-| Klappentext auf der Rückseite | entsteht mit der KDP-Beschreibung |
+| ~~Klappentext auf der Rückseite~~ | ✅ erledigt — steht in [`KDP_S2-1.md`](../KDP_S2-1.md) Abschnitt 6 und wörtlich im Rückseiten-Prompt |

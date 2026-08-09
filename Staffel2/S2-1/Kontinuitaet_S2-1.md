@@ -1644,6 +1644,65 @@ und hängt stark davon ab, wo die Kapitelumbrüche fallen (16 statt 18 Kapitel).
 
 ---
 
+---
+
+## ✅ KDP-TEXTE UND RÜCKSEITE (2026-08-09)
+
+**Neue Datei:** [`KDP_S2-1.md`](KDP_S2-1.md) — Metadaten, Serienbeschreibung,
+Buchbeschreibung, Keywords, Kategorien, Rückseitentext.
+
+Die Reihenfolge war zuerst falsch herum: Der Rückseiten-Prompt soll den **fertigen
+Klappentext enthalten**, also mussten die Beschreibungen davor stehen. Der Prompt in
+[`Cover/COVER_S2-1.md`](Cover/COVER_S2-1.md) Abschnitt 4 ist jetzt **All-in-One** — sieben
+Textzonen, alle Texte wörtlich, nach dem Muster von Band 2.
+
+### Geprüft
+
+| | |
+|---|---|
+| Serienbeschreibung | 1.345 Zeichen HTML (Limit 4.000) ✅ |
+| Buchbeschreibung | 2.695 Zeichen HTML ✅ |
+| Keywords | alle 7 Felder ≤ 50 Zeichen, einzeln nachgezählt ✅ |
+
+### Zwei Entscheidungen, die Begründung brauchen
+
+**1. Die Keyword-Begründung von Band 3–5 trägt hier zum ersten Mal NICHT.**
+Dort blieben die Felder unverändert, weil *„die Datenlage unverändert"* war. Für S2-1 hat
+sich die **Zielgruppe geändert: ab 12 statt ab 10.** Die Helium-10-Analyse vom 2026-06-11
+wurde für die Nische „ab 10" erhoben. Die neuen Felder übernehmen die bewährte Struktur und
+ziehen nur die Altersangabe nach — **das ist eine Ableitung, keine Messung.** Vor der
+Veröffentlichung ist das die eine Stelle, an der frische Keyword-Daten wirklich lohnen.
+
+Unverändert gilt dagegen die dreifach belegte Reihen-Regel *„die Motive, die das Buch
+verkaufen, sind nicht die Wörter, die gesucht werden"*: „Schrank", „Schloss", „gebunden",
+„Schlosser" haben kein Suchvolumen und würden einen von sieben Plätzen verbrennen.
+
+**2. Band 2s Rückseiten-Prompt ließ das Modell einen Barcode-Kasten malen — das wird nicht
+übernommen.** Der Reihenstandard hat das später ausdrücklich verboten (Block E), weil bei
+Band 4 und Band 5 der gemalte helle Kasten *neben* der echten Barcode-Position saß. Zone 7
+bleibt leer und dunkel.
+
+### Aufbau des Klappentexts
+
+Pull-Quote „Es ist nicht nur ein Schloss. Es ist an mir dran." (Bernstein-Gold, das einzige
+warme Element) · sechs Absätze, der letzte kursiv · Alterszeile · Reihenzeile mit dem
+Backlist-Hinweis auf die erste Reihe · Autor. **Das Wort „Staffel" steht nirgends** —
+internes Planungswort.
+
+Der Hook der Buchbeschreibung ist dreiteilig gebaut, weil nur die ersten drei Zeilen vor dem
+„Weiterlesen"-Knick stehen: Bild (Schrank) → Rätsel (er kann nicht gehen) → Staffel-Horror
+(es war vorher da). Der Verweis auf die erste Reihe steht **hinten**, nicht im Hook — ein
+Neuleser soll nicht in Zeile 2 erfahren, dass er fünf Bücher verpasst hat.
+
+### ⚠️ Realistische Erwartung an den Rückseiten-Prompt
+
+Ein Klappentext dieser Länge ist für ein Bildmodell die schwerste Aufgabe des Covers. Band 2s
+Anleitung rechnet ausdrücklich mit Umlautfehlern und Nachgenerieren. Rückfallweg nach drei
+bis vier Fehlversuchen: dieselbe Szene **ohne** Text erzeugen und die Texte in einem
+Layoutprogramm setzen — so sind Band 4 und 5 gebaut.
+
+---
+
 ➡️ **Nächster Schritt: Produktion** — Cover, Taschenbuch-/eBook-Build, KDP-Beschreibung.
 ⚠️ Vor dem Taschenbuch-Build den Kopfkommentar von
 [`build_manuskript_komplett_s2_1.py`](../../Scripts/build_manuskript_komplett_s2_1.py)
