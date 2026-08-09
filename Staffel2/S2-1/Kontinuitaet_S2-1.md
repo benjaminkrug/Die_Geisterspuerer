@@ -1580,8 +1580,12 @@ Dazu kommt: **`build_ebook_docx.py` und `build_taschenbuch_docx.py` (beide Band 
 > nachher: `„Das sieht aus wie in einem Horrorfilm„, sagte Theo`
 
 **Band 1 braucht deshalb zuerst eine Bereinigung des Manuskripts, nicht nur ein neues
-Skript.** Nicht in dieser Sitzung angefasst — es ist ein verkauftes Buch und gehört nicht
-zu S2-1. Als Notiz abgelegt, damit es beim nächsten Anfassen von Band 1 nicht übersehen wird.
+Skript.** Nicht angefasst — es ist ein verkauftes Buch und gehört nicht zu S2-1.
+
+➡️ **Übertragen nach [`Dokumentation/TODO_Nachbesserung_Band1-4.md`](../../Dokumentation/TODO_Nachbesserung_Band1-4.md),
+Abschnitt „Fehler 3"** (2026-08-09) — dort steht die Sammlung der Band-1-4-Nachbesserungen,
+mit Fix, Trockenlauf-Beleg und der Begründung, warum der Eingriff mit der Kernregel
+„die Komplett-Manuskripte sind die publizierte Wahrheit" vereinbar ist.
 
 ---
 
