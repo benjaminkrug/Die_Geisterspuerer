@@ -110,9 +110,23 @@ Benjamin Krug                                  klein
 
 ## 3. Prompt Vorderseite
 
-> Aufbau: Block A (Kopf) · Block B (Sicherheitsränder) · Bandinhalt · Block C (Figuren) ·
-> Block D (Verbote). Blöcke A–D stehen **wörtlich** im Reihenstandard, hier nur um die
-> Staffel-2-Punkte ergänzt (dritte Kopfzeile, ab 12, 13 % oben/unten).
+> ### ★ Fassung 2 (2026-08-09) — nach dem ersten Bild umgeschrieben
+>
+> **Was Fassung 1 falsch machte, ist am Ergebnis ablesbar.** Sie enthielt nur die
+> **negative** Regel *„Keep at least 13% of the height free of text at the TOP and at the
+> BOTTOM"*. Ergebnis: Reihenzeile bei ~5 %, Autorenname bei ~2,5 % — beides unter dem
+> technischen Minimum von 6 %.
+>
+> Der **Rückseiten**-Prompt derselben Sitzung hat seine Ränder dagegen gehalten. Der
+> Unterschied: Er gibt **nummerierte Zonen mit positiven Positionsangaben** („Zone 1,
+> centred, top 6-11%"), statt zu sagen, wo nichts hin soll. Genau das bekommt die
+> Vorderseite hier.
+>
+> Drei Änderungen: **(1)** eine LAYOUT MAP mit Zone und Prozentposition für jede der fünf
+> Zeilen · **(2)** die Randregel positiv formuliert plus ein *vergleichbarer* Anker
+> („ein Band leeren Hintergrunds, mindestens doppelt so hoch wie die Großbuchstaben
+> darunter") — Prozentzahlen allein setzt kein Bildmodell zuverlässig um · **(3)** eine
+> Endkontrollliste, die Fassung 1 gar nicht hatte, die Rückseite aber schon.
 
 ```
 ========================================
@@ -141,20 +155,48 @@ sticker, ribbon, banner or emblem; any age roundel; any painted frame or
 border around the artwork; any word not in the five texts above.
 ========================================
 
-SAFE MARGINS (CRITICAL - the outer edges are trimmed off when the book is
-printed, and the e-book version is cropped narrower still):
-- EVERY line of text must sit inside the central 84% of the width. There must
-  be clearly visible empty background - at least the width of two capital
-  letters - to the LEFT of the leftmost letter and to the RIGHT of the
-  rightmost letter of every single line.
-- Keep at least 13% of the height free of text at the TOP and at the BOTTOM.
-- NO letter may touch or approach an outer edge.
-- Better a slightly smaller title with clear margins than a big title that
-  reaches the edge. When in doubt, shrink the text.
-- The illustration itself still fills the whole image to all four edges -
-  only the TEXT stays inside the safe area.
+════════════════════════════════════════
+LAYOUT MAP - WHERE EACH LINE SITS
+════════════════════════════════════════
 
+Think of the image height as 100 units, top = 0, bottom = 100.
+
+  0 - 13   EMPTY BAND. Plain dark hallway wall. NO text of any kind here.
+ 14 - 17   ZONE 1  series line   DIE GEISTERSPÜRER
+ 18 - 22   ZONE 2  cycle line    DIE GEBUNDENEN · BAND 1
+ 24 - 33   ZONE 3  main title    Der Gast, der blieb
+ 35 - 38   ZONE 4  subtitle      Ein Grusel-Abenteuer für Kinder ab 12 Jahren
+ 39 - 78   THE SCENE. No text.
+ 80 - 86   ZONE 5  author        Benjamin Krug
+ 87 - 100  EMPTY BAND. Plain dark hallway floor. NO text of any kind here.
+
+THE TWO EMPTY BANDS ARE THE MOST IMPORTANT PART OF THIS LAYOUT.
+
+Above the first line of text there must be a clearly visible strip of plain
+dark background, at least TWICE AS TALL as the capital letters of that line.
+Below the author's name there must be an equally visible strip of plain dark
+floor, at least TWICE AS TALL as the letters of the author's name.
+
+If you cannot fit everything, make the TEXT SMALLER. Never move it outwards.
+A slightly smaller title with generous empty margins is correct. A large
+title that reaches towards an edge is wrong and unusable.
+
+SIDE MARGINS: every line of text sits inside the central 84% of the width.
+To the left of the leftmost letter and to the right of the rightmost letter
+of EVERY line there must be visible empty background at least as wide as two
+capital letters.
+
+The outer edges of this image are trimmed off when the book is printed, and
+the e-book thumbnail is cropped narrower still. Anything close to an edge
+will be lost. The ILLUSTRATION still fills the whole image to all four edges -
+only the TEXT stays inside the safe area.
+
+ZONE 5 NOTE: the composition must leave a calm, dark patch of hallway floor
+in the centre at that height, so the author's name reads clearly against it.
+
+════════════════════════════════════════
 THE SCENE - a narrow hallway inside an old German apartment, at dusk.
+════════════════════════════════════════
 
 We are looking down the hallway from behind three figures. At the far end of
 the hallway there is a plain interior door standing very slightly AJAR - open
@@ -183,10 +225,13 @@ The only warm point in the entire image is the dog's amber eye. Overall the
 image is darker and cooler than a typical children's cover, but never black
 and never harsh.
 
-THE UPPER THIRD of the image is calm, dark hallway wall and door lintel -
-plain surface with no detail, because the title text sits there.
+EVERYTHING FROM 0 TO 38 (see the layout map) is calm, dark hallway wall and
+door lintel - plain surface with no detail, because all the title text sits
+there. The open door begins BELOW that, at about 40.
 
-THE THREE FIGURES - ALL SEEN FROM DIRECTLY BEHIND, in the lower third.
+THE THREE FIGURES - ALL SEEN FROM DIRECTLY BEHIND, occupying roughly 55 to 100
+of the height. Their heads must not reach higher than 55, so that they never
+come near the subtitle.
 The viewer stands behind them and looks past their shoulders. We see the BACK
 of their heads. Their faces are simply not in the picture - not in profile,
 not in three-quarter view, not glimpsed. This is a fixed rule of the series.
@@ -215,6 +260,28 @@ They stand in the hallway, a few steps short of the door, looking towards the
 gap. Nora is closest to it. Schatten has STOPPED and is not moving forward -
 he stands slightly apart, refusing to go nearer, his one amber eye catching
 the cold light.
+
+BETWEEN AND BELOW the figures, in the centre at about 80 to 86 of the height,
+leave a calm, dark, uncluttered patch of hallway floor - this is where the
+author's name goes. And keep the very bottom band (87 to 100) plain dark
+floor: no bright detail, no text.
+
+════════════════════════════════════════
+FINAL CHECK BEFORE YOU FINISH
+════════════════════════════════════════
+
+✓ Is there a clearly visible EMPTY dark band above "DIE GEISTERSPÜRER",
+  at least twice as tall as its capital letters?
+✓ Is there a clearly visible EMPTY dark band below "Benjamin Krug",
+  at least twice as tall as its letters?
+✓ Does every line have visible empty background left and right of it?
+✓ Does it say "ab 12 Jahren" - NOT "ab 10 Jahren"?
+✓ GEISTERSPÜRER with Ü, für with ü, DIE GEBUNDENEN · BAND 1 with the middle dot?
+✓ Is the title warm gold and clearly the largest text?
+✓ Girl in TEAL, boy in OLIVE - not swapped?
+✓ Is the dog's amber eye visible?
+✓ No face anywhere - not the children's, not the old man's?
+✓ No badge, no logo, no frame, no invented words?
 
 DO NOT INCLUDE: children's faces or any face in profile; a clearly rendered
 ghost figure with a visible face; monsters, skeletons, bones, blood, gore,
@@ -272,10 +339,14 @@ downward and fades out well before the centre.
 RIGHT EDGE (right 12%): the dark vertical edge of a very old carved wooden
 WARDROBE, seen from the side. Only a strip of it - carved vines and leaves in
 deep shadow. On its lower part, a fine silvery FROST is forming on the wood.
+‼️ THIS WARDROBE STRIP MUST END WELL ABOVE THE BOTTOM QUARTER OF THE IMAGE.
+Below it, on the right, there is only plain dark wall and floor - no carving,
+no ornament, no highlight. The reason is Zone 7 further down.
 
 BOTTOM EDGE (lower 12%): bare, dusty floorboards. A thin, hair-fine thread of
-PALE COLD LIGHT lies across them, running from the right towards the centre,
-where it fades out. It is faint and delicate and must not dominate.
+PALE COLD LIGHT lies across them, running from the LEFT towards the centre,
+where it fades out. It must NOT reach the right half of the image. It is faint
+and delicate and must not dominate.
 
 CENTRE (the large middle area): smooth, dark, atmospheric - dust in still air,
 deep graphite gradient. This is the text zone and must stay uniform and dark
@@ -290,7 +361,13 @@ TEXT LAYOUT - RENDER ALL TEXT EXACTLY AS SPECIFIED
 Do not alter, shorten, translate or paraphrase any text. Render every word
 exactly as written.
 
-──── ZONE 1 - TOP (centred, top 6-11%) ────
+──── EMPTY BAND (top 0-8%) ────
+
+Plain dark wall. NO text of any kind. Above the first line of text there must
+be a clearly visible strip of empty background, at least twice as tall as the
+capital letters of that line.
+
+──── ZONE 1 - TOP (centred, 9-14% from top) ────
 
 Line 1 (larger):   Die Geisterspürer
 Line 2 (smaller, directly below):   Die Gebundenen · Band 1
@@ -367,7 +444,7 @@ bereits erschienen.
 - Colour: dim grey (#8d959c)
 - Size: about 1.2% of image height - clearly smaller than Zone 4.
 
-──── ZONE 6 - AUTHOR (centred, about 85-89%) ────
+──── ZONE 6 - AUTHOR (centred, about 84-88%) ────
 
 Render exactly:
 Benjamin Krug
@@ -375,6 +452,13 @@ Benjamin Krug
 - Font: clean sans-serif.
 - Colour: steel grey (#9aa6b0)
 - Size: about 1.8% of image height.
+
+──── EMPTY BAND (bottom 89-100%) ────
+
+Plain dark floor. NO text of any kind. Below the author's name there must be
+a clearly visible strip of empty background, at least twice as tall as the
+letters of the name. If everything does not fit, make the TEXT SMALLER -
+never move it outwards.
 
 ──── ZONE 7 - BARCODE ZONE (CRITICAL - LEAVE IT EMPTY) ────
 
@@ -410,7 +494,9 @@ FINAL CHECK BEFORE YOU FINISH
 ✓ "Die Geisterspürer" and "Die Gebundenen · Band 1" stand at the top
 ✓ It says "ab 12 Jahren" - NOT "ab 10 Jahren"
 ✓ "Benjamin Krug" stands near the bottom
-✓ The bottom-right barcode area is EMPTY and DARK - no rectangle, no barcode
+✓ The bottom-right barcode area is EMPTY and DARK - no rectangle, no barcode,
+  no carved wardrobe detail, no light on the floor reaching into it
+✓ Is there an empty dark band above the first line and below the author's name?
 ✓ No figures anywhere
 ✓ The image is dark, cold and graphite - not blue, not brown, not bright
 
