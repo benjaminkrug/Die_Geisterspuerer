@@ -2242,6 +2242,20 @@ Die zwölf Karten legte sie in eine Schublade in der Küche. Die zwölfte, die v
 
 "Nicht alles. Sie ist acht." Frau Brandt lächelte schwach. "Aber dass er Rosen hatte. Und dass er nicht gut in Anrufen war."
 
+Nora holte das Foto hervor. Es war an den Ecken weich geworden.
+
+"Das gehört Ihnen", sagte sie. "Ich gebe es zurück."
+
+Frau Brandt sah darauf, ohne es zu nehmen. Herbert im Beet, die Hände voll Erde.
+
+"Ich hatte gesagt, ihr sollt es behalten."
+
+"Ich weiß." Nora legte es auf den Tisch. "Jule hat ihn nie gesehen. Jetzt kann sie."
+
+Frau Brandt nahm das Foto und legte es zu den Karten in die Schublade.
+
+Dann überlegte sie es sich anders und stellte es auf die Fensterbank.
+
 Sie brachte sie zur Wohnungstür.
 
 Im Flur roch es nach nichts Besonderem mehr. Nach Wohnung. Nach Kaffee von heute Morgen.

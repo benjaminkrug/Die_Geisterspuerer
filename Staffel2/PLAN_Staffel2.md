@@ -319,8 +319,35 @@ sichtbare Gestalt) — keine davon zeigt „gebunden". Neues Signal, ab jetzt di
 des Antagonisten: **Der Geist wird im letzten Moment zurückgerissen — wie an einer
 unsichtbaren Leine.** Nora und Theo wenden die richtige Methode an, der Geist beginnt zu
 gehen — und wird dann sichtbar, ruckartig gegen seinen eigenen Willen zurückgezogen.
-Zurück bleibt eine dünne, helle Narbe an der Stelle, wo die „Leine" saß — bewusstes Echo
-auf die Leuchtturm-Narbe aus Band 5, jetzt am einzelnen Geist statt an der ganzen Stadt.
+~~Zurück bleibt eine dünne, helle Narbe an der Stelle, wo die „Leine" saß — bewusstes Echo
+auf die Leuchtturm-Narbe aus Band 5, jetzt am einzelnen Geist statt an der ganzen Stadt.~~
+
+> ### ★ KORRIGIERT 2026-08-09 (Phase 6 von S2-1) — die Narbe entfällt
+>
+> **S2-1 hat diese Narbe nicht geschrieben, und das war die bessere Entscheidung.**
+> Was der Rückriss stattdessen hinterlässt, steht im Kanon: Der Geist ist danach *dichter*
+> sichtbar als vorher, nicht schwächer, und hat Schmerzen.
+>
+> **Warum eine Narbe am Geist die falsche Signatur wäre:** Sie ist als Beweisstück
+> wertlos. Der Geist geht am Buchende — man kann eine Narbe niemandem zeigen, nicht über
+> Fälle hinweg vergleichen und nicht in eine Schublade legen. Genau das muss die Handschrift
+> des Antagonisten aber leisten, wenn sie eine Staffel über fünf Bände tragen soll.
+>
+> **Was S2-1 stattdessen liefert — ein Zeichen an einem Gegenstand, zweimal:** in die
+> Schranktür geritzt (K9) und in das Metall des Schlosses geprägt (K15). Das Buch benennt
+> die Funktion selbst, im letzten Satz von K15:
+>
+> > *Einmal geritzt, damit man es findet.*
+> > *Einmal geprägt, damit man weiß, von wem es ist.*
+>
+> Das wandert in Noras Schublade (K16) und nach S2-2 in die Werkstatt. **Ab hier ist das
+> die Signatur des Antagonisten** — nicht die Narbe.
+>
+> **Geprüft, bevor gestrichen wurde:** Kein anderes Staffel-2-Dokument baut auf der
+> Geister-Narbe auf. Die „Brandnarbe an Halders Hand" (S2-3, Abschnitt 6 und 12) ist etwas
+> völlig anderes — eine Brandwunde am *lebenden* Antagonisten — und bleibt unberührt.
+> Der Kanon-Eintrag in `Dokumentation/Serien_Kanon.md` beschreibt bereits den Text, nicht
+> die alte Planung.
 Liefert den Cliffhanger von selbst: alles richtig gemacht, und trotzdem nicht funktioniert
 — sofortiger Verdacht, dass das Absicht war.
 

@@ -1325,16 +1325,52 @@ herleitbar statt nur behauptet.
 Abschnitt „Phase 6". Kurzfassung:
 
 - **Ghost-Regel gewahrt** — null verbotene Begriffe auf 16.610 Wörter
-- **Setup/Payoff:** 33 ✅, zwei bewusste Staffel-Fäden offen, **ein echter offener Posten**
-  (das Foto aus K5)
+- **Setup/Payoff:** 33 ✅, zwei bewusste Staffel-Fäden offen. Der eine echte offene Posten
+  (das Foto aus K5) ist **eingelöst** — siehe unten
 - **Staffel-Brücke:** 4 von 5 Pflichten erfüllt, **eine Abweichung** (die geplante „dünne,
-  helle Narbe" nach dem Rückriss steht nicht im Buch)
+  helle Narbe" nach dem Rückriss) — **Plan korrigiert**, siehe unten
 - **Cliffhanger:** Muster ✅; die **Form** erstmals geprüft (Band-5-Blindstelle) — 6
   gesprochene, 10 Erzählerschlüsse, längster Lauf K12–K16. Kein Befund
 - **Schatten:** 16/16 mit echter Reaktion — nach Korrektur eines **eigenen Prüffehlers**
 - **Kanon:** Silber 0×, Lina 0×, insgesamt zwei Sätze Staffel-1-Rückbezug, beide in K1.
   Neuleser-Regel eingehalten
 - **Grusel-Grad:** nicht messbar — die geplanten Bauteile sind nachweislich verbaut
+
+### ✅ Die beiden Phase-6-Entscheidungen (Autor, 2026-08-09)
+
+**1. Das Foto aus K5 ist eingelöst — in K15, elf Zeilen.**
+
+Frau Brandt hatte es Nora mit einem ausgesprochenen Zweck übergeben („Vielleicht hilft es
+euch, ihn zu verstehen") und danach kam es im ganzen Buch nicht mehr vor — der einzige
+unbezahlte Setup. Der Payoff sitzt jetzt genau dort, wo Frau Brandt ohnehin sagt, sie werde
+Jule von den Rosen erzählen:
+
+> „Ich weiß." Nora legte es auf den Tisch. „Jule hat ihn nie gesehen. Jetzt kann sie."
+>
+> Frau Brandt nahm das Foto und legte es zu den Karten in die Schublade.
+>
+> Dann überlegte sie es sich anders und stellte es auf die Fensterbank.
+
+Die letzte Geste ist der eigentliche Grund für die Stelle: **Herberts ganzer Lebensfehler
+war, Dinge in eine Schublade zu legen.** Seine Tochter fängt an, es genauso zu machen — und
+korrigiert sich. Steht nirgends, der Leser schließt es.
+
+⚠️ **Widerspruchsprüfung:** Nora sagt „Jule hat ihn nie gesehen", nicht „er wusste nicht,
+wie sie heißt". Letzteres wäre falsch — Frau Brandt nennt ihm den Namen in K14. Geprüft.
+
+Kollisionsprüfung: alle sieben neuen Wendungen kommen im Buch **genau einmal** vor.
+Messung K15 danach: 1.186 W · Dialog 33 % · 0 Sätze über 18 W · längster Block 125 W —
+alles grün. Schlusssatz unverändert. Buch jetzt **16.709 Wörter**.
+
+**2. Die geplante Narbe entfällt — `PLAN_Staffel2.md` Abschnitt 6 korrigiert.**
+
+Eine Narbe am Geist ist als Beweisstück wertlos: Der Geist geht am Buchende, man kann sie
+niemandem zeigen, nicht über Fälle vergleichen und nicht in eine Schublade legen. Genau das
+muss die Handschrift des Antagonisten aber leisten, wenn sie fünf Bände tragen soll. S2-1
+liefert sie stattdessen als **Zeichen an einem Gegenstand, zweimal** — geritzt in die
+Schranktür (K9), geprägt ins Metall (K15). Geprüft vor dem Streichen: Kein anderes
+Staffel-2-Dokument baut auf der Geister-Narbe auf; Halders Brandnarbe in S2-3 ist etwas
+völlig anderes und bleibt unberührt.
 
 ### ★ Prozess-Fund für S2-2: der Schatten-Check misst am falschen Ort
 
