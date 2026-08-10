@@ -4,3 +4,7 @@ Output/
 # OS-Dateien
 Thumbs.db
 .DS_Store
+
+# Python-Cache
+__pycache__/
+*.pyc
