@@ -1,0 +1,1720 @@
+# Kontinuitäts-Tracker — S2-1 "Der Gast, der blieb" (Staffel 2, freier Einstieg)
+
+> **Vor JEDEM Kapitel lesen.** Sichert Stil + Kanon-Konsistenz über die ganze Reihe
+> (Staffel 1 + Staffel 2). Konzept-Grundlage: [../PLAN_Staffel2.md](../PLAN_Staffel2.md)
+> (Abschnitt 6 = Antagonist/Bogen, Abschnitt 9 = Figuren, Abschnitt 12 = Entscheidungs-Log).
+> Ausgangslage aus [../../Band5/Kontinuitaet_Band5.md](../../Band5/Kontinuitaet_Band5.md)
+> + Band-5-Finale (K18, "Was bleibt").
+> Zeitlinie/Akt-Fortschritt/Dialog-Bilanz sind leere Gerüste — werden beim Schreiben gefüllt.
+> **Phase 1 von 6** (siehe `PLAN_Staffel2.md` Abschnitt 15). Nächster Schritt nach dieser
+> Datei: Phase 2 — Story-Outline, beginnend mit der Mechanik-/Physik-Selbstprüfung.
+
+---
+
+## STIL-MERKBLATT (übernommen aus Staffel 1 — unverändert gültig)
+
+- **Perspektive:** 3. Person nah an Nora. Nur, was Nora wahrnimmt.
+- **Kapitellänge:** ~1.400–1.600 Wörter Ziel, 1.200 Minimum (CLAUDE.md) — Kapitel ist fertig,
+  wenn es funktioniert, nicht bei einer Zahl.
+- **Sehr viel Weißraum.** Ein-Wort-Zeilen, Ein-Satz-Absätze in Schlüssel-/Schockmomenten.
+- **Dialog dominiert** (Ziel 35–45 %). Kurz, schlagfertig. Verben nur: sagte, flüsterte,
+  rief, murmelte, zischte.
+- **Szenentrenner** innerhalb eines Kapitels: `---`. **Kein** zusätzlicher Trenner zwischen
+  Kapiteln (Separator-Bug aus Band 1–5, siehe `Dokumentation/TODO_Nachbesserung_Band1-4.md`
+  — `# Kapitel N` markiert die Grenze eindeutig, mehr braucht es nicht).
+- **Atmosphäre durch konkrete Details** (Geruch, Temperatur, ein Geräusch), nie durch
+  Adjektiv-Ketten.
+- **Emotionen körperlich.** NICHT "sie begriff/verstand X" wiederholen.
+- **Kapitelüberschrift-Format:** `# Kapitel N – Titel`
+- **Sätze** max. 18 Wörter, kein Passiv.
+- **Cliffhanger Pflicht** am Kapitelende; nächstes Kapitel löst ihn DIREKT auf.
+- **Schatten-Pflicht:** mind. 1 Reaktion pro Kapitel — unverändert, auch jetzt, wo er nur
+  noch ein normaler Hund ist (siehe FIGUREN unten).
+- **Grusel-Humor-Balance:** nach Grusel binnen 1–2 Absätzen Humor (Theo), reifer/schärfer
+  als Staffel 1, aber **niemals weggelassen** — siehe `PLAN_Staffel2.md` Abschnitt 14, Punkt 1.
+- **Umlaute:** echte Umlaute (ä/ö/ü/ß).
+- **Wach-Regel:** auffällige Formulierungen nicht wörtlich wiederholen; Theo-Humor-Register
+  abwechseln (Skala/trocken/sarkastisch/meta) — Serie driftet sonst in Formelhaftigkeit
+  (belegt B1→B4→B5, siehe `Dokumentation/Stimmen_Pruefplan.md`).
+
+---
+
+## GRUSEL-LEVEL & ESKALATION S2-1
+
+- **Grusel-Level 6/10** — Startpunkt der Staffel-2-Kurve (6→9 über S2-1 bis S2-5, siehe
+  `PLAN_Staffel2.md` Abschnitt 8). Deutlich höher als Band 1s 3/10, weil die Kinder jetzt
+  erfahrene Hüter sind, nicht mehr ahnungslose Neulinge — die Angst kommt aus Dread und
+  Einsatz, nicht aus Schock.
+- **Die Bindungssignatur ist der Grusel-Kern:** Ein Geist, der trotz korrekt angewendeter
+  Methode zurückgerissen wird — "alles richtig gemacht, und trotzdem nicht funktioniert" ist
+  beunruhigender für erfahrene Figuren als ein neuer, unbekannter Schrecken.
+- **Ein lebender Gegner, aber in S2-1 noch unsichtbar.** Halder taucht nicht persönlich auf
+  — nur seine Handschrift (die Leine). Das Dread-Element ist die Erkenntnis am Ende:
+  *jemand tut das absichtlich*, nicht eine direkte Konfrontation.
+- **"Kribbeln ja, Albträume nein" bleibt Markenkern**, auch bei 6/10.
+
+---
+
+## FIGUREN (fest, Stand S2-1)
+
+### Lebende
+
+- **Nora**, ~13 (genaues Alter/Zeitabstand zu Band 5 noch in Phase 2 festzulegen). POV.
+  **Neue Rolle:** nicht mehr die Skeptikerin (das ist erledigt) — jetzt die, die
+  Verantwortung trägt. Neuer innerer Konflikt: Kann sie die Rolle tragen, ohne ihre Kindheit
+  zu verlieren? (`PLAN_Staffel2.md` Abschnitt 9)
+- **Theo**, ~11. Glaube bestätigt, Mut wächst. **S2-1-Arc-Beginn:** erster Schritt aus Noras
+  Schatten heraus — noch nicht der große Sprung (der kommt erst mit Frieda ab S2-2), aber in
+  S2-1 sollte er mindestens eine Entscheidung treffen, die nicht von Nora vorgegeben ist.
+- **Schatten.** Mittelgroß, Mischling, dunkles Fell, bernsteinfarbene Augen (`#d4920b`).
+  ⚠️ **Jetzt ein ganz normaler, alternder Familienhund — KEIN offenes Rätsel mehr.**
+  Schleier-gebunden → mit der Heilung in Band 5 entlassen. Altert jetzt normal (Ende Band 5:
+  graue Haare um die Schnauze). **Wach-Regel:** Nicht versehentlich wieder geheimnisvoll
+  schreiben (z. B. "er weiß mehr, als er zeigt") — das Mysterium ist bewusst und endgültig
+  aufgelöst. Bleibt aber das Frühwarnsystem: 1 Reaktion pro Kapitel, jetzt als erfahrener,
+  eingespielter Hüter-Hund, nicht mehr als rätselhafter Streuner.
+- **Die Mutter.** ⚠️ **Kein Name** (Kanon-Regel, `Serien_Kanon.md` Abschnitt 3 — „Sarah" nur
+  in alten Planungsdateien, nie im Buch). Krankenhaus, Schichtdienst — feststehender Fakt
+  über drei Bände belegt, nicht mehr frei wählbar. Weiß nichts vom Übernatürlichen.
+- **Der Vater.** Kommt nicht vor (Kanon-Regel). Für S2-1 keine Neueinführung geplant.
+
+### Der Antagonist — in S2-1 NICHT als Figur, nur als Handschrift
+
+- **Anton Halder** (voller Steckbrief: `PLAN_Staffel2.md` Abschnitt 6) tritt in S2-1 **nicht
+  persönlich auf**. Sein Name, Alter, Beruf, Aussehen sind für UNS als Autoren fixiert, aber
+  ⚠️ **dürfen im S2-1-Text nirgends auftauchen** — weder Name noch Beschreibung. Nur seine
+  Wirkung ist sichtbar: die Bindungssignatur (siehe unten).
+- **Frieda Halder** kommt in S2-1 **ebenfalls nicht vor** — ihre gestaffelte Einführung
+  beginnt erst in S2-2 (`PLAN_Staffel2.md` Abschnitt 9).
+
+### Schlüsselobjekt: das Schloss
+
+Der physische Anker der Bindungssignatur — ein winziges Schloss, unsichtbar bis man weiß,
+wonach man sucht (`PLAN_Staffel2.md`, S2-1-Konzept in Abschnitt 6). Wird von den Kindern
+gefunden und geöffnet; das geöffnete Schloss wird ein Beweisstück, das sie behalten und das
+in S2-2 wiederkehrt (Dutzende identischer Schlösser in der Werkstatt). **Muss früh genug
+etabliert werden, dass seine Rolle im Finale-Beat von S2-1 nicht aus dem Nichts kommt**
+(Serien-Lektion aus Band 3/4: Schlüsselobjekte früh sichtbar setzen, bevor sie zahlen).
+
+### Wiederkehrend / abgeschlossen (aus Staffel 1)
+
+- **Frau Silber (Margret)** — tot, in Frieden, weitergegangen (Band 4). Nur über
+  Hinterlassenes/Erinnerung verfügbar. **Nicht als lebende Figur zurückholen.** Darf als
+  Bonus-Rückbezug auftauchen (Regel 3: nie handlungstragend).
+- **Die Karte** — 12/12 Markierungen, liegt seit Band 5 in der Schublade, nicht mehr auf dem
+  Tisch (K18, "Was bleibt"). ⚠️ **Darf in S2-1 nicht wieder als offene Aufgabenliste
+  auftauchen** — sie ist fertig. Staffel 2 hat eine neue, eigene Bedrohung, keine
+  Fortsetzung der alten Karte (`PLAN_Staffel2.md` Regel 4).
+- **Frau Held** — darf als Bonus-Nebenfigur zurückkehren (Regel 3).
+- **Lina, Brenner, Marlene, Faber, Graven** — alle befreit, alle für immer weg
+  (`Serien_Kanon.md`: „Befreite Geister kehren nicht zurück"). Dürfen in S2-1 höchstens als
+  beiläufige Erinnerung erwähnt werden, nie als Handlungselement.
+
+---
+
+## EIGENNAMEN & FAKTEN (Schreibweise fixieren)
+
+- Stadt: **Gravenstedt**.
+- Wohnhaus der Familie: **Kirchgasse 14** (unverändert).
+- Der neue Fall in S2-1: **Herbert Lenz** (Geist), gestorben vor einem Jahr in einer
+  anderen Stadt; **Frau Brandt**, Vorname **Marion** (Tochter, lebt mit Familie seit
+  3 Monaten in Gravenstedt). Bruch zwischen beiden: **zwölf Jahre**.
+  Weitere feste Namen/Fakten: **Herr Kubiak** (Hausmeister) · Schlosser-Termin **August
+  letztes Jahr** · Einzug der Brandts **November** · Schrank ≥30 Jahre im Haus.
+  ⚠️ Zwei getrennte Daten: Todesjahr ≠ Ankunft in Gravenstedt (die liegt erst 3 Monate
+  zurück, mit dem Leuchtturm-Effekt). Details: `Story_Outline_S2-1.md`, Outline-
+  Entscheidung 1 (2. Durchgang korrigiert).
+- Trägerobjekt: ein Stapel nie abgeschickter Geburtstagskarten Herberts an seine Tochter
+  (Details: `Story_Outline_S2-1.md`, Kapitel 11).
+- Serien-Dach: „Die Geisterspürer" · Staffel-Untertitel: „Die Gebundenen" · Bandtitel S2-1:
+  „Der Gast, der blieb".
+- Alterstext (Cover/Klappentext): „ab 12 Jahren" (`PLAN_Staffel2.md` Abschnitt 10).
+
+---
+
+## WAS DIE KINDER WISSEN (Stand Anfang S2-1 = Ende Band 5)
+
+- Alle vier Methoden: Zuhören · Erinnern · Vergeben · Loslassen (+ Loslassen-Vormachen bei
+  Graven). Geister sind traurige, festhängende Menschen — nie böse.
+- Sie haben Frau Silbers Werk fortgeführt und abgeschlossen: 12/12 Markierungen, Graven
+  aufgelöst, der Schleier geheilt (aber vernarbt).
+- Schatten war 200 Jahre der lebende Anker des Schleiers, ist jetzt frei und ein normaler,
+  alternder Hund.
+- Frau Silber ist tot, in Frieden, weitergegangen.
+- **In Gravenstedt hat sich herumgesprochen, dass die beiden Kinder (und ihr Hund) "mit den
+  Toten reden können"** — sie sind jetzt die bekannten Hüter der Stadt (`PLAN_Staffel2.md`
+  Abschnitt 5).
+
+### ★ Neuleser-Spalte — was davon MUSS im S2-1-Text erklärt werden (nur dieser Band)
+
+> Diese Spalte ist eine S2-1-spezifische Ergänzung (`PLAN_Staffel2.md` Abschnitt 15,
+> Punkt 4) — kein Serienstandard für spätere Bände. Grund: Nora/Theo *wissen* das alles als
+> Figuren, aber Regel 2 verlangt, dass ein Neuleser es versteht, ohne Staffel 1 zu kennen.
+
+| Wissen der Figuren | Im S2-1-Text aktiv erklärt? | Wie (grober Ansatz) |
+|---|---|---|
+| Geister sind traurige Menschen, keine Monster | ✅ Ja, in den ersten ~3 Kapiteln | Über die Methode am neuen Fall zeigen, nicht referieren |
+| Nora = die Verantwortliche, Theo = mutig-sarkastisch, Schatten = Frühwarnsystem | ✅ Ja | Wie Band 1 K1–3: durch Handlung etablieren, nicht Rückblende |
+| Dass sie „Hüter" sind, zu denen Fälle kommen | ✅ Ja, über den Eröffnungshook selbst | Jemand klopft an die Tür — die Prämisse zeigt sich, statt erklärt zu werden |
+| Frau Silber, die alte Karte, Graven, die Namen der fünf früheren Geister | ⚠️ Bonus nur | Höchstens eine beiläufige Erwähnung; **kein Handlungsschritt darf das voraussetzen** (Regel 3) |
+| Wie genau der Schleier geheilt wurde / die Leuchtturm-Mechanik | ❌ Nein, nicht nötig | S2-1 muss nur zeigen: *warum kommen neue Fälle jetzt* — nicht die volle Band-5-Physik erklären |
+
+---
+
+## WAS DIE KINDER NOCH NICHT WISSEN (S2-1-Enthüllungen)
+
+- Dass es einen Menschen gibt, der Geister absichtlich bindet (Enthüllung am Ende von S2-1).
+- Dass es sich um ein systematisches Vorgehen handelt, nicht einen Einzelfall.
+- Alles über Anton Halder selbst (Name, Motiv, Aussehen) — kommt erst ab S2-3.
+- Dass es weitere gebundene Geister gibt (Sammel-Knoten) — kommt erst S2-2.
+- Friedas Existenz — kommt erst S2-2 (unerkannt), S2-3 (enthüllt).
+
+---
+
+## GEGENSTÄNDE/HINWEISE IM BESITZ DER KINDER (Anfang S2-1)
+
+- **Frau Silbers Karte** — fertig, 12/12, in der Schublade. Nicht mehr aktiv im Einsatz.
+- Keine offenen Hinweis-Gegenstände aus Staffel 1 — bewusst sauberer Schnitt (Regel 4: eine
+  große Sache ändert sich).
+- **Neu ab S2-1:** das geöffnete Schloss (siehe Schlüsselobjekt oben) — wird am Ende dieses
+  Bandes zum ersten neuen Hinweis-Gegenstand der Staffel.
+
+---
+
+## ⚠️ ZU PRÜFENDE WIDERSPRÜCHE (vor/bei Kap. 1 entscheiden)
+
+1. ✅ **ERLEDIGT — Zeitabstand zu Band 5 ist gesetzt: drei Monate.** S2-1 beginnt an einem
+   **Februar**-Nachmittag, Band 5 endete im November. Im Text etabliert in K1 („Vor drei
+   Monaten war es das geworden: vorbei"), ohne Bandnummer zu nennen. Nora 13, Theo 11.
+   ⚠️ Diese drei Monate sind **derselbe Zeitraum** wie der Einzug der Brandts (November) —
+   das ist Absicht und trägt die Prämisse, kein Zufall.
+2. **Schatten darf nicht zurück ins Geheimnisvolle rutschen.** Sein Rätsel ist vollständig
+   aufgelöst (Band 5) — jede Formulierung, die ihn wieder mysteriös wirken lässt, ist ein
+   Rückschritt, kein Cliffhanger.
+3. **Die Karte darf nicht wieder als Aufgabenliste auftauchen.** Sie ist fertig; die neue
+   Bedrohung braucht keinen Bezug zu den alten zwölf Markierungen.
+4. **Halders Name/Beschreibung darf in S2-1 nirgends stehen** — auch nicht angedeutet. Nur
+   die Bindungssignatur (die Leine) ist sichtbar.
+5. **Mutters Beruf:** Krankenhaus/Schichtdienst — Fakt, nicht neu erfinden.
+6. ✅ **ERLEDIGT — der Fall kommt über Frau Held.** Sie hat Frau Brandt an die Kinder
+   verwiesen (K1). Die Hüter-Prämisse selbst ist in K1 über gezeigtes Verhalten etabliert
+   (Tuscheln auf der Straße, die alte Frau im Supermarkt), nicht über ein Referat.
+
+**Verbleibend offen:** Punkte 2–5 bleiben Dauer-Wachregeln für den Rest des Bandes
+(Schatten nicht remystifizieren · Karte nicht reaktivieren · Halder nicht benennen ·
+Mutter-Beruf nicht neu erfinden). Alle vier sind in K1–K8 eingehalten — geprüft, zuletzt
+beim Kanon-Check zu K8.
+
+---
+
+## OFFENE FÄDEN (Stand Anfang S2-1)
+
+### In S2-1 aufzulösen
+
+- Der konkrete Fall dieses Bandes: der "Gast", der trotz korrekter Methode nicht gehen kann.
+- Das Schloss finden und öffnen — echter, abgeschlossener Sieg für diesen Band.
+
+### Bewusst offen lassen (Staffel-2-Fäden für S2-2 ff.)
+
+- Wer bindet die Geister systematisch, und warum? (volle Enthüllung S2-3/S2-5)
+- Der Sammel-Knoten mit vielen gebundenen Geistern (S2-2).
+- Frieda (S2-2 unerkannt, S2-3 enthüllt).
+
+### Serie / separat
+
+- CYOA/Codewort: **nicht relevant** — Staffel 2 bleibt vorerst rein linear
+  (User-Entscheidung, siehe Chat-Verlauf 2026-08-07: „erst linear perfekt machen").
+
+---
+
+## ZEITLINIE S2-1 (wird beim Schreiben fortgeschrieben)
+
+- **K1:** Februar-Nachmittag, drei Monate nach Band 5. Frau Brandt klopft an, Nora sagt zu,
+  den Fall zu übernehmen.
+- **K2:** Direkter Anschluss, selber Nachmittag. Frau Brandt erzählt bei Nora zuhause von
+  Herbert; anschließend gehen alle drei zur Wohnung der Brandts (~10 Min. entfernt). Erste
+  Sichtung im Türspalt des Schrankzimmers.
+- **K3:** Direkter Anschluss. Erster Zuhören-Versuch im Schrankzimmer — Herbert erscheint
+  vollständig, beginnt zu gehen, wird im letzten Moment zurückgerissen (Bindungssignatur #1).
+- **K4:** Direkter Anschluss (ABSCHLUSS AKT 1). Verarbeitung des Rückrisses, Noras kurzer
+  Selbstzweifel zurückgewiesen. Frau Brandt gibt Zusage, Herberts Sachen herauszusuchen.
+  Endet mit Noras Entschluss: herausfinden, WAS ihn physisch hält, nicht nur WARUM.
+- **K5** (ABSCHNITT AKT 2): Zwei Tage später, wieder bei den Brandts. Foto von Herbert im
+  Garten (neues Charakterdetail: Gärtner, zeigte Zuneigung nie in Worten). Erste vage
+  Andeutung des Bruchs (Herbert mochte Frau Brandts Mann nicht). Neu: Herbert kannte seine
+  Enkelin nie, sie war noch nicht geboren, als der Kontakt abbrach — Grund, warum sie nicht
+  in ihrem Zimmer schlafen will, obwohl Schatten dort komplett ruhig bleibt. Theos eigene
+  Idee (nicht von Nora vorgegeben): Schatten raumweise testen. Eingrenzung bestätigt:
+  Wohnzimmer/Kinderzimmer ruhig, Flur zunehmend unruhig, Schrankzimmertür = vollständige
+  Blockade. Endet mit unerklärlichem metallischem Klicken aus dem Schrank (STIMME/GERÄUSCH).
+- **K6:** Direkter Anschluss, gleiche Szene. Sie betreten das Schrankzimmer; Schatten
+  fixiert sich vollständig auf den Schrank (Eingrenzung abgeschlossen). Äußere Untersuchung:
+  dunkles geschnitztes Holz, kein Hersteller, unbeweglich wie festgeschraubt. Theos
+  gescheiterter Büroklammer-Versuch (Humor-Beat). Kein Schlüssel im Haushalt, Frau Brandt
+  bietet an, einen Schlosser zu rufen — Nora bremst, bis klar ist, ob es ein normales
+  Schloss überhaupt ist. Nora deutet einen zweiten Zuhören-Versuch mit Frau Brandt selbst
+  an (Vorgriff auf K7). Endet damit, dass der gemeinsame Zugversuch scheitert und die Kälte
+  sichtbar eskaliert: Noras und Theos Atem stehen erstmals als Wolke in der Luft, auf dem
+  Schrankholz bildet sich Reif — von innen nach außen (AKTION).
+  ⚠️ **Nachträglich umgebaut** (Stimmen-Prüfung Akt 2): Die Erstfassung endete mit einem
+  Schlag von innen gegen die Tür und verdoppelte damit K5s Geräusch-Cliffhanger fast Beat
+  für Beat. Details: `Cliffhanger_Register_S2-1.md`, Abschnitt „Korrektur nach dem Schreiben
+  von Akt 2". Sichtbarer Atem/Reif ist eine Intensivierung des kanonischen Zeichens „Kälte"
+  bzw. „Kondenswasser" — kein neues Erscheinungszeichen.
+- **K7:** Direkter Anschluss. Nora erklärt, warum ein zweiter Versuch kein Wiederholen ist:
+  diesmal spricht Frau Brandt selbst zu Herbert, nicht die Kinder als Vermittler. Frau
+  Brandt spricht Herbert direkt an, gesteht ihre Wut UND ihre Vermissung, vergibt ihm.
+  Emotionale Arbeit vollständig — trotzdem derselbe Rückriss, diesmal heftiger. Schock liegt
+  bei Frau Brandt, nicht den Kindern; Theo hilft aus eigenem Antrieb. Endet auf Frau Brandts
+  erschüttertem Schlusssatz „Warum reicht das nicht?" (DIALOG).
+- **K8** (ABSCHLUSS AKT 2): Direkter Anschluss, selber Nachmittag/Abend. Nora beantwortet
+  Frau Brandts Frage („nicht an Ihnen — etwas Handfestes") und geht aktiv zum Hausmeister.
+  Frau Brandt bleibt zurück (holt ihre Tochter von der Schule). **Herr Kubiak**, ~60,
+  Hausmeister mit Werkstatt im Keller des Brandt-Hauses: Schrank steht seit ≥30 Jahren da,
+  war nie offen, kein Schlüssel am Schlüsselbrett. Er erinnert sich an einen **Schlosser**,
+  der **im August letzten Jahres** zwei Tage lang im ganzen Haus Sicherheitsschlösser
+  einbaute — auch in den leerstehenden Wohnungen, dokumentiert in seinem Werkstattheft.
+  Schatten reagiert stark (Nackenfell, Knurren) auf das Stichwort und das Heft. Endet auf
+  Noras Erkenntnis: Der Einbau lag **vor** dem Einzug der Brandts im November und Herbert
+  war zu dem Zeitpunkt zwar tot, aber nicht in der Nähe — der Schrank war präpariert,
+  bevor es überhaupt etwas zu binden gab (ERKENNTNIS).
+  ⚠️ **Neue Kanon-Fakten aus diesem Kapitel:** Herr Kubiak (Hausmeister, Name jetzt fest) ·
+  Schlosser-Termin = **August letztes Jahr** · Einzug der Brandts = **November** · Wohnung
+  stand davor ~ein halbes Jahr leer · Schrank ≥30 Jahre im Haus.
+- **K9** (BEGINN AKT 3) ⚠️ **enthält seit dem Abwechslungs-Umbau eine Heimszene**: Theo
+  besteht darauf, erst nach Hause zu gehen („Es ist halb sieben, ich hab seit dem
+  Marmeladenbrot nichts gegessen") — sein zweiter eigenständiger Beschluss nach K5.
+  Kirchgasse 14: Zwiebelgeruch, Radio, Licht, Wärme. Mama fragt beiläufig nach, Nora gibt
+  eine Halbwahrheit und stellt fest, **dass sie dafür nicht mehr überlegen muss** („Das ging
+  inzwischen von allein, und das war das Unangenehme daran") — direkter Arc-Beitrag zur
+  Frage, ob sie die Hüter-Rolle tragen kann, ohne etwas zu verlieren.
+  ⚠️ **Schließt zugleich eine Plausibilitätslücke:** Mama geht um acht zur **Nachtschicht**.
+  Damit ist erklärt, warum zwei Kinder die ganze folgende Nacht unterwegs sein können, ohne
+  dass jemand nachfragt. Vorher fehlte das über neun Kapitel komplett.
+  ⚠️ Danach kehren sie um Viertel nach acht zurück — **kein Tageswechsel**, die Dringlichkeit
+  bleibt erhalten, und Jules Nachtszene funktioniert weiterhin.
+  Enthält außerdem **Jules ersten Auftritt**
+  (Setup): Sie wacht nachts auf und steht barfuß mit einem Wasserglas im Flur. **Nicht
+  panisch — sachlich.** „Sind das die, die das wegmachen?" · „Okay." Mehr nicht. Damit wird
+  Frau Brandts Satz aus demselben Kapitel („Sie fragt nichts mehr. Das ist das Schlimme")
+  sichtbar statt behauptet. Schatten stellt sich wortlos neben sie, sie legt die Hände in
+  sein Fell: „Der ist warm." Erster Auftritt der Figur nach sechs Kapiteln Erwähnung.
+  Direkter Anschluss, gleicher Abend. Auf der Straße: Theo verdächtigt
+  Kubiak, Nora widerlegt sauber (wer etwas versteckt, führt kein Heft und zeigt es nicht her;
+  Schatten reagierte auf das Wort, nicht auf Kubiak). Nora denkt Kubiaks Nebensatz „jede
+  Wohnung, auch die leerstehenden" weiter — **Herbert ist vermutlich nicht der Erste**
+  (bewusst nur angedeutet, nicht verfolgt: Staffel-Faden für S2-2). Sie gehen abends nochmal
+  hoch; Frau Brandts Tochter schläft im Elternbett, fragt nichts mehr. Nora sucht den Schrank
+  erstmals **als bearbeitetes Objekt** ab, nicht als Möbel, und findet unten an der rechten
+  Tür ein ausgespartes glattes Feld mit einem fein eingeritzten **Schloss-Symbol** — scharfe
+  Linien, Staub obenauf, also viel später angebracht als die Schnitzereien. Schlusserkenntnis:
+  ein Zeichen ist nie für den gemacht, der es anbringt (BILD).
+  ⚠️ **Neu:** Der Reif aus K6 ist weg — Frau Brandt hat das Holz abgewischt. Bewusst gesetzt,
+  damit der Fund in K9 auf dem Symbol liegt und nicht auf Resten des Vorkapitels.
+- **K10:** Direkter Anschluss. Das Symbol *zeigt auf* etwas: Nora ertastet im Spalt zwischen
+  Tür und Rahmen, direkt darunter, das **physische Schloss** — winzig, dunkles Metall,
+  versenkt, auffallend kalt, Bügel dünner als ein Draht, sauber gearbeitet ohne Rost oder
+  Grat. Schlüsselloch **kleiner als ein Streichholzkopf** → erklärt endgültig, warum im
+  Haushalt nie ein Schlüssel gefunden wurde. Herberts alter **Werkzeugkasten** kommt zum
+  Einsatz (jedes Werkzeug mit seinem Namen beklebt — stiller Charakterbeleg). Schatten warnt
+  **vorher** (Winseln, unruhiges Treten, anders als sein sonstiges Sitzen), Nora setzt sich
+  darüber hinweg und drückt die Zange zu.
+  ⚠️ **Zentrale neue Mechanik-Erkenntnis:** Das Schloss bleibt **völlig unversehrt** — kein
+  Kratzer, keine Delle. **Aber Herbert schreit vor Schmerz.** Gewalt am Schloss trifft nicht
+  das Schloss, sondern den Gebundenen. Herbert: *„Es ist nicht nur ein Schloss. Es ist an mir
+  dran."* Nora trägt die Schuld daran bewusst (Arc: Verantwortung tragen heißt auch, eigene
+  Fehlentscheidungen aushalten). Endet auf: „Das Metall war völlig unversehrt. Nur der Mann
+  daneben nicht." (KOMPLIKATION)
+  ➡️ **Trägt direkt K12** („Sanftheit statt Kraft") — die Wende ist damit nicht behauptet,
+  sondern durch einen erlebten Fehlschlag verdient.
+  ⚠️ **Für K11 zwingend:** Der Übergang zum Karton braucht die im Übergangs-Check geforderte
+  explizite Überleitungszeile — Frau Brandt holt die Kiste **als Reaktion auf diesen
+  Fehlschlag** („wenn wir ihn nicht aufbrechen können, müssen wir ihn verstehen"), nicht als
+  freistehende Ermittlungshandlung. → ✅ **in K11 umgesetzt** (siehe dort).
+- **K11:** Direkter Anschluss, gleiche Nacht. **Zwei Schauplätze: Keller → Küche.**
+  ⚠️ **Nachträglich umgebaut (Abwechslungs-Analyse, 2026-08-07):** Ursprünglich spielte das
+  ganze Kapitel in der Küche; Frau Brandt holte die Kisten allein. Jetzt gehen **alle drei
+  gemeinsam in den Keller**. Neuer Ort: der Verschlag der Brandts hinter der Waschküche,
+  Lattenwände, Maschendraht, Zeitschalter-Licht, das alle zwei Minuten ausklickt (Theo
+  drückt danach ungefragt nach). Der **erste** Karton wird unten geöffnet — dort trägt die
+  Szene Frau Brandts jahrelange Vermeidung („Ich war seit dem Einzug nicht mehr hier
+  unten"). Als sie es nicht aushält, tragen sie den **zweiten** Karton hoch; die Karten
+  werden am warmen Küchentisch gefunden und gelesen.
+  ➡️ **Neuer Beat, der zahlt:** Am Verschlag hängt ein **ganz normales Vorhängeschloss** —
+  groß, silbern, aus drei Metern sichtbar. Nora stellt es dem winzigen Schloss gegenüber
+  („Das hier ist ein Schloss"). Macht ohne Erklärung greifbar, wie unnatürlich das andere ist.
+  ⚠️ **Echo-Kontrolle gegen K8** (dort spielt Kubiaks Werkstatt im selben Keller): kein
+  gemeinsames Beschreibungsvokabular außer dem Ortsnamen „Waschküche". K8 = Metall/Öl/Werkbank,
+  K11 = Beton/Staub/Maschendraht. Herbert ist verschwunden
+  (nicht gegangen — nur nicht mehr sichtbar). ✅ **Übergangszeile geliefert:** Nora: „Wenn wir
+  ihn nicht rausbrechen können, müssen wir ihn verstehen" → Frau Brandt holt die Kellerkisten
+  aus Hilflosigkeit („Ich sitze hier und mein Vater hat gerade geschrien"), nicht als geplante
+  Ermittlung. Damit ist der im Übergangs-Check markierte Ortswechsel motiviert.
+  Drei Kartons, von einer Räumungsfirma gepackt. Inhalt: Lesebrille, zwei Rosenbücher,
+  Radiowecker, durchgescheuerte Gartenhandschuhe mit Erde. Im zweiten Karton, ganz unten:
+  **zwölf Geburtstagskarten**, alle an Frau Brandt adressiert, aus zwölf Jahren, **keine
+  einzige abgeschickt**. Elf offen, die zwölfte **zugeklebt, adressiert und frankiert** —
+  fertig zum Einwerfen, nie eingeworfen. Endet auf ihrer Frage: „Warum hat er sie nicht
+  eingeworfen?" (OBJEKT+DIALOG)
+  ⚠️ **Neue Kanon-Fakten:** Frau Brandts Vorname ist **Marion** (erstmals genannt, in Herberts
+  Anrede „Liebe Marion") · Dauer des Bruchs = **zwölf Jahre** · die Adresse auf der letzten
+  Karte ist ihre **alte** Adresse (vor dem Umzug nach Gravenstedt).
+  ➡️ **Zahlt K3 ein:** Herberts „Jedes Jahr wollte ich es ihr sagen" war keine Redewendung —
+  hier liegt der physische Beweis. Nora denkt das im Text explizit mit.
+  ⚠️ **Schatten bewusst anders eingesetzt:** kein Kopf-aufs-Knie mehr (das wäre das dritte
+  Mal nach K5/K7 gewesen) — er beschnüffelt stattdessen die Gartenhandschuhe und setzt sich
+  davor. Nora stellt ausdrücklich klar: „Da ist kein Geist dran. Da ist nur Erde." Hält die
+  Wach-Regel ein, Schatten bleibt normaler Hund.
+- **K12** (ABSCHLUSS AKT 3): Direkter Anschluss, gleiche Nacht. **Die Synthese entsteht aus
+  beiden Akt-3-Zutaten zusammen**, wie in der Szenenplanung gefordert:
+  · aus **K11**: Herbert konnte alles Harte (schreiben, zukleben, frankieren) — nur den
+    letzten kleinen Schritt nicht;
+  · aus **K10**: Gewalt am Schloss bewirkt nichts, und das Schloss ist **auffallend kalt**,
+    weil es nicht zum Zimmer gehört, sondern zu ihm.
+  **Theo liefert den Reframe** („vielleicht ist das Harte nie das Problem gewesen — bei ihm
+  war es auch nicht das Harte, es war das Kleine") — sein Arc-Beitrag, nicht Noras Einfall.
+  Daraus der Ansatz: nicht ziehen, sondern **halten**. Nora legt die Hand um das Schloss und
+  hält es einfach, trotz Kälte bis in die Schulter, und spricht dabei **zu Herbert, nicht zum
+  Schloss**. Sie geht ausdrücklich unbewaffnet hinein („Sehen Sie? Nichts in den Händen") und
+  gibt Frau Brandt das Versprechen, sofort aufzuhören, falls er wieder schreit.
+  Schatten bleibt an der Schwelle, aber **ruhig** — erstmals kein Winseln, kein unruhiges
+  Treten. Frühwarnsystem meldet Entwarnung, ohne dass der Text ihm Sonderwissen andichtet.
+  Endet mitten in der Bewegung: Flurlicht flackert zweimal, unter Noras Fingern gibt etwas
+  minimal nach — „Sie hielt einfach weiter." (AKTION)
+  ➡️ **K10s Fehlschlag zahlt hier direkt aus** — die Wende ist erarbeitet, nicht behauptet.
+  ⚠️ **Für K13:** Das Schloss ist **noch nicht offen**. K12 endet beim ersten Nachgeben; das
+  eigentliche Öffnen gehört K13. → ✅ eingehalten.
+- **K13** (BEGINN AKT 4): Direkter Anschluss. **Das Schloss öffnet sich früh im Kapitel**
+  (Vorgabe aus der Beat-Prüfung eingehalten — nicht am Ende, damit K13 danach etwas Eigenes
+  erzählt). Der Bügel gleitet aus der Öse, das Schloss fällt Nora in die Hand. Die Kälte
+  läuft binnen Sekunden ab, das Zimmer wird normal warm.
+  **Großer Payoff:** Schatten betritt zum ersten Mal seit K2 das Schrankzimmer, läuft quer
+  hindurch und schnüffelt hinter dem Schrank — die körperliche Bestätigung, dass der Ort
+  frei ist. Der Blockade-Faden aus K2/K5/K6 ist damit eingelöst.
+  Herbert erscheint **ohne die Leine-Spannung**: er steht erstmals gerade, klare Umrisse,
+  „Es zieht nicht mehr". Erste warme Vater-Tochter-Szene der Reihe („Du siehst aus wie deine
+  Mutter. Das hab ich dir nie gesagt.").
+  **Aber er geht nicht.** Auf Noras „Sie können jetzt gehen" antwortet er „Ich weiß nicht,
+  wohin" — was Nora ihm ausdrücklich nicht abnimmt: ein Mann, der zwölf Jahre lang Karten
+  schrieb, weiß sehr genau, wohin er will. Er deutet an, dass das Schloss „nicht das Einzige"
+  war, kann es aber nicht aussprechen. Endet auf Unsicherheit: „Und er stand immer noch in
+  diesem Zimmer." (SPANNUNG/UNSICHERHEIT)
+  ➡️ **Fehlt für K14:** Herbert weiß nicht, dass seine zwölf Jahre **angekommen** sind. Das
+  ist die Lücke, die K14 mit der letzten Karte schließt — nicht ein drittes Zuhören.
+  ⚠️ **Das offene Schloss ist ab jetzt in Noras Besitz** (Vorbereitung Setup #12, K15).
+- **K14:** Nächster Vormittag (in K13 angekündigt, kein unmarkierter Zeitsprung). Frau Brandt
+  hat die Nacht durchgemacht und **elf** Karten gelesen; die zwölfte bekommt sie nicht auf.
+  Alle drei Register-Vorgaben eingehalten:
+  · **kein drittes Zuhören** — Frau Brandt *erzählt* Herbert etwas Neues (dass sie die Kisten
+    geöffnet und die Karten gefunden hat);
+  · Auslöser ist ausschließlich die **zwölfte, versiegelte** Karte;
+  · das Geh-Vokabular aus K3/K7 („heller", „durchsichtiger", „auflösen", „Umrisse
+    verschwammen") wurde **nachweislich nicht recycelt**.
+  **Inhalt der zwölften Karte** (jetzt Kanon): Herbert entschuldigt sich dafür, ihr gesagt zu
+  haben, wen sie lieben soll; er habe zwölf Jahre auf ihren Anruf gewartet, obwohl er selbst
+  hätte anrufen müssen; er schreibe es auf, weil er es am Telefon wieder nicht sagen würde.
+  **Schlüsseldetail:** Die anderen elf sind mit *„Dein Vater"* unterschrieben — **nur diese
+  mit „Papa"**, weil er sie wirklich abschicken wollte. Er stand am Briefkasten und warf sie
+  nicht ein, weil er sich lieber einbilden wollte, sie würde antworten.
+  **Der Weggang unterläuft bewusst K13s eigene Ankündigung** („Erst wurde das Licht anders.
+  Dann die Umrisse."): Nichts davon geschieht. Herbert dreht sich um und geht wie ein alter
+  Mann, der abends nach Hause geht — nur ohne Schritt-Geräusch. Endet mitten in der Bewegung:
+  er sieht über die Schulter zurück und **lächelt** (BILD).
+  ⚠️ **Kanon:** Die Tochter der Brandts heißt **Jule**. Bewusst *nicht* „Lena" — zu nah an
+  **Lina**, dem befreiten Geist aus Staffel 1 (11 Nennungen in `Serien_Kanon.md`).
+  ⚠️ **Verschoben:** Der Name fällt seit dem Jule-Einbau bereits in **K9**, nicht erst hier.
+  K14s Beat trägt trotzdem — er richtet sich an **Herbert**, und der Punkt ist, dass *er* nie
+  gefragt hat. Dass der Leser sie inzwischen kennt, macht es schärfer, nicht schwächer.
+- **K15** ⚠️ **enthält Jules zweiten Auftritt** (Payoff): Sie kommt von der Schule heim,
+  während Nora und Theo an der Tür stehen. Fragt nüchtern „Habt ihr's weggemacht?" — und geht
+  dann **direkt an der Tür zum Schrankzimmer vorbei**. Kein Bogen, kein Zögern, kein Blick.
+  Sie verschwindet in ihrem **eigenen** Zimmer und lässt die Tür offen. Frau Brandt muss sich
+  am Rahmen festhalten: „Sie hat drei Wochen lang nicht mal in diesen Flur gewollt."
+  Noras Antwort ist der Payoff-Satz: **„Sie hat nichts gemerkt. Das ist der Punkt."**
+  ➡️ Setup K9 (Kind hat sich an die Angst gewöhnt) → Payoff K15 (die Angst ist weg, und das
+  Kind merkt es nicht einmal). Zeigt das Ergebnis der Befreiung an einem Menschen statt an
+  einem Geist.
+- **K15:** Direkter Anschluss. Herbert geht endgültig — **ohne markierten Moment**: irgendwo
+  zwischen Schranktür und Flur ist er nicht mehr da, niemand könnte sagen, wann. Kein Licht,
+  kein Windstoß, kein Geräusch. Nur der leere Sonnenstreifen.
+  Frau Brandt setzt sich in den Sonnenstreifen und benennt **Trauer UND Frieden** getrennt:
+  „Vorher war es Angst. Jetzt ist es nur noch traurig." Schatten legt sich genau dorthin, wo
+  Herbert stand, und schläft in der Sonne ein — Theos Lachen darüber ist der Humor-Beat, den
+  der Plan für dieses Kapitel vorsah.
+  Frau Brandt behält die Kartons **oben statt im Keller** und legt die zwölf Karten in eine
+  Küchenschublade, die vorgelesene obenauf. Sie will Jule (8) von ihrem Opa erzählen — „nicht
+  alles", aber dass er Rosen hatte und nicht gut in Anrufen war.
+  ⚠️ **Neuer Kanon-Fakt: Jule ist acht Jahre alt.** Konsistent mit K5 (sie war noch nicht
+  geboren, als der Kontakt vor zwölf Jahren abbrach).
+  **Schluss (OBJEKT):** Nora sieht sich das Schloss zum ersten Mal in Ruhe an. Es ist
+  **immer noch kalt** — Wohnung, Jackentasche, Faust haben nichts daran geändert. Verarbeitung
+  fehlerfrei, kein Rost, keine Gussnaht. Und auf der flachen Seite sitzt eine **Prägung:
+  dasselbe winzige Schloss-Zeichen, das in die Schranktür geritzt war.** Schlusszeilen:
+  „Einmal geritzt, damit man es findet. / Einmal geprägt, damit man weiß, von wem es ist."
+  ➡️ **Verbindet K9s Symbol mit dem Objekt** und macht die Handschrift des Täters greifbar,
+  **ohne** zu verraten, dass es viele davon gibt — das bleibt K16 bzw. S2-2.
+- **K16** (EPILOG, ENDE S2-1): Zwei Tage später, Kirchgasse 14. **Bewusste Klammer zu K1:**
+  Nora sortiert wieder die Post, Theo liegt wieder auf der Couch, „Langweilig" fällt wieder —
+  diesmal aber mit „Ich meine es diesmal nicht so." Mama kommt von der Schicht, fragt, wie es
+  war, und bekommt eine Halbwahrheit; sie weiß weiterhin nichts (Kanon gehalten).
+  Theo hat aus eigenem Antrieb eine **Zeitleiste** aufgeschrieben (August / November / Januar
+  / Herbert seit einem Jahr tot). Daraus die Kernerkenntnis: Das Schloss war **nicht für
+  Herbert** — als es eingebaut wurde, stand die Wohnung leer. Theos Bild: „Wie eine Falle im
+  Wald. Die wartet auch nicht auf ein bestimmtes Tier."
+  Sie verwerfen Polizei und Frau Held als Adressaten: „Wir sind die Einzigen, die überhaupt
+  wissen, dass es das gibt." Noras Zettel wandert in dieselbe Schublade wie das Schloss —
+  **der erste Zettel einer neuen Sammlung.** ⚠️ Bewusst **kein** Rückgriff auf Frau Silbers
+  alte Karte (Widerspruch 3 gehalten).
+  **Season-Hook:** „Jemand hat das gebaut … Und wenn er das einmal gemacht hat —" / „Warum
+  sollte er dann aufhören?" Danach die zweite K1-Klammer: Theo sagt jetzt „Normal ist gut",
+  Nora stimmt zu, und **diesmal lacht keiner von beiden**.
+  **Schlussbild — bewusste Umkehrung von Band 5 K18:** Dort sah Schatten aus dem Fenster,
+  seufzte und legte sich wieder hin („Ein Hund, der aus dem Fenster guckt. Mehr nicht."). Hier
+  sieht er hinaus, ohne Knurren, ohne gesträubtes Fell — **und legt sich nicht wieder hin.**
+  Die Beruhigung bleibt aus, genau wie im Plan gefordert. **ENDE S2-1.**
+
+---
+
+## AKT-FORTSCHRITT
+
+- ✅ Akt 1 (K1–4) — abgeschlossen, alle vier Kapitel geschrieben
+- ✅ Akt 2 (K5–8) — abgeschlossen, alle vier Kapitel geschrieben
+- ✅ Akt 3 (K9–12) — abgeschlossen, alle vier Kapitel geschrieben
+- ✅ Akt 4 (K13–16) — abgeschlossen, alle vier Kapitel geschrieben
+- 🎉 **S2-1 „Der Gast, der blieb" ist vollständig — 16/16 Kapitel, 16.615 Wörter.**
+
+---
+
+## DIALOG-BILANZ
+
+| Kapitel | Wörter (gesamt) | Dialog-Anteil (grob) | Ziel 35–45 %? |
+|---|---|---|---|
+| K1 | ~1.170 | Hoch — Großteil des zweiten Halbkapitels ist direkte Rede | ✅ im Zielbereich |
+| K2 | ~1.100 | Hoch — fast durchgehend Dialog zwischen Nora/Theo/Frau Brandt | ✅ im Zielbereich |
+| K3 | ~900 | Hoch — Zuhören-Szene ist fast vollständig Dialog mit Herbert | ⚠️ unter dem 1.200-Minimum, aber bewusst knapp gehalten (einzelne, intensive Szene ohne Nebenhandlung); im Stimmen-Pass (Phase 4b) gegenprüfen, ob mehr Raum nötig ist |
+| K4 | ~805 | Hoch — fast durchgehend Verarbeitung im Dialog | ⚠️ unter dem 1.200-Minimum, gleicher Grund wie K3 (direkte Fortsetzung derselben Szene, keine neue Nebenhandlung); zusammen mit K3 im Stimmen-Pass gegenprüfen |
+| K5 | ~1.090 | 45,4 % — drei Szenen, durchgehend dialoglastig | ⚠️ knapp unter dem 1.200-Minimum, aber alle drei geplanten Beats vollständig erzählt; kein Füllstoff nötig, im Stimmen-Pass gegenprüfen |
+| K6 | ~980 | 45,9 % — eine durchgehende Szene, direkte Fortsetzung von K5 | ⚠️ unter dem 1.200-Minimum, gleicher Grund wie K3/K4 (eine intensive Szene ohne Ortswechsel); alle drei geplanten Beats vollständig erzählt, im Stimmen-Pass gegenprüfen |
+| K7 | ~895 | 44,3 % — emotionale Kernszene, bewusst knapp gehalten | ⚠️ unter dem 1.200-Minimum, gleicher Grund wie K3/K4/K6 (eine intensive Szene); Straffheit dient hier der emotionalen Wirkung, im Stimmen-Pass gegenprüfen |
+| K8 | ~1.040 | 39,7 % — Ermittlungskapitel, Befragungsszene trägt den Großteil | ⚠️ knapp unter dem 1.200-Minimum, siehe geklärte Kapitellängen-Frage unten |
+
+| K9 | ~1.335 | **32,3 %** — vier Szenen: Straße, Zuhause, Jule, Suche | ⚠️ Ø-Satz 6,62 · 0 Verstöße · **längstes Kapitel des Buchs** · Dialog unter 35 % |
+| K10 | ~1.050 | 35,8 % — Fund, Werkzeugszene, Fehlschlag | ✅ Ø-Satz 6,38 · 0 Verstöße · Kurz-Absätze 6,1 % |
+| K11 | ~1.315 | 34,2 % — zwei Schauplätze (Keller + Küche) | ✅ Ø-Satz 6,61 · 0 echte Verstöße · Kurz-Abs 6,6 % · **längstes Kapitel des Buchs**, trägt aber zwei Orte |
+| K12 | ~950 | 38,7 % — Synthese + Ausführung, Aktschluss | ✅ Ø-Satz 6,18 · 0 Verstöße · Kurz-Absätze 8,9 % |
+| K13 | ~1.110 | **33,9 %** — Ereignis- und Wahrnehmungskapitel | ⚠️ Ø-Satz 5,96 · 0 Verstöße · Kurz-Abs 9,5 % · **Dialog unter der 35-%-Grenze** — zweiter Fall nach K6 (31,4 %). Beide Male ein Kapitel, dessen Kern ein physisches Ereignis ist. Im Stimmen-Pass zusammen prüfen, ob das buchweit auffällt |
+| K14 | ~985 | 46,9 % — emotionaler Höhepunkt, fast durchgehend Dialog | ✅ Ø-Satz 6,53 · 0 Verstöße · Kurz-Abs 11,2 % (über Band 5s 9,6 %, im Klimax vertretbar — bei Aktschluss gegenprüfen) |
+| K15 | ~1.085 | **33,5 %** — Abschied, Ausklang, Jules Payoff | ⚠️ Ø-Satz 6,04 · 0 Verstöße · Dialog unter 35 % |
+| K16 | ~865 | 37,9 % — Epilog, Klammer zu K1 | ✅ Ø-Satz 6,67 · 0 Verstöße (1 Artefakt: Theos Liste) |
+
+---
+
+## STIMMEN-PRÜFUNG AKT 4 (durchgeführt 2026-08-07, nach K16)
+
+| Marker | Akt 1 | Akt 2 | Akt 3 | **Akt 4** | Band 1 | Band 5 |
+|---|---|---|---|---|---|---|
+| Ø-Satzlänge | 7,47 | 7,22 | 6,47 | **6,27** | 4,74 | 6,39 |
+| Sätze > 18 W | 2 | 0 | 1 | **0** (1 Artefakt) | 11 | 49 |
+| Dialoganteil | 37,5 % | 36,1 % | 36,5 % | **38,3 %** | 50,5 % | 24,4 % |
+| Kurz-Absätze | 3,3 % | 6,0 % | 6,5 % | **7,9 %** | 7,7 % | 9,5 % |
+| „Und"-Satzanfang /1000 W | 0,52 | 0,25 | 1,74 | **1,03** | 1,67 | 2,60 |
+| „erste Mal" /1000 W | 0,26 | 0,74 | 1,24 | **1,28 → 0,77** | 0,48 | 0,83 |
+
+**Akt 4 ist metrisch der stärkste Akt** — bester Dialoganteil, beste Kurz-Absatz-Quote
+(praktisch exakt Band 1), null echte Satzlängen-Verstöße. Ein Befund fällt trotzdem heraus.
+
+### Befund 1 — „erste Mal" driftet monoton über alle vier Akte ⚠️ GERECHTFERTIGT
+
+0,26 → 0,74 → 1,24 → 1,28. Genau das Driftmuster, das `Stimmen_Pruefplan.md` als Kernproblem
+beschreibt. **K13 allein lag bei 2,71/1000 W — der höchste Einzelwert des ganzen Buchs**,
+das 5,6-fache von Band 1.
+
+⚠️ **Wichtige Unterscheidung, die das Skript nicht macht:** Die Mehrheit der Treffer sind
+**rückbezügliche** Vergleiche („so wie beim ersten Mal", „schneller als beim ersten Mal").
+Das ist normales Deutsch, kein Marker. Problematisch sind nur die **Meilenstein-Behauptungen**
+(„Es war das erste Mal"). Davon standen **drei allein in K13**, innerhalb von 60 Zeilen.
+
+**Zusätzlich ein echter Logikfehler:** K13 behauptete zweimal denselben Meilenstein —
+Z. 105 „ein Geräusch, das fast wie ein Lachen klang. **Es war das erste Mal.**" und Z. 163
+„lächelte schwach, **zum ersten Mal, seit sie ihn kannten**". Wenn er schon gelacht hat, ist
+das Lächeln kein Erstes mehr.
+
+**Behoben:** Z. 105 gestrichen (löst Formel *und* Logikfehler zugleich), K15s
+„Zum ersten Mal, ohne Angst" umformuliert. **Behalten:** K13 Z. 111 (Nora hört ihn erstmals
+ihren Namen sagen) und Z. 163 (das Lächeln, das K15s ersten Satz trägt). Ergebnis:
+**Akt 4 von 1,28 auf 0,77**, buchweit 0,76 — zwischen Band 1 (0,48) und Band 5 (0,83).
+**Nicht genullt.**
+
+### Befund 2 — „ohne es zu merken" als Frau-Brandt-Tic ⚠️ TEILWEISE GERECHTFERTIGT
+
+Dreimal dieselbe Konstruktion, jedes Mal Frau Brandt, jedes Mal „sie tut etwas, ohne es zu
+bemerken" (K5, K11, K13). Als Kurzschrift für Überforderung war das bequem geworden.
+K11 und K13 lagen nur zwei Kapitel auseinander. **K11 umformuliert**, K5 und K13 behalten
+(acht Kapitel Abstand, verschiedene Verben). 3 → 2.
+
+### Befund 3 — doppelte Absatzanfänge ✅ GEPRÜFT UND VERWORFEN
+
+Drei Treffer in Akt 4: K13 „Er / Er" (zweimal) und K15 „Einmal / Einmal". **Alle drei sind
+bewusste Anaphern**, keine Versehen — K13s Reihen bauen auf („Er blieb nicht… Er blieb
+überhaupt nicht… Er lief"), K15s Doppelung ist das Schlusscouplet des Buchs. Mechanisches
+Auflösen hätte hier Rhythmus zerstört. **Keine Änderung** (Falle 3, Zahlen statt Ohr).
+
+### Befund 4 — Perspektive ✅ GEPRÜFT, SAUBER
+
+Nach dem Perspektivbruch in K11 alle Erzählabsätze in Akt 4 auf mehrdeutige „Sie"-Bezüge
+geprüft, besonders dort, wo Nora und Frau Brandt gemeinsam in der Szene sind. **Kein
+einziger unklarer Bezug.** Jeder ist im Vorabsatz eindeutig gesetzt.
+
+---
+
+## WIEDERHOLUNGS-PASS ÜBER DAS GESAMTBUCH (2026-08-07)
+
+> ⚠️ **Diese Prüfung stand in keinem Prüfplan.** Der Stimmen-Prüfplan (Phase 4b) misst
+> *Formel-Marker* — „Und"-Anfänge, „erste Mal", Gedankenstriche. Er sucht **nicht** nach
+> wiederholten Formulierungen und Bildern. Die aktweisen Prüfungen deckten das ebenfalls
+> nicht ab: Eine Wiederholung zwischen K2 und K14 wäre in keinem Durchgang aufgefallen.
+> Erstmals als **buchweiter n-Gramm-Scan** über alle 16 Kapitel durchgeführt.
+
+### Gefunden und behoben
+
+| Formulierung | vorher | nachher | Anmerkung |
+|---|---|---|---|
+| „Frau Brandt sah ihn/sie an" | **8×** | 3× | K1,2,7,7,10,11,12,14 — größter Fund. Sie war meine Standard-Reaktionsfigur und „sah an" mein Standard-Verb |
+| „sagte Frau Brandt leise" | 4× | 1× | K4,5,9,10 |
+| „gab ein Geräusch von sich, das fast …" | 2× | 1× | K6,13 — **siehe Falle-8-Notiz unten** |
+| „Nora suchte nach den richtigen Worten" | 2× | 1× | K7,11, wörtlich identisch |
+| „Tränen liefen ihr über das Gesicht" | 2× | 1× | K3,7 |
+| „Das ist neu", sagte Nora | 2× | 1× | K5,6 — **direkt benachbarte Kapitel** |
+| „langsam, wie aus Nebel geformt, erschien er" | 2× | 1× | K3,7 |
+| „Theo stellte sich neben sie" | 2× | 1× | K3,7 |
+| „in einer anderen Stadt, weit weg von hier" | 2× | 1× | K1,2 — Frau Brandt wiederholt sich fast wörtlich |
+
+**Keine davon wurde auf null gebracht** (Regel A). Fix-Typen gemischt: Streichen, Verb
+tauschen, Perspektive der Beschreibung wechseln, Satz umbauen.
+
+### Zwei strukturelle Erkenntnisse
+
+**1. K7 ist der Wiederholungs-Hotspot.** Fünf der neun Funde betreffen K7 — weil K7
+*strukturell* eine Wiederholung von K3 ist (zweiter Zuhören-Versuch) und ich dort
+unbewusst auch dessen **Vokabular** wiederverwendet habe. Erscheinen des Geistes, Weinen,
+Theos Position: alles wörtlich wie in K3. **Lehre für S2-2 ff.: Wenn ein Kapitel eine
+Szene strukturell wiederholt, ist das Beschreibungsvokabular der ersten Szene tabu** —
+so wie es für K14 ausdrücklich vorgegeben war und dort auch funktioniert hat.
+
+**2. ⚠️ Falle 8 hat real zugeschlagen.** K6s „gab ein Geräusch von sich, das fast ein Lachen
+war" war **mein eigener Fix aus dem Akt-2-Pass** (Ersatz für „musste Frau Brandt kurz
+lächeln"). Der Ersatz hat eine neue Wiederholung mit K13 erzeugt. Genau das beschreibt
+`Stimmen_Pruefplan.md` als Falle 8 — „Der Ersatz verstärkt ein anderes Muster". **Konsequenz:
+Nach jedem Pass muss der Ersatztext selbst gegen den Rest des Buchs geprüft werden**, nicht
+nur die ersetzte Stelle.
+
+**Regel B nach dem Pass:** 15.818 W · Ø-Satz 6,81 · 0 echte Satzlängen-Verstöße ·
+Dialog 37,1 % · Kurz-Absätze 6,3 % — alle Werte unverändert, keine Regression. Ein beim
+Umformulieren neu entstandener 19-Wort-Satz wurde sofort gesplittet.
+
+---
+
+## ✅ GESAMTBILANZ S2-1 — 16/16 Kapitel fertig
+
+| Marker | **S2-1** | Band 1 | Band 5 | Bewertung |
+|---|---|---|---|---|
+| Kapitel | 16 | 18 | 18 | |
+| Wörter gesamt | **16.615** | 26.988 | 16.910 | knapp unter Band 5, gleiche Größenordnung |
+| Ø je Kapitel | **1.037** | 1.499 | 939 | leicht über Band-5-Niveau |
+| Ø-Satzlänge | **6,82** | 4,74 | 6,38 | zwischen beiden, unter Stilblatt-Untergrenze |
+| Sätze > 18 W | **0 echte** (4 Messartefakte) | 11 | 49 | strenger als beide Referenzbände |
+| Dialoganteil | **37,1 %** | 50,5 % | 24,4 % | im Zielband 35–45 % |
+| Kurz-Absätze | **6,3 %** | 7,7 % | 9,6 % | knapp unter beiden |
+| Gedankenstrich Erzähler | **1** | 1 | 46 | exakt Band-1-Niveau |
+| „Und"-Satzanfang /1000 W | **0,89** | 1,67 | 2,60 | unter Band 1, keine Formelhaftigkeit |
+| „Zum ersten Mal" /1000 W | **0,38** | 0,33 | 0,59 | praktisch Band-1-Niveau |
+
+**Zwei Skript-Fehlalarme geprüft und entkräftet:**
+1. *„Kanon-Leck"* — der einzige Treffer ist „Der Schleier geheilt, die Karte fertig" (K1).
+   Das ist ein zulässiger Rückbezug nach Regel 3 und bestätigt ausdrücklich, dass die Karte
+   **fertig** ist. Kein Verstoß gegen Widerspruch 3.
+2. *„begriff/verstand/merkte: 3"* — keine einzige davon ist das gemeinte Muster (Nora hat
+   eine Erkenntnis, flach behauptet). Es sind: Frau Brandt (verneint, beobachtet), unpersönlich
+   „man merkte", und eine Verhaltensbeschreibung über Theo. **Echte Treffer: 0.**
+
+**Verbleibende Beobachtungspunkte für Phase 4b:**
+- **Vier** Kapitel unter der 35-%-Dialoggrenze: **K6 (31,4 %)**, **K9 (32,8 %)**,
+  **K13 (33,9 %)**, **K15 (33,5 %)**. K9 und K15 sind erst durch die Jule-Szenen dorthin
+  gerutscht — beide Auftritte bringen notwendigerweise Erzähltext mit. Buchweit weiterhin
+  unkritisch (36,6 %), aber die vier zusammen im Stimmen-Pass gegenlesen.
+- Kurz-Absätze liegen mit 6,3 % unter beiden Referenzbänden. Kein Defekt, aber wenn im
+  Lektorat Luft fehlt, ist das die erste Stellschraube.
+
+⚠️ **Beobachtung aus Akt 4 (nach K13/K15):** In den **ruhigen, ereignisgetriebenen** Kapiteln
+driftet der Erstentwurf reproduzierbar in dieselbe Schwäche — lange Erzählsätze und zu wenig
+Dialog. K13 startete mit 754 W / 14,5 % Dialog / 6 Satzlängen-Verstößen, K15 mit 726 W /
+24,5 % / 6 Verstößen. Die dialoggetriebenen Kapitel (K14: 46,9 %) haben das Problem nicht.
+**Konsequenz für S2-2: bei Abschied-, Ankunfts- und Beobachtungskapiteln von vornherein mit
+Dialoggerüst planen**, nicht erst nachträglich Dialog einziehen.
+
+⚠️ **Messkorrektur (Stimmen-Prüfung Akt 2):** Die Dialog-Prozentwerte für K1–K8 waren in
+früheren Einträgen dieser Tabelle **zu hoch angesetzt**. Die alte Methode zählte einen
+ganzen Absatz als Dialog, sobald er mit einem Anführungszeichen *begann* — inklusive der
+Erzähl-Anteile darin („…", sagte Nora und stand auf). Korrekt gemessen wird der Wortanteil
+**innerhalb** der Anführungszeichen. Reale Werte: K5 36,6 % · K6 31,4 % · K7 36,8 % ·
+K8 39,7 % · **Akt 2 gesamt 36,5 %**. Zum Vergleich: Band 1 = 50,5 %, Band 5 = 24,4 %.
+Akt 2 liegt damit im unteren Zielband (35–45 %) und **zwischen** beiden Referenzbänden.
+**K6 liegt mit 31,4 % unter der 35-%-Untergrenze** — einziger echter Ausreißer, aber immer
+noch deutlich über Band-5-Niveau. In Phase 4b gegenprüfen, nicht jetzt künstlich aufblähen.
+
+### ⚠️ Kapitellängen-Frage — nach Akt 2 empirisch geklärt
+
+Alle acht Kapitel liegen unter dem 1.200-Wörter-Minimum aus CLAUDE.md (Spanne 795–1.091,
+Ø 980). Das sah nach einem Problem aus, ist aber **keins** — gemessen, nicht vermutet:
+
+| Buch | Kapitel | Gesamt | Ø/Kapitel | kürzestes | längstes |
+|---|---|---|---|---|---|
+| Band 1 | 18 | 26.988 W | **1.499** | 1.308 | 1.667 |
+| Band 5 | 18 | 16.910 W | **939** | **748** | 1.262 |
+| S2-1 (K1–8) | 8 | 7.837 W | **980** | 795 | 1.091 |
+
+**Befund:** Das 1.400–1.600-Ziel bzw. 1.200-Minimum beschreibt **Band 1**, nicht die
+tatsächliche Serienpraxis. Band 5 — der unmittelbar vorangehende, veröffentlichte Band —
+hat **kein einziges** Kapitel über 1.262 Wörter und ein kürzestes von 748. S2-1 liegt mit
+Ø 980 fast exakt auf Band-5-Niveau (939) und **über** dessen Minimum.
+
+Das ist dasselbe Muster wie bei der Satzlänge (`Stimmen_Pruefplan.md`, Prinzip
+„**Benchmark, nicht Ideal**"): die Stilblätter beschreiben Band 1, die gelebte Serienstimme
+hat sich seither verschoben. **Keine Nachbesserung nötig, kein Auffüllen.** Die Kapitel sind
+nicht zu kurz — die Vorgabe ist veraltet.
+
+**Einziger echter Beobachtungspunkt:** Gesamtumfang. Hochrechnung 16 × Ø 980 ≈ **15.700 W**,
+gegenüber Band 5 mit 16.910 W. Das ist knapp darunter, aber in derselben Größenordnung —
+für die KDP-Positionierung unkritisch. **In Phase 4b final gegenrechnen**, nicht jetzt
+gegensteuern.
+
+---
+
+## STIMMEN-PRÜFUNG AKT 3 (durchgeführt 2026-08-07, nach K12)
+
+| Marker | Akt 1 | Akt 2 | **Akt 3** | Band 1 | Band 5 |
+|---|---|---|---|---|---|
+| Ø-Satzlänge | 7,47 | 7,22 | **6,47** | 4,74 | 6,38 |
+| Sätze > 18 W | 2 | 0 | **0** (1 Messartefakt) | 11 | 49 |
+| Dialoganteil | 37,5 % | 36,1 % | **36,5 %** | 50,5 % | 24,4 % |
+| Kurz-Absätze | 3,3 % | 6,0 % | **6,5 %** | 7,7 % | 9,6 % |
+| Gedankenstrich Erzähler | 1 | 0 | **0** | 1 | 46 |
+| „Und"-Satzanfang /1000 W | 0,52 | 0,25 | **1,74** (vorher 2,73) | 1,67 | 2,60 |
+
+### Befunde und was daraus folgte
+
+**1. ⚠️ PERSPEKTIVBRUCH in K11 — der schwerste Fund der bisherigen Prüfungen.**
+`Sie dachte an einen Werkzeugkasten…` stand unmittelbar **nach einer Replik von Frau
+Brandt**. Grammatisch verwies „Sie" damit auf Frau Brandt, gemeint war Nora. Gelesen als
+Frau Brandt wäre es ein Wechsel in eine fremde Figurenperspektive — Bruch der
+Kardinalregel der Reihe (3. Person, ausschließlich nah an Nora). **Behoben:** „Nora dachte".
+
+**2. „Und"-Formel als Enthüllungs-Einleitung.** Alle vier Akt-3-Kapitel führten ihren
+Fundmoment mit „Und [Enthüllung]" ein. Einzeln je gut, in Serie ein hörbares Muster —
+2,73/1000 W lag über Band 1 **und** über Band 5, also über dem Band, den der Prüfplan als
+formelhaft driftend markiert. **Vier von zehn variiert, sechs bewusst behalten**
+(u. a. „Und drückte zu." / „Und hinter ihr schrie Herbert." — die tragen). Jetzt 1,74,
+praktisch Band-1-Niveau. **Nicht genullt.**
+
+**3. Doppelte Absatzanfänge — eigene Bearbeitungsspuren.** K7 („Frau Brandt" / „Frau
+Brandt") und K10 („Nora" / „Nora") — beide Reste früherer Korrekturen, beide behoben.
+
+**4. „Sie" als Absatzanfang: geprüft, überwiegend NICHT beanstandet.** Akt 3 liegt bei
+16,9 % (Band 1: 4,8 %, Band 5: 14,4 %) — statistisch auffällig. **Alle 17 Vorkommen
+einzeln gelesen:** Bezug ist jeweils im Vorabsatz eindeutig gesetzt, keine
+Verwechslungsgefahr. In K12s Schlussszene ist die Häufung sogar bewusste Anapher
+(„Sie hielt nur." / „Sie hielt einfach weiter."), die den emotionalen Schluss trägt.
+**Mechanisches Kürzen hätte hier die beste Stelle des Kapitels beschädigt** — Falle 3
+(Zahlen statt Ohr). Einziger echter Fall war Punkt 1, und der ist behoben.
+
+**5. Ebenfalls geprüft, kein Handlungsbedarf:** Satzlänge (6,47 = Band-5-Niveau, unter der
+Stilblatt-Untergrenze), Kurz-Absätze (6,5 %, zwischen Akt 2 und Band 1), Gedankenstriche
+(0), „begriff/verstand/merkte" (buchweit 2, am Zielwert), Kanon-Leck (keins).
+
+---
+
+## ✅ STIMMEN-PASS (Phase 4b) — ABGESCHLOSSEN 2026-08-07
+
+Vollständige Dokumentation: `Dokumentation/Stimmen_Pruefplan.md`, **Abschnitt 11**.
+Gemessen mit dem vorgeschriebenen Skript aus Abschnitt 5, unverändert.
+
+**Sieben von acht Budgets waren bereits erfüllt.** Der einzige echte Befund war ein
+Ausreißer in die *falsche* Richtung:
+
+| Marker | Budget | Band 1 | vorher | nachher |
+|---|---|---|---|---|
+| „Und"-Satzanfang (Erzähler) /1000 W | 2,3 | 2,26 | **0,78** 🔴 | **1,81** ✅ |
+| „Und dann" · „Zum ersten Mal" | 0,5 · 0,4 | 0,41 · 0,33 | 0,36 · 0,30 | unverändert ✅ |
+| Kurz-Absätze | 7–8 % | 7,7 % | 6,2 % 🟡 | 6,2 % 🟡 |
+| Erkenntnis-Formeln · „das Schlimmste" | ≤2 · ≤2 | — | **0** · **1** | unverändert ✅ |
+| Gedankenstrich /1000 W | ≤5,5 | 0,04 | 1,44 ✅ | unverändert |
+| Leitmotiv, dichtester Akt | ≤6 /1000 W | — | — | **4,1** ✅ |
+
+⚠️ **Falle 1 hatte zugeschlagen — durch meinen eigenen Messfehler.** In den aktweisen
+Prüfungen habe ich „Und"-Anfänge mit einer selbstgebauten, breiteren Regex gemessen und
+gegen einen zu niedrigen Zielwert gekürzt. Ergebnis: ein Drittel der Band-1-Dichte.
+**Behoben durch Wieder-Aufbau**, 17 Instanzen über 15 Kapitel ergänzt, davon vier Rücknahmen
+eigener Streichungen. Bewusst **nicht** auf 2,26 gezwungen — für die letzten Instanzen hätte
+es keine tragenden Stellen gegeben (Falle 2).
+
+**Regel B:** Sätze >18 W 4 → 4 (alle Artefakte) · Ø-Satz 6,79 → 6,80 · Dialog 36,5 % → 36,5 %
+· Ø-Absatz 14,1 W. **Keine Regression.**
+**Regel E:** alle 16 Cliffhanger-Schlusszeilen gegen das Register geprüft, **unangetastet**.
+
+**Verbleibender Beobachtungspunkt:** Kurz-Absätze bei 6,2 % gegen 7–8 % Ziel. Bewusst nicht
+künstlich angehoben — Absätze ohne Schock-Funktion zu befördern wäre genau die mechanische
+Bewegung, vor der Regel C und Falle 2 warnen. Für den menschlichen Read notiert.
+
+---
+
+## ✅ LOGIK-PRÜFPLAN — DURCHGEFÜHRT 2026-08-07
+
+Stufe 1 der Qualitäts-Reihenfolge („Stimmt es?"). Durchgang A maschinell mit den geprüften
+Suchmustern aus `Scripts/pruefe_logik.py`, Durchgang B mit den acht Fragen.
+**12 Kandidaten → 3 echte Fehler, 1 Schwäche.**
+
+### 🔴 Drei Fehler — alle mit derselben Ursache
+
+Ich hatte die Beteiligung der Kinder geschrieben, als liefe sie **seit Wochen**.
+Tatsächlich umfasst die Handlung **sechs Tage** (K1 = Tag 1, K5 „zwei Tage später" = Tag 3,
+K5–K13 = Tag 3, K14/K15 = Tag 4, K16 „zwei Tage später" = Tag 6).
+
+| Kap. | vorher | nachher | Warum |
+|---|---|---|---|
+| K16 | „Vor **sechs Wochen** hatte sie genau denselben Satz gesagt" | „Vor **sechs Tagen**" | Bezug ist K1 = sechs Tage vorher |
+| K13 | „**In vier Wochen** nicht einen Schritt" | „**Bei keinem einzigen Besuch**" | Schatten kennt die Wohnung seit drei Tagen (erster Besuch K2) |
+| K13 | „an der er **wochenlang** nicht vorbeigekommen war" | „an der er **bisher kein einziges Mal** vorbeigekommen war" | dieselbe Ursache |
+
+### 🟠 Eine Schwäche
+
+K12: „**damals** bei Frau Brandt an der Tür" → „**vorgestern** an ihrer eigenen Wohnungstür".
+„Damals" für vorgestern; die Präzisierung verschärft nebenbei den Kontrast.
+
+### 🟡 Geprüft und bewusst stehen gelassen
+
+- **Alle Wochen-Angaben von Frau Brandt und Jule sind korrekt** — sie *wohnen* dort, die
+  Spukphase läuft wirklich seit ~drei Wochen (K13 „seit drei Wochen nicht geschlafen",
+  K15 „drei Wochen lang nicht in diesen Flur gewollt"). Nur die Kinderperspektive war falsch.
+- POV-Kandidaten (4): „Frau Brandt dachte nach", „Theo verstand nicht sofort" u. a. — alle
+  von außen beobachtbar, keine Gedankenwiedergabe fremder Figuren.
+- „Graven" (5×): 4× Stadtname Gravenstedt, 1× Rückbezug auf das Gewölbe unterm Gravenhaus —
+  zulässiger Bonus nach Regel 3, nicht handlungstragend.
+- ⚠️ **Foto aus K5** („Behaltet es") wird nie wieder erwähnt. Im Setup-Tracker als
+  *optional* geführt (#13), daher kein Fehler — aber ein loser Gegenstand. Für den
+  menschlichen Read notiert.
+
+### ⚪ Fehltreffer (Muster-Schwächen, Regel 5)
+
+- „zwölf von zwölf Markierungen" — korrekter Kanon
+- 2× „presste" als verdächtiges Sprechverb — beide sind **Handlungs**verben
+  („presste die Zähne zusammen"), die dokumentierte Fehltreffer-Klasse
+- **„K13 ohne Schatten-Reaktion"** — glatt falsch: K13 enthält den *stärksten* Schatten-Moment
+  des Buchs (er betritt erstmals das Zimmer und läuft hindurch). Der Katalog des Skripts kennt
+  nur Alarm-Verben und übersieht **Entwarnung**. Als Muster-Lücke gemeldet.
+
+### Abschlussprüfung (Abschnitt 7)
+
+1. `git diff`: **4 geänderte Zeilen**, jede einem Befund zugeordnet, keine Streuänderung ✅
+2. Skript erneut gelaufen: **keine neuen Treffer** ✅
+3. **Alle 16 Kapitel-Schlusssätze unverändert** ✅
+4. Setup/Payoff-Anker vollständig vorhanden ✅
+5. Wortdifferenz **−2 W** (Vorgabe: wenige Dutzend) ✅
+6. ⚠️ Prüfung am fertigen Artefakt **steht aus** — Phase 5 noch nicht gelaufen.
+
+**Stopp-Kriterium (Abschnitt 8):** 3 echte Fehler auf 16 Kapitel = 0,2 pro Kapitel, unter
+dem „0–1"-Schwellenwert. **Ein vollständiger Lese-Durchgang B ist laut Plan nicht angezeigt.**
+
+---
+
+---
+
+## ✅ QUALITÄTS-PRÜFPLAN TEIL A — DURCHGEFÜHRT 2026-08-08
+
+> Stufe 2 des Gesamtprozesses. Gemessen mit den **geprüften Funktionen aus
+> `Scripts/pruefe_qualitaet.py`** (kein Nachbau der Muster), gefüttert mit den
+> S2-1-Einzelkapiteln, weil noch kein kompiliertes Manuskript existiert.
+
+### Der Reihenvergleich (alle Zahlen frisch gemessen)
+
+| Band | →Figurenrede | →Unheimliches | K1 Länge | Dialog% K1 | Ø Kapitel | tote Zone |
+|---|---|---|---|---|---|---|
+| 1 | 68 W | 213 W | 1.537 W | 32 % | 1.510 W | 321 W (K2) |
+| 2 | 75 W | 33 W | 1.307 W | 21 % | 1.237 W | 249 W (K9) |
+| 3 | 85 W | 21 W | 1.503 W | 28 % | 1.068 W | 218 W (K15) |
+| 4 | 95 W | 54 W | 1.103 W | 38 % | 1.003 W | 196 W (K7) |
+| 5 | 136 W | 0 W | 979 W | 26 % | 950 W | 220 W (K11) |
+| **S2-1** | **32 W** | **0 W** | **1.084 W** | **43 %** | **1.044 W** | **153 W (K1)** |
+
+S2-1 liegt in **jeder** Kennzahl im oder über dem Korridor der Reihe. Die **tote Zone ist
+die kürzeste aller sechs Bücher**, der Dialoganteil in Kapitel 1 der höchste.
+
+### 🟠 A1 — der einzige echte Befund: der erste Satz
+
+**Was das Skript zuerst meldete:** „erstes Unheimliches nach 25 Wörtern" — ✅ **Fehltreffer.**
+Getroffen hatte die Regex Theos Aufzählung *„kein Klopfen, kein kalter Luftzug, keine
+Handschrift aus dem Nichts"* — also die **Abwesenheit** des Unheimlichen.
+
+**Von Hand nachgemessen:** Das erste echte Ereignis ist *„Dann knurrte Schatten."* bei
+**Wort 430**. Das ist der späteste Einstieg der ganzen Reihe (Band 1: 213) und liegt über der
+Skript-eigenen Schwelle „ab ~400 W lohnt ein Blick".
+
+**Gegenprobe, bevor daraus ein Fehler wurde** (Warnung aus 2026-07-18):
+Die 430 Wörter sind **nicht** leer — Theos Genre-Ansage bei Wort 32, ein Schlagabtausch bei 82,
+dramatische Ironie bei 124 („Nora vermisste es nicht. Jedenfalls redete sie sich das ein."),
+und bei 314 packt eine Fremde sie im Supermarkt am Ärmel. Die *tote-Zone*-Messung bestätigt
+das unabhängig: kürzeste der Reihe. **„Langsamer Einstieg" wäre ein Fehlbefund gewesen.**
+
+**Der benennbare Schaden lag woanders — beim ersten Satz selbst:**
+
+| | erster Satz |
+|---|---|
+| B1 | „Der Umzugswagen parkte schief vor dem Haus." |
+| B2 | „Schatten wollte nicht rein." |
+| B3 | „Man kann eine Nummer nicht anrufen, wenn niemand mehr da ist, der abhebt." |
+| B4 | „Manche Türen sind schon offen, lange bevor man sie findet." |
+| B5 | „Es gibt eine Kälte, die von draußen kommt. Und es gibt die andere." |
+| S2-1 alt | „Nora sortierte die Post auf dem Küchentisch, dreizehn Jahre alt und mit der Geduld einer viel Älteren." |
+
+Die Reihe hat über fünf Bände gelernt, mit einem **Haken** zu öffnen. S2-1 fiel auf das
+Band-1-Muster zurück: eine Alltagshandlung mit **Figurenerklärung im ersten Satz** (17 Wörter,
+am CLAUDE.md-Limit) — genau das, was A1-Lesefrage 2 verbietet („Erklärung vor Ereignis").
+Und das ist der meistgelesene Satz des Buchs: „Blick ins Buch" beginnt dort.
+
+**Eingriff — Stufe 2 der Rangfolge, genau ein vorangestellter Satz:**
+
+> **„Schatten hatte den ganzen Winter nicht geknurrt."**
+
+Warum dieser:
+- **Haken bei Wort 0**, im Register von B2 („Schatten wollte nicht rein.")
+- Er **entschärft die 430 Wörter, statt sie zu kürzen**: Die Wartezeit wird zur geladenen
+  Waffe. Wort 430 („Dann knurrte Schatten.") ist jetzt die **Einlösung von Satz 1**.
+- **Stärkere Klammer mit K16**, das ebenfalls auf Schatten endet („Er legte sich nicht wieder
+  hin."). Vorher trug die Klammer nur das Post-Sortieren — das steht unverändert in Satz 2.
+- **Kanon-geprüft:** Staffel 1 endete vor drei Monaten (November), Handlung spielt im Februar.
+- **Regel 3 / Falle 8 geprüft:** „vorbei" steht in K1 schon 2× → nicht verwendet.
+  „nicht ein einziges Mal" kollidiert mit dem K13-Fix → auf „nicht geknurrt" verkürzt.
+  „drei Monate" hätte mit Theos „drei Wochen" und dem Absatz bei Wort 124 gedrängelt →
+  „den ganzen Winter".
+
+**Nachmessung:** erster Satz 7 Wörter · Figurenrede bei 32 W · K1 1.084 W · Dialog 43 % ·
+tote Zone unverändert 153 W · Amazon-Leseprobe 17 statt 16 Grusel-Signale.
+
+### ✅ A2 — das letzte Kapitel
+
+| Prüfung | Befund |
+|---|---|
+| Fall abgeschlossen? | ✅ Herbert befreit (K15), Familie versorgt, Jule-Payoff eingelöst |
+| Letzter Haken leise? | ✅ „Er legte sich nicht wieder hin." — Register von B5 („Noch nicht.") |
+| Hauptfigur belohnt? | ✅ Frau Brandts „Danke", Jules Vorbeigehen, und in K16 die Antwort auf die Frage aus K1: Nora **vermisst** es doch — jetzt hat sie wieder eine Aufgabe |
+| Weiterempfehlungs-Satz | ✅ „Wie eine Falle im Wald. Die wartet auch nicht auf ein bestimmtes Tier." |
+
+Kein Cliffhanger am Buchende, der den Käufer bestraft — ein offener **Faden** (wer baut die
+Schlösser), kein offener **Fall**.
+
+### ✅ A4 — Amazon-Leseprobe (erste 10 %)
+
+1.682 Wörter · 2 Kapitel · 17 Grusel-Signale → **trägt** (B2: 15, B4: 16).
+
+### ⏸️ A3 — Leseprobe auf den nächsten Band
+
+**Nicht durchführbar.** S2-2 ist noch nicht geschrieben. ⚠️ Vormerken: In Band 1–4 waren die
+Leseproben **erfunden**. Für S2-1 gilt: **erst nach S2-2 erstellen, dann maschinell Absatz für
+Absatz gegen den echten Text prüfen.**
+
+### Bilanz
+
+**1 Befund (🟠), 1 Zeile geändert, 1 Fehltreffer verworfen.** Kein 🔴.
+Die Struktur von S2-1 ist im Reihenvergleich die sauberste bisher.
+
+---
+
+---
+
+## ✅ SPANNUNGS-PRÜFPLAN — DURCHGEFÜHRT 2026-08-08
+
+> Stufe 3 des Gesamtprozesses: „Ist es langweilig?" Teil A mit dem Snippet aus dem Plan
+> über alle 16 Kapitel, Teil B als Lese-Durchgang über **alle 78 Szenen** mit den 7 Fragen.
+
+### Teil A — Messung
+
+| Kennzahl | Grün | Gelb | Rot | S2-1 |
+|---|---|---|---|---|
+| längster dialogfreier Block | <130 | 130–180 | >180 | **Max 153 W (K1)** — kein Rot |
+| Dialog-Anteil | 30–45 % | 20–30 | <20 | 13/16 grün, Rest 29 % — kein Rot |
+| Sätze >18 W | ≤3 | 4–6 | >6 | **0 echte in allen 16** |
+| Wörter | 950–1.300 | 1.300–1.500 | >1.500/<850 | 14 grün, K9+K11 gelb, K4 803 W |
+
+**Reihenvergleich tote Zone:** Band 1 = 321 W · Band 2 = 249 · Band 3 = 218 · Band 4 = 196 ·
+Band 5 = 220 · **S2-1 = 153**. Bester Wert der Reihe.
+
+⚪ **Sechs Roh-Treffer „Satz >18 W" — alle sechs Messartefakte.** Der Regex hängt ein
+Anführungszeichen oder einen `---`-Trenner an den Satzanfang; die echten Sätze haben exakt
+18 Wörter (K4, K5, K7, K11), bei K1 gehört die Hälfte zur Figurenrede, bei K16 ist es der
+kursive Listenblock. Bestätigt Falle 9.
+
+⚪ **K4 mit 803 W unter der Rot-Schwelle — kein Befund.** Band 5 hat fünf Kapitel unter 850
+(Minimum 754), Band 4 eines. Die Schwelle beschreibt Band 1–3, nicht die aktuelle Praxis.
+K4 ist ein reines Reaktionskapitel nach zwei Schocks; Kürze ist dort richtig.
+
+### Teil B — 7 Fragen über alle 78 Szenen
+
+| Frage | Befund |
+|---|---|
+| 1 Haken | 70 von 78 Szenenenden tragen Sog weiter; 8 sind Gefühls-/Schatten-Beats in bewusst ruhigen Kapiteln — **eines davon stand an einer Kapitelgrenze (K4)** |
+| 2 Vorwärts | ✅ kein Stillstand; die Risikokapitel K5 (Küchentisch) und K11 (Karton) sind beide durch Handlung gebrochen (Raumtest / Keller-Split) |
+| 3 zäher Block | ✅ null — höchster Wert 153 W |
+| 4 Schatten | ✅ alle 16 Kapitel; **eine Lücke behoben** (K4 Schlussszene), eine bewusst gelassen |
+| 5 Subtext | ✅ stark; **ein Satz erklärte statt zu zeigen** (K10) |
+| 6 Rhythmus | ✅ Ø 6,8 W/Satz, viele Ein-Satz-Absätze, null echte Überlängen |
+| 7 Cliffhanger | **15 von 16 stark**, einer fiel ab (K4) |
+
+### 🟠 Befund 1 — der Schluss von K4 *(behoben)*
+
+Vollständig dokumentiert im [Cliffhanger-Register](Cliffhanger_Register_S2-1.md),
+Abschnitt „Korrektur nach dem Spannungs-Prüfplan". Kurz: Der Schlussabsatz sagte zum
+dritten Mal dasselbe, nahm K6 die Pointe vorweg (**Falle 11: wiederholte Figur, nicht
+wiederholte Formulierung — zwei Passes liefen daran vorbei**) und enthielt die
+Wissensformel „Das wusste Nora längst". Ersetzt durch:
+
+> Schatten setzte sich vor die Haustür und ging nicht weiter.
+>
+> Nora musste ihn zweimal rufen.
+
+Schließt zugleich die längste schattenlose Szene des Buchs (334 W) und legt Setup #21.
+
+### 🟠 Befund 2 — ein Satz in K10 *(behoben)*
+
+> ~~Nora sah ihn an. Manchmal sagte er etwas, das viel klüger war, als er selbst mitbekam.~~
+> **Nora sah ihn an. Er merkte es nicht mal.**
+
+Der Erzähler erklärte die Pointe (Frage 5: „nichts zu füllen = langweilig"), und es war die
+zweite Auflage derselben Figur — K5 hat nach Theos guter Idee „Nora sah ihn an. Es war ein
+guter Plan, und er war nicht von ihr gekommen." Die K5-Fassung **zeigt**, die K10-Fassung
+**erklärte**. Elf Wörter auf fünf verkürzt, der Theo-Bogen läuft unverändert auf K12 zu.
+
+### ⚪ Bewusst stehen gelassen
+
+- **K11 läuft 725 W ohne Schatten** — die längste Mittelstrecke ohne ihn. Es ist die
+  Küchenszene, in der drei Menschen Karten lesen; ein Hund unter dem Tisch fehlt dort
+  nicht. Direkt danach kommt sein stärkster ruhiger Beat (er setzt sich vor die
+  Gartenhandschuhe).
+- **K14 S2 bis K15 S2 = 1.101 W ohne Schatten**, die absolut längste Lücke. K14 Szene 1
+  lizenziert sie ausdrücklich im Text: „Er sah aus wie ein Hund, der wartet, bis die
+  Menschen fertig sind."
+- **K16 S1–S5 = 799 W ohne Schatten** — weil die Schlussszene des Buchs ganz ihm gehört.
+
+### Abschlussprüfung
+
+1. `git diff`: **2 Dateien, 3 geänderte Zeilen**, beide einem Befund zugeordnet ✅
+2. Neu gemessen, keine Regression: K4 811→809, K10 1070→1063, Blöcke unverändert,
+   keine neuen Langsätze, Dialog K10 35→36 % ✅
+3. Alle übrigen 15 Kapitel-Schlusssätze unverändert ✅
+4. Cliffhanger-Register und Setup/Payoff-Tracker nachgeführt (Regel E) ✅
+5. Wortdifferenz **−9 W** ✅
+
+### Bilanz
+
+**2 Befunde (🟠), 3 Zeilen geändert, 2 Fehltreffer begründet verworfen, 3 Stellen bewusst
+gelassen.** Kein 🔴. Teil A liefert bei den drei Struktur-Kennzahlen **null rote Kapitel** —
+das hat in der Reihe bisher kein Band erreicht.
+
+---
+
+---
+
+## ✅ QUALITÄTS-PRÜFPLAN TEIL F2 — WIRKUNG (2026-08-08)
+
+> Stufe 6, vorgezogen. Reiner Lese-Durchgang über alle 16 Kapitel gegen die vierzehn
+> scharfen Fragen. **Keine Änderung am Manuskript** — die zwei Befunde sind
+> Staffel-Vorgaben, keine S2-1-Fehler.
+
+### GRUSEL — 5 von 5 bestanden
+
+| Frage | Befund |
+|---|---|
+| 1 Angst im Körper? | ✅ **Null behauptete Angst im ganzen Buch.** Gesucht nach „hatte Angst / war besorgt / ein seltsames Gefühl / fühlte sich unwohl" — kein einziger Treffer. Stattdessen: Nacken zieht sich zusammen (K1), Nackenhaare (K5), Magen (K8), Kälte bis in den Unterarm (K12) |
+| 2 malbar? | ✅ Reif, der sich **von innen nach außen** auf Holz bildet (K6) · sichtbarer Atem in geheizter Wohnung (K6) · ein Schloss kleiner als ein Streichholzkopf (K10) · ein Zeichen, das nur im Streiflicht sichtbar wird (K9) |
+| 3 dramatische Ironie? | ✅ zweimal, beide stark: der neue erste Satz (Leser weiß, dass Schatten knurren wird) und **K10** — Theo sagt „er hat sich noch nie geirrt", Nora nimmt die Zange trotzdem. ⚠️ Sonst läuft der Leser im Gleichschritt mit Nora. **Das ist Folge der Er-/Sie-Perspektive, kein Mangel** — Band 1–5 tragen dieselbe Beschränkung und brechen sie ebenfalls nur am Schluss (B5: „Nora sah es nicht. / Noch nicht.", S2-1 K16 analog) |
+| 4 steigert sich? | ✅ K5 Kälte → Klick → Stille → Klick näher → Knurren · K6 Ziehen scheitert → eigener Atem → Theos Atem → Reif |
+| 5 nur Kribbeln? | ✅ kein Blut, kein Körperhorror, kein Kind ohne Ausweg. Härtester Moment ist K10 — und der tut **moralisch** weh, nicht körperlich: „Sie haben ihm wehgetan." / „Ja." |
+
+### HUMOR — 5 von 5 bestanden
+
+Rund 25 Pointen auf 16 Kapitel, **ausnahmslos von Theo**. Stichproben, die Frage 1
+bestehen (nur von ihm denkbar): *„Fünf Sterne, würde ich als Hund wiederkommen."* ·
+*„Kalt, wärmer, heiß, bitte-lauf-weg."* · *„Man hat immer eine Büroklammer dabei.
+Grundregel des Lebens."* · *„Endlich mal ein Plan, bei dem keiner schreit."* / „Sag das
+nicht so laut." / *„Zu spät. Ich hab's schon gesagt."* · *„So eins mit einem Kätzchen an
+einem Ast."* · *„Auf wütende Briefe klebt man keine Marke. Wütende Briefe zerreißt man."*
+
+- **Frage 4 (komisch, weil er Angst hat und weitermacht):** ✅ die Wurstbrot-Ausrede vor
+  Kubiak, „Irgendwas mit Pizza?", „Wir sind unterwegs in einem Keller. Nachts."
+- **Frage 5 (2–3 humorlose Strecken, wo die Dramatik es verlangt):** ✅ **vier** —
+  K3/K4 nach dem ersten Rückriss · K7 von der Vergebung bis „Warum reicht das nicht?" ·
+  K10 nach Herberts Schrei · K14 das Vorlesen der zwölften Karte.
+- ⚪ Der gemessene Abstand Grusel→Theo liegt bei Ø 4,4 Absätzen (Reihe 3,1–4,3). **Kein
+  Befund:** F0 des Plans stellt selbst fest, dass der zugrunde liegende Stichwortkatalog
+  Wirkung nicht misst — S2-1 hat nur 20 Katalog-Treffer gegen 57 bei Band 1.
+
+### HERZ — 4 von 4 bestanden
+
+| Frage | Befund |
+|---|---|
+| 1 Verletzlichkeit | ✅ Nora: „Habe ich etwas falsch gemacht?" (K4) · „Ich weiß es nicht" statt etwas Zuversichtlichem (K13) · Theo: kreidebleich und erstarrt, bevor er sich losreißt (K7) |
+| 2 Geschwister **in einer Handlung** | ✅ Theos Schulter berührt ihre, kurz, ohne ein Wort (K3) · er verteidigt trotzig ihre Methode (K4) · **er überstimmt sie und schickt sie nach Hause essen (K9)** — der stärkste, weil er dabei auf sie aufpasst |
+| 3 ★ Mitgefühl mit dem Geist | ✅ **die klarste Einlösung der Serien-Prämisse bisher.** Herbert startet unsympathisch (stur, hart, wortkarg), kippt in K3 („Seit ich meine Tochter verloren habe. Nicht durch den Tod. Vorher schon.") und ist in K14 vollständig verstanden: *„Solange ich sie nicht einwerfe, kann ich mir noch einbilden, dass du antworten würdest."* Sein Versagen ist eines, das ein Kind kennt — sich nicht zuerst entschuldigen |
+| 4 Hauptfigur belohnt | ✅ und zwar präzise: nicht mit Dank, sondern damit, dass ein Erwachsener ausspricht, was es kostet — „Du bist dreizehn." / „Ich wollte nur, dass das mal jemand ausspricht." (K15) |
+
+### ↩️ Teilweise zurückgenommen: „Das Buch gehört den Erwachsenen"
+
+Vor dem Lese-Durchgang hatte ich ausgezählt, dass nur rund **12 von 78 Szenen** einen
+eigenen Einsatz für Nora oder Theo tragen, und daraus den Verdacht abgeleitet, das Buch
+gehöre emotional Frau Brandt und Herbert.
+
+**Die Zahl stimmt, sie misst aber das Falsche** — derselbe Fehlertyp wie „17 Absätze bis
+zum Grusel". In Band 1–5 fielen Szenen-Besitz und Einsatz zusammen, weil die Kinder in
+Gefahr waren. Hier ist Noras Einsatz **moralisch** und läuft als Durchzug, nicht als
+Szenenbesitz: K1 die Leute auf der Straße tuscheln → K9 sie lügt ihre Mutter an, ohne noch
+nachzudenken („Das ging inzwischen von allein, und das war das Unangenehme daran") →
+K15 ein Erwachsener spricht es aus → K16 sie fühlt sich deswegen nicht mehr schlecht.
+
+Das ist ein sauberer Vierschritt und exakt der Motor, den `PLAN_Staffel2.md` Abschnitt 5
+für die Staffel vorsieht. **Vorwurf entkräftet.**
+
+### Was übrig bleibt — zwei Vorgaben für die Staffel, keine S2-1-Änderung
+
+Beide sind in `PLAN_Staffel2.md` Abschnitt 14 als Punkt 5 und 6 eingetragen:
+
+1. **Herbert hat ein schärferes Dilemma als Nora.** Er muss zwischen der Karte und der
+   Hoffnung wählen. Sie muss nichts aufgeben — K12 ist Schmerz, keine Wahl. Für Band 1
+   einer Staffel vertretbar, über fünf Bände eine Schwäche.
+2. **Jule steht in 3 Kapiteln auf der Seite, wird in 9 erwähnt.** Das einzige betroffene
+   Kind wirkt zu vier Fünfteln als Bericht ihrer Mutter. In S2-1 nicht reparierbar, ohne
+   funktionierende Szenen aufzubrechen — K5 lebt davon, dass ihr Zimmer *leer* ist.
+
+### Bilanz
+
+**14 von 14 Fragen bestanden. Null Änderungen am Manuskript.** Ein eigener Verdacht
+zurückgenommen, zwei Befunde als Staffel-Vorgaben abgelegt. Nach Teil C des Plans gilt
+für Qualität: im Zweifel stehen lassen — und hier bestand kein Zweifel.
+
+---
+
+---
+
+## ✅ LOGIK-PRÜFPLAN DURCHGANG C — FAIR PLAY (2026-08-08)
+
+> **Regel:** Eine Auflösung in Kapitel N darf nur Hinweise nutzen, die in Kapiteln ≤ N
+> stehen. Gegenprobe: Kann ein aufmerksames Kind es vorher ahnen? Nein → Hinweis fehlt.
+> Offensichtlich → ein Hinweis zu viel.
+>
+> ⚠️ **Für Durchgang C gibt es kein Skript.** Die Hinweisliste ist von Hand gebaut. Der
+> `Hinweisketten_Tracker` deckt nur den **Staffel-Bogen** ab (Kette 1–3, Halder); das
+> Rätsel *dieses Buchs* war bis hierher ungeprüft.
+
+### Die sechs Auflösungen und ihre Hinweise
+
+| # | Auflösung | Kap. | Hinweise (alle ≤ N) | Fair |
+|---|---|---|---|---|
+| 1 | Es liegt nicht am Zuhören, es ist etwas Handfestes | K4 | K3 Rückriss trotz gelungener Auflösung | ✅ |
+| 2 | Am Schrank ist eine markierte Stelle | K9 | K3 „als hinge er an einer Kette" · K4 „wie eine Hand, die mich nicht loslassen will" · K4 Theos Witz von der **unsichtbaren Hundeleine** · K5 Schatten fixiert nur noch den Schrank · **K5 das metallische Klicken aus dem Schrank** · K6 kein Griff, kein Schlüsselloch, „als wäre er Teil der Wand" · K6 Reif von innen nach außen | ✅ |
+| 3 | Es ist ein winziges Schloss, und es ist „an ihm dran" | K10 | alle aus #2, plus K9 das eingeritzte Schloss-Symbol · K10 die Kälte des Metalls beim Ertasten | ✅ |
+| 4 | Es war vor Herbert da — für niemanden Bestimmtes | K8/K16 | **K2 „Er kannte diese Wohnung nicht mal. Er kannte diese Stadt nicht mal."** · K2 Noras Frage „Warum ausgerechnet jetzt?" · K6 der Schrank stand schon da, der Vormieter sah ihn nie offen · K8 Schlosser im August, jede Wohnung, auch die leeren · K8 Einzug im November | ✅ |
+| 5 | Man öffnet es, indem man aufhört zu ziehen | K12/K13 | K3+K7 Sanftheit bringt ihn zweimal fast frei · **K10 Gewalt scheitert und verletzt ihn — das Metall unversehrt, der Mann nicht** · K10 Herbert: „Es ist an mir dran" · K10 die Kälte des Schlosses · K11 zwölf Karten, keine abgeschickt | 🟡 s. u. |
+| 6 | Herbert bleibt wegen der zwölften Karte; „Papa" ist der Beweis | K14 | K11 elf offen, eine zugeklebt, adressiert **und frankiert** · K11 Handschrift wird nach oben zittriger · K12 „Alles, was hart war, konnte er. Nur den letzten kleinen Schritt nicht." · K13 er bleibt und behauptet, er wisse nicht wohin — Nora glaubt es nicht | ✅ |
+
+**Keine einzige Auflösung greift auf einen späteren Hinweis zurück.** Formal ist Fair Play
+über alle sechs eingehalten.
+
+### 🟡 Der eine weiche Punkt: der letzte Schritt in K12
+
+Die Kette bis dorthin ist sauber: *Kälte → das Ding gehört nicht zum Zimmer → es gehört zu
+ihm → da hängt ein Mensch dran.* Alle vier Glieder stehen in K10.
+
+Der letzte Schritt — **„Bei einem Menschen hört man auf zu ziehen"** — ist eine
+**Analogie, keine Ableitung.** Nichts im Buch sagt, dass Sanftheit ein Schloss öffnet.
+
+Warum das trotzdem stehen bleibt, in dieser Reihenfolge:
+
+1. **Das Buch flaggt es selbst.** Theo: *„Ich sage nur, es klingt auch ein bisschen wie ein
+   Poster im Klassenzimmer."* — *„So eins mit einem Kätzchen an einem Ast."* Der Text tut
+   nicht so, als wäre der Schluss zwingend. Das ist ehrliches Handwerk, kein Kaschieren.
+2. **Die Richtung ist ahnbar, die Form nicht** — und genau das verlangt die Regel. K10 hat
+   gerade vorgeführt, dass Gewalt scheitert *und* wehtut. Ein aufmerksames Kind erwartet
+   danach, dass die Lösung sanft sein wird. Dass sie aus bloßem Aushalten besteht, ist die
+   Überraschung. Ein härterer Hinweis wäre nach der Gegenprobe **ein Hinweis zu viel**.
+3. Es ist die DNA der Reihe, in K3 explizit gesetzt: „Zuhören. Das ist alles."
+
+**Einstufung 🟡 (Absicht) — stehen lassen, notiert, beim nächsten Durchgang nicht erneut
+melden.**
+
+### ⚪ Geprüft und entkräftet: „Theo hat in K6 dieselbe Stelle abgesucht"
+
+Der schärfste denkbare Einwand: In K6 sucht Theo den Schrank mit einer Büroklammer ab und
+findet nichts — in K10 findet Nora das Schloss mit den Fingern. Hat das Buch geschummelt?
+
+**Nein, und der Unterschied ist eine einzige Präposition.** Theo probiert: *die Ritze
+**zwischen den Türen*** · Oberkante · Unterkante · jede Schnitzerei · die beiden unteren
+Ecken · die Rückseite. Nora schiebt die Finger *in den schmalen Spalt **zwischen Tür und
+Rahmen***. Das ist der äußere Spalt, den Theo nie berührt hat.
+
+**Und sie tut es nur, weil das Symbol dorthin zeigt** — der Text sagt es in vier Wörtern:
+*„Ein Zeichen zeigt auf etwas."* Der Hinweis aus K9 ermöglicht den Fund in K10. Das ist
+Fair Play im Lehrbuchsinn, kein Loch.
+
+### ✅ Positiv-Befund: der Hinweis, der die Auflösung überlebt
+
+K12 löst mit „es ist kalt, **weil es zu ihm gehört**". Nach Herberts Befreiung müsste das
+Schloss demnach warm werden. Es wird nicht warm — K13 „immer noch kalt, aber anders kalt",
+K15 „Nichts davon hatte geholfen. Es blieb kalt.", K16 „kein bisschen erwärmt".
+
+Das ist **kein Widerspruch, sondern die beste Konstruktion des Buchs:** Noras Deutung war
+wahr, aber unvollständig. Sie reichte, um zu öffnen, und erklärte nicht alles. Die Kälte
+kommt nicht von dem, der gehalten wurde, sondern von dem, der es **gebaut** hat — und
+genau darüber läuft der Staffel-Haken. Beide Anschlussstellen (K13, K15) markieren die
+Abweichung ausdrücklich, statt sie zu übergehen.
+
+### Gegenprobe „ein Hinweis zu viel"
+
+Geprüft, keiner. Der offensichtlichste Kandidat ist Theos Witz von der **unsichtbaren
+Hundeleine** (K4) — er benennt die Lösung vier Kapitel früher fast korrekt. Er bleibt
+zulässig, weil er als Witz abgetan wird und im Detail **falsch** ist: Es gibt keine Leine,
+es gibt ein Schloss. Das ist die produktive Sorte Vorwegnahme — der Leser erinnert sich in
+K10 daran und fühlt sich klug, statt sich betrogen zu fühlen.
+
+### Bilanz
+
+**0 🔴 · 0 🟠 · 1 🟡 · 1 ⚪ entkräftet · 1 Positiv-Befund. Keine Änderung am Manuskript.**
+
+---
+
+---
+
+## ✅ PHASE 5 — KOMPILIEREN (2026-08-08)
+
+> Teil B des Qualitäts-Prüfplans **entfällt auf Wunsch des Autors** (2026-08-08).
+
+**Neues Skript:** [`Scripts/build_manuskript_komplett_s2_1.py`](../../Scripts/build_manuskript_komplett_s2_1.py)
+**Ergebnis:** `Staffel2/S2-1/Manuskript/Manuskript_S2-1_Komplett.md` — 16 Kapitel,
+**16.624 Wörter** Fließtext.
+
+### Warum ein eigenes Skript und kein Umbau des Band-5-Skripts
+
+`build_manuskript_komplett_band5.py` ist an einem echten Druckfehler gehärtet worden
+(SEPARATOR-BUG, siehe unten) — an einem laufenden Skript dieser Art herumzuparametrisieren
+riskiert genau die Sorte stiller Regression, gegen die es gebaut wurde. Die Reihe macht es
+seit Band 3 so: ein Build-Skript pro Band. Übernommen sind **alle** Prüfungen, geändert
+sind nur Pfade, Kapitelzahl und Kopfzeile.
+
+### Der SEPARATOR-BUG — hier von Anfang an vermieden
+
+Die Downstream-Parser machen aus **jeder** `---`-Zeile einen Szenentrenner `✦ ✦ ✦`. Die
+Skripte für Band 1–4 setzten zusätzlich ein `---` *zwischen* die Kapitel — nicht
+unterscheidbar. Im Druck stand damit hinter jedem Cliffhanger ein Ornament statt des
+Cliffhangers. **Band 4 ist mit 15 solchen Fehl-Ornamenten in den Druck gegangen.** Da in
+dieser Reihe jedes Kapitel auf einem Cliffhanger endet, trifft der Fehler das
+Konstruktionsprinzip des Buchs.
+
+S2-1 baut ohne Kapiteltrenner — `# Kapitel N` markiert die Grenze eindeutig.
+
+### Prüfungen, die den Build abbrechen statt still Falsches zu bauen
+
+| Prüfung | Ergebnis |
+|---|---|
+| 16 Dateien, lückenlos ab 1 | ✅ |
+| Kopfzeile `# Kapitel N – Titel` in jeder Datei, Nummer = Dateiname | ✅ |
+| keine doppelten Kapiteltitel | ✅ |
+| kein Fehl-Ornament vor/nach einer Kapitelüberschrift, keine doppelten `---` | ✅ |
+| jede Kapiteldatei vollständig im Output | ✅ |
+| **neu:** Schlusszeile jedes Kapitels steht **unmittelbar** vor der nächsten Überschrift | ✅ 15/15 Übergänge |
+
+Die letzte Prüfung ist eine Ergänzung gegenüber Band 5 — sie hält den Cliffhanger direkt
+an der Kapitelgrenze fest, statt nur zu prüfen, dass er irgendwo im Text vorkommt.
+
+### ✅ Frontmatter — freigegeben 2026-08-09
+
+> *Für alle, die zuerst hätten anrufen sollen.*
+> *Und für die, die es noch können.*
+
+> *Ein Geist, der nicht gehen kann, ist eine traurige Sache.*
+> *Ein Geist, der nicht gehen darf, ist etwas anderes.*
+> — aus dem Notizbuch von Margret Silber
+
+**Die Regel, an der beides gemessen wurde**, stammt aus einem Fehlversuch bei Band 5: Eine
+Widmung wird **vor** dem Buch gelesen. Sie muss eine Lebenserfahrung benennen, die man
+**sofort** erkennt — und beim Wiederlesen **noch besser** werden. Band 5s erster Entwurf
+(„Für alle, die sich nicht umzudrehen trauen") konnte nur das Zweite.
+
+**Widmung:** Vorher verständlich, weil jedes Kind aus Streit mit Geschwistern kennt, sich
+nicht als Erster zu entschuldigen. Nachher besser, weil es Herberts wörtliches Geständnis
+aus K14 ist: *„Dabei war ich derjenige, der hätte anrufen müssen." / „Ich habe nie
+angerufen."* Keine Überschneidung mit B3 (zuhören — was dieses Buch ausdrücklich nicht
+reichen lässt), B4 (gehen lassen) oder B5 (etwas verpasst).
+
+**Epigraph — mit einer Zusatzaufgabe.** Alle drei bisherigen sagen sinngemäß „der
+schlimmste Geist ist der, der …". Die Bedrohung von Staffel 2 ist aber **kein Geist mehr**,
+sondern ein lebender Mensch. Das Epigraph markiert diesen Kategorienwechsel — sonst
+verspricht es ein Buch, das die Staffel gerade hinter sich lässt. Motiv-Reihe:
+
+| B3 | die Erlaubnis aufzuhören |
+|---|---|
+| B4 | die Liebe, die nicht hergibt |
+| B5 | die Gewissheit, die nicht hinsieht |
+| **S2-1** | **die Erlaubnis, die jemand anderes verweigert** |
+
+Damit ist es die Umkehrung von Band 3 und begründet zugleich den Staffeltitel „Die
+Gebundenen". Kein Twist-Spoiler: nennt weder Täter noch Methode noch das Schloss. Es macht
+den Rückriss in K3 zur **Bestätigung statt zur Verwirrung** — Teil F2 hatte festgestellt,
+dass dem Buch dramatische Ironie eher fehlt.
+
+**Quelle bleibt Silber**, obwohl sie in S2-1 kein einziges Mal vorkommt: Die Kinder sind
+jetzt ihre Nachfolger, für einen Neuleser liest sich die Zeile einfach als alte Quelle, und
+es ist die einzige Klammer zu Staffel 1, die kein Vorwissen verlangt.
+
+Neu gebaut und am Artefakt geprüft: Frontmatter sitzt, **kein Ornament direkt vor Kapitel 1**,
+alle Strukturprüfungen bestehen. Buch jetzt **16.723 Wörter** — die 14 Wörter Zuwachs
+gegenüber 16.709 sind die Widmung, die `zaehle_woerter` wie die Titelzeilen mitzählt
+(bekannte, bewusst stehen gelassene Ungenauigkeit; das Epigraph wird als `>`-Block korrekt
+ausgenommen).
+
+### Titelkopf (nach `PLAN_Staffel2.md` Abschnitt 10)
+
+```
+# Die Geisterspürer – Der Gast, der blieb
+
+**Die Gebundenen · Band 1**
+Ein Grusel-Abenteuer für Kinder ab 12 Jahren
+```
+
+Abschluss-Marker: `**ENDE BAND 1 · DIE GEBUNDENEN**` — bewusst nicht „ENDE BAND 1",
+das mit Staffel 1 kollidieren würde. Das `**ENDE**` am Schluss von K16 bleibt stehen
+(Ende der Geschichte); der Marker darunter ist der Buch-Marker, genau wie bei Band 1–5.
+
+### ✅ Damit erledigt: Abschluss-Schritt 6 des Logik-Prüfplans
+
+Der Schritt „am fertigen Artefakt prüfen" hing seit dem Logik-Durchgang. Am kompilierten
+Manuskript verifiziert:
+
+| Prüfung | Ergebnis |
+|---|---|
+| 16 Kapitel, Nummern lückenlos | ✅ |
+| alle 16 Schlusszeilen im Artefakt vorhanden | ✅ 16/16 |
+| die vier Logik-Fixes im Artefakt | ✅ |
+| die vier Qualitäts-/Spannungs-Fixes im Artefakt | ✅ |
+| die alten Fassungen restlos entfernt | ✅ |
+| Fehl-Ornamente vor Kapitelköpfen | **0** |
+
+### ⚠️ Nachprüfung von Phase 5 (2026-08-09) — zwei eigene Fehler behoben
+
+Phase 5 wurde nach dem Bau noch einmal **gegen die tatsächlichen Downstream-Skripte**
+geprüft, nicht gegen die eigenen Annahmen. Der Build selbst war sauber; zwei Fehler saßen
+daneben, beide beim ersten Durchgang neu eingebaut.
+
+**🔴 Die TODO-Anweisung im Build-Skript war inhaltlich falsch.** Sie besagte, das
+`**ENDE**` am Schluss von Kapitel 16 gehöre ins gedruckte Buch. Das Gegenteil stimmt:
+`build_taschenbuch_docx_band5.py` streicht diesen Marker ausdrücklich mit der Begründung
+*„KEIN gedrucktes Geisterspürer-Buch hat ein alleinstehendes ENDE"*. Nachgezählt: In den
+Kapiteldateien von Band 1 bis 4 kommt der Marker **überhaupt nicht** vor, nur Band 5 führt
+ihn. S2-1 übernimmt Band 5s Manuskript-Konvention, also auch dessen Druck-Konvention. Wer
+der alten Anweisung gefolgt wäre, hätte S2-1 zum ersten Band der Reihe mit freistehendem
+„ENDE" im Druck gemacht — direkt vor der Rezensions-Bitte. Korrigiert, mit
+Fehler-Historie im Skript, plus dem Band-5-Guard als dritter Rückfalllinie.
+
+**🟠 `pruefe_qualitaet_s2.py` merkte nicht, wenn das kompilierte Manuskript veraltet ist.**
+Das Skript bevorzugt das Artefakt — und das ist eine zweite Kopie desselben Texts. Real
+getestet: ein zusätzlicher Satz in K16, Skript neu gelaufen, **byte-identische Zahlen, keine
+Warnung.** `pruefe_qualitaet.py` hat das Problem nicht, weil es ausschließlich kompilierte
+Dateien liest; die Zwei-Quellen-Lage entsteht erst durch den Fallback auf Einzelkapitel.
+Behoben: Das Artefakt wird vor Gebrauch **inhaltlich** gegen die Kapiteldateien geprüft
+(nicht über Zeitstempel — `git checkout` setzt mtimes zurück). Bei Abweichung: lauter
+Warnblock, Rückfall auf die Kapiteldateien, und die Quelle steht in der Ausgabe.
+
+Vier Zustände getestet: sauber → `[kompiliert]` · Kapitel geändert → erkannt · Kapitel
+gelöscht → über den Kapitelzähler erkannt · wiederhergestellt → wieder `[kompiliert]`.
+Im Fehlerfall wichen die Zahlen tatsächlich ab (Streuung 142 vs. 143) — die Prüfung ist
+also kein Selbstzweck.
+
+**Bewusst nicht angefasst** (vom Autor als nachrangig eingestuft): Die gemeldete Wortzahl
+ist um 14 Wörter zu hoch, weil `zaehle_woerter` die schmucklosen Titelblock-Zeilen nicht
+streicht (16.624 gemeldet, 16.610 echter Fließtext); Kapitel 16 misst im Artefakt 8 Wörter
+zu viel, weil die ENDE-Marker in seinen Body fallen. Beides von Band 1–5 geerbt — eine
+Korrektur würde alle bisher gemeldeten Bandzahlen verschieben.
+
+**Nebenbefund:** Der Build ist bis auf die `Stand:`-Zeile deterministisch — verifiziert
+durch einen zweiten Lauf, der zeilenweise identisch war. Der Zeitstempel ist Absicht und
+verhält sich wie bei Band 1–5.
+
+### Reproduzierbarkeit der Teil-A-Zahlen
+
+**Neues Skript:** [`Scripts/pruefe_qualitaet_s2.py`](../../Scripts/pruefe_qualitaet_s2.py) —
+dünner Aufsatz auf `pruefe_qualitaet.py`, der die Messfunktionen **importiert statt
+nachzubauen** (zwei Kopien derselben Regex driften auseinander) und die Staffel-2-Bände
+nachreicht. Liest bevorzugt das kompilierte Manuskript, fällt sonst auf die Einzelkapitel
+zurück. Damit sind alle in diesem Dokument zitierten Vergleichszahlen jederzeit neu
+herleitbar statt nur behauptet.
+
+---
+
+---
+
+## ✅ PHASE 6 — ABSCHLUSS-PRÜFUNG BESTANDEN (2026-08-09)
+
+**Volles Protokoll:** [`Setup_Payoff_Tracker_S2-1.md`](Setup_Payoff_Tracker_S2-1.md),
+Abschnitt „Phase 6". Kurzfassung:
+
+- **Ghost-Regel gewahrt** — null verbotene Begriffe auf 16.610 Wörter
+- **Setup/Payoff:** 33 ✅, zwei bewusste Staffel-Fäden offen. Der eine echte offene Posten
+  (das Foto aus K5) ist **eingelöst** — siehe unten
+- **Staffel-Brücke:** 4 von 5 Pflichten erfüllt, **eine Abweichung** (die geplante „dünne,
+  helle Narbe" nach dem Rückriss) — **Plan korrigiert**, siehe unten
+- **Cliffhanger:** Muster ✅; die **Form** erstmals geprüft (Band-5-Blindstelle) — 6
+  gesprochene, 10 Erzählerschlüsse, längster Lauf K12–K16. Kein Befund
+- **Schatten:** 16/16 mit echter Reaktion — nach Korrektur eines **eigenen Prüffehlers**
+- **Kanon:** Silber 0×, Lina 0×, insgesamt zwei Sätze Staffel-1-Rückbezug, beide in K1.
+  Neuleser-Regel eingehalten
+- **Grusel-Grad:** nicht messbar — die geplanten Bauteile sind nachweislich verbaut
+
+### ✅ Die beiden Phase-6-Entscheidungen (Autor, 2026-08-09)
+
+**1. Das Foto aus K5 ist eingelöst — in K15, elf Zeilen.**
+
+Frau Brandt hatte es Nora mit einem ausgesprochenen Zweck übergeben („Vielleicht hilft es
+euch, ihn zu verstehen") und danach kam es im ganzen Buch nicht mehr vor — der einzige
+unbezahlte Setup. Der Payoff sitzt jetzt genau dort, wo Frau Brandt ohnehin sagt, sie werde
+Jule von den Rosen erzählen:
+
+> „Ich weiß." Nora legte es auf den Tisch. „Jule hat ihn nie gesehen. Jetzt kann sie."
+>
+> Frau Brandt nahm das Foto und legte es zu den Karten in die Schublade.
+>
+> Dann überlegte sie es sich anders und stellte es auf die Fensterbank.
+
+Die letzte Geste ist der eigentliche Grund für die Stelle: **Herberts ganzer Lebensfehler
+war, Dinge in eine Schublade zu legen.** Seine Tochter fängt an, es genauso zu machen — und
+korrigiert sich. Steht nirgends, der Leser schließt es.
+
+⚠️ **Widerspruchsprüfung:** Nora sagt „Jule hat ihn nie gesehen", nicht „er wusste nicht,
+wie sie heißt". Letzteres wäre falsch — Frau Brandt nennt ihm den Namen in K14. Geprüft.
+
+Kollisionsprüfung: alle sieben neuen Wendungen kommen im Buch **genau einmal** vor.
+Messung K15 danach: 1.186 W · Dialog 33 % · 0 Sätze über 18 W · längster Block 125 W —
+alles grün. Schlusssatz unverändert. Buch jetzt **16.709 Wörter**.
+
+**2. Die geplante Narbe entfällt — `PLAN_Staffel2.md` Abschnitt 6 korrigiert.**
+
+Eine Narbe am Geist ist als Beweisstück wertlos: Der Geist geht am Buchende, man kann sie
+niemandem zeigen, nicht über Fälle vergleichen und nicht in eine Schublade legen. Genau das
+muss die Handschrift des Antagonisten aber leisten, wenn sie fünf Bände tragen soll. S2-1
+liefert sie stattdessen als **Zeichen an einem Gegenstand, zweimal** — geritzt in die
+Schranktür (K9), geprägt ins Metall (K15). Geprüft vor dem Streichen: Kein anderes
+Staffel-2-Dokument baut auf der Geister-Narbe auf; Halders Brandnarbe in S2-3 ist etwas
+völlig anderes und bleibt unberührt.
+
+### ★ Prozess-Fund für S2-2: der Schatten-Check misst am falschen Ort
+
+Mein Check verlangte „Schatten" **und** ein Reaktionsverb im selben Absatz und meldete für
+K13 keine Reaktion — dabei steht dort der stärkste Schatten-Moment des Buchs. Der Name
+steht in einem Absatz, die Verben in den folgenden: **Pronomen.**
+
+Band 5 dokumentierte denselben Fehler in der Gegenrichtung („Erwähnung ≠ Reaktion").
+Beide Male misst das Werkzeug am Absatz, was über Absätze hinweg erzählt wird. **Für S2-2
+bis S2-5: Der Schatten-Check muss Pronomen-Ketten auflösen oder von Hand gelesen werden.**
+
+---
+
+---
+
+## ⏸️ TASCHENBUCH-BUILD — Skript fertig, DOCX steht aus (2026-08-09)
+
+**Neues Skript:** [`Scripts/build_taschenbuch_docx_s2_1.py`](../../Scripts/build_taschenbuch_docx_s2_1.py),
+abgeleitet von dem für Band 5.
+
+### ⚠️ Was NICHT passiert ist
+
+**DOCX und PDF wurden nicht gebaut.** `python-docx` lässt sich in dieser Umgebung nicht
+installieren — PyPI und das Ubuntu-Archiv liefern beide **403**. Das Skript bricht dort
+sauber ab (Exit 2) und verweist auf die Prüf-Betriebsart. LibreOffice für die
+PDF-Konvertierung ist vorhanden; nur die DOCX-Erzeugung fehlt.
+
+**Zum Bauen** in einer Umgebung mit `python-docx`:
+```
+python Scripts/build_taschenbuch_docx_s2_1.py
+```
+
+### ★ Die Prüf-Betriebsart — und warum sie existiert
+
+```
+python Scripts/build_taschenbuch_docx_s2_1.py --pruefen
+```
+
+Läuft **ohne** `python-docx` und führt genau die Textaufbereitung aus, die auch der echte
+Build benutzt. Das ist kein Komfort-Feature: **Band 5s einziger echter Druckfehler saß
+genau hier.** `Kapitel_18.md` endete mit `**ENDE**`, der Marker schlug bis ins fertige DOCX
+durch — direkt vor die Rezensions-Bitte — und fiel erst beim Prüfen des fertigen Dokuments
+auf. Alles, was diesen Fehler hätte fangen können, ist Textverarbeitung und braucht kein
+Word.
+
+**Ergebnis für S2-1:**
+
+| Prüfung | Ergebnis |
+|---|---|
+| ENDE-Marker (beide) entfernt, keine Restzeile | ✅ |
+| Kapitel im Druck | **16 / 16** |
+| echte Szenentrenner | 65 |
+| Fehl-Ornamente vor/nach Kapitelüberschriften | **0** |
+| letzte Zeile vor dem Nachwort | *„Er legte sich nicht wieder hin."* — der Cliffhanger, kein Marker |
+| Anführungszeichen | 926 öffnende / **926** schließende, 0 gerade übrig |
+| Apostrophe | 12 im Quelltext → 0 übrig |
+| Geviertstriche | 24 im Quelltext → 0 übrig, 40 Halbgeviertstriche gesamt |
+| Frontmatter | importiert, nicht kopiert — Widmung und Epigraph identisch zum Manuskript |
+
+Die Anführungszeichen-Bilanz ist der schärfste Einzeltest: 926 zu 926 heißt, dass der
+paarweise Algorithmus über 16.700 Wörter kein einziges Mal aus dem Tritt gekommen ist.
+
+### Fünf Unterschiede zu Band 5, jeder mit Grund
+
+1. **ENDE-Regex für zwei Marker.** S2-1 trägt `**ENDE**` (Schluss von K16) *und*
+   `**ENDE BAND 1 · DIE GEBUNDENEN**`. Beide gehören aus dem Druck.
+2. **Kein QR-Code ohne ASIN.** S2-1 ist unveröffentlicht. Band 5s Skript hätte ein
+   fehlendes Bild stillschweigend übersprungen — im Buch stünde dann *„Einfach den Code
+   scannen"* und danach kein Code. Hier schaltet `BAND_ASIN = None` den ganzen Block ab,
+   und der Build sagt es laut.
+3. **Kein Teaser.** S2-2 ist nicht geschrieben. Die Regel steht seit Band 5 fest: Von
+   Band 4s 12 Leseproben-Absätzen existieren **0** in Band 5, von Band 3s 16 genau **1**
+   in Band 4 — beide waren spekulativ geschrieben.
+4. **Serienübersicht nur mit kaufbaren Titeln.** S2-2 bis S2-5 gibt es nicht; sie zu
+   listen bräche die Band-5-Regel *„Nie einen Titel bewerben, den es noch nicht zu kaufen
+   gibt."* Stattdessen die fünf Bände der ersten Staffel als Backlist, mit dem
+   ausdrücklichen Hinweis, dass die Reihenfolge egal ist — das stützt den freien Einstieg,
+   statt ihn zu untergraben.
+5. **Titelseite mit Reihenname.** „Die Geisterspürer" hat jetzt zwei Bände mit der Nummer 1.
+   Die Titelseite trägt deshalb „Die Gebundenen · Band 1".
+   ⚠️ Das Wort **„Staffel" taucht nirgends im Buch auf** — internes Planungswort, der Leser
+   kennt es nicht (Regel aus Band 5).
+
+Unverändert aus Band 5 übernommen: der defensive Skip für einen Szenentrenner direkt vor
+einer Kapitelüberschrift (Gürtel und Hosenträger neben dem Wurzel-Fix im Kompilier-Skript)
+und die **importierte statt kopierte** Frontmatter.
+
+### Offen bis zur Veröffentlichung
+
+1. **DOCX + PDF bauen** in einer Umgebung mit `python-docx`
+2. ⚠️ **Am fertigen DOCX prüfen, nicht am Skript.** Band 5s Fehler wurde genau dort
+   gefunden: Kapitelzahl, Fehl-Ornamente, Szenentrenner, kein ENDE-Marker, deutsche
+   Anführungszeichen, Kapitälchen-Auftakt, Seitenzahl
+3. **ASIN eintragen** nach der Veröffentlichung, `build_qr_rezension.py` laufen lassen,
+   neu bauen
+4. **Teaser auf S2-2** erst nach dessen Manuskript — und maschinell gegen den echten Text
+
+---
+
+---
+
+## ⏸️ eBOOK-BUILD — Skript fertig, DOCX steht aus (2026-08-09)
+
+**Neues Skript:** [`Scripts/build_ebook_docx_s2_1.py`](../../Scripts/build_ebook_docx_s2_1.py).
+Wie beim Taschenbuch: **DOCX nicht gebaut**, `python-docx` ist hier nicht installierbar.
+Prüf-Betriebsart läuft:
+
+```
+python Scripts/build_ebook_docx_s2_1.py --pruefen
+```
+
+| Prüfung | Ergebnis |
+|---|---|
+| ENDE-Marker (beide) entfernt | ✅ |
+| Kapitel → Heading 1 → Kindle-Navigation | **16 / 16** |
+| echte Szenentrenner | 65 |
+| Fehl-Ornamente | **0** |
+| Anführungszeichen nach Typografie | 926 / 926, 0 gerade übrig |
+| Frontmatter | importiert |
+
+### Die Textaufbereitung wird importiert, nicht kopiert
+
+Band 5 hat gelernt, die **Frontmatter** zu importieren statt sie zu kopieren — B1–4
+definierten sie in zwei Dateien, mit Divergenzrisiko. Für die **Textaufbereitung** gilt
+dasselbe Argument schärfer: ENDE-Regex, Szenentrenner-Logik und Typografie müssten sonst in
+Taschenbuch *und* eBook doppelt gepflegt werden. Deshalb zieht das eBook-Skript
+`bereite_body_vor`, `ereignisfolge`, `apply_typography` und die Frontmatter aus
+`build_taschenbuch_docx_s2_1.py`. **Eine Quelle für alle drei Formate** — Manuskript,
+Taschenbuch, eBook.
+
+### Unterschiede zum Taschenbuch
+
+- Kapitel als **Heading 1** statt eigenem zentrierten Absatz — daraus baut Kindle die
+  Navigation
+- **Inhaltsverzeichnis als Word-Feld** (`TOC \o "1-1" \h \z \u`), direkt nach dem
+  Impressum, mit `updateFields` damit es sich beim Öffnen selbst füllt
+- Keine Seitengröße, keine Ränder, keine Seitenzahlen, keine Spiegelränder
+- **Kein Kapitälchen-Auftakt** — Kindle rendert small-caps unzuverlässig
+- Widmung und Epigraph stehen wie im Druck unmittelbar vor Kapitel 1, das
+  Inhaltsverzeichnis davor
+- Statt QR-Code ein Link (ebenfalls erst ab vorhandener ASIN)
+
+---
+
+## ⚠️ NEBENBEFUND ZU BAND 1 — halb umgestellte Anführungszeichen
+
+Beim Vergleich der Skripte gefunden. **Betrifft nicht S2-1, sondern ein veröffentlichtes
+Buch.**
+
+| Buch | ASCII `"` | öffnend `„` | schließend `“` |
+|---|---|---|---|
+| **Band 1** | **1.078** | **1.078** | **0** |
+| Band 2–5 | 1.300–1.700 | 0 | 0 |
+| S2-1 | 1.852 | 0 | 0 |
+
+Band 1s kompiliertes Manuskript ist das einzige der Reihe, das **halb** umgestellt ist:
+deutsches Anführungszeichen am Anfang, gerades ASCII am Ende — `„Text"`. Alle anderen
+Bände sind reines ASCII, und die Build-Skripte wandeln sie korrekt um.
+
+Dazu kommt: **`build_ebook_docx.py` und `build_taschenbuch_docx.py` (beide Band 1) wandeln
+überhaupt keine Anführungszeichen um** — nachgezählt, null Aufrufe. Band 1 dürfte also mit
+`„Text"` in den Handel gegangen sein. Mild, aber sichtbar.
+
+⚠️ **Die eigentliche Falle liegt in der Zukunft:** Wer je ein modernes Skript mit
+`typo_quotes` auf Band 1s Manuskript ansetzt, macht aus dem schließenden ASCII-Zeichen ein
+**zweites öffnendes** — verifiziert:
+
+> vorher: `„Das sieht aus wie in einem Horrorfilm", sagte Theo`
+> nachher: `„Das sieht aus wie in einem Horrorfilm„, sagte Theo`
+
+**Band 1 braucht deshalb zuerst eine Bereinigung des Manuskripts, nicht nur ein neues
+Skript.** Nicht angefasst — es ist ein verkauftes Buch und gehört nicht zu S2-1.
+
+➡️ **Übertragen nach [`Dokumentation/TODO_Nachbesserung_Band1-4.md`](../../Dokumentation/TODO_Nachbesserung_Band1-4.md),
+Abschnitt „Fehler 3"** (2026-08-09) — dort steht die Sammlung der Band-1-4-Nachbesserungen,
+mit Fix, Trockenlauf-Beleg und der Begründung, warum der Eingriff mit der Kernregel
+„die Komplett-Manuskripte sind die publizierte Wahrheit" vereinbar ist.
+
+---
+
+---
+
+## ⏸️ COVER — Konzept fertig, Bild steht aus (2026-08-09)
+
+**Arbeitsvorlage:** [`Cover/COVER_S2-1.md`](Cover/COVER_S2-1.md) — Motiv, beide Prompts,
+Zonen, Prüfliste. **Build-Skript:** [`Scripts/build_cover_kdp_s2_1.py`](../../Scripts/build_cover_kdp_s2_1.py).
+
+⚠️ **Kein Bild erzeugt** — Bildgenerierung ist hier nicht möglich, und die Cover-Skripte
+laufen ebenfalls nicht (`PyMuPDF`, `Pillow` nicht installierbar).
+
+### Der eine echte Beitrag: Kapitel 2 ist das Cover
+
+Der Staffelplan legte das Motiv am 2026-08-07 fest — **vor dem Manuskript**, als
+*„fremde Altbauwohnung, Geist als ‚Gast' gefangen"*. Jetzt existiert das Buch, und K2
+enthält eine Komposition, die **alle acht Regeln der Reihen-Grammatik gleichzeitig
+erfüllt**, ohne dass etwas dazuerfunden werden muss: die einen Spalt offene Tür, das kalte
+Licht dahinter, der dunkle Schrank, und davor *„ein Mann, grau und verschwommen wie durch
+Nebel gesehen. Der Rücken zu ihnen gewandt, den Kopf leicht gesenkt."*
+
+**Regel 6 ist der Punkt.** Auf allen bisherigen Covern musste die Gesichtslosigkeit des
+Geistes kaschiert werden. Hier ist sie **Handlung**: Herbert hat sich abgewandt — genau
+das erzählt das Buch.
+
+Abgrenzung zu Band 4, der ebenfalls eine Tür mit Lichtspalt hat: Band 4s Tür ist
+**zugemauert** (dahinter nichts) und ihr Spalt **warm golden**; S2-1s Tür steht offen,
+dahinter ein Raum, und das Licht ist **kalt silbergrau**. Trägt auch im 150-px-Thumbnail.
+
+### Maße gegengerechnet
+
+Die Formel im Skript ist an Band 5 verifiziert: 104 Seiten → 12,484 × 9,250 Zoll →
+**3745 × 2775 px**, Rücken 1,88 % der Breite — exakt die dort dokumentierten Sollwerte.
+
+S2-1 geschätzt **≈ 102 Seiten** (16.723 W bei Ø 163,5 W/Seite; Band 4: 164,2 · Band 5:
+162,8) → 3744 × 2775 px, Rücken 5,83 mm.
+
+### ★ Warum das Skript ohne Seitenzahl abbricht
+
+Band 5 hatte `PAGES = 104` fest verdrahtet — eine echte, abgelesene Zahl. Für S2-1 gibt es
+sie nicht, das Taschenbuch-PDF ist ungebaut. Das Skript verlangt deshalb `--seiten` und
+bricht sonst ab.
+
+⚠️ **Korrektur an meiner eigenen ersten Begründung:** Ich hatte im Skript geschrieben, zwei
+Seiten Differenz seien 1,1 mm Rücken. Nachgerechnet sind es **0,11 mm** — Faktor zehn
+daneben. Das Argument trägt trotzdem, aber aus einem anderen Grund: **KDP prüft die
+Gesamtbreite des Covers gegen die tatsächliche Seitenzahl des Manuskripts** und lehnt bei
+Abweichung ab. Und die Schätzung hat keine Fehlerspanne — sie stammt aus zwei Datenpunkten
+und hängt stark davon ab, wo die Kapitelumbrüche fallen (16 statt 18 Kapitel).
+
+### Offen
+
+| Punkt | Blockiert durch |
+|---|---|
+| Bilder erzeugen (4–6 Varianten Vorderseite, dann Rückseite) | keine Bildgenerierung hier |
+| Cover-Skript laufen lassen | `PyMuPDF` / `Pillow` nicht installierbar |
+| Echte Seitenzahl für den Buchrücken | Taschenbuch-PDF ungebaut |
+| Klappentext für die Rückseite | entsteht mit der KDP-Beschreibung |
+
+---
+
+---
+
+## ✅ KDP-TEXTE UND RÜCKSEITE (2026-08-09)
+
+**Neue Datei:** [`KDP_S2-1.md`](KDP_S2-1.md) — Metadaten, Serienbeschreibung,
+Buchbeschreibung, Keywords, Kategorien, Rückseitentext.
+
+Die Reihenfolge war zuerst falsch herum: Der Rückseiten-Prompt soll den **fertigen
+Klappentext enthalten**, also mussten die Beschreibungen davor stehen. Der Prompt in
+[`Cover/COVER_S2-1.md`](Cover/COVER_S2-1.md) Abschnitt 4 ist jetzt **All-in-One** — sieben
+Textzonen, alle Texte wörtlich, nach dem Muster von Band 2.
+
+### Geprüft
+
+| | |
+|---|---|
+| Serienbeschreibung | 1.345 Zeichen HTML (Limit 4.000) ✅ |
+| Buchbeschreibung | 2.695 Zeichen HTML ✅ |
+| Keywords | alle 7 Felder ≤ 50 Zeichen, einzeln nachgezählt ✅ |
+
+### Zwei Entscheidungen, die Begründung brauchen
+
+**1. Die Keyword-Begründung von Band 3–5 trägt hier zum ersten Mal NICHT.**
+Dort blieben die Felder unverändert, weil *„die Datenlage unverändert"* war. Für S2-1 hat
+sich die **Zielgruppe geändert: ab 12 statt ab 10.** Die Helium-10-Analyse vom 2026-06-11
+wurde für die Nische „ab 10" erhoben. Die neuen Felder übernehmen die bewährte Struktur und
+ziehen nur die Altersangabe nach — **das ist eine Ableitung, keine Messung.** Vor der
+Veröffentlichung ist das die eine Stelle, an der frische Keyword-Daten wirklich lohnen.
+
+Unverändert gilt dagegen die dreifach belegte Reihen-Regel *„die Motive, die das Buch
+verkaufen, sind nicht die Wörter, die gesucht werden"*: „Schrank", „Schloss", „gebunden",
+„Schlosser" haben kein Suchvolumen und würden einen von sieben Plätzen verbrennen.
+
+**2. Band 2s Rückseiten-Prompt ließ das Modell einen Barcode-Kasten malen — das wird nicht
+übernommen.** Der Reihenstandard hat das später ausdrücklich verboten (Block E), weil bei
+Band 4 und Band 5 der gemalte helle Kasten *neben* der echten Barcode-Position saß. Zone 7
+bleibt leer und dunkel.
+
+### Aufbau des Klappentexts
+
+Pull-Quote „Es ist nicht nur ein Schloss. Es ist an mir dran." (Bernstein-Gold, das einzige
+warme Element) · sechs Absätze, der letzte kursiv · Alterszeile · Reihenzeile mit dem
+Backlist-Hinweis auf die erste Reihe · Autor. **Das Wort „Staffel" steht nirgends** —
+internes Planungswort.
+
+Der Hook der Buchbeschreibung ist dreiteilig gebaut, weil nur die ersten drei Zeilen vor dem
+„Weiterlesen"-Knick stehen: Bild (Schrank) → Rätsel (er kann nicht gehen) → Staffel-Horror
+(es war vorher da). Der Verweis auf die erste Reihe steht **hinten**, nicht im Hook — ein
+Neuleser soll nicht in Zeile 2 erfahren, dass er fünf Bücher verpasst hat.
+
+### ⚠️ Realistische Erwartung an den Rückseiten-Prompt
+
+Ein Klappentext dieser Länge ist für ein Bildmodell die schwerste Aufgabe des Covers. Band 2s
+Anleitung rechnet ausdrücklich mit Umlautfehlern und Nachgenerieren. Rückfallweg nach drei
+bis vier Fehlversuchen: dieselbe Szene **ohne** Text erzeugen und die Texte in einem
+Layoutprogramm setzen — so sind Band 4 und 5 gebaut.
+
+---
+
+➡️ **Nächster Schritt: Produktion** — Cover, Taschenbuch-/eBook-Build, KDP-Beschreibung.
+⚠️ Vor dem Taschenbuch-Build den Kopfkommentar von
+[`build_manuskript_komplett_s2_1.py`](../../Scripts/build_manuskript_komplett_s2_1.py)
+lesen: **beide ENDE-Marker gehören aus dem Druck.** Frontmatter ist seit 2026-08-09
+freigegeben und im Manuskript. ⚠️ Band 5 hat gelernt, sie im Taschenbuch-Skript zu
+**importieren statt zu kopieren** — B1–4 definierten sie in zwei Dateien, mit
+Divergenzrisiko zwischen Manuskript und Druck. Für S2-1 genauso halten.
+
+Weiterhin offen und an S2-2 gebunden: die Leseprobe auf den nächsten Band (A3) — ⚠️ in
+Band 1–4 waren diese Leseproben **erfunden**, für S2-1 gilt: erst nach S2-2 erstellen und
+maschinell Absatz für Absatz gegen den echten Text prüfen.

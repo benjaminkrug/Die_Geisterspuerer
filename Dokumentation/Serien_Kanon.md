@@ -51,6 +51,26 @@ Die Methode eskaliert über die Reihe:
 Steine, B3 Stimmen, B4 der Raum selbst, B5 Kälte + Licht) und benutzt die anderen sparsam.
 **Nicht alle Formen in jedem Band verwenden** — sonst nutzt sich das Repertoire ab.
 
+#### ★ Neu ab Staffel 2: der Rückriss (Bindungssignatur)
+
+> Ergänzt 2026-08-07, nachdem S2-1 K3/K7 geschrieben waren. **Die erste neue Erscheinungsform
+> seit Band 1** — gehört in die Liste oben, sobald Staffel 2 abgeschlossen ist.
+
+| Form | Beschreibung | Erstmals |
+|---|---|---|
+| **Rückriss / Bindungssignatur** | Ein Geist, der gerade gehen will, wird **gewaltsam zurückgerissen** — sichtbar, körperlich, wie an einer unsichtbaren Leine. Danach ist er *dichter* sichtbar als vorher, nicht schwächer, und hat Schmerzen | S2-1 K3 |
+
+**Warum das eine eigene Form ist und keine Variante:** Alle bisherigen Zeichen sind
+*Ausdruck* eines Geistes — er macht auf sich aufmerksam. Der Rückriss ist das Gegenteil:
+etwas wird *ihm angetan*, gegen seinen Willen, von außen. Das ist der Grusel-Kern der ganzen
+Staffel („alles richtig gemacht, und trotzdem funktioniert es nicht").
+
+⚠️ **Signaturform-Regel beachten:** S2-1 nutzt daneben vor allem **Kälte** — dieselbe
+Grundform wie Band 5. Das ist vertretbar, solange die *Signatur* von S2-1 eindeutig der
+Rückriss bleibt und die Kälte nur Grundrauschen ist. **Bei S2-2 bis S2-5 je eine eigene
+Signaturform wählen**, nicht durchgehend den Rückriss — sonst nutzt sich die stärkste neue
+Karte der Staffel im ersten Band ab.
+
 ### Der Schleier
 - Trennt die Lebenden von der anderen Seite.
 - **1823** riss Alwin Graven ihn auf, um sein sterbendes Kind zurückzuholen. Seitdem stecken
@@ -369,6 +389,33 @@ sondern nur die Aussage: Was Muster finden können, ist gefunden.
 | 2 | *„Voss ist tot. Seit 1888."* — 1888 ist das Ende seiner Amtszeit, kein belegtes Sterbejahr | Schlussfolgerung einer Zwölfjährigen, kein Erzählerfehler. Klein. |
 | 1 | K17: *„Er tat etwas, das er noch nie getan hatte. Er stellte sich vor Nora und Theo."* — in K10 steht Schatten schon *„zwischen Nora und dem, was hinter ihr war"* | K17 beschreibt eine sichtbar andere Geste (breitbeinig, Schultern vor, wie ein Schild). Eher Steigerung als Widerspruch. Grenzfall → klein. |
 | 1 | K06: *„seit drei Monaten weg"* bei Verschwinden am 14. März und Handlung im Juli (≈4 Monate) | Rundung im Kinderdialog, in sich konsistent (K06 und K14 sagen beide „drei Monate"). Klein. |
+
+---
+
+## 7c. ★ Staffel 2 hat begonnen — wo deren Kanon steht
+
+> Ergänzt 2026-08-07. Dieses Dokument bleibt der Kanon für **Band 1–5**. Staffel 2 führt
+> eigene Figuren, Daten und Orte ein, die hier **bewusst nicht dupliziert** werden — eine
+> zweite Kopie würde auseinanderlaufen. Stattdessen: Verweis.
+
+| Was | Wo es steht |
+|---|---|
+| S2-1-Figuren, -Daten, -Eigennamen (Herbert Lenz, Frau Brandt, Herr Kubiak, Schrankzimmer, Zeitangaben) | `Staffel2/S2-1/Kontinuitaet_S2-1.md`, Abschnitt „EIGENNAMEN & FAKTEN" |
+| Staffel-Bogen, Antagonist, Figurenentwicklung | `Staffel2/PLAN_Staffel2.md` |
+| Bandübergreifende Hinweisketten | `Staffel2/Hinweisketten_Tracker.md` |
+
+**Stand:** S2-1 „Der Gast, der blieb" — Kapitel 1–8 geschrieben (Akt 1 + Akt 2).
+
+**Was Staffel 2 am Band-1–5-Kanon tatsächlich verändert hat:**
+
+1. **Neue Erscheinungsform: der Rückriss** (siehe Abschnitt 1, Ergänzung nach dem
+   Repertoire) — die erste seit Band 1.
+2. **Weltzustand:** In Gravenstedt hat sich herumgesprochen, dass die Kinder „mit den Toten
+   reden können". Sie sind jetzt bekannte Hüter, zu denen Fälle **von selbst kommen** — die
+   Prämisse der ganzen Staffel. Etabliert in S2-1 K1.
+3. **Nichts widerrufen.** Kein Band-1–5-Fakt wurde umgeschrieben. Schatten bleibt der
+   normale, alternde Hund aus Band 5; die Karte bleibt fertig in der Schublade; befreite
+   Geister bleiben befreit.
 
 ---
 

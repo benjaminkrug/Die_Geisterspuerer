@@ -81,6 +81,90 @@
 
 ---
 
+## 🟠 NEU UND OFFEN — Fehler 3: Band 1 hat halb umgestellte Anführungszeichen
+
+> Gefunden **2026-08-09** beim Bau des Staffel-2-eBook-Skripts, nicht beim Suchen danach.
+> **Betrifft nur Band 1.** Band 2–5 und S2-1 sind sauber.
+
+### Der Befund
+
+Gemessen an den kompilierten Manuskripten:
+
+| Buch | ASCII `"` | öffnend `„` | schließend `"` | |
+|---|---|---|---|---|
+| **Band 1** | **1.078** | **1.078** | **0** | 🟠 halb umgestellt |
+| Band 2 | 1.700 | 0 | 0 | reines ASCII |
+| Band 3 | 1.388 | 0 | 0 | reines ASCII |
+| Band 4 | 1.332 | 0 | 0 | reines ASCII |
+| Band 5 | 1.300 | 0 | 0 | reines ASCII |
+| S2-1 | 1.852 | 0 | 0 | reines ASCII |
+
+Band 1 ist der **einzige** Band, dessen Manuskript deutsche Anführungszeichen am Anfang und
+gerade ASCII-Zeichen am Ende trägt:
+
+> `„Das sieht aus wie in einem Horrorfilm", sagte Theo neben ihr.`
+
+Dazu kommt: **`build_taschenbuch_docx.py` und `build_ebook_docx.py` (beide Band 1) wandeln
+überhaupt keine Anführungszeichen um** — nachgezählt, null Aufrufe von `typo_quotes` oder
+`apply_typography`. Band 1 dürfte also mit `„Text"` im Handel sein.
+
+⚠️ **Noch nicht am Artefakt verifiziert.** Die Regel dieses Blattes lautet
+*„Verifikation am ARTEFAKT, nicht am Skript"* — hier ist genau das offen: `Output/Band1/`
+existiert nicht mehr (gitignored), und das gedruckte DOCX wurde nicht ausgelesen. Der
+Befund stammt aus Manuskript und Skript. **Vor jeder Reparatur zuerst das gebaute DOCX
+prüfen.**
+
+### Einordnung — Kosmetik, aber echte
+
+Wie Fehler 2 legt deswegen kein Kind das Buch weg. Anders als Fehler 2 ist es aber kein
+verteidigbares Gestaltungsmittel, sondern schlicht falsche Typografie: In einem deutschen
+Buch schließt Rede mit `"`, nicht mit `"`. Allein keinen Neu-Upload wert — beim nächsten
+Anfassen von Band 1 mitnehmen.
+
+### ‼️ Die Falle: NICHT einfach ein modernes Skript darüberlaufen lassen
+
+Der naheliegende Fix wäre, `typo_quotes` aus `build_taschenbuch_docx_band5.py` auch für
+Band 1 zu benutzen. **Das macht es schlimmer.** Die Funktion arbeitet paarweise und kennt
+nur `"`: Sie findet in Band 1 ausschließlich die **schließenden** Zeichen und macht daraus
+das jeweils **erste**, also ein **zweites öffnendes**. Verifiziert:
+
+```
+vorher : „Das sieht aus wie in einem Horrorfilm", sagte Theo neben ihr.
+nachher: „Das sieht aus wie in einem Horrorfilm„, sagte Theo neben ihr.
+```
+
+**Band 1 braucht zuerst eine Bereinigung des Manuskripts, nicht nur ein neues Skript.**
+
+### Fix
+
+Weil in Band 1 **jedes** ASCII-`"` ein schließendes Zeichen ist (1.078 öffnende `„` stehen
+1.078 ASCII gegenüber, 0 korrekte schließende), ist eine stumpfe Ersetzung korrekt **und
+beweisbar**:
+
+```python
+t = open(P, encoding='utf-8').read()
+assert t.count('„') == t.count('"') and t.count('"') == 0   # Vorbedingung
+t = t.replace('"', '"')
+assert t.count('„') == t.count('"') and t.count('"') == 0   # Nachbedingung
+```
+
+Danach Taschenbuch und eBook neu bauen. **Die Renderer bleiben unangetastet** — sie dürfen
+für Band 1 auch weiterhin keine Anführungszeichen umwandeln, sonst schlägt die Falle oben zu.
+
+⚠️ **Vereinbar mit der Kernregel dieses Blattes?** Ja. *„Die `Manuskript_BandN_Komplett.md`
+sind die publizierte Wahrheit. Niemals ungeprüft aus den Kapitel-Dateien neu erzeugen."* —
+Dieser Fix erzeugt nichts neu, er tauscht in der publizierten Datei **ein einziges Zeichen**
+aus und lässt jedes Wort stehen. Genau der Eingriff, den diese Regel erlaubt.
+
+### Regel für die Zukunft
+
+Vor jedem Bau prüfen, in welchem Zustand die Anführungszeichen des Manuskripts sind — reines
+ASCII, fertig deutsch oder halb. Nur beim **ersten** Zustand darf `typo_quotes` laufen. Für
+Staffel 2 ist das automatisch abgedeckt: `build_taschenbuch_docx_s2_1.py --pruefen` zählt
+öffnende gegen schließende Zeichen und meldet Ungleichgewicht (S2-1: 926 / 926 ✅).
+
+---
+
 <details><summary>Ursprüngliche Arbeitsliste (historisch)</summary>
 
 # TODO — Nachbesserung Band 1–4 (nach der Band-5-Veröffentlichung)

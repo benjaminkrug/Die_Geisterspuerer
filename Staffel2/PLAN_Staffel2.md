@@ -8,6 +8,26 @@
 > Band 6 kommt eine **Staffel 2 mit eigenem Band 1** (Woodwalkers → Seawalkers →
 > Windwalkers-Modell). Gleiche Welt, gleiche Figuren, gleiches Cover-Branding –
 > aber ein zweiter, freier Einstiegspunkt. Siehe Memory `staffel2-konzept.md`.
+>
+> **Update (User, 2026-08-07):** Band 5 ist erschienen ("Was bleibt", Leuchtturm-Narbe
+> als leiser Faden — genau wie hier vorgeschlagen). Die zentralen Weichen aus Abschnitt 12
+> sind gestellt: Antagonist kommt von außerhalb, konkretes Motiv steht, neue Figur ist
+> sein Kind, 5 Bände, Untertitel „Die Gebundenen". Abschnitt 12 ist jetzt ein
+> Entscheidungs-Log statt einer offenen Fragenliste. Phase 1–3 (Kontinuität, Story-Outline,
+> Tracker) ist für alle fünf Bände abgeschlossen.
+>
+> **★ Update (User, 2026-08-07, spätere Sitzung): Phase 4 (Kapitel schreiben) explizit
+> gestartet — Aktivierungs-Checkliste bewusst übergangen.** Die Checkliste unten ist weiterhin
+> nur teilweise erfüllt (Band 5 erst wenige Tage am Markt, keine Marktdaten) — der Nutzer hat
+> sich bewusst entschieden, mit dem Schreiben von S2-1 zu beginnen, statt auf Marktdaten zu
+> warten. Kein Widerruf der Checkliste, sondern eine bewusste Entscheidung, sie für den
+> Schreibstart nicht abzuwarten. `S2-1/Manuskript/Kapitel_01.md` ist der erste geschriebene
+> Text der Staffel.
+>
+> **★ Stand 2026-08-07 (Ende der Sitzung): S2-1 Akt 1 und Akt 2 vollständig geschrieben**
+> — Kapitel 1–8, ~7.900 Wörter. Beide Akte haben zusätzlich eine kritische Stimmen-/
+> Strukturprüfung durchlaufen (Befunde und Korrekturen: `S2-1/Kontinuitaet_S2-1.md`,
+> `S2-1/Cliffhanger_Register_S2-1.md`). Nächster Schreibschritt ist Akt 3 (K9–K12).
 
 ---
 
@@ -26,12 +46,14 @@ Dieses Dokument ist die **Brücke von Staffel 1 zu Staffel 2**. Es hat zwei Aufg
 
 **Aktivierungs-Checkliste (abhaken, wenn Staffel 2 startet):**
 
-- [ ] Band 5 geschrieben, Graven-Rätsel vollständig abgeschlossen
+- [x] Band 5 geschrieben, Graven-Rätsel vollständig abgeschlossen (veröffentlicht 05.08.2026)
 - [ ] Alle 5 Bände veröffentlicht und einige Monate am Markt (Rezensionen,
-      Read-Through, kalibrierte Ads liegen vor)
+      Read-Through, kalibrierte Ads liegen vor) — **Band 5 ist erst seit 2 Tagen draußen,
+      noch keine Marktdaten (Stand 2026-08-07)**
 - [ ] KDP-Zahlen geprüft: Read-Through B1→B2, stärkster Band, CYOA-Quote
       (entscheidet, ob Staffel 2 oder zuerst noch Formate/Sammelbände kommen)
-- [ ] Abschnitt 4 gegen das tatsächliche Band-5-Ende abgeglichen
+- [x] Abschnitt 4 gegen das tatsächliche Band-5-Ende abgeglichen (2026-08-07) — **stimmt
+      exakt überein**, die Leuchtturm-Narbe wurde 1:1 wie hier vorgeschlagen geschrieben
 
 ---
 
@@ -113,6 +135,14 @@ darf Wissen voraussetzen**, das nur in Band 1–5 steht.
 ---
 
 ## 4. ⚠️ Was Band 5 liefern MUSS (vor dem Schreiben lesen!)
+
+> **✅ Abgleich (2026-08-07):** Band 5 ist geschrieben und liefert alle vier Punkte unten
+> exakt wie gefordert. Der leise Faden (D) wurde als **Leuchtturm-Narbe** umgesetzt (die
+> Hauptempfehlung unten, textnah): *"Da, wo zweihundert Jahre lang ein Riss gewesen war,
+> war jetzt eine Narbe. […] Gravenstedt lag in seinem Regen, still und frei und heil, und
+> leuchtete leise in die Dunkelheit hinaus wie ein Leuchtturm. Und ganz weit draußen, am
+> äußersten Rand von allem, ging ein einzelnes Licht an. Nora sah es nicht. Noch nicht."*
+> (Kapitel 18, „Was bleibt"). Dieser Text ist jetzt die Grundlage für Abschnitt 6.
 
 Band 5 („Der Schleier", Graven-Finale, Grusel 8/10) ist noch nicht geschrieben.
 Damit Staffel 2 möglich wird, muss das Finale vier Dinge leisten – ohne das Finale
@@ -203,13 +233,60 @@ Bedrohung.
   indem man seine eigene Angst versteht. Das ist die Serien-Ethik, jetzt auf einen
   **lebenden** Menschen angewandt.
 
-**Motiv des Antagonisten (bewusst NEU – nicht Graven/Faber wiederholen):**
-Nicht Trauer (das war Graven und der Sammler). Empfohlen: **Überzeugung/Angst** –
-er glaubt, die Toten *sollen* bleiben. Vielleicht schützt die Stadt etwas, solange
-die Toten da sind; vielleicht hat er Angst, dass „das Loslassen" etwas Schlimmeres
-hereinlässt; vielleicht braucht er sie als Wächter. Er hält Frau Silber und die
-Kinder für gefährlich naiv. → Echter ideologischer Konflikt: Die Kinder *befreien*,
-er *bindet*. Beide glauben, das Richtige zu tun.
+**★ Motiv des Antagonisten — konkretisiert und bestätigt (2026-08-07):**
+Nicht Trauer (das war Graven und der Sammler) und nicht Macht/Kontrolle (abgewogen und
+verworfen — zu kalt für die Serien-Ethik „verstehen statt bekämpfen"). Stattdessen:
+**Schuld aus einer falsch angewendeten Serienregel.** Er war früher selbst so etwas wie
+ein Hüter, in einer anderen Stadt — vielleicht sogar mit Berührungspunkten zu Frau Silber
+(optionaler Bonus-Faden für Altleser, nie Voraussetzung). Er hat dort einen Geist **mit
+der falschen Methode zu hastig gehen lassen wollen** — die Serie selbst etabliert ja, dass
+„jeder Geist etwas anderes braucht" und dass die falsche Methode das Loslassen sogar
+*verhindern* kann (Faber: Zuhören war dort „das Schloss, nicht der Schlüssel"). Kurz danach
+geschah in seiner Stadt ein reales, weltliches Unglück (Brand, Einsturz o. Ä. — **kein**
+neues übernatürliches Wesen, das würde die Content-Grenzen der Serie verletzen). Ob das
+Unglück wirklich mit dem Loslassen zusammenhing, bleibt **absichtlich unklar** — für ihn
+ist es seit Jahren Gewissheit, für die Leser zunehmend erkennbar als Trauma-Logik, nicht
+Beweis. Seine Schlussfolgerung: nicht „Geister sind böse", sondern *„Man darf nie sicher
+sein, also lieber binden als riskieren."* Er zieht seither umher und bindet unruhige Tote
+**präventiv**, überzeugt, Städte damit zu schützen. → Echter ideologischer Konflikt mit
+intellektuellem Gewicht: Er hat einen wahren Kern (falsche Methode kann schiefgehen) und
+zieht daraus die falsche Lehre (deshalb nie loslassen). Aufgelöst wird er nicht durch ein
+Gegenargument, sondern dadurch, dass die Kinder ihm live zeigen, dass richtig ausgeführtes
+Loslassen funktioniert — wie in allen fünf Bänden zuvor. *(Der genaue historische Vorfall
+in seiner alten Stadt ist Detailarbeit für die Planung von S2-3, nicht heute festgelegt.)*
+
+**★ Warum er nach Gravenstedt kommt — und was er dort eigentlich will (2026-08-07):**
+Gravenstedts eigene fünf Geister (Lina, Brenner, Marlene, Faber, Graven) sind laut Kanon
+**für immer weg** („Befreite Geister kehren nicht zurück") — er kann sie nicht zurückbinden,
+und die Handlung darf sie nicht zurückholen. Sein Ziel ist etwas anderes: Der geheilte,
+vernarbte Schleier macht Gravenstedt zu einem **Leuchtturm**, der ab jetzt **neue,
+wandernde unruhige Tote von außerhalb anzieht** — das erfüllt Regel 4 („eine große Sache
+ändert sich") sauber, ohne die alte Karte wieder aufzugreifen. Er kommt nicht wegen der
+Vergangenheit, sondern weil er weiß: *hier werden ab jetzt laufend neue ankommen* — und er
+will jeden abfangen, bevor die Kinder ihn „zu früh" gehen lassen. Das liefert automatisch
+einen neuen Fall pro Band, ohne dass jedes Mal ein neuer Zufall erfunden werden muss.
+
+**★ Wer er ist — Name, Alter, Tarnung, Aussehen (bestätigt 2026-08-07):**
+**Anton Halder**, Ende 40 (~48). Reist als **Schlosser und Uhrmacher** — ein historisch
+plausibler Doppelberuf (beide Handwerke arbeiten mit Mechanik), der ihm einen legitimen
+Grund gibt, alte Häuser zu betreten und von Stadt zu Stadt zu ziehen, genau wie Frau
+Silber vierzig Jahre lang unauffällig unterwegs war. Bewusst **kein** klischeehaftes
+Bösewicht-Äußeres: ruhig, freundlich im Ton, jemand, dem man beim ersten Treffen
+vertrauen würde — wichtig für den freien Einstieg (ein Neuleser soll ihn nicht sofort
+als Gegner erkennen) und für die Serien-Ethik (er hält sich selbst für einen
+Beschützer). Einziges konkretes körperliches Detail: eine alte, verblasste
+**Brandnarbe an einer Hand** — nie erklärt, bis die Kinder (und der Leser) später
+verstehen, was sie bedeutet.
+
+**Das Unglück in seiner alten Stadt:** Jung, ehrgeizig, wollte sich als angehender
+Hüter beweisen — hat einen besonders unruhigen Geist **zu hastig** mit der falschen
+Methode gehen lassen wollen. In derselben Nacht brach in der Altstadt ein **Feuer**
+aus (auch im ehemaligen Haus des Geistes), das sich ungewöhnlich schnell ausbreitete.
+Der tatsächliche Grund war vermutlich banal — das bleibt **absichtlich unklar**, für
+ihn war die Abfolge der Ereignisse seit dreißig Jahren Beweis genug. Bewusst **kein**
+zweiter Frau-Silber-Vorfall (er sei ihr Schüler gewesen) — das würde Regel 3
+verletzen (Rückbezüge nie tragend) und Neuleser verwirren. Bewusst **kein** Einsturz
+(zu nah an Marlene/Johann, Band 3) und **keine** Krankheit (zu nah an Faber, Band 4).
 
 **Die neue Leitfrage der Staffel:** Jemand macht rückgängig, was Silber und die
 Kinder erreicht haben – bindet die Toten neu. Wer, und warum? Und was hatte Frau
@@ -219,13 +296,177 @@ verschwand – jemand arbeitete gegen sie".)
 
 ### 5-Band-Skizze (Staffel 2, eigener Band 1–5)
 
-| Band | Kern | Grusel |
-|------|------|--------|
-| **S2-1** (eigener Band 1, freier Einstieg) | Ein neuer Geist – aber er verhält sich *falsch*: Die Kinder wenden ihre Methode an (zuhören), und er kann trotzdem nicht gehen. Etwas hält ihn. Führt die neue Prämisse ein (jemand brachte den Fall zu ihnen) + erstes Zeichen des Antagonisten (der Geist wurde **gebunden**, mit einer Art Signatur). Nora/Theo/Schatten voll neu etabliert. **Ende:** Die Bindung war Absicht – jemand tut das. | 6/10 |
-| **S2-2** | Ein Ort, an dem *viele* gebunden sind (ein „Sammel-Knoten" des Antagonisten). Die Kinder begreifen: Es gibt einen Gegen-Hüter. | 6–7/10 |
-| **S2-3** | Der Antagonist wird persönlich – zielt auf die Kinder / Schatten / die Mutter. Mid-Season-Enthüllung: wer er ist, seine Verbindung zu Silber. | 7–8/10 |
-| **S2-4** | Der dunkelste Band. Der Antagonist gewinnt die Oberhand. Ein Geist, den die Kinder *nicht* retten können – der Tiefpunkt „Empathie reicht nicht immer". Nora zweifelt an der Rolle. | 8/10 |
-| **S2-5** (Finale) | Konfrontation. Empathie + eine neue, erwachsenere Einsicht siegen: Man bezwingt Angst nicht mit Kraft – man versteht die Angst des Antagonisten. Optional Auflösung des Schatten-Rätsels. Setzt Serienende ODER Staffel 3 auf. | 8–9/10 |
+| Band | Titel | Kern | Grusel |
+|------|-------|------|--------|
+| **S2-1** (freier Einstieg) | „Der Gast, der blieb" | Ein neuer Geist – aber er verhält sich *falsch*: Die Kinder wenden ihre Methode an (zuhören), und er kann trotzdem nicht gehen. Etwas hält ihn (die Bindungssignatur). Führt die neue Prämisse ein (jemand brachte den Fall zu ihnen). Nora/Theo/Schatten voll neu etabliert. **Ende:** Die Kinder finden den physischen Anker (ein winziges Schloss) und befreien den Geist — echter Sieg —, aber die größere Erkenntnis bleibt offen: Die Bindung war Absicht, jemand tut das systematisch. | 6/10 |
+| **S2-2** | „Die Uhr, die rückwärts läuft" | Die Spur führt zu einer alten Uhrmacher-/Schlosserwerkstatt — ein „Sammel-Knoten" mit *vielen* gebundenen Geistern. Schatten reagiert erstmals überwältigt (mehrere Präsenzen zugleich). Die Kinder begreifen: Es gibt einen Gegen-Hüter, und Schloss-für-Schloss-Befreien skaliert nicht. Ein unbekanntes Mädchen (Frieda, unerkannt) taucht am Ort auf. | 6–7/10 |
+| **S2-3** | „Die Frau, die niemand gehen ließ" | Der Antagonist wird persönlich — nutzt seine Handwerker-Tarnung für legitimen Zugang zur Familie (Dread durch Nähe, nicht Gewalt). Zeigt den Kindern einen gebundenen Geist als „Beweis" seiner Überzeugung. Doppel-Enthüllung: wer er ist (Anton Halder) — **und** dass Frieda seine Tochter ist. | 7–8/10 |
+| **S2-4** | „Der Park, der nicht vergisst" | Der dunkelste Band, aus zwei unabhängigen Quellen: (1) ein Geist, den die Kinder mit der *richtigen* Methode trotzdem nicht retten können — ein echter, kanonbegründeter Grenzfall, bewusst **nicht** Halders Werk, damit „Empathie reicht nicht immer" nicht zur Ausrede wird; (2) Halder fängt parallel einen weiteren Geist ab. Nora zweifelt an der Rolle, Friedas Loyalität gerät ins Wanken. | 8/10 |
+| **S2-5** (Finale) | „Der letzte Schlüssel" | Rückkehr zur Werkstatt aus S2-2. Frieda findet in Halders eigenen, jahrzehntelang gehorteten Unterlagen den Beweis, dass das Feuer einen banalen, unabhängigen Grund hatte — sie, nicht die Kinder, bringt ihn zur Konfrontation mit der Wahrheit. Er öffnet die Werkstatt selbst; alle dort gebundenen Geister werden frei. Sein weiteres Schicksal bleibt bewusst offen (möglicher Staffel-3-Faden). | 8–9/10 |
+
+### ★ S2-1 — Konzept bestätigt (2026-08-07)
+
+**Arbeitstitel: „Der Gast, der blieb"**
+Von den fünf Platzhaltern in Abschnitt 10 gewählt: konkret, verrät den Twist nicht (anders
+als „Die Frau, die niemand gehen ließ" — das nimmt die Pointe vorweg). „Gast" impliziert
+von sich aus etwas Vorübergehendes, das nicht hätte bleiben sollen — passt exakt zum
+Bild-plus-etwas-Falsches-Muster der Reihe.
+
+**Die Bindungssignatur — das achte, neue Erscheinungszeichen der Reihe:**
+Der Serien-Kanon (`Dokumentation/Serien_Kanon.md` Abschnitt 1) listet sieben etablierte
+Formen (Kälte, Kondenswasser-Schrift, Klopfen, Gegenstände bewegen, Licht/Strom, Spiegel,
+sichtbare Gestalt) — keine davon zeigt „gebunden". Neues Signal, ab jetzt die Handschrift
+des Antagonisten: **Der Geist wird im letzten Moment zurückgerissen — wie an einer
+unsichtbaren Leine.** Nora und Theo wenden die richtige Methode an, der Geist beginnt zu
+gehen — und wird dann sichtbar, ruckartig gegen seinen eigenen Willen zurückgezogen.
+~~Zurück bleibt eine dünne, helle Narbe an der Stelle, wo die „Leine" saß — bewusstes Echo
+auf die Leuchtturm-Narbe aus Band 5, jetzt am einzelnen Geist statt an der ganzen Stadt.~~
+
+> ### ★ KORRIGIERT 2026-08-09 (Phase 6 von S2-1) — die Narbe entfällt
+>
+> **S2-1 hat diese Narbe nicht geschrieben, und das war die bessere Entscheidung.**
+> Was der Rückriss stattdessen hinterlässt, steht im Kanon: Der Geist ist danach *dichter*
+> sichtbar als vorher, nicht schwächer, und hat Schmerzen.
+>
+> **Warum eine Narbe am Geist die falsche Signatur wäre:** Sie ist als Beweisstück
+> wertlos. Der Geist geht am Buchende — man kann eine Narbe niemandem zeigen, nicht über
+> Fälle hinweg vergleichen und nicht in eine Schublade legen. Genau das muss die Handschrift
+> des Antagonisten aber leisten, wenn sie eine Staffel über fünf Bände tragen soll.
+>
+> **Was S2-1 stattdessen liefert — ein Zeichen an einem Gegenstand, zweimal:** in die
+> Schranktür geritzt (K9) und in das Metall des Schlosses geprägt (K15). Das Buch benennt
+> die Funktion selbst, im letzten Satz von K15:
+>
+> > *Einmal geritzt, damit man es findet.*
+> > *Einmal geprägt, damit man weiß, von wem es ist.*
+>
+> Das wandert in Noras Schublade (K16) und nach S2-2 in die Werkstatt. **Ab hier ist das
+> die Signatur des Antagonisten** — nicht die Narbe.
+>
+> **Geprüft, bevor gestrichen wurde:** Kein anderes Staffel-2-Dokument baut auf der
+> Geister-Narbe auf. Die „Brandnarbe an Halders Hand" (S2-3, Abschnitt 6 und 12) ist etwas
+> völlig anderes — eine Brandwunde am *lebenden* Antagonisten — und bleibt unberührt.
+> Der Kanon-Eintrag in `Dokumentation/Serien_Kanon.md` beschreibt bereits den Text, nicht
+> die alte Planung.
+Liefert den Cliffhanger von selbst: alles richtig gemacht, und trotzdem nicht funktioniert
+— sofortiger Verdacht, dass das Absicht war.
+
+**Eröffnungshook:** Passend zur neuen Prämisse („die Fälle kommen zu ihnen") beginnt S2-1
+nicht mit einer zufälligen Entdeckung wie Band 1, sondern damit, dass **jemand an ihre Tür
+klopft** und um Hilfe bittet — ein Fall, der zunächst simpel wirkt (die Art, die sie in
+Staffel 1 souverän gelöst hätten), bis die Leine-Szene zeigt: dieses Mal ist etwas anders.
+
+**Die Auflösung — ein physischer Anker statt eines endgültigen Siegs über den
+Antagonisten:** Halders „Leine" hat einen konkreten Ankerpunkt — ein winziges Schloss,
+unsichtbar, bis man weiß, wonach man sucht (passend zu seinem Schlosser-Beruf, konkretes
+Vokabular statt Abstraktion). Die Kinder finden und öffnen es und befreien damit *diesen*
+Geist — ein echter, hart erarbeiteter Sieg, der das bewährte Staffel-1-Muster (jeder Band
+schließt seinen Fall ab) bewahrt. Bewusst **kein** genereller Trick gegen Halder: Ein
+Schloss pro Geist knacken skaliert nicht — sobald er merkt, dass es geht, wird er
+vorsichtiger und versteckt seine Anker besser. Das begründet, warum die Staffel nicht nach
+zwei Bänden vorbei ist, und warum das Finale ihn nur durch **sein eigenes Aufhören**
+stoppen kann, nicht durch das Knacken weiterer Schlösser. Das geöffnete Schloss wird ein
+physisches Beweisstück, das die Kinder behalten — es taucht in S2-2 wieder auf, wenn sie in
+der Werkstatt Dutzende identischer Schlösser finden.
+
+### ★ S2-2 — Konzept bestätigt (2026-08-07)
+
+**Arbeitstitel: „Die Uhr, die rückwärts läuft"**
+Von den verbleibenden Platzhaltern gewählt, weil Gebunden-Sein Stillstand bedeutet — eine
+rückwärtslaufende Uhr ist dieses Bild konkret und kindgerecht, ohne das Wort „gebunden"
+auszusprechen. „Das Zimmer, das sich erinnert" wäre hier zu nah an Fabers magischem Zimmer
+aus Band 4 gewesen — ursprünglich für S2-4 aufgehoben. ⚠️ **Revidiert bei der
+Konsistenzprüfung nach S2-4s Phase-1–3-Planung (2026-08-07):** Die tatsächliche
+S2-4-Handlung (Marie sucht Clara im Stadtpark) enthält kein Zimmer — der Titel wurde nie
+in die Handlung eingebaut. Ersetzt durch „Der Park, der nicht vergisst" (Details:
+S2-4-Konzept unten), das dieselbe Erinnerungs-Idee am tatsächlichen Schauplatz einlöst.
+
+**Der Ort:** eine alte Uhrmacher- und Schlosserwerkstatt, die Halder als Tarnung und Lager
+nutzt — erweitert seine Schlosser-Tarnung aus Abschnitt 6 organisch, statt einen zweiten,
+unabhängigen Handlungsort zu erfinden. Mehrere Uhren zeigen falsche oder rückwärtslaufende
+Zeiten — das äußere Symptom mehrerer gleichzeitig „angehaltener" Geister.
+
+**Schattens Reaktion:** Zum ersten Mal überwältigt — nicht eine einzelne Präsenz wie sonst,
+sondern mehrere zugleich. Neue Variante seiner Pflicht-Reaktion pro Kapitel, keine
+Regelverletzung.
+
+**Frieda:** taucht hier unerkannt auf, hütet den Ort, ohne dass die Kinder wissen, wozu sie
+gehört (gestaffelte Einführung, siehe Abschnitt 9).
+
+### ★ S2-3 — Konzept bestätigt (2026-08-07)
+
+**Arbeitstitel: „Die Frau, die niemand gehen ließ"**
+Anders als S2-1/S2-2 beschreibt dieser Titel wörtlich einen konkreten gebundenen Geist, den
+Halder den Kindern in diesem Band zeigt — als „Beweis", dass Binden schützt.
+
+**Wie er „persönlich wird" — ohne Gewalt:** Er nutzt seine Schlosser-/Uhrmacher-Tarnung, um
+sich legitimen Zugang zur Familie zu verschaffen (repariert ein altes Schloss oder eine
+Standuhr in ihrer Nähe). Kein Überfall, sondern unheimliche Nähe — Dread statt Schock, wie
+in Abschnitt 8 gefordert.
+- **Mutter:** ahnungslos freundlich zu ihr — macht den Kindern Angst, ohne sie in echte
+  Gefahr zu bringen.
+- **Schatten:** knurrt ihn an, verweigert den Raum — Frühwarnsystem gegen einen Menschen,
+  den alle anderen sympathisch finden.
+- **Kinder:** Er zeigt ihnen die gebundene Frau direkt, nicht als Drohung, sondern als
+  „Beweis": *„Seht ihr? Ihr geht es gut."* Stärkster Moment für seine Ideologie, weil er
+  nicht lügt — sie *wirkt* sicher, nur nicht frei.
+
+**Doppel-Enthüllung:** wer er ist (Anton Halder, über die Leine-Signatur aus S2-1 und die
+Werkstatt aus S2-2 identifiziert) — **und** dass Frieda seine Tochter ist. ⚠️ Ersetzt die
+alte Vorgabe „seine Verbindung zu Silber" (Abschnitt 6: bewusst verworfen, Regel 3).
+
+### ★ S2-4 — Konzept bestätigt (2026-08-07, Titel revidiert 2026-08-07)
+
+**Titel: „Der Park, der nicht vergisst"**
+⚠️ **Ersetzt den ursprünglichen Arbeitstitel „Das Zimmer, das sich erinnert".** Der war
+gewählt worden, bevor die tatsächliche Handlung (Phase 1–3) feststand, und ging von einem
+Raum aus, der an etwas festhält. Die fertige Handlung spielt vollständig im Stadtpark — dort
+sucht Marie ihre Schwester Clara, dort endet sie „wartend, nicht mehr suchend"
+(`S2-4/Story_Outline_S2-4.md` K14). Der neue Titel überträgt genau dasselbe Bild
+(ein Ort, der etwas festhält, das nicht mehr da ist) auf den tatsächlichen Schauplatz, statt
+Titel und Handlung auseinanderlaufen zu lassen. Passt außerdem zum etablierten
+Titel-Muster „Ort, der [Verb]" (wie S2-2 „Die Uhr, die rückwärts läuft").
+
+**★ Bewusste Trennung des Tiefpunkts von Halder:** Der gescheiterte Fall dieses Bandes ist
+**nicht** von Halder gebunden. Begründung: Ginge jeder Fehlschlag auf den Antagonisten
+zurück, würde „Empathie reicht nicht immer" zu „…wenn ein Bösewicht dazwischenfunkt" — ein
+schwächeres Thema. Stattdessen ein Geist, den die Kinder mit der **komplett richtigen**
+Methode trotzdem nicht befreien können — ein echter, kanonbegründeter Grenzfall (die Serie
+selbst sagt „jeder Geist braucht etwas anderes", nicht „jeder lässt sich befreien"; ein
+Fall, der Versöhnung mit einem selbst längst Verstorbenen bräuchte, kollidiert mit der
+Kanon-Regel „befreite Geister kehren nicht zurück"). Nora zweifelt dadurch an der eigenen
+Fähigkeit — nicht daran, ob der Gegner zu stark ist.
+
+**Parallel dazu:** Halder gewinnt an Boden — fängt anderswo einen weiteren, vom Leuchtturm
+angezogenen Geist ab. Friedas Loyalität gerät ins Wanken (noch keine endgültige
+Entscheidung, das ist S2-5).
+
+### ★ S2-5 — Konzept bestätigt (2026-08-07)
+
+**Arbeitstitel: „Der letzte Schlüssel"**
+Passt doppelt: wörtlich (der Schlüssel zur Werkstatt aus S2-2) und übertragen (der letzte
+„Verschluss", den Halder selbst öffnen muss). ⚠️ Ersetzt die alte Vorgabe „Optional
+Auflösung des Schatten-Rätsels" (Abschnitt 9: Schatten ist bereits in Band 5 vollständig
+aufgelöst, kein Staffel-2-Thema).
+
+**Schauplatz:** Rückkehr zur Uhrmacher-/Schlosserwerkstatt aus S2-2 — strukturelle Klammer
+statt eines dritten, neuen Ortes.
+
+**Wie er aufgelöst wird — Beweis statt Kampf oder reiner Gefühlsappell:** Frieda findet in
+Halders eigenen, jahrzehntelang gehorteten Unterlagen (Zeitungsausschnitte, Berichte über
+das Feuer aus Abschnitt 6) den Hinweis, dass es einen banalen, unabhängigen Grund hatte — er
+selbst hat sich diese Fakten 30 Jahre nicht angesehen. **Frieda**, nicht Nora oder Theo,
+trägt die entscheidende Konfrontation — der Zahltag ihres ganzen Bogens (S2-2 unerkannt →
+S2-3 enthüllt → S2-4 zweifelnd → S2-5 entscheidet). Hält die Serien-Regel „Empathie schlägt
+Kampf" ein, ohne dass die Kinder ihn „besiegen" — sie ermöglichen nur, dass er die Wahrheit
+sieht.
+
+**Ende:** Er öffnet die Werkstatt selbst — alle dort gebundenen, vom Leuchtturm angezogenen
+Geister werden frei. Sein weiteres Schicksal bleibt bewusst offen (denkbar: er bleibt,
+versucht es „richtig" zu lernen) — möglicher, nicht zwingender Baustein für eine dritte
+Staffel, passend zur Serienlängen-Entscheidung (Abschnitt 12, #6).
+
+---
 
 ### Verworfene / alternative Bögen (falls die Empfehlung nicht passt)
 
@@ -303,13 +544,21 @@ das Frühwarn-Gespür der Kinder (Schatten-Pflicht: 1 Reaktion pro Kapitel gilt 
 aber **ohne offenes Rätsel**. Staffel 2 stellt **ein oder mehrere ganz neue Geheimnisse**
 ins Zentrum (siehe Abschnitt 6), unabhängig von Schatten und Graven.
 
-**Neue Figuren (optional, Appeal für 11–12):**
-- Eine **gleichaltrige Figur** (Freund/in oder Rivale/in), die hineingezogen wird –
-  gibt Nora jemanden außerhalb der Geschwister-Dyade und öffnet das Buch für Leser,
-  die eine Peer-Beziehung suchen.
+**Neue Figuren (konkretisiert 2026-08-07):**
+- **★ Frieda Halder, 12** — Antons Tochter, mit seinem Weltbild aufgewachsen, glaubt
+  ehrlich, dass Binden schützt. Der Name ist bewusst gewählt: „Frieda" kommt von „Friede" —
+  genau das, was ihr Vater den Toten verweigert, dieselbe leise Ironie-Technik wie bei
+  „Faber" (Band 4). Aufgewachsen unterwegs, verschlossen, praktisch, misstraut Fremden aus
+  Gewohnheit, nicht aus Bosheit; ihre Zweifel sind von Anfang an da, nur unterdrückt.
+  Spiegelt die Serien-Ethik („verstehen statt bekämpfen") auf Kinderebene und gibt **Theo**
+  einen eigenen Gegenpart (er ist der Erste, der wirklich mit ihr redet — passt zu seinem
+  Arc „aus Noras Schatten treten"). Bewusst **keine** eigene Tragödie (das wäre zu nah an
+  Marlene/Johann aus Band 3) — sie trägt die Überzeugung ihres Vaters, nicht dessen Trauma.
+  **Gestaffelte Einführung:** unerkannt ab S2-2, als seine Tochter enthüllt in S2-3, trägt
+  die entscheidende Konfrontation im Finale S2-5 (siehe 5-Band-Skizze, Abschnitt 6).
 - **Frau Held** oder eine andere Staffel-1-Nebenfigur darf als Bonus zurückkehren
   (Regel 3: nie handlungstragend).
-- Der **Antagonist** und ggf. sein Umfeld (siehe Abschnitt 6).
+- Der **Antagonist Anton Halder** (Name, Alter, Motiv, Hintergrund: siehe Abschnitt 6).
 
 ---
 
@@ -319,24 +568,107 @@ ins Zentrum (siehe Abschnitt 6), unabhängig von Schatten und Graven.
 Amazon-Serie mit eigener Nummerierung** (Band 1–5), damit der Neuleser „Band 1"
 sieht.
 
-**Staffel-Untertitel (Vorschläge, User entscheidet):**
-- „Die Geisterspürer – **Die Gebundenen**" (passt zum Antagonisten-Bogen)
-- „Die Geisterspürer – **Die Hüter**" (die neue Rolle der Kinder)
-- „Die Geisterspürer – **Der zweite Schleier**"
+**Staffel-Untertitel — bestätigt (2026-08-07): „Die Geisterspürer – Die Gebundenen"**
+Begründung: passt zum Titel-Register der Reihe (konkretes Bild statt Rollenbezeichnung,
+wie „Das Haus, das flüstert"); bleibt geheimnisvoll, bis man liest, wer/was gebunden ist;
+vermeidet die Doppeldeutigkeit von „Die Hüter" (der Antagonist hält sich selbst für einen
+Beschützer — der Titel darf nicht offenlassen, wer gemeint ist).
+
+Verworfene Alternativen:
+- „Die Hüter" — zu doppeldeutig (s. o.)
+- „Der zweite Schleier" — zu abstrakt für einen Serien-Untertitel, eher als Bandtitel geeignet
 - ⚠️ „Die Schattenjäger" (der interne Projekt-Codename / Repo-Name) – **Vorsicht:**
   „Jäger" impliziert *kämpfen/jagen* und widerspricht der Kern-Regel „Empathie statt
   Kampf". Nur nehmen, wenn der Ton bewusst kippen soll.
 
 **Buchtitel-Register:** wie Staffel 1 – ein konkretes Bild + etwas Falsches
-(„Das Haus, das flüstert" / „Die zugemauerte Tür"). Nur **Platzhalter-Seeds**, final
-erst bei Planung des jeweiligen Bands:
-*„Der Gast, der blieb" · „Die Uhr, die rückwärts läuft" · „Das Zimmer, das sich
-erinnert" · „Die Frau, die niemand gehen ließ" · „Der letzte Schlüssel".*
+(„Das Haus, das flüstert" / „Die zugemauerte Tür"). **Alle fünf Arbeitstitel jetzt den
+Bänden zugeordnet (2026-08-07)** — Details und Begründung je Band in Abschnitt 6:
 
-**Cover:** Farbschema und Schatten-mit-leuchtenden-Augen-Motiv bleiben (Marken-
-Wiedererkennung), aber **dunklere, reifere Stimmung** und ältere Kinder-Silhouetten
-signalisieren die 11–12-Stufe. Cover-Build-Skripte aus Staffel 1 wiederverwendbar
-([Scripts/build_cover_kdp_band4.py](../Scripts/build_cover_kdp_band4.py)).
+| Titel | Band |
+|---|---|
+| „Der Gast, der blieb" | S2-1 |
+| „Die Uhr, die rückwärts läuft" | S2-2 |
+| „Die Frau, die niemand gehen ließ" | S2-3 |
+| „Der Park, der nicht vergisst" | S2-4 |
+| „Der letzte Schlüssel" | S2-5 (Finale) |
+
+Weiterhin **Arbeitstitel**, nicht final — endgültig erst bei Detailplanung des jeweiligen
+Bands. ⚠️ **Bestätigt durch S2-4:** Genau dieser Vorbehalt bewahrheitete sich — der
+ursprüngliche S2-4-Titel wurde erst nach Abschluss von Phase 1–3 als unpassend zur
+tatsächlichen Handlung erkannt und ersetzt (s. o.). Alle fünf Titel sind jetzt mit
+abgeschlossener Phase-1–3-Planung unterlegt, aber erst beim tatsächlichen Schreiben
+(Phase 4) endgültig zu bestätigen.
+
+**Cover — Konzept ausgearbeitet (2026-08-07):** Baut vollständig auf
+[Dokumentation/Cover_Reihenstandard.md](../Dokumentation/Cover_Reihenstandard.md) auf
+(Panel-Maße, Prompt-Blöcke A–E, Figuren-Grammatik) — nichts davon wird neu erfunden, nur
+gezielt erweitert. Teal (Nora, `#2a8a7a`), Oliv (Theo, `#6b7a3a`) und Schattens Bernsteinauge
+(`#d4920b`) bleiben unverändert die Wiedererkennung der Reihe.
+
+**Format:** Einheitlich **6×9 Zoll für alle fünf Staffel-2-Bände** — keine Wiederholung
+des Band-1/2–5-Formatbruchs aus Staffel 1. S2-1 hat als neue ASIN keine Altlast, die ein
+kleineres Format erzwingt; direkt das ausgereiftere, bereits gut getestete 6×9-Format
+übernehmen.
+
+**Text-Layout — drei statt zwei Kopfzeilen-Ebenen:**
+```
+DIE GEISTERSPÜRER                             ← winzig, Stahlgrau (unverändert)
+DIE GEBUNDENEN · BAND N                       ← 1,6–1,8× so hoch wie Zeile 1, Stahlgrau
+<Bandtitel>                                   ← groß, Gold, dominant (unverändert)
+Ein Grusel-Abenteuer für Kinder ab 12 Jahren  ← unverändert klein
+Benjamin Krug                                 ← unverändert
+```
+Kopfbereich dafür von ~30 % auf **~37 % der Bildhöhe** erweitert (geht zulasten der
+mittleren Zone, 37–64 % statt 34–64 %; die untere Figuren-Zone bleibt bei 68–100 %
+unangetastet). Neuer Checklisten-Punkt: 150-px-Thumbnail-Test explizit auch für
+„DIE GEBUNDENEN · BAND N", nicht nur für die Reihenzeile.
+
+**Sicherheitsränder oben/unten: 13 % statt der bisherigen 9 %** — bewusster
+Sicherheitsaufschlag, keine technische Notwendigkeit. Übernimmt die Zahl, die der
+Reihenstandard selbst schon für den riskanteren Fall (Band 1) validiert hat, jetzt aber für
+oben/unten bei allen fünf Staffel-2-Bändern. **Generative-Expand-Nachbearbeitung (Adobe
+Firefly o. ä.) ist eingeplanter Standardschritt**, nicht Notfall-Lösung — wird ausgelöst,
+sobald der Thumbnail-Test einen knappen Rand zeigt.
+
+**Alterstext: „ab 12 Jahren"** statt „ab 10 Jahren" — ehrliches Content-Signal für den
+härteren Grusel (6→9 statt 3→8) und Standard-Amazon-Alterskategorie (suchbares Keyword,
+anders als ein unübliches „ab 11"). Bewusste Entscheidung gegen Kontinuität mit der
+Staffel-1-Zahl, zugunsten von Ehrlichkeit gegenüber Eltern.
+
+**Halder auf dem Cover — gestaffelt, nie vor seiner Enthüllung in der Handlung:**
+- S2-1, S2-2: **nie** — er ist in der Geschichte selbst noch unsichtbar. Stattdessen zeigt
+  jedes Cover den Geist dieses Bandes als vierte Figur (analog zu Graven auf Band 5).
+- S2-3: **möglich**, nicht zwingend — Entscheidung bei der konkreten Prompt-Arbeit, je
+  nachdem was stärker trägt (er selbst oder die gebundene Frau).
+- S2-4: **nicht als Hauptmotiv** — der gescheiterte Fall dieses Bandes ist bewusst nicht
+  sein Werk (siehe Abschnitt 6, S2-4-Konzept); ihn hier prominent zu zeigen würde das
+  Cover das Gegenteil der Geschichte behaupten lassen.
+- S2-5 (Finale): **ja, definitiv** — wie Graven auf Band 5.
+
+**Frieda auf keinem einzigen Cover** — sie ist ein Kind, und die Verbotsliste in Block D des
+Reihenstandards untersagt ausdrücklich ein drittes Kind. Keine Ausnahme, das würde die
+Drei-Figuren-Wiedererkennung für die ganze Reihe aufweichen.
+
+**Staffel-Signatur:** Insgesamt kühlere, entsättigtere Grundstimmung als Staffel 1, plus ein
+neues wiederkehrendes Element — ein blasser, kalter **Leine-Lichtfaden** (Echo der
+Bindungssignatur aus S2-1), der in S2-1 bis S2-4 in irgendeiner Form erscheint und im
+Finale-Cover bewusst **fehlt** — visueller Zahltag: Bindung sichtbar vier Bände lang, dann
+weg, wenn Halder die Werkstatt öffnet.
+
+**Pro-Band-Farbwelt** (analog zur Staffel-1-Tabelle in `Cover_Reihenstandard.md`):
+
+| Band | Ort | Dominant | Akzent |
+|---|---|---|---|
+| S2-1 „Der Gast, der blieb" | fremde Altbauwohnung, Geist als „Gast" gefangen | kühles Graphit-/Schiefergrau | Bernstein + blasser, kalter Leine-Lichtfaden |
+| S2-2 „Die Uhr, die rückwärts läuft" | Uhrmacher-/Schlosserwerkstatt | gedämpftes Messing/Kupfer | Bernstein + viele kleine kalte Lichtpunkte |
+| S2-3 „Die Frau, die niemand gehen ließ" | unnatürlich konservierte alte Wohnung | verblasstes Staubrosa/Ocker | Bernstein + kalter Leine-Faden um die gebundene Gestalt |
+| S2-4 „Der Park, der nicht vergisst" | nächtlicher Stadtpark, zwischen den Bäumen (⚠️ korrigiert von „eingefrorenes Erinnerungszimmer" — Titel/Ort-Umbenennung, s. Abschnitt 6) | kaltes Taubenblau-Grau | Bernstein + ein einzelnes warmes, unerreichbares Licht (jetzt ein reales Element der Parkszene — z. B. eine ferne Laterne — statt eines Zimmer-Details) |
+| S2-5 „Der letzte Schlüssel" (Finale) | Rückkehr zur Werkstatt, jetzt geöffnet | warmes Kupfer, aufbrechend zu Licht | Bernstein + viele befreite, warme Lichtpunkte — kein Leine-Faden mehr |
+
+Cover-Build-Skripte aus Staffel 1 wiederverwendbar
+([Scripts/build_cover_kdp_band4.py](../Scripts/build_cover_kdp_band4.py)), Panel-Maße und
+Prompt-Blöcke aus `Cover_Reihenstandard.md` gelten unverändert als Basis.
 
 ---
 
@@ -362,16 +694,51 @@ die Staffel 2 später abholt.
 
 ---
 
-## 12. Offene Entscheidungen (für den Start von Staffel 2)
+## 12. Entscheidungs-Log (ehemals „Offene Entscheidungen")
 
-1. **Übergreifendes Geheimnis:** Empfehlung „Anti-Silber/Binder" (Abschnitt 6)
-   bestätigen oder Alternative wählen.
-2. **Motiv des Antagonisten:** Überzeugung/Angst (empfohlen) vs. Macht vs. anderes.
-3. **Staffel-Untertitel** (Abschnitt 10).
-4. **Schatten-Rätsel:** in Staffel 2 auflösen – ja/nein, und wie (ohne „magisch").
-5. **Neue gleichaltrige Figur:** ja/nein.
-6. **Serienlänge:** wieder 5 Bände? Offenes Ende für Staffel 3?
-7. **Welcher leise Faden** wird am Ende von Band 5 gepflanzt (Abschnitt 4-D)?
+> Alle sieben Punkte sind entschieden. Log statt Fragenliste — Format wie
+> `Serien_Kanon.md` Abschnitt 7 (Datum, Ergebnis, kurze Begründung).
+
+| # | Frage | Entscheidung | Datum | Begründung (kurz) |
+|---|---|---|---|---|
+| 1 | Übergreifendes Geheimnis | **Anti-Silber/Binder, von außerhalb** (nicht ortsansässig) | 2026-08-07 | Nutzt das tatsächliche Band-5-Schlussbild (Leuchtturm zieht etwas von außen an) statt eines vorab in Gravenstedt sitzenden Gegners |
+| 2 | Motiv des Antagonisten | **Schuld aus falsch angewendeter Serienregel** (nicht Trauer, nicht Macht) | 2026-08-07 | Dritte Trauer-Variante nach Graven/Faber wäre Wiederholung; Macht wäre zu kalt für „verstehen statt bekämpfen". Details in Abschnitt 6 |
+| 3 | Staffel-Untertitel | **„Die Gebundenen"** | 2026-08-07 | Passt zum Titel-Register der Reihe, vermeidet Doppeldeutigkeit von „Die Hüter". Details in Abschnitt 10 |
+| 4 | Schatten-Rätsel auflösen? | **Bereits erledigt** — Band 5 löst es vollständig auf, Staffel 2 baut nicht darauf | 2026-07-15 (User) | War schon vor diesem Planungsdurchgang entschieden, hier nur bestätigt |
+| 5 | Neue gleichaltrige Figur | **Ja — das Kind des Antagonisten** | 2026-08-07 | Spiegelt Serien-Ethik auf Kinderebene, gibt Theo einen Gegenpart. Details in Abschnitt 9 |
+| 6 | Serienlänge | **5 Bände, in sich abgeschlossen**, optionaler leiser Faden für Staffel 3 möglich | 2026-08-07 | Konsistent mit Windwalkers-Vorbild und bestehender 5-Band-Skizze (Abschnitt 6) |
+| 7 | Leiser Faden am Ende von Band 5 | **Leuchtturm-Narbe** — so geschrieben in Kapitel 18 „Was bleibt" | Band 5, veröff. 2026-08-05 | War die Hauptempfehlung in Abschnitt 4; Band 5 hat sie 1:1 umgesetzt |
+
+### Fortsetzung — zweite Sitzung (2026-08-07)
+
+| # | Frage | Entscheidung | Begründung (kurz) |
+|---|---|---|---|
+| 8 | Name/Alter/Beruf/Aussehen des Antagonisten | **Anton Halder, ~48, reisender Schlosser/Uhrmacher**, unauffälliges Auftreten, Brandnarbe an einer Hand | Tarnberuf erklärt Reisen + Zugang zu Häusern (wie Frau Silber); unauffälliges Auftreten hält den freien Einstieg offen; Details in Abschnitt 6 |
+| 9 | Historischer Vorfall in seiner alten Stadt | **Feuer**, ausgelöst kurz nach einer zu hastigen Befreiung mit falscher Methode | Weltlich, altersgerecht off-page, dupliziert keine bestehende Tragödie (kein Einsturz wie B3, keine Krankheit wie B4); Details in Abschnitt 6 |
+| 10 | Name & Alter der neuen Figur | **Frieda Halder, 12** | „Frieda" = Friede, Ironie zum Vater; Details in Abschnitt 9 |
+| 11 | Einführung der neuen Figur | **Gestaffelt:** unerkannt ab S2-2, Enthüllung als Tochter in S2-3, entscheidende Rolle im Finale S2-5 | Erzeugt einen echten Wendepunkt statt eines erwarteten Auftritts; gibt Theo eine wachsende Beziehung vor der Enthüllung |
+| 12 | Wie S2-1 endet | **Physischer Anker (ein Schloss)**, den die Kinder finden und öffnen — Geist wird befreit, größere Erkenntnis bleibt offen | Bewahrt das Staffel-1-Muster „jeder Band schließt seinen Fall" gerade im wichtigsten (freien) Einstiegsband; erklärt zugleich, warum die Lösung nicht auf die ganze Staffel skaliert |
+| 13 | Titel-Zuordnung S2-2 bis S2-5 | „Die Uhr, die rückwärts läuft" (S2-2) · „Die Frau, die niemand gehen ließ" (S2-3) · ~~„Das Zimmer, das sich erinnert"~~ „Der Park, der nicht vergisst" (S2-4, revidiert — s. #26) · „Der letzte Schlüssel" (S2-5) | Details je Band in Abschnitt 6; Tabelle in Abschnitt 10 |
+| 14 | Tiefpunkt in S2-4 | **Bewusst nicht Halders Werk** — ein echter, kanonbegründeter Grenzfall | Verhindert, dass „Empathie reicht nicht immer" zur Ausrede wird; Nora zweifelt an sich selbst, nicht am Gegner |
+| 15 | Auflösung in S2-5 | **Frieda** legt Halder Beweise vor (nicht Nora/Theo, nicht Kampf) | Zahltag von Friedas Bogen; hält „Empathie schlägt Kampf" ein, ohne dass die Kinder ihn „besiegen" |
+
+### Fortsetzung — Cover-Konzept (2026-08-07, dritte Sitzung)
+
+| # | Frage | Entscheidung | Begründung (kurz) |
+|---|---|---|---|
+| 16 | Cover-Format | **6×9 Zoll einheitlich** für alle fünf Bände | Keine Wiederholung des Band-1/2–5-Formatbruchs; S2-1 hat als neue ASIN keine Altlast |
+| 17 | Text-Layout für Staffel-Namen | **Drei Kopfzeilen-Ebenen** (Reihe/Staffel+Band/Bandtitel), Kopfbereich auf ~37 % erweitert | Vermeidet zu lange Einzelzeile (Lesbarkeitsrisiko); feste Größenrelation 1,6–1,8× statt vager Angabe |
+| 18 | Sicherheitsränder oben/unten | **13 % statt 9 %**, Generative Expand als Standardschritt | Übernimmt die im Reihenstandard bereits validierte "vorsichtige" Zahl; zusätzliche Sicherheit durch die neue dritte Textebene |
+| 19 | Alterstext auf dem Cover | **„ab 12 Jahren"** statt „ab 10 Jahren" | Ehrliches Content-Signal für härteren Grusel; Standard-Amazon-Alterskategorie |
+| 20 | Halder/Frieda auf Covern | **Halder gestaffelt** (nie vor S2-3, sicher in S2-5, nie in S2-4 als Hauptmotiv); **Frieda nie** | Folgt dem Graven/Band-5-Präzedenzfall; Frieda ist ein Kind, Verbotsliste untersagt drittes Kind |
+| 21 | Farbwelt-Signatur der Staffel | Kühlere Grundstimmung + neuer **Leine-Lichtfaden**-Akzent (verschwindet im Finale); Pro-Band-Tabelle mit Ort/Dominant/Akzent | Bildet die Bindung-zu-Befreiung-Dramaturgie der Staffel visuell ab; Details in Abschnitt 10 |
+
+**Offen bleibt weiterhin** (bewusst nicht entschieden, siehe Aktivierungs-Checkliste in
+Abschnitt 1): Wann konkret die Produktion von Staffel-2-Band-1 beginnt — das hängt an
+Marktdaten, die erst Monate nach Veröffentlichung von Band 5 vorliegen. Außerdem noch offen:
+die konkreten Bild-Prompts je Band sowie alle Detailfragen auf Kapitelebene
+(Produktionsphase). Diese drei Durchgänge haben das **Konzept** fixiert — Narrativ, Figuren
+und jetzt auch Cover —, nicht den Startzeitpunkt oder die Ausführung.
 
 ---
 
@@ -391,4 +758,192 @@ die Staffel 2 später abholt.
 
 ---
 
-*Erstellt 2026-07-15. Reserve-Dokument – Aktivierung nach Band 5.*
+## 14. Ausführungsrisiken — beim Schreiben aktiv gegensteuern (2026-08-07)
+
+> Diese vier Punkte sind keine offenen Entscheidungen und kein Grund, das Konzept zu
+> ändern — sie sind Stellen, an denen die **Ausführung** beim tatsächlichen Schreiben der
+> jeweiligen Bände sehr bewusst gegensteuern muss. Vor dem Schreiben von S2-3, S2-4 und
+> S2-5 diesen Abschnitt lesen.
+
+**1. S2-4: Der unlösbare Fall darf nicht zu „einfach nur traurig" kippen.**
+Alle zwölf Geister aus Staffel 1 wurden befreit — ausnahmslos. Der Geist in S2-4 bleibt für
+immer gebunden (kanonbegründet, „befreite Geister kehren nicht zurück"). Das ist ein echter
+Bruch mit dem „Kribbeln, kein Albtraum"-Versprechen der Marke. **Gegensteuern:** Dem Geist
+am Ende trotzdem eine Art Gnade geben — nicht Freiheit, aber z. B. Gesellschaft,
+Anerkennung, ein Innehalten der Angst —, damit „man kann nicht jeden retten" nicht zu
+purer Trauer ohne Trost wird.
+
+**2. S2-3: Halders Nähe zur Familie darf nicht ins Psychothriller-Register kippen.**
+Ein sympathischer Erwachsener, der sich über eine Tarnung Zugang zur Familie verschafft,
+berührt ein anderes Angstregister als Geister — strukturell näher an einer
+Fremden-Gefahr-Erzählung als an Gruselliteratur, auch wenn er körperlich niemanden
+bedroht. **Gegensteuern:** Beim Schreiben sehr bewusst in der Abenteuer-/Rätsel-Tonlage
+bleiben, nicht in Richtung häusliches Psychothriller-Gefühl abdriften.
+
+**3. S2-5: Nora/Theo dürfen im eigenen Finale nicht zu Zuschauern werden.**
+Frieda trägt die entscheidende Konfrontation (Abschnitt 6, S2-5) — das hält „Empathie
+schlägt Kampf" ein, riskiert aber, dass die Hauptfiguren im Höhepunkt ihrer eigenen
+Staffel passiv wirken. **Gegensteuern:** Sicherstellen, dass Nora oder Theo einen klar
+notwendigen, aktiven Anteil daran haben, dass Frieda überhaupt so weit kommt (z. B.
+Noras Verständnis überzeugt Frieda erst, überhaupt zu suchen).
+
+**4. „Ab 12 Jahren" ist ein bewusstes Geschäftsrisiko, kein neutrales Detail.**
+Entscheidung getroffen (Abschnitt 12, #19): ehrliches Content-Signal vor
+Marken-Kontinuität zu „ab 10". Kappt potenziell die Brücke zu bestehenden Käufern, die
+noch nicht wissen, dass ihr Kind älter geworden ist. Vertretbar, aber bei den ersten
+Marktdaten (Aktivierungs-Checkliste, Abschnitt 1) explizit gegenprüfen, ob die
+Kategorie-Wahl trägt.
+
+**5. Nora braucht ab S2-2 eine Entscheidung, die sie etwas kostet.** *(aus der
+Wirkungs-Prüfung von S2-1, 2026-08-08)*
+S2-1 besteht alle vierzehn Fragen von Teil F2 — bis auf eine Beobachtung, die sich erst
+im Vergleich zeigt: **Herbert hat ein schärferes Dilemma als Nora.** Er muss zwischen der
+Karte und der Hoffnung wählen (einwerfen heißt, ein „Nein" zu riskieren); sie muss nichts
+aufgeben. Ihre härteste Szene, das Halten des Schlosses in K12, ist *Schmerz*, keine
+*Wahl* — sie will die ganze Zeit dasselbe. Für Band 1 einer Staffel ist das vertretbar,
+über fünf Bände wird es zur Schwäche: Wer nie etwas aufgibt, wächst nicht.
+**Gegensteuern:** Ab S2-2 mindestens einmal pro Band eine Situation, in der Nora zwei
+Dinge will und nur eines haben kann. Der Plan liefert das Material dafür bereits —
+Abschnitt 5 nennt „Nora verliert ein Stück normale Kindheit" den emotionalen Motor der
+Staffel. In S2-1 ist dieser Motor als sauberer Vierschritt angelegt (K1 Gerücht in der
+Stadt → K9 das Lügen geht von allein → K15 „Du bist dreizehn" → K16 sie fühlt sich
+deswegen nicht mehr schlecht). **Er läuft, aber er fordert noch nichts.**
+
+**6. Das betroffene Kind gehört früher auf die Seite.** *(ebenfalls aus der
+Wirkungs-Prüfung von S2-1)*
+In S2-1 ist Jule, die Achtjährige, die nicht in ihrem Zimmer schlafen kann, das einzige
+Kind im Fall — und damit die Figur, über die ein zehnjähriger Leser am ehesten selbst
+betroffen ist. Sie steht in **drei** Kapiteln auf der Seite (K9, K14, K15), wird aber in
+**neun** als „meine Tochter" erwähnt. Vier Fünftel ihrer Wirkung sind Bericht der Mutter.
+Das ist in S2-1 nicht zu reparieren, ohne funktionierende Szenen aufzubrechen — die
+Rundgangs-Szene in K5 lebt gerade davon, dass Jules Zimmer *leer* ist.
+**Gegensteuern:** In S2-2 bis S2-5 das betroffene Kind (falls es eines gibt) **vor der
+Mitte** einmal selbst sprechen lassen, nicht erst im letzten Drittel.
+
+---
+
+## 15. Produktions-Workflow für Staffel 2 — abgeleitet aus Band 4/5 (2026-08-07)
+
+> Rekonstruiert aus dem tatsächlichen Ablauf von Band 4 und Band 5 (`Band5/PLAN_Band5.md`
+> Abschnitt 6, Dateistruktur `Band4/` und `Band5/`) — nicht neu erfunden, sondern
+> dokumentiert, was sich über fünf Bände bewährt hat.
+
+### Das Sechs-Phasen-Modell (+ Produktion)
+
+| Phase | Datei(en) | Zweck |
+|---|---|---|
+| 0 — Konzept | im `PLAN_S2-N.md` | Prämisse, Antagonist-Profil, Mechanik, Entscheidungen |
+| 1 — Kontinuität | `Kontinuitaet_S2-N.md` | Stil, Figuren-Stand, Namen/Fakten, Wissensstand, offene Fäden, leere Gerüste |
+| 2 — Story-Outline | `Story_Outline_S2-N.md` | Alle Kapitel + **Mechanik-/Physik-Selbstprüfung** (Anti-Story-Fehler) + Twist-Logik + Wachpunkte |
+| 3 — Szenenplanung + Tracker | `Setup_Payoff_Tracker_S2-N.md`, `Cliffhanger_Register_S2-N.md`, `Detaillierte_Szenenplanung_S2-N.md` | Faire Hinweis-Ketten vorab geprüft, alle Übergänge kontrolliert |
+| 4 — Schreiben | `Manuskript/Kapitel_NN.md` | Kapitelweise, nach jedem Kapitel Tracker + Spannungs-Prüfplan |
+| 4b — Stimmen-Pass | — | Anti-Formel-Messung, nach dem Schreiben, vor dem Kompilieren |
+| 5 — Kompilieren | Build-Skripte | Manuskript zusammensetzen |
+| 6 — Abschluss-Prüfung | — | Alle Fäden belegt, Ghost-Regel geprüft, Staffel-Brücke erfüllt |
+
+**Der wertvollste Einzelbefund:** Phase 2s Mechanik-/Physik-Selbstprüfung fand bei Band 5
+**drei echte Logiklöcher, bevor ein Kapitel geschrieben war.** Diese Prüfung ist für
+Staffel 2 mindestens so wichtig wie für Staffel 1 — eher wichtiger, weil unsere eigenen
+Ausführungsrisiken (Abschnitt 14) genau die Art Frage sind, die diese Phase systematisch
+stellt.
+
+### Vier Abweichungen für Staffel 2 (2026-08-07)
+
+**1. Eigene `PLAN_S2-N.md` pro Band, zusätzlich zu dieser Staffel-Datei.**
+`PLAN_Staffel2.md` bleibt die **Staffel-Brücke** (Konzept, das Staffel 1 nicht brauchte,
+weil sie keine Staffel-Grenze hatte) — sie ersetzt nicht die Bandebene. Jeder Band bekommt
+sein eigenes Verzeichnis `Staffel2/S2-N/` mit Plan, Kontinuität, Outline, Tracker,
+Manuskript, Cover — analog zu `Band1/` … `Band5/`.
+
+**2. Mechanik-/Physik-Selbstprüfung VOR dem Story-Outline priorisieren**, nicht nur als
+Unterpunkt darin. Konkrete Fragen, die für S2-1 zu erwarten sind: Warum verlässt Halder
+nicht einfach die Stadt, sobald ein Schloss geknackt wurde? Warum ruft niemand die Polizei
+wegen eines Handwerkers, der überall auftaucht? Warum fragt Mama nie, wer da repariert?
+
+**3. Ein staffelweiter Hinweisketten-Tracker, zusätzlich zu den Band-Trackern.**
+Band 5s "faire Hinweis-Ketten" prüften Twists innerhalb eines Buches. Unsere zwei großen
+Twists — Frieda ist Halders Tochter (S2-3), das Feuer war nicht seine Schuld (S2-5) —
+spannen sich über mehrere Bände. Braucht einen eigenen `Staffel2/Hinweisketten_Tracker.md`,
+angelegt spätestens vor S2-2 (wenn Frieda zum ersten Mal auftaucht).
+
+**4. Neuleser-Spalte in der Kontinuitäts-Datei von S2-1** (nur S2-1, kein Serienstandard).
+Nora und Theo *wissen* technisch alles aus Staffel 1 — Regel 2 verlangt aber, dass sie
+geschrieben werden, als kenne sie niemand. Die "Was die Kinder wissen"-Sektion bekommt für
+S2-1 zusätzlich, was davon **im Text erklärt werden muss** (Neuleser-Regel) gegenüber was
+nur **Hintergrundwissen der Figuren** bleibt (Kontinuität, nicht ausgesprochen).
+
+**5. Reise-/Weg-Übergänge brauchen beim Schreiben grundsätzlich eine Überleitungszeile.**
+⚠️ In **vier von vier** Bänden bislang (S2-1 K10→K11, S2-2 K2→K3, S2-3 K8→K9, S2-4 K9→K10,
+je in der Übergangs-Gesamtprüfung von Phase 3 gefunden) markierte genau ein Kapitelübergang
+eine Fahrt/einen Weg zwischen zwei Orten als einzigen Punkt, der keine sofortige,
+lückenlose Anschluss-Logik hat. Kein Einzelfall mehr, sondern ein verlässliches
+Strukturmerkmal der Reihe: **Bei jedem Ortswechsel zwischen zwei Kapiteln in Phase 2/3
+vorab einplanen, dass eine kurze, glatte Überleitungszeile beim Schreiben nötig ist** —
+spart das erneute Suchen/Finden desselben Musters bei S2-5.
+
+### Fortsetzung — Produktions-Workflow (2026-08-07, vierte Sitzung)
+
+| # | Frage | Entscheidung | Begründung (kurz) |
+|---|---|---|---|
+| 22 | Workflow-Struktur pro Band | Eigene Verzeichnisse `Staffel2/S2-N/` mit PLAN/Kontinuität/Outline/Tracker | Analog zu Band1–5; `PLAN_Staffel2.md` bleibt Staffel-Brücke |
+| 23 | Reihenfolge Phase 1 vs. 2 | **Kontinuität VOR Story-Outline** (korrigiert gegenüber einem vorherigen Vorschlag in diesem Chat) | Entspricht der tatsächlichen Band-4/5-Praxis, nicht einer verkürzten Annahme |
+| 24 | Staffelweiter Hinweisketten-Tracker | Neue Datei `Staffel2/Hinweisketten_Tracker.md`, spätestens vor S2-2 anlegen | Frieda- und Feuer-Twist spannen sich über mehrere Bände, brauchen bandübergreifende Prüfung |
+| 25 | Neuleser-Spalte in S2-1-Kontinuität | Nur für S2-1, kein Serienstandard | Einziger Band mit dem Nora/Theo-wissen-vs-Text-erklärt-Konflikt |
+| 26 | S2-4-Titel korrigiert | „Das Zimmer, das sich erinnert" → **„Der Park, der nicht vergisst"** | Konsistenzprüfung nach Abschluss von S2-4s Phase 1–3 fand: kein Zimmer kommt in der fertigen Handlung vor (spielt vollständig im Stadtpark). Neuer Titel überträgt dieselbe Erinnerungs-Idee auf den tatsächlichen Ort, statt Titel und Handlung auseinanderlaufen zu lassen; Nutzerentscheidung 2026-08-07 (Option B: Titel/Cover anpassen, kein Zimmer nachträglich einbauen) |
+
+**Produktionsstand je Band** (umgebaut in eine Tabelle 2026-08-07 — der vorherige
+Fließtext-Absatz war durch viele Nachträge unübersichtlich geworden):
+
+| Band | Phase 1 (Kontinuität) | Phase 2 (Outline) | Phase 3 (Tracker) | Kernpunkt |
+|---|---|---|---|---|
+| S2-1 | ✅ [Kontinuitaet_S2-1.md](S2-1/Kontinuitaet_S2-1.md) | ✅ [Story_Outline_S2-1.md](S2-1/Story_Outline_S2-1.md) (3. Durchgang) | ✅ [Setup_Payoff](S2-1/Setup_Payoff_Tracker_S2-1.md) · [Cliffhanger](S2-1/Cliffhanger_Register_S2-1.md) · [Szenen](S2-1/Detaillierte_Szenenplanung_S2-1.md) | Herbert Lenz, Methode Zuhören, echter Sieg + Season-Haken |
+| S2-2 | ✅ [Kontinuitaet_S2-2.md](S2-2/Kontinuitaet_S2-2.md) | ✅ [Story_Outline_S2-2.md](S2-2/Story_Outline_S2-2.md) (2. Durchgang) | ✅ [Setup_Payoff](S2-2/Setup_Payoff_Tracker_S2-2.md) · [Cliffhanger](S2-2/Cliffhanger_Register_S2-2.md) · [Szenen](S2-2/Detaillierte_Szenenplanung_S2-2.md) | Grete, Methode Erinnern, Frieda unerkannt, ein Sieg + Dutzende offene Schlösser |
+| S2-3 | ✅ [Kontinuitaet_S2-3.md](S2-3/Kontinuitaet_S2-3.md) | ✅ [Story_Outline_S2-3.md](S2-3/Story_Outline_S2-3.md) | ✅ [Setup_Payoff](S2-3/Setup_Payoff_Tracker_S2-3.md) · [Cliffhanger](S2-3/Cliffhanger_Register_S2-3.md) · [Szenen](S2-3/Detaillierte_Szenenplanung_S2-3.md) | Ilse, Methode Vergeben, Doppel-Enthüllung (Halder + Frieda) |
+| S2-4 | ✅ [Kontinuitaet_S2-4.md](S2-4/Kontinuitaet_S2-4.md) | ✅ [Story_Outline_S2-4.md](S2-4/Story_Outline_S2-4.md) | ✅ [Setup_Payoff](S2-4/Setup_Payoff_Tracker_S2-4.md) · [Cliffhanger](S2-4/Cliffhanger_Register_S2-4.md) · [Szenen](S2-4/Detaillierte_Szenenplanung_S2-4.md) | Marie sucht Clara (kollektiv befreit in Band 5) — kanonbegründet unlösbar, Grenzfall statt Sieg, Nora zweifelt an sich selbst, Frieda wankt erstmals, bewusst keine 4. Methode (Zuhören wiederholt) |
+| S2-5 | ✅ [Kontinuitaet_S2-5.md](S2-5/Kontinuitaet_S2-5.md) | ✅ [Story_Outline_S2-5.md](S2-5/Story_Outline_S2-5.md) | ✅ [Setup_Payoff](S2-5/Setup_Payoff_Tracker_S2-5.md) · [Cliffhanger](S2-5/Cliffhanger_Register_S2-5.md) · [Szenen](S2-5/Detaillierte_Szenenplanung_S2-5.md) | Finale (18 Kapitel wie Band 5): Frieda findet Beleg, dass das Feuer nicht seine Schuld war (Ursache bleibt bewusst unklar), konfrontiert Halder; er öffnet die Werkstatt selbst mit dem titelgebenden letzten Schlüssel, Marie bleibt bewusst ungelöst |
+
+**✅ Phase 1–3 für alle fünf Bände der Staffel abgeschlossen (2026-08-07).**
+
+**Staffelweit:** [Hinweisketten_Tracker.md](Hinweisketten_Tracker.md) ✅ angelegt (Entscheidung
+#24), beide Ketten (Frieda, Feuer-Motiv) vollständig aufgelöst — Kette 1 in S2-3, Kette 2 in
+S2-5 —, je mit vollständigem Rückwärtsdurchgang vor dem jeweiligen Enthüllungs-Band (siehe
+dort).
+
+**Wiederkehrende Beobachtung, jetzt für die ganze Staffel bestätigt:** Alle fünf Bände haben
+je einen Reise-/Weg-Übergang, der beim Schreiben eine kurze Überleitungszeile braucht (S2-1
+K10→K11, S2-2 K2→K3, S2-3 K8→K9, S2-4 K9→K10, S2-5 K6→K7) — festgehalten als feste
+Schreibregel in Abschnitt 15 (Produktions-Workflow, Abweichung 5).
+
+**Nächster Schritt:** Die gesamte Planung (Phase 1–3) für Staffel 2 ist abgeschlossen.
+**Phase 4 (Kapitel schreiben) läuft** — bewusst vor vollständiger Erfüllung der
+Aktivierungs-Checkliste (Abschnitt 1), auf ausdrücklichen Nutzerwunsch.
+
+**Stand S2-1 „Der Gast, der blieb":**
+
+| Akt | Kapitel | Status |
+|---|---|---|
+| Akt 1 — Ein Fall kommt zu ihnen | K1–K4 | ✅ geschrieben + Stimmen-/Strukturprüfung |
+| Akt 2 — Die Spur | K5–K8 | ✅ geschrieben + Stimmen-/Strukturprüfung |
+| Akt 3 — Das Schloss | K9–K12 | ✅ geschrieben + Stimmen-/Strukturprüfung |
+| Akt 4 — Der Gast geht | K13–K16 | ✅ geschrieben |
+
+🎉 **S2-1 „Der Gast, der blieb" ist als Rohmanuskript vollständig: 16/16 Kapitel,
+16.615 Wörter.** Gesamtbilanz gegen Band 1 und Band 5: `S2-1/Kontinuitaet_S2-1.md`,
+Abschnitt „GESAMTBILANZ". ✅ **Phase 4b (Stimmen-Pass) ist abgeschlossen** — Ergebnis in
+`Dokumentation/Stimmen_Pruefplan.md` Abschnitt 11. **Nächster Schritt: Phase 5.**
+
+⚠️ **Vor dem Schreiben von Akt 3 beachten** (Befunde aus der Akt-2-Prüfung):
+1. **Muster-Wächter auf Beat-Ebene prüfen, nicht auf Typen-Namen.** K5/K6 hatten trotz
+   verschiedener Register-Typen fast denselben Cliffhanger. Risikostellen in Akt 3/4:
+   **K9/K10** (beide am Schrank) und **K13/K14** (bereits als Intensitäts-Risiko notiert).
+2. **K10→K11 braucht eine explizite Überleitungszeile** (Ortswechsel zum Karton) — siehe
+   Übergangs-Gesamtprüfung in `S2-1/Detaillierte_Szenenplanung_S2-1.md`.
+3. **Kapitellängen-Vorgabe aus CLAUDE.md ist für diese Serie veraltet** (beschreibt Band 1
+   mit Ø 1.499 W; Band 5 liegt bei Ø 939 W). Nicht künstlich auffüllen — Beleg in
+   `S2-1/Kontinuitaet_S2-1.md`.
+
+---
+
+*Erstellt 2026-07-15. Konzept-Entscheidungen ergänzt 2026-08-07 (siehe Abschnitt 12).
+Reserve-Dokument – Produktionsstart wartet weiterhin auf Marktdaten
+(Aktivierungs-Checkliste, Abschnitt 1).*
