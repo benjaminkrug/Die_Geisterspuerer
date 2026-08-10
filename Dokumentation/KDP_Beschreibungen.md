@@ -35,15 +35,17 @@ Perfekt für alle, die Bücher am liebsten unter der Bettdecke lesen. Mit Tasche
 ```html
 <b>Ein Wort im Kondenswasser. Ein Hund, der Geister spürt. Und ein Haus, das nicht loslässt.</b><br><br>
 
-Als Nora (12) und Theo (10) mit ihrer Mutter nach Gravenstedt ziehen, ahnen sie nicht, was sie in der alten Wohnung in der Kirchgasse 14 erwartet. Die Wände knarren. In einem Zimmer ist es eiskalt – mitten im Juli. Und vor der Haustür wartet ein Hund mit bernsteinfarbenen Augen, der sich nicht vertreiben lässt.<br><br>
+Als Nora (12) und Theo (10) mit ihrer Mutter nach Gravenstedt ziehen, ahnen sie nicht, was sie in der Kirchgasse 14 erwartet. Die Stufen knarren. Ein Stockwerk über ihnen steht eine Wohnung leer, in der es eiskalt ist – mitten im Juli. Und vor der Haustür wartet ein dünner Hund mit bernsteinfarbenen Augen, der sich nicht vertreiben lässt.<br><br>
 
-Dann beginnt das Klopfen. Nachts. In der Wand. Dreimal. Pause. Dreimal.<br><br>
+Dann beginnt das Klopfen. Nachts. Aus der Wand hinter Noras Kopfende. Dreimal. Pause. Dreimal.<br><br>
 
 Und am nächsten Morgen steht ein Wort im Kondenswasser am Küchenfenster: <b>HILF</b>.<br><br>
 
-Nora glaubt an Wasserrohre, Zugluft und logische Erklärungen. Aber als Schatten – ihr neuer Hund – sie in die leere Wohnung im Stockwerk darüber führt, findet sie etwas, das sie nicht erklären kann: eine Liste mit Namen. Ein altes Foto. Und die Geschichte eines Mädchens, das vor fünfzig Jahren in genau dieser Wohnung gelebt hat.<br><br>
+Nora glaubt an kalte Leitungen, Zugluft und logische Erklärungen. Aber Schatten – ihr neuer Hund – führt sie die Treppe hinauf in die leere Wohnung. Dort hängt eine Liste mit Namen an der Wand, neben jedem ein Datum, manche abgehakt. Ganz unten, in blauer Tinte und ohne Häkchen: <i>Lina Vogt? – 1974?</i><br><br>
 
-<b>Ein Mädchen, das nie vergessen werden wollte.</b><br><br>
+Und dann fängt Schatten an, an einer Wand zu kratzen. Im Flur ihrer eigenen Wohnung. Immer an derselben Stelle.<br><br>
+
+<b>Vor fünfzig Jahren hat hier ein Mädchen gewohnt. Und niemand hat je erfahren, was mit ihr geschehen ist.</b><br><br>
 
 <i>Das Haus, das flüstert</i> ist der Auftakt der Gruselserie <b>Die Geisterspürer</b> – eine Geschichte über Mut, Geschwisterliebe und die Frage, ob manche Geheimnisse besser begraben bleiben. Oder ob es Menschen gibt, die mutig genug sind, zuzuhören.<br><br>
 
@@ -56,7 +58,7 @@ Nora glaubt an Wasserrohre, Zugluft und logische Erklärungen. Aber als Schatten
 <b>★ 18 Kapitel mit Cliffhangern</b> – unmöglich, nur eins zu lesen<br>
 <b>★ Band 1 von 5</b> – jeder Band ein neuer Geist, ein neues Abenteuer<br><br>
 
-<i>„Falls das ein Geist ist, sag ihm, wir haben kein WLAN." – Theo, 10 Jahre, Überlebenskünstler</i><br><br>
+<i>„Andere Kinder gehen nach Hause und spielen Videospiele. Wir ermitteln in Geisterfällen." – Theo, 10 Jahre, Überlebenskünstler</i><br><br>
 
 <b>Perfekt für Fans von Gänsehaut, Das kleine Böse Buch und Lockwood & Co.</b>
 ```
@@ -202,7 +204,7 @@ Und aus der Tiefe ruft eine Kinderstimme: <b>Mama?</b><br><br>
 
 In Silbers alter Wohnung gibt es ein Zimmer, in dem es immer kalt ist. Mitten im Sommer. Und hinter einem verschobenen Schrank, unter grobem Putz, finden die Kinder etwas, das seit zweihundert Jahren verborgen war: <b>eine zugemauerte Tür. In einer Wohnung, die nur zwei Zimmer hat.</b><br><br>
 
-Dahinter liegt ein Raum, der unmöglich dorthin passen kann — endlos, voller alter Uhren, deren Pendel mitten im Schwung stehengeblieben sind. Hier vergeht keine Zeit. Und aus der Tiefe ruft eine Stimme, dünn und alt und freundlich, die sich über Besuch freut: <i>Bleibt doch. Niemand muss je gehen.</i><br><br>
+Dahinter liegt ein Raum, der unmöglich dorthin passen kann — endlos, voller alter Uhren, deren Pendel mitten im Schwung stehengeblieben sind. Hier vergeht keine Zeit. Und aus der Tiefe kommt eine Stimme, dünn und alt und höflich. Das Schlimmste an ihr ist, dass sie sich freut: <i>Besucher. Wie schön. Bleibt doch.</i><br><br>
 
 <b>Und zum zweiten Mal in seinem Leben will Schatten in die Gefahr HINEIN.</b><br><br>
 
@@ -219,7 +221,7 @@ Frau Silber ist hinter dieser Tür verschwunden. Nora ist sicher, dass sie sie r
 <b>★ Gruselig UND lustig</b> – Theo behält den Humor, sogar hinter der Tür<br>
 <b>★ Band 4 von 5</b> – jeder Band ein neuer Geist, ein Stück des großen Rätsels<br><br>
 
-<i>„Eine zugemauerte Tür in der Wohnung über uns. Seit einem Jahr. Und niemand hat mal geklopft." – Theo, 10 Jahre, Überlebenskünstler</i><br><br>
+<i>„Uhren sammeln kann ich verstehen. Uhren sind cool. Aber wer sammelt einen einzelnen Kinderhandschuh?" – Theo, 10 Jahre, Überlebenskünstler</i><br><br>
 
 <b>Perfekt für Fans von Cornelia Funkes Gespensterjäger, Gänsehaut und Lockwood & Co.</b>
 ```
@@ -265,7 +267,7 @@ _Begründung: Reihe bleibt im selben Regal → Serien-Sichtbarkeit, Cross-Sellin
 > **KDP-Serientitel:** Die Geisterspürer
 > **KDP-Serienband:** 5
 > **KDP-Preis (TB):** 10,99 EUR | **KDP-Preis (eBook):** 4,99 EUR
-> **Umfang:** 104 Seiten (Band 4: 97) · 18 Kapitel · 16.932 Wörter
+> **Umfang:** 104 Seiten (Band 4: 95) · 18 Kapitel · 16.907 Wörter
 >
 > _Untertitel **wortgleich zu Band 3 und 4** — bewusst. Die Formel ist datenbelegt
 > („Grusel-Abenteuer", „Kinder ab 10 Jahre", „spannende Geistergeschichte", „Jungen und
@@ -276,11 +278,11 @@ _Begründung: Reihe bleibt im selben Regal → Serien-Sichtbarkeit, Cross-Sellin
 ```html
 <b>Ein Spiegel, der nichts zeigt. Ein Mann, der sich nicht umdreht. Und ein Hund, den diesmal jemand haben will.</b><br><br>
 
-In Gravenstedt wird es früh dunkel. Es ist November, und über Nacht verändert sich etwas: Die Toten, die Nora (12) und Theo (10) seit dem Sommer kennen, sind nicht mehr die einzigen. Auf einmal stehen überall Gestalten an den Fenstern — in der Fabrik, im Park, im Treppenhaus nebenan. Sie sind nicht wütend. Sie warten. Und auf Frau Silbers alter Karte glühen mit einem Mal alle Zeichen zugleich.<br><br>
+In Gravenstedt wird es früh dunkel. Es ist November, und über Nacht verändert sich etwas: Die Toten, die Nora (12) und Theo (10) seit dem Sommer kennen, sind nicht mehr die einzigen. Auf einmal stehen überall Gestalten an den Fenstern — in der Fabrik, im Park, im Treppenhaus nebenan. Sie sind nicht wütend. Sie warten. Und auf Frau Silbers alter Karte glüht ein Zeichen, das keinen Namen trägt. Nur ein Wort in ihrer Schrift: GRAVEN.<br><br>
 
 Etwas ruft die Toten der ganzen Stadt zusammen. Und es ruft nach Schatten.<br><br>
 
-Die Spur führt die Geschwister zum ältesten Haus von Gravenstedt und tief darunter, in ein Gewölbe aus Stein, das älter ist als die Stadt selbst. Dort steht ein Spiegel, so hoch wie eine Tür — und seine Fläche wirft nichts zurück. Kein Zimmer, keine Kinder, nichts. Nur ein totes, graues Leuchten.<br><br>
+Die Spur führt die Geschwister zum ältesten Haus von Gravenstedt und tief darunter, in ein Gewölbe aus Stein, das älter ist als alles darüber. Dort steht ein Spiegel, so hoch wie eine Tür — und seine Fläche wirft nichts zurück. Kein Zimmer, keine Kinder, nichts. Nur ein totes, graues Leuchten.<br><br>
 
 Davor wartet Alwin Graven. Höflich, geduldig, aufrecht, mit der Hand am Rahmen. Er sieht aus wie ein Mann von vor zweihundert Jahren — und anders als jeder Geist, dem die Kinder je begegnet sind, verblasst er nicht. Er will ihnen nichts Böses. Er will nur eine einzige Sache.<br><br>
 
@@ -299,7 +301,7 @@ Zuhören hat den Geistern bisher geholfen. Verstehen hat geholfen. Aber Graven h
 <b>★ Gruselig UND lustig</b> – Theo behält den Humor, sogar im Gewölbe<br>
 <b>★ Das Finale der Reihe</b> – alle Fragen aus Band 1–4 werden beantwortet<br><br>
 
-<i>„Ein Spiegel, der nichts zeigt. Ein zweihundert Jahre alter Mann. Und der will unseren Hund. Ehrlich, ich hätte lieber wieder Mathe." – Theo, 10 Jahre, Überlebenskünstler</i><br><br>
+<i>„Also ist unser Hund zweihundert Jahre alt, rettet heimlich die Welt, und wir geben ihm Trockenfutter." – Theo, 10 Jahre, Überlebenskünstler</i><br><br>
 
 <b>Perfekt für Fans von Cornelia Funkes Gespensterjäger, Gänsehaut und Lockwood & Co.</b>
 ```
@@ -405,9 +407,9 @@ Perfekt für alle, die Bücher am liebsten unter der Bettdecke lesen. Mit Tasche
 ```html
 <b>Ein Wort im Kondenswasser. Ein Hund, der Geister spürt. Und ein Haus voller Geheimnisse — in dem DU entscheidest, was als Nächstes passiert.</b><br><br>
 
-Als Nora (12) und Theo (10) nach Gravenstedt ziehen, wartet in der alten Wohnung etwas auf sie. Ein Zimmer, eiskalt mitten im Juli. Wände, die nachts knarren. Und vor der Haustür: ein Hund mit bernsteinfarbenen Augen, der sich nicht vertreiben lässt.<br><br>
+Als Nora (12) und Theo (10) nach Gravenstedt ziehen, wartet in der Kirchgasse 14 etwas auf sie. Ein Treppenhaus, das nachts knarrt. Über ihnen eine leerstehende Wohnung mit einem Zimmer, das eiskalt ist – mitten im Juli. Und vor der Haustür ein Hund mit bernsteinfarbenen Augen, der sich nicht vertreiben lässt.<br><br>
 
-Dann beginnt das Klopfen. Nachts. In der Wand. Dreimal. Pause. Dreimal.<br><br>
+Dann beginnt das Klopfen. Nachts. Aus der Wand. Dreimal. Pause. Dreimal.<br><br>
 
 Und am nächsten Morgen steht ein Wort im Kondenswasser am Fenster: <b>HILF</b>.<br><br>
 
@@ -428,7 +430,7 @@ Folgst du dem Hund die Treppe hinauf — oder durchsuchst du erst die Wohnung? G
 <b>★ Auch ohne die lineare Version lesbar</b><br>
 <b>★ Band 1 der Grusel-Spielbuch-Reihe</b> — alle Enden machen Lust auf Band 2<br><br>
 
-<i>„Ich gehe NICHT in den Keller. Nicht nachts. Nicht allein. Nicht — okay, ich komme mit." — Theo, 10 Jahre</i><br><br>
+<i>„Entscheid du dich. Egal was — ich komm mit. Aber bitte such was aus, bevor es dunkel wird." — Theo, 10 Jahre</i><br><br>
 
 <b>Für Fans von 1000 Gefahren, Gänsehaut und Das kleine Böse Buch — nur gruseliger. Und du entscheidest.</b>
 ```
