@@ -10,10 +10,29 @@
 > Dann pro neuem Band Abschnitt 5 ("Band-Steckbrief") ausfüllen und die 5 Prompts
 > aus den Vorlagen in Abschnitt 6 mit deinen Steckbrief-Werten befüllen. Fertig.
 >
+> **Nicht alle 5 Module müssen pro Band neu generiert werden** (bestätigt am Vergleich
+> Band 1 ↔ Band 2, korrigiert 2026-08-10): Modul 1 (Hero) und Modul 3 (Team + Theo) sind
+> band-spezifisch (SCHAUPLATZ, Hook-Satz, Schattens Verhalten) und brauchen jedes Mal ein
+> neues Bild. **Modul 4 (Für Eltern) zeigt das Buch GESCHLOSSEN** — der Buchdeckel ist
+> sichtbar, und weil das jeweilige Referenz-Cover als Bildvorlage angehängt wird, übernimmt
+> das Modell dessen Optik auf diesen Deckel. Modul 4 muss also **ebenfalls pro Band neu
+> generiert werden**, trotz identischem Text. **Nur Modul 2 (Lesemuffel) zeigt das Buch
+> OFFEN** (nur Seiten, kein Deckel sichtbar) — deshalb ist NUR Modul 2 wirklich
+> bandübergreifend wiederverwendbar, ohne neu generiert zu werden. Modul 5 braucht seit der
+> Entscheidung für den Comparison-Chart-Standard (s. u.) ohnehin kein gemaltes Bild mehr, nur
+> dieselben 5 Cover-Dateien mit wechselnder "dieses Buch"-Markierung.
+>
 > **Schwesternreihe:** Es gibt einen parallelen Plan für "Die Herrenhaus-Detektive"
 > (ab 8, Krimi, kein Übernatürliches). Dieser Plan hier ist die GRUSEL-Variante:
 > ab 10, echte Geister, kühle Palette, Hund Schatten als Marken-Asset. Die beiden
 > Reihen müssen sich optisch klar unterscheiden — das ist Kern eurer Positionierung.
+>
+> **Zwei Staffeln, eine Schablone:** Dieser Plan gilt unverändert für Staffel 1 UND
+> Staffel 2 ("Die Gebundenen") — gleiche STIL-DNA, gleiche 5 Module. Die
+> staffelspezifischen Deltas (Cross-Selling-Logik in Modul 5, reiferer Ton in
+> Staffel 2) stehen separat in
+> [A_Plus_Content_Masterplan_Staffel1.md](A_Plus_Content_Masterplan_Staffel1.md) und
+> [A_Plus_Content_Masterplan_Staffel2.md](A_Plus_Content_Masterplan_Staffel2.md).
 
 ---
 
@@ -467,12 +486,16 @@ zum offenen Buch in Modul 2), Schatten als schlafender Wächter = Sicherheit. Ba
 
 ### MODUL 5 — DIE REIHE (Cross-Selling, nur erschienene Bände)
 
-> **Strategie-Hinweis (vor dem Generieren lesen):** Den stärksten Sammel-Reiz erzeugst du,
-> wenn Käufer die ECHTEN Cover wiedererkennen. Beste Option ist daher in KDP das
-> **"Comparison Chart"-Modul mit den echten Cover-Bildern** (statt eines gemalten Sammel-
-> bildes). Den Prompt unten nur nutzen, wenn du bewusst EIN gemaltes Stimmungs-Sammelbild
-> im Reihen-Look willst – die Buchtitel stehen dann nur als eingebrannter Text, NICHT auf
-> den abgebildeten Büchern.
+> **✅ Standard (entschieden 2026-08-10, am Beispiel Band 1 verglichen):** KDP-Modultyp
+> **"Comparison Chart" mit den echten Cover-Bildern** ist der Standard für Modul 5 — nicht
+> der gemalte Sammel-Prompt unten. Stärkster Sammel-Reiz, weil Käufer die echten Cover
+> wiedererkennen, und jedes Cover ist direkt zur Produktseite verlinkt (Aufbau wie im
+> HHD-Vorbild, Modul 5). Details je Band: Cover-Dateien, Vergleichstabelle in der jeweiligen
+> `A_Plus_Content_BandX.md`.
+>
+> Der Prompt unten (gemaltes Stimmungsbild) bleibt als **Variante A** dokumentiert — nutzen,
+> wenn ein zusätzliches atmosphärisches Sammelbild gewünscht ist (z. B. als optionales
+> zusätzliches Modul neben dem Comparison Chart), nicht als Ersatz dafür.
 
 ```
 Erzeuge ein Bild im Seitenverhältnis 3:2 (quer, ca. 1500×1000 px). Übernimm vom angehängten
