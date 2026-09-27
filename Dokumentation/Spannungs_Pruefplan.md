@@ -142,3 +142,32 @@ Der Test muss **gelesen**, nicht automatisch gezählt werden. Sog entsteht oft a
 - **Sinnliches Detail:** K10 — „Manche Buchstaben waren tiefer als andere. Als hätte er es nachgezogen, damit es nicht verschwindet."
 - **Stille als Spannung (kein Stillstand):** K8 — Nora redet, das Echo läuft mechanisch weiter = verstörender als jede Action.
 - **Cliffhanger-Umkehrung:** Jedes Kapitel endet mit Frage/Drohung (K5 „die Stimme einer Frau", K16 „rührte sich der Erste").
+
+---
+
+## ⚠️ Lehre aus S2-4 (2026-09-24): Dieser Prüfplan gehört in JEDE Nachbesserungs-Runde, nicht nur ins Erstschreiben
+
+**Befund:** Bei S2-4 wurde dieser Plan beim ersten Schreiben jedes Kapitels beachtet. Danach
+folgte aber eine separate **Wortzahl-Nachbesserungsrunde** (Kapitel von ~800–1000 W auf das
+CLAUDE.md-Minimum von ~1200 W gebracht), bei der nur Wortzahl, Satzlänge, Dialoganteil und
+Schatten-Vorkommen geprüft wurden — **nicht** der längste dialogfreie Block. Ergebnis: Beim
+späteren Pflicht-Gegencheck (Phase 4b, Stimmen-Pass) waren 6 von 16 Kapiteln im Rot
+(>180 W dialogfreier Block), einmal sogar bei 368 W — mehr als doppelt so lang wie die
+Rot-Grenze. Die Ursache war eindeutig: Die Nachbesserung fügte überwiegend beschreibende
+Atmosphäre hinzu, keine Reaktionsbeats — genau die Zutat, die dieser Plan als Fix vorschreibt
+(„Eine Figur hineinreagieren lassen"), aber die Nachbesserung maß sie nicht mit.
+
+**Regel für künftige Bände:** Jede Runde, die Kapiteltext **verändert oder verlängert** —
+nicht nur das Erstschreiben — muss mit der Teil-A-Messung aus diesem Plan abschließen,
+inklusive des längsten dialogfreien Blocks. Eine Wortzahl-Nachbesserung, die nur eigene
+Kennzahlen (Wortzahl, Satzlänge) prüft, aber nicht das komplette Set aus Abschnitt TEIL A,
+kann unbemerkt neue dialogfreie Blöcke erzeugen, gerade weil sie tendenziell Atmosphäre statt
+Interaktion ergänzt.
+
+**Zusätzliche Nuance, beim Fixen zu beachten:** Nicht jeder Rot-Block ist ein Fehler. Von den
+6 betroffenen S2-4-Kapiteln lagen 2 (K05, K13) genau im eigentlichen Auflösungs-/
+Katharsis-Moment des Kapitels — dort greift die in Teil A explizit genannte Ausnahme. Die
+Ausnahme gilt aber nur für **den Höhepunkt selbst**, nicht für die Kapitel unmittelbar davor
+oder danach („drumherum"), die ebenfalls betroffen sein können, ohne dass die Ausnahme greift.
+**Vor dem Fixen jeden Rot-Block einzeln einordnen: Ist das der Auflösungsmoment selbst, oder
+nur die Umgebung davon?**

@@ -6,9 +6,15 @@
 > darf nicht zu „einfach nur traurig" kippen**) +
 > [../Hinweisketten_Tracker.md](../Hinweisketten_Tracker.md) (Kette 2 vertieft sich hier).
 > Ausgangslage aus [../S2-3/Kontinuitaet_S2-3.md](../S2-3/Kontinuitaet_S2-3.md) +
-> S2-3-Finale (K16, „Jetzt weiß er, dass wir es wissen").
-> Zeitlinie/Akt-Fortschritt/Dialog-Bilanz sind leere Gerüste.
-> **Phase 1 von 6** (`PLAN_Staffel2.md` Abschnitt 15).
+> S2-3-Finale (K16, „Jetzt weiß er, dass wir es wissen" — wortgleich verifiziert gegen
+> `../S2-3/Manuskript/Kapitel_16.md`, 2026-09-23).
+> Zeitlinie/Akt-Fortschritt/Dialog-Bilanz sind leere Gerüste, werden erst beim Schreiben
+> (Phase 4) gefüllt.
+> **Phase 3 von 6 abgeschlossen** (`PLAN_Staffel2.md` Abschnitt 15) — dieser Kopf sagte
+> zuvor „Phase 1 von 6" und die Widerspruchsliste unten stand noch auf „Phase 2", obwohl
+> `Story_Outline_S2-4.md` (Phase 2) und `Detaillierte_Szenenplanung_S2-4.md` (Phase 3) alle
+> sechs Punkte längst aufgelöst hatten — nachträglich korrigiert (2026-09-23), damit hier
+> keine bereits entschiedene Frage versehentlich neu aufgerollt wird.
 
 ---
 
@@ -27,7 +33,8 @@ nie hoffnungslos wirken, auch wenn er der dunkelste der Staffel ist.
   aus **zwei unabhängigen Quellen** zugleich (Konzept, Abschnitt 6):
   1. Ein Geist, den die Kinder mit der *richtigen* Methode trotzdem nicht befreien können.
   2. Halder fängt parallel einen weiteren, neu ankommenden Geist ab — off-page oder am Rand
-     der Handlung, nicht notwendig eine direkte Konfrontation (Details: Phase 2).
+     der Handlung, nicht notwendig eine direkte Konfrontation — ✅ konkretisiert: nur
+     Gerüchte, keine direkte Begegnung (siehe „Halder" unten).
 - **Die Angst kommt aus Ohnmacht, nicht aus einer neuen Bedrohungsform.** Kein härterer
   Antagonist, keine neue Kreatur — die Grenze der eigenen Fähigkeit ist der Schrecken.
 - **„Kribbeln, kein Albtraum" bleibt Auftrag, ist hier aber am schwersten einzuhalten** —
@@ -46,28 +53,33 @@ nie hoffnungslos wirken, auch wenn er der dunkelste der Staffel ist.
   hier um die eigene Grenze).
 - **Theo**, ~11. Bleibt das Ventil (Stil-Merkblatt) — muss aktiv gegen die Schwere des
   Bandes gegensteuern, ohne sie zu verharmlosen.
-- **Schatten.** Normaler, alternder Hund. Reagiert auf den neuen Geist vermutlich anders
-  als sonst — **Details: Phase 2** (könnte z. B. eine neue Nuance zeigen: hilflos statt
-  warnend, weil auch er nichts ausrichten kann).
+- **Schatten.** Normaler, alternder Hund. ✅ Reaktion festgelegt (`Story_Outline_S2-4.md`
+  Mechanik Punkt 8): kein Knurren, keine Warnung — er winselt, weicht nicht von Maries
+  Seite, wirkt selbst hilflos. Erste Schatten-Reaktion der Staffel, die **miterlebte
+  Ohnmacht** statt Warnung/Trost zeigt; schließt in K14 zu ruhig, sobald Marie sich
+  beruhigt (eigener kleiner Innen-Bogen, `Setup_Payoff_Tracker_S2-4.md` B.14).
 - **Die Mutter.** Keine aktive Rolle vorgesehen (Rückkehr zum Staffel-1-Muster nach S2-3s
   Ausnahme).
 
 ### Halder — parallel aktiv, nicht notwendig direkt konfrontierend
 
 - Fängt in diesem Band einen weiteren, neu ankommenden Geist ab (Konzept, Abschnitt 6).
-  ⚠️ **Ob er den Kindern direkt begegnet oder nur indirekt spürbar ist** (Konsequenz aus
-  S2-3s „er weiß, dass wir es wissen") — **Phase-2-Entscheidung.** Beide Fäden dürfen sich
-  im Band berühren, ohne dass Halder zur Hauptbedrohung dieses spezifischen Bandes wird —
-  das bleibt der neue, unlösbare Fall.
+  ✅ Entschieden (`Story_Outline_S2-4.md` Mechanik Punkt 3/6): **nur indirekt**, über
+  Gerüchte/Friedas Andeutungen — keine direkte Begegnung mit den Kindern in diesem Band. Er
+  verhält sich nach der Niederlage mit Ilse (S2-3) **vorsichtiger, nicht aggressiver**
+  (`Setup_Payoff_Tracker_S2-4.md` Abschnitt A korrigiert dieselbe Vorhersage aus
+  `S2-3/Setup_Payoff_Tracker_S2-3.md`, die noch „aggressiver" annahm). Beide Fäden berühren
+  sich, ohne dass Halder zur Hauptbedrohung dieses Bandes wird — das bleibt der neue,
+  unlösbare Fall.
 
 ### Frieda — Loyalität gerät ins Wanken
 
 - Nach S2-3 (ihr Vater weiß, dass die Kinder ihn kennen) verändert sich ihre Position.
-  **Konkreter Auslöser für ihr Wanken: Phase 2.** Möglicher Ansatz: Sie erfährt vom
-  gescheiterten Fall der Kinder (dem unlösbaren Geist) und muss zum ersten Mal
-  nebeneinanderhalten, dass sowohl Binden **als auch** Freilassen scheitern können — ihre
-  bisherige Gewissheit („Binden ist immer sicherer") bekommt einen Riss von unerwarteter
-  Seite. **Noch keine Entscheidung, keinen Kampf** — nur ein Wanken (Konzept, Abschnitt 6).
+  ✅ Auslöser festgelegt (K10–K11): Sie hört vom Gerücht des nicht glatt gelösten Falls und
+  kommt aus eigenem Antrieb, heimlich, um selbst zu sehen, bevor sie es glaubt. Danach ihr
+  erster echter Zweifel-Hinweis: Sie sei mit der Feuer-Geschichte aufgewachsen, habe sie
+  aber nie selbst geprüft (`Hinweisketten_Tracker.md` Kette 2). **Noch keine Entscheidung,
+  keinen Kampf** — nur ein Wanken, Payoff in S2-5.
 
 ### Der neue Geist — Marie, gebunden an eine unerreichbare Versöhnung
 
@@ -98,7 +110,12 @@ nie hoffnungslos wirken, auch wenn er der dunkelste der Staffel ist.
 - **Marie Falk** (Nachname in Phase 3 nachgetragen — in Phase 2 offengeblieben, hier
   geschlossen, um kein loses Ende in die Szenenplanung zu tragen; kein Konflikt mit
   bestehenden Namen der Reihe geprüft) — der neue, ungebundene Fall dieses Bandes (nicht
-  Halders Werk).
+  Halders Werk). ⚠️ **Geprüft (2026-09-23):** Der Nachname „Falk" steht bislang nur hier,
+  weder in `Story_Outline_S2-4.md` noch in `Detaillierte_Szenenplanung_S2-4.md` kommt er
+  vor — beide nennen sie durchgehend nur „Marie". Wahrscheinlich beabsichtigt (Nachname wie
+  bei Ilse/Grete nur Kontinuitäts-Buchhaltung, nie im Fließtext ausgesprochen), aber vor dem
+  Schreiben von K1 kurz bestätigen, damit er nicht versehentlich fehlt, falls er doch einmal
+  gebraucht wird (z. B. auf Silbers Karte, falls sie dort später vermerkt würde).
 - **Clara B. — 1889, Stadtpark** — Rückgriff auf `Serien_Kanon.md` Abschnitt 3, dort als
   einer der „nie einzeln erzählten" acht Karteneinträge geführt. **Erster echter Rückgriff
   der Staffel auf einen konkreten Staffel-1-Kartennamen** — Regel 3 beachten (Bonus für
@@ -130,25 +147,29 @@ nie hoffnungslos wirken, auch wenn er der dunkelste der Staffel ist.
 
 ---
 
-## ⚠️ ZU PRÜFENDE WIDERSPRÜCHE (vor/bei Kap. 1 entscheiden)
+## ⚠️ WIDERSPRÜCHE — alle sechs in Phase 2/3 aufgelöst (Stand 2026-09-23)
 
-1. **Wie kommt Marie zu den Kindern?** Vermutlich über den etablierten Ruf-Mechanismus
-   (`PLAN_Staffel2.md` Abschnitt 5, „die Fälle kommen zu ihnen" — ⚠️ trägt in älteren
-   S2-2-Dokumenten fälschlich die Bezeichnung „Regel 5"; es gibt keine so nummerierte Regel,
-   die vier Einstiegsregeln in Abschnitt 3 enden bei Regel 4) oder direkt, weil sie am
-   Stadtrand/in der Nähe
-   auftaucht — **Phase 2.**
-2. **Wie stellen die Kinder fest, dass Clara bereits befreit ist?** Muss aktiv erarbeitet
-   werden (Serien-Muster), nicht zufällig — vermutlich über Recherche + Abgleich mit dem,
-   was sie selbst über Band-5-Ereignisse wissen. **Phase 2.**
-3. **Wie weit geht Halders paralleler Fall in diesem Band?** Muss klar von Maries Fall
-   getrennt bleiben (Ausführungsrisiko #1: „bewusst NICHT Halders Werk" gilt für Maries
-   Fall) — sein eigener Fall darf nicht mit ihrem verschmelzen. **Phase 2.**
-4. **Friedas Wanken darf nicht zur Entscheidung eskalieren** — das ist S2-5 vorbehalten.
-   Nur ein Riss, keine Wende.
-5. **Content-Grenze:** Maries Verzweiflung darf intensiv, aber nie grotesk/graphisch
-   dargestellt werden — Dread durch Ohnmacht, nicht durch Horror-Bildsprache.
-6. **Zeitlicher Abstand zu S2-3:** noch offen, Phase 2.
+> Diese Liste stand bis 2026-09-23 unverändert auf „noch zu klären, Phase 2" — obwohl die
+> Antworten seit `Story_Outline_S2-4.md` (Phase 2, Mechanik-Abschnitt) bzw.
+> `Detaillierte_Szenenplanung_S2-4.md` (Phase 3) längst feststehen. Nachgetragen, damit
+> niemand beim Schreiben eine bereits entschiedene Frage für offen hält.
+
+1. **Wie kommt Marie zu den Kindern?** ✅ Gelöst: eine Zeugin (Spaziergängerin im Park)
+   hört seit mehreren Nächten ein Rufen und spricht die Kinder direkt an — reinste Form des
+   etablierten Ruf-Mechanismus (`Story_Outline_S2-4.md` Mechanik Punkt 1). Die „Regel 5"
+   existiert dabei nicht — die 4 Einstiegsregeln in `PLAN_Staffel2.md` Abschnitt 3 enden bei
+   Regel 4, die Ruf-Prämisse steht unnummeriert in Abschnitt 5 (verifiziert).
+2. **Wie stellen die Kinder fest, dass Clara bereits befreit ist?** ✅ Gelöst: aktive
+   Recherche auf Frau Silbers Karte — die Markierung „Clara B. — 1889" ist bereits
+   durchgestrichen, mit einem Randvermerk in ihrer eigenen Handschrift (Mechanik Punkt 4).
+3. **Wie weit geht Halders paralleler Fall in diesem Band?** ✅ Gelöst: off-page/am Rand,
+   nur über Gerüchte spürbar, nie mit Maries Fall verschmolzen (Mechanik Punkt 3/6).
+4. **Friedas Wanken darf nicht zur Entscheidung eskalieren.** ✅ Umgesetzt: K15 endet mit
+   „Ich weiß nicht mehr, was ich glauben soll" — ein Riss, keine Wende, S2-5 vorbehalten.
+5. **Content-Grenze:** ✅ Umgesetzt: Maries Verzweiflung wird über Blicke, Wiederholung
+   (sie ruft Claras Namen) und stille Momente gezeigt, nie grotesk (Mechanik Punkt 9).
+6. **Zeitlicher Abstand zu S2-3:** ✅ Gelöst: ~3–4 Wochen, S2-4 beginnt Anfang August —
+   der kürzeste Sprung der Staffel bisher (Mechanik Punkt 10).
 
 ---
 

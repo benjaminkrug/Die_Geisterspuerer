@@ -685,7 +685,9 @@ Der komplette Produktionsapparat aus Staffel 1 trägt 1:1 in Staffel 2:
 - **KDP-Metadaten:** Neue Serienseite + neue Beschreibungen analog
   `Dokumentation/KDP_Beschreibungen.md`. Neue Serie verknüpfen, aber im Klappentext
   auf Staffel 1 verweisen („Die komplette erste Staffel bereits erhältlich").
-- **Preise:** wie Staffel 1 (eBook 4,99 € / Taschenbuch ~10,99–11,99 €).
+- **Preise:** wie Staffel 1 (eBook 4,99 € / Taschenbuch 12,99 €, nur für Staffel 2 am
+  02.09.2026 angehoben — Band 1–5 bleiben bei 10,99 €; Begründung in `S2-2/KDP_S2-2.md`
+  Abschnitt „KDP-Metadaten").
 
 **Zwischen Band 5 und Staffel 2** (Wartefenster nutzen, kein Leerlauf): CYOA-
 Editionen Band 2–5, Sammelbände (1–3 / 4–5), Gravenstedt-Kurzgeschichten-Anthologie
@@ -809,6 +811,14 @@ Staffel. In S2-1 ist dieser Motor als sauberer Vierschritt angelegt (K1 Gerücht
 Stadt → K9 das Lügen geht von allein → K15 „Du bist dreizehn" → K16 sie fühlt sich
 deswegen nicht mehr schlecht). **Er läuft, aber er fordert noch nichts.**
 
+✅ **S2-2 geprüft und nachgebessert (2026-09-02):** Der erste Entwurf hatte hierfür nur die
+Mia-Absage in K2 — ein einzelner Textaustausch ohne Fortführung (Mia kommt danach in keinem
+der 14 folgenden Kapitel mehr vor). Nachgebessert an zwei Stellen: K2 zeigt jetzt echten
+Verzicht (Nora hatte sich auf den Nachmittag gefreut), K13 lässt sie bewusst zurückdenken
+und eine eigene Erkenntnis formulieren — sie fürchtet nicht die Absage selbst, sondern wie
+leicht ihr die nächste fallen wird. Details: `S2-2/Kontinuitaet_S2-2.md`, Abschnitt
+„NACHBESSERUNG: Noras Kosten-Entscheidung".
+
 **6. Das betroffene Kind gehört früher auf die Seite.** *(ebenfalls aus der
 Wirkungs-Prüfung von S2-1)*
 In S2-1 ist Jule, die Achtjährige, die nicht in ihrem Zimmer schlafen kann, das einzige
@@ -846,6 +856,17 @@ Mitte** einmal selbst sprechen lassen, nicht erst im letzten Drittel.
 Staffel 2 mindestens so wichtig wie für Staffel 1 — eher wichtiger, weil unsere eigenen
 Ausführungsrisiken (Abschnitt 14) genau die Art Frage sind, die diese Phase systematisch
 stellt.
+
+**⚠️ Lehre aus S2-4 (2026-09-24) — Phase 4 ist nicht nur das Erstschreiben:** Bei S2-4 lief
+zwischen Phase 4 und Phase 4b eine separate Wortzahl-Nachbesserungsrunde (Kapitel unter dem
+CLAUDE.md-Minimum wurden auf ~1200 W gebracht). Dabei wurde nur eine eigene, engere Prüfung
+gefahren (Wortzahl, Satzlänge, Dialoganteil, Schatten-Vorkommen) — **nicht** der volle
+Spannungs-Prüfplan inklusive „längster dialogfreier Block". Ergebnis: 6 von 16 Kapiteln
+lagen beim späteren Stimmen-Pass unbemerkt im Rot-Bereich dieser Kennzahl (siehe
+`Spannungs_Pruefplan.md`, Abschnitt „Lehre aus S2-4"). **Regel für S2-5 und alle folgenden
+Bände: Jede Runde, die Kapiteltext verändert oder verlängert — nicht nur Phase 4 selbst —
+schließt mit der vollständigen Teil-A-Messung aus dem Spannungs-Prüfplan ab, nicht mit einer
+eigenen, engeren Teilmenge davon.**
 
 ### Vier Abweichungen für Staffel 2 (2026-08-07)
 
@@ -930,7 +951,15 @@ Aktivierungs-Checkliste (Abschnitt 1), auf ausdrücklichen Nutzerwunsch.
 🎉 **S2-1 „Der Gast, der blieb" ist als Rohmanuskript vollständig: 16/16 Kapitel,
 16.615 Wörter.** Gesamtbilanz gegen Band 1 und Band 5: `S2-1/Kontinuitaet_S2-1.md`,
 Abschnitt „GESAMTBILANZ". ✅ **Phase 4b (Stimmen-Pass) ist abgeschlossen** — Ergebnis in
-`Dokumentation/Stimmen_Pruefplan.md` Abschnitt 11. **Nächster Schritt: Phase 5.**
+`Dokumentation/Stimmen_Pruefplan.md` Abschnitt 11.
+
+✅ **S2-1 ist live** (Bestätigung Nutzer, 2026-09-02) — Phase 5/6 und Veröffentlichung sind
+damit durchlaufen, dieser Tabellenstand war veraltet. ✅ **A3 (Leseprobe auf S2-2) nachgeholt**
+(`S2-1/Kontinuitaet_S2-1.md`, Abschnitt A3): 26 Absätze aus S2-2 K1, maschinell gegen den
+echten Text verifiziert, lokal in `Scripts/build_taschenbuch_docx_s2_1.py` eingebaut
+(`NEXT_BAND_AVAILABLE = False`, bis S2-2 kaufbar ist). **Re-Upload des aktualisierten
+Taschenbuchs auf KDP ist bewusst NICHT ausgeführt** — Autorenentscheidung, kein technischer
+Rest.
 
 ⚠️ **Vor dem Schreiben von Akt 3 beachten** (Befunde aus der Akt-2-Prüfung):
 1. **Muster-Wächter auf Beat-Ebene prüfen, nicht auf Typen-Namen.** K5/K6 hatten trotz
@@ -941,6 +970,42 @@ Abschnitt „GESAMTBILANZ". ✅ **Phase 4b (Stimmen-Pass) ist abgeschlossen** �
 3. **Kapitellängen-Vorgabe aus CLAUDE.md ist für diese Serie veraltet** (beschreibt Band 1
    mit Ø 1.499 W; Band 5 liegt bei Ø 939 W). Nicht künstlich auffüllen — Beleg in
    `S2-1/Kontinuitaet_S2-1.md`.
+
+**Stand S2-2 „Die Uhr, die rückwärts läuft":**
+
+| Akt | Kapitel | Status |
+|---|---|---|
+| Akt 1 — Die Marke | K1–K4 | ✅ geschrieben + 2. (gründlicherer) Wiederholungs-Durchgang |
+| Akt 2 — Das Ausmaß | K5–K8 | ✅ geschrieben + 2. Durchgang |
+| Akt 3 — Der Sieg und die Grenze | K9–K12 | ✅ geschrieben + 2. Durchgang |
+| Akt 4 — Was bleibt | K13–K16 | ✅ geschrieben + Ausbau-Durchgang |
+
+🎉 **S2-2 „Die Uhr, die rückwärts läuft" ist als Rohmanuskript vollständig: 16/16 Kapitel,
+13.298 Wörter** (nach Ausbau-Durchgang + Seitenzahl-Erweiterung, vorher 9.534). Immer noch
+kürzer als S2-1 (16.615 W, Ø 1.038/Kapitel) — S2-2 liegt jetzt bei Ø 833, rund 80 % davon.
+Details und Einzelbegründungen: `S2-2/Kontinuitaet_S2-2.md`, Abschnitt „AUSBAU-DURCHGANG",
+„AUSBAU-DURCHGANG ABGESCHLOSSEN" und „SEITENZAHL-ERWEITERUNG". **Kapitelübergreifender
+Gesamt-Grep, Logik-Prüfplan (Stichprobe), Stimmen-Pass (Phase 4b) und Kompilieren sind
+abgeschlossen** (dokumentiert in `S2-2/Kontinuitaet_S2-2.md` und `Dokumentation/
+Stimmen_Pruefplan.md` Abschnitt 12). Gesamtmanuskript liegt vor:
+`Staffel2/S2-2/Manuskript/Manuskript_S2-2_Komplett.md` (13.298 W nach der
+Seitenzahl-Erweiterung vom 02.09.2026), gebaut mit `Scripts/build_manuskript_komplett_s2_2.py`.
+✅ **Taschenbuch-Build fertig:** `Scripts/build_taschenbuch_docx_s2_2.py`, DOCX+PDF erfolgreich
+gebaut und am fertigen Artefakt geprüft (`S2-2/Kontinuitaet_S2-2.md`, Abschnitt
+„TASCHENBUCH-BUILD") — echte Seitenzahl: **82** (ursprünglich 78, unter KDPs harter
+79-Seiten-Grenze für bedruckten Buchrücken — deshalb erweitert).
+✅ **Cover-Konzept vollständig, inkl. Rückseite und fertig gebautem Vollcover:**
+`S2-2/Cover/COVER_S2-2.md` — Motiv aus K4/K6 abgeleitet, vollständiger Vorder- UND
+Rückseiten-Prompt (nach visuellem Abgleich mit dem echten S2-1-Cover korrigiert: unmögliche
+„Uhr bewegt sich rückwärts"-Anweisung behoben, Farbverlust-Schutz gegen Über-Verdunklung
+ergänzt, Grete-Stil vom Autor bestätigt). Bilder vom Autor bereitgestellt und mit
+`Scripts/build_cover_s2_2.py --seiten 82 --final --unscharf-erlauben` zum KDP-Vollcover
+zusammengebaut; Buchrücken druckt jetzt Text (Bandnummer + Titel), aber klein (2,9–3,4 pt).
+✅ **`KDP_S2-2.md` geschrieben:** Klappentext, Metadaten, Keywords, Rückseitentext — jedes
+Zitat gegen das Manuskript geprüft.
+**Noch offen: Bild-Auflösung der beiden Cover-Bilder liegt unter dem 300-dpi-Druckstandard
+(1024×1536 px statt mind. 1838×2775 px — Hochskalieren bisher nicht erreicht, siehe
+`COVER_S2-2.md` Abschnitt 6), Widmung/Epigraph-Freigabe durch den Autor, ASIN/KDP-Eintrag.**
 
 ---
 

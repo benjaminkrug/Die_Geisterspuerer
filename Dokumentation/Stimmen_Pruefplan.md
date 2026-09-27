@@ -403,3 +403,286 @@ ein Muster). 80 % der Benchmark-Dichte an echten Stellen ist besser als 100 % an
 4. **Der n-Gramm-Scan (Falle 11) gehört wirklich vor den Marker-Pass.** Er fand in S2-1 neun
    wiederholte Wendungen, die kein Marker dieses Plans gemeldet hätte — darunter eine achtmal
    verwendete Geste.
+
+---
+
+## 12. S2-2 — dritter realer Pass: ABGESCHLOSSEN 2026-09-02
+
+Buch: `Staffel2/S2-2/` „Die Uhr, die rückwärts läuft", 16 Kapitel, 12.389 W (nach der
+Ausbau-Runde, vorher 9.534 W). n-Gramm-Scan (Falle 11) war bereits **vorher** als eigener
+Schritt gelaufen (siehe `Kontinuitaet_S2-2.md`, Abschnitt „FINALER KAPITELÜBERGREIFENDER
+GREP") — genau die im Plan vorgeschriebene Reihenfolge, 11 Dopplungen dort behoben, bevor
+dieser Marker-Pass begann.
+
+### Baseline vs. Ergebnis
+
+| Marker | Budget | Band 1 | **S2-2 vorher** | **S2-2 nachher** |
+|---|---|---|---|---|
+| „Und"-Satzanfang (Erzähler) /1000 W | 2,3 (bis 4,0) | 2,26 | **1,05** 🔴 | **1,78** ✅ |
+| „Und dann" /1000 W | 0,5 (bis 1,0) | 0,41 | 0,24 🟡 | **0,65** ✅ |
+| „Zum ersten Mal" /1000 W | 0,4 (bis 0,8) | 0,33 | **0,89** 🔴 | **0,73** ✅ |
+| Dramatische Kurz-Absätze | 7–8 % (bis 9) | 7,7 % | 2,2 % 🔴 | 1,6 % 🔴 (unverändert gelassen, s. u.) |
+| „Nora begriff/verstand/merkte" | ≤ 2 | — | 1 (Negation, kein Formel-Treffer) ✅ | 1 ✅ |
+| Gedankenstrich /1000 W | ≤ 5,5 | 0,04 | 0,24 ✅ | 0,24 ✅ |
+| „Und"-Satzanfang im Dialog | TABU | — | 31 | **31 unverändert** ✅ |
+
+### Was gemacht wurde
+
+**„Und"-Erzähler (1,05 → 1,78), Wieder-Aufbau nach S2-1-Vorbild, nicht Kürzen:** 9 neue
+Instanzen, gemischt über zwei Techniken (Regel A — Varianz-Pflicht):
+- 5× „Dann X." → „Und dann X." an bestehenden kurzen, dramatischen Standalone-Sätzen
+  (K1, K3, K6, K8, K12), bewusst nur an Stellen **ohne** unmittelbaren zweiten
+  „Und"-Nachbarsatz (in K6 stand direkt daneben bereits ein originales „Und sie sah zu ihnen
+  herüber" — dort **nicht** zusätzlich verdoppelt, um kein Cluster zu bauen).
+- 4× neuer „Und"-Präfix vor bestehenden kurzen Sätzen ohne vorheriges „Dann" (K5, K9, K10,
+  K12), an Szenenanfängen bzw. unauffälligen Nebenbeats, nicht an Kapitel-Grenzen (Tabu-Liste
+  Punkt 5 geprüft — keiner der 9 Fixes betrifft einen ersten oder letzten Kapitelsatz).
+
+**Bewusst NICHT auf volle Band-1-Dichte (2,26) gebracht**, sondern auf 1,78 (≈ 79 % —
+praktisch identisch mit S2-1s eigenem Zielwert 1,81/80 %). Für die letzten Instanzen gab es
+keine weiteren tragenden Stellen, ohne bereits editierte Nachbarsätze zu häufen — Einfügen um
+der Zahl willen wäre Falle 2 gewesen.
+
+**„Zum ersten Mal" (0,89 → 0,73):** K7 hatte davon **drei** Instanzen in einem einzigen
+Kapitel — die am wenigsten tragende ("als würde sie die Regale zum ersten Mal wahrnehmen",
+ein Nebenbeat) umformuliert zu "mit einem Blick, der nichts wiederzuerkennen schien". Eine
+weitere, unwesentliche Instanz in K12 ("vor Stunden zum ersten Mal betreten") ebenfalls
+entfernt. Die verbleibenden 9 — darunter die eine **Dialog**-Instanz in K10 ("Zum ersten Mal,
+seit wir hier reingegangen sind.", Tabu, nicht angefasst) — tragen echte Charakterbeats
+(Schattens erste Entspannung, Gretes zurückkehrende Erinnerung, Friedas härtere Stimme) und
+bleiben stehen.
+
+**Kurz-Absätze bewusst NICHT hochgezogen** (2,2 % → sogar 1,6 %, als Nebeneffekt der
+„Und dann"-Fixes: einige vormals ≤4-Wort-Sätze wie „Dann sahen sie es." wurden durch das
+Präfix 5 Wörter lang und fielen aus der Kurz-Absatz-Zählung). Das ist dieselbe Entscheidung
+wie beim S2-1-Pass: Weiteres Verschmelzen von Fließtext zu Kurz-Absätzen wäre Stufe-5-Umbau
+(Minimalregel) für einen Marker, der beim S2-1-Pass ebenfalls unter Zielwert akzeptiert wurde.
+**Notiert als bekannter, bewusst nicht geschlossener Abstand — nicht übersehen.**
+
+### Regel-B- und Regel-E-Kontrolle
+
+- Alle 9 neuen „Und"/„Und dann"-Sätze sind Umformulierungen bestehender kurzer Sätze,
+  keine neuen inhaltlichen Aussagen — kein Wiederholungsrisiko durch neuen Inhalt.
+- Sätze > 18 W: keine echten neuen Treffer (3 Messartefakte durch Sternchen-Zitate/Notizen,
+  gegengelesen, keine echten langen Sätze).
+- Dialoganteil: 27,0 % unverändert (keine Dialogzeile angefasst — Tabu-Liste eingehalten).
+- Tabu-Liste eingehalten: kein Dialog, kein erster/letzter Kapitelsatz, keine
+  Cliffhanger-Schlusszeile angefasst.
+- `Setup_Payoff_Tracker_S2-2.md` und `Cliffhanger_Register_S2-2.md` nicht berührt — keiner
+  der Fixes lag an einem Setup/Payoff- oder Cliffhanger-Anker.
+
+### Was dieser Pass bestätigt hat
+
+Derselbe Rebuild-statt-Kürzen-Befund wie bei S2-1: Ein zu **niedriger** „Und"-Erzähler-Wert
+ist ebenso ein 🔴-Befund wie ein zu hoher — nur die Fixrichtung ist umgekehrt. Beide S2-Bücher
+sind jetzt auf denselben Zielkorridor (~1,8/1000 W) eingeschwungen, was für die Konsistenz
+der Staffel-Stimme spricht.
+
+---
+
+## 13. S2-3 — vierter realer Pass: ABGESCHLOSSEN 2026-09-20
+
+Buch: `Staffel2/S2-3/` „Die Frau, die niemand gehen ließ", 16 Kapitel, 16.969 W.
+n-Gramm-Scan (Falle 11) diesmal **als eigener erster Schritt** durchgeführt (4- und
+5-Wort-Folgen, ≥3 Treffer im Buch) — wie in Abschnitt 11 gelernt, bevor der Marker-Pass begann.
+
+### n-Gramm-Scan: was gefunden und was bewusst stehengelassen wurde
+
+Gefunden u. a.: „Schritte auf der Treppe" (4×), „die Hand auf den [Objekt]" (5×, verschiedene
+Objekte), „wurde für einen Moment [X]" (3×), „wie jemand, der eine [X]" (4×, davon 3× in
+einem einzigen K12-Absatz), „mehr zu sich selbst" (4× wörtlich + 1× Variante „mehr für sich
+als für Theo" in K08 — vom n-Gramm-Scan verfehlt, weil abweichend formuliert, erst beim
+Gegenlesen gefunden), „Nora spürte, wie ihr [X]" (3×).
+
+**Bewusst NICHT angefasst** (Falle 6/Falle 3 — Ohr vor Zahl):
+- „Schritte auf der Treppe" — trägt die Eskalation der Halder-Konfrontation über K13–K15
+  (das Nähertreten als Bedrohungs-Uhr). Ein Leitmotiv, kein Formel-Fehler.
+- Die drei „wie jemand, der eine …"-Instanzen in K12 (Z. 59–61) — bewusst gesetzte Anapher
+  (Rechnung nachprüfen → Ausrede üben → Wahrheit wiederholen), eine Drei-Schritt-Eskalation,
+  kein maschinelles Muster. Die vierte, entfernte Instanz in K10 ist ein gewöhnlicher
+  Vergleichssatz, keine Häufung.
+- „Die Hand auf den/die [Objekt]" — fünf verschiedene Objekte (Kopf, Nacken, Rücken,
+  Türrahmen, Türgriff), zwei davon die vorgeschriebene Schatten-Beruhigungsgeste, zwei Teil
+  des Tür-Schwellen-Motivs (K13/K14, thematisch tragend). Keine Wiederholung derselben Geste.
+- „Wurde für einen Moment [X]" — zwei der drei Treffer (K13, K14) sind Teil der etablierten
+  Erscheinungs-Grammatik für Ilse (schärfer/durchsichtiger je nach emotionalem Zustand),
+  dokumentiert seit K11. Die dritte (K09, Fensterlicht) ist ein anderes Subjekt, keine Häufung.
+
+**Behoben** (4 von 5 „mehr zu sich selbst"-Varianten, Regel A — Varianz, nicht Ausrottung):
+- K01 („So", sagte er zufrieden) → Umbauen: Adressaten-Formel gegen eine Lautstärke-Angabe
+  getauscht („Kaum lauter als ein Atemzug.").
+- K08 (Nora nickte) → Streichen: Formel ersatzlos gestrichen, physische Geste bleibt
+  („nickte, einmal, fest.").
+- K12 (Nora über Halders Lüge) → Umbauen: Adressaten-Formel gegen eine Blickrichtungs-Geste
+  getauscht (Blick auf die Tasse statt auf Theo) — dieselbe Aussage, jetzt körperlich gezeigt.
+- **Bewusst behalten:** K13 (Ilse, „Dreißig Jahre") und K16 (Nora, „Jetzt weiß er, dass wir es
+  wissen" — nahe am Setup/Payoff-Tracker-Eintrag #12, dem Staffel-Hook) — beide tragend genug,
+  um nicht angetastet zu werden. Damit bleiben 2 von 5, nicht 0 von 5 (Regel A).
+
+**Behoben** (1 von 3 „Nora spürte, wie ihr [X]"): K06 → Streichen, direkte physische Aussage
+ohne Wahrnehmungsfilter („Ihre Hand am Fenstergriff wurde kalt."). K09 und K05 bewusst
+behalten (unterschiedliche Körperstellen/Auslöser, keine Häufung am selben Ort im Buch).
+
+### Marker-Pass: Baseline vs. Ergebnis
+
+| Marker | Budget | Band 1 | **S2-3 vorher** | **S2-3 nachher** |
+|---|---|---|---|---|
+| „Und"-Satzanfang (Erzähler) /1000 W | 2,3 (bis 4,0) | 2,26 | **1,41** 🔴 | **1,83** ✅ |
+| „Und"-Satzanfang im Dialog | TABU | — | 35 | **35 unverändert** ✅ |
+| „Und dann" /1000 W | 0,5 (bis 1,0) | 0,41 | 0,24 🟡 | **0,65** ✅ |
+| „Zum ersten Mal" /1000 W | 0,4 (bis 0,8) | 0,33 | 0,59 🟡 | 0,59 🟡 unverändert |
+| Dramatische Kurz-Absätze | 7–8 % (bis 9) | 7,7 % | **3,8 %** 🔴 | 3,8 % unverändert |
+| „Nora begriff/verstand/merkte" | ≤ 2 | — | **4** 🔴 | **2** ✅ |
+| Gedankenstrich /1000 W | ≤ 5,5 | 0,04 | 1,53 ✅ | 1,53 unverändert |
+
+**„Und"-Erzähler (1,41 → 1,83), Wieder-Aufbau nach S2-1/S2-2-Vorbild:** 7 neue Instanzen,
+verteilt über 6 Kapitel (K01, K03, K04, K06, K08, K09, K15 — je eine, keine Häufung im selben
+Kapitel), alle als „Dann X." → „Und dann X." an bestehenden kurzen Sätzen ohne Dialog. Vier
+weitere „Dann …"-Kandidaten in K09 bewusst nicht verwendet (Cluster-Gefahr: vier Treffer im
+selben Kapitel hätten dort eine neue, auffällige Häufung erzeugt — nur der stärkste Beat
+wurde genutzt). Ein Kandidat in K09 („Dann kam eine lange Gerade …") schied ohnehin aus: der
+Satz hat bereits 20 Wörter, ein „Und"-Präfix hätte einen bestehenden Regelverstoß verschärft.
+**Bewusst NICHT auf volle Band-1-Dichte (2,26) gebracht**, aus demselben Grund wie bei S2-1/
+S2-2: für die letzten Instanzen gäbe es keine weiteren tragenden Stellen mehr.
+
+**„Nora begriff/verstand/merkte" (4 → 2), Regel D — auflösen, nicht ersetzen:** Von 4
+Roh-Treffern waren nur 2 echte Erkenntnis-Formeln (K02: „Nora merkte erst, wie angespannt
+sie … gewesen war"; K08: „Nora merkte, dass sie das Ganze bisher wie ein Rätsel behandelt
+hatte") — beide in bereits vorhandene körperliche Beats aufgelöst, keine Verb-Synonyme
+eingesetzt. Die anderen 2 Treffer (K05, K06) sind Falle-9-Fehlalarme: „Nora merkte, dass sie
+die Fensterbank umklammerte" beschreibt bereits eine Körperhandlung, keine abstrakte
+Erkenntnis, und „Nora merkte sich das" ist die reflexive Bedeutung (sich etwas einprägen),
+keine Einsichts-Formel. Der Regex fängt beide fälschlich, das Ohr entscheidet richtig.
+
+**„Zum ersten Mal" (0,59) bewusst nicht gesenkt:** liegt innerhalb der Toleranz (bis 0,8).
+Beim Gegenlesen aller 10 Treffer trug jeder einen echten Charakterbeat oder eine echte
+Erst-Erfahrung; kein reiner Füller gefunden. Absenken auf Band-1-Dichte (0,33) hätte an
+mindestens einer Stelle einen echten Beat gestrichen — Falle 1 (Über-Korrektur).
+
+**Kurz-Absätze (3,8 %) bewusst nicht angehoben**, aus demselben Grund wie bei S2-1/S2-2:
+Fließtext zu Kurz-Absätzen hochzuziehen ist ein Stufe-5-Umbau für einen Marker, der schon
+in beiden Vorgängerbänden unter Zielwert akzeptiert wurde. Notiert als bekannter, bewusst
+nicht geschlossener Abstand.
+
+### Regel-B- und Regel-E-Kontrolle
+
+- **Sätze > 18 W (Spannungs-Prüfplan): unverändert bei 128**, alle in K01–K10 (den vor dieser
+  Session entstandenen Kapiteln), **0 in K11–K16**. Keiner der 9 Stimmen-Pass-Fixes hat einen
+  neuen Verstoß erzeugt oder einen bestehenden verschärft (das „Dann kam eine lange Gerade …"-
+  Kandidat in K09 wurde gerade deshalb verworfen, siehe oben).
+  ⚠️ **Eigenständiger, größerer Befund außerhalb dieses Passes:** 128 Sätze über 18 Wörtern,
+  ausschließlich in K01–K10 — diese Kapitel wurden nie mit der in Abschnitt 5/dem
+  Spannungs-Prüfplan festgelegten Methode satzweise geprüft. K11–K16 (diese Session) sind bei
+  0. Das ist ein Befund für den **Spannungs-Prüfplan**, nicht für diesen Pass — hier nur
+  dokumentiert, weil er beim Regel-B-Gegencheck auffiel.
+- Dialoganteil: keine Dialogzeile angefasst — unverändert. Tabu-Liste eingehalten (kein
+  Dialog, kein erster/letzter Kapitelsatz, keine Cliffhanger-Schlusszeile berührt — alle
+  9 Fixes liegen mitten im Kapitel, gegen `Cliffhanger_Register_S2-3.md` geprüft).
+- `Setup_Payoff_Tracker_S2-3.md`: keiner der Fixes verändert Inhalt an einem Setup/Payoff-
+  Anker (K01-Brandnarbe-Reveal unangetastet, nur der Vorsatz davor bekam ein „Und"; K16-Hook
+  bewusst nicht angefasst, siehe oben).
+
+### Was dieser Pass bestätigt und neu gelernt hat
+
+- Der „zu niedrig statt zu hoch"-Befund beim „Und"-Erzähler wiederholt sich zum dritten Mal
+  (S2-1, S2-2, jetzt S2-3) — das deutet auf eine systematische Tendenz beim Schreiben der
+  S2-Bände hin, nicht auf einen Einzelfall. Für S2-4/S2-5 lohnt es, „Und"-Satzanfänge schon
+  beim Schreiben bewusster zu setzen, statt sie im Nachhinein wieder aufzubauen.
+  ⚠️ **Der n-Gramm-Scan fängt keine Varianten derselben Formel** (Falle 11 bestätigt sich
+  weiter): „mehr zu sich selbst" wurde nur wörtlich gefunden, die inhaltlich identische
+  Variante „mehr für sich als für Theo" nicht. Erst das Gegenlesen der Umgebung eines
+  gefundenen Treffers (hier: zwei Zeilen neben der K08-Erkenntnis-Formel) deckte sie auf.
+  Für künftige Pässe: nach dem n-Gramm-Scan die unmittelbare Umgebung jedes Treffers auf
+  Sinn-Varianten mitlesen, nicht nur den exakten Wortlaut weitersuchen.
+
+---
+
+## 14. S2-4 — fünfter realer Pass: ABGESCHLOSSEN 2026-09-24
+
+Buch: `Staffel2/S2-4/` „Der Park, der nicht vergisst", 16 Kapitel, 18.369 W.
+n-Gramm-Scan (Falle 11) als eigener erster Schritt durchgeführt, 5-Gramm-Scan über alle
+16 Kapitel gemeinsam.
+
+### n-Gramm-Scan: gefunden und behoben
+
+- **„[fühlte sich] anders an als noch vor einer Minute"** — K03 und K05, fast wortgleich,
+  zwei Kapitel auseinander. K05 umformuliert zu „Es hatte auf einmal ein völlig anderes
+  Gewicht." (Die dritte, unverwandte Fundstelle in K12 ist eine Verneinung mit
+  entgegengesetzter Bedeutung — keine Häufung, nicht angefasst.)
+- **„Theo setzte sich neben sie"** — K05, K08, K12, dreimal als Szenen-Einstieg. K12
+  umformuliert zu „Theo ließ sich wortlos neben sie sinken." (Niedrige Priorität, plausible
+  wiederkehrende Handlung — K05/K08 bewusst belassen, keine Häufung mehr.)
+
+**Bewusst nicht angefasst** (Falle 6 — Ohr vor Zahl, bereits vor diesem Pass identifiziert
+und dokumentiert): „Zum ersten Mal, seit sie diese Arbeit machten" (K07/K08/K14, bewusste
+Steigerungsfigur über drei Kapitel), „Nein, sagte Nora. Ist es nicht." (K07/K13, bewusstes
+Echo zwischen Theo- und Marie-Szene), „am anderen Ende der Stadt, bei den Lagerhallen"
+(K08/K16, dieselbe Tatsache wird zweimal berichtet — korrekt wortgleich, kein Stilfehler).
+
+### Marker-Pass: Baseline vs. Ergebnis
+
+| Marker | Budget | Band 1 | **S2-4 vorher** | **S2-4 nachher** |
+|---|---|---|---|---|
+| „Und"-Satzanfang (Erzähler) /1000 W | 2,3 (bis 4,0) | 2,26 | **0,71** 🔴 | **1,69** ✅ |
+| „Und dann" /1000 W | 0,5 (bis 1,0) | 0,41 | 0,16 🔴 | **0,44** ✅ |
+| „Zum ersten Mal" /1000 W | 0,4 (bis 0,8) | 0,33 | 0,76 🟡 | 0,76 🟡 unverändert |
+| Dramatische Kurz-Absätze | 7–8 % (bis 9) | 7,7 % | **1,5 %** 🔴 | 1,5 % 🔴 unverändert (s. u.) |
+| „Nora begriff/verstand/merkte" | ≤ 2 | — | **2** ✅ | 2 ✅ |
+| „das Schlimmste" | ≤ 2 | — | **1** ✅ | 1 ✅ |
+| Gedankenstrich /1000 W | ≤ 5,5 | 0,04 | 0,05 ✅ | 0,05 unverändert |
+
+**„Und"-Erzähler (0,71 → 1,69), Wieder-Aufbau nach S2-1/S2-2/S2-3-Vorbild:** Vierter Band
+in Folge mit einem zu **niedrigen** statt zu hohen Ausgangswert — die in Abschnitt 13
+vermutete systematische Tendenz der Staffel-2-Bände bestätigt sich zum vierten Mal. 18 neue
+Instanzen, verteilt über **alle 16 Kapitel** (je 1–2, keine Häufung), gemischte Technik:
+9× „Dann X." → „Und dann X." an bestehenden kurzen Sätzen ohne Dialog, 9× neuer
+„Und"-Präfix vor bestehenden kurzen Sätzen ohne vorheriges „Dann". Reihenfolge: erst die
+sechs Kapitel ohne jeden Treffer (K02, K08–K10, K14–K15, je 2 neue), danach die sechs
+Kapitel mit nur einem Treffer (K01, K03, K05, K07, K11, K16, je 1 neu) — damit hat jedes
+der 16 Kapitel jetzt mindestens einen narrativen „Und"-Satzanfang, keines mehr als 2 neue.
+**Bewusst NICHT auf volle Band-1-Dichte (2,26) gebracht**, aus demselben Grund wie bei den
+drei Vorgängerbänden: für die letzten Instanzen gäbe es keine weiteren tragenden Stellen
+mehr, ohne bereits bearbeitete Nachbarsätze zu häufen.
+
+**„Und dann" wuchs als Teilmenge automatisch mit** (0,16 → 0,44), liegt jetzt sogar leicht
+über Band-1-Dichte — unproblematisch, da klar innerhalb der Toleranz (bis 1,0).
+
+**„Zum ersten Mal" (0,76) bewusst nicht gesenkt:** liegt innerhalb der Toleranz (bis 0,8),
+auch wenn am oberen Rand. Die 14 Treffer wurden beim vorangegangenen Analyse-Durchgang
+bereits einzeln geprüft (siehe Konversation vom selben Tag) — drei davon bilden die
+bewusste „Zum ersten Mal, seit sie diese Arbeit machten"-Eskalation über K07/K08/K14, der
+Rest trägt echte Charakterbeats (Schattens erste Ruhe, Friedas offenste Frage). Kein reiner
+Füller gefunden, Absenken hätte einen Beat gestrichen — Falle 1 vermieden.
+
+**Kurz-Absätze (1,5 %) bewusst nicht angehoben, obwohl der niedrigste Wert aller fünf
+gemessenen Bände:** Aus demselben Grund wie bei S2-1/S2-2/S2-3 — Fließtext gezielt in
+Ein-Zeilen-Absätze umzubauen ist Stufe-5-Umbau (Regel C) und hätte bei einem Ziel von
++90 Prozentpunkten Anteilsdifferenz deutlich mehr Textstellen angefasst als der gesamte
+„Und"-Wiederaufbau zusammen — ein Risiko, das in keinem der drei Vorgängerbände eingegangen
+wurde, obwohl dort dieselbe Lücke bestand (S2-2: 1,6 %, S2-3: 3,8 %, beide unverändert
+gelassen). **Notiert als bekannter, bewusst nicht geschlossener Abstand — nicht übersehen.**
+Nebeneffekt der „Und dann"-Fixes: einige vormals ≤4-Wort-Sätze wurden durch das Präfix
+5 Wörter lang und fielen aus der Kurz-Absatz-Zählung (1,8 % → 1,5 %) — derselbe
+Messeffekt wie beim S2-2-Pass.
+
+### Regel-B- und Regel-E-Kontrolle
+
+- Sätze > 18 W: **3 → 3**, alle drei verifizierte Messartefakte (Anführungszeichen-/
+  Sternchen-Grenzen), keine echten neuen Verstöße durch die 18 Fixes.
+- Gesamtwortzahl: 18.352 → **18.369** (+17 W, ausschließlich die eingefügten „Und"/
+  „Und dann"-Präfixe — keine inhaltliche Ergänzung).
+- Dialoganteil: unverändert (keine Dialogzeile angefasst — Tabu-Liste eingehalten).
+- **Alle 18 Fixes liegen mitten im Kapitel** — kein erster/letzter Kapitelsatz und keine
+  der 16 Cliffhanger-Schlusszeilen aus `Cliffhanger_Register_S2-4.md` berührt (K13s
+  „Und Marie hörte auf zu rufen." ist die einzige bereits vorher bestehende „Und"-Cliffhanger-
+  zeile im Buch und wurde nicht angefasst — Tabu-Liste Punkt 1).
+- `Setup_Payoff_Tracker_S2-4.md`: keiner der Fixes verändert Inhalt an einem Setup/Payoff-
+  Anker — jede Änderung fügt nur ein Eröffnungswort hinzu, keine neue oder entfernte Aussage.
+
+### Was dieser Pass bestätigt hat
+
+Der „zu niedrig statt zu hoch"-Befund beim „Und"-Erzähler wiederholt sich zum **vierten**
+Mal in Folge (S2-1, S2-2, S2-3, jetzt S2-4) — das ist kein Einzelfall mehr, sondern ein
+stabiles Merkmal der eigenen Schreibweise in dieser Staffel. Für S2-5 gilt dieselbe
+Empfehlung wie am Ende von Abschnitt 13: „Und"-Satzanfänge beim Schreiben selbst bewusster
+setzen, dann fällt der nachträgliche Wiederaufbau kleiner aus.

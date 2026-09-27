@@ -432,9 +432,15 @@ sondern nur die Aussage: Was Muster finden können, ist gefunden.
    behoben — aber bei Band 6 vermeiden.
 6. **Der Beruf der Mutter ist gesetzt: Krankenhaus, Schichtdienst.** Nicht mehr frei wählbar —
    drei Bände belegen ihn, und Band 5 baut Handlung darauf. Siehe Mutter-Blatt in Abschnitt 3.
-7. **Die acht offenen Markierungen.** Von zwölf sind vier durchgestrichen. **Acht Geister sind
-   nie erzählt worden** — das ist der größte Vorrat für Staffel 2, und er ist im Kanon gedeckt
-   statt erfunden.
+7. **Die acht offenen Markierungen.** Von zwölf sind vier durchgestrichen (Stand Ende Band 5).
+   Acht Geister sind nie erzählt worden. ⚠️ **Überholt (2026-09-23):** Als „größter Vorrat für
+   Staffel 2" gedacht, aber Staffel 2 zieht ihre eigenen Geister tatsächlich über den
+   Leuchtturm-Effekt an (`Staffel2/PLAN_Staffel2.md` Abschnitt 6/8) — neue, von außerhalb
+   angezogene Tote, nicht die alten acht Karteneinträge. `S2-4/Story_Outline_S2-4.md`
+   (Mechanik Punkt 4) löst diese acht stattdessen rückwirkend **alle auf einmal in Band 5s
+   eigenem Finale** auf (Clara B. eine davon) — konsistent mit „befreite Geister kehren
+   nicht zurück", aber damit ist der hier beschriebene Vorrat für jeden künftigen Band
+   verbraucht, nicht mehr verfügbar.
 8. **Der Graven-Faden ruhte in Band 2 komplett** (kein einziger Bezug), lief in Band 3 unter
    *„der Erste"* und *„der rote Kreis"* weiter. Kein Fehler — aber die Lehre für Staffel 2:
    **ein Band Pause ist die Obergrenze**, wenn ein Serienrätsel am Leben bleiben soll.
