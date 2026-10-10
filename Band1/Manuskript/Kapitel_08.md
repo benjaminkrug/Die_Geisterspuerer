@@ -102,7 +102,9 @@ Hinter ihnen knallte die Flurtür zu.
 
 Der Schlag war so laut, dass Nora zusammenzuckte. Theo schrie auf. Schatten sprang auf die Beine und knurrte. Einmal. Kurz. Scharf.
 
-Nora wirbelte herum. Die Tür zum Flur war geschlossen. Sie war offen gewesen. Die ganze Zeit. Kein Luftzug. Kein offenes Fenster.
+Nora wirbelte herum. Ihr erster Gedanke war Mama. Aber hinter der Schlafzimmertür blieb es still. Mama schlief, wie sie seit dem Umzug schlief. Wie ein Stein.
+
+Die Tür zum Flur war geschlossen. Sie war offen gewesen. Die ganze Zeit. Kein Luftzug. Kein offenes Fenster.
 
 „Das --“, fing Theo an. Seine Stimme war dünn.
 

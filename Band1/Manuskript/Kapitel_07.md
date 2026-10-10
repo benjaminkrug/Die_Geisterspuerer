@@ -4,7 +4,7 @@ Stille.
 
 Das Summen der Neonröhre über ihnen. Das leise Klicken des Mikrofiche-Geräts.
 
-„Nora.“ Theos Stimme zitterte. „Ein Mädchen ist in unserer Wohnung gestorben. Vor fünfzig Jahren. Ein Mädchen, das genauso alt war wie du.“
+„Nora.“ Theos Stimme zitterte. „Ein Mädchen hat in unserem Haus gewohnt. Vor fünfzig Jahren. Und ist gestorben. Genauso alt wie du.“
 
 Noras Kehle wurde eng. Eine Kälte breitete sich in ihrer Brust aus, die nichts mit der Klimaanlage der Bibliothek zu tun hatte. Zwölf Jahre alt. Kirchgasse 14. Sie sah das Mädchen vor sich. In der Küche, in der Nora jeden Morgen Müsli aß. Im Flur, durch den Nora jeden Tag lief. Im Zimmer, in dem Nora schlief.
 
@@ -12,11 +12,11 @@ Noras Kehle wurde eng. Eine Kälte breitete sich in ihrer Brust aus, die nichts 
 
 „Wir wissen das nicht“, sagte Nora. Aber ihre Stimme hatte keinen Widerstand mehr. Die Worte klangen hohl.
 
-„Doch.“ Theo sah sie an. Keine Witze. Kein Sarkasmus. Seine Augen waren dunkel und ernst. „Sie ist dort gestorben. Und sie ist immer noch da.“
+„Doch.“ Theo sah sie an. Keine Witze. Kein Sarkasmus. Seine Augen waren dunkel und ernst. „Sie hat da gewohnt. Und sie ist immer noch da.“
 
 Nora starrte auf den Bildschirm. Sechs Zeilen. Ein ganzes Leben, zusammengefasst in sechs Zeilen. Und dann vergessen. Fünfzig Jahre lang.
 
-Etwas Schweres legte sich auf Noras Brust. Ein Mädchen hatte hier gelebt und gesagt, dass etwas nicht stimmt. Und niemand hatte ihr zugehört. Der Gedanke ließ sie nicht los, auch wenn sie noch nicht wusste, warum.
+Etwas Schweres legte sich auf Noras Schultern. Ein Mädchen hatte in ihrem Haus gelebt und gesagt, dass etwas nicht stimmt. Und niemand hatte ihr zugehört. Der Gedanke ließ sie nicht los, auch wenn sie noch nicht wusste, warum.
 
 „Wir müssen nach Hause“, sagte sie.
 
@@ -52,7 +52,7 @@ Schatten starrte dorthin. Reglos. Sein Fell sträubte sich am Nacken.
 
 Der Hund knurrte. Leise. Tief. Dann schüttelte er sich, als wollte er etwas abwerfen. Sein Fell legte sich wieder glatt. Er wandte den Blick vom Friedhof ab und schaute Nora an.
 
-Nora spürte eine Kälte in ihrer Brust. Kurz. Wie ein Eiswürfel, der schmolz.
+Nora fröstelte. Kurz. Wie ein Eiswürfel im Nacken.
 
 Sie band Schatten vom Fahrradständer los.
 
@@ -86,9 +86,9 @@ Nora spürte Theos Blick in ihrem Rücken. Sie schluckte. „Kennt die Nachbarin
 
 Ihre Mutter schüttelte den Kopf. „Kaum. Die war wohl immer allein. Mit einem Hund.“ Sie sortierte einen Brief auf den Stapel. „Komisch, oder?“
 
-Sie schaute auf die Uhr und griff nach ihrer Tasche. „Ich muss los. Spätschicht. Essen steht im Kühlschrank.“
+Dann gähnte sie. „Ich bin seit fünf auf den Beinen. Ich geh heute früh schlafen. Essen steht im Kühlschrank.“
 
-Die Wohnungstür fiel hinter ihr ins Schloss.
+Die Schlafzimmertür klickte hinter ihr zu.
 
 Schatten lief voraus. Durch den Flur, ins Wohnzimmer, in die Küche. Er schnüffelte an den Ecken. Sein Fell lag glatt.
 

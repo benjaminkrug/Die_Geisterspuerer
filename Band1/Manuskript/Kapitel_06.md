@@ -60,8 +60,6 @@ Theo schluckte. „Eine Aufgabenliste. Für Tote.“
 
 „Für Menschen, denen geholfen werden musste.“ Nora sah den blauen Zettel wieder vor sich. „Nur der Name ganz unten hatte keins. Lina Vogt. 1974. Mit Fragezeichen.“
 
-„Also hat sie es bei der nicht geschafft.“
-
 „Was auch immer Frau Silber gemacht hat“, sagte Nora langsam, „bei Lina Vogt hat sie es nicht geschafft.“
 
 Theo biss sich auf die Unterlippe. „Und wo ist Frau Silber jetzt?“

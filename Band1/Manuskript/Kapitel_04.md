@@ -90,7 +90,7 @@ Theo starrte sie an. Dann drehte er sich um und schlurfte in sein Zimmer. An der
 
 ---
 
-Die Schule war groß, laut und roch nach Desinfektionsmittel und Kreide. Hunderte Schüler. Keiner kannte sie. Tafeln, Kreide, ein Lehrer, der Brüche erklärte.
+Die Schule war groß, laut und roch nach Desinfektionsmittel und Kreide. Hunderte Schüler. Keiner kannte sie. Ein Lehrer, der Brüche erklärte.
 
 Normal. Das hier war normal.
 

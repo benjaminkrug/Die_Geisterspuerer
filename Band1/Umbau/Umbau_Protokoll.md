@@ -425,3 +425,54 @@ Basis: `617b313`. Gelesen: **das ganze Kapitel 13**, nicht nur der Einschub, geg
 | `pruefe_logik.py 1` | 8 Kandidaten, keine neuen |
 | Lesung Kap. 13 komplett | ✅ |
 | Kapitel-Dateien | neu erzeugt, 0 Abweichungen |
+
+---
+
+## Nachprüfung Schritt 4 (auf Wunsch des Autors) · 2026-10-10
+
+Basis: `cc22b11`. Gelesen: **Kap. 4–7 vollständig**. Gegengeprüft mit Kap. 2–3 (Mamas Schichten),
+Kap. 8–16 (Bezüge auf Entferntes), Kap. 10/13 und Kanon (wo Lina starb) und Klappentext.
+
+### Was an Schritt 4 stimmt und bleibt (mit Beleg)
+
+| Entscheidung | Beleg |
+|---|---|
+| Lina-Zettel schon in Kap. 5 | Er entspricht jetzt **wörtlich dem Klappentext** (*„Ganz unten, in blauer Tinte und ohne Häkchen: Lina Vogt? – 1974?“*), den Käufer vorher gelesen haben. Vorher stand es nur in Noras Erinnerung (Kap. 6). |
+| Eine Bibliothek statt zwei | Kein späteres Kapitel bezieht sich auf den zweiten Besuch (Suche „Bibliothek“ in Kap. 8–16: nur K15 „gegenüber der Bibliothek“, und das passt). Digital → Mikrofiche ist schlüssig: Silber vermisst seit März (digital, „letzte fünf Jahre“), Lina 1974 (Mikrofiche). |
+| Neues Ende Kap. 6 („Das ist unsere Adresse … Nach Hause.“) | Stärkster Haken der Buchmitte. Schattens Blick „die Straße hinunter“ wird damit eingelöst. |
+| Friedhof-Blick in Kap. 7 | Wird in K15 aufgegriffen (*„Sie waren gestern daran vorbeigegangen“*), passt. |
+| Herbert gestrichen, Hamster-Witz bleibt einmal | Ein Witz braucht keine Fortsetzung. Ein benanntes Tier ohne Rolle war ein loser Faden. „Mein Hamsterreferat“ (Kap. 6) ist ein eigener Witz von Theo. |
+
+### Gefundene Probleme
+
+| # | Problem | Herkunft | Eingriff | Warum besser |
+|---|---|---|---|---|
+| P1 | **Mama arbeitet zwei Schichten an einem Tag:** Kap. 3 *„Frühschicht“*, Kap. 4 *„Bin gegen sechs zurück“*, Kap. 7 *„Ich muss los. Spätschicht.“* | **Schritt 4** (beim Beheben des Hämmer-Problems eingebaut) | Mama: *„Ich bin seit fünf auf den Beinen. Ich geh heute früh schlafen.“* Kap. 8 nach dem Türknall: *„Ihr erster Gedanke war Mama. Aber hinter der Schlafzimmertür blieb es still. Mama schlief, wie sie seit dem Umzug schlief. Wie ein Stein.“* | Kein Widerspruch zu Kap. 3/4. Der tiefe Schlaf ist **angelegt** (Kap. 2: *„so tief, dass man neben ihr staubsaugen konnte“*) und **wird später bestätigt** (Kap. 12: *„Wie immer schlief ihre Mutter tief und fest“*). Die Leserfrage „Warum hört Mama nichts?“ wird an der Stelle beantwortet, an der sie aufkommt. |
+| P2 | Theo: *„Ein Mädchen ist in **unserer Wohnung gestorben**“*, *„Sie ist **dort gestorben**“*. Der Artikel nennt nur die Hausadresse, und Lina starb **im Keller** (Kap. 10, Kanon Z.278). | Original. Schritt 4 hat die Stelle nur verschoben. | *„Ein Mädchen hat in unserem Haus gewohnt. Vor fünfzig Jahren. Und ist gestorben.“* / *„Sie hat da gewohnt.“* / *„Ein Mädchen hatte **in ihrem Haus** gelebt“* (statt mehrdeutigem „hier“ in der Bibliothek) | Keine Tatsache, die das Buch später widerlegt. Theos Angst bleibt (*„in die Wohnung, in der ein totes Mädchen –“*), als Angst, nicht als Behauptung. |
+| P3 | **Kälte in der Brust zweimal** in Kap. 7 | **Schritt 4** (zwei Abschnitte aus altem Kap. 6 und 7 zusammengelegt) | Zweite Stelle → *„Nora fröstelte. Kurz. Wie ein Eiswürfel im Nacken.“* Der erste Ersatz „Ein Schauer lief Nora über den Rücken“ wurde **verworfen**: Fast derselbe Satz steht in Kap. 8 (Z.1632). | Regel 3 |
+| P4 | Kap. 6: Theo *„Also hat sie es bei der nicht geschafft“*, und Nora sagt sofort fast dasselbe | **Schritt 4** (neu geschriebene Zeilen) | Theos Zeile gestrichen | Doppelte Aussage |
+| P5 | Kap. 4: „Kreide“ zweimal in zwei Sätzen | **Schritt 4** (Kürzung) | „Ein Lehrer, der Brüche erklärte.“ | Echo |
+| P6 | Kap. 7: *„Etwas Schweres legte sich auf Noras **Brust**“* bei einer dritten Brust-Formulierung im selben Kapitel | Original + Zusammenlegung | „auf Noras Schultern“ | Echo |
+
+### Bewusst NICHT geändert
+
+| Stelle | Warum nicht |
+|---|---|
+| Kap. 7: *„Kondenswasser … Am Nachmittag“*, obwohl Mama „gegen sechs“ zurück ist | Später Nachmittag im Juli. Keine Leserin merkt hier eine Uhrzeit. Eine Änderung brächte nichts. |
+| Kap. 7: *„Du meinst in die Wohnung, in der ein totes Mädchen –“* | Theos **Angst**, keine Behauptung. Der Satz bricht ab. |
+| Kap. 8: Die „Flurtür“ knallt, obwohl die Kinder im Flur stehen, *„dahinter der leere Flur“* | **Alter Fehler**, nicht aus Schritt 4. Wie die Räume liegen, ist unklar, aber für die Szene nicht wichtig. Minimal-Regel: nicht anfassen. Notiert für eine spätere Logik-Runde. |
+| Kap. 6: Theo „*Gesundheit.*“ bei „Mikrofiche“, „Kapitel eins von *Wir hätten zu Hause bleiben sollen*“ | Humor nach Grusel. Das Skript zur vierten Wand meldet nichts. Theo spricht über einen Film, nicht über das Buch. |
+| Kap. 5: Schattens Foto-Szene, Kinderschritte | unverändert stark |
+
+### Kontrolle
+
+| Prüfung | Ergebnis |
+|---|---|
+| `pruefe_band1_umbau.py --basis cc22b11 --schritt 4` | ✅ alle harten Prüfungen bestanden (+14 W: Kap. 8 +23 für den Mama-Satz, Kap. 4/6 −10) |
+| gegen `4e983cf` | ✅ 27.179 → 22.703 W; Stimme +2 % / +10 % |
+| K8 | ✅ 0 neue Fakten zu Linas Tod. P2 **entfernt** eine falsche Ortsangabe, fügt keine hinzu. |
+| K6 Kapitelenden | ✅ unverändert |
+| `pruefe_logik.py 1` | 8 Kandidaten, keine neuen |
+| Regel 3 (neue Formulierungen im ganzen Buch gesucht) | „fröstelte“, „Wie ein Stein“, „erster Gedanke“, „auf den Beinen“, „früh schlafen“: je 1× |
+| Kapitel-Dateien | neu erzeugt, 0 Abweichungen |
+| Doku | Zeitlinie Kap. 7 in `Die_Geisterspuerer_Author_Info.md` |
