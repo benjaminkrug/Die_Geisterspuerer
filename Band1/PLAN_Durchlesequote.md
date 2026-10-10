@@ -1,6 +1,8 @@
 # PLAN – Durchlesequote Band 1 → Band 2
 
-> Fassung 2, 2026-10-10. Ersetzt Fassung 1 vom selben Tag.
+> Fassung 3, 2026-10-10. Ersetzt Fassung 1 und 2 vom selben Tag.
+> Neu in Fassung 3: Punkt 2 gegen Band 2–5 geprüft und verkleinert (7.1), Überarbeitung als
+> Schrittfolge mit harter Kontrolle je Schritt (7.2–7.4), Prüfskript `Scripts/pruefe_band1_umbau.py`.
 > Grundlage: KDP-Bericht 01.08.–10.10.2026 und die Angaben des Autors im Chat.
 > Gelesen wurde die **veröffentlichte Fassung**, `Band1/Manuskript/Manuskript_Band1_Komplett.md`,
 > komplett, Kapitel 1 bis 18.
@@ -34,13 +36,21 @@
 4. **Die Hauptfrage des Buches wird nie beantwortet: Was ist Lina im Keller passiert, und wer hat
    ihr 1974 Angst gemacht?** In Band 2 bis 5 gibt es dazu ebenfalls keine Antwort (Abschnitt 5).
    Kinder in diesem Alter bemerken so etwas.
-5. **Die Überarbeitung (Abschnitt 7):**
-   - Kap. 14 bis 18 auf **3 Kapitel** verdichten und mit einem *neuen* Haken enden.
-   - Linas Geheimnis in Kap. 13 auflösen.
-   - Zone A straffen: eine Bibliothek statt zwei.
-   - Wiederholungen entfernen, Widersprüche in der Zeitachse beheben.
-   - Ziel sind etwa **22.000 statt 27.000 Wörter**. Kein Satz wird gestrichen, nur damit das Buch
-     kürzer wird. Gestrichen wird, was sich wiederholt.
+   **Sie wird trotzdem nicht aufgelöst** (7.1): Jede Antwort auf „wer hat Lina heimgesucht“
+   berührt Band 4, denn das kalte Zimmer oben ist dort Fabers Zimmer. Stattdessen spricht eine
+   Figur die Frage aus und beantwortet sie mit dem Thema des Buches, ohne neue Fakten.
+5. **Die Überarbeitung (Abschnitt 7) läuft in 7 Schritten.** Jeder hat ein Wortbudget, erlaubte
+   Stellen, eine harte Kontrolle und eine Stopp-Regel. Nach jedem Schritt ist das Buch
+   veröffentlichungsfähig.
+   - Schritt 1: Anhang und Brücke zu Band 2, eigener Upload.
+   - Schritt 2: Kap. 14 bis 18 werden 3 Kapitel mit einem *neuen* Haken.
+   - Schritt 3: die Lina-Frage aussprechen (nur Dialog, keine neuen Fakten).
+   - Schritt 4: Zone A straffen.
+   - Schritt 5: Wiederholungen im Mittelteil.
+   - Schritt 6: Widersprüche.
+   - Schritt 7: Endabnahme.
+   - Ziel sind etwa **22.000 statt 27.000 Wörter**. Gestrichen wird nur, was sich wiederholt.
+   - **Kein Schritt erfordert eine Änderung an Band 2 bis 5** (7.5).
 6. **Meine Kurve ist eine begründete Einschätzung, keine Messung.** Deshalb gibt es vor dem Upload
    eine Prüfung mit **Kindern als Testlesern** (Abschnitt 6) und nach dem Upload eine Zählung über
    den **QR-Code** (Abschnitt 8).
@@ -217,7 +227,7 @@ höchste Priorität.
 
 | # | Frage | Beleg | Einordnung |
 |---|---|---|---|
-| O1 | **Was ist Lina im Keller passiert?** | Tagebuch: *„Morgen gehe ich in den Keller“*. Zeitung: *„Folgen eines Unfalls“*. Kratzspuren und Fußspuren in Kap. 10. Danach kein Wort mehr. In Band 2 bis 5 wird Lina nur noch allgemein erwähnt (geprüft per Textsuche). | **Wichtigster Punkt.** Kap. 9 und 10 bauen *genau diese* Frage auf. Sie ist der Motor der Buchmitte. |
+| O1 | **Was ist Lina im Keller passiert?** | Tagebuch: *„Morgen gehe ich in den Keller“*. Zeitung: *„Folgen eines Unfalls“*. Kratzspuren und Fußspuren in Kap. 10. Danach kein Wort mehr. In Band 2 bis 5 wird Lina nur noch allgemein erwähnt (geprüft per Textsuche). | **Wichtigster Punkt.** Kap. 9 und 10 bauen *genau diese* Frage auf. Sie ist der Motor der Buchmitte. Umgang damit: 7.1. |
 | O2 | **Wer hat Lina 1974 heimgesucht?** | Tagebuch Kap. 9: *„Nachts steht jemand in meinem Zimmer … kalt“*. | Lina war damals *lebendig*, also muss es ein anderer Geist gewesen sein. Das wird nie gesagt. Wenn es mit Graven oder dem „Schleier“ zusammenhängt, fehlt der Hinweis darauf. |
 | O3 | Wer hat das Tagebuch eingemauert, und warum in der Wand der Wohnung der Kinder? | Kap. 8, Z. 1734: *„Als sollte niemand es finden.“* | Wird angesprochen, aber nicht beantwortet. |
 | O4 | Warum wird Lina **oben** in Silbers kaltem Zimmer erlöst, wenn ihr Zimmer Noras Zimmer war? | Kap. 12: *„Ihrem Zimmer ist dein Zimmer.“* → „OBEN“ → Kap. 13 | Ohne Erklärung. Ein Satz würde genügen. |
@@ -279,138 +289,228 @@ nach demselben Schema.
 
 ---
 
-## 7. Überarbeitungsplan für Band 1
+## 7. Überarbeitungsplan für Band 1, in Schritten mit Kontrolle
 
-Bei jeder Maßnahme steht: **Was** geändert wird, **warum** (mit Beleg), **was dabei kaputtgehen
-kann**, und **wie geprüft wird**. Die Reihenfolge folgt dem erwarteten Nutzen.
+> Fassung 3, 2026-10-10. Vorgabe des Autors: **keine Eingriffe, die Änderungen an Band 2–5
+> nötig machen.** Ziel ~22.000 Wörter. Jeder Schritt hat eine strenge Kontrolle.
 
-### Ü1 – Zone B: Kap. 14–18 werden zu drei Kapiteln (höchste Priorität)
+### 7.1 Punkt 2 neu geprüft: Linas Geheimnis auflösen, ja oder nein?
 
-**Was:** ~7.400 Wörter werden zu ~4.000–4.500 Wörtern. Die neue Folge:
+Fassung 2 wollte vier offene Fragen beantworten (O1–O4). Jede einzeln gegen Band 2–5 geprüft:
 
-| Neu | Inhalt | Kommt aus | Fällt weg |
+| Frage | Würde eine Antwort Band 2–5 berühren? | Beleg | Urteil |
 |---|---|---|---|
-| **K14 – Die Karte** | Frühstück (kurz), Karte, 12 Kreise, frische Tinte, roter Kreis „GRAVEN“. Graven wird **in Silbers eigener Stadtchronik** nachgeschlagen, die seit Kap. 5 in ihrem Regal steht (*„Gravenstedt – eine Chronik“*, Z. 972). | Kap. 14 + 15 | Bibliothek 3 (W6), das ständige „Elf“ |
-| **K15 – Der Friedhof** | Weg zum Friedhof, die Gestalt starrt, Flucht. Danach die **einzige** Entscheidung, kurz und anders als in Kap. 11: Diesmal entscheidet **Nora selbst**, ohne dass Theo sie überreden muss. | Kap. 15 + 16 | Die zweite Überzeugungs-Szene (W1), die Neuigkeit der Nachbarin (W11) |
-| **K16 – Die, die nach mir kommen** | Silbers Brief **nur mit Neuem**: die Tür vor 200 Jahren, *„Die, die nach mir kommen“*, der Schleier reißt. Dazu die warme Szene mit Mama und Theo, gekürzt. **Ein neuer letzter Haken** (siehe unten). | Kap. 17 + 18 | Notizbuch-Wiederholung (W3), blaues Licht Nr. 2 (W4), „Der Erste“ als falsche Neuigkeit (W2) |
+| **O2** Wer hat Lina 1974 heimgesucht? | **Ja, Band 4.** Das kalte Zimmer oben in Silbers Wohnung, also genau der Raum, in dem Lina in Band 1 erlöst wird, ist in Band 4 **Cornelius Fabers Zimmer** (B4 Z.296: *„das eine Zimmer, in dem es immer kalt gewesen war“*; Frau Held Z.266; Kanon: Faber baute das Haus 1826, will Menschen „behalten“). Jede Antwort landet bei Faber oder widerspricht ihm. Ist es Faber, hätte der mitfühlend erzählte Geist aus Band 4 ein Kind in den Tod getrieben. **Das müsste Band 4 aufgreifen.** | `Serien_Kanon.md` Z.209–225, B4 Z.266/296 | **Streichen.** Bricht die Vorgabe. |
+| **O4** Warum wird Lina *oben* erlöst? | **Ja, Band 4.** Dieselbe Tür, derselbe Raum. Jede Erklärung legt fest, was dieser Raum ist, und das tut Band 4. | wie oben | **Streichen.** |
+| **O1** Was ist im Keller passiert (wie ist sie gestorben)? | **Nicht direkt.** Band 2–5 erwähnen Lina nur allgemein (Textsuche: keine Treffer zu Tod, Keller oder Unfall). Aber jede *Ursache* (Sturz, Kälte, eingesperrt) führt sofort zur Frage, *wovor* sie floh, und damit zurück zu O2. Und die Kratzspuren (Kap. 10) passen nicht zu einem einfachen Sturz. | Kap. 10; Kanon Z.150/278: nur „Unfallfolgen“, „dort starb Lina“ | **Keine Ursache erfinden.** |
+| **O3** Wer hat das Tagebuch eingemauert? | **Nein.** In Band 2–5 kommt das Tagebuch nur einmal beiläufig vor (B2: *„An das Tagebuch“*, B5: *„seit dem Tagebuch“*). | Textsuche | Eine **Vermutung einer Figur** wäre möglich, ist aber nicht nötig. Weglassen, denn jede Zeile mehr ist eine Zeile Risiko. |
 
-**Der letzte Haken:** Er muss **neu** sein, **konkret** auf Band 2 zeigen und darf Band 2 **nicht
-widersprechen**. Band 2 beginnt einen Monat später im Herbst, am Friedhofstor. Ein Vorschlag:
-Unter Silbers Brief liegt ein zweites Blatt, nur eine Zeile, die auf den Friedhof und „Heinrich B.“
-zeigt. Oder: Auf der Karte erscheint über Nacht ein Zeichen am Friedhof.
-- Warum *kein* „morgen“: X2.
-- Warum *kein* blaues Licht: W4.
-- **Vorher in Band 2 prüfen,** was dort über Kreis, Brief und Notizbuch steht. Band 2 erwähnt
-  „Brief“ 4×, „Notizbuch“ 9×, „GRAVEN“ 19× und Frau Held 1×. Alles, was Band 2 voraussetzt, muss
-  in Band 1 bleiben.
+**Neue Fassung von Punkt 2 (= Schritt 3 unten):**
+Keine neuen Fakten. Stattdessen wird die Frage **ausgesprochen und bewusst beantwortet**, und zwar
+mit dem Thema des Buches, nicht mit einem Hergang. In Kap. 13, nach dem Abschied, fragt Theo, was
+da unten passiert ist. Nora antwortet sinngemäß: Sie weiß es nicht. Und vielleicht war das nie
+das, was Lina brauchte. Lina brauchte jemanden, der ihr glaubt.
 
-**Warum:**
-- Abschnitt 3: Zone B hat im Schnitt 4,2 Punkte.
-- Abschnitt 5.1: W1 bis W4 und W11 liegen fast alle hier.
-- Das Buch endet nach der Änderung mit einem neuen Bild statt mit einem bekannten.
-- Lina ist bei ~82 % erlöst statt bei 73 %, und der Höhepunkt rückt nach hinten.
+**Warum das reicht, mit Begründung:**
+- **Der Schaden liegt im Eindruck, nicht in der Lücke.** Eine Frage, die das Buch nie ausspricht,
+  wirkt *vergessen*. Spricht eine Figur sie aus und gibt eine Antwort, wirkt sie *gewollt*. Das
+  Gefühl „der Autor hat es vergessen“ verschwindet, ohne dass ein Fakt entsteht.
+- **Die Antwort ist schon Kanon.** Band 5 erzählt Lina genau so: *„Lina, die auch niemand gehört
+  hatte, und dass es aufgehört hatte, als endlich jemand zuhörte“*. Das Thema ist durch die ganze
+  Reihe belegt (Codewort Band 1: ZUHÖREN).
+- **Risiko für Band 2–5: null**, weil kein neuer Fakt entsteht. Das prüft das Skript (K8, siehe 7.3).
 
-**Was dabei kaputtgehen kann:**
-- **Band 2 bis 5 setzen Dinge aus Band 1 voraus.** Laut Textsuche erwähnen sie Lina nur allgemein:
-  goldenes Licht, Kondenswasser, Zuhören, der durchgestrichene Kreis. Das bleibt alles erhalten.
-  Vor dem Schreiben trotzdem eine **vollständige Liste der Bezüge** aus Band 2 bis 5 auf Band 1
-  anlegen und abhaken.
-- `Dokumentation/Serien_Kanon.md` und der Kontinuitäts-Tracker in `Die_Geisterspuerer_Author_Info.md`
-  müssen nachgezogen werden.
-- **Das Spielbuch (CYOA) zu Band 1** beruht auf der alten Fassung. Es muss nicht geändert werden,
-  weil es ohnehin eigene Wege hat. Ein Widerspruch zwischen Spielbuch und Roman wäre aber neu
-  und sollte geprüft werden.
+**Was gegen diese kleine Lösung spricht (offen benannt):** Ein Teil der Kinder wird trotzdem
+wissen wollen, *wie* es passiert ist. Diese Lücke bleibt. Der Testlesetest fragt deshalb gezielt
+nach (Abschnitt 6, Frage 1). Antworten mehrere Kinder „das hat mich geärgert“, kommt die Frage
+**zurück zum Autor**, nicht in den Text. Eine echte Auflösung ginge nur zusammen mit Band 4, und
+das ist ausgeschlossen.
 
-### Ü2 – Linas Geheimnis auflösen (hohe Priorität)
+**Was unverändert bleibt:** Der vorhandene Moment in Kap. 13 (*„für einen Herzschlag war Nora Lina“*) bleibt
+**wie sie ist**. Sie wird nicht ausgebaut.
 
-**Was:** In Kap. 13 gibt es bereits den Moment *„für einen Herzschlag war Nora Lina. Sie spürte den
-kalten Kellerboden unter nackten Füßen“* (Z. 2654). Diesen Moment zu einer **kurzen Vision** ausbauen,
-etwa 200 bis 300 Wörter: Was geschah am 3. November 1974 im Keller? Dazu ein Satz, warum Lina
-„oben“ gehen kann (O4), und ein Satz, wer das Tagebuch eingemauert hat (O3).
+### 7.2 Grundregeln für alle Schritte
 
-**Warum:** Kap. 9 und 10 bauen die Frage „Was ist im Keller?“ auf. Es sind die stärksten Kapitel
-(7 und 9 Punkte). Eine Frage, die so stark aufgebaut und nie beantwortet wird, fühlt sich für Kinder
-an wie ein **gebrochenes Versprechen**. Und ein Kind, das sich betrogen fühlt, will keinen
-zweiten Band.
+1. **Jeder Schritt endet mit einem Buch, das sich veröffentlichen ließe.** Kein Schritt hinterlässt
+   eine Baustelle. Geht dem Projekt nach Schritt 3 die Zeit aus, wird der Stand nach Schritt 3
+   hochgeladen. Daher die **Reihenfolge nach Nutzen**: Der Schluss (größter Hebel) kommt zuerst.
+2. **Ein Schritt = ein Commit + ein Git-Tag** (`band1-umbau-s1`, `-s2` …). Fällt eine Kontrolle
+   durch, wird der Schritt **zurückgenommen** (`git checkout band1-umbau-s<n-1> -- <Datei>`),
+   **nicht nachgeflickt**. Nachflicken baut neue Fehler (Logik-Prüfplan, Regel 3).
+3. **Gearbeitet wird nur in `Manuskript_Band1_Komplett.md`** (veröffentlichte Wahrheit,
+   `TODO_Nachbesserung`). Die Kapitel-Dateien werden **einmal am Ende** nachgezogen (Schritt 7).
+4. **Die Sicherheitsschleife aus `Logik_Pruefplan.md` Abschnitt 7 gilt bei jedem Eingriff.**
+   Minimalen Eingriff formulieren → neue Formulierung im ganzen Buch suchen → einbauen → ganzen
+   Absatz lesen → Umgebung prüfen.
+5. **Band 1 ist der Stimmen-Maßstab der Serie** (`Stimmen_Pruefplan.md`, Abschnitt 3). Darum
+   wird der Maßstab **vor** dem Umbau eingefroren: Gemessen wird immer gegen den Tag
+   `band1-vor-umbau`, nie gegen die neue Fassung. Neuer Text muss in der **Dichte von Band 1**
+   liegen (Satzlänge, „Und“-Anfänge, Absatzlänge je 1.000 Wörter).
+6. **Kapitel-Schlusssätze und erste Sätze sind tabu** (`Stimmen_Pruefplan.md`, Abschnitt 7),
+   **außer** dort, wo der Schritt es ausdrücklich erlaubt. Die erlaubten Stellen stehen in jedem
+   Schritt.
+7. **Ein Mensch liest.** Das Skript findet Kandidaten, kein Urteil (Regel 1 und 5). Jeder Schritt
+   endet mit einer **Lesung am Stück** des betroffenen Bereichs plus je einem Kapitel davor und danach.
 
-**Die Grenzen der Lösung (nicht verhandelbar, CLAUDE.md):**
-- Kein Blut, keine Körper-Szenen, keine Gewalt gegen Kinder.
-- Geister sind traurig, nie böse.
+### 7.3 Das Prüfwerkzeug: `Scripts/pruefe_band1_umbau.py`
 
-Daraus folgt: Linas Tod war ein **Unfall** (so steht es in der Zeitung und in `Serien_Kanon.md`,
-Z. 150 und 278). Etwa ein Sturz auf der steilen, nassen Kellertreppe (Kap. 10: *„Die Kellertreppe war
-steil … Feuchtigkeit glänzte“*), als sie vor der Kälte fliehen wollte.
-- **O2 („wer war die Kälte 1974?“) muss vorher im Kanon entschieden werden.**
-- Die naheliegende Antwort, die zur Serie passt: Die Kälte kam vom dünnen **Schleier**, an dieser
-  Stelle der Stadt besonders dünn. Das passt zu Band 4, dessen Tür im *selben Haus* liegt
-  (`KDP_Beschreibungen.md`, Band 4).
-- Dann war es **kein böser Geist**, sondern ein Riss, der die Kinder nun ein zweites Mal betrifft.
-  Das ist ein Haken für die ganze Serie, kein Bruch mit ihr.
-- ⚠️ **Gegen Band 4 und 5 prüfen, bevor ein Wort geschrieben wird.**
+Neu gebaut für diesen Plan. Es vergleicht den aktuellen Text mit einem Git-Stand und prüft:
 
-**Was dabei kaputtgehen kann:**
-- Die Szene darf den stillen Abschied nicht zerreden. Die Vision gehört **vor** das Licht, nicht danach.
-- Nicht zu gruselig werden lassen. Die Vision zeigt Angst und Einsamkeit, keinen Sturz im Detail.
-
-### Ü3 – Zone A straffen (mittlere Priorität)
-
-**Was:**
-- Kap. 6 und 7 bekommen **einen** Besuch in der Bibliothek: Silber-Artikel und Lina-Artikel am
-  selben Nachmittag.
-- „Lina Vogt“ wird schon in Kap. 5 an der Wand gesehen und ausgesprochen (X4). Das beseitigt den
-  Logikbruch, und das Ende von Kap. 5 wird stärker.
-- Der Schultag in Kap. 4 wird auf das Nötige gekürzt, also das „HILF“ im Kopf und Theos Satz
-  *„Jemand bittet um Hilfe“*.
-- Herbert und den Hamster **streichen oder später einlösen** (Kap. 4 führt ihn ein; danach nur noch ein Nebensatz in Kap. 6, Z. 1234).
-  Vorher in Band 2 bis 5 nach „Herbert“ suchen.
-
-**Warum:** W6, X4, und das selbst zugegebene „gelangweilt“. Die gewonnenen ~1.500 Wörter gehen an
-Tempo, nicht an Inhalt.
-
-**Was dabei kaputtgehen kann:** Die „VERGISS NICHT“-Szene und das Kratzen am Ende von Kap. 7
-**müssen bleiben**, denn sie stehen im Klappentext. Das wird höchstens umgestellt.
-
-### Ü4 – Wiederholungen im Mittelteil (mittlere Priorität)
-
-- **W5:** In Kap. 12 wird das Tagebuch nicht noch einmal zitiert, sondern zusammengefasst
-  (*„Sie las alles. Jedes Wort. Auch die Seiten, bei denen ihre Stimme brach.“*). Die Spannung
-  der Szene kommt dann aus der Kälte und der Gestalt im Flur.
-- **W7:** Von vier Verstecken bleiben zwei durch Klopfen gefunden. Die anderen findet Schatten oder
-  der Zufall.
-- **W9, W10:** Je einen der beiden Fehlalarme und zwei der vier „offiziell festhalten“ ersetzen.
-  Für Theo neue Witze, nicht weniger.
-- **Kap. 12 Titel:** „Konfrontation“ verspricht einen Kampf, der nicht kommt. Vorschlag: „Bitte“.
-
-**Warum:** Abschnitt 5.1. Jede Wiederholung kostet Aufmerksamkeit, ohne etwas zu geben.
-
-### Ü5 – Widersprüche beheben (niedrige Priorität, aber Pflicht)
-
-X1 bis X5 jeweils mit einem Satz. **Warum:** Jedes einzelne ist klein. Kinder im Alter von 10 bis 12
-lesen aber genau, und **X2** steht direkt an der Naht zu Band 2.
-
-### Ü6 – Die Brücke im Anhang (aus Fassung 1, unverändert gültig)
-
-Gleich nach dem letzten Satz kommt Band 2: Cover, eine spannende **echte** Leseprobe, ein
-**QR-Code zu Band 2** mit einer Zeile für Eltern. Erst danach die Bitte um eine Rezension.
-Herrenhaus und Spielbuch werden gekürzt. Im eBook ein klickbarer Link. Dazu die Altlasten aus
-`TODO_Nachbesserung_Band1-4.md`: die erfundene eBook-Leseprobe, „Erscheint 2026“ und die
-Anführungszeichen.
-**Warum:** Selbst wenn Ü1 bis Ü5 wirken, muss der Wunsch des Kindes bei den Eltern ankommen.
-Beleg: Bisher führt der einzige QR-Code zur Rezension.
-
-### Was beim Überarbeiten sonst vergessen werden könnte
-
-| Punkt | Warum er wichtig ist | Was zu tun ist |
+| Prüfung | Was | Hart? |
 |---|---|---|
-| **Seitenzahl → Buchrücken → Cover** | Etwa 5.000 Wörter weniger sind etwa 30 Seiten weniger. Der Buchrücken wird schmaler. `Scripts/build_cover.py` rechnet mit 186 Seiten. | Nach dem Bau des DOCX die Seiten zählen, das Cover neu bauen, die KDP-Vorschau prüfen. |
-| **Format 5×8″ und ASIN behalten** | Steht im Kopf von `build_taschenbuch_docx.py`: Die Rezensionen hängen an der ASIN. | Nur den Innenteil austauschen, keine neue Ausgabe. |
-| **KDP-Regel zu „wesentlichen Änderungen“** | Bei großen Inhaltsänderungen kann KDP eine neue Ausgabe verlangen. Dann wären die Rezensionen weg. | **Vor dem Schreiben** die KDP-Hilfe zu Inhalts-Updates lesen. Im Zweifel beim KDP-Support nachfragen. |
-| **Klappentext und A+ Content** | Er beschreibt Szenen (Kondenswasser, Liste, Kratzen), die bleiben müssen. Eine neue Auflösung (Ü2) darf er nicht verraten. | Gegenlesen. Optional ergänzen: „Die Reihe ist abgeschlossen“. |
-| **Blick ins Buch / Leseprobe bei Amazon** | Zeigt die ersten Seiten. Ü3 ändert Kap. 4 bis 7, nicht Kap. 1. | Keine Aktion, kurz prüfen. |
-| **Quelle der Wahrheit** | `Manuskript_Band1_Komplett.md` ist die veröffentlichte Fassung (`TODO_Nachbesserung`). | In der Komplett-Datei arbeiten, die Kapitel-Dateien danach nachziehen und per Abgleich prüfen. |
-| **Stilregeln** | Satzlänge, Dialoganteil, Schatten in jedem Kapitel, Cliffhanger. Gilt auch für neuen Text. | Neue und geänderte Kapitel durch `Dokumentation/Qualitaets_Pruefplan.md` und `Spannungs_Pruefplan.md` laufen lassen. |
-| **Wer das alte Buch schon hat** | Gedruckte Exemplare ändern sich nicht. Ein Kind mit der alten Fassung liest Band 2 ganz normal weiter. | Keine Aktion. Band 2 setzt nichts voraus, was wegfällt (siehe Ü1). |
-| **`Band1/Analyse.md` ist veraltet** | Ihre Hauptkritik (Dialog in Kap. 9) trifft nicht mehr zu, denn Kap. 9 hat 45 % Dialog. | Als „überholt“ markieren, damit niemand danach arbeitet. |
+| **K1** Pflicht-Anker | 32 Stellen, auf die sich Band 2–5, Klappentext oder Leseprobe stützen, z. B. „Heinrich B.“/„1887“ (B2: 15×), „Die, die nach mir kommen“ (B4 Z.960), Notizbuch + Brief + Karte als drei Dinge (B5 Z.298/562), „Unfall“ (Kanon). **Jeder Anker ist mit seiner Quelle im Skript vermerkt.** | ja |
+| **K2** Wortzahl | gesamt und je Kapitel, Differenz zur Basis | Budget je Schritt |
+| **K3** Anführungszeichen | öffnende = schließende | ja |
+| **K4** Schatten/der Hund in jedem Kapitel | Serienregel | ja |
+| **K5** Sätze über 18 Wörter | **keine neuen** gegenüber der Basis | ja |
+| **K6** Kapitelenden | listet jedes geänderte Ende auf | nur erlaubte |
+| **K7** verbotene Wörter | Manifestation, paranormal, Entität, Leiche … | ja |
+| **K8** Schutz Punkt 2 | keine neuen Sätze, die Lina mit Sturz, Treppe, Faber, Uhren, Schleier, Riss verbinden; **Faber/Cornelius bleibt bei 0** | ja |
+| **K9** Zielwerte je Schritt | z. B. Schritt 2: „Wir hören auf“ ≤ 1, „Morgen fangen wir an“ = 0 | ja |
+
+**Das Werkzeug wurde selbst geprüft** (Regel 5):
+- Gegen den heutigen Text: alles grün, Differenz 0.
+- **Fehltreffer gefunden und behoben:** K4 meldete zuerst Kap. 1, weil der Hund dort noch keinen
+  Namen hat.
+- **Lücke gefunden und geschlossen:** Ein Satz „Faber hatte sie erschreckt.“ ohne das Wort „Lina“
+  rutschte durch. Seitdem gibt es die eigene Faber-Sperre.
+- **Gegenprobe:** Eingeschleuste Verstöße (Lina + gestürzt, ein Satz mit 20 Wörtern) werden gemeldet.
+
+**Aufruf:** `py Scripts/pruefe_band1_umbau.py --basis band1-umbau-s<n-1> --schritt <n>`
+und zusätzlich `py Scripts/pruefe_logik.py 1`. **Ausgangswert dort: 18 Kandidaten.** Neue
+Kandidaten sind wahrscheinlich selbst verursacht.
+
+### 7.4 Die Schritte
+
+Wortzahl gemessen mit dem Prüfskript (Ausgangswert **27.179**). Der Zielkorridor nach allen
+Schritten liegt bei **21.300–22.700**.
+
+---
+
+#### Schritt 0 – Vorbereitung (kein Text wird geändert)
+
+| | |
+|---|---|
+| **Arbeit** | 1. Tag `band1-vor-umbau` setzen. 2. Ausgangswerte festhalten: `pruefe_band1_umbau.py` (grün), `pruefe_logik.py 1` (18), Stimmen-Messung aus `Stimmen_Pruefplan.md` Abschnitt 5 für Band 1. 3. **KDP-Regel zu „wesentlichen Inhaltsänderungen“ klären** (KDP-Hilfe, im Zweifel Support). 4. Testleser Runde 1 mit der **alten** Fassung starten (Abschnitt 6). |
+| **Kontrolle** | Alle Ausgangswerte stehen schriftlich in einer Datei `Band1/Umbau_Protokoll.md`. |
+| **Stopp-Regel** | **Verlangt KDP für einen Umbau dieser Größe eine neue Ausgabe (neue ASIN), endet der Plan nach Schritt 1.** Die Rezensionen von Band 1 wiegen schwerer als der Umbau (siehe Kopf von `build_taschenbuch_docx.py`). |
+
+---
+
+#### Schritt 1 – Anhang und Brücke zu Band 2 (Punkt 6) · **eigener Upload A**
+
+| | |
+|---|---|
+| **Arbeit** | Nur `Scripts/build_taschenbuch_docx.py` und `build_ebook_docx.py`, **nicht das Manuskript**. Reihenfolge: Ende → Band 2 (Cover, echte Leseprobe, QR-Code über die eigene Domain, Zeile für Eltern) → Rezensionsbitte → Bandliste. Herrenhaus und Spielbuch kürzen. eBook: Leseprobe ersetzen, „Erscheint 2026“ raus, Link. Anführungszeichen-Fix (Fehler 3) nach `TODO_Nachbesserung`. |
+| **Warum zuerst** | Wirkt sofort, auch vor Weihnachten. Fasst keinen Romantext an. **Die QR-Zählung startet mit der alten Fassung**, das liefert den Vergleichswert für später. |
+| **Kontrolle** | (a) Leseprobe **Absatz für Absatz** gegen `Manuskript_Band2_Komplett.md`, maschinell (jeder Absatz muss dort wörtlich vorkommen). (b) Die Leseprobe enthält **kein** „Herbst“, „letzten Monat“ oder „Wochen“, die dem Ende von Band 1 widersprechen. (c) QR-Code **im fertigen DOCX** dekodieren, Ziel = Weiterleitung, Weiterleitung → `amazon.de/dp/B0GV8R8QJ6` (wie `build_qr_rezension.py`). (d) Anführungszeichen im DOCX: öffnend = schließend, 0 doppelt öffnend. (e) Fehl-Ornamente = 0 (Prüfskript aus `TODO_Nachbesserung`). (f) Seitenzahl gegen 186/187 → bei Abweichung Cover über die KDP-Vorschau. |
+| **Bestanden wenn** | (a)–(e) fehlerfrei, KDP-Vorschau ohne Warnung. |
+
+---
+
+#### Schritt 2 – Der Schluss: Kap. 14–18 werden drei Kapitel (Punkt 1)
+
+**Budget:** −2.900 bis −3.400 Wörter (Kap. 14–18 von 7.442 auf 4.000–4.500).
+**Erlaubt zu ändern:** alles ab Kap. 14 einschließlich der Kapitelenden. **Kap. 1–13 bleiben unberührt.**
+
+| Teilschritt | Arbeit | Kontrolle |
+|---|---|---|
+| **2a Szenenliste** (noch kein Text) | Tabelle: jede Szene aus Kap. 14–18 → **bleibt / wandert nach K14/K15/K16 / fällt weg**, mit Grund (W-Nummer aus 5.1). Jeder Pflicht-Anker aus K1, der in Kap. 14–18 steht, bekommt seinen **neuen Ort**. | Jeder Anker hat einen Ort. Jede gestrichene Szene hat eine W-Nummer oder eine Begründung. **Freigabe durch den Autor**, bevor geschrieben wird. |
+| **2b K14 „Die Karte“** | Karte, 12 Kreise, frische Tinte, GRAVEN. Alwin Graven/1823 aus **Silbers eigener Chronik** (steht seit Kap. 5 im Regal), nicht aus der Bibliothek. | Prüfskript grün. Ende = neues Ende, steht in der Szenenliste. |
+| **2c K15 „Der Friedhof“** | Weg, Gestalt, Flucht. **Eine** Entscheidung, diesmal von Nora allein (keine Wiederholung von Kap. 11). | „Wir hören auf“ im Buch ≤ 1 (K9). Theos Witze vorhanden (Humor nach dem Grusel, CLAUDE.md). |
+| **2d K16 „Die, die nach mir kommen“** | Brief **nur mit Neuem** (Anrede, Tür vor 200 Jahren, Schleier reißt, Anna kurz). Mama-Szene und Theo-Szene gekürzt. **Neuer letzter Haken:** zeigt auf den Friedhof und Heinrich B., **ohne „morgen“, ohne blaues Licht.** | K9 Schritt 2 grün. Letzter Absatz ≠ letzter Absatz von Kap. 13. |
+| **2e Übergang Band 2** | Neues Ende gegen Band 2 Kap. 1 lesen. Band 2 spielt *„letzten Monat“* später im *„Herbst“*. | Kein Satz im neuen Ende legt eine Zeit fest, die dem widerspricht. |
+
+**Was nicht passieren darf:**
+- „Der Erste“ ganz verschwinden lassen. Er ist ein Anker für Band 3–5.
+- Den Brief als Gegenstand streichen. Band 4 und 5 nennen „Karte, Brief, Notizbuch“.
+- Der Satz *„Das Zimmer war jetzt nur noch ein leerer Raum“* (Kap. 14) darf **nicht verstärkt**
+  werden, etwa zu „für immer warm“, denn in Band 4 ist das Zimmer wieder kalt.
+
+**Bestanden wenn:**
+- Prüfskript grün mit `--schritt 2`.
+- `pruefe_logik.py`: keine neuen Kandidaten.
+- Kap. 12–16 am Stück gelesen.
+- Stimmenwerte des neuen Textes im Korridor von `band1-vor-umbau`.
+- Wortbudget eingehalten.
+
+---
+
+#### Schritt 3 – Die Lina-Frage aussprechen (Punkt 2, neue kleine Fassung, siehe 7.1)
+
+**Budget:** +40 bis +100 Wörter. **Erlaubt:** nur Kap. 13, **ohne** dessen letzten Absatz.
+
+| | |
+|---|---|
+| **Arbeit** | 3 bis 6 Dialogzeilen nach dem Abschied: Theo fragt, Nora antwortet mit dem Thema (siehe 7.1). Theo bekommt die letzte Zeile, mit Wärme oder einem kleinen Witz. |
+| **Kontrolle** | **K8 grün**, also kein neuer Fakt, Faber bleibt bei 0. Die neuen Zeilen enthalten **kein** „Treppe“, „gestürzt“, „Unfall“, „Kälte kam von“. Lesung Kap. 12–14 am Stück: zerredet die Szene den Abschied nicht? |
+| **Bestanden wenn** | K8 grün und Budget eingehalten, und eine zweite Person (Autor) bestätigt: „klingt nach Theo und Nora“. |
+
+---
+
+#### Schritt 4 – Zone A straffen (Punkt 3)
+
+**Budget:** −1.200 bis −1.800 Wörter.
+**Erlaubt:** Kap. 4 (Mitte), Kap. 6, Kap. 7 (erste Hälfte), **ein Satz in Kap. 5** (Lina Vogt an der
+Wand nennen, X4). Das **Ende von Kap. 6** darf sich ändern, die Enden von 4, 5 und 7 nicht.
+
+| | |
+|---|---|
+| **Arbeit** | Eine Bibliothek statt zwei. Schultag auf das Nötige („HILF“ im Kopf, Theos *„Jemand bittet um Hilfe“*). Herbert/Hamster: streichen. Hinweis zu Wortlaut: Kap. 6 *„Mein Hamsterreferat“* ist ein eigener Witz, er darf bleiben oder wechseln. |
+| **Kontrolle** | K9 Schritt 4: „Für die Schule?“ ≤ 1. Anker HILF, HIER, VERGISS NICHT, Lina Vogt, 1974, Mikrofiche-Fund (Adresse = Kirchgasse 14) vorhanden. **Zeitachse:** Tag-für-Tag-Liste in `Die_Geisterspuerer_Author_Info.md` (Tag 3/4, 4/5) neu zählen. Kein „gestern“ oder „am nächsten Tag“ zeigt ins Leere. Lesung Kap. 3–8 am Stück. |
+| **Bestanden wenn** | Alles grün, Zeitachse stimmt, die drei geschützten Kapitelenden sind unverändert (K6). |
+
+---
+
+#### Schritt 5 – Wiederholungen im Mittelteil (Punkt 4)
+
+**Budget:** −300 bis −700 Wörter. **Erlaubt:** Kap. 5, 8, 10, 11, 12 im Inneren. **Alle Kapitelenden tabu.**
+
+| | |
+|---|---|
+| **Arbeit** | W5: Tagebuch in Kap. 12 zusammenfassen statt neu zitieren. W7: von vier Verstecken höchstens zwei durch Klopfen finden (eines davon ist in Schritt 2 schon weggefallen oder geändert). W9: einen Fehlalarm „Theo ist weg“ ersetzen. W10: zwei von vier „offiziell festhalten“ durch neue Theo-Witze ersetzen, **nicht streichen** (Humor-Regel). Titel Kap. 12 „Konfrontation“ → optional „Bitte“. |
+| **Kontrolle** | K9 Schritt 5. Stimmen-Regel A: **Varianz-Pflicht**, jeder dritte Fall bleibt. Humor zählen: Theo-Witze je Kapitel **nicht weniger** als in der Basis. Titeländerung → Inhaltsverzeichnis (eBook) und `Serien_Kanon.md`, Abschnitt Kapiteltitel, prüfen. |
+| **Bestanden wenn** | Alles grün, kein Kapitelende geändert (K6 leer). |
+
+---
+
+#### Schritt 6 – Restliche Widersprüche (Punkt 5)
+
+**Budget:** ±50 Wörter. Minimal-Regel Stufe 1–2 (ein Wort, ein Satz).
+
+| | |
+|---|---|
+| **Arbeit** | X1 („Sommerferien“ ↔ „erster Schultag“), X3 („Weinen am Vortag“). X2 und X5 sind mit Schritt 2 weggefallen, X4 mit Schritt 4. **Prüfen, nicht annehmen:** per Textsuche bestätigen, dass sie weg sind. |
+| **Kontrolle** | Jede Änderung ≤ 1 Satz. `git diff` Zeile für Zeile: jede Zeile gehört zu einem X. |
+
+---
+
+#### Schritt 7 – Endabnahme (vor Upload B)
+
+| # | Prüfung | Bestanden wenn |
+|---|---|---|
+| 1 | `pruefe_band1_umbau.py --basis band1-vor-umbau` | grün; Wortzahl 21.300–22.700 |
+| 2 | `pruefe_logik.py 1` | keine Kandidaten über die 18 vom Anfang hinaus, die nicht einzeln begründet sind |
+| 3 | Stimmen-Messung gegen `band1-vor-umbau` | alle Werte im Korridor |
+| 4 | **Ganzes Buch am Stück lesen**, laut oder halblaut | keine Stelle, an der der Lesende stockt |
+| 5 | **Testleser Runde 2** (3–4 neue Kinder, Abschnitt 6) | die Kurve der Kinder hat in Kap. 14–16 neu keine Delle mehr; Frage 1 wird nicht mehr mit „weiß nicht, das ist nie erklärt“ beantwortet, sondern mit dem Gedanken aus Schritt 3 |
+| 6 | Kapitel-Dateien neu aus der Komplett-Datei erzeugen, Abgleich Komplett ↔ Kapitel-Dateien | identisch |
+| 7 | Dokumente nachziehen: `Story_Outline.md` („18 Kapitel“), `Die_Geisterspuerer_Author_Info.md` (Tagesablauf), `Serien_Kanon.md`, `Band1/Analyse.md` als überholt markieren | erledigt |
+| 8 | **Klappentext** `KDP_Beschreibungen.md` Z.58: *„★ 18 Kapitel mit Cliffhangern“* → **16** | geändert und bei KDP eingetragen |
+| 9 | DOCX + eBook bauen, **am Artefakt** prüfen: Anführungszeichen, Fehl-Ornamente, QR, Inhaltsverzeichnis | alles fehlerfrei |
+| 10 | Seitenzahl → Buchrücken → `build_cover.py` neu → KDP-Vorschau | keine Warnung |
+| 11 | Spielbuch (CYOA) Band 1 gegen die neue Fassung querlesen | kein Widerspruch, der einem Kind auffällt, oder bewusst hingenommen und notiert |
+
+**Upload B** nur, wenn 1–11 bestanden sind. Termin siehe Abschnitt 9.
+
+### 7.5 Was mit den anderen Bänden passiert: nichts
+
+Geprüft per Textsuche über Band 2–5: Sie setzen von Band 1 nur voraus, was die Pflicht-Anker
+schützen. Die einzige bekannte Reibung, das kalte Zimmer (B1 Kap. 13/14 ↔ B4), **gibt es schon
+heute**. Der Plan verschärft sie nicht (Schritt 2, „Was nicht passieren darf“), löst sie aber
+auch nicht, denn dafür müsste Band 4 angefasst werden.
+
+**Damit gilt die Vorgabe:** kein Schritt erfordert eine Änderung an Band 2–5.
 
 ---
 
@@ -448,11 +548,12 @@ ob Leser *überhaupt* scannen (Kontrollwert).
 
 | Wann | Was | Warum zu diesem Zeitpunkt |
 |---|---|---|
-| Sofort | Ü6 (Anhang) + Domain einrichten → **eigener, kleiner Upload** | Wirkt sofort auf jedes gedruckte Exemplar, auch im Weihnachtsgeschäft. Kaum Risiko. Die Zählung der Scans beginnt **mit der alten Fassung**. Das liefert einen Vergleichswert für später. |
-| Sofort, parallel | Testleser mit der **aktuellen** Fassung (Abschnitt 6) | Prüft die Kurve, bevor Arbeit in die Überarbeitung fließt |
-| Parallel | KDP-Regel zu Inhaltsänderungen klären. Kanon-Entscheidung zu O2 (Ü2) | Beides kann die Überarbeitung stoppen oder ändern. Es muss vorher klar sein. |
-| Danach | Ü1 → Ü2 → Ü3 → Ü4 → Ü5 schreiben, dann Stil- und Kontinuitätsprüfung, Cover neu | Reihenfolge nach Nutzen (Abschnitt 7) |
-| **Upload Ü1–Ü5** | Spätestens **20.11.**, oder erst **Anfang Januar** | Der 20.11. lässt Zeit für ~72 h KDP-Prüfung vor dem Dezember-Geschäft. Ist bis dahin nicht **alles geprüft**, lieber nach Weihnachten. Ein Fehler in der Hochsaison kostet mehr als vier Wochen Warten. |
+| Sofort | **Schritt 0** (Tag setzen, Ausgangswerte, KDP-Regel klären) | Die KDP-Regel kann den ganzen Textumbau stoppen. Das muss vor der Schreibarbeit klar sein. |
+| Sofort | **Schritt 1** + Domain → **Upload A** | Wirkt sofort auf jedes gedruckte Exemplar, auch im Weihnachtsgeschäft. Fasst keinen Romantext an. Die Zählung der Scans beginnt **mit der alten Fassung** und liefert so den Vergleichswert. |
+| Sofort, parallel | Testleser Runde 1 mit der **alten** Fassung (Abschnitt 6) | Prüft die Kurve, bevor die Arbeit an Schritt 2 beginnt |
+| Danach | **Schritt 2 → 3 → 4 → 5 → 6**, jeder mit Kontrolle, Commit und Tag | Reihenfolge nach Nutzen. Ist die Zeit knapp, steht das Wichtigste (der Schluss) zuerst fertig. |
+| Vor Upload B | **Schritt 7** (Endabnahme, Testleser Runde 2, Cover, Klappentext) | Erst wenn alle 11 Punkte bestanden sind |
+| **Upload B** | Spätestens **20.11.**, oder erst **Anfang Januar** | Der 20.11. lässt Zeit für ~72 h KDP-Prüfung vor dem Dezember-Geschäft. Ist Schritt 7 bis dahin nicht bestanden, lieber nach Weihnachten. Ein Fehler in der Hochsaison kostet mehr als vier Wochen Warten. **Notlösung:** Hochgeladen werden darf auch der Stand nach einem früheren Schritt, solange Schritt 7 (Punkte 1–4 und 6–11) für genau diesen Stand bestanden ist. |
 | Ab Januar | Auswertung: Scans alt gegen neu, Durchlesequote nach Kaufmonat | Siehe Abschnitt 8 |
 
 ---
@@ -470,13 +571,22 @@ ob Leser *überhaupt* scannen (Kontrollwert).
   „Was bleiben muss“ (5.4), und die Kürzung richtet sich nur auf Wiederholungen (5.1). Ziel sind
   22.000 Wörter, **nicht** die 17.000 der anderen Bände. Band 1 darf länger sein, solange die
   zusätzlichen Seiten Neues bringen.
-- **Macht Ü2 das Buch gruseliger, als es sein darf?** Das Risiko besteht. Gegenmittel: Die Vision
-  zeigt Gefühle (Angst, Einsamkeit), keinen Unfall im Detail. Sie steht vor dem warmen Abschied,
-  und die Testleser prüfen sie.
+- **War Punkt 2 in Fassung 2 richtig?** Teilweise nicht. Die Lücke ist echt (O1, O2). Eine Antwort
+  hätte aber Band 4 berührt, denn das kalte Zimmer ist dort Fabers Zimmer. Das habe ich in Fassung 2
+  übersehen, weil ich nur nach „Lina“ gesucht hatte, nicht nach dem *Raum*. Die neue kleine Fassung
+  (7.1) beseitigt den Eindruck, etwas sei vergessen worden, aber nicht die Lücke selbst. **Das ist
+  ein bewusster Kompromiss zugunsten der Vorgabe „Band 2–5 bleiben unberührt“.**
+- **Sind die Kontrollen streng genug?** Die Skript-Prüfungen sind hart (Exit-Code), aber blind für
+  Qualität. Deshalb endet jeder Schritt mit einer **Lesung am Stück**, und das Buch geht erst nach
+  **Testlesern Runde 2** hoch. Die Schwachstelle bleibt der Mensch, der liest. Gegenmittel sind
+  Rücknahme statt Nachflicken (7.2, Regel 2) und eine Freigabe durch den Autor bei Schritt 2a und 3.
+- **Kann der Umbau die Stimme von Band 1 verwässern?** Ja, und das wäre doppelt teuer, weil Band 1
+  der Stimmen-Maßstab der Serie ist. Darum wird der Maßstab vorher eingefroren (`band1-vor-umbau`),
+  und neuer Text muss in dessen Korridor liegen (7.2, Regel 5).
 - **Lohnt sich der Aufwand?** Grob gerechnet: Bei ~250 Band-1-Käufen im Monat bringen **+10
   Prozentpunkte** Durchlesequote ~25 Band-2-Käufe mehr. Wer Band 2 kauft, kauft oft weiter
   (60–80 %), also kommen etwa 60 bis 70 Bände der Reihe zusätzlich im Monat hinzu. Zum Preis eines
   Uploads und einiger Tage Arbeit. **Das ist eine Schätzung mit großer Unsicherheit.** Sie zeigt aber,
   dass es um eine Größenordnung geht, die sich lohnt.
-- **Was, wenn die Testleser meine Kurve nicht bestätigen?** Dann gilt ihre Kurve. Ü5 und Ü6 bleiben
-  trotzdem richtig, weil sie Fehler beheben und keine Geschmacksfrage sind.
+- **Was, wenn die Testleser meine Kurve nicht bestätigen?** Dann gilt ihre Kurve. Schritt 1 und 6
+  bleiben trotzdem richtig, weil sie Fehler beheben und keine Geschmacksfrage sind.
