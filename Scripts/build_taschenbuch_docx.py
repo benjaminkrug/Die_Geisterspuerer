@@ -29,6 +29,7 @@ Folge fuers Cover: Scripts/build_cover.py rechnet Band 1 mit 5 x 8 Zoll
 
 import os
 import re
+import sys
 from docx import Document
 from docx.shared import Pt, Cm, Inches
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
@@ -36,17 +37,22 @@ from docx.enum.section import WD_SECTION_START
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
 AUTHOR = "Benjamin Krug"
 INPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "Band1", "Manuskript", "Manuskript_Band1_Komplett.md")
 OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "Output", "Band1", "KDP_Band1_Manuskript.docx")
 
 SCENE_BREAK_SYMBOL = "\u2726  \u2726  \u2726"
 
-# --- Amazon-Rezension: QR-Code auf der "Hat's dir gefallen?"-Seite ---
-# ASIN von Band 1 (Taschenbuch). Bei neuer Ausgabe hier anpassen.
-BAND1_ASIN = "B0GNZVXDDJ"
-REVIEW_URL = f"https://www.amazon.de/review/create-review?asin={BAND1_ASIN}"
-QR_IMAGE = os.path.join(os.path.dirname(__file__), "..", "Band1", "Cover", "qr_rezension_band1.png")
+# --- Anhang: Leseprobe, QR-Codes, ASINs ---
+# Stehen in Scripts/band1_anhang.py (gemeinsam mit dem eBook).
+# Bei neuer Ausgabe von Band 1: BAND1_ASIN DORT anpassen.
+import band1_anhang as anhang
+
+# --entwurf: fehlende QR-Codes durch gleich grosse Platzhalter ersetzen (nur zum
+# Seitenzaehlen, NICHT hochladen). Ohne Flag bricht der Bau bei fehlendem Code ab.
+ENTWURF = False
 
 
 def setup_page(section):
@@ -238,13 +244,88 @@ def add_front_matter(doc):
     add_centered_text(doc, "Independently published", font_size=9)
 
 
-def add_back_matter(doc):
-    """Add back matter: review request, Band 2 teaser, series list, cross-references."""
-    add_page_break(doc)
+def add_qr_or_placeholder(doc, pfad, width_inches):
+    """Echter QR-Code; im Entwurfsmodus ein gleich grosser Platzhalter.
+    Ohne Entwurfsmodus und ohne Code: Abbruch. Ein Buch ohne Code darf nicht in den Druck."""
+    if os.path.isfile(pfad):
+        return add_centered_image(doc, pfad, width_inches=width_inches)
+    if not ENTWURF:
+        raise SystemExit(
+            f"ABBRUCH: QR-Code fehlt: {pfad}\n"
+            f"  Erst `py Scripts/build_qr_rezension.py` laufen lassen.\n"
+            f"  Nur zum Seitenzaehlen: --entwurf (setzt einen Platzhalter gleicher Groesse)."
+        )
+    from PIL import Image, ImageDraw
+    platzhalter = os.path.join(os.path.dirname(OUTPUT_FILE), "qr_platzhalter_ENTWURF.png")
+    os.makedirs(os.path.dirname(platzhalter), exist_ok=True)
+    bild = Image.new("RGB", (480, 480), (200, 200, 200))
+    ImageDraw.Draw(bild).text((150, 230), "QR FEHLT - ENTWURF", fill=(0, 0, 0))
+    bild.save(platzhalter)
+    print(f"  !! ENTWURF: Platzhalter statt {os.path.basename(pfad)} -- NICHT hochladen")
+    return add_centered_image(doc, platzhalter, width_inches=width_inches)
 
-    # --- 1. Rezensions-Bitte ---
+
+def add_leseprobe(doc):
+    """Leseprobe aus Band 2, Absaetze aus Scripts/band1_anhang.py (gegen die Quelle geprueft)."""
+    absaetze, _ = anhang.pruefe_leseprobe()
+
+    add_page_break(doc)
+    p = add_centered_text(doc, "Leseprobe aus Band 2", font_size=10, italic=True)
+    p.paragraph_format.space_before = Pt(40)
+    p = add_centered_text(doc, anhang.BAND2_KAPITEL, font_size=14, bold=True)
+    p.paragraph_format.space_before = Pt(10)
+    p.paragraph_format.space_after = Pt(30)
+    p.paragraph_format.keep_with_next = True
+
+    erster = True
+    for a in absaetze:
+        if a == anhang.SZENENWECHSEL:
+            add_scene_break(doc)
+            erster = True
+            continue
+        add_formatted_paragraph(doc, a, first_line_indent=not erster)
+        erster = False
+
+
+def add_back_matter(doc):
+    """Anhang (Schritt 1, Plan Band1/PLAN_Durchlesequote.md):
+    Ende -> Band 2 (Cover, echte Leseprobe, QR-Code, Zeile fuer Eltern)
+    -> Rezensionsbitte -> Bandliste -> andere Buecher (kurz).
+    Band 2 kommt ZUERST: Wer die letzte Seite erreicht, ist am neugierigsten."""
+
+    # --- 1. Bruecke zu Band 2 ---
+    add_page_break(doc)
+    add_blank_lines(doc, 2)
+    add_centered_text(doc, "Wie geht es weiter?", font_size=16, bold=True)
+    add_blank_lines(doc, 1)
+    add_centered_text(doc, "Elf Kreise auf Frau Silbers Karte.", font_size=11)
+    add_centered_text(doc, "Der nächste liegt am alten Friedhof.", font_size=11)
+    add_blank_lines(doc, 1)
+    add_centered_image(doc, anhang.COVER_BAND2, width_inches=1.9)
+    add_blank_lines(doc, 1)
+    add_centered_text(doc, "Die Geisterspürer · Band 2", font_size=11)
+    add_centered_text(doc, anhang.BAND2_TITEL, font_size=14, italic=True)
+
+    # --- 2. Leseprobe ---
+    add_leseprobe(doc)
+
+    # --- 3. Weiter zu Band 2 (QR) ---
+    add_page_break(doc)
     add_blank_lines(doc, 3)
-    add_centered_text(doc, "\u201eDas Haus, das fl\u00fcstert\u201c hat dir gefallen?", font_size=14, bold=True)
+    add_centered_text(doc, "Wie es weitergeht, steht in", font_size=12)
+    add_centered_text(doc, "Die Geisterspürer · Band 2", font_size=14, bold=True)
+    add_centered_text(doc, anhang.BAND2_TITEL, font_size=14, italic=True)
+    add_blank_lines(doc, 2)
+    add_qr_or_placeholder(doc, anhang.QR_BAND2, width_inches=1.4)
+    add_blank_lines(doc, 1)
+    add_centered_text(doc, "Code mit dem Handy scannen und Band 2 ansehen.", font_size=10, italic=True)
+    add_blank_lines(doc, 2)
+    add_centered_text(doc, "Für Eltern: Der Code führt zur Seite von Band 2 bei Amazon.", font_size=9, italic=True)
+
+    # --- 4. Rezensions-Bitte (muss auf EINE Seite passen) ---
+    add_page_break(doc)
+    add_blank_lines(doc, 1)
+    add_centered_text(doc, "„Das Haus, das flüstert“ hat dir gefallen?", font_size=14, bold=True)
     add_blank_lines(doc, 1)
     add_formatted_paragraph(
         doc,
@@ -259,64 +340,20 @@ def add_back_matter(doc):
         "zu entdecken. Und mir hilft sie, weitere Bände zu schreiben.",
         first_line_indent=False,
     )
-    add_blank_lines(doc, 2)
+    add_blank_lines(doc, 1)
 
     # QR-Code direkt zur Bewertung
     add_centered_text(doc, "Einfach den Code scannen und eine Bewertung dalassen:", font_size=11, italic=True)
     add_blank_lines(doc, 1)
-    add_centered_image(doc, QR_IMAGE, width_inches=1.6)
-    add_blank_lines(doc, 1)
+    add_qr_or_placeholder(doc, anhang.QR_REZENSION, width_inches=1.4)
     add_centered_text(doc, "(Handykamera auf den Code halten – der Link öffnet sich von selbst.)", font_size=9, italic=True)
+    add_blank_lines(doc, 1)
+    add_centered_text(doc, f"Vielen Dank! – {AUTHOR}", font_size=11)
 
-    add_blank_lines(doc, 2)
-    add_centered_text(doc, "Vielen Dank!", font_size=11)
-    add_centered_text(doc, AUTHOR, font_size=11)
-
-    # --- 2. Teaser Band 2 ---
+    # --- 5. Serien-Übersicht ---
     add_page_break(doc)
     add_blank_lines(doc, 2)
-    add_centered_text(doc, "Weiterlesen? Hier kommt eine Vorschau auf Band 2:", font_size=11, italic=True)
-    add_blank_lines(doc, 2)
-    add_centered_text(doc, "Die Geisterspürer", font_size=18, bold=True)
-    add_centered_text(doc, "Der Friedhof ohne Namen", font_size=14, italic=True)
-    add_centered_text(doc, "Band 2", font_size=11)
-    add_blank_lines(doc, 2)
-
-    Q = "\u201e"
-    E = "\u201c"
-    teaser_paragraphs = [
-        "Schatten wollte nicht rein.",
-        "Das erfuhr Nora erst am Tor — aber beim Frühstück, eine Stunde vorher, hatte sie ihn schon angesehen und gedacht: Er weiß es schon. Er weiß immer, was kommt.",
-        "Frau Silbers Karte lag seit Tagen auf ihrem Schreibtisch. Handgezeichnet, zwölf Markierungen. Eine war durchgestrichen. Lina. Elf blieben übrig.",
-        "Die nächste: der alte Friedhof am Rand der Altstadt. Drei Straßen von ihrer Wohnung entfernt.",
-        "Nora hatte beim Frühstück keine besondere Eile gezeigt.",
-        "\"Du isst seit zwanzig Minuten dasselbe Brötchen\", sagte Theo.",
-        "Er saß ihr gegenüber und hatte bereits zwei Brötchen, eine Schüssel Müsli und ein Glas Orangensaft geschafft. Schatten saß neben seinem Stuhl und wartete geduldig auf Krümel. Seine bernsteinfarbenen Augen gingen von Theo zu Nora und wieder zurück.",
-        "\"Ich kaue gründlich\", sagte Nora.",
-        "\"Du kaust gar nicht. Du starrst das Brötchen an.\"",
-        "\"Ich denke nach.\"",
-        "Theo lehnte sich zurück. \"Du hast Angst.\"",
-        "Nora legte das Brötchen auf den Teller. Ihr Magen hatte sich beim Aufwachen schon zusammengezogen — ein kleines, unangenehmes Knoten-Gefühl, das sie die ganze Zeit beim Zähneputzen begleitet hatte. Ihr Mund war trocken. Den Tee hatte sie kaum angerührt.",
-        "\"Ich habe keine Angst\", sagte sie.",
-        "\"Wir gehen heute auf einen Friedhof\", sagte Theo. \"Um einen Geist zu suchen. Nach allem, was letzten Monat passiert ist.\" Er machte eine kleine Pause. \"Ich habe Angst. Das sage ich einfach mal laut.\"",
-        "\"Dann bleib hier.\"",
-        "\"Auf keinen Fall.\"",
-        "Sie brachen zwanzig Minuten später auf.",
-        "Die Sonne schien. Das war fast verdächtig. Nora hatte irgendwie mit Regen gerechnet, mit grauem Himmel, mit dem richtigen Wetter für einen Friedhofsbesuch. Stattdessen: klarer Herbstmorgen, goldenes Licht auf den Kopfsteinpflastern, der Geruch von frischen Brezeln aus der Bäckerei an der Ecke.",
-        "Gravenstedt wirkte harmlos, wenn die Sonne schien.",
-        "Nora wusste inzwischen, dass das täuschte.",
-    ]
-
-    for i, para in enumerate(teaser_paragraphs):
-        add_formatted_paragraph(doc, para, first_line_indent=(i > 0))
-
-    add_blank_lines(doc, 2)
-    add_centered_text(doc, "Jetzt überall erhältlich.", font_size=11, italic=True)
-
-    # --- 3. Serien-Übersicht ---
-    add_page_break(doc)
-    add_blank_lines(doc, 2)
-    add_centered_text(doc, "Die Geisterspürer \u2014 Alle Bände", font_size=14, bold=True)
+    add_centered_text(doc, "Die Geisterspürer — Alle Bände", font_size=14, bold=True)
     add_blank_lines(doc, 1)
 
     for band_num, title in [
@@ -332,59 +369,26 @@ def add_back_matter(doc):
             first_line_indent=False,
         )
 
-    # Hinweis: Geisterspürer auch als interaktives Mitmach-Buch
     add_blank_lines(doc, 1)
     add_formatted_paragraph(
         doc,
-        "Übrigens: Die Geisterspürer gibt es auch als interaktives Mitmach-Buch, "
-        "in dem *du* entscheidest, was Nora und Theo als Nächstes tun — mit vielen "
-        "Wegen und Enden. Frag mal danach!",
+        "Die Geisterspürer gibt es auch als Mitmach-Buch, in dem *du* entscheidest, "
+        "was Nora und Theo als Nächstes tun.",
         first_line_indent=False,
     )
 
-    # --- 4. Cross-Verweis andere Serien ---
+    # --- 6. Andere Serien (gekuerzt) ---
     add_blank_lines(doc, 1)
     add_centered_text(doc, SCENE_BREAK_SYMBOL, font_size=11)
     add_blank_lines(doc, 1)
-    add_centered_text(doc, "Mehr spannende Abenteuer von Benjamin Krug:", font_size=14, bold=True)
+    add_centered_text(doc, "Mehr von Benjamin Krug:", font_size=13, bold=True)
     add_blank_lines(doc, 1)
-
-    # Herrenhaus-Detektive
-    add_centered_text(doc, "Die Herrenhaus-Detektive", font_size=13, bold=True)
+    add_centered_text(doc, "Die Herrenhaus-Detektive", font_size=12, bold=True)
+    add_centered_text(doc, "Detektivabenteuer ab 8 Jahren", font_size=10, italic=True)
     add_blank_lines(doc, 1)
-    add_formatted_paragraph(
-        doc,
-        "Niemand darf das alte Herrenhaus betreten. Aber Jonas, Mila und Ben "
-        "finden einen Schl\u00fcssel \u2014 und hinter der verschlossenen "
-        "T\u00fcr wartet ein Geheimnis, das seit drei\u00dfig Jahren niemand "
-        "l\u00fcften durfte.",
-        first_line_indent=False,
-    )
-    add_blank_lines(doc, 1)
-    add_centered_text(doc, "Spannendes Detektivabenteuer ab 8 Jahren.", font_size=11, italic=True)
-
-    add_blank_lines(doc, 2)
-
-    # Herrenhaus interaktiv: "Dein Fall \u2013 Du entscheidest!"
-    add_centered_text(doc, "Dein Fall \u2013 Du entscheidest!", font_size=13, bold=True)
+    add_centered_text(doc, "Dein Fall – Du entscheidest!", font_size=12, bold=True)
     add_centered_text(doc, "Das verbotene Herrenhaus", font_size=11, italic=True)
-    add_blank_lines(doc, 1)
-    add_formatted_paragraph(
-        doc,
-        "Kein normales Buch: Hier bestimmst *du*, was passiert. An jeder wichtigen "
-        "Stelle triffst du eine Entscheidung \u2013 und schl\u00e4gst die Seite auf, die zu "
-        "deiner Wahl geh\u00f6rt.",
-        first_line_indent=False,
-    )
-    add_formatted_paragraph(
-        doc,
-        "Vier Wege durch das alte Herrenhaus, 14 verschiedene Enden. Findest du "
-        "den richtigen? Oder tappst du in die Falle? Bei jedem Lesen wird die "
-        "Geschichte neu.",
-        first_line_indent=False,
-    )
-    add_blank_lines(doc, 1)
-    add_centered_text(doc, "Interaktives Detektiv-Spielbuch ab 8 Jahren.", font_size=11, italic=True)
+    add_centered_text(doc, "Detektiv-Spielbuch ab 8 Jahren", font_size=10, italic=True)
 
 
 def add_chapter_heading(doc, title):
@@ -419,6 +423,10 @@ def parse_and_build(doc, content):
     # Remove ENDE BAND 1 and trailing ---
     body = re.sub(r'\n---\n\n\*\*ENDE BAND 1\*\*\n\n---\n*', '', body)
     body = re.sub(r'\n\*\*ENDE BAND 1\*\*\n*', '', body)
+    # Schritt 1 (2026-10): Das Manuskript endet auf "---" + ENDE-Marker. Nach dem
+    # Entfernen des Markers blieb das "---" stehen -> Ornament hinter dem letzten
+    # Satz des Buches. Trenner am Textende immer entfernen.
+    body = re.sub(r'(\n\s*---\s*)+$', '\n', body.rstrip() + '\n')
 
     lines = body.split('\n')
 
@@ -477,6 +485,9 @@ def parse_and_build(doc, content):
 
 
 def main():
+    global ENTWURF
+    ENTWURF = "--entwurf" in sys.argv
+
     # Read manuscript
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         content = f.read()

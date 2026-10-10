@@ -733,3 +733,68 @@ ohne Wirkung**, Angst ohne Einlösung.
 dass **drei Vorbereitungen jetzt eine Wirkung haben** (Klopfen → OBEN → Zimmer; Noras Angst →
 Kälte wehrt sich; Tagebuch mitnehmen → zurückgeben). Das misst das Raster nicht, Leser
 spüren es aber als „alles passt zusammen“.
+
+---
+
+## Schritt 1 · Anhang und Brücke zu Band 2 · 2026-10-10
+
+Nur die Bau-Skripte, **kein Manuskripttext**. Neu: `Scripts/band1_anhang.py` (gemeinsame Daten für
+Taschenbuch und eBook), `Scripts/pruefe_band1_anhang.py` (Prüfung am gebauten DOCX),
+`Band1/Cover/band2_vorderseite_leseprobe.jpg` (Vorderseite aus `Band2/Cover/Bilder/v1.png`,
+dieselbe Datei nutzt das A+-Content von Band 2).
+
+### Neue Reihenfolge des Anhangs
+
+| # | Seite | Warum |
+|---|---|---|
+| 1 | „Wie geht es weiter?“ · „Elf Kreise auf Frau Silbers Karte. Der nächste liegt am alten Friedhof.“ · Cover Band 2 | Direkt nach der letzten Seite ist die Neugier am größten. Beide Sätze stimmen mit Band 1 (Kap. 14–16) und Band 2 (S. 1) überein. |
+| 2 | **Leseprobe** Band 2, Kap. 1 (37 Absätze, 480 Wörter) | Wird beim Bau aus `Manuskript_Band2_Komplett.md` gelesen und geprüft, nicht abgetippt. |
+| 3 | „Wie es weitergeht, steht in …“ · **QR-Code zu Band 2** · Zeile für Eltern | Taschenbuch: QR. eBook: klickbarer Link. |
+| 4 | Rezensionsbitte mit QR (Text unverändert, passt jetzt auf eine Seite) | Kommt nach Band 2: Wer bis hier liest, mochte das Buch. |
+| 5 | Bandliste, Mitmach-Buch in einem Satz, andere Serien gekürzt auf Titel + Alter | |
+
+### Entscheidungen mit Begründung
+
+- **Leseprobe endet bei** „Schatten saß auf dem Gehsteig. Vier Pfoten fest auf dem Pflaster. Er war
+  keinen Millimeter durch das Tor getreten.“ Starker Haken, derselbe wie im Band-2-Klappentext.
+  **Nicht weiter**, weil danach „Er ist noch nie …“ / „War er nicht.“ kommt. In Band 1 hat sich
+  Schatten schon geweigert (Kap. 2, Kap. 5 sagt es ausdrücklich).
+- **Ein Absatz ausgelassen:** „Er hatte recht. Von der Straße aus sah man nur die Bäume — hohe, alte
+  Kastanien …“. In Band 1, Kap. 15, sehen die Kinder von der anderen Straßenseite Grabsteine und eine
+  Gestalt. Direkt hintereinander gelesen fällt das auf. Ohne den Absatz liest sich die Stelle glatt.
+- **Plan-Kontrolle (b) aufgehoben** („kein Herbst, kein ‚letzten Monat‘“): Sie sollte den Widerspruch
+  zum alten Schlusswort „Morgen“ verhindern. Das gibt es nach Schritt 2 nicht mehr, und Band 2 sagt
+  beides auf Seite 1. Die Regel hätte jede echte Leseprobe blockiert. Ersetzt durch: keine Reste der
+  erfundenen Leseprobe.
+- **Ornament am Buchende entfernt:** Das Manuskript endet auf „---“ + ENDE-Marker. Beide Renderer
+  ließen das „---“ stehen, also stand hinter dem letzten Satz des Buches ein Ornament (war schon in
+  der veröffentlichten Fassung so). Jetzt wird ein Trenner am Textende immer entfernt.
+- **eBook:** erfundene Leseprobe („Heinrich M. – 1847“, „vor drei Wochen“, „mitten im Juli“ am
+  Friedhof) und „Erscheint 2026“ ersetzt. Links statt QR-Codes.
+- **QR-Ziel:** Solange die Domain fehlt, führt der Code direkt auf `amazon.de/dp/B0GV8R8QJ6`.
+  Umstellen: in `band1_anhang.py` `WEITERLEITUNG_BAND2` setzen → `build_qr_rezension.py` erzeugt den
+  Code automatisch neu.
+
+### Kontrolle (am gebauten DOCX, `pruefe_band1_anhang.py`)
+
+| | Taschenbuch | eBook |
+|---|---|---|
+| (a) Leseprobe wörtlich, vollständig, in Reihenfolge | ✅ | ✅ |
+| (b) keine Reste der alten Leseprobe | ✅ | ✅ |
+| (c) QR / Links | ⏳ QR „Band 2“ **fehlt** (s. u.); Rezensions-QR eingebettet ✅ | ✅ beide Links |
+| (d) Anführungszeichen „ 926 / “ 926 / gerade 0 / doppelt 0 | ✅ | ✅ |
+| (e) Fehl-Ornamente 0 (auch am Buchende) | ✅ | ✅ |
+| Kapitel 16 + Leseprobe | ✅ | ✅ |
+
+⚠️ **Der QR-Code „weiter zu Band 2“ konnte hier nicht erzeugt werden:** Die Umgebung kommt nicht an
+PyPI (`qrcode`, `opencv` fehlen). Der Code-Pfad ist mit Attrappen durchgetestet (erzeugen, wieder
+einlesen, zweiter Lauf „unverändert“), die echte Erzeugung läuft beim Autor:
+`py Scripts/build_qr_rezension.py` → `py Scripts/build_taschenbuch_docx.py` →
+`py Scripts/build_ebook_docx.py` → `py Scripts/pruefe_band1_anhang.py` (muss „ALLES BESTANDEN“
+melden). Ohne den Code bricht der Taschenbuch-Bau ab; `--entwurf` setzt nur zum Seitenzählen einen
+Platzhalter.
+
+### Seitenzahl
+
+LibreOffice-Proxy: 179 (Stand nach Schritt 7) → **181** (+2). Hochgerechnet ≈ **160 KDP-Seiten**
+(181 ÷ 211 × 186). Die echte Zahl zeigt erst die KDP-Vorschau → dann Cover-Rücken.

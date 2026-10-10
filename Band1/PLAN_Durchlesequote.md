@@ -51,7 +51,7 @@
    - Schritt 7: Endabnahme.
    - Ziel sind etwa **22.000 statt 27.000 Wörter**. Gestrichen wird nur, was sich wiederholt.
    - **Kein Schritt erfordert eine Änderung an Band 2 bis 5** (7.5).
-6b. **Stand 2026-10-10: Die Schritte 0 und 2–6 sind erledigt, die Endabnahme (7) ist bis auf die Testleser bestanden.** Auf Wunsch des Autors ohne Rücksicht auf die 10-%-Regel. Band 1 hat jetzt 16 Kapitel und ~22.600 Wörter. Offen: Schritt 1 (Anhang/QR), Testleser, KDP-Eintrag, Cover-Rücken, Spielbuch-Abgleich. Details: `Band1/Umbau/Umbau_Protokoll.md`.
+6b. **Stand 2026-10-10: Die Schritte 0 und 2–6 sind erledigt, die Endabnahme (7) ist bis auf die Testleser bestanden.** Auf Wunsch des Autors ohne Rücksicht auf die 10-%-Regel. Band 1 hat jetzt 16 Kapitel und ~22.600 Wörter. Schritt 1 (Anhang) ist gebaut und geprüft; offen ist nur der QR-Code „Band 2“ (Erzeugung beim Autor, Domain später). Offen außerdem: Testleser, KDP-Eintrag, Cover-Rücken, Spielbuch-Abgleich. Details: `Band1/Umbau/Umbau_Protokoll.md`.
 6a. **Schritt 0 ist erledigt (2026-10-10), und die Stopp-Regel hat ausgelöst:** KDP verlangt bei
    mehr als 10 % Seitenänderung eine neue Ausgabe (neue ASIN, Rezensionen weg). Das Ziel von 22.000
    Wörtern wären etwa −18 %. Empfehlung: KDP fragen und parallel eine Fassung unter 10 % vorbereiten
@@ -411,7 +411,7 @@ Schritten liegt bei **21.300–22.700**. ⚠️ **Gilt nur, wenn KDP das ohne ne
 |---|---|
 | **Arbeit** | Nur `Scripts/build_taschenbuch_docx.py` und `build_ebook_docx.py`, **nicht das Manuskript**. Reihenfolge: Ende → Band 2 (Cover, echte Leseprobe, QR-Code über die eigene Domain, Zeile für Eltern) → Rezensionsbitte → Bandliste. Herrenhaus und Spielbuch kürzen. eBook: Leseprobe ersetzen, „Erscheint 2026“ raus, Link. Anführungszeichen-Fix (Fehler 3) nach `TODO_Nachbesserung`. |
 | **Warum zuerst** | Wirkt sofort, auch vor Weihnachten. Fasst keinen Romantext an. **Die QR-Zählung startet mit der alten Fassung**, das liefert den Vergleichswert für später. |
-| **Kontrolle** | (a) Leseprobe **Absatz für Absatz** gegen `Manuskript_Band2_Komplett.md`, maschinell (jeder Absatz muss dort wörtlich vorkommen). (b) Die Leseprobe enthält **kein** „Herbst“, „letzten Monat“ oder „Wochen“, die dem Ende von Band 1 widersprechen. (c) QR-Code **im fertigen DOCX** dekodieren, Ziel = Weiterleitung, Weiterleitung → `amazon.de/dp/B0GV8R8QJ6` (wie `build_qr_rezension.py`). (d) Anführungszeichen im DOCX: öffnend = schließend, 0 doppelt öffnend. (e) Fehl-Ornamente = 0 (Prüfskript aus `TODO_Nachbesserung`). (f) Seitenzahl gegen 186/187 → bei Abweichung Cover über die KDP-Vorschau. |
+| **Kontrolle** | (a) Leseprobe **Absatz für Absatz** gegen `Manuskript_Band2_Komplett.md`, maschinell (jeder Absatz muss dort wörtlich vorkommen). (b) ~~Die Leseprobe enthält kein „Herbst“, „letzten Monat“ oder „Wochen“~~ **aufgehoben 2026-10-10** (das Schlusswort „Morgen“ gibt es nach Schritt 2 nicht mehr; Band 2 sagt beides auf S. 1). Stattdessen: keine Reste der erfundenen Leseprobe. (c) QR-Code **im fertigen DOCX** dekodieren, Ziel = Weiterleitung, Weiterleitung → `amazon.de/dp/B0GV8R8QJ6` (wie `build_qr_rezension.py`). (d) Anführungszeichen im DOCX: öffnend = schließend, 0 doppelt öffnend. (e) Fehl-Ornamente = 0 (Prüfskript aus `TODO_Nachbesserung`). (f) Seitenzahl gegen 186/187 → bei Abweichung Cover über die KDP-Vorschau. |
 | **Bestanden wenn** | (a)–(e) fehlerfrei, KDP-Vorschau ohne Warnung. |
 
 ---
