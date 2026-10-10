@@ -16,11 +16,11 @@ Nora begann zu lesen. „Liebe Finder dieses Briefes. Mein Name ist Margret Silb
 
 Sie las weiter. Ihre Stimme war fest.
 
-„Die Unruhigen sind gefangen. Jemand hat vor fast zweihundert Jahren etwas geöffnet, das geschlossen bleiben sollte. Eine Tür zwischen den Lebenden und den Toten. Seitdem können die Toten Gravenstedt nicht verlassen.“
+„Die Unruhigen sind gefangen. Jemand hat vor rund zweihundert Jahren etwas geöffnet, das geschlossen bleiben sollte. Eine Tür zwischen den Lebenden und den Toten. Seitdem können die Toten Gravenstedt nicht verlassen.“
 
 Theo starrte sie an. „Eine Tür? Wer macht denn so was?“
 
-Nora antwortete nicht. Sie dachte an die Chronik. *Gegründet im Jahr 1823.* Fast zweihundert Jahre. Und an den roten Kreis am Rand der Karte.
+Nora antwortete nicht. Sie dachte an die Chronik. *Im Jahr 1823.* Und an den roten Kreis am Rand der Karte.
 
 „Gefangen“, sagte Theo leise. „Wie Lina. Fünfzig Jahre lang.“
 
@@ -28,7 +28,7 @@ Nora antwortete nicht. Sie dachte an die Chronik. *Gegründet im Jahr 1823.* Fas
 
 Theo zog die Knie an die Brust. „Ich will nicht so lange irgendwo festhängen. Ich halte es ja nicht mal beim Zahnarzt im Wartezimmer aus.“
 
-Sie las weiter. „Die Erste, der ich geholfen habe, hieß Anna. Sie wollte nur, dass jemand ihren Namen ausspricht. Drei Nächte habe ich bei ihr gesessen. In der dritten sagte sie Danke. Dann war sie fort.“
+Sie las weiter. „Der erste Mensch, dem ich geholfen habe, war ein Mädchen. Anna. Sie wollte nur, dass jemand ihren Namen ausspricht. Drei Nächte habe ich bei ihr gesessen. In der dritten sagte sie Danke. Dann war sie fort.“
 
 „Danke“, wiederholte Theo leise. „Wie Lina. Am Fenster.“
 
@@ -96,7 +96,7 @@ Eine ganz normale Stadt. So sah es jedenfalls aus.
 
 Nora dachte an die Kreise auf der Karte. Hinter erleuchteten Fenstern. Unter normalen Dächern. Zwischen Menschen, die nichts ahnten. Elf, die noch warteten.
 
-Vor drei Wochen hätte sie gelacht, wenn jemand von Geistern geredet hätte. Jetzt saß sie nachts am Fenster und horchte auf Geräusche, die kein Messgerät aufzeichnen konnte.
+Vor ein paar Tagen hätte sie gelacht, wenn jemand von Geistern geredet hätte. Jetzt saß sie nachts am Fenster und horchte auf Geräusche, die kein Messgerät aufzeichnen konnte.
 
 Aus dem Flur kamen Schritte. Ihre Mutter stand in der Tür. Morgenmantel, verschlafene Augen.
 
@@ -104,7 +104,7 @@ Aus dem Flur kamen Schritte. Ihre Mutter stand in der Tür. Morgenmantel, versch
 
 „Konnte nicht schlafen.“
 
-Ihre Mutter setzte sich auf die Bettkante. Sie strich ihr eine Haarsträhne aus dem Gesicht. „Ihr habt euch gut eingelebt. Beide. Ich bin stolz auf euch.“
+Ihre Mutter setzte sich auf die Bettkante. Sie strich ihr eine Haarsträhne aus dem Gesicht. „Ihr habt euch schnell eingelebt. Beide. Ich bin stolz auf euch.“
 
 *Wenn du wüsstest*, dachte Nora.
 

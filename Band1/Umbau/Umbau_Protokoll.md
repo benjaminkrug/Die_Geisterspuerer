@@ -330,3 +330,51 @@ Delle weg ist.
 3. Schritt 1: Anhang + QR-Code (Domain), dabei die Leseprobe von Band 2 ersetzen
 4. KDP: Klappentext „16 Kapitel“; nach dem Upload Seitenzahl ablesen → Cover-Rücken
 5. Spielbuch Band 1 gegen die neue Fassung querlesen
+
+---
+
+## Nachprüfung Schritt 2 (auf Wunsch des Autors) · 2026-10-10
+
+Basis: `af3d359`. Auftrag: Schritt 2 noch einmal genau prüfen, jede Änderung begründen, nur
+einbauen, was den Text wirklich verbessert, und Logikfehler suchen.
+
+### Gefundene Logikfehler
+
+| # | Fehler | Herkunft | Eingriff |
+|---|---|---|---|
+| L1 | **Zeitspanne:** Von der Ankunft bis zu Linas Befreiung vergehen zwei Tage. Der Text sagte aber „in drei Wochen“ (K14), „vor drei Wochen“ (K16), „seit Wochen“ (K14), „in all den Wochen“ (K12), „in ihrer ersten Woche“ (K13). | Im Original angelegt (dort ~4 Tage, aber „Wochen“). Schritt 2 hat zwei Stellen übernommen bzw. neu geschrieben, Schritt 4 hat die Zeit weiter verkürzt. | „seit dem Umzug“, „Vor ein paar Tagen“, „Seit sie ihn kannten“, „am ersten Tag“. Theos Witz („bei dem Tempo bin ich dreißig“) rechnete mit drei Wochen und ist ersetzt: *„Wenn jeder so gruselig wird wie Lina, hab ich mit elf graue Haare.“ – „Du bist zehn.“ – „Eben. Ein Jahr noch.“* Mama: „gut eingelebt“ → „schnell eingelebt“. |
+| L2 | **Nasse Tinte:** Nora folgerte „heute Nacht durchgestrichen“. Nasse Tinte heißt aber: höchstens Minuten alt. | Schritt 2 | „Tinte trocknet schnell. Dieses Kreuz konnte höchstens ein paar Minuten alt sein.“ |
+| L3 | **Staub:** „Ohne Fingerabdruck … nur Schattens Nase“. Nora hatte das Brett aber selbst herausgezogen. | Schritt 2 | „Darin nur zwei Spuren. Schattens Nase. Und ihre eigenen Finger von vorhin.“ |
+| L4 | **Selbst erzeugt bei L2:** Die Karte lag unbeaufsichtigt in der Küche, während Nora im Arbeitszimmer las. „Minuten alt“ hätte dann bloß bedeutet, dass jemand in dieser Zeit in der Küche war, und das unberührte Versteck wäre als Beweis wertlos (Regel 2: ein Fix bricht etwas anderes). | Nachprüfung | Nora nimmt die Karte mit ins Arbeitszimmer und gibt sie nicht aus der Hand. Jetzt ist es wirklich unmöglich: Minuten alt, aber bis eben in einem Versteck, das seit Monaten niemand geöffnet hat. |
+| L5 | „Schatten hatte **damals** hingestarrt.“ Der Bibliotheksbesuch war gestern. | Schritt 2 | „Sie waren gestern daran vorbeigegangen.“ |
+| L6 | „**Die Erste**, der ich geholfen habe, hieß Anna“ steht zwei Absätze vor „hütet euch vor **dem Ersten**“. Verwechslungsgefahr für Kinder. | Schritt 2 (Original: „den ersten Menschen“) | „Der erste Mensch, dem ich geholfen habe, war ein Mädchen. Anna.“ |
+| L7 | „vor **fast** zweihundert Jahren“ und Noras Gedanke „1823 … fast zweihundert Jahre“. Es sind gut 200. | Brief im Original; Schritt 2 hat es durch Noras Gedanken betont | „vor rund zweihundert Jahren“. Noras Gedanke nur noch „Im Jahr 1823.“ |
+| L8 | Am Morgen nach dem ersten Schultag sind die Kinder nicht in der Schule. | Original (ebenso im alten Kap. 14) | Ein Satz: „Samstag. Keine Schule.“ |
+
+### Inhaltliche Verbesserungen (nur diese)
+
+| # | Was | Warum es wirklich besser ist |
+|---|---|---|
+| V1 | **Das blaue Licht (Ende Kap. 13) wird aufgegriffen.** Nora erkennt auf der Karte die Richtung wieder: Friedhof, „Drei, vielleicht vier Straßen“. „Sicher war sie nicht. Aber die Richtung stimmte.“ | Schritt 2 hatte einen **Cliffhanger ohne Folge** hinterlassen (das alte Kap. 14 griff ihn auf, das neue nicht). Jetzt läuft eine Linie: blaues Licht → Friedhofskreis → Gestalt (K15) → Raureif auf der Karte (K16). Abstand passt zu Band 2 (*„drei Straßen von ihrer Wohnung“*). Band 2–5 nennen das blaue Licht nicht (geprüft); Band 5 kennt „blaue Markierungen“ auf der Karte, das passt. |
+| V2 | „Tinte … wie getrocknetes **Blut**“ → „Dunkelrot wie altes Siegelwachs“ | CLAUDE.md: kein Blut. Der Vergleich stammte aus dem alten Kap. 15. Das Siegelwachs verbindet den roten Kreis mit Silbers rotem Siegel in K15. |
+
+### Bewusst NICHT geändert
+
+| Stelle | Warum nicht |
+|---|---|
+| Theo: *„Wir waren auf einem Friedhof.“* (eigentlich gegenüber) | Theos Übertreibung, Figurenstimme (vgl. „Das hört man wahrscheinlich in Hamburg“). Kein Fehler. |
+| *„Schatten stand im Türrahmen. Er kam nicht herein.“* | Gewolltes Unbehagen beim Wort „der Erste“. Kein Widerspruch zu Kap. 5. |
+| Der Mann am Friedhof nur als „Umrisse eines Mannes“ | Band 2 hat zwei Gestalten (Brenner klein und gebückt, Voss groß). Jede Beschreibung legt fest, wer es war. Offenlassen ist richtig. |
+| Länge der Kapitel 14–16 (~1.130–1.180 W) | Unter dem Richtwert von ~1.200, aber im Rahmen von Band 3/4. Mehr wäre Füllstoff. |
+
+### Kontrolle
+
+| Prüfung | Ergebnis |
+|---|---|
+| `pruefe_band1_umbau.py --basis af3d359 --schritt 2` | ✅ alle harten Prüfungen bestanden |
+| gegen `4e983cf` | ✅ 27.179 → 22.680 W; Stimme: Und-Anfänge +2 %, Kurzabsätze +10 % |
+| `pruefe_logik.py 1` | **9 → 8** Kandidaten („damals“ entfällt) |
+| Regel 3 | Echo „ganz frisch“ / „ganz neu“ behoben → „höchstens ein paar Minuten alt“ |
+| Suche „Woche(n)“ | nur noch 2×, beide über die Zeit **vor** dem Umzug (richtig) |
+| Kapitel-Dateien | neu erzeugt, 0 Abweichungen zur Komplett-Datei |
+| Doku | Zeitlinie in `Die_Geisterspuerer_Author_Info.md`: Samstag, blaues Licht, Tinten-Logik, Zeitspanne |

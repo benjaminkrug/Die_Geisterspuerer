@@ -36,7 +36,7 @@ Der Flur lag im Dunkeln. Mondlicht fiel durch das Küchenfenster am Ende des Gan
 
 „Ich weiß.“
 
-Sie ging den Flur entlang. Vorbei an der Küche. Vorbei an dem Zimmer mit den Notizen und der Namensliste. Bis zum Ende des Gangs. Bis zu der Tür, die immer geschlossen gewesen war. Das kalte Zimmer. Der Raum, den Schatten in ihrer ersten Woche gemieden hatte. Vor dem er sich quergestellt und geknurrt hatte. In den er sie nicht gelassen hatte.
+Sie ging den Flur entlang. Vorbei an der Küche. Vorbei an dem Zimmer mit den Notizen und der Namensliste. Bis zum Ende des Gangs. Bis zu der Tür, die immer geschlossen gewesen war. Das kalte Zimmer. Der Raum, den Schatten am ersten Tag gemieden hatte. Vor dem er sich quergestellt und geknurrt hatte. In den er sie nicht gelassen hatte.
 
 Die Tür stand offen.
 

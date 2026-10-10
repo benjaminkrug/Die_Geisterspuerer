@@ -32,7 +32,7 @@ Nora fuhr mit dem Finger über die anderen Kreise. Fabrik. Kirche. Brücke. Rath
 
 „Ja.“ Nora dachte an Lina. An die runden Buchstaben und die lila Tinte.
 
-Ihr Finger kehrte zum Friedhof zurück. Er lag nur ein paar Straßen entfernt, gegenüber der Bibliothek. Sie waren schon daran vorbeigegangen. Schatten hatte damals hingestarrt und geknurrt.
+Ihr Finger kehrte zum Friedhof zurück. Er lag nur ein paar Straßen entfernt, gegenüber der Bibliothek. Sie waren gestern daran vorbeigegangen. Schatten hatte hingestarrt und geknurrt.
 
 „Wir schauen ihn uns an“, sagte Nora. „Nur von außen. Nur gucken.“
 

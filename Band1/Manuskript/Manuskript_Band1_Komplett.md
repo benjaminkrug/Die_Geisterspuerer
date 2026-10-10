@@ -2281,7 +2281,7 @@ Nora saß aufrecht im Bett. Ihr ganzer Körper war angespannt. Ihre Hände krall
 
 Er bellte noch einmal.
 
-Nora bekam eine Gänsehaut. In all den Wochen hatte Schatten nie gebellt. Nicht einmal. Er hatte geknurrt, gewinselt, sich geweigert. Aber gebellt? Nie.
+Nora bekam eine Gänsehaut. Seit sie ihn kannten, hatte Schatten nie gebellt. Nicht einmal. Er hatte geknurrt, gewinselt, sich geweigert. Aber gebellt? Nie.
 
 Bis jetzt.
 
@@ -2513,7 +2513,7 @@ Der Flur lag im Dunkeln. Mondlicht fiel durch das Küchenfenster am Ende des Gan
 
 „Ich weiß.“
 
-Sie ging den Flur entlang. Vorbei an der Küche. Vorbei an dem Zimmer mit den Notizen und der Namensliste. Bis zum Ende des Gangs. Bis zu der Tür, die immer geschlossen gewesen war. Das kalte Zimmer. Der Raum, den Schatten in ihrer ersten Woche gemieden hatte. Vor dem er sich quergestellt und geknurrt hatte. In den er sie nicht gelassen hatte.
+Sie ging den Flur entlang. Vorbei an der Küche. Vorbei an dem Zimmer mit den Notizen und der Namensliste. Bis zum Ende des Gangs. Bis zu der Tür, die immer geschlossen gewesen war. Das kalte Zimmer. Der Raum, den Schatten am ersten Tag gemieden hatte. Vor dem er sich quergestellt und geknurrt hatte. In den er sie nicht gelassen hatte.
 
 Die Tür stand offen.
 
@@ -2711,11 +2711,11 @@ Und knurrte. Leise. Tief.
 
 Nora wachte auf und wusste nicht, wo sie war.
 
-Sonnenlicht fiel durch das Fenster. Warm. Golden. Ihr Zimmer sah aus wie jedes andere Kinderzimmer an einem Sommermorgen. Und zum ersten Mal seit Wochen fühlte es sich auch so an.
+Sonnenlicht fiel durch das Fenster. Warm. Golden. Ihr Zimmer sah aus wie jedes andere Kinderzimmer an einem Sommermorgen. Und zum ersten Mal seit dem Umzug fühlte es sich auch so an.
 
 Dann kamen die Erinnerungen zurück. Das Tagebuch. Die Kälte. Das Licht auf dem Boden, das kleiner wurde und verschwand. Lina.
 
-Kein Klopfen in der Wand. Keine eisigen Stellen. Nur Stille und der Geruch von Kaffee aus der Küche.
+Samstag. Keine Schule. Kein Klopfen in der Wand. Keine eisigen Stellen. Nur Stille und der Geruch von Kaffee aus der Küche.
 
 Schatten lag am Fußende ihres Bettes. Er hob den Kopf, gähnte breit und ließ ihn wieder sinken.
 
@@ -2785,6 +2785,10 @@ Nora zählte. Zwölf.
 
 Ein Kreis am Friedhof. *Heinrich B. – 1887.*
 
+Nora hielt den Finger darauf. Drei, vielleicht vier Straßen von ihrem Haus. Genau dort, zwischen zwei Dächern, hatte heute Nacht das blaue Licht geflackert. Oder ganz in der Nähe. Sicher war sie nicht.
+
+Aber die Richtung stimmte.
+
 Ein Kreis an einer alten Fabrik am Fluss. *Marta K. – 1912.*
 
 Ein Kreis im Stadtpark. *Clara B. – 1889.*
@@ -2795,15 +2799,15 @@ Ein Kreis im Stadtpark. *Clara B. – 1889.*
 
 Sie fuhr mit dem Finger über die Jahreszahlen. 1843. 1889. 1912. Manche Kreise waren fast so alt wie die Stadt.
 
-„Zwölf“, sagte Theo. „Und wir haben einen geschafft. In drei Wochen.“ Er rechnete mit den Lippen. „Bei dem Tempo bin ich dreißig, wenn wir fertig sind.“
+„Zwölf“, sagte Theo. „Und wir haben einen geschafft.“ Er rechnete mit den Lippen. „Wenn jeder so gruselig wird wie Lina, hab ich mit elf graue Haare.“
 
-„Du kannst nicht rechnen.“
+„Du bist zehn.“
 
-„Doch. Ich bin nur ein Pessimist.“
+„Eben. Ein Jahr noch.“
 
 Dann sah Nora den Rand der Karte.
 
-Dort war noch ein Kreis. Aber kein schwarzer. Ein großer roter Kreis, doppelt umrandet. Die Tinte war dick und dunkel. Sie sah aus wie getrocknetes Blut.
+Dort war noch ein Kreis. Aber kein schwarzer. Ein großer roter Kreis, doppelt umrandet. Die Tinte war dick und dunkel. Dunkelrot wie altes Siegelwachs.
 
 Kein Name. Kein Datum. Nur ein Wort in Großbuchstaben.
 
@@ -2819,7 +2823,7 @@ Schatten beugte sich über die Karte. Dann zog er den Kopf zurück, als hätte e
 
 „Vielleicht. Warte.“
 
-Sie lief ins Arbeitszimmer. Beim zweiten Besuch hatte sie dort ein Buch gesehen. Es lag noch auf dem Stapel neben den Kerzen. *Gravenstedt – eine Chronik.*
+Sie rollte die Karte zusammen, klemmte sie unter den Arm und lief ins Arbeitszimmer. Beim zweiten Besuch hatte sie dort ein Buch gesehen. Es lag noch auf dem Stapel neben den Kerzen. *Gravenstedt – eine Chronik.*
 
 Nora schlug das erste Kapitel auf. Ein Absatz. Drei Sätze.
 
@@ -2841,7 +2845,7 @@ Schatten stand im Türrahmen. Er kam nicht herein.
 
 ---
 
-Sie gingen zurück in die Küche. Die Karte lag noch auf dem Boden.
+Zurück in der Küche rollte Nora die Karte wieder auf dem Boden aus.
 
 Schatten trottete hin und schnüffelte am Papier. Ganz langsam, Kreis für Kreis. Bei einem blieb er stehen. Er stupste mit der Nase dagegen.
 
@@ -2863,7 +2867,9 @@ Theo berührte das Kreuz mit dem Finger. Er zog ihn zurück. Seine Fingerkuppe w
 
 „Die ist frisch“, flüsterte er. „Die ist ganz frisch.“
 
-Noras Magen wurde zu einem kalten Klumpen. Lina war heute Nacht gegangen. Und heute Nacht hatte jemand ihren Kreis durchgestrichen.
+Noras Magen wurde zu einem kalten Klumpen. Tinte trocknet schnell. Dieses Kreuz konnte höchstens ein paar Minuten alt sein.
+
+Aber die Karte hatte hinter dem Brett gelegen. Bis vorhin. Und seitdem hatte Nora sie nicht aus der Hand gegeben.
 
 „Jemand war hier“, sagte Theo. „Jemand ist hier rein und hat das gemacht.“
 
@@ -2877,9 +2883,9 @@ Als hätte er etwas wiedererkannt.
 
 Das war fast schlimmer als Knurren.
 
-Nora schaute auf das Brett unter der Spüle. Auf den Staub davor. Eine dicke graue Schicht. Ohne Fingerabdruck. Ohne Wischspur. Nur die Spur von Schattens Nase.
+Nora schaute auf das Brett unter der Spüle. Auf den Staub davor. Eine dicke graue Schicht. Darin nur zwei Spuren. Schattens Nase. Und ihre eigenen Finger von vorhin.
 
-Niemand hatte das Versteck geöffnet. Seit Monaten nicht.
+Sonst nichts. Niemand hatte das Versteck geöffnet. Seit Monaten nicht.
 
 Und trotzdem war die Tinte nass.
 
@@ -2919,7 +2925,7 @@ Nora fuhr mit dem Finger über die anderen Kreise. Fabrik. Kirche. Brücke. Rath
 
 „Ja.“ Nora dachte an Lina. An die runden Buchstaben und die lila Tinte.
 
-Ihr Finger kehrte zum Friedhof zurück. Er lag nur ein paar Straßen entfernt, gegenüber der Bibliothek. Sie waren schon daran vorbeigegangen. Schatten hatte damals hingestarrt und geknurrt.
+Ihr Finger kehrte zum Friedhof zurück. Er lag nur ein paar Straßen entfernt, gegenüber der Bibliothek. Sie waren gestern daran vorbeigegangen. Schatten hatte hingestarrt und geknurrt.
 
 „Wir schauen ihn uns an“, sagte Nora. „Nur von außen. Nur gucken.“
 
@@ -3103,11 +3109,11 @@ Nora begann zu lesen. „Liebe Finder dieses Briefes. Mein Name ist Margret Silb
 
 Sie las weiter. Ihre Stimme war fest.
 
-„Die Unruhigen sind gefangen. Jemand hat vor fast zweihundert Jahren etwas geöffnet, das geschlossen bleiben sollte. Eine Tür zwischen den Lebenden und den Toten. Seitdem können die Toten Gravenstedt nicht verlassen.“
+„Die Unruhigen sind gefangen. Jemand hat vor rund zweihundert Jahren etwas geöffnet, das geschlossen bleiben sollte. Eine Tür zwischen den Lebenden und den Toten. Seitdem können die Toten Gravenstedt nicht verlassen.“
 
 Theo starrte sie an. „Eine Tür? Wer macht denn so was?“
 
-Nora antwortete nicht. Sie dachte an die Chronik. *Gegründet im Jahr 1823.* Fast zweihundert Jahre. Und an den roten Kreis am Rand der Karte.
+Nora antwortete nicht. Sie dachte an die Chronik. *Im Jahr 1823.* Und an den roten Kreis am Rand der Karte.
 
 „Gefangen“, sagte Theo leise. „Wie Lina. Fünfzig Jahre lang.“
 
@@ -3115,7 +3121,7 @@ Nora antwortete nicht. Sie dachte an die Chronik. *Gegründet im Jahr 1823.* Fas
 
 Theo zog die Knie an die Brust. „Ich will nicht so lange irgendwo festhängen. Ich halte es ja nicht mal beim Zahnarzt im Wartezimmer aus.“
 
-Sie las weiter. „Die Erste, der ich geholfen habe, hieß Anna. Sie wollte nur, dass jemand ihren Namen ausspricht. Drei Nächte habe ich bei ihr gesessen. In der dritten sagte sie Danke. Dann war sie fort.“
+Sie las weiter. „Der erste Mensch, dem ich geholfen habe, war ein Mädchen. Anna. Sie wollte nur, dass jemand ihren Namen ausspricht. Drei Nächte habe ich bei ihr gesessen. In der dritten sagte sie Danke. Dann war sie fort.“
 
 „Danke“, wiederholte Theo leise. „Wie Lina. Am Fenster.“
 
@@ -3183,7 +3189,7 @@ Eine ganz normale Stadt. So sah es jedenfalls aus.
 
 Nora dachte an die Kreise auf der Karte. Hinter erleuchteten Fenstern. Unter normalen Dächern. Zwischen Menschen, die nichts ahnten. Elf, die noch warteten.
 
-Vor drei Wochen hätte sie gelacht, wenn jemand von Geistern geredet hätte. Jetzt saß sie nachts am Fenster und horchte auf Geräusche, die kein Messgerät aufzeichnen konnte.
+Vor ein paar Tagen hätte sie gelacht, wenn jemand von Geistern geredet hätte. Jetzt saß sie nachts am Fenster und horchte auf Geräusche, die kein Messgerät aufzeichnen konnte.
 
 Aus dem Flur kamen Schritte. Ihre Mutter stand in der Tür. Morgenmantel, verschlafene Augen.
 
@@ -3191,7 +3197,7 @@ Aus dem Flur kamen Schritte. Ihre Mutter stand in der Tür. Morgenmantel, versch
 
 „Konnte nicht schlafen.“
 
-Ihre Mutter setzte sich auf die Bettkante. Sie strich ihr eine Haarsträhne aus dem Gesicht. „Ihr habt euch gut eingelebt. Beide. Ich bin stolz auf euch.“
+Ihre Mutter setzte sich auf die Bettkante. Sie strich ihr eine Haarsträhne aus dem Gesicht. „Ihr habt euch schnell eingelebt. Beide. Ich bin stolz auf euch.“
 
 *Wenn du wüsstest*, dachte Nora.
 

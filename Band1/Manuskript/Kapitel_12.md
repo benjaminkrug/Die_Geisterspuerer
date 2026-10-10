@@ -8,7 +8,7 @@ Nora saß aufrecht im Bett. Ihr ganzer Körper war angespannt. Ihre Hände krall
 
 Er bellte noch einmal.
 
-Nora bekam eine Gänsehaut. In all den Wochen hatte Schatten nie gebellt. Nicht einmal. Er hatte geknurrt, gewinselt, sich geweigert. Aber gebellt? Nie.
+Nora bekam eine Gänsehaut. Seit sie ihn kannten, hatte Schatten nie gebellt. Nicht einmal. Er hatte geknurrt, gewinselt, sich geweigert. Aber gebellt? Nie.
 
 Bis jetzt.
 

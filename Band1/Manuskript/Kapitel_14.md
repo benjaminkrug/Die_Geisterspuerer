@@ -2,11 +2,11 @@
 
 Nora wachte auf und wusste nicht, wo sie war.
 
-Sonnenlicht fiel durch das Fenster. Warm. Golden. Ihr Zimmer sah aus wie jedes andere Kinderzimmer an einem Sommermorgen. Und zum ersten Mal seit Wochen fühlte es sich auch so an.
+Sonnenlicht fiel durch das Fenster. Warm. Golden. Ihr Zimmer sah aus wie jedes andere Kinderzimmer an einem Sommermorgen. Und zum ersten Mal seit dem Umzug fühlte es sich auch so an.
 
 Dann kamen die Erinnerungen zurück. Das Tagebuch. Die Kälte. Das Licht auf dem Boden, das kleiner wurde und verschwand. Lina.
 
-Kein Klopfen in der Wand. Keine eisigen Stellen. Nur Stille und der Geruch von Kaffee aus der Küche.
+Samstag. Keine Schule. Kein Klopfen in der Wand. Keine eisigen Stellen. Nur Stille und der Geruch von Kaffee aus der Küche.
 
 Schatten lag am Fußende ihres Bettes. Er hob den Kopf, gähnte breit und ließ ihn wieder sinken.
 
@@ -76,6 +76,10 @@ Nora zählte. Zwölf.
 
 Ein Kreis am Friedhof. *Heinrich B. – 1887.*
 
+Nora hielt den Finger darauf. Drei, vielleicht vier Straßen von ihrem Haus. Genau dort, zwischen zwei Dächern, hatte heute Nacht das blaue Licht geflackert. Oder ganz in der Nähe. Sicher war sie nicht.
+
+Aber die Richtung stimmte.
+
 Ein Kreis an einer alten Fabrik am Fluss. *Marta K. – 1912.*
 
 Ein Kreis im Stadtpark. *Clara B. – 1889.*
@@ -86,15 +90,15 @@ Ein Kreis im Stadtpark. *Clara B. – 1889.*
 
 Sie fuhr mit dem Finger über die Jahreszahlen. 1843. 1889. 1912. Manche Kreise waren fast so alt wie die Stadt.
 
-„Zwölf“, sagte Theo. „Und wir haben einen geschafft. In drei Wochen.“ Er rechnete mit den Lippen. „Bei dem Tempo bin ich dreißig, wenn wir fertig sind.“
+„Zwölf“, sagte Theo. „Und wir haben einen geschafft.“ Er rechnete mit den Lippen. „Wenn jeder so gruselig wird wie Lina, hab ich mit elf graue Haare.“
 
-„Du kannst nicht rechnen.“
+„Du bist zehn.“
 
-„Doch. Ich bin nur ein Pessimist.“
+„Eben. Ein Jahr noch.“
 
 Dann sah Nora den Rand der Karte.
 
-Dort war noch ein Kreis. Aber kein schwarzer. Ein großer roter Kreis, doppelt umrandet. Die Tinte war dick und dunkel. Sie sah aus wie getrocknetes Blut.
+Dort war noch ein Kreis. Aber kein schwarzer. Ein großer roter Kreis, doppelt umrandet. Die Tinte war dick und dunkel. Dunkelrot wie altes Siegelwachs.
 
 Kein Name. Kein Datum. Nur ein Wort in Großbuchstaben.
 
@@ -110,7 +114,7 @@ Schatten beugte sich über die Karte. Dann zog er den Kopf zurück, als hätte e
 
 „Vielleicht. Warte.“
 
-Sie lief ins Arbeitszimmer. Beim zweiten Besuch hatte sie dort ein Buch gesehen. Es lag noch auf dem Stapel neben den Kerzen. *Gravenstedt – eine Chronik.*
+Sie rollte die Karte zusammen, klemmte sie unter den Arm und lief ins Arbeitszimmer. Beim zweiten Besuch hatte sie dort ein Buch gesehen. Es lag noch auf dem Stapel neben den Kerzen. *Gravenstedt – eine Chronik.*
 
 Nora schlug das erste Kapitel auf. Ein Absatz. Drei Sätze.
 
@@ -132,7 +136,7 @@ Schatten stand im Türrahmen. Er kam nicht herein.
 
 ---
 
-Sie gingen zurück in die Küche. Die Karte lag noch auf dem Boden.
+Zurück in der Küche rollte Nora die Karte wieder auf dem Boden aus.
 
 Schatten trottete hin und schnüffelte am Papier. Ganz langsam, Kreis für Kreis. Bei einem blieb er stehen. Er stupste mit der Nase dagegen.
 
@@ -154,7 +158,9 @@ Theo berührte das Kreuz mit dem Finger. Er zog ihn zurück. Seine Fingerkuppe w
 
 „Die ist frisch“, flüsterte er. „Die ist ganz frisch.“
 
-Noras Magen wurde zu einem kalten Klumpen. Lina war heute Nacht gegangen. Und heute Nacht hatte jemand ihren Kreis durchgestrichen.
+Noras Magen wurde zu einem kalten Klumpen. Tinte trocknet schnell. Dieses Kreuz konnte höchstens ein paar Minuten alt sein.
+
+Aber die Karte hatte hinter dem Brett gelegen. Bis vorhin. Und seitdem hatte Nora sie nicht aus der Hand gegeben.
 
 „Jemand war hier“, sagte Theo. „Jemand ist hier rein und hat das gemacht.“
 
@@ -168,8 +174,8 @@ Als hätte er etwas wiedererkannt.
 
 Das war fast schlimmer als Knurren.
 
-Nora schaute auf das Brett unter der Spüle. Auf den Staub davor. Eine dicke graue Schicht. Ohne Fingerabdruck. Ohne Wischspur. Nur die Spur von Schattens Nase.
+Nora schaute auf das Brett unter der Spüle. Auf den Staub davor. Eine dicke graue Schicht. Darin nur zwei Spuren. Schattens Nase. Und ihre eigenen Finger von vorhin.
 
-Niemand hatte das Versteck geöffnet. Seit Monaten nicht.
+Sonst nichts. Niemand hatte das Versteck geöffnet. Seit Monaten nicht.
 
 Und trotzdem war die Tinte nass.
