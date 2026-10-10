@@ -132,7 +132,7 @@ Es kam so langsam, dass Nora es zuerst nicht bemerkte. Ihre Finger waren nicht m
 
 Sie las den Satz ein zweites Mal. Langsamer. Damit er im Raum blieb.
 
-Theo zog die Nase hoch. Schatten hob den Kopf. Er schaute auf eine Stelle neben dem Bett, wo niemand saß. Dann legte er den Kopf wieder ab. Sein Schwanz klopfte einmal auf den Boden.
+Theo zog die Nase hoch. Schatten hob den Kopf. Er schaute auf eine Stelle neben dem Bett, wo niemand saß. Dann legte er den Kopf wieder ab.
 
 Nora las weiter. Seite für Seite. Mit jedem Satz wich die Kälte ein Stück. Wie eine Welle, die vom Strand zurückläuft.
 

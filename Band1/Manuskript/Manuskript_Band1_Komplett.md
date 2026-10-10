@@ -1901,7 +1901,7 @@ Die Kellertreppe war steil. Nora leuchtete mit dem Handy nach unten. Der Lichtke
 
 „Du hast Angst.“
 
-„Natürlich habe ich Angst. Wir gehen in den Keller, in dem vor fünfzig Jahren ein Mädchen verschwunden ist. Aber bitte, nach dir.“
+„Natürlich habe ich Angst. Wir gehen in den Keller, in dem vor fünfzig Jahren ein Mädchen gestorben ist. Aber bitte, nach dir.“
 
 Schatten schob sich an Noras Beinen vorbei. Er trottete die Stufen hinunter. Seine Krallen klickten auf dem Stein. Fell gesträubt, Gang ruhig. Er ging einfach.
 
@@ -1973,7 +1973,7 @@ Wie Finger. Wie jemand, der mit den Fingern über den Stein gekratzt hatte.
 
 Nora spürte einen sauren Geschmack im Mund. Die Kratzer waren alt. Abgerundet von Jahrzehnten Feuchtigkeit. Fünfzig Jahre alt.
 
-„Nora.“ Theos Stimme war kaum ein Flüstern. Er stand direkt hinter ihr. Sie spürte seine Hand an ihrem Ärmel, die sich festhielt. „Das sind Fingerspuren.“
+„Nora.“ Theos Stimme war kaum ein Flüstern. Er stand direkt hinter ihr. Seine Hand hielt noch immer ihren Ärmel fest. „Das sind Fingerspuren.“
 
 „Ja.“
 
@@ -2405,7 +2405,7 @@ Es kam so langsam, dass Nora es zuerst nicht bemerkte. Ihre Finger waren nicht m
 
 Sie las den Satz ein zweites Mal. Langsamer. Damit er im Raum blieb.
 
-Theo zog die Nase hoch. Schatten hob den Kopf. Er schaute auf eine Stelle neben dem Bett, wo niemand saß. Dann legte er den Kopf wieder ab. Sein Schwanz klopfte einmal auf den Boden.
+Theo zog die Nase hoch. Schatten hob den Kopf. Er schaute auf eine Stelle neben dem Bett, wo niemand saß. Dann legte er den Kopf wieder ab.
 
 Nora las weiter. Seite für Seite. Mit jedem Satz wich die Kälte ein Stück. Wie eine Welle, die vom Strand zurückläuft.
 

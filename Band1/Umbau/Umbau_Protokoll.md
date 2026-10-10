@@ -476,3 +476,53 @@ Kap. 8–16 (Bezüge auf Entferntes), Kap. 10/13 und Kanon (wo Lina starb) und K
 | Regel 3 (neue Formulierungen im ganzen Buch gesucht) | „fröstelte“, „Wie ein Stein“, „erster Gedanke“, „auf den Beinen“, „früh schlafen“: je 1× |
 | Kapitel-Dateien | neu erzeugt, 0 Abweichungen |
 | Doku | Zeitlinie Kap. 7 in `Die_Geisterspuerer_Author_Info.md` |
+
+---
+
+## Nachprüfung Schritt 5 (auf Wunsch des Autors) · 2026-10-10
+
+Basis: `15fbd15`. Gelesen: **Kap. 10 und 12 vollständig**. Gegengeprüft mit Kap. 1–11 (Bellen),
+Kap. 9 (Tagebuch-Inhalt), Kap. 11 (Rückbezug „Ärmel“), Kap. 13–14 und dem Spielbuch-Material
+(Titel).
+
+### Was an Schritt 5 stimmt und bleibt (mit Beleg)
+
+| Änderung | Prüfung | Urteil |
+|---|---|---|
+| **Handylicht statt „Theo ist weg“** (Kap. 10) | Ist es nur ein **anderer** Fehlalarm? Nein. „Theo ist weg“ löste sich in „war nichts“ auf. Das Licht dagegen bleibt **unerklärt** (80 % Akku, „Sie sagte nichts“) und steigert sich: Licht aus → Winseln → Kratzspuren → Präsenz → Fußspuren. Kap. 11 bezieht sich jetzt darauf (*„Du hast dich eben im Keller an meinem Ärmel festgekrallt“*). | bleibt |
+| **Theos Kino-Witz** statt „offiziell festhalten“ | Nora antwortet wie im Original (*„Wir sind nicht in einem Film.“* – *„Im Film gibt es wenigstens Hintergrundmusik“*), der Dialog bleibt geschlossen. Passt zu Theos Film-Bezügen (Kap. 3: *„So fangen alle Horrorfilme an“*). | bleibt |
+| **„Neue Regel: keine Keller mehr … Auch nicht zum Getränkeholen.“** | Passt zu Kap. 11: Theo will weitermachen, aber nicht in den Keller. Kein Widerspruch, eher eine Pointe. | bleibt |
+| **„so noch nie“** (Winseln) | Der Widerspruch ist mit **einem** Wort gelöst (Kap. 2/8 winselt Schatten schon) | bleibt |
+| **Tagebuch zusammengefasst** (Kap. 12) | Jede Zusammenfassung stimmt mit Kap. 9 überein (Geburtstag/lila Tinte, Luna/Stock, Sterne/Dach, kaltes Zimmer, Kratzen, *Einbildung*). *„Niemand glaubt mir“* ist ein wörtliches Zitat (19. Oktober). „Alles. Jedes Wort.“ greift Noras Ankündigung im selben Kapitel auf. | bleibt |
+| **Schatten schaut auf die leere Stelle neben dem Bett** | Ein leiser Hinweis auf Lina, ohne neuen Fakt. Passt zu Schattens Rolle (er spürt, sie sehen nicht). | bleibt |
+| **Titel „Bitte“** | Das Wort steht im Kapitel an den Fenstern, Theo nennt es ausdrücklich. Kein Kapitel der Serie heißt so. „Konfrontation“ im Spielbuch-Material (`moral_map.md`) ist ein **allgemeines Wort**, kein Kapitelverweis (geprüft). | bleibt |
+| *„Seit sie ihn kannten, hatte Schatten nie gebellt“* | Kap. 1 sagt ausdrücklich *„Er bellte nicht“*. Das „Bell“ in Kap. 6 ist Theos Aufforderung. Stimmt. | bleibt |
+
+### Gefundene Probleme
+
+| # | Problem | Herkunft | Eingriff | Warum besser |
+|---|---|---|---|---|
+| P1 | **Ärmel zweimal neu gepackt** in Kap. 10: beim Lichtausfall *„Seine Hand fand ihren Ärmel und krallte sich fest“*, später *„Sie spürte seine Hand an ihrem Ärmel, die sich festhielt“* | **Schritt 5** (Lichtausfall) trifft auf das Original | Zweite Stelle → *„Seine Hand hielt noch immer ihren Ärmel fest.“* | Aus einer Wiederholung wird eine **Fortsetzung**: Theo lässt seit dem Dunkel nicht mehr los. Das trägt Kap. 11 (*„festgekrallt“*). |
+| P2 | **Schwanzklopfen zweimal in Kap. 12:** mein neuer Satz (Z.135) und das **unveränderliche** Kapitelende (*„Sein Schwanz schlug einmal auf den Boden“*), dazu Kap. 14 | **Schritt 5** | Mein Satz gestrichen. Schatten schaut auf die leere Stelle und legt den Kopf ab. | Das Kapitelende ist tabu, also muss meine Stelle weichen. Das Bild der leeren Stelle wirkt ohne den Zusatz stärker. Kap. 14 behält es, dort trägt es Bedeutung („Als hätte er etwas wiedererkannt“). |
+| P3 | Theo: *„in dem vor fünfzig Jahren ein Mädchen **verschwunden** ist“*. Lina war nicht verschwunden, sie starb (Zeitungsartikel Kap. 6, Kanon Z.278: *„dort starb Lina“*). | Original, nicht Schritt 5 | → *„gestorben ist“* | Ein Wort. Theo selbst sagt in Kap. 9 *„Und sie ist nicht wieder hochgekommen“*. Kein neuer Fakt (K8 grün). |
+
+### Bewusst NICHT geändert
+
+| Stelle | Warum nicht |
+|---|---|
+| *„Wie Blut. Wie alte Münzen.“* (Kap. 10), *„Wie Blut nach einem Biss auf die Wange“* (Kap. 5), *„wie Blut in eingeschlafene Hände“* (Kap. 12) | In der Nachprüfung von Schritt 2 habe ich *„Tinte wie getrocknetes Blut“* ersetzt. **Ist das jetzt inkonsequent?** Nein. Dort war es ein **Bild** von Blut, das man sieht und das Gruselgewicht trägt. Hier sind es ein **Geschmack** (den jedes Kind vom Zahnwechsel kennt) und ein Körpergefühl. CLAUDE.md meint *„blood/decay/body horror“*, also Szenen. Das sind keine. |
+| Zwei Bilder für die weichende Kälte in Kap. 12 (Eisblock, Welle) | Sie stehen für zwei Phasen (Beginn, Fortschritt). Schritt 5 hat sie aus dem Original übernommen, ein Echo ist das nicht. |
+| Fehlalarm „Theo ist weg“ in **Kap. 5** | Er ist jetzt der einzige seiner Art und legt Noras Regel *„Nicht allein. Nicht hier.“* an, die Kap. 15 wieder aufnimmt (*„Keiner geht allein irgendwohin“*). |
+| *„Die Kälte traf sie wie ein Schlag“* (Kap. 12) ↔ *„Die Kälte traf Nora wie ein Schlag“* (Kap. 9) | Alt, drei Kapitel auseinander, nicht aus Schritt 5. Notiert, nicht angefasst (Minimal-Regel). |
+
+### Kontrolle
+
+| Prüfung | Ergebnis |
+|---|---|
+| `pruefe_band1_umbau.py --basis 15fbd15 --schritt 5` | ✅ alle harten Prüfungen bestanden (Kap. 10 −2 W, Kap. 12 −7 W) |
+| K9 Schritt 5 | „offiziell festhalten/protokoll“ 2×, datierte Tagebuch-Zitate 0× |
+| K6 Kapitelenden | ✅ unverändert (das Ende von Kap. 12 war der Grund für P2) |
+| K8 | ✅ 0 neue Fakten, Faber 0 |
+| gegen `4e983cf` | ✅ 22.689 W; Stimme +2 % / +10 % |
+| `pruefe_logik.py 1` | 8 Kandidaten, keine neuen |
+| Kapitel-Dateien | neu erzeugt, 0 Abweichungen |
