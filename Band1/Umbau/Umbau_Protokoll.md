@@ -200,3 +200,28 @@ geschrieben: Findet raus, was passiert ist.“* – *„Sondern?“* – *„Gla
 | Bezug zum Kanon | „Glaubt mir“ greift Linas Tagebuch auf (*„Niemand glaubt mir“*, *„soll jemand wissen, dass ich die Wahrheit gesagt habe“*) und passt zu Band 5 (*„Lina, die auch niemand gehört hatte“*) |
 | Lesung Kap. 13 | Die Frage kommt nach dem Abschied, nicht davor, und zerredet das Licht nicht. Theos „Haben wir“ schließt warm ab. |
 | Offen | Die Zustimmung des Autors „klingt nach Theo und Nora“ (Plan 7.4, Schritt 3) |
+
+---
+
+## Schritt 4 – Zone A straffen (Kap. 4–7) · 2026-10-10
+
+Basis: `bde071d` (Ende Schritt 3).
+
+| Eingriff | Was | Warum |
+|---|---|---|
+| Kap. 4 Schultag | Klasse, Vorstellung und das Grübeln über die Frage gekürzt. Bleiben: HILF im Kopf, der Spiegel, Theos Hamster-Witz, Theos *„Jemand bittet um Hilfe“*. Der Hamster „Herbert“ auf dem Heimweg ist gestrichen. **Fehler im Original behoben:** *„Das ist kein Drohung“* → *„keine Drohung“*. | Zone A, kein Fortschritt im Schultag. Ein loser Faden weniger (Sommersprossen-Mädchen und Herbert kommen in Band 1–5 nie wieder vor; geprüft) |
+| Kap. 5 Liste | Nora sieht den blauen Zettel *„Lina Vogt? – 1974?“* und die Häkchen **an der Wand** | X4: vorher erzählte sie das erst in Kap. 6 aus dem Gedächtnis |
+| Kap. 6 | **Ein** Besuch in der Bibliothek: Silber-Artikel (digital) → Lina (Mikrofiche) → Adresse = Kirchgasse 14. **Neues Kapitelende:** *„Das ist unsere Adresse.“* … *„Nach Hause.“* | W6: Der zweite Besuch mit gleichem Ablauf („Für die Schule?“) entfällt, ebenso der Logikbruch „Sie sind schon in der Bibliothek und gehen trotzdem heim“. Das stärkste Ende der Buchmitte rückt ans Kapitelende. |
+| Kap. 7 | Verarbeitung im Archiv → draußen Schattens Blick zum Friedhof (aus Kap. 6) → Heimweg → Mama mit der Neuigkeit von der Nachbarin, dann bricht sie zur **Spätschicht** auf → VERGISS NICHT → Kratzen (Ende unverändert) | Neue Reihenfolge. Mama ist weg, sonst hätte sie das Hämmern in Kap. 8 gehört (Logik). Der Beruf (Krankenhaus, Schicht) ist Kanon. |
+
+| Prüfung | Ergebnis |
+|---|---|
+| `pruefe_band1_umbau.py --basis bde071d --schritt 4` | ✅ alle harten Prüfungen bestanden |
+| Wörter | 23.215 → **22.611** (Kap. 4 −175, Kap. 5 +45, Kap. 6 −36, Kap. 7 −434) |
+| K9 „Für die Schule?“ | 1× ✅ |
+| K6 Kapitelenden | nur Kap. 6 geändert (erlaubt); 4, 5, 7 unverändert ✅ |
+| K10 Stimme | Und-Anfänge +0 %, Kurzabsätze +3 % |
+| `pruefe_logik.py 1` | 9 Kandidaten, keine neuen |
+| Lesung Kap. 6–7 am Stück | **Zwei selbst erzeugte Fehler gefunden und behoben:** (1) Nora band Schatten erst los, *nachdem* sie losgegangen waren. (2) Mama legte sich schlafen, und die Kinder hämmerten danach in Kap. 8 die Wand auf → Mama geht zur Spätschicht. Außerdem zwei Satzanfänge „Nora …“ hintereinander, und „Pizza im Kühlschrank“ als Echo zu Kap. 4 → „Essen steht im Kühlschrank“. |
+| Zeitachse | Kap. 6 und 7 sind jetzt **ein** Tag (vorher zwei). Kap. 8–11 geprüft: passt. `Die_Geisterspuerer_Author_Info.md` (Tag 3/4, 4/5) wird in Schritt 7 nachgezogen. |
+| Bewusster Rückbezug | Kap. 7 *„Wir finden raus, was passiert ist“* ↔ Kap. 13 *„Sie hat nie geschrieben: Findet raus, was passiert ist“* |

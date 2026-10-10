@@ -753,11 +753,9 @@ Theo starrte sie an. Dann drehte er sich um und schlurfte in sein Zimmer. An der
 
 ---
 
-Die Schule war groß, laut und roch nach Desinfektionsmittel und Kreide. Nora stand auf dem Schulhof und versuchte sich zu orientieren. Hunderte Schüler. Keiner kannte sie. Keiner schaute sie an.
+Die Schule war groß, laut und roch nach Desinfektionsmittel und Kreide. Hunderte Schüler. Keiner kannte sie. Tafeln, Kreide, ein Lehrer, der Brüche erklärte.
 
-Im Unterricht stellte sie sich vor. „Nora. Zwölf. Gerade hergezogen." Die Klasse nickte. Dreißig Augenpaare. Ein Mädchen in der zweiten Reihe lächelte. Kurze braune Haare, Sommersprossen. Nora lächelte zurück.
-
-Normal. Das hier war normal. Tafeln und Kreide und ein Lehrer, der Brüche erklärte. Kein Kondenswasser. Kein Klopfen. Keine Wörter, die aus dem Nichts erschienen.
+Normal. Das hier war normal.
 
 Aber in ihrem Kopf stand das Wort.
 
@@ -769,35 +767,17 @@ HILF
 
 Auf dem Weg zum Klo. Im Spiegel über dem Waschbecken sah sie für einen Wimpernschlag etwas hinter sich. Eine Bewegung. Ein Schatten. Sie fuhr herum. Nichts. Leere Kabinen.
 
-Natürlich nichts. Sie war in der Schule. Lehrer, Schulglocken, Matheaufgaben. Trotzdem ging die Gänsehaut nicht weg, und die Buchstaben standen vor ihrem inneren Auge. Klar. Deutlich.
+Die Gänsehaut ging trotzdem nicht weg.
 
-Wer schrieb Hilfe an ein Fenster? Wer konnte auf eine Scheibe schreiben, ohne im Raum zu sein?
-
-In der großen Pause fand sie Theo auf dem Schulhof. Er saß auf einer Bank und kaute an einem Apfel.
+In der großen Pause fand sie Theo auf einer Bank. Er kaute an einem Apfel.
 
 „Und?", sagte sie.
 
 „Meine Klasse ist okay", sagte er. „Ein Junge hat einen Hamster in der Jackentasche. Das ist solide."
 
-„Gut."
+Dann wurde er still. Er biss in den Apfel. Kaute. Schluckte.
 
-Pause. Nora schaute über den Schulhof. Kinder rannten, lachten, schrien. Alles normal. Alles laut. Alles weit weg von der Kirchgasse 14.
-
-„Nora?"
-
-„Ja."
-
-„Ich muss die ganze Zeit daran denken."
-
-„Ich weiß."
-
-„An das Wort. An die Kälte. An die Tür, die einfach zu war."
-
-„Ich weiß, Theo."
-
-Er biss in den Apfel. Kaute. Schluckte.
-
-„Weißt du, was mich am meisten stört?", sagte er leise. „Das Wort. HILF. Das ist kein Drohung. Das ist kein ‚Haut ab'. Jemand bittet um Hilfe. Und wir haben die Nachricht weggewischt und sind zur Schule gegangen."
+„Weißt du, was mich am meisten stört?", sagte er leise. „Das Wort. HILF. Das ist keine Drohung. Das ist kein ‚Haut ab'. Jemand bittet um Hilfe. Und wir haben die Nachricht weggewischt und sind zur Schule gegangen."
 
 Noras Mund wurde trocken. Ihre Hände lagen in ihrem Schoß, die Finger ineinander verknotet.
 
@@ -805,9 +785,7 @@ Darauf hatte sie keine Antwort.
 
 ---
 
-Der Nachhauseweg dauerte zwölf Minuten. Sie gingen nebeneinander durch Straßen, die sie noch nicht kannten. Vorbei an Häusern, die alle gleich alt aussahen. Gravenstedt war voller alter Steine.
-
-Theo erzählte vom Hamster-Jungen. Dass der Hamster Herbert hieß und im Unterricht geniest hatte. Nora lachte kurz. Dann wurden sie wieder still.
+Der Nachhauseweg dauerte zwölf Minuten. Sie gingen nebeneinander durch Straßen, die sie noch nicht kannten. Keiner sagte etwas.
 
 Je näher sie der Kirchgasse kamen, desto langsamer wurden ihre Schritte. Ohne dass sie es merkten.
 
@@ -1007,6 +985,14 @@ Nora las weiter. Dutzende Namen. Die ältesten Zettel waren vergilbt, die Tinte 
 
 „Ja."
 
+Neben vielen Namen stand ein kleines Häkchen. Sauber, mit schwarzer Tinte.
+
+Nur ganz unten hing ein Zettel, der anders aussah. Die Tinte war blau statt schwarz. Die Schrift zittriger, als hätte jemand sie in Eile geschrieben.
+
+*Lina Vogt? – 1974?*
+
+Kein Häkchen. Nur zwei Fragezeichen.
+
 Nora ließ den Blick über die Reihen wandern. Neben jedem Namen ein Datum. Immer nur eines. Kein „geboren", kein „gestorben". Nur ein einziger Tag. Und je länger sie hinsah, desto mehr fügte sich etwas zusammen, das sie nicht aussprechen wollte. Ein Gedanke, kalt und schwer, der sich in ihrem Magen festsetzte.
 
 Theo starrte die Wand an. Er trat von einem Fuß auf den anderen. Dann sagte er es.
@@ -1169,6 +1155,16 @@ Theo starrte sie an. „Geholfen? Wobei?"
 
 Schatten hob den Kopf und schaute Nora an. Sein Blick war ruhig. Aufmerksam. Als würde er zuhören.
 
+„Und die Häkchen", sagte Nora. „Neben den meisten Namen war eins. Wie auf einer Aufgabenliste."
+
+Theo schluckte. „Eine Aufgabenliste. Für Tote."
+
+„Für Menschen, denen geholfen werden musste." Nora sah den blauen Zettel wieder vor sich. „Nur der Name ganz unten hatte keins. Lina Vogt. 1974. Mit Fragezeichen."
+
+„Also hat sie es bei der nicht geschafft."
+
+„Was auch immer Frau Silber gemacht hat", sagte Nora langsam, „bei Lina Vogt hat sie es nicht geschafft."
+
 Theo biss sich auf die Unterlippe. „Und wo ist Frau Silber jetzt?"
 
 „Das will ich herausfinden."
@@ -1251,143 +1247,25 @@ Nora schüttelte den Kopf. Sie wusste es noch nicht. Aber die Puzzleteile lagen 
 
 „Und eine Wohnung voller Zettel", sagte Theo leise.
 
-„Und eine Namensliste." Nora stand auf. „Komm. Ich will noch etwas nachschauen."
+Nora starrte noch einen Moment auf den Bildschirm. Dann tippte sie einen neuen Namen in die Suchmaske. *Lina Vogt.*
 
-„Oben in die Bibliothek?"
+Keine Ergebnisse.
 
-„Ja."
+„Natürlich nicht", sagte Theo. „Die Frau hat gesagt, nur die letzten fünf Jahre sind digital. Lina steht da mit 1974."
 
-„Sag das gleich. Mein Herz hat gerade zwei Schläge übersprungen."
+Nora drehte sich um. In der Ecke stand ein Gerät, das aussah wie ein alter Computer mit einer Glasplatte und Drehrädern. Daneben ein Schrank mit Hunderten kleiner Schachteln, beschriftet mit Jahreszahlen.
 
----
+„Mikrofiche", sagte sie.
 
-Sie fanden nichts weiter. Kein Buch über Gravenstedt erwähnte eine Margret Silber. Kein Zeitungsartikel. Kein Foto. Es war, als hätte sie nie existiert.
+„Gesundheit."
 
-Nora lehnte sich in ihrem Stuhl zurück und schloss die Augen. Die Namensliste. Sie hatte sie sich oben in der Wohnung angeschaut. Sie hatte ein gutes Gedächtnis für Listen. Für Zahlen. Für Muster.
+„Kleine Filmstreifen mit fotografierten Zeitungsseiten. Wie ein Mini-Archiv."
 
-„Die meisten Namen auf der Liste hatten ein Datum daneben", sagte sie. „Und neben manchen stand ein Häkchen."
+„Klingt nach etwas, das eine Person aus einem Horrorfilm benutzen würde", murmelte Theo. „Düsterer Keller. Alte Archive. Vermisste Person. Das ist Kapitel eins von *Wir hätten zu Hause bleiben sollen*."
 
-„Ein Häkchen?", sagte Theo.
+Nora zog die Schachtel *1974 – Oktober bis Dezember* heraus.
 
-„Als hätte jemand sie abgehakt. Wie auf einer Aufgabenliste."
-
-Theo schluckte. „Eine Aufgabenliste. Für Tote."
-
-„Für Menschen, denen geholfen werden musste." Nora öffnete die Augen. „Und ganz unten auf der Liste war ein Name. In anderer Tinte. Blau statt schwarz. Und ein Fragezeichen dahinter."
-
-„Welcher Name?"
-
-Nora schluckte gegen den Kloß in ihrem Hals. Sie erinnerte sich genau. Die blaue Tinte. Die zittrige Handschrift. Das Fragezeichen, das aussah wie ein Hilferuf.
-
-„Lina Vogt", sagte sie. „Und dahinter: 1974."
-
-Theo sagte nichts. Er schaute sie nur an.
-
-„Wer ist Lina Vogt?", sagte er schließlich.
-
-„Keine Ahnung." Nora stand auf. Ihr Herz schlug schneller. Nicht vor Angst. „Aber Frau Silber hat ihren Namen aufgeschrieben – mit einem Fragezeichen. Ohne Häkchen. Was auch immer sie mit den anderen gemacht hat – bei Lina Vogt hat sie es nicht geschafft."
-
----
-
-Draußen wartete Schatten. Er lag auf der Seite in der Sonne. Als er die Kinder sah, sprang er auf. Sein Schwanz schlug hin und her.
-
-„Hey, Kumpel", sagte Theo. Er kraulte ihn hinter den Ohren. „Deine alte Besitzerin ist seit drei Monaten weg. Und es gibt ein Mädchen namens Lina, dem niemand geholfen hat."
-
-Schatten hob den Kopf. Sein Körper wurde steif. Die Ohren richteten sich auf. Einen Moment lang starrte er Theo an. Dann drehte er den Kopf und schaute über die Straße.
-
-Zum Friedhof.
-
-Alte Mauern. Efeu. Grabsteine hinter einem schmiedeeisernen Zaun. Der Friedhof lag direkt gegenüber der Bibliothek.
-
-Schatten starrte dorthin. Reglos. Sein Fell sträubte sich am Nacken.
-
-„Schatten?", sagte Theo leise.
-
-Der Hund knurrte. Leise. Tief. Dann schüttelte er sich, als wollte er etwas abwerfen. Sein Fell legte sich wieder glatt. Er wandte den Blick vom Friedhof ab und schaute Nora an.
-
-Nora spürte eine Kälte in ihrer Brust. Kurz. Wie ein Eiswürfel, der schmolz.
-
-„Gehen wir nach Hause", sagte sie.
-
-„Beste Idee des Tages", sagte Theo.
-
-Sie gingen los. Nora warf einen letzten Blick zum Friedhof. Zwischen den Grabsteinen — hatte sich etwas bewegt? Grau. Schnell. Dann war es weg.
-
-Sie ging schneller. Aber sie spürte den Friedhof noch immer. Links von ihr, hinter der Mauer. Wie etwas, das wartete.
-
-Theo redete. Über die Bibliothekarin, über den Zeitungsartikel, über Hundefutter. Nora hörte zu. Aber in ihrem Kopf stand ein Name.
-
-Zu Hause stand ihre Mutter im Flur und sortierte Post. Sie schaute auf. „Ihr seht fertig aus. Wo wart ihr?"
-
-„Bibliothek", sagte Nora.
-
-Ihre Mutter nickte. Dann, beiläufig: „Die Nachbarin hat heute erzählt, dass die alte Frau von oben immer noch verschwunden ist. Silber hieß die, glaube ich. Seit Monaten weg. Seltsame Sache."
-
-Nora spürte Theos Blick in ihrem Rücken. Sie schluckte. „Kennt die Nachbarin sie?"
-
-Ihre Mutter schüttelte den Kopf. „Kaum. Die war wohl immer allein. Mit einem Hund." Sie sortierte einen Brief auf den Stapel. „Komisch, oder?"
-
-Schatten lag im Flur und hob den Kopf.
-
-Lina Vogt.
-
-1974.
-
-Ein Fragezeichen in blauer Tinte. Auf einer Liste, die aussah wie ein Hilferuf.
-
-Wer war Lina Vogt? Was war 1974 passiert? Und warum hatte Frau Silber ihren Namen ganz unten auf die Liste geschrieben – in anderer Tinte, mit zittriger Hand?
-
-Noras Finger kribbelten. Ein Summen breitete sich unter ihrer Haut aus. Nicht Angst.
-
-Vor dem Gefühl, dass die Antwort nah war. Irgendwo in Gravenstedt. Wartend.
-
-Wie alles in dieser Stadt.
-
----
-
-# Kapitel 7 – Lina
-
-„Lina Vogt", sagte Nora. „Gravenstedt. 1974."
-
-Sie stand vor dem Auskunftstresen der Stadtbibliothek. Die Frau dahinter trug eine Lesebrille auf der Nasenspitze und tippte mit einem Kugelschreiber auf die Theke.
-
-„Und was genau suchst du über diese Person?"
-
-„Alles", sagte Nora. „Zeitungsartikel. Einträge. Irgendetwas."
-
-Die Frau musterte sie. Dann Theo, der hinter Nora stand und so tat, als würde er ein Regal mit Sachbüchern über Insekten studieren.
-
-„Für die Schule?", sagte die Frau.
-
-„Ja", sagte Nora schnell. „Ein Geschichtsprojekt. Über Gravenstedt."
-
-„Hm." Die Frau schob die Brille hoch. „1974 ist lange her. Da müsstet ihr in die alten Jahrgänge der Gravenstedter Zeitung. Die haben wir auf Mikrofiche."
-
-„Mikrofiche?", murmelte Theo hinter Nora.
-
-„Kleine Filmstreifen mit fotografierten Zeitungsseiten", flüsterte Nora zurück. „Wie ein Mini-Archiv."
-
-„Klingt nach etwas, das eine Person aus einem Horrorfilm benutzen würde."
-
-„Theo."
-
-„Ich sage nur. Düstere Bibliothek. Alte Archive. Vermisste Person. Das ist Kapitel eins von ‚Wir hätten zu Hause bleiben sollen'."
-
-Die Bibliothekarin führte sie in einen Nebenraum. Schmale Fenster, Neonlicht, zwei Lesegeräte auf Tischen. Die Geräte sahen aus wie alte Computer mit Glasplatten und Drehrädern.
-
-„Jahrgang 1974." Die Frau öffnete einen Schrank an der Wand. Darin: Hunderte kleine Schachteln, beschriftet mit Jahreszahlen und Monaten. Sie zog eine heraus. „Hier. Oktober bis Dezember. Ihr legt den Film auf die Glasplatte und dreht am Rad, um die Seiten durchzugehen."
-
-„Danke", sagte Nora.
-
-Die Frau nickte und verschwand. Die Tür fiel leise ins Schloss.
-
-Theo ließ sich auf den Stuhl neben Nora fallen. „Also suchen wir ein Mädchen, das vor fünfzig Jahren in Gravenstedt gelebt hat. Weil eine verschwundene alte Frau ihren Namen auf eine Geisterliste geschrieben hat. Mit Fragezeichen."
-
-„Ja."
-
-„Normaler Donnerstag."
-
-Nora legte den Film auf die Glasplatte. Ihre Finger zitterten leicht, aber sie ignorierte es. Sie drehte am Rad. Zeitungsseiten glitten über den Bildschirm. Schlagzeilen aus einer anderen Zeit, Werbung für Möbelhäuser, Fotos vom Weihnachtsmarkt.
+Sie legte den Film auf die Glasplatte. Ihre Finger zitterten leicht, aber sie ignorierte es. Sie drehte am Rad. Zeitungsseiten glitten über den Bildschirm. Schlagzeilen aus einer anderen Zeit, Werbung für Möbelhäuser, Fotos vom Weihnachtsmarkt.
 
 „Das ist wie Netflix ohne Bild und Ton", sagte Theo und gähnte.
 
@@ -1395,7 +1273,7 @@ Nora legte den Film auf die Glasplatte. Ihre Finger zitterten leicht, aber sie i
 
 „Ich bin konzentriert. Ich bin nur auch gelangweilt. Das geht gleichzeitig."
 
-Nora blickte zum Fenster. Draußen saß Schatten auf dem Pflaster. Er winselte. Sie konnte es nicht hören, aber sie sah es an seinem Körper. Das Zittern. Die angelegten Ohren. Er starrte nicht zum Friedhof. Er starrte auf ihr Haus. Kirchgasse 14.
+Nora blickte hoch. Unter der Decke gab es ein schmales Fenster, genau auf Höhe des Gehsteigs. Draußen saß Schatten. Er winselte. Sie konnte es nicht hören, aber sie sah es an seinem Körper. Das Zittern. Die angelegten Ohren. Er starrte die Straße hinunter. Dorthin, wo die Altstadt lag.
 
 Sie wandte sich ab und drehte weiter. Anfang November.
 
@@ -1441,7 +1319,15 @@ Nora nickte. Ihre Finger krallten sich in die Tischkante.
 
 „Das ist unsere Adresse."
 
-Schatten. Er hatte auf ihr Haus gestarrt. Nicht auf den Friedhof. Auf Kirchgasse 14.
+Nora dachte an Schatten draußen auf dem Gehsteig. Wie er die Straße hinuntergestarrt hatte. Zitternd.
+
+Nicht irgendwohin.
+
+Nach Hause.
+
+---
+
+# Kapitel 7 – Lina
 
 Stille.
 
@@ -1483,7 +1369,31 @@ Draußen lag Schatten auf dem warmen Pflaster vor der Bibliothek. Als er sie sah
 
 „Dieser Hund spürt Geister. Da sind Zeitungsartikel das kleinere Wunder."
 
-Nora band Schatten los. Er trottete neben ihr her. Eng. Näher als sonst. Sein Fell streifte ihr Bein bei jedem Schritt.
+Dann wurde Schatten steif unter ihrer Hand. Die Ohren richteten sich auf. Er drehte den Kopf und schaute über die Straße.
+
+Zum Friedhof.
+
+Alte Mauern. Efeu. Grabsteine hinter einem schmiedeeisernen Zaun. Der Friedhof lag direkt gegenüber der Bibliothek.
+
+Schatten starrte dorthin. Reglos. Sein Fell sträubte sich am Nacken.
+
+„Schatten?", sagte Theo leise.
+
+Der Hund knurrte. Leise. Tief. Dann schüttelte er sich, als wollte er etwas abwerfen. Sein Fell legte sich wieder glatt. Er wandte den Blick vom Friedhof ab und schaute Nora an.
+
+Nora spürte eine Kälte in ihrer Brust. Kurz. Wie ein Eiswürfel, der schmolz.
+
+Sie band Schatten vom Fahrradständer los.
+
+„Gehen wir nach Hause", sagte sie.
+
+„Beste Idee des Tages", sagte Theo.
+
+Sie gingen los. Nora warf einen letzten Blick zum Friedhof. Zwischen den Grabsteinen — hatte sich etwas bewegt? Grau. Schnell. Dann war es weg.
+
+Sie ging schneller. Aber sie spürte den Friedhof noch immer. Links von ihr, hinter der Mauer. Wie etwas, das wartete.
+
+Schatten trottete neben ihr her. Eng. Näher als sonst. Sein Fell streifte ihr Bein bei jedem Schritt.
 
 Sie blieb vor dem Haus stehen. Graue Fassade. Schmale Fenster. Sie hatte dieses Haus dutzende Male angeschaut. Aber jetzt sah sie es anders. Jetzt wusste sie, wer hier gestorben war.
 
@@ -1493,7 +1403,21 @@ Sie blieb vor dem Haus stehen. Graue Fassade. Schmale Fenster. Sie hatte dieses 
 
 „Stehst du hier, bis es dunkel wird, oder gehen wir rein?"
 
-Sie ging rein. Treppe hoch. Wohnungstür auf. Alles normal. Alles still. Im Flur roch es nach Mamas Kaffee von heute Morgen.
+Sie ging rein. Treppe hoch. Wohnungstür auf.
+
+Im Flur stand ihre Mutter und sortierte Post. Sie schaute auf. „Ihr seht fertig aus. Wo wart ihr?"
+
+„Bibliothek", sagte Nora.
+
+Ihre Mutter nickte. Dann, beiläufig: „Die Nachbarin hat heute erzählt, dass die alte Frau von oben immer noch verschwunden ist. Silber hieß die, glaube ich. Seit Monaten weg. Seltsame Sache."
+
+Nora spürte Theos Blick in ihrem Rücken. Sie schluckte. „Kennt die Nachbarin sie?"
+
+Ihre Mutter schüttelte den Kopf. „Kaum. Die war wohl immer allein. Mit einem Hund." Sie sortierte einen Brief auf den Stapel. „Komisch, oder?"
+
+Sie schaute auf die Uhr und griff nach ihrer Tasche. „Ich muss los. Spätschicht. Essen steht im Kühlschrank."
+
+Die Wohnungstür fiel hinter ihr ins Schloss.
 
 Schatten lief voraus. Durch den Flur, ins Wohnzimmer, in die Küche. Er schnüffelte an den Ecken. Sein Fell lag glatt.
 
