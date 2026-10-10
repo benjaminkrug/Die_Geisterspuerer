@@ -378,3 +378,50 @@ einbauen, was den Text wirklich verbessert, und Logikfehler suchen.
 | Suche „Woche(n)“ | nur noch 2×, beide über die Zeit **vor** dem Umzug (richtig) |
 | Kapitel-Dateien | neu erzeugt, 0 Abweichungen zur Komplett-Datei |
 | Doku | Zeitlinie in `Die_Geisterspuerer_Author_Info.md`: Samstag, blaues Licht, Tinten-Logik, Zeitspanne |
+
+---
+
+## Nachprüfung Schritt 3 (auf Wunsch des Autors) · 2026-10-10
+
+Basis: `617b313`. Gelesen: **das ganze Kapitel 13**, nicht nur der Einschub, gegengeprüft mit Kap. 7
+(Noras Versprechen), Kap. 9 (Tagebuch), Kap. 10 (Keller) und Band 5.
+
+### Was am Einschub stimmt und bleibt (mit Beleg)
+
+| Aussage | Beleg |
+|---|---|
+| *„Sie hat nie geschrieben: Findet raus, was passiert ist.“* | Wörtlich richtig. Lina wollte es **selbst** wissen, aber mit dem Ziel, dass man ihr glaubt: *„Wenn ich es verstehe, glauben mir vielleicht die anderen“* (Kap. 9). Dazu *„Niemand glaubt mir“*, *„soll jemand wissen, dass ich die Wahrheit gesagt habe“*. „Glaubt mir“ ist also **im Text belegt**, nicht hineingedeutet. |
+| Stelle im Kapitel | Der Absatz davor endet mit *„das allein in den Keller gegangen war“*. Die Frage ergibt sich daraus. |
+| Reihenfolge harte Frage → tröstende Frage („wie Einschlafen“) | Das Kapitel landet weich, bevor das blaue Licht kommt. |
+| Kanon | Band 5: *„Lina, die auch niemand gehört hatte“*. K8: keine neuen Fakten zum Tod, Faber 0. |
+
+### Gefundene Probleme
+
+| # | Problem | Herkunft | Eingriff | Warum besser |
+|---|---|---|---|---|
+| P1 | **Widerspruch zur Vision im selben Kapitel:** *„für einen Herzschlag war Nora Lina … Aber sie verstand jetzt“*, und später *„Ich weiß es nicht.“* | **Schritt 3** | *„Ich weiß es nicht. Vorhin, als das Licht da war, hab ich nur gespürt, wie es sich angefühlt hat. Kalt. Und ganz allein.“* | Klärt: Nora kennt das **Gefühl**, nicht den **Hergang**. Die Vision wird genutzt, statt ihr zu widersprechen. Kein neuer Fakt. |
+| P2 | **Unkommentiertes Versprechen:** Kap. 7 *„Wir finden raus, was passiert ist. Wir finden es raus.“* Kap. 13 „Ich weiß es nicht“, ohne Bezug darauf. Wirkt wie vom Autor vergessen. | **Schritt 3** | Theo: *„Du hast gesagt, wir finden es raus.“* – Nora: *„Stimmt. Aber ich glaube, das war nicht das Wichtigste für sie.“* | Aus einem gebrochenen Versprechen wird **Noras Entwicklung**: von „Fakten finden“ (die Rationale aus Kap. 1–4) zu „zuhören“. Das ist das Thema der Reihe (Codewort Band 1: ZUHÖREN). |
+| P3 | Theo fragt **zweimal** fast dasselbe: *„Tut ihr das weh?“* (während) und *„Meinst du, es hat wehgetan?“* (danach). Mit dem Einschub stehen jetzt drei Theo-Fragen hintereinander. | Original; durch Schritt 3 verstärkt | Die erste Frage gestrichen (2 Zeilen) | Die zweite hat die stärkere Antwort („wie Einschlafen“). Der Abschied wird stiller: Licht wird kleiner → „Und dann war es weg.“ |
+| P4 | *„Theo trat neben sie“* zweimal. Er steht schon neben ihr. | Original | Zweite Stelle → *„Er suchte ihre Hand.“* | Logik. Zuerst geplant war „griff nach ihrem Ärmel“, das wurde **verworfen**: Es ist Theos **Angst**-Geste (Kap. 1, 10, 11), hier staunt er aber. „Seine Hand suchte ihre“ wurde ebenfalls verworfen: zweimal „Seine …“ als Satzanfang. |
+| P5 | „Ich weiß es nicht“ … „Ich weiß.“ zwei Zeilen auseinander | Nachprüfung | „Stimmt.“ | Regel 3, Echo |
+
+### Bewusst NICHT geändert
+
+| Stelle | Warum nicht |
+|---|---|
+| Keine Ursache für Linas Tod | Plan 7.1: Jede Ursache führt zur Frage „wovor floh sie?“ und damit zu Band 4 (Faber, kaltes Zimmer). Das Gefühl („kalt, ganz allein“) reicht. |
+| „Glaubt mir“ als Antwort statt einer Tatsache | Ein Teil der Kinder wird trotzdem den Hergang wissen wollen. Das prüft der Testleser-Bogen (Frage 1). Eine echte Antwort ginge nur zusammen mit Band 4. |
+| *„Zum ersten Mal seit Tagen“*, *„seit Tagen festgesessen“* | Passt zur neuen Zeitlinie (zwei Tage) |
+| Kapitelende (blaues Licht) | Tabu. Es wird seit der Nachprüfung von Schritt 2 in Kap. 14 aufgegriffen. |
+
+### Kontrolle
+
+| Prüfung | Ergebnis |
+|---|---|
+| `pruefe_band1_umbau.py --basis 617b313` | ✅ bestanden; Kap. 13 +9 W |
+| gegen `4e983cf` | ✅ Kap. 13 insgesamt **+98 W** (Budget Schritt 3: +40 bis +100) ✅; Stimme +2 % / +10 % |
+| K8 (keine neuen Fakten) | ✅ 0; Faber 0 |
+| K6 Kapitelende Kap. 13 | ✅ unverändert |
+| `pruefe_logik.py 1` | 8 Kandidaten, keine neuen |
+| Lesung Kap. 13 komplett | ✅ |
+| Kapitel-Dateien | neu erzeugt, 0 Abweichungen |

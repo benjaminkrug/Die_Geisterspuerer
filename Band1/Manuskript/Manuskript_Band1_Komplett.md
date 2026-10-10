@@ -2561,9 +2561,7 @@ Es war das Schönste, was Nora je gesehen hatte.
 
 „Theo“, flüsterte sie. „Siehst du das?“
 
-„Ja.“ Seine Stimme brach. „Ja, ich sehe es.“
-
-Theo trat neben sie. „Was machen wir?“
+„Ja.“ Seine Stimme brach. „Ja, ich sehe es.“ Er suchte ihre Hand. „Was machen wir?“
 
 „Sag ihren Namen“, flüsterte Nora. „Sag ihr, dass wir sie kennen.“
 
@@ -2598,10 +2596,6 @@ Dann wurde es kleiner.
 „Nora“, flüsterte Theo. „Das Licht wird kleiner.“
 
 Es zog sich zusammen. Langsam. Sanft. Das Leuchten konzentrierte sich auf einen einzigen Punkt. Hell. Warm. Vollkommen still.
-
-„Tut ihr das weh?“, flüsterte Theo.
-
-Nora schluckte. „Nein. Ich glaube nicht.“
 
 Und dann war es weg.
 
@@ -2647,11 +2641,11 @@ Jemand hatte ihr zugehört. Und sie war gegangen.
 
 Nora sah die Kratzspuren wieder vor sich. Die kleinen Fußspuren im Staub. *Morgen gehe ich in den Keller.*
 
-„Ich weiß es nicht“, sagte sie.
+„Ich weiß es nicht“, sagte sie. „Vorhin, als das Licht da war, hab ich nur gespürt, wie es sich angefühlt hat. Kalt. Und ganz allein.“
 
-„Willst du es nicht wissen?“
+„Du hast gesagt, wir finden es raus.“
 
-„Doch.“ Sie schluckte. „Aber ich glaube, das war nicht das Wichtigste für sie. Sie hat nie geschrieben: Findet raus, was passiert ist.“
+„Stimmt.“ Sie schluckte. „Aber ich glaube, das war nicht das Wichtigste für sie. Sie hat nie geschrieben: Findet raus, was passiert ist.“
 
 „Sondern?“
 
