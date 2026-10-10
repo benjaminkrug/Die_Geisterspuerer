@@ -134,7 +134,7 @@ Nora merkte, dass ihre Wangen nass waren. Sie hob die Hand und wischte mit dem H
 
 Neben ihr schniefte Theo. Er wischte sich mit dem Ärmel über die Nase und machte ein Geräusch, das halb Lachen war und halb Schluchzen.
 
-„Wir haben gerade einem Geist beim Gehen zugeschaut“, murmelte er. „Falls in der Schule mal jemand fragt, was ich so in meiner Freizeit mache.“
+„Wir haben gerade einem Geist beim Gehen zugeschaut“, murmelte er. „Falls die Lehrerin am Montag fragt, was ich am Wochenende gemacht habe.“
 
 Nora lachte. Kurz. Leise. Es tat gut. Es löste etwas in ihrer Brust, das seit Tagen festgesessen hatte. Einen Knoten, den sie nicht einmal bemerkt hatte.
 

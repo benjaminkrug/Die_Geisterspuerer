@@ -30,7 +30,7 @@ Er wich zwei Schritte zurück. Seine Augen waren riesig.
 
 „Da schreibt jemand an unser Fenster! JEMAND, DER NICHT DA IST!“
 
-Nora stieg über die Scherben. Ihre Hände zitterten, aber das ignorierte sie. Sie ging zum Fenster, hob die Hand und wischte mit dem Ärmel über das Glas.
+Nora ließ die Arbeitsplatte los. Ihre Hände zitterten, aber das ignorierte sie. Sie ging zum Fenster, hob die Hand und wischte mit dem Ärmel über das Glas.
 
 Weg.
 

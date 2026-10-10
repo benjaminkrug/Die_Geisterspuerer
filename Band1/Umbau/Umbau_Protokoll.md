@@ -526,3 +526,56 @@ Kap. 9 (Tagebuch-Inhalt), Kap. 11 (Rückbezug „Ärmel“), Kap. 13–14 und de
 | gegen `4e983cf` | ✅ 22.689 W; Stimme +2 % / +10 % |
 | `pruefe_logik.py 1` | 8 Kandidaten, keine neuen |
 | Kapitel-Dateien | neu erzeugt, 0 Abweichungen |
+
+---
+
+## Nachprüfung Schritt 6 (auf Wunsch des Autors) · 2026-10-10
+
+Basis: `cd8486b`. Bei jedem Ein-Satz-Eingriff wurde **der ganze Abschnitt drumherum** gelesen (Ende
+Kap. 3 und Anfang Kap. 4, Anfang Kap. 11, Kap. 13). Kleine Korrekturen erzeugen leicht neue
+Widersprüche im Umfeld. Dazu gehört die Frage, ob die Endabnahme die Logik-Kandidaten zu Recht
+abgetan hat.
+
+### Prüfung der drei Korrekturen aus Schritt 6
+
+| # | Korrektur aus Schritt 6 | Prüfung | Urteil |
+|---|---|---|---|
+| X6 | *„Nora stellte die Tasse ab“* → *„Nora stieg über die Scherben“* | **Neuer räumlicher Fehler:** Die Scherben liegen *„hinter ihr“*, sie steht vor dem Fenster und geht dann *„zum Fenster“*. Über etwas zu steigen, das hinter ihr liegt, ergibt keinen Sinn. | **Ersetzt** durch *„Nora ließ die Arbeitsplatte los.“* Das greift zwei Absätze vorher auf (*„Ihre Finger schlossen sich um die Kante der Arbeitsplatte“*). Logische Bewegung: festhalten → loslassen → zum Fenster → bei Schwindel wieder greifen (Z.710). |
+| X3 | *„rot vom Weinen am Vortag“* → *„rot vom Weinen“*; *„gestern Angst vor dem Kellerlicht“* → *„eben im Keller an meinem Ärmel festgekrallt“* | Theo weinte in Kap. 9 am selben Abend, das passt. Der Ärmel passt seit der Nachprüfung von Schritt 5 genau (Theo hält ihn ab dem Lichtausfall fest). „Tageslicht“ beim Verlassen des Kellers passt zu einem Juli-Abend. | **Bleibt** |
+| X1 | *„was ich in den Sommerferien gemacht habe“* → *„was ich so in meiner Freizeit mache“* | Widerspruch weg, aber **der Witz ist schwächer geworden**: „Was ich in den Sommerferien gemacht habe“ ist das Aufsatzthema, das jedes Kind kennt, „Freizeit“ ist blass. Seit der Nachprüfung von Schritt 2 steht fest: Diese Nacht geht von Freitag auf Samstag. | **Ersetzt** durch *„Falls die Lehrerin am Montag fragt, was ich am Wochenende gemacht habe.“* Die Erzählrunde am Montag ist genauso bekannt **und** passt zur Zeitlinie. |
+
+### Selbstkorrektur: Endabnahme
+
+In der Endabnahme (Schritt 7, Punkt 2) habe ich *„Sie hatten sie gestern offen gelassen“* und
+*„Wie der Raum gestern“* (Kap. 3) mit **„passt: nach Mitternacht“** abgetan. **Das war zu bequem.**
+Der Wecker zeigt 23:47 (Kap. 2), Nora geht direkt danach hoch, und der Besuch oben war **am selben
+Nachmittag**. Für eine Zwölfjährige, die noch nicht geschlafen hat, ist das „heute“. Ein Leser
+stolpert über „gestern“.
+
+| Stelle | Eingriff |
+|---|---|
+| *„Sie hatten sie gestern offen gelassen.“* | → *„Sie hatten sie am Nachmittag offen gelassen.“* |
+| *„Kalt. Eiskalt. Wie der Raum gestern. Wie der Raum, den Schatten nicht betreten wollte.“* | *„Wie der Raum gestern.“* gestrichen (Minimal-Regel Stufe 3). Der zweite Vergleich sagt dasselbe genauer. |
+
+**Lehre für weitere Prüfungen:** Ein Kandidat aus dem Logik-Skript wird erst abgehakt, wenn die
+Begründung **am Text** steht (hier: Uhrzeit Kap. 2 + Besuch Kap. 2). „Klingt plausibel“ reicht nicht.
+
+### Bewusst NICHT geändert
+
+| Stelle | Warum nicht |
+|---|---|
+| „Arbeitsplatte“ 4× in Kap. 4 | Drei davon sind **eine Bewegung** (greifen – loslassen – wieder greifen), keine Wiederholung. Die vierte ist eine andere Szene am Nachmittag. |
+| Theo kommt **barfuß** in die Küche mit Scherben | Er bleibt an der Tür stehen, und Nora räumt die Scherben später auf. Das Original ist hier stimmig. |
+| *„Keine Reaktion wie gestern Nacht“* (Kap. 4), *„Sie waren gestern daran vorbeigegangen“* (Kap. 15) | Beide stimmen: Morgen nach der Nacht bzw. Samstag nach dem Freitag. |
+| *„Sein Fell sträubte sich vom Nacken bis zum Schwanz“* 2× (Kap. 2 und 11) | Alt, neun Kapitel auseinander, kein Widerspruch. |
+
+### Kontrolle
+
+| Prüfung | Ergebnis |
+|---|---|
+| `pruefe_band1_umbau.py --basis cd8486b` | ✅ alle harten Prüfungen bestanden (Kap. 3 −3 W, Kap. 13 −2 W) |
+| gegen `4e983cf` | ✅ 22.684 W; Stimme +2 % / +10 % |
+| `pruefe_logik.py 1` | **8 → 6** Kandidaten (beide falschen „gestern“ in Kap. 3 entfallen). Die übrigen 6 einzeln begründet (s. o. und Endabnahme). |
+| K6 / K8 | ✅ Kapitelenden unverändert; keine neuen Fakten, Faber 0 |
+| Regel 3 | „am Nachmittag“, „Wochenende“, „Lehrerin“: je 1× |
+| Kapitel-Dateien | neu erzeugt, 0 Abweichungen |

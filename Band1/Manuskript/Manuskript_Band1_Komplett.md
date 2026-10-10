@@ -555,11 +555,11 @@ Nora erreichte den Absatz vor der Wohnung. Sie richtete die Taschenlampe auf die
 
 Ihr Herz setzte einen Schlag aus.
 
-Die Tür war geschlossen. Fest geschlossen. Sie hatten sie gestern offen gelassen. Theo war als Erster rausgerannt, sie hinterher. Niemand hatte die Tür zugezogen.
+Die Tür war geschlossen. Fest geschlossen. Sie hatten sie am Nachmittag offen gelassen. Theo war als Erster rausgerannt, sie hinterher. Niemand hatte die Tür zugezogen.
 
 Ein Prickeln lief ihren Rücken hinauf, über den Nacken, bis in die Kopfhaut. Nora streckte die Hand aus. Ihre Finger zitterten. Sie berührten das Holz.
 
-Kalt. Eiskalt. Wie der Raum gestern. Wie der Raum, den Schatten nicht betreten wollte.
+Kalt. Eiskalt. Wie der Raum, den Schatten nicht betreten wollte.
 
 Und genau in diesem Moment hörte das Klopfen auf.
 
@@ -693,7 +693,7 @@ Er wich zwei Schritte zurück. Seine Augen waren riesig.
 
 „Da schreibt jemand an unser Fenster! JEMAND, DER NICHT DA IST!“
 
-Nora stieg über die Scherben. Ihre Hände zitterten, aber das ignorierte sie. Sie ging zum Fenster, hob die Hand und wischte mit dem Ärmel über das Glas.
+Nora ließ die Arbeitsplatte los. Ihre Hände zitterten, aber das ignorierte sie. Sie ging zum Fenster, hob die Hand und wischte mit dem Ärmel über das Glas.
 
 Weg.
 
@@ -2611,7 +2611,7 @@ Nora merkte, dass ihre Wangen nass waren. Sie hob die Hand und wischte mit dem H
 
 Neben ihr schniefte Theo. Er wischte sich mit dem Ärmel über die Nase und machte ein Geräusch, das halb Lachen war und halb Schluchzen.
 
-„Wir haben gerade einem Geist beim Gehen zugeschaut“, murmelte er. „Falls in der Schule mal jemand fragt, was ich so in meiner Freizeit mache.“
+„Wir haben gerade einem Geist beim Gehen zugeschaut“, murmelte er. „Falls die Lehrerin am Montag fragt, was ich am Wochenende gemacht habe.“
 
 Nora lachte. Kurz. Leise. Es tat gut. Es löste etwas in ihrer Brust, das seit Tagen festgesessen hatte. Einen Knoten, den sie nicht einmal bemerkt hatte.
 
