@@ -2267,7 +2267,15 @@ Und was hatte er mit Frau Silber gemacht?
 
 Irgendwo in der Wohnung klickte ein Geräusch. Leise. Wie eine Tür, die ins Schloss fiel.
 
-Schatten knurrte.
+Schatten knurrte. Er starrte den Flur hinunter. Zur letzten Tür. Zum kalten Zimmer.
+
+Dann hörten sie es.
+
+Klopf. Klopf. Klopf.
+
+Pause.
+
+Klopf. Klopf. Klopf.
 
 ---
 
@@ -2284,6 +2292,8 @@ Er bellte noch einmal.
 Nora bekam eine Gänsehaut. Seit sie ihn kannten, hatte Schatten nie gebellt. Nicht einmal. Er hatte geknurrt, gewinselt, sich geweigert. Aber gebellt? Nie.
 
 Bis jetzt.
+
+Am Abend hatte das Klopfen aufgehört, bevor sie sich getraut hatten, die Tür zu öffnen. Nora hatte lange wach gelegen.
 
 „Nora!“ Theos Stimme kam aus dem Flur. Dünn. Verängstigt. „Nora, kommst du?“
 
@@ -2394,6 +2404,12 @@ Diesmal las sie nicht für sich. Nicht für Theo. Sie las für das Zimmer. Für 
 Sie las alles. Jedes Wort. Den Geburtstag und die lila Tinte. Luna, die einen Stock aus dem Fluss holte. Die Sterne auf dem Dach. Ihr Atem dampfte über dem Papier.
 
 Dann kamen die dunklen Seiten. Das kalte Zimmer. Das Kratzen in der Wand. Die Mutter, die *Einbildung* sagte.
+
+Die Kälte wurde stärker. Nicht schwächer. Stärker.
+
+Am Fenster wuchsen Eisblumen über das Glas. Die Seiten wurden steif unter Noras Fingern. Theo zog die Decke bis zur Nase.
+
+„Nora“, flüsterte er. „Es wird schlimmer.“
 
 Noras Stimme wurde leiser. Aber sie hörte nicht auf.
 
@@ -2571,6 +2587,8 @@ Das Licht pulsierte stärker. Wärmer. Nora spürte es auf ihrem Gesicht. Wie So
 
 „Lina Vogt“, sagte Nora. „Wir haben dein Tagebuch gelesen. Wir wissen, wer du warst.“
 
+Theo kniete sich hin. Ganz vorsichtig legte er das Tagebuch neben das Licht. Es gehörte ihr.
+
 Schatten hob den Kopf. Er stand langsam auf und ging zum Licht. Drei Schritte. Dann setzte er sich davor und legte den Kopf schief. Als würde er jemanden verabschieden, den er lange gekannt hatte.
 
 Und für einen Herzschlag lang war Nora Lina. Sie spürte den kalten Kellerboden unter nackten Füßen. Die Angst. Die Einsamkeit. Fünfzig Jahre Warten. Dann war es vorbei. Ein Wimpernschlag. Nora war wieder Nora. Aber sie verstand jetzt.
@@ -2581,7 +2599,7 @@ Schatten lag still. Seine Augen waren halb geschlossen. Sein Schwanz lag reglos 
 
 Nora antwortete nicht. Sie konnte es nicht in Worte fassen. Aber sie spürte es. Etwas löste sich.
 
-Der Lichtfleck bewegte sich. Langsam. Er glitt über den Boden, an Schattens Pfote vorbei, zum Fenster hin. Er wurde ein wenig größer. Ein wenig heller. Das Gold wurde weißer. Reiner.
+Der Lichtfleck bewegte sich. Langsam. Er glitt über den Boden, über den Einband des Tagebuchs, an Schattens Pfote vorbei, zum Fenster hin. Er wurde ein wenig größer. Ein wenig heller. Das Gold wurde weißer. Reiner.
 
 Noras Sicht verschwamm. Sie blinzelte nicht.
 

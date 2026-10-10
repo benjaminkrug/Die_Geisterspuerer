@@ -194,4 +194,12 @@ Und was hatte er mit Frau Silber gemacht?
 
 Irgendwo in der Wohnung klickte ein Geräusch. Leise. Wie eine Tür, die ins Schloss fiel.
 
-Schatten knurrte.
+Schatten knurrte. Er starrte den Flur hinunter. Zur letzten Tür. Zum kalten Zimmer.
+
+Dann hörten sie es.
+
+Klopf. Klopf. Klopf.
+
+Pause.
+
+Klopf. Klopf. Klopf.

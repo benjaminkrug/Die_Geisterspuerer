@@ -94,6 +94,8 @@ Das Licht pulsierte stärker. Wärmer. Nora spürte es auf ihrem Gesicht. Wie So
 
 „Lina Vogt“, sagte Nora. „Wir haben dein Tagebuch gelesen. Wir wissen, wer du warst.“
 
+Theo kniete sich hin. Ganz vorsichtig legte er das Tagebuch neben das Licht. Es gehörte ihr.
+
 Schatten hob den Kopf. Er stand langsam auf und ging zum Licht. Drei Schritte. Dann setzte er sich davor und legte den Kopf schief. Als würde er jemanden verabschieden, den er lange gekannt hatte.
 
 Und für einen Herzschlag lang war Nora Lina. Sie spürte den kalten Kellerboden unter nackten Füßen. Die Angst. Die Einsamkeit. Fünfzig Jahre Warten. Dann war es vorbei. Ein Wimpernschlag. Nora war wieder Nora. Aber sie verstand jetzt.
@@ -104,7 +106,7 @@ Schatten lag still. Seine Augen waren halb geschlossen. Sein Schwanz lag reglos 
 
 Nora antwortete nicht. Sie konnte es nicht in Worte fassen. Aber sie spürte es. Etwas löste sich.
 
-Der Lichtfleck bewegte sich. Langsam. Er glitt über den Boden, an Schattens Pfote vorbei, zum Fenster hin. Er wurde ein wenig größer. Ein wenig heller. Das Gold wurde weißer. Reiner.
+Der Lichtfleck bewegte sich. Langsam. Er glitt über den Boden, über den Einband des Tagebuchs, an Schattens Pfote vorbei, zum Fenster hin. Er wurde ein wenig größer. Ein wenig heller. Das Gold wurde weißer. Reiner.
 
 Noras Sicht verschwamm. Sie blinzelte nicht.
 

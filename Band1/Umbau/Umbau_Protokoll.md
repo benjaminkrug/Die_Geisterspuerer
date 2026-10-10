@@ -683,3 +683,53 @@ K18  ████      4  ← Ende
 | Kap. 14–16 je ~1.150 W | Unter dem Richtwert von ~1.200, im Rahmen von Band 3/4. |
 | Kap. 8 „Flurtür“ (Lage der Räume unklar), Theo „hundert Jahre alt“ (Haus von 1826) | Alt und klein, notiert. Theos Zahl ist eine Kinderschätzung. |
 | Offen für den Autor | Testleser, Schritt 1 (Anhang/QR), KDP (Seiten −15 % > 10-%-Regel, Klappentext „16 Kapitel“, Cover-Rücken), Spielbuch-Abgleich |
+
+---
+
+## Kleine Verbesserungen Kap. 11–13 · 2026-10-10
+
+Basis: `47a4ab1`. Auftrag: nur kleine Änderungen, die das Buch besser machen; jede begründet und
+hinterfragt. Gesucht wurde nach dem, was im Raster Punkte kostet: schwacher Sog, **Vorbereitungen
+ohne Wirkung**, Angst ohne Einlösung.
+
+### Umgesetzt
+
+| # | Befund (Beleg) | Änderung | Warum besser | Risiko geprüft |
+|---|---|---|---|---|
+| K1 | **Kap. 11 endet schwach:** unbestimmtes Klicken, Knurren, dann Schlaf. Im Raster Sog 1 von 2, das schwächste Kapitelende des Buches. | Nach dem Klicken: Schatten starrt *„Zur letzten Tür. Zum kalten Zimmer.“* – *„Dann hörten sie es. Klopf. Klopf. Klopf. Pause. Klopf. Klopf. Klopf.“* | Das Klopfen ist das Signal, mit dem das Buch begann (Kap. 2/3), jetzt kommt es gesteigert zurück. Es **begründet** im Nachhinein Linas „OBEN“ (Kap. 12) und warum sie genau in diesem Zimmer erlöst wird (Kap. 13). Das war die offene Frage O4, **ohne neuen Fakt**. | Kap. 13: *„die Tür, die immer geschlossen gewesen war. Das kalte Zimmer“* passt. Das Klopfen kommt in Kap. 2/3 *„aus Frau Silbers Wohnung“* (passt). Ein Kapitelende zu ändern ist hier ausnahmsweise begründet: Die Tabu-Regel schützt starke Enden, dieses war das schwächste. |
+| K2 | Nach K1 fehlt der Übergang: Klopfen, und im nächsten Satz liegt Nora im Bett. | Kap. 12: *„Am Abend hatte das Klopfen aufgehört, bevor sie sich getraut hatten, die Tür zu öffnen. Nora hatte lange wach gelegen.“* | Logik. Erklärt, warum die Tür in Kap. 13 *„immer geschlossen gewesen“* war und jetzt *„offen stand“*. | Der erste Satz von Kap. 12 ist unverändert (Anschlussstelle) |
+| K3 | **Kap. 12: angelegte Angst ohne Einlösung.** Nora: *„Was, wenn es alles schlimmer machte? Was, wenn die Kälte stärker zurückkam?“* Danach wurde es nur wärmer. | Beim Lesen der dunklen Seiten wird die Kälte **zuerst stärker**: Eisblumen am Fenster, steife Seiten, Theo: *„Nora. Es wird schlimmer.“* Nora liest weiter, **dann** weicht die Kälte. | Die Angst wird eingelöst, und der Höhepunkt des Kapitels bekommt eine Schwelle: Die Wende wird erkämpft, nicht geschenkt. | **Erster Entwurf verworfen:** *„neues Kondenswasser … verschluckte die Wörter“* widersprach dem Kapitelende (*„Die Wörter waren verblasst … als hätte die Wärme sie weggewischt“*). Eisblumen tauen dagegen genau zu dem Wasserstreifen, in dem „DANKE“ erscheint. |
+| K4 | **Kap. 13: Vorbereitung ohne Wirkung.** *„Soll ich es mitnehmen?“ – „Nimm es mit.“* Danach kommt das Tagebuch nicht mehr vor. | Theo legt es neben das Licht: *„Es gehörte ihr.“* Das Licht gleitet *„über den Einband des Tagebuchs“*, bevor es geht. | Die Vorbereitung hat jetzt eine Wirkung. *„Es gehörte ihr“* greift Noras Gedanken vom Kapitelanfang auf (*„Das Tagebuch gehörte Lina“*). | **Erster Entwurf verworfen:** *„Als würde er es ihr zurückgeben“* stand direkt vor *„Als würde er jemanden verabschieden“* (zweimal „Als würde er“). Der Verbleib des Tagebuchs danach ist offen. Das stört nicht, kein späterer Text widerspricht (B2/B5 erwähnen es nur allgemein). |
+
+### Verworfen (mit Grund)
+
+| Idee | Warum nicht |
+|---|---|
+| Drittes Notizbuch-Zitat in Kap. 11 kürzen (*„versteht. Nicht nur kennt.“*) | Es trägt das Thema, auf das Band 4/5 aufbauen (*„Bei Lina … hatte Verstehen den Geist gehen lassen“*). Wiederholt sich nur scheinbar. |
+| Gefahr in Kap. 13 einbauen | Kap. 13 ist der Abschied. Gefahr würde den emotionalen Höhepunkt stören. Ein ruhiges Kapitel nach dem Höhepunkt ist Absicht. |
+| Ende Kap. 12 („DANKE. OBEN.“) schärfen | Es trägt schon und wird durch K1 sogar stärker (das Klopfen kam von oben). |
+
+### Kontrolle
+
+| Prüfung | Ergebnis |
+|---|---|
+| `pruefe_band1_umbau.py --basis 47a4ab1` | ✅ bestanden (+97 W: Kap. 11 +22, Kap. 12 +54, Kap. 13 +21) |
+| gegen `4e983cf` | ✅ 22.781 W (−16,2 %); Stimme: Und-Anfänge +2 %, Kurzabsätze **+12 %** (Korridor ±15 %, im Auge behalten) |
+| K6 | Nur das Ende von Kap. 11 geändert (begründet, s. K1) |
+| K8 | ✅ 0 neue Fakten, Faber 0 |
+| `pruefe_logik.py 1` | 6 Kandidaten, keine neuen |
+| Regel 3 | „Eisblumen“, „Es wird schlimmer“, „bevor sie sich getraut“, „Zur letzten Tür“, „Es gehörte ihr“: je 1× |
+| Kapitel-Dateien | neu erzeugt, 0 Abweichungen |
+
+### Neubewertung (ehrlich)
+
+| Kap. | vorher | nachher | warum |
+|---|---|---|---|
+| 11 | 6 | **7** | Sog 1 → 2 (Klopfen statt Klicken) |
+| 12 | 6 | 6 | Mehr Spannung beim Lesen, aber die Gefahr stand schon auf 2 (Gestalt im Flur). Das Raster bildet die Verbesserung nicht ab. |
+| 13 | 5 | 5 | Das Gefühl stand schon auf 2. K4 verbessert die Stimmigkeit, nicht die Punktzahl. |
+
+**Ø je Kapitel 6,94 → 7,0.** Das ist bewusst wenig. Der Gewinn dieser Runde liegt vor allem darin,
+dass **drei Vorbereitungen jetzt eine Wirkung haben** (Klopfen → OBEN → Zimmer; Noras Angst →
+Kälte wehrt sich; Tagebuch mitnehmen → zurückgeben). Das misst das Raster nicht, Leser
+spüren es aber als „alles passt zusammen“.

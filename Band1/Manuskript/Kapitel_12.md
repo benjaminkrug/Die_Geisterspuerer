@@ -12,6 +12,8 @@ Nora bekam eine Gänsehaut. Seit sie ihn kannten, hatte Schatten nie gebellt. Ni
 
 Bis jetzt.
 
+Am Abend hatte das Klopfen aufgehört, bevor sie sich getraut hatten, die Tür zu öffnen. Nora hatte lange wach gelegen.
+
 „Nora!“ Theos Stimme kam aus dem Flur. Dünn. Verängstigt. „Nora, kommst du?“
 
 Sie warf die Decke zurück. Die Kälte traf sie wie ein Schlag. Der Boden unter ihren nackten Füßen war eiskalt. Ihr Atem kam als weiße Wolke aus dem Mund.
@@ -121,6 +123,12 @@ Diesmal las sie nicht für sich. Nicht für Theo. Sie las für das Zimmer. Für 
 Sie las alles. Jedes Wort. Den Geburtstag und die lila Tinte. Luna, die einen Stock aus dem Fluss holte. Die Sterne auf dem Dach. Ihr Atem dampfte über dem Papier.
 
 Dann kamen die dunklen Seiten. Das kalte Zimmer. Das Kratzen in der Wand. Die Mutter, die *Einbildung* sagte.
+
+Die Kälte wurde stärker. Nicht schwächer. Stärker.
+
+Am Fenster wuchsen Eisblumen über das Glas. Die Seiten wurden steif unter Noras Fingern. Theo zog die Decke bis zur Nase.
+
+„Nora“, flüsterte er. „Es wird schlimmer.“
 
 Noras Stimme wurde leiser. Aber sie hörte nicht auf.
 
