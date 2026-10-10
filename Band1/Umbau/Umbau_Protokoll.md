@@ -120,3 +120,63 @@ Bogen liegt bereit: `Band1/Umbau/Testleser_Bogen.md`. **Offen: 5 bis 8 Kinder fi
 | Seitenzahl gemessen, Mess-Regel festgelegt | ✅ (186 im KDP-Konto bestätigen) |
 | KDP-Regel geklärt | ⚠️ **Stopp-Regel ausgelöst**, Entscheidung des Autors nötig (Plan 7.6) |
 | Testleser Runde 1 | ⏳ Bogen fertig, Kinder fehlen |
+
+---
+
+## Entscheidung des Autors · 2026-10-10
+
+> „KDP-Fragen brauchst du nicht beachten. Bearbeite es erstmal komplett und achte nicht darauf,
+> wieviel du kürzt. Achte auch auf Qualität und Spannung.“
+
+Folge: Die Stopp-Regel (0.5) ist **vom Autor aufgehoben**. Das Wortbudget wird zur Obergrenze für
+Füllstoff, nicht zur Untergrenze für Kürzungen. **Maßstab ist Qualität und Spannung.** Schritt 1
+(Anhang und QR-Code) wartet auf die Domain („das Feld bearbeiten wir später“).
+
+---
+
+## Schritt 2 – Der Schluss (Kap. 14–18 → 14–16) · 2026-10-10
+
+### 2a Szenenliste
+
+| Alte Szene | Wo jetzt | Grund |
+|---|---|---|
+| K14 Aufwachen, Frühstück, Lebenslauf-Witz, Spinnen | **K14**, gekürzt | Atempause nach dem Abschied, Humor bleibt |
+| K14 Namensliste „Wir haben es geschafft“ | **K14** | Ein Satz, der zeigt, was sie erreicht haben |
+| K14 Karte hinter dem Brett (Versteck durch Klopfen) | **K14**, jetzt findet **Schatten** das Brett | W7: kein viertes Klopf-Versteck |
+| K14 12 Kreise, frische Tinte | **K14**, ans Kapitelende verschoben, verschärft: Staub vor dem Versteck unberührt | Neuer, stärkerer Haken |
+| K15 Notizen auf der Karte (Heinrich B., Clara, Helene) | **K15** | Anker für Band 2 |
+| K15 GRAVEN, roter Kreis | **K14** | Gehört zur Entdeckung der Karte |
+| K15 Bibliothek 3 (Chronik) | **K14**, aus **Silbers eigener Chronik** (Kap. 5) | W6: dritte Bibliothek weg |
+| K15 Friedhof, Gestalt starrt | **K15**, ausgebaut: Atemwolke, **Raureif am Zaun**, Tor schlägt zu | Mehr Spannung. Der Raureif bereitet das Schlussbild vor |
+| K16 Flucht nach Hause | **K15**, gekürzt | – |
+| K16 Entscheidung „Wir hören auf“ → Theo überzeugt Nora | **K15, umgedreht:** Nora entscheidet **selbst**, Theos vorbereitete Rede läuft ins Leere | W1: keine Wiederholung von Kap. 11. Zeigt Noras Entwicklung, Humor |
+| K16 Mama erzählt von der Nachbarin | **gestrichen** | W11: Der Leser kennt das seit Kap. 5 und 6 |
+| K17 Brief unter der Diele (Klopfen) | **K15-Ende**, jetzt zeigt **Schatten** die Diele | W7. Der Umschlag ist der Kapitelhaken |
+| K17 Brief: Anrede, Silber, Tür vor 200 Jahren, Anna, Schatten, Schleier | **K16**, nur Neues oder Vertiefung. Anna → Theo verbindet „Danke“ mit Linas DANKE | W3 |
+| K17 „Wenn ihr diesen Brief lest, bin ich nicht mehr hier“ | **auf den Umschlag** (Ende K15) | Stärkerer Haken |
+| K17 „Hütet euch vor dem Ersten“ + Schatten als Schild | **K16**, ohne die Wiederholung aus Kap. 11 („Hand hat gezittert“). Neu: *„Im Notizbuch hat sie über ihn geschrieben. Hier schreibt sie an uns.“* | W2: Steigerung statt Wiederholung |
+| K17 „Er tat etwas, das er noch nie getan hatte“ | **gestrichen** | Widerspruch zu Kap. 3 und 10, wo Schatten sich schon vor die Kinder stellt |
+| K18 Nacht am Fenster, Stadt, Mama, Theo („mutigster Zehnjähriger“), Taschenlampen-Murmeln | **K16**, gekürzt | Warmer Ausklang, Humor |
+| K18 „Morgen fangen wir an. Mit dem Friedhof.“ | **gestrichen** | X2: Band 2 spielt einen Monat später |
+| K18 blaues Licht, Schatten bellt | **gestrichen**, ersetzt durch: **Raureif auf der Karte am Friedhofskreis**, eine zweite Hand „von der anderen Seite“ | W4: neues Schlussbild, das auf Band 2 zeigt |
+| K16 Gespräch Theo über die Gestalt „seit 1887 allein“ | **K16 (Nacht)** | Übergang von Grusel zu Mitgefühl, Kern der Reihe |
+
+**Pflicht-Anker:** alle 32 vorhanden (K1). Der Brief bleibt als Gegenstand (B4 Z.960, B5 Z.298/562).
+Die Anrede *„Für die, die nach mir kommen“* passt zu B4: *„Ich habe es jemandem hinterlassen, von
+dem ich hoffte, dass es ihn gab“*, daher Noras Satz *„Sie hat es gehofft.“*
+
+### 2b–2e Kontrolle
+
+| Prüfung | Ergebnis |
+|---|---|
+| `pruefe_band1_umbau.py --basis 4e983cf --schritt 2` | ✅ alle harten Prüfungen bestanden |
+| Wörter | 27.179 → **23.125**; neue Kapitel 1.128 / 1.132 / 1.132 W (Band 3/4 Ø ≈ 1.000–1.070) |
+| K5 neue Sätze > 18 W | 0 (zuerst 1 gemeldet: **Fehlalarm des Werkzeugs**, kursiver Satz endete auf `.*`. Skript korrigiert, trennt jetzt zuerst nach Absätzen) |
+| K9 Schritt 2 | „Wir hören auf“ 1×, „Hand hat gezittert …“ 1×, „Schon wieder ihr zwei“ 0×, „Morgen fangen wir an“ 0× |
+| K10 Stimme | Und-Anfänge +0 %, Kurzabsätze +11 % (Korridor ±15 %) |
+| `pruefe_logik.py 1` | 18 → **9** Kandidaten. Zwei waren selbst verursacht und sind behoben: „keuchte“ (kein erlaubtes Sprechverb) und ein Satz, der wortgleich in Kap. 3 steht. Der Ersatz „rang nach Luft“ wurde verworfen (Echo mit „holte tief Luft“ drei Zeilen später, Regel 3). |
+| Kapitelenden | alle drei neu (erlaubt): „Und trotzdem war die Tinte nass.“ / „*Wenn ihr das lest, bin ich nicht mehr hier.*“ / „Genau auf derselben Stelle.“ |
+| Übergang Band 2 | Kein Satz legt eine Zeit fest. Die Karte liegt am Ende auf dem Schreibtisch, so beginnt Band 2 (*„Frau Silbers Karte lag seit Tagen auf ihrem Schreibtisch“*). |
+| Band 4 (kaltes Zimmer) | Nicht verschärft. Der Satz „Die Wohnung … Aber die Kälte war weg“ sagt nichts über die Zukunft des Zimmers. |
+| Lesung K14–16 am Stück | Ein missverständlicher Satz („Niemand hatte sie überreden müssen“) → „Und diesmal musste Theo sie nicht überreden.“ |
+| Grusel → Humor | K14 Tinte → (Kapitelende), K15 Friedhof → Theos Rede; K16 „der Erste“ → „Können wir jetzt nach unten gehen? Bitte?“ |

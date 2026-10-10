@@ -111,8 +111,15 @@ def erzaehler(t):
 
 
 def lange_saetze(t, grenze=18):
-    s = re.split(r"(?<=[.!?])\s+", erzaehler(t))
-    return [x.strip() for x in s if len(x.split()) > grenze]
+    # Erst nach Absaetzen trennen: ein kursiver Satz endet auf ".*" - ohne Absatz-Trennung
+    # klebte er an der naechsten Kapitelueberschrift (Fehlalarm im ersten Lauf, Regel 5).
+    out = []
+    for p in re.split(r"\n\s*\n", erzaehler(t)):
+        p = p.strip().strip("*")
+        if not p or p.startswith("#") or p == "---":
+            continue
+        out += [x.strip() for x in re.split(r"(?<=[.!?])\**\s+", p) if len(x.split()) > grenze]
+    return out
 
 
 def letzter_absatz(body):
