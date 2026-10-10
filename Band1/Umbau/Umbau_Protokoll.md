@@ -225,3 +225,27 @@ Basis: `bde071d` (Ende Schritt 3).
 | Lesung Kap. 6–7 am Stück | **Zwei selbst erzeugte Fehler gefunden und behoben:** (1) Nora band Schatten erst los, *nachdem* sie losgegangen waren. (2) Mama legte sich schlafen, und die Kinder hämmerten danach in Kap. 8 die Wand auf → Mama geht zur Spätschicht. Außerdem zwei Satzanfänge „Nora …“ hintereinander, und „Pizza im Kühlschrank“ als Echo zu Kap. 4 → „Essen steht im Kühlschrank“. |
 | Zeitachse | Kap. 6 und 7 sind jetzt **ein** Tag (vorher zwei). Kap. 8–11 geprüft: passt. `Die_Geisterspuerer_Author_Info.md` (Tag 3/4, 4/5) wird in Schritt 7 nachgezogen. |
 | Bewusster Rückbezug | Kap. 7 *„Wir finden raus, was passiert ist“* ↔ Kap. 13 *„Sie hat nie geschrieben: Findet raus, was passiert ist“* |
+
+---
+
+## Schritt 5 – Wiederholungen im Mittelteil · 2026-10-10
+
+Basis: `e217139` (Ende Schritt 4).
+
+| # | Eingriff | Warum |
+|---|---|---|
+| W5 | Kap. 12: Das Tagebuch wird **nicht mehr ein zweites Mal zitiert** (vorher fünf Einträge mit Datum), sondern zusammengefasst. Nur *„Niemand glaubt mir“* wird vorgelesen, und Nora liest es zweimal, *„damit er im Raum blieb“*. Neu: Schatten schaut auf eine Stelle neben dem Bett, *„wo niemand saß“*. | Wiederholung von Kap. 9. Der Satz bereitet Kap. 13 vor („Glaubt mir“). |
+| W7 | Verstecke: in Schritt 2 erledigt (Karte und Brief findet jetzt Schatten). Durch Klopfen gefunden wird nur noch die Tapete in Kap. 8. | – |
+| W9 | Kap. 10: Der Fehlalarm „Theo ist weg“ ist ersetzt durch: **Das Handylicht geht aus**. Schwärze, Theos Hand am Ärmel, das Licht kommt schwächer zurück. *„Akku?“* – Anzeige: 80 %. Nora sagt nichts. | Der zweite Fehlalarm desselben Typs (Kap. 5) wirkte nicht mehr. Die neue Szene ist echter Grusel ohne Auflösung „war nichts“ |
+| W10 | Kap. 10: zweimal „offiziell festhalten“ → Theo: *„Kennst du die Stelle im Film … Ich bin einer von denen im Kino.“* und *„Neue Regel: keine Keller mehr. Nie wieder. Auch nicht zum Getränkeholen.“* | Humor wird **ersetzt, nicht gestrichen** (Humor-Regel). Bleibt 2×: Kap. 4 (Grabstein) und Kap. 5 |
+| Titel | Kap. 12 „Konfrontation“ → **„Bitte“** | Der Titel versprach einen Kampf. Das Wort steht im Kapitel an den Fenstern. Kein Kapitel der Serie heißt so (geprüft). Kein Dokument außerhalb von Band 1 zitiert den alten Titel (geprüft). |
+| Altfehler | Kap. 10: *„etwas, das Nora noch nie von ihm gehört hatte. Er winselte.“* → *„so noch nie“* | Widerspruch im Original: Schatten winselt schon in Kap. 2 und 8, und der nächste Satz sagt selbst *„Nicht das … Winseln von vorhin“*. Minimal-Regel Stufe 1 (ein Wort). |
+
+| Prüfung | Ergebnis |
+|---|---|
+| `pruefe_band1_umbau.py --basis e217139 --schritt 5` | ✅ alle harten Prüfungen bestanden |
+| K9 | „offiziell festhalten/protokoll“ 2×, datierte Tagebuch-Zitate in Kap. 12: 0× |
+| K6 | Kap. 12 als „geändert“ gemeldet: **Fehlalarm**, das Werkzeug ordnet über den Titel zu. Der letzte Absatz ist wortgleich (geprüft). |
+| K10 | Und-Anfänge +0 %, Kurzabsätze +1 % |
+| `pruefe_logik.py 1` | 9 Kandidaten, keine neuen |
+| Lesung Kap. 10 und 12 | „Ich bin die im Kino“ → „Ich bin einer von denen im Kino“ (Theo ist ein Junge). „Handy“ als Lichtquelle passt zu Kap. 10. |

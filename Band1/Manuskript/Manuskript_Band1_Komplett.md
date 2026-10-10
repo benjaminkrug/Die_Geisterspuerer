@@ -1927,7 +1927,7 @@ Der Gang machte einen Knick nach links. Und plötzlich war der Beton weg.
 
 Steinwände. Grob, uneben, feucht. Die Decke sackte tiefer. Ein Druck legte sich auf ihre Ohren. Wie beim Tauchen im Schwimmbad.
 
-Theo blieb stehen. „Ich will das mal offiziell festhalten: Das hier ist genau die Art von Ort, an dem in jedem Film etwas Schreckliches passiert."
+Theo blieb stehen. „Kennst du die Stelle im Film, wo einer sagt: Komm, wir gehen in den Keller? Und alle im Kino schreien: NEIN?" Er schluckte. „Ich bin einer von denen im Kino."
 
 „Wir sind nicht in einem Film."
 
@@ -1935,17 +1935,23 @@ Theo blieb stehen. „Ich will das mal offiziell festhalten: Das hier ist genau 
 
 Nora ging weiter. Drei kleine Räume, durch niedrige Durchgänge verbunden. Spinnweben an der Decke. Irgendwo tropfte es. Regelmäßig. Wie ein langsamer Herzschlag. Auf ihrer Zunge lag ein metallischer Geschmack. Wie Blut. Wie alte Münzen.
 
-Nora drehte sich um. Theo war weg.
+Das Handylicht flackerte. Einmal. Dann ging es aus.
 
-Ihr Magen verkrampfte sich. „Theo?" Ihre Stimme hallte von den Steinwänden zurück. Nichts. Nur das Tropfen. Zwei Sekunden lang war sie allein. Zwei Sekunden, die sich anfühlten wie Minuten.
+Schwärze. Vollkommen. Nora hörte nur noch das Tropfen. Und Theos Atem, ganz nah an ihrem Ohr. Seine Hand fand ihren Ärmel und krallte sich fest.
 
-Dann tauchte er hinter dem Durchgang auf. „Bin hier. Bin nur gegen einen Karton gestoßen."
+Sie drückte auf den Bildschirm. Nichts. Noch einmal.
 
-Nora atmete aus. Ihre Knie zitterten.
+Dann war das Licht wieder da. Zitternd. Schwächer als vorher.
+
+„Akku?", flüsterte Theo.
+
+Nora schaute auf die Anzeige. Achtzig Prozent.
+
+Sie sagte nichts.
 
 Schatten blieb stehen.
 
-Mitten im letzten Raum. Vor einer Ecke, in der zwei Wände aufeinandertrafen. Er stand da, den Kopf gesenkt, den Schwanz zwischen den Beinen. Und dann tat er etwas, das Nora noch nie von ihm gehört hatte.
+Mitten im letzten Raum. Vor einer Ecke, in der zwei Wände aufeinandertrafen. Er stand da, den Kopf gesenkt, den Schwanz zwischen den Beinen. Und dann tat er etwas, das Nora so noch nie von ihm gehört hatte.
 
 Er winselte.
 
@@ -2035,7 +2041,7 @@ Dann war es vorbei.
 
 Die Dichte hinter Noras Rücken löste sich auf. Ihre Schultern sackten nach unten. Erst jetzt merkte sie, wie verkrampft sie gewesen war.
 
-„Okay", sagte Theo. Seine Stimme war dünn und hoch. „Okay. Das war definitiv etwas." Er holte Luft. „Ich möchte offiziell festhalten, dass ich das von Anfang an für eine schlechte Idee hielt." Er schluckte. „Können wir jetzt bitte gehen?"
+„Okay", sagte Theo. Seine Stimme war dünn und hoch. „Okay. Das war definitiv etwas." Er holte Luft. „Neue Regel: keine Keller mehr. Nie wieder. Auch nicht zum Getränkeholen." Er schluckte. „Können wir jetzt bitte gehen?"
 
 Nora drehte sich um. Langsam. Ihr Nacken knackte leise.
 
@@ -2265,7 +2271,7 @@ Schatten knurrte.
 
 ---
 
-# Kapitel 12 – Konfrontation
+# Kapitel 12 – Bitte
 
 Schatten bellte.
 
@@ -2383,35 +2389,29 @@ Nora schluckte. Dann entschied sie sich. Für Lina.
 
 Sie begann zu lesen.
 
-„Zwölfter März 1974", las sie laut. Ihre Stimme hallte in dem kalten Zimmer. „Neues Tagebuch. Mama hat es mir zum Geburtstag geschenkt."
+Diesmal las sie nicht für sich. Nicht für Theo. Sie las für das Zimmer. Für die Kälte. Für das Mädchen, das hier geschlafen hatte, bevor es Noras Zimmer war.
 
-Nora las weiter. Linas Alltag. Schule. Freundinnen. Sommer. Seite für Seite. Ihr Atem dampfte über dem Papier.
+Sie las alles. Jedes Wort. Den Geburtstag und die lila Tinte. Luna, die einen Stock aus dem Fluss holte. Die Sterne auf dem Dach. Ihr Atem dampfte über dem Papier.
 
-Und dann kamen die dunklen Einträge.
+Dann kamen die dunklen Seiten. Das kalte Zimmer. Das Kratzen in der Wand. Die Mutter, die *Einbildung* sagte.
 
-„Vierzehnter September. Mein Zimmer war heute Morgen eiskalt."
-
-Nora las. Ihre Stimme wurde leiser, aber sie hörte nicht auf. Sie las über das kalte Zimmer. Über Luna, die sich weigerte reinzugehen.
-
-„Wie bei uns", flüsterte Theo.
-
-Nora nickte. Sie las weiter. Über das Kratzen in der Wand. Über die Mutter, die sagte: Einbildung.
+Noras Stimme wurde leiser. Aber sie hörte nicht auf.
 
 Etwas veränderte sich.
 
-Es kam langsam. So langsam, dass Nora es zuerst nicht bemerkte. Aber dann spürte sie es. Ihre Finger waren nicht mehr taub. Die Luft war nicht mehr ganz so beißend. Die Kälte wich. Nicht auf einmal. Wie ein Eisblock, der schmolz. Tropfen für Tropfen.
+Es kam so langsam, dass Nora es zuerst nicht bemerkte. Ihre Finger waren nicht mehr taub. Die Luft biss nicht mehr ganz so. Die Kälte wich. Nicht auf einmal. Wie ein Eisblock, der schmolz. Tropfen für Tropfen.
 
-„Fünfzehnter Oktober", las Nora. „Niemand glaubt mir."
+„*Niemand glaubt mir*", las Nora.
 
-Die Wörter lagen schwer in der Luft. Noras Kehle war eng. Aber sie las weiter. Für Lina.
+Sie las den Satz ein zweites Mal. Langsamer. Damit er im Raum blieb.
 
-„Siebundzwanzigster Oktober. Wenn mir etwas passiert, soll jemand wissen, dass ich die Wahrheit gesagt habe."
+Theo wischte sich mit dem Ärmel über die Augen. Schatten hob den Kopf. Er schaute auf eine Stelle neben dem Bett, wo niemand saß. Dann legte er den Kopf wieder ab. Sein Schwanz klopfte einmal auf den Boden.
 
-Theo wischte sich mit dem Ärmel über die Augen. Schatten hob kurz den Kopf. Dann legte er ihn wieder ab. Sein Atem ging ruhig. Ruhiger als vorhin.
+Nora las weiter. Seite für Seite. Mit jedem Satz wich die Kälte ein Stück. Wie eine Welle, die vom Strand zurückläuft.
 
-Nora spürte es deutlich. Die Kälte zog sich zurück. Wie eine Welle, die vom Strand wich. Langsam. Stetig. Mit jedem Wort, das sie laut in den Raum sprach.
+Dann war sie bei der letzten beschriebenen Seite. Bei den fahrigen Buchstaben. Bei dem Satz über den Keller.
 
-„Zweiter November", las sie. Ihre Stimme war ein Flüstern. „Morgen gehe ich in den Keller. Ich muss wissen, was dort unten ist."
+Ihre Stimme war nur noch ein Flüstern. Aber sie las ihn bis zum Ende.
 
 Sie schloss das Buch.
 
