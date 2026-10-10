@@ -1,0 +1,91 @@
+==============================================================================
+LOGIK-VORPRUEFUNG - Band 1   (18 Kapitel, 27,302 Woerter)
+==============================================================================
+Alle Treffer sind KANDIDATEN. Jeden im Kontext lesen (Regel 1).
+
+
+########## HOHE TREFFERQUOTE - hier zuerst schauen ##########
+
+--- 1. Doppelte Kapiteltitel (serienweit) ---
+    Realer Fund: 'Der Keller' in B1 UND B3.
+    1 Kandidat(en):
+      * 'Der Keller' kommt vor in: B1K10, B3K4
+
+--- 2. Zeitangaben ---
+    Gegen die Serien-Zeitlinie pruefen. Haeufigster Fehler der Reihe.
+    6 Kandidat(en):
+      * Sie hatten sie gestern offen gelassen.
+      * Wie der Raum gestern.
+      * Keine Reaktion wie gestern Nacht.
+      * Frau Silber war seit drei Monaten verschwunden.
+      * In einer Wohnung, die seit drei Monaten leer stand.
+      * Sie klang wie damals im Treppenhaus, nach dem Keller.
+
+--- 3. Zahlen, die zusammenpassen muessen ---
+    6 Kandidat(en):
+      * „Das sind zwölf Markierungen." „Zwölf", wiederholte Theo.
+      * Eine alte Frau, allein mit elf Geistern.
+      * Frau Silber hat zwölf Geister kartiert.
+      * Vor drei Wochen hätte sie gelacht, wenn jemand ihr Geister erwähnt hätte.
+      * Und elf Geister, die auf jemanden warteten.
+      * Nicht weil elf Geister auf einer Karte standen.
+
+--- 4. Verdaechtige Sprechverben ---
+    Pruefen: wirklich Sprechverb oder eigenstaendiger Handlungssatz?
+    3 Kandidat(en):
+      * [presste] „Hör zu." Nora presste die Lippen zusammen. Die Angst wich der Neugier. Das passierte immer so. Erst das Herzklopfen, dann die Fra
+      * [schnaubte] Theo schnaubte leise. Dann wurde er ernst. „Lies vor."
+      * [presste] „Der Erste. Frau Silbers Hand hat gezittert, als sie über ihn geschrieben hat." Nora presste den Brief an ihre Brust. „Nur bei ihm
+
+--- 5. Verbotene Begriffe (Content-Grenzen) ---
+    Im Kontext lesen - 'Kein Blut, kein Feuer' BENENNT die Grenze.
+    keine Treffer
+
+--- 6. POV-Bruch (Innenleben anderer Figuren) ---
+    Nur Erzaehlertext. Serienregel: nur was Nora wahrnimmt.
+    keine Treffer
+
+--- 7. Kapitel ohne Schatten-REAKTION ---
+    keine Treffer
+
+--- 8. Woertlich wiederholte Saetze ---
+    Manche sind gewollte Callbacks - nicht blind streichen.
+    2 Kandidat(en):
+      * 2x: Sein Fell sträubte sich vom Nacken bis zum Schwanz.
+      * 2x: Ihr Herz schlug so laut, dass sie es in den Ohren hörte.
+
+--- 9. >> VIERTE WAND (Meta-Sprache) ---
+    Realer Fund: 6x 'vier Baende' in Band 4, im Druck. Fehlalarme moeglich: 'Baende' in einer Bibliothek, ein erfundener Buchtitel als Witz - im Kontext lesen.
+    keine Treffer
+
+
+########## ZUR BEURTEILUNG (kein Fehler an sich) ##########
+
+--- 9. Kapitel-Schlusssaetze (Cliffhanger-Pflicht) ---
+    18 Kandidat(en):
+      * K 1: Er knurrte die Tür an.
+      * K 2: Dann, ganz leise, ein tiefes Winseln.
+      * K 3: Noras Müslischüssel krachte auf den Boden.
+      * K 4: Geduldig. Ruhig. Als wüsste er genau, wohin sie gehen mussten.
+      * K 5: Jemand, der nicht da war.
+      * K 6: Wie alles in dieser Stadt.
+      * K 7: Als würde er ihnen zeigen wollen, wo sie suchen mussten.
+      * K 8: „Nora", flüsterte er. Mehr brachte er nicht heraus.
+      * K 9: „Das", sagte sie leise, „müssen wir herausfinden."
+      * K10: „Lauf", flüsterte Nora.
+      * K11: Schatten knurrte.
+      * K12: Schatten hob den Kopf. Sein Blick richtete sich auf die Decke. Sein Schwanz schlug einmal auf den Boden. Dann war er wie
+      * K13: Und knurrte. Leise. Tief.
+      * K14: Und ein Kreis, den jemand durchgestrichen hatte, als die Tinte noch feucht war. In einer Wohnung, die seit drei Monaten 
+      * K15: Und er hatte sie gesehen.
+      * K16: Er wusste alles.
+      * K17: Dann Stille.
+      * K18: **ENDE BAND 1**
+
+
+(Die rauschanfaelligen Checks 10-12 laufen nur mit --alle.)
+
+==============================================================================
+18 Kandidaten in den Checks mit hoher Trefferquote.
+Naechster Schritt: Befundliste anlegen, jeden Treffer im Kontext lesen,
+einstufen (rot/orange/gelb/weiss) - siehe Dokumentation/Logik_Pruefplan.md.

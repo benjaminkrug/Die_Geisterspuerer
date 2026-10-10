@@ -1,0 +1,86 @@
+============================================================================================
+QUALITAETS-MESSUNG - alle Baende nebeneinander
+============================================================================================
+
+### A1 - DER EINSTIEG (hier entscheidet das Kind, ob es weiterliest)
+
+  >> GEMESSEN WIRD IN WOERTERN, NICHT IN ABSAETZEN.
+    Absaetze sind eine untaugliche Einheit: Am Anfang von Band 1 stehen viele
+    sehr kurze Dialogzeilen ("Theo." / "War nur ein Vorschlag."). Gezaehlt in
+    Absaetzen ergab das "17 bis zum ersten Unheimlichen" - was nach drei Seiten
+    Kulisse klingt. In Woertern sind es 213, also weniger als EINE Seite.
+    Die Absatz-Zahl hat einen Fehlbefund erzeugt (2026-07-18).
+
+Band  ->Dialog W  ->Grusel W  ca.S.   K1 Wörter  Dialog%  erster Satz
+----------------------------------------------------------------------------------------------------
+1     68          213         0.8     1537       32       Der Umzugswagen parkte schief vor ...
+2     75          33          0.1     1307       21       Schatten wollte nicht rein....
+3     85          21          0.1     1503       28       Man kann eine Nummer nicht anrufen...
+4     95          54          0.2     1103       38       Manche Türen sind schon offen, lan...
+5     136         0           0.0     979        26       Es gibt eine Kälte, die von drauße...
+
+  Richtwert: erstes Unheimliches innerhalb der ERSTEN SEITE (~270 W).
+  Alle Baende der Reihe erfuellen das. Bester: Band 5 (0 W).
+  Erst ab ~400 W (1,5 Seiten) lohnt es, ueber den Einstieg zu reden.
+
+
+### A2 - DER AUSSTIEG (hier entscheidet es, ob der naechste Band kommt)
+
+  Band 1: letzter Absatz -> Ihre Hände zitterten nicht.
+  Band 2: letzter Absatz -> Und in der Dunkelheit ihrer Jackentasche lagen zwei Karten: eine alte, handgez
+  Band 3: letzter Absatz -> Schatten knurrte zur Tür. Und tief unter Gravenstedt, irgendwo, wo niemand hin
+  Band 4: letzter Absatz -> Und er kam näher.
+  Band 5: letzter Absatz -> Noch nicht.
+
+
+### LESEERFAHRUNG (Zielgruppe: 10 Jahre, Keyword 'Lesemuffel')
+
+Band  Kap.   Ø Wörter   längstes   Streuung  Einschaetzung
+--------------------------------------------------------------------------------------------
+1     18     1510       1682       96        lang - fuer Lesemuffel eine Huerde
+2     15     1237       1592       160       ok
+3     16     1068       1510       161       ok
+4     16     1003       1364       124       ok
+5     18     950        1277       135       ok
+
+
+### AMAZON-LESEPROBE ('Blick ins Buch' = erste ~10 %)
+
+  Band 1:  2728 Wörter, 2 Kapitel,  34 Grusel-Signale -> traegt
+  Band 2:  1865 Wörter, 2 Kapitel,  15 Grusel-Signale -> traegt
+  Band 3:  1720 Wörter, 2 Kapitel,  21 Grusel-Signale -> traegt
+  Band 4:  1616 Wörter, 2 Kapitel,  16 Grusel-Signale -> traegt
+  Band 5:  1721 Wörter, 2 Kapitel,  26 Grusel-Signale -> traegt
+
+
+### WIRKUNG - TOTE ZONEN
+
+  Was hier NICHT gemessen wird und warum - alles an Band 1-5 geprueft:
+    - Gruselwort-Dichte:  Band 1 (Grusel 3/10) hat die HOECHSTE Kaelte-Dichte
+                          der Reihe. Anti-korreliert mit der Wirkung.
+    - Humor:              NICHT per Stichwort auffindbar. Alle vier echten
+                          Lacher aus Band 5 ("Andere Familien haben ein
+                          Aquarium.") enthalten null Humor-Schluesselwoerter.
+    - Eskalationskurve:   Band 5 misst "fallend", weil das letzte Viertel die
+                          Aufloesung ist - der emotionale Hoehepunkt liegt
+                          genau dort. Die Kurve misst das Gegenteil.
+  Messbar ist nur die STRUKTUR: wo passiert lange nichts, und ist das
+  Entlastungsventil (Theo) nach einem Schreck da?
+
+Band  tote Zone   in Kapitel   Grusel->Theo Ø  Schrecken ohne Theo
+--------------------------------------------------------------------------------------------
+1     321         K2           3.1             16 von 57
+2     249         K9           4.1             14 von 36
+3     218         K15          4.3             8 von 26
+4     196         K7           4.3             5 von 11
+5     220         K11          3.9             12 von 22
+
+  Tote Zone: laengste Strecke ohne Schreck UND ohne Dialog.
+  Ab ~180 W nachlesen (deckt sich mit dem Spannungs-Pruefplan).
+  Grusel->Theo: Richtwert 1-3 Absaetze (CLAUDE.md erlaubt 2-3
+  Ausnahmen pro Buch, wo die Dramatik es verlangt).
+
+============================================================================================
+Befunde einstufen (rot/orange/gelb) - siehe Dokumentation/
+Qualitaets_Pruefplan.md. Bei veroeffentlichten Buechern gilt:
+im Zweifel STEHEN LASSEN, und wenn aendern, dann minimal.

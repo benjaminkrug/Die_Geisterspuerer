@@ -1,0 +1,35 @@
+Basis: 4e983cf   Datei: Band1/Manuskript/Manuskript_Band1_Komplett.md
+
+K1 Pflicht-Anker (Band 2-5, Klappentext)
+  OK    alle 32 Anker vorhanden
+
+K2 Wortzahl
+  Basis 27179  ->  jetzt 27179  (Differenz +0)
+
+K3 Anführungszeichen
+  OK    öffnend 1078 / schließend 1078 (ASCII 1078, typogr. 0)
+
+K4 Schatten (der Hund) in jedem Kapitel
+  OK    jedes Kapitel nennt Schatten/den Hund
+
+K5 Sätze über 18 Wörter (nur Erzähltext)
+  OK    Basis 11, jetzt 11, davon NEU 0
+
+K6 Kapitelenden (Cliffhanger)
+  (Jede Änderung hier muss im Schritt erlaubt sein, sonst zurücknehmen.)
+
+K7 Verbotene Wörter
+  OK    Basis 0, jetzt 0
+
+K8 Schutz Punkt 2: keine neuen Fakten zu Linas Tod
+  OK    neue Sätze mit Lina + Sturz/Faber/Schleier/...: 0
+  OK    Faber/Cornelius: Basis 0, jetzt 0
+
+K10 Stimme gegen die Basis (Band 1 ist der Stimmen-Maßstab der Serie)
+  OK    Und-Anfang Erzähler /1000 W: Basis 2.26, jetzt 2.26 (+0 %)  [Korridor ±15 %]
+  OK    Kurzabsätze (≤4 W) %: Basis 7.75, jetzt 7.75 (+0 %)  [Korridor ±15 %]
+  INFO  Ø Wörter je Erzählsatz: Basis 4.81, jetzt 4.81 (+0 %)
+  INFO  Ø Wörter je Absatz: Basis 14.83, jetzt 14.83 (+0 %)
+  INFO  'zum ersten Mal' /1000 W: Basis 0.33, jetzt 0.33 (+0 %)
+
+ALLE HARTEN PRÜFUNGEN BESTANDEN

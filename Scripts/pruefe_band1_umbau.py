@@ -126,6 +126,30 @@ def saetze_mit(t, wort, muster):
     return {x.strip() for x in s if wort in x and re.search(muster, x)}
 
 
+def stimme(text):
+    """Stimmen-Werte wie Dokumentation/Stimmen_Pruefplan.md Abschnitt 5 (gleiche Definitionen),
+    aber je 1.000 Woerter, damit alte und gekuerzte Fassung vergleichbar sind."""
+    body = "\n".join(l for l in text.splitlines() if not l.startswith("#"))
+    paras = [p.strip() for p in body.split("\n\n") if p.strip() and p.strip() not in ("---", "***")
+             and not p.strip().startswith("**ENDE")]
+    W = len(re.findall(r"[A-Za-zÄÖÜäöüß']+", body))
+    erz = 0
+    for p in paras:
+        if '"' in p or "\u201e" in p:
+            continue
+        erz += sum(1 for s in re.split(r"(?<=[.!?])\s+", p) if re.match(r"Und ", s.strip().lstrip('"\u201e»—* ')))
+    kurz = [p for p in paras if len(re.findall(r"[A-Za-zÄÖÜäöüß']+", p)) <= 4 and '"' not in p and "\u201e" not in p]
+    erz_text = erzaehler(body)
+    saetze = [s for s in re.split(r"(?<=[.!?])\s+", erz_text) if s.strip()]
+    return {
+        "Und-Anfang Erzähler /1000 W": 1000 * erz / W,
+        "Kurzabsätze (≤4 W) %": 100 * len(kurz) / len(paras),
+        "Ø Wörter je Erzählsatz": sum(len(s.split()) for s in saetze) / len(saetze),
+        "Ø Wörter je Absatz": W / len(paras),
+        "'zum ersten Mal' /1000 W": 1000 * len(re.findall(r"[Zz]um ersten Mal", body)) / W,
+    }
+
+
 def main():
     args = sys.argv[1:]
     basis_ref = args[args.index("--basis") + 1] if "--basis" in args else "HEAD"
@@ -201,6 +225,19 @@ def main():
     # ein Vorgriff, der Band 4 beruehrt - auch ohne das Wort "Lina" im selben Satz.
     fa, fn = len(re.findall(r"Faber|Cornelius", alt)), len(re.findall(r"Faber|Cornelius", neu))
     ergebnis(fn <= fa, f"Faber/Cornelius: Basis {fa}, jetzt {fn}")
+
+    print("\nK10 Stimme gegen die Basis (Band 1 ist der Stimmen-Maßstab der Serie)")
+    # Hart: die beiden Werte, die der Stimmen-Pruefplan als Drift-Signal fuehrt, +-15 %.
+    # Die anderen sind Hinweise - bei kleinen Zahlen schwanken sie stark (Regel 5).
+    sa_, sn_ = stimme(alt), stimme(neu)
+    for k in sa_:
+        rel = (sn_[k] - sa_[k]) / sa_[k] * 100 if sa_[k] else 0
+        hart = k in ("Und-Anfang Erzähler /1000 W", "Kurzabsätze (≤4 W) %")
+        text = f"{k}: Basis {sa_[k]:.2f}, jetzt {sn_[k]:.2f} ({rel:+.0f} %)"
+        if hart:
+            ergebnis(abs(rel) <= 15, text + "  [Korridor ±15 %]")
+        else:
+            print("  INFO  " + text)
 
     if schritt in ZIELE:
         print(f"\nK9 Zielwerte Schritt {schritt}")

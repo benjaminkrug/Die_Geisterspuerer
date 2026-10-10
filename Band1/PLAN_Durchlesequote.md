@@ -51,6 +51,10 @@
    - Schritt 7: Endabnahme.
    - Ziel sind etwa **22.000 statt 27.000 Wörter**. Gestrichen wird nur, was sich wiederholt.
    - **Kein Schritt erfordert eine Änderung an Band 2 bis 5** (7.5).
+6a. **Schritt 0 ist erledigt (2026-10-10), und die Stopp-Regel hat ausgelöst:** KDP verlangt bei
+   mehr als 10 % Seitenänderung eine neue Ausgabe (neue ASIN, Rezensionen weg). Das Ziel von 22.000
+   Wörtern wären etwa −18 %. Empfehlung: KDP fragen und parallel eine Fassung unter 10 % vorbereiten
+   (7.6 F3, 7.7). Ausgangswerte: `Band1/Umbau/Umbau_Protokoll.md`.
 6. **Meine Kurve ist eine begründete Einschätzung, keine Messung.** Deshalb gibt es vor dem Upload
    eine Prüfung mit **Kindern als Testlesern** (Abschnitt 6) und nach dem Upload eine Zählung über
    den **QR-Code** (Abschnitt 8).
@@ -334,8 +338,9 @@ das ist ausgeschlossen.
 1. **Jeder Schritt endet mit einem Buch, das sich veröffentlichen ließe.** Kein Schritt hinterlässt
    eine Baustelle. Geht dem Projekt nach Schritt 3 die Zeit aus, wird der Stand nach Schritt 3
    hochgeladen. Daher die **Reihenfolge nach Nutzen**: Der Schluss (größter Hebel) kommt zuerst.
-2. **Ein Schritt = ein Commit + ein Git-Tag** (`band1-umbau-s1`, `-s2` …). Fällt eine Kontrolle
-   durch, wird der Schritt **zurückgenommen** (`git checkout band1-umbau-s<n-1> -- <Datei>`),
+2. **Ein Schritt = ein Commit.** Sein Hash kommt ins Protokoll (`Band1/Umbau/Umbau_Protokoll.md`).
+   Git-Tags nicht, denn sie leben nur im lokalen Klon. Fällt eine Kontrolle durch, wird der Schritt
+   **zurückgenommen** (`git checkout <Hash Schritt n-1> -- <Datei>`),
    **nicht nachgeflickt**. Nachflicken baut neue Fehler (Logik-Prüfplan, Regel 3).
 3. **Gearbeitet wird nur in `Manuskript_Band1_Komplett.md`** (veröffentlichte Wahrheit,
    `TODO_Nachbesserung`). Die Kapitel-Dateien werden **einmal am Ende** nachgezogen (Schritt 7).
@@ -344,7 +349,7 @@ das ist ausgeschlossen.
    Absatz lesen → Umgebung prüfen.
 5. **Band 1 ist der Stimmen-Maßstab der Serie** (`Stimmen_Pruefplan.md`, Abschnitt 3). Darum
    wird der Maßstab **vor** dem Umbau eingefroren: Gemessen wird immer gegen den Tag
-   `band1-vor-umbau`, nie gegen die neue Fassung. Neuer Text muss in der **Dichte von Band 1**
+   den Basis-Commit **`4e983cf`**, nie gegen die neue Fassung. Neuer Text muss in der **Dichte von Band 1**
    liegen (Satzlänge, „Und“-Anfänge, Absatzlänge je 1.000 Wörter).
 6. **Kapitel-Schlusssätze und erste Sätze sind tabu** (`Stimmen_Pruefplan.md`, Abschnitt 7),
    **außer** dort, wo der Schritt es ausdrücklich erlaubt. Die erlaubten Stellen stehen in jedem
@@ -367,6 +372,7 @@ Neu gebaut für diesen Plan. Es vergleicht den aktuellen Text mit einem Git-Stan
 | **K7** verbotene Wörter | Manifestation, paranormal, Entität, Leiche … | ja |
 | **K8** Schutz Punkt 2 | keine neuen Sätze, die Lina mit Sturz, Treppe, Faber, Uhren, Schleier, Riss verbinden; **Faber/Cornelius bleibt bei 0** | ja |
 | **K9** Zielwerte je Schritt | z. B. Schritt 2: „Wir hören auf“ ≤ 1, „Morgen fangen wir an“ = 0 | ja |
+| **K10** Stimme | „Und“-Anfänge im Erzähltext je 1.000 W und Anteil Kurzabsätze gegen die Basis, Korridor ±15 % (Fund F1). Satz- und Absatzlänge als Hinweis | ja |
 
 **Das Werkzeug wurde selbst geprüft** (Regel 5):
 - Gegen den heutigen Text: alles grün, Differenz 0.
@@ -376,14 +382,14 @@ Neu gebaut für diesen Plan. Es vergleicht den aktuellen Text mit einem Git-Stan
   rutschte durch. Seitdem gibt es die eigene Faber-Sperre.
 - **Gegenprobe:** Eingeschleuste Verstöße (Lina + gestürzt, ein Satz mit 20 Wörtern) werden gemeldet.
 
-**Aufruf:** `py Scripts/pruefe_band1_umbau.py --basis band1-umbau-s<n-1> --schritt <n>`
+**Aufruf:** `py Scripts/pruefe_band1_umbau.py --basis <Hash Schritt n-1> --schritt <n>`
 und zusätzlich `py Scripts/pruefe_logik.py 1`. **Ausgangswert dort: 18 Kandidaten.** Neue
 Kandidaten sind wahrscheinlich selbst verursacht.
 
 ### 7.4 Die Schritte
 
 Wortzahl gemessen mit dem Prüfskript (Ausgangswert **27.179**). Der Zielkorridor nach allen
-Schritten liegt bei **21.300–22.700**.
+Schritten liegt bei **21.300–22.700**. ⚠️ **Gilt nur, wenn KDP das ohne neue Ausgabe erlaubt.** Sonst Korridor ab ≈ 24.900 (siehe 7.7).
 
 ---
 
@@ -391,9 +397,10 @@ Schritten liegt bei **21.300–22.700**.
 
 | | |
 |---|---|
-| **Arbeit** | 1. Tag `band1-vor-umbau` setzen. 2. Ausgangswerte festhalten: `pruefe_band1_umbau.py` (grün), `pruefe_logik.py 1` (18), Stimmen-Messung aus `Stimmen_Pruefplan.md` Abschnitt 5 für Band 1. 3. **KDP-Regel zu „wesentlichen Inhaltsänderungen“ klären** (KDP-Hilfe, im Zweifel Support). 4. Testleser Runde 1 mit der **alten** Fassung starten (Abschnitt 6). |
-| **Kontrolle** | Alle Ausgangswerte stehen schriftlich in einer Datei `Band1/Umbau_Protokoll.md`. |
-| **Stopp-Regel** | **Verlangt KDP für einen Umbau dieser Größe eine neue Ausgabe (neue ASIN), endet der Plan nach Schritt 1.** Die Rezensionen von Band 1 wiegen schwerer als der Umbau (siehe Kopf von `build_taschenbuch_docx.py`). |
+| **Arbeit** | 1. Basis-Commit festhalten (`4e983cf`). 2. Ausgangswerte festhalten: `pruefe_band1_umbau.py` (grün), `pruefe_logik.py 1` (18), Stimmen-Messung aus `Stimmen_Pruefplan.md` Abschnitt 5 für Band 1. 3. **KDP-Regel zu „wesentlichen Inhaltsänderungen“ klären** (KDP-Hilfe, im Zweifel Support). 4. Testleser Runde 1 mit der **alten** Fassung starten (Abschnitt 6). |
+| **Kontrolle** | Alle Ausgangswerte stehen schriftlich in `Band1/Umbau/Umbau_Protokoll.md`. |
+| **Ergebnis 2026-10-10** | ✅ erledigt, bis auf die Testleser. ⚠️ **Die Stopp-Regel hat ausgelöst** (KDP-10-%-Regel, siehe 7.6 F3 und 7.7). |
+| **Stopp-Regel** | **Verlangt KDP für einen Umbau dieser Größe eine neue Ausgabe (neue ASIN), wird nicht weitergeschrieben, bevor der Autor nach 7.7 entschieden hat.** Die Rezensionen von Band 1 wiegen schwer (siehe Kopf von `build_taschenbuch_docx.py`). |
 
 ---
 
@@ -431,7 +438,7 @@ Schritten liegt bei **21.300–22.700**.
 - Prüfskript grün mit `--schritt 2`.
 - `pruefe_logik.py`: keine neuen Kandidaten.
 - Kap. 12–16 am Stück gelesen.
-- Stimmenwerte des neuen Textes im Korridor von `band1-vor-umbau`.
+- Stimmenwerte des neuen Textes im Korridor der Basis `4e983cf` (K10).
 - Wortbudget eingehalten.
 
 ---
@@ -489,16 +496,16 @@ Wand nennen, X4). Das **Ende von Kap. 6** darf sich ändern, die Enden von 4, 5 
 
 | # | Prüfung | Bestanden wenn |
 |---|---|---|
-| 1 | `pruefe_band1_umbau.py --basis band1-vor-umbau` | grün; Wortzahl 21.300–22.700 |
+| 1 | `pruefe_band1_umbau.py --basis 4e983cf` | grün; Wortzahl im Korridor nach der Entscheidung 7.7 |
 | 2 | `pruefe_logik.py 1` | keine Kandidaten über die 18 vom Anfang hinaus, die nicht einzeln begründet sind |
-| 3 | Stimmen-Messung gegen `band1-vor-umbau` | alle Werte im Korridor |
+| 3 | Stimmen-Messung gegen `4e983cf` (K10, im Prüfskript) | alle harten Werte im Korridor ±15 % |
 | 4 | **Ganzes Buch am Stück lesen**, laut oder halblaut | keine Stelle, an der der Lesende stockt |
 | 5 | **Testleser Runde 2** (3–4 neue Kinder, Abschnitt 6) | die Kurve der Kinder hat in Kap. 14–16 neu keine Delle mehr; Frage 1 wird nicht mehr mit „weiß nicht, das ist nie erklärt“ beantwortet, sondern mit dem Gedanken aus Schritt 3 |
 | 6 | Kapitel-Dateien neu aus der Komplett-Datei erzeugen, Abgleich Komplett ↔ Kapitel-Dateien | identisch |
-| 7 | Dokumente nachziehen: `Story_Outline.md` („18 Kapitel“), `Die_Geisterspuerer_Author_Info.md` (Tagesablauf), `Serien_Kanon.md`, `Band1/Analyse.md` als überholt markieren | erledigt |
+| 7 | Dokumente nachziehen: `Story_Outline.md` („18 Kapitel“, F2), `Die_Geisterspuerer_Author_Info.md` (Tagesablauf), `Serien_Kanon.md`, `Band1/Analyse.md` als überholt markieren, **`Stimmen_Pruefplan.md`: Maßstab bleibt die Fassung `4e983cf` (F1)** | erledigt |
 | 8 | **Klappentext** `KDP_Beschreibungen.md` Z.58: *„★ 18 Kapitel mit Cliffhangern“* → **16** | geändert und bei KDP eingetragen |
 | 9 | DOCX + eBook bauen, **am Artefakt** prüfen: Anführungszeichen, Fehl-Ornamente, QR, Inhaltsverzeichnis | alles fehlerfrei |
-| 10 | Seitenzahl → Buchrücken → `build_cover.py` neu → KDP-Vorschau | keine Warnung |
+| 10 | Seitenzahl → Buchrücken → `build_cover.py` neu → KDP-Vorschau. Seiten-Änderung nach der Mess-Regel im Protokoll (0.4) | Änderung innerhalb der Grenze aus 7.7; keine Warnung |
 | 11 | Spielbuch (CYOA) Band 1 gegen die neue Fassung querlesen | kein Widerspruch, der einem Kind auffällt, oder bewusst hingenommen und notiert |
 
 **Upload B** nur, wenn 1–11 bestanden sind. Termin siehe Abschnitt 9.
@@ -511,6 +518,37 @@ heute**. Der Plan verschärft sie nicht (Schritt 2, „Was nicht passieren darf�
 auch nicht, denn dafür müsste Band 4 angefasst werden.
 
 **Damit gilt die Vorgabe:** kein Schritt erfordert eine Änderung an Band 2–5.
+
+### 7.6 Funde während der Planung
+
+| # | Fund | Beleg | Folge im Plan |
+|---|---|---|---|
+| **F1** | **Band 1 ist der Stimmen-Maßstab der ganzen Serie.** Alle anderen Bände werden gegen Band 1 gemessen. Verwässert der Umbau die Stimme von Band 1, verschiebt sich der Maßstab für alle Bände und für Staffel 2. | `Stimmen_Pruefplan.md`, Abschnitt 3: *„Gemessen wird gegen Band 1 … die bewiesene, verkaufte, gelesene Stimme der Serie.“* | Der Maßstab wird **vor** dem Umbau eingefroren (Basis-Commit `4e983cf`, Regel 5 in 7.2). Das Prüfskript misst die Stimme bei jedem Lauf gegen die Basis (**K10**, harter Korridor ±15 %, gegengeprüft: ein eingeschleuster Drift von +128 % wird gemeldet). **Für künftige Stimmen-Prüfungen der Serie gilt die alte Fassung (`4e983cf`) als Maßstab, nicht die neue.** Das muss in `Stimmen_Pruefplan.md` vermerkt werden (Schritt 7). |
+| **F2** | **Der Klappentext verspricht „18 Kapitel mit Cliffhangern“.** Nach Schritt 2 sind es 16. | `KDP_Beschreibungen.md` Z.58 (nur Band 1; Z.270 und 300 gehören zu Band 5). Außerdem `Story_Outline.md` Z.12 („18 Kapitel“). | Endabnahme Punkt 8 (7.4, Schritt 7): Klappentext bei KDP ändern, `Story_Outline.md` nachziehen. Der Klappentext lässt sich jederzeit ohne neue Ausgabe ändern. |
+| **F3** | **KDP verlangt eine neue Ausgabe, wenn sich die Seitenzahl um mehr als 10 % ändert.** Das Plan-Ziel von 22.000 Wörtern bedeutet etwa −18 % Seiten. **Eine neue Ausgabe heißt neue ASIN: Rezensionen und Ranking fangen bei null an.** | KDP-Hilfe „Editions“ und „Update Your Book“ (Wortlaut im Protokoll 0.5; im KDP-Konto gegenlesen). Seitenzahl gemessen: 186 (KDP). | **Stopp-Regel aus Schritt 0 ausgelöst.** Entscheidung 7.7. |
+
+### 7.7 Entscheidung nach Schritt 0: Wie mit der 10-%-Grenze umgehen?
+
+| Option | Was | Für | Gegen |
+|---|---|---|---|
+| **A – KDP fragen** | Dem KDP-Support den Umbau konkret beschreiben: gleiche Geschichte, Schluss von 5 auf 3 Kapitel verdichtet, ~18 % kürzer. Fragen: „Darf das als Update unter derselben ASIN laufen?“ | Verbindliche Antwort, kostet nur eine Nachricht. Die 10 % sind eine Faustregel aus der Hilfe; der Support entscheidet im Einzelfall. | Wartezeit von ein paar Tagen. Die Antwort kann „nein“ sein. |
+| **B – Unter 10 % bleiben** | Umbau auf ≈ **−2.300 Wörter** begrenzen (Ziel ≈ **24.900**, 8 % Sicherheitsabstand). Reihenfolge nach Nutzen: Schritt 2 (Schluss) bekommt fast das ganze Budget, etwa 7.442 → ~5.300 Wörter. Schritt 4 nur die zweite Bibliothek (~−300). Schritt 5 nur ersetzen, nicht kürzen. Schritt 3 und 6 unverändert. | Sicher innerhalb der KDP-Regel. Der größte Hebel (Zone B) bleibt zum großen Teil erhalten. | Weniger Straffung als geplant (−8 % statt −18 %). Ob der Wegfall von 2 Kapiteln trotzdem als „wesentlich“ gilt, bleibt offen. Dann **3 Kapitel → nur Kapitelgrenzen verschieben, 18 bleiben**? Das wäre kunstlos, deshalb auch hier A fragen. |
+| **C – Neue Ausgabe** | Umbau voll durchführen, als neues Buch veröffentlichen. | Keine Grenze für die Überarbeitung. Bei bisher wenigen Rezensionen ist der Verlust kleiner als bei einem großen Titel. | Verlust von Rezensionen, Verkaufsrang, Ads-Historie, „Kunden kauften auch“-Verknüpfungen. Serie neu verknüpfen. Das alte Buch bleibt sichtbar oder muss zurückgezogen werden. **Hohe Kosten für unsicheren Nutzen.** |
+| ~~D – Satzspiegel anpassen~~ | Größere Schrift oder mehr Zeilenabstand, damit die Seitenzahl gleich bleibt. | Hält die Zahl ein. | **Nicht empfohlen.** Das umgeht den Zweck der Regel (Käufer sollen wissen, welche Fassung die Rezensionen beschreiben). Fällt es auf, droht genau die Folge, die vermieden werden soll. |
+
+**Empfehlung: A sofort, B parallel vorbereiten.**
+- Die Schritte 1 und 3 sind von der Frage unberührt: Schritt 1 ändert den Anhang um wenige
+  Seiten, Schritt 3 fügt 40 bis 100 Wörter hinzu.
+- Die Szenenliste für Schritt 2 (2a) kann schon jetzt entstehen, und zwar so, dass sie in **zwei
+  Stufen** funktioniert: **B-Fassung** (≈ −2.100 Wörter im Schluss) und, falls KDP zustimmt,
+  **A-Fassung** (≈ −3.200).
+- So geht keine Woche verloren, und der Schluss wird in jedem Fall verbessert.
+
+**Begründung:**
+- Option C opfert das, was der Plan schützen will. Die Kopfnotiz von `build_taschenbuch_docx.py`
+  hat dieselbe Abwägung schon einmal getroffen (gegen den Formatwechsel, für die Rezensionen).
+- Option D ist ein Trick, kein Weg.
+- Zwischen A und B entscheidet nur KDP, und die Frage kostet nichts.
 
 ---
 
@@ -581,7 +619,7 @@ ob Leser *überhaupt* scannen (Kontrollwert).
   **Testlesern Runde 2** hoch. Die Schwachstelle bleibt der Mensch, der liest. Gegenmittel sind
   Rücknahme statt Nachflicken (7.2, Regel 2) und eine Freigabe durch den Autor bei Schritt 2a und 3.
 - **Kann der Umbau die Stimme von Band 1 verwässern?** Ja, und das wäre doppelt teuer, weil Band 1
-  der Stimmen-Maßstab der Serie ist. Darum wird der Maßstab vorher eingefroren (`band1-vor-umbau`),
+  der Stimmen-Maßstab der Serie ist. Darum wird der Maßstab vorher eingefroren (Basis-Commit `4e983cf`),
   und neuer Text muss in dessen Korridor liegen (7.2, Regel 5).
 - **Lohnt sich der Aufwand?** Grob gerechnet: Bei ~250 Band-1-Käufen im Monat bringen **+10
   Prozentpunkte** Durchlesequote ~25 Band-2-Käufe mehr. Wer Band 2 kauft, kauft oft weiter
