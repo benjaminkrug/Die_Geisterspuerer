@@ -693,7 +693,7 @@ Er wich zwei Schritte zurück. Seine Augen waren riesig.
 
 „Da schreibt jemand an unser Fenster! JEMAND, DER NICHT DA IST!"
 
-Nora stellte die Tasse ab. Ihre Hände zitterten, aber das ignorierte sie. Sie ging zum Fenster, hob die Hand und wischte mit dem Ärmel über das Glas.
+Nora stieg über die Scherben. Ihre Hände zitterten, aber das ignorierte sie. Sie ging zum Fenster, hob die Hand und wischte mit dem Ärmel über das Glas.
 
 Weg.
 
@@ -2095,7 +2095,7 @@ Theo schüttelte den Kopf. Langsam. Bestimmt.
 
 Nora blinzelte. „Nein?"
 
-„Nein." Theo stand vor ihr, die Hände zu Fäusten geballt. Seine Augen waren rot vom Weinen am Vortag. Seine Stimme zitterte noch immer. Aber er wich nicht zurück. „Wir können nicht aufhören."
+„Nein." Theo stand vor ihr, die Hände zu Fäusten geballt. Seine Augen waren rot vom Weinen. Seine Stimme zitterte noch immer. Aber er wich nicht zurück. „Wir können nicht aufhören."
 
 „Doch, können wir. Wir gehen hoch, schließen die Tür ab und vergessen das alles."
 
@@ -2117,7 +2117,7 @@ Ein Knoten bildete sich unter Noras Rippen. Sie schluckte. „Lina ist –"
 
 Nora presste die Lippen zusammen. Die Kälte aus dem Keller saß noch in ihren Knochen. Die Fußspuren. Kleine, nackte Füße im Staub. Kinderfüße.
 
-„Theo, du bist zehn. Du hattest gestern Angst vor dem Kellerlicht."
+„Theo, du bist zehn. Du hast dich eben im Keller an meinem Ärmel festgekrallt."
 
 „Ich habe immer noch Angst." Er sah ihr in die Augen. Direkt. Ohne Ausweichen. „Aber Lina hatte auch Angst. Und bei ihr war niemand."
 
@@ -2405,7 +2405,7 @@ Es kam so langsam, dass Nora es zuerst nicht bemerkte. Ihre Finger waren nicht m
 
 Sie las den Satz ein zweites Mal. Langsamer. Damit er im Raum blieb.
 
-Theo wischte sich mit dem Ärmel über die Augen. Schatten hob den Kopf. Er schaute auf eine Stelle neben dem Bett, wo niemand saß. Dann legte er den Kopf wieder ab. Sein Schwanz klopfte einmal auf den Boden.
+Theo zog die Nase hoch. Schatten hob den Kopf. Er schaute auf eine Stelle neben dem Bett, wo niemand saß. Dann legte er den Kopf wieder ab. Sein Schwanz klopfte einmal auf den Boden.
 
 Nora las weiter. Seite für Seite. Mit jedem Satz wich die Kälte ein Stück. Wie eine Welle, die vom Strand zurückläuft.
 
@@ -2617,7 +2617,7 @@ Nora merkte, dass ihre Wangen nass waren. Sie hob die Hand und wischte mit dem H
 
 Neben ihr schniefte Theo. Er wischte sich mit dem Ärmel über die Nase und machte ein Geräusch, das halb Lachen war und halb Schluchzen.
 
-„Wir haben gerade einem Geist beim Gehen zugeschaut", murmelte er. „Falls jemand fragt, was ich in den Sommerferien gemacht habe."
+„Wir haben gerade einem Geist beim Gehen zugeschaut", murmelte er. „Falls in der Schule mal jemand fragt, was ich so in meiner Freizeit mache."
 
 Nora lachte. Kurz. Leise. Es tat gut. Es löste etwas in ihrer Brust, das seit Tagen festgesessen hatte. Einen Knoten, den sie nicht einmal bemerkt hatte.
 

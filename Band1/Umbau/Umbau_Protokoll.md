@@ -249,3 +249,28 @@ Basis: `e217139` (Ende Schritt 4).
 | K10 | Und-Anfänge +0 %, Kurzabsätze +1 % |
 | `pruefe_logik.py 1` | 9 Kandidaten, keine neuen |
 | Lesung Kap. 10 und 12 | „Ich bin die im Kino“ → „Ich bin einer von denen im Kino“ (Theo ist ein Junge). „Handy“ als Lichtquelle passt zu Kap. 10. |
+
+---
+
+## Schritt 6 – Widersprüche · 2026-10-10
+
+Basis: `5c921b8` (Ende Schritt 5).
+
+| # | Widerspruch | Status / Eingriff |
+|---|---|---|
+| X1 | „Erster Schultag“ (Kap. 4) ↔ *„was ich in den Sommerferien gemacht habe“* (Kap. 13) | → *„Falls in der Schule mal jemand fragt, was ich so in meiner Freizeit mache.“* |
+| X2 | *„Morgen fangen wir an“* ↔ Band 2 (*„letzten Monat“*, Herbst) | in Schritt 2 weggefallen, **per Suche bestätigt: 0×** |
+| X3 | *„rot vom Weinen am Vortag“*, *„Du hattest gestern Angst vor dem Kellerlicht“* (Kap. 11). Tagebuch, Keller und Streit liegen am selben Tag (das Juli-Tageslicht reicht bis in den Abend). | → *„rot vom Weinen“* und *„Du hast dich eben im Keller an meinem Ärmel festgekrallt“*. Das greift die neue Handylicht-Szene aus Schritt 5 auf. |
+| X4 | Lina erst in Kap. 6 genannt | in Schritt 4 behoben |
+| X5 | *„hundertmal hier oben“ – „Dreimal“* | in Schritt 2 weggefallen, **per Suche bestätigt: 0×** |
+| **X6 (neu gefunden)** | Kap. 4: *„Nora stellte die Tasse ab“*, aber ihr ist gerade die **Müslischüssel** heruntergefallen (Ende Kap. 3, Anfang Kap. 4) | → *„Nora stieg über die Scherben.“* |
+
+Nebenbei, Regel 3: In Kap. 11 standen „noch rot … noch immer“ direkt hintereinander → „rot vom Weinen“.
+Theos Geste „mit dem Ärmel über die Augen“ kam durch den neuen Text in Kap. 12 auf 4× → dort „Theo
+zog die Nase hoch“.
+
+| Prüfung | Ergebnis |
+|---|---|
+| `pruefe_band1_umbau.py --basis 5c921b8` | ✅ alle harten Prüfungen bestanden, ±1 Wort |
+| `pruefe_logik.py 1` | 9 Kandidaten, keine neuen |
+| `git diff` Zeile für Zeile | Jede geänderte Zeile gehört zu X1, X3, X6 oder zum Regel-3-Hinweis oben |
