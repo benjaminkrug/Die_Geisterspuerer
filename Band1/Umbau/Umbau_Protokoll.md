@@ -180,3 +180,23 @@ dem ich hoffte, dass es ihn gab“*, daher Noras Satz *„Sie hat es gehofft.“
 | Band 4 (kaltes Zimmer) | Nicht verschärft. Der Satz „Die Wohnung … Aber die Kälte war weg“ sagt nichts über die Zukunft des Zimmers. |
 | Lesung K14–16 am Stück | Ein missverständlicher Satz („Niemand hatte sie überreden müssen“) → „Und diesmal musste Theo sie nicht überreden.“ |
 | Grusel → Humor | K14 Tinte → (Kapitelende), K15 Friedhof → Theos Rede; K16 „der Erste“ → „Können wir jetzt nach unten gehen? Bitte?“ |
+
+---
+
+## Schritt 3 – Die Lina-Frage aussprechen (Kap. 13) · 2026-10-10
+
+Basis: `0382068` (Ende Schritt 2).
+
+**Eingefügt** vor *„Meinst du, es hat wehgetan?“*: Theo fragt, was im Keller passiert ist. Nora:
+*„Ich weiß es nicht.“* Sie glaubt aber, dass das nicht das Wichtigste für Lina war: *„Sie hat nie
+geschrieben: Findet raus, was passiert ist.“* – *„Sondern?“* – *„Glaubt mir.“* – *„Haben wir.“*
+
+| Prüfung | Ergebnis |
+|---|---|
+| Wortbudget +40 bis +100 | **+86** ✅ |
+| K8 keine neuen Fakten (Sturz, Treppe, Unfall, Faber, Schleier …) | ✅ 0 neue Sätze, Faber 0 |
+| Letzter Absatz Kap. 13 unverändert | ✅ (K6 leer) |
+| Regel 3 (neue Formulierungen im ganzen Buch gesucht) | „Glaubt mir“, „Findet raus“, „Haben wir“ kommen nur hier vor. Zwei selbst erzeugte Echos behoben: „Dann nickte er“ (vgl. „Theo nickte“ 6 Zeilen später) und „Nora dachte an …“ zweimal hintereinander. „Fußabdrücke“ → „Fußspuren“ (Wortwahl aus Kap. 10). |
+| Bezug zum Kanon | „Glaubt mir“ greift Linas Tagebuch auf (*„Niemand glaubt mir“*, *„soll jemand wissen, dass ich die Wahrheit gesagt habe“*) und passt zu Band 5 (*„Lina, die auch niemand gehört hatte“*) |
+| Lesung Kap. 13 | Die Frage kommt nach dem Abschied, nicht davor, und zerredet das Licht nicht. Theos „Haben wir“ schließt warm ab. |
+| Offen | Die Zustimmung des Autors „klingt nach Theo und Nora“ (Plan 7.4, Schritt 3) |

@@ -2719,6 +2719,24 @@ Lina war frei. Das Mädchen mit der lila Tinte und den runden Buchstaben. Das M�
 
 Jemand hatte ihr zugehört. Und sie war gegangen.
 
+„Nora?" Theo schaute auf die Stelle, wo das Licht gewesen war. „Was ist eigentlich da unten passiert? Im Keller?"
+
+Nora sah die Kratzspuren wieder vor sich. Die kleinen Fußspuren im Staub. *Morgen gehe ich in den Keller.*
+
+„Ich weiß es nicht", sagte sie.
+
+„Willst du es nicht wissen?"
+
+„Doch." Sie schluckte. „Aber ich glaube, das war nicht das Wichtigste für sie. Sie hat nie geschrieben: Findet raus, was passiert ist."
+
+„Sondern?"
+
+„Glaubt mir."
+
+Theo war lange still. Dann sagte er: „Haben wir."
+
+„Haben wir", sagte Nora.
+
 „Meinst du, es hat wehgetan?", flüsterte Theo. „Das Gehen, meine ich."
 
 Nora dachte an das Licht. An die Wärme. An den langsamen, ruhigen Puls.
