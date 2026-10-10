@@ -51,6 +51,7 @@
    - Schritt 7: Endabnahme.
    - Ziel sind etwa **22.000 statt 27.000 Wörter**. Gestrichen wird nur, was sich wiederholt.
    - **Kein Schritt erfordert eine Änderung an Band 2 bis 5** (7.5).
+6b. **Stand 2026-10-10: Die Schritte 0 und 2–6 sind erledigt, die Endabnahme (7) ist bis auf die Testleser bestanden.** Auf Wunsch des Autors ohne Rücksicht auf die 10-%-Regel. Band 1 hat jetzt 16 Kapitel und ~22.600 Wörter. Offen: Schritt 1 (Anhang/QR), Testleser, KDP-Eintrag, Cover-Rücken, Spielbuch-Abgleich. Details: `Band1/Umbau/Umbau_Protokoll.md`.
 6a. **Schritt 0 ist erledigt (2026-10-10), und die Stopp-Regel hat ausgelöst:** KDP verlangt bei
    mehr als 10 % Seitenänderung eine neue Ausgabe (neue ASIN, Rezensionen weg). Das Ziel von 22.000
    Wörtern wären etwa −18 %. Empfehlung: KDP fragen und parallel eine Fassung unter 10 % vorbereiten

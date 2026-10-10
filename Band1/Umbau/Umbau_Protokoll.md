@@ -274,3 +274,59 @@ zog die Nase hoch“.
 | `pruefe_band1_umbau.py --basis 5c921b8` | ✅ alle harten Prüfungen bestanden, ±1 Wort |
 | `pruefe_logik.py 1` | 9 Kandidaten, keine neuen |
 | `git diff` Zeile für Zeile | Jede geänderte Zeile gehört zu X1, X3, X6 oder zum Regel-3-Hinweis oben |
+
+---
+
+## Schritt 7 – Endabnahme · 2026-10-10
+
+Stand nach Schritt 6 plus Endabnahme. Verglichen mit der Basis **`4e983cf`** (Fassung vor dem Umbau).
+
+| # | Prüfung | Ergebnis |
+|---|---|---|
+| 1 | `pruefe_band1_umbau.py --basis 4e983cf` | ✅ alle harten Prüfungen bestanden. **27.179 → 22.6xx Wörter, 18 → 16 Kapitel** |
+| 2 | `pruefe_logik.py 1` | ✅ **18 → 9 Kandidaten**, alle im Kontext gelesen: 1× doppelter Kapiteltitel „Der Keller“ (B1/B3, bekannt, Kanon Z.431). 3× „gestern“ in Kap. 3/4 (alt, passt: nach Mitternacht bzw. am Morgen danach). 1× „damals“ (verweist richtig auf Kap. 7). 1× „vor drei Wochen“ (passt zu „in drei Wochen“). „presste“ und „schnaubte“ sind Handlungen, keine Redeverben. 1× wörtlich wiederholter Satz „Sein Fell sträubte sich vom Nacken bis zum Schwanz“ (stand schon in der Basis 2×, alt) |
+| 3 | Stimme (K10) gegen `4e983cf` | ✅ Und-Anfänge +2 %, Kurzabsätze **+10 %** (lag nach Schritt 6 bei +15 %, also am Rand → sechs erzählende Kurzabsätze in Kap. 14–16 zusammengelegt, wo kein Effekt verloren ging) |
+| 4 | Lesung | ✅ **für alle geänderten Kapitel am Stück** (4–7, 10, 12–16) und an jedem Übergang. ⚠️ Kap. 1–3, 8, 9 und 11 sind bis auf Einzelwörter unverändert und wurden nicht noch einmal ganz gelesen. |
+| 5 | **Testleser Runde 2** | ⏳ **offen**. Bogen: `Band1/Umbau/Testleser_Bogen.md` (für 16 Kapitel) |
+| 6 | Kapitel-Dateien aus der Komplett-Datei neu erzeugt | ✅ 16 Dateien, `Kapitel_17.md` und `Kapitel_18.md` entfernt. Abgleich Komplett ↔ Kapitel: **0 Abweichungen** |
+| 7 | Dokumente nachgezogen | ✅ `Die_Geisterspuerer_Author_Info.md` (Zeitlinie Kap. 5–16 neu), `Story_Outline.md` (Hinweis 16 Kapitel), `Band1/Analyse.md` (als **überholt** markiert), `Stimmen_Pruefplan.md` (Maßstab = `4e983cf`, F1), `Serien_Kanon.md` Z.385 (Zitat aus Kap. 6 entfällt; Band 2–5 stützen sich nicht darauf, geprüft) |
+| 8 | Klappentext (F2) | ✅ `KDP_Beschreibungen.md` Z.58: „18 Kapitel“ → **„16 Kapitel“**. ⏳ **Bei KDP eintragen: Autor** |
+| 9 | Am fertigen Artefakt | ✅ **Taschenbuch** (`build_taschenbuch_docx.py`): 16 Kapitel, 0 Fehl-Ornamente, kein ENDE-Marker, keine Wortzahl-Zeile im Druck. Romanteil: 909 `„` / 909 `“` / **0** gerade, 0 doppelt öffnend. ✅ **eBook** (`build_ebook_docx.py`): 16 Kapitel, 921/921, 0 gerade. Hinweis: Ein Ornament steht nach dem letzten Satz vor dem Anhang (wie in der alten Fassung). |
+| 10 | Seitenzahl | LibreOffice-Proxy 211 → **179 (−15,2 %)**, also ≈ **158 KDP-Seiten** statt 186. ⏳ **Cover-Rücken** (`build_cover.py`, `seiten=186`) erst neu bauen, wenn KDP die echte Seitenzahl zeigt. Die 10-%-Regel wurde auf Wunsch des Autors nicht beachtet (siehe Entscheidung oben). |
+| 11 | Spielbuch (CYOA) Band 1 | ⏳ **offen**. Es beruht auf der alten Fassung. Abgleich vor dem Upload empfohlen (Kap. 6/7 und der Schluss haben sich geändert). |
+
+### Fehler 3 (Anführungszeichen) mit erledigt
+
+Nach der Anleitung in `TODO_Nachbesserung_Band1-4.md`: Vorbedingung geprüft (`„` = gerade `"`,
+0 × `“`) → alle geraden `"` durch `“` ersetzt → Nachbedingung geprüft. Komplett-Datei 909 Paare,
+die 16 Kapitel-Dateien zusammen ebenfalls 909. **Die Renderer bleiben unverändert**, sie wandeln
+für Band 1 weiter nichts um. Am Artefakt bestätigt (Punkt 9).
+**Noch offen:** 22 gerade Anführungszeichen in der **Leseprobe von Band 2 im Anhang**. Die Leseprobe
+wird in Schritt 1 ersetzt.
+
+### Die Kurve, neu bewertet (gleiches Raster wie im Plan, Abschnitt 2)
+
+| Kap. | alt | neu | warum |
+|---|---|---|---|
+| 6 | 5 | **8** | Silber + Lina + Adresse in einem Kapitel, endet auf „Das ist unsere Adresse … Nach Hause.“ |
+| 7 | 7 | 7 | Doppelte Bibliothek weg, Inhalt sonst gleich |
+| 10 | 9 | 9 | Fehlalarm ersetzt (Handylicht). Gleich stark, weniger durchschaubar |
+| 12 | 6 | 6 | Kein zweites Zitieren mehr |
+| 13 | 5 | 5 | Lina-Frage ausgesprochen (Gefühl, nicht Spannung) |
+| 14 (Karte) | 4 | **6** | GRAVEN, Chronik, frische Tinte bei unberührtem Staub |
+| 15 (Friedhof) | 6/3 | **8** | Raureif am Zaun, Tor schlägt zu, Noras eigene Entscheidung, der Umschlag als Haken |
+| 16 (Brief/Nacht) | 4/4 | **7** | Brief nur mit Neuem, Warnung „an uns“, Schlussbild Raureif auf der Karte |
+
+**Schlussteil (ab Lina erlöst): Ø 4,2 → Ø 7,0.** Lina ist erlöst bei 77 % (vorher 73 %).
+
+⚠️ **Diese Neubewertung stammt von dem, der den Text geschrieben hat.** Das ist der schwächste
+Beleg in diesem Protokoll. Er ersetzt **nicht** Testleser Runde 2. Erst deren Kurve zeigt, ob die
+Delle weg ist.
+
+### Offen für den Autor
+
+1. **Testleser** Runde 1 (alte Fassung, gedrucktes Buch) und Runde 2 (neue Fassung)
+2. Freigabe der neuen Theo- und Nora-Stellen („klingt nach den beiden“)
+3. Schritt 1: Anhang + QR-Code (Domain), dabei die Leseprobe von Band 2 ersetzen
+4. KDP: Klappentext „16 Kapitel“; nach dem Upload Seitenzahl ablesen → Cover-Rücken
+5. Spielbuch Band 1 gegen die neue Fassung querlesen

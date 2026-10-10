@@ -14,57 +14,57 @@ Das war schlimmer als Knurren. Als hätte er es schon einmal gehört.
 
 Nora schlich zu Theos Zimmer. Sie drückte die Klinke runter und schob die Tür auf. Theo lag zusammengerollt unter seiner Decke. Nur seine Haarspitzen schauten heraus.
 
-„Theo", flüsterte Nora.
+„Theo“, flüsterte Nora.
 
 Die Decke zuckte.
 
-„Theo, wach auf."
+„Theo, wach auf.“
 
-„Bin wach", murmelte er. „Bin seit dem ersten Klopfen wach. Ich übe nur, eine Decke zu sein."
+„Bin wach“, murmelte er. „Bin seit dem ersten Klopfen wach. Ich übe nur, eine Decke zu sein.“
 
-Nora setzte sich auf seine Bettkante. „Hörst du das?"
+Nora setzte sich auf seine Bettkante. „Hörst du das?“
 
 Klopf. Klopf. Klopf.
 
-Theo zog die Decke herunter. Seine Augen waren weit aufgerissen. „Natürlich höre ich das. Das hört man wahrscheinlich in Hamburg."
+Theo zog die Decke herunter. Seine Augen waren weit aufgerissen. „Natürlich höre ich das. Das hört man wahrscheinlich in Hamburg.“
 
-„Es kommt aus der Wand", sagte Nora. „Von oben. Aus Frau Silbers Wohnung."
+„Es kommt aus der Wand“, sagte Nora. „Von oben. Aus Frau Silbers Wohnung.“
 
 Klopf. Klopf. Klopf. Die Wand vibrierte unter ihrer Hand. Ein Druck legte sich auf Noras Ohren, als wäre sie zu schnell in einem Aufzug gefahren.
 
-„Super", sagte Theo. „Die leere, gruselige Wohnung mit dem Eiszimmer. Wo sonst."
+„Super“, sagte Theo. „Die leere, gruselige Wohnung mit dem Eiszimmer. Wo sonst.“
 
-Nora verschränkte die Arme. „Wasserrohre. Das Haus ist alt. Rohre dehnen sich aus und ziehen sich zusammen."
+Nora verschränkte die Arme. „Wasserrohre. Das Haus ist alt. Rohre dehnen sich aus und ziehen sich zusammen.“
 
-„Im Takt?", sagte Theo. „Dreimal, Pause, dreimal, Pause? Das sind die ordentlichsten Wasserrohre der Welt."
+„Im Takt?“, sagte Theo. „Dreimal, Pause, dreimal, Pause? Das sind die ordentlichsten Wasserrohre der Welt.“
 
-„Es gibt eine Erklärung", sagte Nora.
+„Es gibt eine Erklärung“, sagte Nora.
 
 Aber was, wenn Theo recht hatte? Der Gedanke war da, kurz und scharf wie ein Nadelstich. Sie schob ihn weg. Sofort. Aber er war da gewesen.
 
-„Ja. Geister. Eindeutig Geister." Theo schluckte. „Können wir jetzt die Decke über den Kopf ziehen und so tun, als wäre nichts?"
+„Ja. Geister. Eindeutig Geister.“ Theo schluckte. „Können wir jetzt die Decke über den Kopf ziehen und so tun, als wäre nichts?“
 
-„Ich gehe hoch und schaue nach."
+„Ich gehe hoch und schaue nach.“
 
-Theo setzte sich kerzengerade auf. „Bitte sag mir, dass du das nicht ernst meinst."
+Theo setzte sich kerzengerade auf. „Bitte sag mir, dass du das nicht ernst meinst.“
 
-„Wenn es Wasserrohre sind, sehen wir es. Wenn nicht –"
+„Wenn es Wasserrohre sind, sehen wir es. Wenn nicht –“
 
-„Wenn nicht, sind wir tot. So fangen alle Horrorfilme an."
+„Wenn nicht, sind wir tot. So fangen alle Horrorfilme an.“
 
-„Das ist kein Film, Theo."
+„Das ist kein Film, Theo.“
 
-„Nein. Filme kann man ausmachen."
+„Nein. Filme kann man ausmachen.“
 
-„Bleib hier. Pass auf Schatten auf."
+„Bleib hier. Pass auf Schatten auf.“
 
-„Pass auf Schatten auf?" Theo starrte sie an. „Schatten wiegt dreißig Kilo. Eher passt er auf mich auf."
+„Pass auf Schatten auf?“ Theo starrte sie an. „Schatten wiegt dreißig Kilo. Eher passt er auf mich auf.“
 
 Nora stand auf. Ein kalter Stich fuhr durch ihre Brust. Aber sie würde nicht zugeben, dass ihre Hände zitterten. Nicht vor Theo.
 
 Im Flur wartete Schatten noch immer. Er drehte den Kopf zu Nora. Sein Blick war ruhig. Wach. Sein Fell stand noch immer gesträubt am Nacken.
 
-„Alles gut, Schatten", flüsterte Nora.
+„Alles gut, Schatten“, flüsterte Nora.
 
 Der Hund rührte sich nicht. Er sah sie nur an. Als wollte er sagen: Nein. Gar nichts ist gut.
 
@@ -118,43 +118,43 @@ Aber sie rannte nicht. Sie ging nur schnell. Sehr schnell.
 
 In der Wohnung wartete Theo im Flur. Schatten saß neben ihm. Theo hatte eine Hand in Schattens Nackenfell vergraben.
 
-„Und?", flüsterte er. „Bitte sag mir, du hast ihm gekündigt."
+„Und?“, flüsterte er. „Bitte sag mir, du hast ihm gekündigt.“
 
-Nora legte die Taschenlampe weg. „Die Tür ist zu."
+Nora legte die Taschenlampe weg. „Die Tür ist zu.“
 
-Theo blinzelte. „Wir haben sie offen gelassen."
+Theo blinzelte. „Wir haben sie offen gelassen.“
 
-„Ich weiß."
+„Ich weiß.“
 
-„Nora. Wir haben sie offen gelassen. Niemand sonst wohnt hier oben." Er trat von einem Fuß auf den anderen. „Also hat jemand sie zugemacht. Oder etwas."
+„Nora. Wir haben sie offen gelassen. Niemand sonst wohnt hier oben.“ Er trat von einem Fuß auf den anderen. „Also hat jemand sie zugemacht. Oder etwas.“
 
-„Vielleicht ein Luftzug", sagte Nora.
+„Vielleicht ein Luftzug“, sagte Nora.
 
-„Ein Luftzug. Im Treppenhaus ohne Fenster. Im Sommer. Der eine schwere Holztür zuschlägt."
+„Ein Luftzug. Im Treppenhaus ohne Fenster. Im Sommer. Der eine schwere Holztür zuschlägt.“
 
 Nora biss sich auf die Lippe. Die Kälte vom Treppenhaus saß noch in ihren Knochen.
 
-„Es gibt eine Erklärung", sagte sie.
+„Es gibt eine Erklärung“, sagte sie.
 
-„Du sagst das jetzt zum dritten Mal", murmelte Theo. „Und jedes Mal klingt es weniger überzeugend."
+„Du sagst das jetzt zum dritten Mal“, murmelte Theo. „Und jedes Mal klingt es weniger überzeugend.“
 
 Schatten legte den Kopf schief. Sein Blick wanderte von Nora zu Theo und zurück. Dann stand er auf, trottete zu seinem Platz zwischen den Kinderzimmern und legte sich hin. Ein tiefer Seufzer. Als wäre die Vorstellung für heute vorbei.
 
-„Siehst du?", sagte Theo. „Sogar der Hund findet das verdächtig."
+„Siehst du?“, sagte Theo. „Sogar der Hund findet das verdächtig.“
 
-„Der Hund legt sich schlafen. Das Gegenteil von verdächtig."
+„Der Hund legt sich schlafen. Das Gegenteil von verdächtig.“
 
-„Er verarbeitet. Hunde verarbeiten gruselige Sachen im Schlaf. Steht bestimmt irgendwo."
+„Er verarbeitet. Hunde verarbeiten gruselige Sachen im Schlaf. Steht bestimmt irgendwo.“
 
 Nora schüttelte den Kopf. Aber ein Lächeln zupfte an ihren Mundwinkeln. Theo war nervig. Aber er war der Einzige, der sie nachts fast zum Lachen bringen konnte.
 
-„Wir reden morgen drüber", sagte sie. „Im Hellen. Wenn alles normal aussieht."
+„Wir reden morgen drüber“, sagte sie. „Im Hellen. Wenn alles normal aussieht.“
 
-„Nichts sieht hier normal aus, Nora. Wir leben in einem Haus, das klopft."
+„Nichts sieht hier normal aus, Nora. Wir leben in einem Haus, das klopft.“
 
-„Morgen."
+„Morgen.“
 
-„Großartig. Weil Geister sich bekanntlich an Öffnungszeiten halten."
+„Großartig. Weil Geister sich bekanntlich an Öffnungszeiten halten.“
 
 Nora ging zurück in ihr Zimmer. Sie legte sich hin, die Decke bis zum Kinn gezogen, und starrte an die Decke.
 
@@ -170,19 +170,19 @@ Sonnenlicht fiel durch das Küchenfenster. Nora stand in der Küche und goss Mü
 
 Theo saß am Tisch, das Kinn auf die Hände gestützt. Dunkle Ringe unter den Augen. Er sah aus wie jemand, der drei Stunden geschlafen hatte. Weil er drei Stunden geschlafen hatte.
 
-„Mama?", sagte Nora.
+„Mama?“, sagte Nora.
 
-„Schon weg. Frühschicht." Theo rührte lustlos in seinem Kakao. „Hat einen Zettel dagelassen."
+„Schon weg. Frühschicht.“ Theo rührte lustlos in seinem Kakao. „Hat einen Zettel dagelassen.“
 
 Schatten lag unter dem Tisch und kaute auf einem Spielzeugknochen. Entspannt. Normal. Als wäre letzte Nacht nichts gewesen.
 
-„Hast du geschlafen?", sagte Nora.
+„Hast du geschlafen?“, sagte Nora.
 
-„Wenn du das so nennen willst." Theo rieb sich die Augen. „Ich hab die ganze Nacht auf die Wand gestarrt. Falls sie nochmal klopft."
+„Wenn du das so nennen willst.“ Theo rieb sich die Augen. „Ich hab die ganze Nacht auf die Wand gestarrt. Falls sie nochmal klopft.“
 
-„Hat sie?"
+„Hat sie?“
 
-„Nein. Was fast noch gruseliger ist." Er trank einen Schluck Kakao. „Stille nach Klopfen ist schlimmer als Klopfen. Das ist meine neue Lebensweisheit."
+„Nein. Was fast noch gruseliger ist.“ Er trank einen Schluck Kakao. „Stille nach Klopfen ist schlimmer als Klopfen. Das ist meine neue Lebensweisheit.“
 
 Schatten hob den Kopf unter dem Tisch. Er schaute zur Decke. Kurz. Dann kaute er weiter.
 

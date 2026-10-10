@@ -1,4 +1,4 @@
-# Kapitel 12 – Konfrontation
+# Kapitel 12 – Bitte
 
 Schatten bellte.
 
@@ -12,13 +12,13 @@ Nora bekam eine Gänsehaut. In all den Wochen hatte Schatten nie gebellt. Nicht 
 
 Bis jetzt.
 
-„Nora!" Theos Stimme kam aus dem Flur. Dünn. Verängstigt. „Nora, kommst du?"
+„Nora!“ Theos Stimme kam aus dem Flur. Dünn. Verängstigt. „Nora, kommst du?“
 
 Sie warf die Decke zurück. Die Kälte traf sie wie ein Schlag. Der Boden unter ihren nackten Füßen war eiskalt. Ihr Atem kam als weiße Wolke aus dem Mund.
 
 Sie rannte in den Flur. Theo stand vor seiner Zimmertür, die Arme um sich geschlungen. Er zitterte. Schatten drängte sich an Noras Bein und knurrte leise.
 
-„Schau dir die Fenster an", flüsterte Theo.
+„Schau dir die Fenster an“, flüsterte Theo.
 
 Nora drehte sich um. Ihre Finger wurden kalt.
 
@@ -38,55 +38,55 @@ Wie mit einem Finger geschrieben. Große, hastige Buchstaben. Das Wasser lief an
 
 Nora schluckte. Ihre Kehle war eng. Die Kälte kroch durch ihren ganzen Körper. Aber es war nicht nur die Temperatur. Das Mondlicht warf Schatten an die Wände. Sie bewegten sich. Langsam. Obwohl nichts im Raum sich rührte. Eine Anwesenheit. Stärker als je zuvor.
 
-„Sie ist hier", sagte Nora leise.
+„Sie ist hier“, sagte Nora leise.
 
-„Ja." Theos Stimme brach. „Nora, ich hab was gesehen."
+„Ja.“ Theos Stimme brach. „Nora, ich hab was gesehen.“
 
-„Was?"
+„Was?“
 
 Er deutete in den Flur. Zum Ende, wo der Gang zum Badezimmer abging. Sein Finger zitterte.
 
-„Einen Schatten. Aber nicht unseren Schatten. Einen anderen. Er war so groß wie ein Kind. Er stand da. Nur eine Sekunde." Theo schluckte schwer. „Dann war er weg."
+„Einen Schatten. Aber nicht unseren Schatten. Einen anderen. Er war so groß wie ein Kind. Er stand da. Nur eine Sekunde.“ Theo schluckte schwer. „Dann war er weg.“
 
 Ein kaltes Kribbeln lief über Noras Arme. Sie starrte in den dunklen Flur. Nichts. Nur Dunkelheit und Kälte.
 
 Schatten knurrte noch immer. Leise, tief, in der Kehle.
 
-„Hast du ein Gesicht gesehen?", flüsterte Nora.
+„Hast du ein Gesicht gesehen?“, flüsterte Nora.
 
-„Nein. Nur den Umriss. Wie eine Gestalt aus Rauch." Theo rieb sich die Arme. „Nora, sie hat BITTE geschrieben. An jedes Fenster."
+„Nein. Nur den Umriss. Wie eine Gestalt aus Rauch.“ Theo rieb sich die Arme. „Nora, sie hat BITTE geschrieben. An jedes Fenster.“
 
 Nora sah ihn an. Sein Gesicht war blass im Mondlicht. Er zitterte am ganzen Körper. Aber seine Augen waren ernst.
 
-„Meinst du, Mama hat was gehört?", flüsterte er.
+„Meinst du, Mama hat was gehört?“, flüsterte er.
 
 Nora lauschte. Aus dem Schlafzimmer der Mutter kam nichts. Kein Rascheln. Kein Aufstehen. Nur Stille. Wie immer schlief ihre Mutter tief und fest.
 
-„Nein", sagte Nora.
+„Nein“, sagte Nora.
 
 Nur das Ticken der Küchenuhr. Die Wörter an den Fenstern schimmerten im Mondlicht. BITTE. LIES. VERGISS NICHT.
 
-Theo schluckte. „Was machen wir?"
+Theo schluckte. „Was machen wir?“
 
 Nora holte tief Luft. Die kalte Luft brannte in ihrer Lunge. Sie dachte an Frau Silbers Notizbuch. An die Methode. Geschichte herausfinden. Verstehen. Dem Geist zeigen, dass jemand sich erinnert.
 
 Sie hatten Linas Tagebuch gelesen. Aber nur für sich. Nicht für Lina.
 
-„Wir helfen ihr", sagte Nora. „Jetzt. Heute Nacht."
+„Wir helfen ihr“, sagte Nora. „Jetzt. Heute Nacht.“
 
-Theo riss die Augen auf. „Wie?"
+Theo riss die Augen auf. „Wie?“
 
-„Wir lesen ihr vor", sagte Nora. „Das Tagebuch. Laut. Alles. Jedes Wort. In ihrem Zimmer."
+„Wir lesen ihr vor“, sagte Nora. „Das Tagebuch. Laut. Alles. Jedes Wort. In ihrem Zimmer.“
 
-„Ihrem Zimmer ist dein Zimmer."
+„Ihrem Zimmer ist dein Zimmer.“
 
-„Ja."
+„Ja.“
 
-Theo sah sie an. Drei Sekunden. Dann nickte er. „Okay."
+Theo sah sie an. Drei Sekunden. Dann nickte er. „Okay.“
 
-„Okay?"
+„Okay?“
 
-„Ich hab gesagt okay, Nora. Bevor ich es mir anders überlege." Er rieb sich die Arme. „Aber danach will ich heißen Kakao. Mit Marshmallows. Und nie wieder über diese Nacht reden."
+„Ich hab gesagt okay, Nora. Bevor ich es mir anders überlege.“ Er rieb sich die Arme. „Aber danach will ich heißen Kakao. Mit Marshmallows. Und nie wieder über diese Nacht reden.“
 
 Nora hätte fast gelächelt. Fast. Sie ging in ihr Zimmer und holte das Tagebuch aus der Nachttischschublade. Der Ledereinband war kalt unter ihren Fingern.
 
@@ -96,15 +96,15 @@ Schatten folgte ihr. Er bellte nicht mehr. Er knurrte nicht. Er ging neben ihr h
 
 Sie setzten sich auf den Boden in Noras Zimmer. Linas Zimmer. Der Raum war so kalt, dass Nora ihre eigenen Finger kaum spürte. Schatten legte sich zwischen sie, den Kopf auf den Pfoten. Wachsam. Still.
 
-Theo zog sich die Bettdecke von Noras Bett und wickelte sie sich um die Schultern. „Wenn ich erfriere, schreib auf meinen Grabstein: Er wollte nur helfen."
+Theo zog sich die Bettdecke von Noras Bett und wickelte sie sich um die Schultern. „Wenn ich erfriere, schreib auf meinen Grabstein: Er wollte nur helfen.“
 
-„Du erfrierst nicht."
+„Du erfrierst nicht.“
 
-„Sicher?"
+„Sicher?“
 
-„Nein."
+„Nein.“
 
-Theo schnaubte leise. Dann wurde er ernst. „Lies vor."
+Theo schnaubte leise. Dann wurde er ernst. „Lies vor.“
 
 Nora schlug das Tagebuch auf. Ihre Finger waren steif vor Kälte. Aber das Zittern kam nicht vom Frost. Es kam von etwas Größerem.
 
@@ -116,35 +116,29 @@ Nora schluckte. Dann entschied sie sich. Für Lina.
 
 Sie begann zu lesen.
 
-„Zwölfter März 1974", las sie laut. Ihre Stimme hallte in dem kalten Zimmer. „Neues Tagebuch. Mama hat es mir zum Geburtstag geschenkt."
+Diesmal las sie nicht für sich. Nicht für Theo. Sie las für das Zimmer. Für die Kälte. Für das Mädchen, das hier geschlafen hatte, bevor es Noras Zimmer war.
 
-Nora las weiter. Linas Alltag. Schule. Freundinnen. Sommer. Seite für Seite. Ihr Atem dampfte über dem Papier.
+Sie las alles. Jedes Wort. Den Geburtstag und die lila Tinte. Luna, die einen Stock aus dem Fluss holte. Die Sterne auf dem Dach. Ihr Atem dampfte über dem Papier.
 
-Und dann kamen die dunklen Einträge.
+Dann kamen die dunklen Seiten. Das kalte Zimmer. Das Kratzen in der Wand. Die Mutter, die *Einbildung* sagte.
 
-„Vierzehnter September. Mein Zimmer war heute Morgen eiskalt."
-
-Nora las. Ihre Stimme wurde leiser, aber sie hörte nicht auf. Sie las über das kalte Zimmer. Über Luna, die sich weigerte reinzugehen.
-
-„Wie bei uns", flüsterte Theo.
-
-Nora nickte. Sie las weiter. Über das Kratzen in der Wand. Über die Mutter, die sagte: Einbildung.
+Noras Stimme wurde leiser. Aber sie hörte nicht auf.
 
 Etwas veränderte sich.
 
-Es kam langsam. So langsam, dass Nora es zuerst nicht bemerkte. Aber dann spürte sie es. Ihre Finger waren nicht mehr taub. Die Luft war nicht mehr ganz so beißend. Die Kälte wich. Nicht auf einmal. Wie ein Eisblock, der schmolz. Tropfen für Tropfen.
+Es kam so langsam, dass Nora es zuerst nicht bemerkte. Ihre Finger waren nicht mehr taub. Die Luft biss nicht mehr ganz so. Die Kälte wich. Nicht auf einmal. Wie ein Eisblock, der schmolz. Tropfen für Tropfen.
 
-„Fünfzehnter Oktober", las Nora. „Niemand glaubt mir."
+„*Niemand glaubt mir*“, las Nora.
 
-Die Wörter lagen schwer in der Luft. Noras Kehle war eng. Aber sie las weiter. Für Lina.
+Sie las den Satz ein zweites Mal. Langsamer. Damit er im Raum blieb.
 
-„Siebundzwanzigster Oktober. Wenn mir etwas passiert, soll jemand wissen, dass ich die Wahrheit gesagt habe."
+Theo zog die Nase hoch. Schatten hob den Kopf. Er schaute auf eine Stelle neben dem Bett, wo niemand saß. Dann legte er den Kopf wieder ab. Sein Schwanz klopfte einmal auf den Boden.
 
-Theo wischte sich mit dem Ärmel über die Augen. Schatten hob kurz den Kopf. Dann legte er ihn wieder ab. Sein Atem ging ruhig. Ruhiger als vorhin.
+Nora las weiter. Seite für Seite. Mit jedem Satz wich die Kälte ein Stück. Wie eine Welle, die vom Strand zurückläuft.
 
-Nora spürte es deutlich. Die Kälte zog sich zurück. Wie eine Welle, die vom Strand wich. Langsam. Stetig. Mit jedem Wort, das sie laut in den Raum sprach.
+Dann war sie bei der letzten beschriebenen Seite. Bei den fahrigen Buchstaben. Bei dem Satz über den Keller.
 
-„Zweiter November", las sie. Ihre Stimme war ein Flüstern. „Morgen gehe ich in den Keller. Ich muss wissen, was dort unten ist."
+Ihre Stimme war nur noch ein Flüstern. Aber sie las ihn bis zum Ende.
 
 Sie schloss das Buch.
 
@@ -154,19 +148,19 @@ Die Kälte war fast verschwunden. Noras Atem dampfte nicht mehr. Ihre Finger kri
 
 Theo saß da, die Knie an die Brust gezogen. Tränen liefen über seine Wangen, aber er lächelte. Ein kleines, zittriges Lächeln.
 
-„Sie hat zugehört", flüsterte er. „Die ganze Zeit."
+„Sie hat zugehört“, flüsterte er. „Die ganze Zeit.“
 
 Schatten lag still zwischen ihnen. Sein Fell war weich. Sein Körper warm. Er hatte die Augen halb geschlossen. Entspannt. Zum ersten Mal in dieser Nacht.
 
 Nora drückte das Tagebuch an ihre Brust. Der Ledereinband war nicht mehr kalt. Er war warm. Handwarm, als hätte jemand ihn lange festgehalten.
 
-„Wir haben dich gehört, Lina", sagte Nora in den stillen Raum. „Wir kennen deine Geschichte. Du warst nicht allein."
+„Wir haben dich gehört, Lina“, sagte Nora in den stillen Raum. „Wir kennen deine Geschichte. Du warst nicht allein.“
 
 Nichts passierte. Kein Geräusch. Kein Wind. Kein Flackern.
 
 Aber etwas löste sich. Wie ein Knoten, der sich öffnete. Wie ein Atem, der endlich losgelassen wurde. Die Schwere war weg.
 
-Theo lehnte sich gegen die Wand. „Ich glaube, sie weint", flüsterte er.
+Theo lehnte sich gegen die Wand. „Ich glaube, sie weint“, flüsterte er.
 
 Nora nickte. Ihre eigenen Augen brannten. Sie blinzelte die Tränen weg.
 
@@ -184,11 +178,11 @@ DANKE.
 
 Noras Atem stockte. Sie legte die Fingerspitzen gegen das Glas. Es war warm. Nicht kalt. Warm.
 
-„Theo", flüsterte sie. „Komm her."
+„Theo“, flüsterte sie. „Komm her.“
 
 Theo stand neben ihr. Er las das Wort. Sein Kinn zitterte.
 
-„Gern geschehen, Lina", murmelte er. Er rieb sich die Arme. „Nächstes Mal vielleicht nicht um drei Uhr nachts."
+„Gern geschehen, Lina“, murmelte er. Er rieb sich die Arme. „Nächstes Mal vielleicht nicht um drei Uhr nachts.“
 
 Nora lächelte.
 
@@ -198,7 +192,7 @@ OBEN.
 
 Nora starrte das Wort an. Ihr Lächeln verschwand. Ein kalter Stich fuhr durch ihre Brust. Oben. Frau Silbers Wohnung lag über ihnen. Im zweiten Stock.
 
-Theo sah sie an. Seine Augen waren weit. „Was ist oben, Nora?"
+Theo sah sie an. Seine Augen waren weit. „Was ist oben, Nora?“
 
 Nora antwortete nicht. Sie hielt das Tagebuch fest und starrte auf die zwei Wörter im Kondenswasser.
 

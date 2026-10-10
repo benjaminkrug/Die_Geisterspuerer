@@ -8,6 +8,8 @@
 
 # Zielumfang
 
+> **Stand nach dem Umbau 2026-10:** 16 Kapitel, ~22.600 Wörter. Kap. 14–18 wurden zu Kap. 14–16 verdichtet, Kap. 6/7 umgebaut (eine Bibliothek). Die Kapitelbeschreibungen unten sind die **ursprüngliche Planung**; maßgeblich ist `Manuskript/Manuskript_Band1_Komplett.md`. Details: `Band1/Umbau/Umbau_Protokoll.md`.
+
 - 140-180 Seiten
 - 18 Kapitel
 - 1.400-1.600 Woerter pro Kapitel (~27.000 Woerter gesamt)

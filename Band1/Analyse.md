@@ -1,5 +1,7 @@
 # Band 1 -- Analyse und Verbesserungen
 
+> ⚠️ **ÜBERHOLT (2026-10-10).** Diese Analyse bezieht sich auf eine ältere Fassung. Einige Kritikpunkte treffen nicht mehr zu (z. B. Dialog in Kap. 9: inzwischen 45 %), und der Umbau 2026-10 hat die Struktur geändert (16 Kapitel). **Nicht mehr danach arbeiten.** Aktuell: `Band1/PLAN_Durchlesequote.md`, `Band1/Umbau/Umbau_Protokoll.md`.
+
 ## Ziel dieser Analyse
 
 Jeder Akt wird auf Staerken und Schwaechen geprueft. Alle Empfehlungen zielen darauf ab, das Buch **perfekt fuer 10-jaehrige Leser** zu machen. Grundlage sind die eigenen Stilregeln des Projekts und bewaehrte Prinzipien fuer Kinderbuecher dieser Altersgruppe.

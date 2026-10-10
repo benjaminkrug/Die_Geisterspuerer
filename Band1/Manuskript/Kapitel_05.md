@@ -6,29 +6,29 @@ Er saß am Fuß der Treppe zum zweiten Stock. Aufrecht. Reglos. Sein Blick auf N
 
 Nora stand im Flur. Ihr Herz schlug schneller. Hinter ihr das Küchenfenster. Das Wort HIER. Der Pfeil nach oben.
 
-„Er will, dass wir hochgehen", sagte Theo leise.
+„Er will, dass wir hochgehen“, sagte Theo leise.
 
-„Ich weiß."
+„Ich weiß.“
 
-„Zu der Wohnung."
+„Zu der Wohnung.“
 
-„Ich weiß, Theo."
+„Ich weiß, Theo.“
 
 Stille. Das Ticken der Heizung. Schattens Atem.
 
-„Letztes Mal", sagte Theo, „sind wir gerannt. Ich möchte das protokollieren. Wir sind gerannt."
+„Letztes Mal“, sagte Theo, „sind wir gerannt. Ich möchte das protokollieren. Wir sind gerannt.“
 
-„Ich erinnere mich."
+„Ich erinnere mich.“
 
-„Gut. Nur damit wir das festhalten, bevor wir den gleichen Fehler nochmal machen."
+„Gut. Nur damit wir das festhalten, bevor wir den gleichen Fehler nochmal machen.“
 
 Nora holte tief Luft. Ihre Hände waren feucht. Ihr Mund trocken. Alles in ihr sagte: Geh nicht hoch. Bleib hier. Mach die Tür zu.
 
 Aber das Wort stand hinter ihr am Fenster. HIER. Wie ein Finger, der nach oben zeigte.
 
-„Komm", sagte sie.
+„Komm“, sagte sie.
 
-„Das habe ich befürchtet."
+„Das habe ich befürchtet.“
 
 Sie gingen die Treppe hoch. Nora zuerst. Schatten neben ihr. Seine Krallen klickten leise auf den Holzstufen. Theo bildete das Schlusslicht. Er hielt sich am Geländer fest. Seine Knöchel waren weiß.
 
@@ -46,19 +46,19 @@ Dann ging er rein.
 
 Noras Herz setzte einen Schlag aus. Beim letzten Mal hatte Schatten sich geweigert. Er hatte sich quer in den Flur gestellt. Sein ganzer Körper hatte Nein gesagt. Und jetzt trottete er über die Schwelle, als wäre es das Normalste der Welt.
 
-„Hat er gerade –", fing Theo an.
+„Hat er gerade –“, fing Theo an.
 
-„Ja."
+„Ja.“
 
-„Er geht rein. Er geht einfach rein. Der Hund, der letztes Mal fast die Tür angeknurrt hat."
+„Er geht rein. Er geht einfach rein. Der Hund, der letztes Mal fast die Tür angeknurrt hat.“
 
-„Ich sehe es, Theo."
+„Ich sehe es, Theo.“
 
-Theo schluckte hörbar. „Super. Also entweder ist das jetzt sicher. Oder der Hund hat aufgegeben."
+Theo schluckte hörbar. „Super. Also entweder ist das jetzt sicher. Oder der Hund hat aufgegeben.“
 
-„Hunde geben nicht auf."
+„Hunde geben nicht auf.“
 
-„Woher willst du das wissen?"
+„Woher willst du das wissen?“
 
 Nora folgte Schatten. Ihre Schritte knarzten auf dem staubigen Boden. Theo kam hinterher. Er blieb dicht hinter ihr. So dicht, dass sie seinen Atem im Nacken spürte.
 
@@ -74,63 +74,71 @@ Das Zimmer war klein. Vielleicht drei mal vier Meter. Die Fensterläden waren ge
 
 An der Wand gegenüber dem Fenster: Bücher. Stapel aus Büchern, direkt auf dem Boden, an die Wand gelehnt. Alte Einbände, manche in Leder, manche in brüchigem Karton.
 
-„Was ist das alles?", flüsterte Theo.
+„Was ist das alles?“, flüsterte Theo.
 
 Nora trat näher. Daneben stand ein kleiner Tisch, vollgestellt mit abgebrannten Kerzen. Das Wachs war in dicken Tropfen über die Tischkante gelaufen und am Holz erstarrt.
 
-„Okay", flüsterte Theo. „Das sieht aus wie das Labor einer Hexe."
+„Okay“, flüsterte Theo. „Das sieht aus wie das Labor einer Hexe.“
 
-„Das sieht aus wie ein Arbeitszimmer."
+„Das sieht aus wie ein Arbeitszimmer.“
 
-„Genau. Das Arbeitszimmer einer Hexe."
+„Genau. Das Arbeitszimmer einer Hexe.“
 
-Nora trat näher. Ihr Blick wanderte über die Bücher. Die Titel waren verblasst. Sie konnte ein paar lesen. „Gravenstedt – eine Chronik." „Friedhofsregister 1830–1900." „Die Geschichte der Kirchgasse." Alte Bücher über die Stadt. Geschichtsbücher. Lokale Archive.
+Nora trat näher. Ihr Blick wanderte über die Bücher. Die Titel waren verblasst. Sie konnte ein paar lesen. „Gravenstedt – eine Chronik.“ „Friedhofsregister 1830–1900.“ „Die Geschichte der Kirchgasse.“ Alte Bücher über die Stadt. Geschichtsbücher. Lokale Archive.
 
-„Theo, komm mal –"
+„Theo, komm mal –“
 
 Sie drehte sich um. Theo war nicht da.
 
-„Theo?"
+„Theo?“
 
 Keine Antwort. Nur Staub. Nur Stille. Der Flur hinter der Tür lag dunkel und leer.
 
-Noras Herz schlug schneller. „Theo!" Lauter jetzt. Ihre Stimme hallte von den Wänden. Schatten hob den Kopf und spitzte die Ohren.
+Noras Herz schlug schneller. „Theo!“ Lauter jetzt. Ihre Stimme hallte von den Wänden. Schatten hob den Kopf und spitzte die Ohren.
 
 Drei Sekunden. Vier. Fünf.
 
-Dann Schritte. Theo tauchte im Türrahmen auf, ein staubiges Glas in der Hand. „Was? Ich war nur in der Küche. Da stehen noch alte Gläser im –"
+Dann Schritte. Theo tauchte im Türrahmen auf, ein staubiges Glas in der Hand. „Was? Ich war nur in der Küche. Da stehen noch alte Gläser im –“
 
-„Sag Bescheid, wenn du weggehst!" Noras Stimme war schärfer als beabsichtigt. Ihr Herz hämmerte noch immer.
+„Sag Bescheid, wenn du weggehst!“ Noras Stimme war schärfer als beabsichtigt. Ihr Herz hämmerte noch immer.
 
-Theo hob die Augenbrauen. „Ich war drei Meter weg."
+Theo hob die Augenbrauen. „Ich war drei Meter weg.“
 
-„Egal. Nicht allein. Nicht hier."
+„Egal. Nicht allein. Nicht hier.“
 
-Er stellte das Glas hin und nickte langsam. „Okay. Verstanden."
+Er stellte das Glas hin und nickte langsam. „Okay. Verstanden.“
 
 Neben dem Bücherregal hing etwas an der Wand. Zettel. Dutzende. Mit Reißnägeln befestigt, in Reihen übereinander. Nora ging näher heran und kniff die Augen zusammen.
 
 Handschrift. Klein, krakelig, mit schwarzer Tinte geschrieben. Auf jedem Zettel stand ein Name. Daneben ein Datum. Manche hatten eine Adresse. Manche einen kurzen Satz, kaum lesbar.
 
-„Heinrich Voss, 1847, Mühlenweg 3."
+„Heinrich Voss, 1847, Mühlenweg 3.“
 
-„Wer schreibt so was auf?", murmelte Theo hinter ihr.
+„Wer schreibt so was auf?“, murmelte Theo hinter ihr.
 
 Nora las weiter. Dutzende Namen. Die ältesten Zettel waren vergilbt, die Tinte fast unsichtbar. Manche gingen zurück bis 1840.
 
-„1840?", wiederholte Theo. „Das ist fast zweihundert Jahre her."
+„1840?“, wiederholte Theo. „Das ist fast zweihundert Jahre her.“
 
-„Ja."
+„Ja.“
 
-Nora ließ den Blick über die Reihen wandern. Neben jedem Namen ein Datum. Immer nur eines. Kein „geboren", kein „gestorben". Nur ein einziger Tag. Und je länger sie hinsah, desto mehr fügte sich etwas zusammen, das sie nicht aussprechen wollte. Ein Gedanke, kalt und schwer, der sich in ihrem Magen festsetzte.
+Neben vielen Namen stand ein kleines Häkchen. Sauber, mit schwarzer Tinte.
+
+Nur ganz unten hing ein Zettel, der anders aussah. Die Tinte war blau statt schwarz. Die Schrift zittriger, als hätte jemand sie in Eile geschrieben.
+
+*Lina Vogt? – 1974?*
+
+Kein Häkchen. Nur zwei Fragezeichen.
+
+Nora ließ den Blick über die Reihen wandern. Neben jedem Namen ein Datum. Immer nur eines. Kein „geboren“, kein „gestorben“. Nur ein einziger Tag. Und je länger sie hinsah, desto mehr fügte sich etwas zusammen, das sie nicht aussprechen wollte. Ein Gedanke, kalt und schwer, der sich in ihrem Magen festsetzte.
 
 Theo starrte die Wand an. Er trat von einem Fuß auf den anderen. Dann sagte er es.
 
-„Das ist wie eine Liste von Toten."
+„Das ist wie eine Liste von Toten.“
 
 Nora schluckte. Ein kalter Druck breitete sich in ihrer Brust aus. Natürlich. Natürlich war es das. Keine Adressbücher. Keine Telefonlisten. Das waren Tote.
 
-„Aber warum?", sagte Theo. „Warum schreibt jemand eine Liste von Toten an die Wand?"
+„Aber warum?“, sagte Theo. „Warum schreibt jemand eine Liste von Toten an die Wand?“
 
 Schatten lag mitten im Zimmer. Auf dem staubigen Boden, die Schnauze auf den Pfoten. Seine Augen folgten Nora. Ruhig. Wach. Als würde er warten, bis sie verstand.
 
@@ -144,49 +152,49 @@ Neben der Frau saß ein Hund. Mittelgroß. Dunkles Fell.
 
 Bernsteinfarbene Augen.
 
-Noras Finger begannen zu zittern. Sie drehte das Foto um. Auf der Rückseite stand in der gleichen krakeligen Handschrift: „M. Silber, 2019."
+Noras Finger begannen zu zittern. Sie drehte das Foto um. Auf der Rückseite stand in der gleichen krakeligen Handschrift: „M. Silber, 2019.“
 
 Sie schaute zu Schatten. Der Hund auf dem Foto war jünger. Das Fell dichter, der Körper kräftiger. Aber dieser Blick. Dieselbe Ruhe. Die Art, wie er neben der Frau saß. Aufrecht. Geduldig.
 
-„Theo."
+„Theo.“
 
 Er kam und schaute über ihre Schulter. Dann wurde er still.
 
-„Das ist er", flüsterte Theo. „Das ist Schatten."
+„Das ist er“, flüsterte Theo. „Das ist Schatten.“
 
-„Ja."
+„Ja.“
 
-„Neben Frau Silber."
+„Neben Frau Silber.“
 
-„Ja."
+„Ja.“
 
-„Das heißt, Schatten war ihr Hund."
+„Das heißt, Schatten war ihr Hund.“
 
 Nora nickte langsam. Ihr Herz schlug hart gegen die Rippen. Sie schaute zu Schatten auf dem Boden. Der Hund hob den Kopf und erwiderte ihren Blick.
 
 Kein Zufall, dachte Nora. Kein Zufall vor unserer Tür. Kein Zufall auf der Treppe. Er war nach Hause gekommen.
 
-„Deswegen hat er uns hergeführt", sagte Nora. „Deswegen wartet er an der Treppe. Das hier war sein Zuhause."
+„Deswegen hat er uns hergeführt“, sagte Nora. „Deswegen wartet er an der Treppe. Das hier war sein Zuhause.“
 
 Theo kniete sich neben Schatten und legte die Hand auf seinen Rücken. Der Hund schmiegte den Kopf an Theos Knie. Ein leiser Laut. Kein Knurren. Kein Winseln. Ein Seufzen. Tief und lang, als hätte er es lange gehalten.
 
-„Hey, Kumpel", murmelte Theo. „Wir wissen jetzt Bescheid."
+„Hey, Kumpel“, murmelte Theo. „Wir wissen jetzt Bescheid.“
 
 Nora schluckte den Kloß in ihrem Hals hinunter. Sie legte das Foto zurück und schaute sich um. Die Bücher. Die Kerzen. Die Namensliste.
 
 Frau Silber hatte etwas getan in dieser Wohnung. Etwas mit diesen Namen. Etwas mit diesen Toten.
 
-„Was hat sie gemacht?", murmelte Nora. „Warum hat jemand eine Liste von Toten an die Wand gehängt?"
+„Was hat sie gemacht?“, murmelte Nora. „Warum hat jemand eine Liste von Toten an die Wand gehängt?“
 
-Theo stand auf. Er wischte sich die Hände an der Hose ab. „Vielleicht war sie eine Historikerin. Oder Ahnenforscherin."
+Theo stand auf. Er wischte sich die Hände an der Hose ab. „Vielleicht war sie eine Historikerin. Oder Ahnenforscherin.“
 
-„Mit Kerzen?"
+„Mit Kerzen?“
 
-„Historiker mögen Kerzen. Die sind nostalgisch."
+„Historiker mögen Kerzen. Die sind nostalgisch.“
 
-„Du weißt nicht, was nostalgisch bedeutet."
+„Du weißt nicht, was nostalgisch bedeutet.“
 
-„Doch. Das bedeutet alt und staubig. Wie hier."
+„Doch. Das bedeutet alt und staubig. Wie hier.“
 
 Nora schnaubte. Fast ein Lachen. Theo schaute sie an und grinste schief. Selbst hier, in einer verlassenen Wohnung voller Staub und Zettel, konnte er sie fast zum Lachen bringen. Fast.
 
