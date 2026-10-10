@@ -579,3 +579,107 @@ Begründung **am Text** steht (hier: Uhrzeit Kap. 2 + Besuch Kap. 2). „Klingt 
 | K6 / K8 | ✅ Kapitelenden unverändert; keine neuen Fakten, Faber 0 |
 | Regel 3 | „am Nachmittag“, „Wochenende“, „Lehrerin“: je 1× |
 | Kapitel-Dateien | neu erzeugt, 0 Abweichungen |
+
+---
+
+## Gesamtanalyse nach allen Nachprüfungen · 2026-10-10
+
+Stand: `6482afb`. Verglichen mit der Fassung vor dem Umbau (`4e983cf`). Alle 16 Kapitel sind in der
+aktuellen Fassung gelesen (Kap. 1–3 und 9 seit der ersten Lesung bis auf Anführungszeichen und
+„gestern“ unverändert).
+
+### Kürzung
+
+| | vorher | nachher | Änderung |
+|---|---|---|---|
+| Wörter | 27.179 | **22.684** | **−4.495 (−16,5 %)** |
+| Kapitel | 18 | **16** | −2 |
+| Ø Wörter je Kapitel | 1.510 | 1.418 | −6 % |
+| Seiten (KDP, geschätzt über LibreOffice-Verhältnis) | 186 | ≈ 158 | ≈ −15 % |
+| Dialoganteil gesamt | 24 % | 24 % | ± 0 |
+| Text nach Linas Befreiung | 7.446 W (27 %) | 3.464 W (15 %) | −54 % |
+
+**Wo gekürzt wurde:** fast ganz im Schluss (Kap. 14–18 → 14–16: −3.982 W) und in Zone A (Kap. 4–7:
+−563 W). Zugefügt: Kap. 13 (+96, Lina-Frage), Kap. 8 (+23, Mama), Kap. 5 (+45, Lina-Zettel).
+**Kap. 1–3, 9, 11 sind praktisch unverändert.** Das war Absicht: Dort lagen keine Absprungzonen.
+
+### Spannungskurve (Raster wie Plan Abschnitt 2: Neues 0–3, Gefahr 0–3, Gefühl 0–2, Sog 0–2)
+
+| Kap. neu | Inhalt | Punkte | (alt) |
+|---|---|---|---|
+| 1 | Ankunft, Hund, „SILBER“ | 7 | 7 |
+| 2 | eiskalter Raum, Name, Klopfen | 7 | 7 |
+| 3 | nachts oben, Tür zu, HILF | 7 | 7 |
+| 4 | HILF, Schule (gekürzt), HIER | 6 | 6 |
+| 5 | Arbeitszimmer, Lina-Zettel, Foto, Kinderschritte | 8 | 8 |
+| 6 | **eine** Bibliothek: Silber + Lina + Adresse | **7** | 5 |
+| 7 | Friedhof-Blick, VERGISS NICHT, Kratzen | 7 | 7 |
+| 8 | Wand, Türknall, Tagebuch | 8 | 8 |
+| 9 | Tagebuch | 7 | 7 |
+| 10 | Keller: Licht aus, Präsenz, Fußspuren | 9 | 9 |
+| 11 | Entscheidung, Notizbuch, „der Erste“ | 6 | 6 |
+| 12 | „Bitte“: Fenster, Vorlesen | 6 | 6 |
+| 13 | Befreiung, Lina-Frage | 5 | 5 |
+| 14 | Karte, GRAVEN, blaues Licht → Friedhof, unmögliche Tinte | **6** | 4 |
+| 15 | Friedhof: Raureif, Gestalt, Tor; Nora entscheidet; Umschlag | **8** | 6 / 3 |
+| 16 | Brief, Warnung „an uns“, Nacht, Raureif auf der Karte | **7** | 4 / 4 |
+
+⚠️ **Selbstkorrektur:** In der Endabnahme stand für Kap. 6 eine **8**. Mit dem Raster sind es **7**.
+Die emotionale Verarbeitung der Adresse ist mit Schritt 4 nach Kap. 7 gewandert (Gefühl 1 statt 2).
+
+```
+        alt (18 Kap.)                      neu (16 Kap.)
+K 1  ███████   7                    K 1  ███████   7
+K 2  ███████   7                    K 2  ███████   7
+K 3  ███████   7                    K 3  ███████   7
+K 4  ██████    6                    K 4  ██████    6
+K 5  ████████  8                    K 5  ████████  8
+K 6  █████     5                    K 6  ███████   7
+K 7  ███████   7                    K 7  ███████   7
+K 8  ████████  8                    K 8  ████████  8
+K 9  ███████   7                    K 9  ███████   7
+K10  █████████ 9  ← Höhepunkt 56 %  K10  █████████ 9  ← Höhepunkt 64 %
+K11  ██████    6                    K11  ██████    6
+K12  ██████    6                    K12  ██████    6
+K13  █████     5  ← Lina frei 73 %  K13  █████     5  ← Lina frei 85 %
+K14  ████      4                    K14  ██████    6
+K15  ██████    6                    K15  ████████  8
+K16  ███       3                    K16  ███████   7  ← Ende
+K17  ████      4
+K18  ████      4  ← Ende
+```
+
+| Kennzahl | alt | neu |
+|---|---|---|
+| Ø Punkte je Kapitel | 6,06 | **6,94** (+0,9, ≈ +15 %) |
+| Ø Punkte, gewichtet nach Wörtern | 6,02 | **6,91** |
+| **Textanteil in Kapiteln mit ≤ 4 Punkten** | **22,5 %** | **0 %** |
+| Ø nach dem Höhepunkt | 4,75 | **6,33** |
+| Ø nach Linas Befreiung | 4,20 | **7,00** |
+| Höhepunkt der Gefahr bei | 56 % | 64 % |
+| Lina frei bei | 73 % | 85 % |
+| Letztes Kapitel | 4 (blaues Licht wiederholt) | **7** (neues Bild, zeigt auf Band 2) |
+
+### Wie belastbar ist „spannender“?
+
+- **Belastbar (Fakten, am Text gezählt):** Die Wiederholungen W1–W11 sind beseitigt oder auf ein
+  Mal reduziert. 14 Logik- und Zeitfehler sind behoben (X1–X6 und die Funde der Nachprüfungen).
+  Der Schluss ist halb so lang. Kein Kapitel liegt mehr unter 5 Punkten. Das Buch endet auf einem
+  neuen Haken statt auf einer Wiederholung.
+- **Nicht belastbar (Einschätzung):** Die Punktzahlen stammen von **dem, der die Änderungen
+  geschrieben hat**. Das Raster misst weder Humor noch Sprache. „+15 % spannender“ ist eine Aussage
+  über dieses Raster, **nicht** über Kinder.
+- **Nicht vorhersagbar:** Wie stark die Durchlesequote zu Band 2 steigt. Der Umbau beseitigt die
+  beiden Absprungzonen, die der Text erkennen ließ. Ob Kinder dort wirklich ausgestiegen sind, zeigen
+  erst **Testleser** (Kurve) und **QR-Scans** (wie viele kommen bis zum Ende).
+
+### Was nicht besser geworden ist (bewusst oder offen)
+
+| Stelle | Stand |
+|---|---|
+| **Kap. 11–13 (6/6/5)** | Eine flache Strecke zwischen Keller und Befreiung bleibt. Kap. 13 ist **gewollt** ruhig (Abschied). Kap. 11/12 wären der nächste Ansatzpunkt, falls die Testleser hier aussteigen. |
+| Dialoganteil Kap. 2, 5, 10, 12, 13 (14–17 %) | Nicht Ziel des Umbaus. Band 1 ist der Stimmen-Maßstab, und der Stimmen-Prüfplan sagt ausdrücklich: Dialog-% ist kein Ziel. |
+| Linas Tod | **Bewusst** nur als Gefühl beantwortet (wegen Band 4). Testleser-Frage 1 prüft, ob das Kinder stört. |
+| Kap. 14–16 je ~1.150 W | Unter dem Richtwert von ~1.200, im Rahmen von Band 3/4. |
+| Kap. 8 „Flurtür“ (Lage der Räume unklar), Theo „hundert Jahre alt“ (Haus von 1826) | Alt und klein, notiert. Theos Zahl ist eine Kinderschätzung. |
+| Offen für den Autor | Testleser, Schritt 1 (Anhang/QR), KDP (Seiten −15 % > 10-%-Regel, Klappentext „16 Kapitel“, Cover-Rücken), Spielbuch-Abgleich |
