@@ -160,3 +160,37 @@ eine Frage an das Original (Grusel-Humor-Balance), nicht an die Übersetzung.
 (*Pony*), **ein Themen-Wortspiel** (*zuhören/hinhören*) und **drei Running Gags über Bände**
 (Gesicht, Staub, „Andere Kinder …"). Band 3 hat wieder mehr Witze als Band 2 — Theos Humor ist hier
 auch Figurenentwicklung („Ich rede, wenn ich Angst habe").
+
+---
+
+## Band 4 — Die zugemauerte Tür
+
+### Teil A · Umbauen / neu erfinden
+
+| # | Stelle | Deutsch | Fkt. | Typ | Englisch (Vorschlag) | Warum |
+|---|---|---|---|---|---|---|
+| W4-01 | K1 | Nora: „Weißt du, was komisch ist?" – Theo: „Auf einer Skala von diesem Morgen bis zu meinem ganzen Leben?" | C/R | Ü | *“You know what's weird?” – “On a scale from this morning to my entire life?”* | **Doppelter Rückgriff:** Nora benutzt Theos Satz (Register R41), Theo antwortet mit seinem Skala-Gag aus B2 (W2-04). Beide Formeln exakt wie in den Vorbänden |
+| W4-02 | K7 | „Der Hund ist ein Weichei. Ich hab ihn nur mehr lieb deswegen, aber er ist ein Weichei." | W | U | *“The dog is a big softie. I love him even more for it, but he's a big softie.”* | *Weichei* → *softie* (nicht *wimp* — zu abwertend für den liebevollen Ton) |
+| W4-03 | K12 | „Fassen wir zusammen … Wenn wir Faber nicht helfen, bleiben wir für immer hier und werden Regalsachen. Gibt es eine dritte Tür? Ich hätte gern eine dritte Tür." – „Es gibt keine dritte Tür." – „Das dachte ich mir. Es gibt nie eine dritte Tür." | E/R | U | *“… and we turn into shelf stuff. Is there a door number three? I'd really like a door number three.” – “There is no door number three.” – “Figured. There's never a door number three.”* | *door number three* ist im US-Englisch eine feste Wendung (Spielshow) — trifft den Witz besser als wörtlich. **R** zu B3 K5 („Lass mich kurz zusammenfassen") |
+| W4-04 | K16 | „Als hätte er endlich Feierabend." | W | U | *“Like he finally got to clock out.”* | *Feierabend* hat kein Gegenstück (A6) |
+| W4-05 | K16 | „Andere Familien machen Urlaub. Wir machen — das hier." – „Familienausflug. Nur mit mehr Geistern." | W/R | Ü | *“Other families go on vacation. We do — this.” – “Family trip. Just with more ghosts.”* | **R** zu B1 K6 und B3 K16 („Andere Kinder …") — dieselbe Bauweise halten |
+
+### Teil B · Übertragbar (abhaken)
+
+| Kap. | Witze (Kurzform, Funktion) |
+|---|---|
+| K1 | „Tinte, die sich selbst schreibt. Das ist die gruseligste Art von Tinte." (E) · „Ich sage jetzt das, was ich immer sage. Und du wirst es hassen." – „Sag es nicht." – „Wir gehen nach oben." – „Ich hasse es." (C) · „Das war ein schlechter Satz. Ich hab ihn gehört, als er rauskam. Tut mir leid." (E) |
+| K2 | Frau Held: „Erklärt mir das mal, ihr Klugen." (C) · „Erinnerst du dich, als das hier nur die gruselige leere Wohnung von oben war?" (W, **R** zu Band 1) |
+| K3 | „Cornelius. Wer nennt sein Kind Cornelius." (C — funktioniert, der Name ist auch im Englischen altmodisch) · „Du hörst nie auf zu lesen." (C) |
+| K4 | „Okay. Das ist tatsächlich schlimmer." (C) · „Es gibt zwei Sorten Türen …" (W) |
+| K5 | „Ich schlafe einen Stock tiefer. Unter — das hier." (E) · „Atme." – „Ich atme ja. Ich atme sehr viel gerade." (E) · „Ich mag diesen Raum nicht." (E) · „Uhren sind cool." (C) |
+| K8 | Silber: „Dich hat es einen Nachmittag gekostet." (W) |
+| K9 | „In einfachen Worten. Für Leute, die gerade sehr nervös sind." (E) |
+| K10 | „das Einzige, wovor ich mehr Angst habe als vor Geistern … viel Zeit zu üben" (E) · „Ich bin der, der nicht durchdreht. Zur Abwechslung." (C) · „Einer nach dem anderen. So machen wir das." (C) |
+| K12 | „Ich will ja nichts sagen …" (Register R42) · „Ich sag die Wahrheiten, die keiner hören will. Ist ein undankbarer Job." (W) |
+| K15 | „Das ist irgendwie der beste Deal aller Zeiten." (W) |
+| K16 | „Bester geerbter Hund aller Zeiten … Vergiss, dass ich ‚geerbt' gesagt hab." (W) · „Weißt du, was komisch ist?" – „Nach den letzten Tagen? So ziemlich alles." (R41, vgl. B3 K16 — Antwort leicht anders, so lassen) |
+
+**Bilanz Band 4:** 5 Einträge in Teil A, keine Neuerfindung. Band 4 hat die **wenigsten Witze**
+der Reihe — gewollt: das ernsteste Thema (Abschied von Silber). Der Humor ist fast nur noch **W**
+(Wärme im Trauern). Gerade deshalb darf in der Übersetzung keiner verloren gehen.
