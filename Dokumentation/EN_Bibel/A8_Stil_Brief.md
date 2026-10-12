@@ -27,8 +27,19 @@
   Keine Erklärung, die Nora nicht hat.
 - **Gefühle körperlich.** Das Original sagt *„Ihre Finger krallten sich in den Stoff"*, nicht
   *„Sie hatte Angst"*. Die Übersetzung fügt **kein** *she felt scared* hinzu.
-- **Satzfragmente sind Absicht.** *„Groß. Leer. Hohe Decken, langer Flur, knarrender Dielenboden."* →
+- **Satzfragmente sind Absicht — aber dosiert** (geändert nach Pilot, siehe unten).
+  **Alte Regel:** *„Groß. Leer. Hohe Decken, langer Flur, knarrender Dielenboden."* →
   *“Big. Empty. High ceilings, a long hallway, creaky floorboards.”* — nicht zu einem Satz verbinden.
+- **Nach dem Pilot:** Der US-Lektor fand in K9 „fast in jedem Absatz verblose Fragmente" — das liest sich übersetzt.
+  Neue Regel: **Fragmente bleiben** an Kapitelanfang und -ende, in Schreckmomenten und in Ein-Satz-Absätzen.
+  **In ruhigen Passagen** darf eine Kette von **drei oder mehr** Fragmenten zu einem Satz werden, wenn der Absatz
+  ein Absatz bleibt. Beispiel K9: *„Wachsam. Aber ruhig."* bleibt (zwei, Spannung); *„Schultage. Freundinnen.
+  Zuckerwatte vom Jahrmarkt."* darf *“School days, friends, cotton candy at the fair.”* werden.
+  **Warum nicht ganz verbieten:** Die kurzen Sätze sind die Stimme der Reihe. Das Original hat sie überall —
+  im Deutschen klingt das knapp, im Englischen bei dieser Dichte wie übersetzt. Dosieren, nicht abschaffen.
+- **Keine vorangestellten Ortsangaben mit umgestelltem Verb** (*On the step sat a dog.* · *Next to the frame
+  hung a nameplate.*). Im Deutschen normal, im Englischen ein Übersetzungszeichen (D5 K1 #23, #35).
+  Ausnahme: einmal pro Kapitel als bewusster Effekt.
 - **Kein Passiv**, wo das Original aktiv ist.
 
 ---
@@ -100,12 +111,20 @@
 | Taschenlampe (39×) | **flashlight** | torch |
 | Wohnung | **apartment** | flat |
 | Treppenhaus | **stairwell** · *the stairs* | staircase (das ist die Treppe selbst) |
-| Keller | **cellar** — in **allen** Bänden | basement (wäre US-Standard, aber *cellar* passt zum alten Steinkeller und steht schon in R28) |
+| Keller | **basement** — in **allen** Bänden (geändert nach Pilot) | cellar — Kinderleser **und** US-Lektor markierten es unabhängig als fremd, ausgerechnet im Cliffhanger von K9. *basement* ist das US-Gruselwort (vgl. *Goosebumps: Stay Out of the Basement*). |
 | Gehweg / Bürgersteig | **sidewalk** | pavement |
 | Müll | **trash** | rubbish |
 | Hinterhof | **backyard** (Haus) · **courtyard** (Altbau, umbaut) | garden |
 | Erdgeschoss usw. | Glossar E9 (US-Zählung) | |
-| Mama / Mutter | **Mom** / **their mother** (A2) | Mum, Mummy |
+| Mama / Mutter | **Mom** — auch im Erzähltext (A2, geändert nach Pilot) | Mum, Mummy, *their mother* als Regel |
+| Heizung (Gerät) | **radiator** · *die Heizung aufdrehen* → *turn up the heat* · *auf die Heizung schieben* → *blame it on the radiator* | *blame it on the heat* (= Hitze, D4/D6 K9) |
+| Deckenlampe | **ceiling light** | ceiling lamp |
+| Schnauze (Hund) | **nose** · *snout* | **muzzle** — Kinder denken an den Maulkorb (D6 K1 und K9 unabhängig) |
+| Kinderzimmer | **bedroom** | kids' room |
+| Supermarkt | **grocery store** | supermarket (nicht falsch, klingt im Kindermund fremd) |
+| Klingelschild | **the name by the doorbell** · *name card* | nameplate (= Bürotür) |
+| Proviantkarton | **the box of snacks** / *food from the car* | food box |
+| Schwelle | **doorway** | threshold (zu erwachsen) |
 | Oma | **Grandma** | Gran, Nan |
 
 ---
@@ -169,7 +188,7 @@ zuerst weg — und das Hintere ist auch das, was D4/D5 am ehesten noch auffangen
   Gegenmittel: Die messbaren Regeln (Absätze, Ausrufe, Flüche, Schreibweise, Motiv-Wörter) prüft A11
   **nachher** automatisch. Der Übersetzer muss sie kennen, aber nicht jede Zeile dagegen prüfen. Im
   Pilot zählen, welche Regeln Befunde bringen; der Rest wird gekürzt.
-- **Einige Entscheidungen sind Geschmack**, nicht Wissen: *cellar* statt *basement*, *Theo said*
+- **Einige Entscheidungen sind Geschmack**, nicht Wissen: ~~*cellar* statt *basement*~~ (im Pilot gekippt), *Theo said*
   statt *said Theo*, *muttered/murmured*. Sie sind begründet, aber kein Muttersprachler hat sie
   bestätigt. Prüfung: D5 (US-Lektor ohne Deutsch) markiert, was fremd klingt — wenn er *cellar* oder
   *hackles* markiert, wird umentschieden.

@@ -32,6 +32,8 @@ VERBOTE = {
                            r"(?:lilac|violet|mauve) ink|ink was (?:still )?damp|damp ink)\b|\bknock,\s*knock\b",
     "Dialogverb (A8)": r"\b(?:exclaimed|stated|remarked|uttered|inquired|queried|replied)\b",
     "Satzbau (A8)": r"\bsaid (?:Theo|Nora|Mom)\b",
+    "Wortwahl nach Pilot (A8 Abschn. 6)": r"\b(?:cellar|muzzle|ceiling lamp|nameplate|kids' rooms?|food box|supermarket|"
+                                         r"blamed it on the heat)\b",
     "Deutsch-Rest": r"[„‚äöüÄÖÜß]|\b(?:und|nicht|ist|ich|wir|aber|auch|noch|schon|sagte)\b",
 }
 
@@ -142,6 +144,11 @@ def pruefen(de_text, en_text, register=None):
         if treffer:
             befunde.append((name, ", ".join(treffer)))
 
+    # 3b. Mutter im Erzähltext: Mom, nicht their mother (A2, nach Pilot) — einzelne Ausnahmen erlaubt
+    n_mutter = len(re.findall(r"\btheir mother\b", en_text, re.I))
+    if n_mutter > 2:
+        befunde.append(("Mutter (A2)", f"{n_mutter}× 'their mother' — Erzähltext sagt 'Mom'"))
+
     # 4. Stockwerke: deutsche Zahl + 1 (Glossar E9)
     de_st = {ORDINAL_DE[m.group(1).lower()] for m in
              re.finditer(r"(?i)\b(erd|erste|zweite|dritte|vierte)[nrs]?(?:geschoss|\s+stock|\s+etage)", de_text)}
@@ -231,7 +238,7 @@ Nora read: “The Veil is getting thinner.” Shadow looked at her with his ambe
 
 EN_SCHLECHT = """# Chapter 1: Test
 
-“Come on!” exclaimed their mother. “First floor. You'll love it, damn it!”
+Their mother waved. Their mother smiled. Their mother left the cellar. “Come on!” exclaimed their mother. “First floor. You'll love it, damn it!”
 
 Frau Silber lived on the second floor, in her grey flat. The weather app said 13 degrees. Right from Mrs Silber's apartment. Creepy.
 
@@ -251,7 +258,7 @@ def selbsttest():
     schlecht = {k for k, _ in pruefen(DE_PROBE, EN_SCHLECHT, register)}
     erwartet = {"Absätze", "Ausrufezeichen", "Fluch (A2, A8)", "Britisch (A6, A8)", "Anrede ohne Punkt (A8)", "Glossar (A1)",
                 "Motiv-Wortlaut (A4)", "Dialogverb (A8)", "Deutsch-Rest", "Stockwerk (E9)",
-                "Temperatur (E10)", "Register (A5)"}
+                "Temperatur (E10)", "Register (A5)", "Mutter (A2)", "Wortwahl nach Pilot (A8 Abschn. 6)"}
     for k in sorted(erwartet - schlecht):
         print("FEHLT:", k)
         ok = False

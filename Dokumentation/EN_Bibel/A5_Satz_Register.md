@@ -62,7 +62,7 @@ Ein Zitat, das in Band 4 anders lautet als in Band 1, merken aufmerksame Leser s
 | R25 | Dreimal. Pause. Dreimal. | B1 K2, K3 | *Three times. Pause. Three times.* | |
 | R26 | Es gibt eine Erklärung. | B1 K3 (2×) | *There's an explanation.* | ⚠️ Theo: *„Du sagst das jetzt zum dritten Mal"* — im Deutschen fällt der Satz nur **2×** wörtlich, das dritte Mal meint Noras Ausreden allgemein. Englisch genauso lose lassen, aber beide Stellen identisch. |
 | R27 | *Niemand glaubt mir.* | B1 K9, K11, K12, K15 | *Nobody believes me.* | Linas Kernsatz, 4 Stellen |
-| R28 | *Morgen gehe ich in den Keller.* | B1 K9, K13 | *Tomorrow I'm going down to the cellar.* | |
+| R28 | *Morgen gehe ich in den Keller.* | B1 K9, K13 | *Tomorrow I'm going down to the basement.* | geändert nach Pilot: *cellar* → *basement* (A8 Abschn. 6) |
 | R29 | Das Buch liegt unter dem Stein mit dem Hund. | B2 K5, K6 | *The book is under the stone with the dog.* | |
 | R30 | *Hatte eine Tochter in Hannover. Wusste nicht, dass er starb.* | B2 K9, K14 | K9: *Had a daughter in Hanover. She never knew he died.* · K14: *She never knew he died.* — das *she* muss stehen, sonst liest man „er wusste nicht, dass er starb" | Hannover → **Hanover** (englische Schreibweise) |
 | R31 | Ja, ich höre dich. | B2 K10, K11 | *Yes, I hear you.* | |

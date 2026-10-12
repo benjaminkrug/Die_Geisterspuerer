@@ -58,7 +58,7 @@ bei ihnen zählt das Nachlesen mehr als die Zahl.
 |---|---|
 | Kurze Antworten bleiben kurz. *Ich weiß.* = *I know.* — nicht *I'm aware* oder *I know that.* | *„Ja." → “Yeah.”* (zu Theo) · *“Yes.”* (zu Erwachsenen) |
 | *„Theo."* bleibt ein Wort mit Punkt. Kein *“Theo, stop.”* | *“Theo.”* |
-| Kein Sarkasmus. Der gehört Theo. Nora ist genervt, nicht witzig. | *„Quatsch." → “Nonsense.”* ist zu britisch-erwachsen → **“Come on.”** oder **“That's silly.”** — Pilot entscheidet |
+| Kein Sarkasmus. Der gehört Theo. Nora ist genervt, nicht witzig. | *„Quatsch."* → **“Oh, come on.”** (Pilot entschieden: *That's silly* klang für den US-Lektor nach Lehrerin, D5 K1 #5) |
 | Zu Erwachsenen: *Excuse me*, *Mr./Mrs.*, ganze Sätze. Das ersetzt das deutsche *Sie* (F27). | *“Excuse me. We wanted to ask — the old subway down there …”* |
 
 **Gefahr bei der KI-Übersetzung:** Nora wird zur kühlen Erzählerin mit Erwachsenenwortschatz
@@ -102,7 +102,7 @@ Ausrufen (*„Und? Platz! Hohe Decken! Charme!"*). Müde vom Schichtdienst, lieb
 Übernatürlichen. Redensarten einer Erwachsenen: *„um Himmels willen"*. In B4 K16 der eine lange, weise
 Absatz über ihre Mutter (Register R17 *Loslassen heißt nicht vergessen*).
 
-**Auf Englisch:** Kinder sagen **Mom**, der Erzähltext sagt **their mom** / **Mom** (wie *Mama*) und **their mother** (wie *ihre Mutter*) — das Original wechselt
+**Auf Englisch (geändert nach Pilot):** Kinder **und Erzähltext** sagen **Mom** — auch dort, wo das Original *ihre Mutter* schreibt. *their mother* nur ausnahmsweise, wenn ein Satz sonst unklar wird. **Warum geändert:** Die erste Fassung dieser Regel (Wechsel wie im Original) war im Pilot das **auffälligste Übersetzungszeichen** überhaupt (D5 K1: „single biggest giveaway", ~11× *their mother* in einem Kapitel). Im Deutschen ist *ihre Mutter* neutral, im US-Kinderbuch klingt *their mother* kühl und fern. Die Regel widersprach außerdem dem Glossar A1 (*Mom* in Anrede **und** Erzählung). Alte Fassung: das Original wechselt
 (74× *Mama*, 71× *Mutter*); den Wechsel beibehalten. *um Himmels willen* → *for heaven's sake*.
 Ihre Ausrufe **dürfen** bleiben — sie ist die eine Figur, die so redet.
 
