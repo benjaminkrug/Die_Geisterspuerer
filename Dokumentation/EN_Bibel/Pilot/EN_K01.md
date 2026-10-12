@@ -4,7 +4,7 @@ The moving truck was parked crooked in front of the building. Nora climbed out a
 
 Kirchgasse 14. The street was narrow and quiet. Cobblestones, houses that leaned against each other like tired old men. Nobody in sight.
 
-Their new building had three floors, a gray front, and narrow windows with peeling paint. Cracks ran through the plaster like wrinkles on an old face.
+Their new building had three floors, gray walls, and narrow windows with peeling paint. Cracks ran through the plaster like wrinkles on an old face.
 
 “That looks like a horror movie,” Theo said beside her.
 
@@ -12,7 +12,7 @@ He was hugging his backpack to his chest like a shield.
 
 “Oh, come on,” Nora said. “It's an old building. They all look like that.”
 
-“Old building means old. Old means creepy. That's logic, Nora.”
+“Old building means old. Old means creepy. That's just logic, Nora.”
 
 “That makes no sense.”
 
@@ -82,7 +82,7 @@ Mom clapped her hands. “Okay. Sorry, guys, I have to go in a minute.”
 
 Nora turned around. “Already? We just got here.”
 
-“The meeting at the hospital. I'm introducing myself to everyone—I can't move it.” Mom stroked Nora's hair. “Two hours, tops. Start unpacking, pick out your rooms. Nora—”
+“I've got that meeting at the hospital. It's where I meet everyone—I can't move it.” Mom smoothed Nora's hair. “Two hours, tops. Start unpacking, pick out your rooms. Nora—”
 
 “I'll watch him.”
 
@@ -114,7 +114,7 @@ Nora looked up at the ceiling. Above them was the third floor. The apartment wit
 
 It had.
 
-“Great,” Theo said. He'd sat down on a moving box, arms crossed. “First day. Strange city. Creepy apartment. And Mom's gone.”
+“Great,” Theo said. He was sitting on a moving box, arms crossed. “First day. Strange city. Creepy apartment. And Mom's gone.”
 
 “Stop whining and help me unpack.”
 
@@ -136,7 +136,7 @@ Silence.
 
 “What now?”
 
-“Come over to the window.”
+“Come look out the window.”
 
 No joke in his voice. No complaining. Theo sounded surprised.
 
@@ -168,7 +168,7 @@ Nora's mouth went dry. Not from fear. From something she couldn't name.
 
 “Hey,” Theo said softly. He crouched down and held out his hand. Slowly, with his fingers pointing down.
 
-The dog sniffed it for a moment. Then he rested his nose in Theo's hand.
+The dog sniffed it for a moment. Then he rested his chin in Theo's hand.
 
 “Nora.” Theo's voice was barely more than a whisper. “He trusts me.”
 
@@ -176,7 +176,7 @@ The dog sniffed it for a moment. Then he rested his nose in Theo's hand.
 
 “Can you just not explain everything for once?”
 
-Nora went upstairs and got a bowl of water and a piece of cheese from the box of snacks. When she came back, Theo was sitting on the step. The dog had rested his head on Theo's knee. His tail thumped slowly against the stone. Once. Twice.
+Nora went upstairs and got a bowl of water and a piece of cheese from the box of snacks. When she came back, Theo was sitting on the step. The dog had laid his head on Theo's knee. His tail thumped slowly against the stone. Once. Twice.
 
 She set the bowl down. The dog drank. And drank. Greedy gulps.
 
@@ -190,7 +190,7 @@ The dog ate the cheese in one bite. Then he raised his head. Looked at Nora. Loo
 
 And stood up.
 
-He trotted through the open door into the building. Like it was nothing. Like he had done it a thousand times. His claws clicked softly on the tiles.
+He trotted through the open door into the building. Like he lived here. Like he had done it a thousand times. His claws clicked softly on the tiles.
 
 Nora and Theo looked at each other.
 
@@ -210,9 +210,9 @@ Theo looked at Nora. She shook her head. Don't talk. Keep going.
 
 Third floor.
 
-Nora's stomach tightened. It was only a dog on the stairs. That's what she told herself. Only a dog. But the way he walked. Like he had somewhere to be. Without sniffing, without stopping. As if he knew exactly where he had to go.
+Nora's stomach tightened. It was only a dog on the stairs. That's what she told herself. Only a dog. But the way he walked. With purpose. Without sniffing, without stopping. As if he knew exactly where he had to go.
 
-The dog stopped in front of a door. The one on the right. The paint was peeling, and fine dust lay in the doorway, as if nobody had cleaned here in months.
+The dog stopped in front of a door. The one on the right. The paint was peeling, and fine dust covered the doorway, as if nobody had cleaned there in months.
 
 Nora stepped closer. A name card hung next to the frame. Yellowed. The letters were handwritten, scrawly and faded.
 
@@ -228,8 +228,8 @@ The hair on the back of Nora's neck stood up. Beside her, Theo grabbed her sleev
 
 Then the dog growled. Low. Deep in his throat.
 
-A sound Nora didn't hear with her ears.
+A sound that skipped Nora's ears.
 
-She felt it in her stomach.
+And landed in her stomach.
 
 He was growling at the door.

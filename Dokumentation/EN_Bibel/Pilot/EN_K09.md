@@ -4,7 +4,7 @@ The cold hit Nora like a punch.
 
 She sat on the floor, the diary on her knees. The light bulb flickered, then steadied. Shadow whined next to Theo.
 
-Nora's heart pounded. A girl's handwriting on the first page. Purple ink.
+Nora's pulse throbbed in her temples. A girl's handwriting on the first page. Purple ink.
 
 *Lina's Diary*
 
@@ -26,7 +26,7 @@ Nora turned to the first page.
 
 Nora stopped. Twelve. Like her.
 
-“*School was boring today*,” she read on. “*Math. Mrs. Kettner got mad at me again because I was daydreaming. But after school was nice. Hanna and I were down by the river. Luna jumped in the water and brought back a stick. Three times. Then she shook herself off and got us wet.*”
+“*School was boring today*,” she read on. “*Math. Mrs. Kettner got mad at me again because I was daydreaming. But after school was fun. Hanna and I were down by the river. Luna jumped in the water and brought back a stick. Three times. Then she shook herself off and got us wet.*”
 
 “Luna?” Theo said.
 
@@ -34,9 +34,9 @@ Nora stopped. Twelve. Like her.
 
 Shadow lifted his head. His ears perked up.
 
-The next entries were short. School days, friends, cotton candy at the fair. One entry was about going up on the roof with a flashlight, because Lina wanted to count stars. She had drawn the constellations, tiny dots in purple ink, joined by wobbly lines. Next to them she had written: “When I grow up, I want to be an astronomer. Or a vet. Or both.” A normal girl's life. With every entry, a picture of Lina took shape.
+The next entries were short. School days, friends, cotton candy at the fair. One entry was about going up on the roof with a flashlight, because Lina wanted to count stars. She had drawn the constellations, tiny dots in purple ink, joined by wobbly lines. Next to them she had written: “When I grow up, I want to be an astronomer. Or a vet. Or both.” A normal girl's life. With every entry, Lina became more real.
 
-“She sounds nice,” Theo said quietly. “Cotton candy. Stars. A dog.” He stroked Shadow's head. “At least she had Luna.”
+“She sounds nice,” Theo said quietly. “Cotton candy. Stars. A dog.” He stroked Shadow's head. “At least she had a dog.”
 
 “Yeah.” Nora's voice was thick. “She sounds like someone you'd want to know.”
 
@@ -60,9 +60,9 @@ She kept reading. Her voice got quieter.
 
 “*September 22. Noises at night. Scratching in the wall. I woke Mom up. She was annoyed. She said it was mice. But mice don't scratch to a beat.*”
 
-“To a beat,” Theo repeated. His voice sounded thin. “Like the knocking we hear.”
+“To a beat,” Theo repeated. His voice sounded thin. “Like the knocking. At our place.”
 
-Nora nodded. Her mouth went dry.
+Nora nodded. Her tongue stuck to the roof of her mouth.
 
 “*September 29. This morning my desk chair was by the window. I didn't put it there. Mom says I was sleepwalking. I've never walked in my sleep.*”
 
@@ -80,7 +80,7 @@ Shadow lifted his head. Only for a moment. Then he laid it back down on his paws
 
 “I know.” Nora swallowed. “Exactly the same.”
 
-“And her parents blamed it on the radiator.” Theo shook his head. “Like you did with the water pipes.”
+“And her parents blamed it on the radiator.” Theo shook his head. “Like you did with the pipes.”
 
 Nora didn't say anything. Because he was right.
 
@@ -96,7 +96,7 @@ Silence. Shadow pressed his head harder against Theo's knee. Theo put his hand o
 
 Nora turned the page. The paper shook in her hands.
 
-“*October 19. I'm scared. I'm really scared. Nobody believes me. I asked Mom to let me sleep at Grandma's. She said I should stop making such a fuss. ‘There's no such thing as ghosts,’ she said. ‘Stop it.’*”
+“*October 19. I'm scared. I'm really scared. Nobody believes me. I asked Mom to let me sleep at Grandma's. She said I should stop making such a big deal out of it. ‘There's no such thing as ghosts,’ she said. ‘Stop it.’*”
 
 Theo's chin trembled. Nora saw it. She heard his breath catch. But she kept reading. She had to keep reading.
 
@@ -108,7 +108,7 @@ Nora closed her eyes. Just for a moment. Behind her eyelids she saw a girl. Twel
 
 “Yeah.”
 
-“I'm sorry.” Her voice cracked. “For not believing you. When you said something was wrong. I cut you off. Just like Lina's parents.”
+“I'm sorry.” Her voice cracked. “For not believing you. When you said something was wrong. I blew you off. Just like Lina's parents.”
 
 Theo was quiet. Then he said, “If you'd believed me, I probably would've been even more scared.”
 
@@ -120,11 +120,11 @@ Nora opened her eyes. Her hands were ice-cold. A weight sat in her chest, heavy 
 
 ---
 
-“*October 27*,” she read. Her voice almost broke. “*I'm writing this down because nobody else listens to me. If something happens to me, somebody should know that I told the truth. I wasn't dreaming. I wasn't making a fuss. There's something in this apartment. And it's getting worse.*”
+“*October 27*,” she read. Her voice almost broke. “*I'm writing this down because nobody else listens to me. If something happens to me, somebody should know that I told the truth. I wasn't dreaming. I wasn't making a big deal out of it. There's something in this apartment. And it's getting worse.*”
 
 Theo sobbed.
 
-Just once. A quick one. He pressed his hand over his mouth and turned his head away. His shoulders shook.
+One short sob. He pressed his hand over his mouth and turned his head away. His shoulders shook.
 
 Nora lowered the book into her lap. “Theo—”
 
@@ -132,7 +132,7 @@ Nora lowered the book into her lap. “Theo—”
 
 Shadow pressed his nose harder against Theo's arm. Theo's fingers dug into Shadow's fur. He held on. As if Shadow were an anchor.
 
-Nora's eyes burned. She blinked the sting away. She had to be strong now.
+Nora's eyes burned. She blinked the sting away. She had to hold it together now.
 
 Theo wiped his face. “Nora.” His voice was small. “I want to go home.”
 
@@ -154,7 +154,7 @@ The handwriting was different. Bigger. Shaky. In some places the purple ink was 
 
 “*November 2*,” Nora read. Her voice was a whisper.
 
-“*Tomorrow I'm going down to the basement. I have to know what's down there. Luna is coming with me. I'm scared. But I have to know. If I understand it, maybe it will stop. If I understand it, maybe everybody else will believe me.*”
+“*Tomorrow I'm going down to the basement. I have to know what's down there. Luna is coming with me. I'm scared. But I have to know. If I figure it out, maybe it will stop. If I figure it out, maybe everybody else will believe me.*”
 
 Nora turned the page.
 

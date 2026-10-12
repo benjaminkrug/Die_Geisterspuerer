@@ -278,3 +278,35 @@ K9 · Absatz 30 · DE: „Wie das Klopfen. Bei uns.“ · EN: “Like the knocki
 K9 · Absatz 34 · DE: „Kürzer. Knapper.“ · EN: “shorter and shorter” · frei, weil: zwei Synonyme ohne gutes englisches Paar; Steigerung trägt denselben Sinn.
 K9 · Absatz 66 · DE: „Wir sind zu Hause, Theo.“ · EN: “We are home, Theo.” · frei, weil: ersetzt *This is home* (D4-5).
 K9 · Absatz 99 · DE: „müssen wir herausfinden“ · EN: “is what we've got to find out” · frei, weil: *have to* klang förmlich (D5-52); *'ve got to* = müssen im Kindermund.
+
+## Runde 3
+
+Grundlage: D4_K09_Bedeutung_R2.md, D5_K09_US_Lektor_R2.md, neue Vorrangregel (a) Glossar/Register/Motive fest · (b) Kapitelende/A7-Schlüsselsätze: Wirkung vor Glätte · (c) konkrete Körperbilder bleiben konkret · (d) sonst gewinnen die Leser-Durchgänge, solange der Bedeutungskern bleibt.
+
+### Geändert
+
+| Abs. | vorher (R2) | jetzt (R3) | Quelle | Regel |
+|---|---|---|---|---|
+| 4 | Nora's heart pounded. | Nora's pulse throbbed in her temples. | D4 R2-2 | (c) |
+| 31 | Her mouth went dry. | Her tongue stuck to the roof of her mouth. | D4 R2-1 | (c) |
+| 19 | “At least she had Luna.” | “At least she had a dog.” | D4 R2-3 | (b) Spiegelung ihr Hund ↔ Schatten (A7: Luna = Schatten); Echo auf *A dog* im selben Absatz |
+| 30 | “Like the knocking we hear.” | “Like the knocking. At our place.” | D4 R2-4 | (b) Ort verbindet Linas Wohnung mit ihrem Zuhause (bereitet *We are home* vor); Stocken bleibt. D5 R2-8 damit erledigt |
+| 53 | I cut you off. | I blew you off. | D5 R2-20 | (d) *cut off* = unterbrochen; gemeint ist abgewiesen (*abgewürgt*) |
+| 47 / 58 | making such a fuss / I wasn't making a fuss | making such a big deal out of it / I wasn't making a big deal out of it | D5 R2-16 | (d) US statt britisch; Bedeutung *sich anstellen* = übertreiben bleibt (nicht *dramatic*, das ist Theos K2-Wortfeld), Echo zwischen beiden Stellen bleibt |
+| 39 | the water pipes | the pipes | D5 R2-12 | (d) |
+| 18 | With every entry, a picture of Lina took shape. | With every entry, Lina became more real. | D5 R2-5 | (d) Kern: aus den Einträgen entsteht ein Bild von Lina |
+| 14 | But after school was nice. | But after school was fun. | D5 R2-2 | (d) Diary voice |
+| 64 | She had to be strong now. | She had to hold it together now. | D5 R2-26 | (d) Floskel → kindlich; Kern gleich |
+| 60 | Just once. A quick one. | One short sob. | D5 R2-24 | (d) *A quick one* klang falsch; *Einmal. Kurz.* steckt in *one short*. (Zwei Fragmente → eins; ruhiger Nachsatz zum Ein-Satz-Absatz *Theo sobbed.*, der unverändert bleibt) |
+| 74 | If I understand it … If I understand it | If I figure it out … If I figure it out | D5 R2-32 | (d) Diary voice; Wiederholung bleibt, R28 im selben Absatz unberührt |
+
+8 Fälle aus D5 R2 übernommen (20, 16, 12, 5, 2, 26, 24, 32); R2-8 durch D4 R2-4 ersetzt.
+
+### Bewusst nicht umgesetzt (Vorgabe Runde 3)
+- Strukturvorschläge aus D5 R2 (Schuld vor die Entschuldigung, ein Weinen streichen, Herz einführen, Radiator-Zeile, kursive Bemerkung, Nora's „said" in Abs. 69, Schluss auf dem Geräusch) — stehen so im Original, gehen an den Autor.
+- *Like Shadow was the only thing holding him up* (R2-25) — *anchor* ist Glossar-/Motivwort (a).
+- *Luna yelped* (R2-18) — A7-Schlüsselstelle (Steigerung), Wirkung bleibt (b).
+- *to a beat* (R2-7, UNCLEAR) — nicht in den freigegebenen Kategorien; bleibt bis zur Kinderleser-Prüfung offen.
+
+### Prüfskript Runde 3
+`python3 Scripts/pruefe_en.py pruefen …DE_K09.md …EN_K09.md` → **0 Befund(e)**.

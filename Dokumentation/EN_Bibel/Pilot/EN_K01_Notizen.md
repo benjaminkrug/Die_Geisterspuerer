@@ -317,3 +317,56 @@ A, weil es den Gegensatz des Originals (*nicht* in den Ohren, *sondern* im Magen
 `python3 Scripts/pruefe_en.py pruefen …DE_K01.md …EN_K01.md` → **0 Befund(e).** Der Fehlalarm aus Runde 1
 (Absatz 53) erscheint nicht mehr. Bericht: Absätze 118 = 118, Ein-Satz-Absätze 49 → 50 (Absatz 117 ist jetzt
 ein ganzer Satz statt eines Fragments, bleibt ein Ein-Satz-Absatz), Ausrufezeichen 3 = 3.
+
+---
+
+## Runde 3
+
+Grundlage: D4_K01_Bedeutung_R2.md, D5_K01_US_Lektor_R2.md und die neue Vorrangregel (a) Glossar, Register und A4 fest ·
+(b) Kapitelende und A7-Schlüsselsätze: die Wirkung (D4) gewinnt · (c) konkrete Körperbilder bleiben konkret ·
+(d) Wortwahl und Rhythmus: die Leser-Durchgänge gewinnen, solange der Bedeutungskern bleibt.
+
+### Geändert
+
+| Absatz | Vorher (R2) | Jetzt (R3) | Regel | Quelle |
+|---|---|---|---|---|
+| 116–117 | A sound Nora didn't hear with her ears. / She felt it in her stomach. | **A sound that skipped Nora's ears. / And landed in her stomach.** | (b) | D4 R2 #1, D5 R2 #33 |
+| 107 | Like he had somewhere to be. | With purpose. | (b) Spannung im Aufstieg | D4 R2 #2 |
+| 86 | rested his nose in Theo's hand | rested his chin in Theo's hand | (c) Vertrauensgeste mit Gewicht, ohne *muzzle* (Maulkorb) | D4 R2 #3 |
+| 90 | had rested his head on Theo's knee | had laid his head on Theo's knee | (d) kein doppeltes *rested* | D5 R2 #26 |
+| 97 | Like it was nothing. | Like he lived here. | (b) Hinweis: der Hund gehört ins Haus | D4 R2 FRAGE #5 |
+| 4 | a gray front | gray walls | (d) TRANSLATED | D5 R2 #3 |
+| 8 | That's logic, Nora. | That's just logic, Nora. | (d) TRANSLATED; = A3-Vorschlag W1-01 | D5 R2 #5 |
+| 43 | The meeting at the hospital. I'm introducing myself to everyone—I can't move it. | I've got that meeting at the hospital. It's where I meet everyone—I can't move it. | (d) TRANSLATED/STIFF (*Erste Vorstellung* bleibt als „alle zum ersten Mal treffen“) | D5 R2 #14, #15 |
+| 43 | Mom stroked Nora's hair. | Mom smoothed Nora's hair. | (d) STIFF (*stroked* klingt nach Tier streicheln) | D5 R2 #16 |
+| 59 | He'd sat down on a moving box, arms crossed. | He was sitting on a moving box, arms crossed. | (d) STIFF | D5 R2 #19 |
+| 70 | Come over to the window. | Come look out the window. | (d) TRANSLATED | D5 R2 #20 |
+| 108 | fine dust lay in the doorway, as if nobody had cleaned here | fine dust covered the doorway, as if nobody had cleaned there | (d) STIFF; *doormat* aus dem Vorschlag nicht übernommen (neues Ding) | D5 R2 #29 |
+
+D5-R2-Punkte unter (d): 8 übernommen (#3, #5, #14, #15, #16, #19, #20, #29; #26 als Folge von D4 #3 dazu).
+
+### Kapitelende — Varianten Runde 3
+
+| | 116 | 117 |
+|---|---|---|
+| **A (gewählt)** | A sound that skipped Nora's ears. | And landed in her stomach. |
+| B | A sound Nora didn't just hear. | She felt it in her stomach. |
+| C | A sound Nora felt more than heard. | Deep in her stomach. |
+| D | A sound Nora didn't feel in her ears. | But in her stomach. |
+
+A, weil es als einzige Variante beides behält: *nicht in den Ohren* (das Geräusch geht an den Ohren vorbei, ohne zu behaupten, sie höre es nicht) **und** das Fragment als Fortsetzung des Satzes davor, wie „Sondern im Magen.“. *landed* gibt den Schlag in den Bauch (A7). B verliert „nicht in den Ohren“ und das Fragment. C ist natürlich, aber *felt more than heard* sagt „auch gehört“ (schwächer). D ist die D4-Fassung; D5 und D6 lasen *didn't feel in her ears* als schief. Absatz 118 *He was growling at the door.* unverändert.
+
+### Nicht übernommen aus D5 R2 (Kurzbegründung)
+
+- #1, #6, #18, #21: Fehler im Original (Kofferraum, Schild vorher erwähnt, Passanten) → an den Autor.
+- #17, #30: *name card* steht in A8 Abschn. 6 (Regel a).
+- #34: *metallic taste on her tongue* ist A4-Motiv (a). *pennies* wäre zudem eine Floskel (c).
+- #2: *noodles* ist ein Körperbild (c); die Frage „steif vs. wackelig“ geht an den Autor (*Pudding* meint wackelig).
+- #10: zwei Kinderzimmer sind Inhalt des Originals.
+- #24, #25, #27, #28, #33-Vorschlag, Ende mit neuem Ereignis: würden Inhalt ändern oder hinzufügen. #28 ist eine Wiederholung aus dem Original.
+- #4, #7, #8, #9, #11, #12, #13, #22, #23, #31, #32, #35: über dem Limit von 8 oder Geschmack. Kandidaten für eine spätere Runde: #23 *stepped … step*, #32 *pricked*, #8 *crooked* 2×.
+- #36: Typografie (gerade Apostrophe). Das ist ein Satz-Thema, keine Textfrage; einheitlich vor dem Layout umstellen.
+
+### Prüfskript Runde 3
+
+`python3 Scripts/pruefe_en.py pruefen …DE_K01.md …EN_K01.md` → **0 Befund(e).**

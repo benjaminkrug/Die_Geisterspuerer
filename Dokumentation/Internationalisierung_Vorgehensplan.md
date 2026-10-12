@@ -167,6 +167,12 @@ Beide laufen durch **alle** Durchgänge aus Phase D. Ergebnis:
 3. Welche Fehlerarten tauchen auf? → in Bibel und Skripte übernehmen.
 4. **Pilot-Text als Probe für kostenlose Leser** (Abschnitt 4, Phase E2) — wenn sich jemand findet, schon jetzt.
 
+> **Nach dem Pilot ersetzt (2026-10-12):** Die Regel unten zählte Befunde — ein frischer Prüfer findet aber
+> immer ungefähr gleich viele (K1: 36 → 36, obwohl sein Urteil von „klingt übersetzt" auf „klingt original"
+> kippte). Gültig ist jetzt die **Fertig- und Abbruchregel** aus `EN_Bibel/Pilot/Pilot_Auswertung.md`,
+> Abschn. 5.2, und die **Vorrangregel** bei Konflikten zwischen Prüfern (Abschn. 5.1).
+> Alte Fassung zum Nachvollziehen:
+
 **Abbruchregel:** Wenn nach zwei Pilot-Runden der US-Lektor-Durchgang in Kap. 1 immer noch viele
 „klingt übersetzt"-Stellen findet, ist der Weg ohne Lektorat für dieses Buch zu schwach.
 Dann **dem Autor melden** — nicht stillschweigend weitermachen (siehe 8.1).
@@ -511,4 +517,10 @@ festem englischem Wortlaut, Stil-Brief Fassung 0. Neue Falle: *Knock, knock* (A4
 Unterlagen) → A8 Stil-Brief → A11 EN-Prüfungen + D8-Vergleichsmodus → **Pilot (C)** → A7 und A9 für
 die übrigen Kapitel → A10 mit Titel-Gegenprobe vor dem Cover. Begründung: A0, Abschnitt 5.
 
-**Als Nächstes:** A11 EN-Prüfskript + D8-Vergleichsmodus, dann Pilot (C).
+**A11 fertig, Pilot gelaufen (2026-10-12):** `EN_Bibel/Pilot/Pilot_Auswertung.md`. K1 und K9 in drei
+Runden; beide Kapitel nach Runde 2 vom US-Lektor als „klingt nicht übersetzt" beurteilt, 0 Bedeutungsfehler.
+Abbruchregel nicht ausgelöst. Bibel an 8 Stellen geändert (u. a. *Mom*, *basement*, Fragmente dosieren,
+Vorrangregel). Größte offene Schwäche: Alle Prüfer sind KI → menschliche Lesegruppen (E2) bleiben Pflicht.
+
+**Als Nächstes:** Autor prüft die Funde im deutschen Original (vor Phase B). Dann Phase B (Band 1 DE
+einfrieren) → Prüfpunkt 1 → Phase D. Bis dahin: A7 für die übrigen Kapitel von Band 1, A9.
