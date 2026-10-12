@@ -9,10 +9,10 @@ Plan: `Dokumentation/Internationalisierung_Vorgehensplan.md`, Phase A.
 |---|---|---|---|
 | A1 | Glossar (inkl. vorgezogener Titelprüfung aus A10) | [A1_Glossar.md](A1_Glossar.md) | ✅ **entschieden** (E1–E12 übernommen 2026-10-12) |
 | A2 | Stimmen der Figuren | – | ⏳ offen |
-| A3 | Witz-Liste (B1–B5, liest jeden Band ganz) | – | ⏳ offen · ergänzt die Sprachwitze in A6 für B2–B5 |
+| A3 | Witz-Liste (B1–B5, jeder Band ganz gelesen) | [A3_Witz_Liste.md](A3_Witz_Liste.md) | ✅ ≈ 280 Witze · 36 Umbauten · 2 Neuerfindungen · 13 Running Gags über Bände · Nebenfunde im Original |
 | A4 | Motiv-Liste | – | ⏳ offen |
 | A5 | Satz-Register | [A5_Satz_Register.md](A5_Satz_Register.md) | ✅ 43 Einträge · Englisch vorläufig bis Pilot |
-| A6 | Fallen-Liste | [A6_Fallen_Liste.md](A6_Fallen_Liste.md) | ✅ messbare Fallen B1–B5 · Sprachwitze B1 vollständig, B2–B5 mit A3 |
+| A6 | Fallen-Liste | [A6_Fallen_Liste.md](A6_Fallen_Liste.md) | ✅ vollständig B1–B5 (30 Fallen) |
 | A7 | Szenen-Absicht je Kapitel | – | ⏳ offen · Autor prüft |
 | A8 | Stil-Brief EN | – | ⏳ offen |
 | A9 | US-Zielwerte (Vergleichstitel) | – | ⏳ offen |

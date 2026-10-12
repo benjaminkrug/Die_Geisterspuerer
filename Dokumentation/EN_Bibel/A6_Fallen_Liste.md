@@ -7,22 +7,22 @@
 > **Wie benutzen:** Jede Falle hat eine **Lösungsrichtung**. Die Übersetzung (Phase D, Durchgang D2)
 > arbeitet diese Liste ab; das Prüfskript (A11) prüft die messbaren Fallen (F-A bis F-E) automatisch.
 >
-> ⚠️ **Grenze dieser Fassung:** Sprachwitze und Redewendungen lassen sich nicht zuverlässig per Suche
-> finden. Für Band 1 sind sie vollständig erfasst (manuell gelesen). **Für Band 2–5 kommen sie mit der
-> Witz-Liste (A3)** dazu, für die jeder Band ganz gelesen wird.
+> **Stand:** Alle fünf Bände sind vollständig gelesen (für A3). Sprachwitze und Redewendungen aus
+> Band 2–5 stehen unten in „Ergänzung B2–B5" und ausführlich in `A3_Witz_Liste.md`.
 
 ---
 
 ## Teil 1 · Messbare Fallen (alle 5 Bände, automatisch gefunden)
 
-### F-A · Stockwerke — 32 Stellen
+### F-A · Stockwerke — 36 Stellen
 
 | Ausdruck | Anzahl | Bände | Lösung |
 |---|---|---|---|
-| zweiten / zweite Stock | 22 | B1, B3, B4, B5 | **third floor** (Silbers Wohnung) |
+| zweiten / zweite / Zweiter Stock | 25 | B1, B3, B4, B5 | **third floor** (Silbers Wohnung) |
 | ersten Stock, Erste Etage, Etage | 6 | B1, B3, B4 | **second floor** (Familie) |
 | Erdgeschoss, Erdgeschosswohnung | 2 | B1 K15, B4 K2 | **first floor** / *the downstairs apartment* (Frau Held) |
 | obersten Stock | 1 | B4 K3 | **top floor** (Fabers Zimmer) |
+| Dritter Stock (Archiv, „Regal acht“) | 1 | B2 K4 | **fourth floor** |
 | dritten Stock | 1 | B5 K7 | Fabrikfenster → **fourth floor** — oder *a top-floor window* (Zahl ist dort unwichtig) |
 
 **Entscheidung:** Glossar E9 (US-Zählung). **Prüfskript:** jede deutsche Stockwerksangabe muss im
@@ -105,6 +105,20 @@ Herr Pawlik (4), Frau Kettner, Frau Weber (je 1). **Entscheidung:** Glossar E8 (
 | F21 | B4 K9: *„Zuhören der Schlüssel … Zuhören das Schloss"* | Wortspiel | funktioniert: *key / lock* (Register R19) |
 
 ---
+
+### Ergänzung B2–B5 (nach vollständigem Lesen, siehe `A3_Witz_Liste.md`)
+
+| # | Stelle | Falle | Lösungsrichtung |
+|---|---|---|---|
+| F22 | B3 K3, K4: „Pony" (Frisur) | ⚠️ falscher Freund | *bangs* |
+| F23 | „böse" | B2 Voss = *evil*; B3 Jonas, B5 Graven K11 („nicht böse auf einen Riegel") = *mad/angry* | je Stelle entscheiden, Register R33 |
+| F24 | B2 K2: „Ich fühle mich auch nicht gut aus." | Grammatik-Witz | neu erfinden (W2-02) |
+| F25 | B3 K1: „nicht unhöflich … unheimlich" | Klangspiel | W3-01 |
+| F26 | B3 K6 / B5 K14: zuhören / hinhören | **Themen-Wortspiel über zwei Bände** | gemeinsam festlegen (W3-05, W5-08) |
+| F27 | B3 K13: Theo duzt Pawlik, Nora siezt ihn | du/Sie geht verloren | über Ton lösen, nicht über Anrede |
+| F28 | B4 K12: „dritte Tür" | Wendung | *door number three* (W4-03) |
+| F29 | B2 K4: „Dritter Stock, Regal acht" (Archiv) | Stockwerk, von der ersten Suche verpasst (Großschreibung am Satzanfang) | *fourth floor* — das Skript sucht jetzt ohne Unterschied zwischen Groß- und Kleinschreibung (+4 Stellen) |
+| F30 | Running Gags über Bände | 13 Stück | Übersicht in A3 |
 
 ## Teil 3 · Was die automatische Suche **nicht** fand (geprüft, kein Befund)
 

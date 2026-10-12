@@ -27,7 +27,7 @@ ROOT = Path(__file__).resolve().parent.parent
 MIN_WOERTER = 4
 
 FALLEN = {
-    "Stockwerk": r"\b(Erdgeschoss\w*|Dachgeschoss\w*|Etage\w*|(?:ersten|zweiten|dritten|obersten|erste[rn]?|zweite[rn]?|dritte[rn]?|oberste[rn]?)\s+Stock(?:werk)?\w*)\b",
+    "Stockwerk": r"(?i)\b(Erdgeschoss\w*|Dachgeschoss\w*|Etage\w*|(?:ersten|zweiten|dritten|obersten|erste[rn]?|zweite[rn]?|dritte[rn]?|oberste[rn]?)\s+Stock(?:werk)?\w*)\b",
     "Mass/Zahl": r"\b\d+\s*(?:Grad|Meter|Zentimeter|Kilometer|Kilo|Gramm|Liter)\b|\b(?:ein|zwei|drei|vier|fünf|sechs|sieben|acht|neun|zehn|zwanzig|dreißig|hundert)\w*\s+(?:Grad|Meter|Zentimeter|Kilometer|Kilo|Kilogramm|Liter)\b",
     "Schule": r"\b(Klasse\w*|Gymnasium|Grundschule|Realschule|Gesamtschule|Zeugnis\w*|Hausaufgabe\w*|große[n]? Pause|Sommerferien|Herbstferien)\b",
     "Kultur/Alltag": r"\b(Adventskalender|Weihnachtsmarkt|Fasching|Karneval|Sankt Martin|Laterne\w*|Brezel\w*|Kakao|Müsli|Pfand\w*|Bäcker\w*|Kiosk|Schultüte|Bohnerwachs|Handy\w*|Altbau|Schrebergarten|Stammtisch|Feierabend|Kaffee und Kuchen|Mikrofiche)\b",

@@ -121,7 +121,24 @@
 
 ---
 
-## 6. Titelprüfung (vorgezogen aus A10)
+## 5a. Nachträge aus der Witz-Liste (A3, alle Bände gelesen)
+
+| Deutsch | Englisch | Wo / Warum |
+|---|---|---|
+| Geisternacht | **Ghost Night** | B5 — großgeschrieben wie ein Feiertag |
+| das Dazwischen | **the In-Between** | B5 K12, K16 |
+| Riegel (Schatten als Riegel) | **bolt** | B5 — Gegenstück zu *Anker/anchor* |
+| Emilie (Gravens Tochter) | **Emilie** | B5 K15 — Schreibweise behalten, nicht *Emily* |
+| Pony (Frisur) | **bangs** | B3 K3, K4 — ⚠️ falscher Freund (*pony* = Pferd) |
+| böse | **evil** (Voss, B2) · **mad/angry** (Jonas B3, Graven B5 K11) | ⚠️ je nach Stelle — siehe Register R33 |
+| Pausenbrot | **lunch / sandwich** | B5 K7 |
+| Sprachnachricht | **voicemail** | B5 K14 |
+| Trockenfutter | **kibble** | B5 K6 |
+| Weichei | **softie** | B4 K7 |
+| verdammt (mild) | **darn** | B3 K13 — Middle Grade USA |
+| Rente / Un-Rente | **retirement / un-retirement** | B5 K18 |
+
+
 
 Geprüft 2026-10-12 per Websuche, **nicht** direkt auf Amazon.com. **[Autor prüfen: Titel bei
 Amazon.com in der Suche eingeben, Kategorie Books → Children's Books.]**
@@ -149,4 +166,5 @@ Aug. 2026: Umzug in ein Spukhaus, Geistern beim Hinübergehen helfen, 8–12).
 | Datum | Eintrag | alt → neu | Grund |
 |---|---|---|---|
 | 2026-10-12 | angelegt | — | Phase A |
+| 2026-10-12 | Abschn. 5a ergänzt | — | Begriffe aus dem vollständigen Lesen von B1–B5 (A3) |
 | 2026-10-12 | E1–E12 entschieden | Vorschlag → **übernommen** | Autor: „Deine Empfehlungen waren alle super.“ Die Standard-Einträge (Abschn. 2–5) gelten damit ebenfalls. |

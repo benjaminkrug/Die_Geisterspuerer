@@ -71,7 +71,7 @@ bei der Übersetzung abgehakt werden können. Englische Vorschläge sind **vorl�
 | K15 | „Geisterfinger" / „Geistertinte. Für immer." (C) · „Noch nicht." (E) · Zoo ohne Gitter / „Geister gehen durch Wände" (E) · „Ich seh nichts. Aber ich seh, dass er was sieht." (E) · „Zäune frieren nicht im Sommer" (E) · Theos Rede: „Drei Punkte. Mit Beispielen." / „Punkt drei hab ich vergessen." (W/R zu K11) · „Geisterfinger" (R) |
 | K16 | „beim Zahnarzt im Wartezimmer" (W) · „Ich heul nicht. Staub." / „Sehr viel Staub hier oben." (W) · „der einzige Zehnjährige, den du kennst" (W) · „Einer von uns muss ausgeschlafen sein" (C) · „… brauche … größere Taschenlampe …" (W) |
 
-**Bilanz Band 1:** 19 Umbauten/Neuerfindungen, rund 75 übertragbare Witze. **Nur ein Witz hängt
+**Bilanz Band 1:** 16 Umbauten, 1 Neuerfindung, 2 bewusst wörtliche Fälle mit Hinweis, rund 90 übertragbare Witze. **Nur ein Witz hängt
 wirklich am Deutschen** (W1-08). Der Rest ist Situationskomik — gute Nachricht für die Übersetzung.
 
 ---
@@ -112,7 +112,7 @@ wirklich am Deutschen** (W1-08). Der Rest ist Situationskomik — gute Nachricht
 | K14 | „Wirklich weg?" (W) · „Schatten ist emotional schneller als wir." (W) |
 | K15 | „Zaun." – „Zaun." (C) · Mama erkennt Theos „besten aufrichtigen Gesicht" (W) · „Ich bin dabei. Das sage ich nur auch." (C) · „Er schläft auf der Visitenkarte. Als würde er sie bewachen." (W) |
 
-**Bilanz Band 2:** 10 Umbauten, davon **1 Neuerfindung** (W2-02). Zwei Running Gags laufen über
+**Bilanz Band 2:** 6 Umbauten, **1 Neuerfindung** (W2-02), 3 übertragbare Running Gags mit Hinweis, rund 50 übertragbare Witze. Zwei Running Gags laufen über
 mehrere Kapitel (Skala bis tot, Film-Sterbeszene) und **einer über zwei Bände** (*Gemütlich*).
 **Auffällig:** Band 2 hat deutlich weniger Witze als Band 1 — in K10, K11, K13 kaum einer. Das ist
 eine Frage an das Original (Grusel-Humor-Balance), nicht an die Übersetzung.
@@ -194,3 +194,124 @@ auch Figurenentwicklung („Ich rede, wenn ich Angst habe").
 **Bilanz Band 4:** 5 Einträge in Teil A, keine Neuerfindung. Band 4 hat die **wenigsten Witze**
 der Reihe — gewollt: das ernsteste Thema (Abschied von Silber). Der Humor ist fast nur noch **W**
 (Wärme im Trauern). Gerade deshalb darf in der Übersetzung keiner verloren gehen.
+
+---
+
+## Band 5 — Der Schleier
+
+### Teil A · Umbauen / neu erfinden
+
+| # | Stelle | Deutsch | Fkt. | Typ | Englisch (Vorschlag) | Warum |
+|---|---|---|---|---|---|---|
+| W5-01 | K1 | „Geisternacht. Klingt nach etwas, das man auf keinen Fall googeln sollte." | E | Ü | *“Ghost Night. Sounds like something you should definitely not google.”* | *Geisternacht* → **Ghost Night** (neu im Glossar) |
+| W5-02 | K3 | „Okay. Neuer Rekord. Ich hasse neue Rekorde." | E/R | Ü | *“Okay. New record. I hate new records.”* | **R** zu B2 K4 („Rekord." nach elf Sekunden) |
+| W5-03 | K6 | „Er ist ein Hund, Nora. Er frisst Socken. Er hat Angst vor dem Staubsauger." | W/R | Ü | *“… He eats socks. He's scared of the vacuum cleaner.”* | **R** zu B3 K3 („Schatten hat Angst vor dem Staubsauger") — dasselbe Wort |
+| W5-04 | K6 | „Also ist unser Hund zweihundert Jahre alt, rettet heimlich die Welt, und wir geben ihm Trockenfutter." | W | U | *“… and we feed him kibble.”* | *Trockenfutter* → *kibble* |
+| W5-05 | K7 | „Ich teile mein **Pausenbrot**, und du bleibst da … Du hast das Brot schon gegessen. Also. **Vertrag ist Vertrag.**" | E | U | *“I share my lunch, and you stay put … You already ate the sandwich. So. A deal's a deal.”* | *Pausenbrot* → *lunch/sandwich*; *Vertrag ist Vertrag* → *a deal's a deal*. **R** in K7 („Ich hab kein Pausenbrot mehr. Der Hund hat's gekriegt.") |
+| W5-06 | K11 | „Nora, das ist der Teil, wo ich was Lustiges sage." – „Nora. Mir fällt nichts ein." | C | Ü | *“Nora, this is the part where I say something funny.” – “Nora. I can't think of anything.”* | ⚠️ **Der wichtigste Nicht-Witz der Reihe:** Das Fehlen des Witzes ist der Schreck. Wörtlich und knapp lassen |
+| W5-07 | K14 | „Das ist wie eine **Sprachnachricht** …" | W | U | *“It's like a voicemail …”* | US: *voicemail* |
+| W5-08 | K14 | „Ich hör hin … Dann hören Sie doch jetzt mal richtig hin." | C/R | U | *“I'm hearing it … So why don't you actually* hear *it for once.”* | ⚠️ **R über Bände** zum Themen-Wortspiel *zuhören/hinhören* (B3 W3-05). Beide Stellen gemeinsam festlegen |
+| W5-09 | K14 | „Ich rede seit zehn Jahren, und keiner hört zu. Und ausgerechnet ein zweihundert Jahre alter Geist kriegt meine beste Rede." | W/R | Ü | *“I've been talking for ten years and nobody listens. And of all people, a two-hundred-year-old ghost gets my best speech.”* | **R** zu B1 K15 (Theos vorbereitete Rede) |
+| W5-10 | K18 | „… unseren Hund in **Rente** geschickt." – „In **Un-Rente**." | W | U | *“… and sent our dog into retirement.” – “Into un-retirement.”* | Wortneubildung hält im Englischen; prüfen, ob Kinder *un-retirement* verstehen — sonst *“Into real life.”* |
+| W5-11 | K18 | „Andere Familien haben ein Aquarium." | W/R | Ü | *“Other families have a fish tank.”* | **Schluss des Running Gags** „Andere Kinder/Familien …" (B1 K6 → B3 K16 → B4 K16 → B5 K18) |
+
+### Teil B · Übertragbar (abhaken)
+
+| Kap. | Witze (Kurzform, Funktion) |
+|---|---|
+| K1 | „Weißt du, was Karten normalerweise tun? Nichts. Das ist ihr ganzer Beruf." (E) · „Jemand mit schöner Handschrift und richtig schlechten Nachrichten." (E) |
+| K2 | „Geister im Fernsehen winken immer." (E) · „Willkommen im Klub." (E) · Erzähler: „**Solange Theo Witze machte, war die Welt nicht ganz aus den Fugen.**" (die Humor-Regel der Reihe im Text selbst — Schlüsselsatz für A2) |
+| K3 | „Ich lüge dich nicht an." (C, Nora) · „Nur eins? Ich verstehe ungefähr alles nicht." (E) · „Vielleicht ist er ein höflicher Geist. Wie Faber." (C) |
+| K4 | „Nein danke. Wir stehen gern in der Kälte. Kälte ist super. Wir sind Kälte-Fans." (E) · „Er redet nur. Geister reden viel." (E) |
+| K5 | „Er träumt vom Stadtrand." – „Iss dein Brot." – „Ich sag ja nur." (R40) · „Wie liest man ein Notizbuch falsch?" (C) · „Der ist ja fast so was wie traurig." / „Zurücknehmen. Nicht traurig. Überhaupt nicht traurig." (E) |
+| K6 | „Anker. Wie am Schiff?" (C) |
+| K9 | Erzähler: „Er war zehn und hasste heiße Milch. Er trank sie trotzdem." (W) · „Ist das jetzt so, wie wenn Erwachsene uns nicht hören? Nur andersrum?" (C) |
+| K10 | „**Ich hab dich mir größer vorgestellt.**" (E — einziger Satz, den Theo im Gewölbe herausbringt; Timing exakt halten) |
+| K13 | „Du hattest plötzlich zwei Hände frei. Ist mir aufgefallen." (W) · „Merk ich auch grad." (C) · „Kurz dachte ich, ich werde ein Geist … so gespukt, dass hier sofort alle ausgezogen wären." (E) |
+| K14 | „Hab ich das grade gemacht?" (W) |
+| K16 | „Sag mir, dass das die gute Sorte Licht ist. Ich hab genug graues Dazwischen gesehen für ein ganzes Leben." (E) |
+| K17 | „Sie haben sich umgedreht. Ist doch was." – „Ja. Ist doch was." (W — *“That's something.”*) · „Zweihundert Jahre alt, und du hast nie gelernt zu sitzen. Wir fangen morgen an." (W) |
+| K18 | „Ich hab beim Frühstück auf tote Leute geguckt." / „Guter Punkt." (W) · Kakao (→ *hot chocolate*) |
+
+**Bilanz Band 5:** 11 Einträge in Teil A, keine echte Neuerfindung. Band 5 setzt Humor am
+gezieltesten ein: Er fehlt im Gewölbe fast ganz — und **das Fehlen selbst wird zum Schreck** (W5-06).
+Am Ende kehrt er als Wärme zurück. Fünf Running Gags laufen hier aus.
+
+---
+
+## Übersicht · Running Gags über Bände
+
+Diese Stellen müssen **gemeinsam** übersetzt werden — wer Band 1 übersetzt, legt fest, was Band 5 sagt.
+
+| Gag | Stellen | Was gleich bleiben muss |
+|---|---|---|
+| **„Andere Kinder/Familien …"** | B1 K6 (Videospiele) → B3 K16 (Sticker) → B4 K16 (Urlaub) → B5 K18 (Aquarium) | Bauweise: *Other kids/families … We …* |
+| **Skala** | B2 K3 (eins bis tot: sieben) → B2 K8 (sechs) → B4 K1 (von diesem Morgen bis zu meinem ganzen Leben) | *On a scale from … to …* |
+| **Film-Sterbeszene** | B1 K3/K7/K10 (Horrorfilm, Kino) → B2 K2 → B2 K15 („definitiv") | *the part in the movie where everyone dies* |
+| **„Weißt du, was komisch ist?"** | B3 K16 → B4 K1 (Nora!) → B4 K16 | Register R41 |
+| **„Ich sag ja nur." / „Ich will ja nichts sagen …"** | B3, B4, B5 | Register R40, R42 |
+| **„Theo hatte recht"** | B1 K4 (Grabstein) → B3 K6 (Zeuge mit Fell) → B3 K9 (falls jemand mitschreibt) | *Theo was right* — wortgleich |
+| **Staub statt Tränen** | B1 K16 → B3 K15 | *dust* |
+| **„Gemütlich"** | B1 K2 → B2 K5 | *Cozy.* |
+| **Das Gesicht** | B2 K8 → B3 K1 | *making the face* |
+| **Rekord** | B2 K4 → B5 K3 | *record* |
+| **Staubsauger** | B3 K3 → B5 K6 | *vacuum cleaner* |
+| **Theos Rede** | B1 K15 → B5 K14 | *speech* |
+| **zuhören / hinhören** (Thema!) | B3 K6 → B5 K14 | *listen / hear* — gemeinsam entscheiden |
+
+---
+
+## Neu für das Glossar (A1) — beim Lesen gefunden
+
+| Deutsch | Englisch | Wo |
+|---|---|---|
+| Geisternacht | **Ghost Night** | B5 |
+| das Dazwischen | **the In-Between** | B5 K12, K16 |
+| Riegel (Schatten als Riegel) | **bolt** | B5 K11, K16, K17 |
+| Emilie (Gravens Tochter) | **Emilie** | B5 K15 |
+| Pony (Frisur) | **bangs** | B3 K3, K4 — falscher Freund |
+| Pausenbrot | **lunch / sandwich** | B5 K7 |
+| Sprachnachricht | **voicemail** | B5 K14 |
+| Trockenfutter | **kibble** | B5 K6 |
+| Weichei | **softie** | B4 K7 |
+| verdammt (Pawlik) | **darn** | B3 K13 |
+
+## Nebenfunde im deutschen Original (für den Autor, nicht für die Übersetzung)
+
+Beim vollständigen Lesen aufgefallen. **Regel:** Die Übersetzung folgt dem Original. Was hier falsch
+ist, sollte zuerst **auf Deutsch** korrigiert werden — sonst wird es mitübersetzt.
+
+| Band | Stelle | Befund |
+|---|---|---|
+| B2 | K2 Z.147 · K3 Z.485 | „dicker, dunklerer Moos" / „Der Moos" → *das* Moos („dickes, dunkleres Moos", „Das Moos") |
+| B2 | K3 Z.621 | „Hängte an nichts" → „Hing an nichts" |
+| B2 | K4 Z.721 · K5 Z.999 | „Zerfransen Papierränder" / „zerfransen" → „Zerfranste" / „zerfranst" |
+| B2 | K7 Z.1457 | „hinterm Mauer" → „hinter der Mauer" |
+| B2 | K9 Z.1875 | „Gibt mir die Taschenlampe" → „Gib mir" |
+| B2 | K11 Z.2279 | „Ich sieh dich" → „Ich seh dich" |
+| B2 | K12 Z.2395 | „kein Gegenbeleg gibt" → „keinen Gegenbeleg gibt" |
+| B2 | K12 Z.2431 | „der Schlimmste Moment" → „der schlimmste Moment" |
+| B5 | K5 | Nora erinnert sich, Frau Held habe „im Sommer" gesagt *„Niemand hört mir zu"* und ihnen „den ersten echten Hinweis" gegeben. **Frau Held kommt in Band 1 nicht vor** (weder alte noch umgebaute Fassung). Ähnlich B3 K2 („bei Frau Held gesehen, im Treppenhaus, vor langer Zeit"). [prüfen: Rest einer früheren Planung?] |
+| B5 | K1, K3, K5 | „Nicht an der Wohnungstür, wie damals in dem alten Haus" und eine **Balkontür** — klingt, als wohne die Familie inzwischen woanders. Kanon: Kirchgasse 14 in allen Bänden. [prüfen] |
+| B5 | K14 | Theo: „Sie hat's ja **hundert** Jahre lang gemacht" — sonst überall zweihundert. Kann Theos Ungenauigkeit sein [prüfen] |
+| B5 | K9 Z.1142 | Zwei wörtliche Reden direkt hintereinander ohne Begleitsatz („Das ist nicht das Kind." „Das war nie das Kind …") — Satzzeichen-Rest |
+
+---
+
+## Gesamtbilanz Band 1–5
+
+| | B1 | B2 | B3 | B4 | B5 | Summe |
+|---|---|---|---|---|---|---|
+| Umbauen (U) | 16 | 6 | 6 | 3 | 5 | **36** |
+| Neu erfinden (N) | 1 | 1 | 0 | 0 | 0 | **2** |
+| Übertragbar mit Hinweis (Teil A: Running Gags, Fallen) | 2 | 3 | 5 | 2 | 6 | **18** |
+| Übertragbar (Teil B, gezählt) | 89 | 53 | 35 | 23 | 26 | **226** |
+| **Summe** | **108** | **63** | **46** | **28** | **37** | **≈ 280** |
+
+**Was das für die Übersetzung heißt:**
+1. **Nur 2 von rund 280 Witzen hängen wirklich am Deutschen** (W1-08, W2-02). Der Humor der Reihe ist
+   Situations- und Figurenkomik — die übersetzt sich gut.
+2. Das Risiko liegt woanders: in **13 Running Gags über Bände**. Werden sie in Band 1 anders übersetzt
+   als in Band 5, merkt das der Leser. → Diese Übersicht ist für die Übersetzung so wichtig wie das Register.
+3. **Drei Wörter sind gefährlich, weil sie harmlos aussehen:** *Pony* (Pferd), *böse* (je nach Stelle
+   *evil* oder *mad*), *Handy* (Adjektiv).

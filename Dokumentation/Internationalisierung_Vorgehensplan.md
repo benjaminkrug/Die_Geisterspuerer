@@ -497,5 +497,7 @@ Schreibregeln S1–S6 stehen im Stil-Leitfaden für Staffel 2.
 **Wichtigster Fund:** Der wörtliche Titel *The House That Whispers* ist besetzt (Middle-Grade-Geisterroman,
 Little, Brown 2023) → Vorschlag *The Whispering Window* (A1, E2).
 
-**Als Nächstes:** A3 Witz-Liste (liest B2–B5 ganz, vervollständigt
+**A3 Witz-Liste fertig (2026-10-12):** alle fünf Bände gelesen, ≈ 280 Witze, nur 2 hängen am Deutschen; 13 Running Gags über Bände; Nebenfunde im deutschen Original (u. a. 8 Tippfehler in Band 2, ein Verweis in Band 5 auf eine Frau-Held-Szene, die es in Band 1 nicht gibt).
+
+**Als Nächstes:** A2 Stimmen, A4 Motive → A11 EN-Prüfungen + D8-Vergleichsmodus → A7–A10 → Pilot (C).
 A6) → A2 Stimmen, A4 Motive → A11 EN-Prüfungen + D8-Vergleichsmodus → A7–A10 → Pilot (C).
