@@ -105,3 +105,176 @@ Lauf: `python3 Scripts/pruefe_en.py pruefen DE_K09.md EN_K09.md`
 7. **Satzlänge 18 Wörter** — einmal gerissen (Abs. 18, erst 19 Wörter), gekürzt. Englisch braucht Artikel und Hilfsverben; die Grenze ist eng, aber machbar.
 8. **Glossar-Lücke** — *Heizung* (→ *the heat*, US) fehlt; *Schwelle* (→ *doorway*) ebenso. Vorschlag: in A8 Abschn. 6 aufnehmen.
 9. **Varianten-Pflicht für alle F9-Stellen** — F9 umfasst das ganze Tagebuch (14 Einträge). Varianten für jede Zeile wären unverhältnismäßig; ich habe die drei Stellen mit echter Wahl ausgearbeitet. Die Regel sollte „Fallen mit Entscheidung“ sagen, nicht „jede Fallen-Stelle“.
+
+## Runde 2
+
+Grundlage: A8 (neu: Fragmente dosiert, keine Orts-Inversion, Worttabelle Abschn. 6), A2 Abschn. 3, A5 R28 (*basement*), Berichte D3, D4, D5, D6.
+D6 hat keine Nummern; ich habe seine Funde in Lesereihenfolge durchnummeriert (D6-1 … D6-50, eine Tabellenzeile/ein Aufzählungspunkt = ein Fund).
+„teilw.“ = angenommen, aber mit eigener Lösung statt des Vorschlags. Teilweise Annahmen zählen als **angenommen**.
+
+### Zählung
+
+| Durchgang | Funde | angenommen | abgelehnt |
+|---|---|---|---|
+| D3 Rückübersetzung | 12 | 6 | 6 |
+| D4 Bedeutung | 7 | 7 | 0 |
+| D5 US-Lektor | 54 | 36 | 18 |
+| D6 Kinderleser | 50 | 25 | 25 |
+| **Summe** | **123** | **74** | **49** |
+
+### Bibel-Änderungen umgesetzt (unabhängig von Funden)
+*cellar* → **basement** (Abs. 70 ×2, 74 = R28, 91, 96) · *ceiling lamp* → **ceiling light** · *muzzle* → **nose** · *blamed it on the heat* → **blamed it on the radiator** (Abs. 24 *turned up the heat* bleibt, A8) · Fragment-Ketten in ruhigen Passagen verbunden (Abs. 18, 21) · keine Orts-Inversion im Kapitel (geprüft; *Then came September* entfernt).
+
+### D3 · Rückübersetzung
+
+| Fund | Entscheid | Grund |
+|---|---|---|
+| D3-1 Abs. 9 light bulb / ceiling lamp | angenommen | *ceiling light* (A8 Abschn. 6). |
+| D3-2 Abs. 13 daydreaming | abgelehnt | Richtig verstanden, kein Änderungsbedarf. |
+| D3-3 Abs. 17 picture took shape | angenommen (teilw.) | *a picture of Lina took shape* — Bezug klar; *friends*/*fair* richtig verstanden. |
+| D3-4 Abs. 20 pool / corner store | abgelehnt | Richtig verstanden, Glossar. |
+| D3-5 Abs. 29 *At our place* | angenommen | Sie sind in der eigenen Wohnung (Linas alte); → *Like the knocking we hear.* |
+| D3-6 Abs. 38 heat | angenommen | *radiator* (A8). |
+| D3-7 Abs. 42 *Not even her* | angenommen | → *Even she didn't believe her.* |
+| D3-8 Abs. 54 wer fast lacht | abgelehnt | Mehrdeutigkeit steht im Original („Fast ein Lachen.“). |
+| D3-9 Abs. 65 *This is home* | angenommen | → *We are home, Theo.* (s. D4-5). |
+| D3-10 Abs. 68 kursives *Only two entries left* | abgelehnt | Fehler im Original, geht an den Autor. |
+| D3-11 Abs. 81 *Alone* vs. Luna | abgelehnt | Steht so im Original, geht an den Autor. |
+| D3-12 Abs. 84 kleines Herz | abgelehnt | Einführung des Herzens wäre neuer Inhalt. |
+
+### D4 · Bedeutung
+
+| Fund | Entscheid | Grund |
+|---|---|---|
+| D4-1 heat | angenommen | *radiator* — nach A8, nicht *heater/furnace*. |
+| D4-2 pulls → drags | angenommen | *drags me away* hält die Wucht von *zerren*. |
+| D4-3 slap | angenommen | *like a punch* — Hieb, kein Kränkungs-Beiklang. |
+| D4-4 throat tight | angenommen | *Nora's throat squeezed shut.* = zugeschnürt. |
+| D4-5 *This is home* | angenommen | *We are home, Theo.* — behält das *Wir* (Zusammensein); die Langform ohne Kurzform betont *are* von selbst und vermeidet den fröhlichen Ankunftsruf *We're home!*; keine Kursive, weil das Original nichts betont. |
+| D4-6 *such a baby* | angenommen | *making such a fuss* / *I wasn't making a fuss* — näher an *sich anstellen*; Echo zwischen Abs. 47 und 58 bleibt. |
+| D4-7 *Closer* | angenommen | *Closing in.* — Fragment am Kapitelende bleibt (A8). |
+
+### D5 · US-Lektor
+
+| Fund | Entscheid | Grund |
+|---|---|---|
+| D5-1 went back to normal | angenommen | *then steadied*. |
+| D5-2 temples | angenommen | *Nora's heart pounded.* |
+| D5-3 caption fragment | abgelehnt | Kapitelanfang — Fragmente bleiben (A8 Abschn. 2 neu). |
+| D5-4 *that … now* | angenommen (teilw.) | *As if he knew something important was happening.* — *this mattered* wäre blasser. |
+| D5-5 Alert. But calm. | abgelehnt | A8 nennt genau diese Stelle als Beispiel, das bleibt. |
+| D5-6 said → asked | abgelehnt | Original *sagte*; A8-Tabelle *said*; *“…?” Nora said.* ist im US-MG üblich. |
+| D5-7 ceiling lamp | angenommen (teilw.) | *ceiling light* (A8), nicht *bare bulb*. |
+| D5-8 first page continuity | abgelehnt | Widerspruch im Original, gemeldet (Abschn. 3, Nr. 3). |
+| D5-9 Dear Diary | abgelehnt | Neuer Inhalt. |
+| D5-10 scolded | angenommen (teilw.) | *got mad at me* — *yelled* zu stark, Großbuchstaben-*AGAIN* neu. |
+| D5-11 it was good | angenommen | *But after school was nice.* |
+| D5-12 trip to the roof | angenommen (teilw.) | *One entry was about going up on the roof …* — *snuck* wäre neuer Inhalt. |
+| D5-13 it said / Kursive | angenommen (teilw.) | *she had written*; Zitat bleibt aufrecht wie im Original. |
+| D5-14 picture | angenommen (teilw.) | *a picture of Lina took shape*. |
+| D5-15 at least she had a dog | angenommen | *At least she had Luna.* — gleicher Sinn, ohne Missverständnis. |
+| D5-16 rough | angenommen | *thick*. |
+| D5-17 Then came September | angenommen (teilw.) | *Then it was September.* |
+| D5-18 Something strange | angenommen (teilw.) | *Something strange happened.* — *weird* bleibt Theos Wort (R41). |
+| D5-19 in rhythm | angenommen (teilw.) | *to a beat* (= Takt, auch D6) statt *pattern*; Theos Echo angepasst. |
+| D5-20 tongue stuck | angenommen | *Her mouth went dry.* |
+| D5-21 refuses | angenommen | *won't* (Abs. 35, 70). Luna-Verweigerung bleibt. |
+| D5-22 heat logic | angenommen (teilw.) | Wort → *radiator*; Theos Aussage selbst bleibt (Originalfehler, an Autor). |
+| D5-23 Not even her | angenommen (teilw.) | *Even she didn't believe her.* — Rede bleibt in zwei Teilen. |
+| D5-24 says imagination | angenommen (teilw.) | *Dad says it's my imagination …* — hält Dreier und Nomen → Verb. |
+| D5-25 someone → it | abgelehnt | Wechsel *jemand → es* steht im Original. |
+| D5-26 page/pages | angenommen (teilw.) | *The paper shook in her hands.* — Seiten zittern weiter, nicht Noras Hände. |
+| D5-27 Stop it — wer? | angenommen | Innere Anführung ‘…’ (A8 Abschn. 5); Wortlaut und Reihenfolge gleich. |
+| D5-28 heard him hold his breath | angenommen (teilw.) | *She heard his breath catch.* — hörbar, Hören bleibt. |
+| D5-29 shut you down | angenommen (teilw.) | *I cut you off.* — *being a baby* wäre neues Echo. |
+| D5-30 apology fragments | abgelehnt | Stocken steht in der Rede des Originals, gesprochen natürlich. |
+| D5-31 hot/hot, Reihenfolge | abgelehnt | Wiederholung und Absatzfolge sind Original. |
+| D5-32 There was a pressure | angenommen (teilw.) | *A weight sat in her chest, heavy and tight.* — nicht streichen. |
+| D5-33 Briefly | angenommen | *Just once. A quick one.* |
+| D5-34 choked | angenommen (teilw.) | *all choked up* statt *thick* (schon in Abs. 20). |
+| D5-35 blinked it away | angenommen (teilw.) | *She blinked the sting away.* — behält „weg“. |
+| D5-36 Ort klären | abgelehnt | Zusatzsatz wäre neuer Inhalt; Abs. 30 (*the knocking we hear*) nimmt die Verwirrung schon raus. |
+| D5-37 kursives Only two entries left | abgelehnt | Originalfehler, an Autor. |
+| D5-38 three ways of saying it | abgelehnt | Streichen = weglassen (A8 Abschn. 7.6). |
+| D5-39 cellar | angenommen | *basement* (A8, R28). |
+| D5-40 the others | angenommen | *everybody else*. |
+| D5-41 Empty … empty | angenommen (teilw.) | *Empty.* / *The next page was blank.* — Wortwechsel, nichts gestrichen (A7). |
+| D5-42 Reihenfolge Abs. 79 | abgelehnt | Satzfolge und Doppelung sind Original. |
+| D5-43 tears just ran | angenommen | *kept coming*. |
+| D5-44 nobody who believed her | angenommen (teilw.) | *And no one to believe her.* — Fragment am Emotionshöhepunkt bleibt. |
+| D5-45 the children | angenommen | *they*. |
+| D5-46 His warm body … | abgelehnt | Nur zwei Fragmente, Gefühlsmoment (A8 neu: erst ab drei in ruhigen Passagen). |
+| D5-47 heart setup | abgelehnt | Neuer Inhalt. |
+| D5-48 Someone listened | abgelehnt | Teil von R16-Absatz; *listen* ist das Reihenthema; *believes you now* ändert den Sinn. |
+| D5-49 ten-year-old boy | abgelehnt | Der Blick von außen steht so im Original („Nur ein zehnjähriger Junge“). |
+| D5-50 thicker. Closer. | angenommen (teilw.) | *seemed to grow thicker. Closing in.* (mit D4-7). |
+| D5-51 cracked / house | angenommen (teilw.) | *deep in the building, something creaked* — *thudded* zu weit vom *Knacken*. |
+| D5-52 letzte Zeile | angenommen (teilw.) | *“That,” she said quietly, “is what we've got to find out.”* — kindlicher, Begleitsatz in der Mitte bleibt (Pause, Vorgabe). |
+| D5-53 Wiederholungen quietly/whisper/… | abgelehnt | Gesten so oft wie im Original (A5 Abschn. 5); Schatten-Reaktionen bleiben. |
+| D5-54 70er-Details | abgelehnt | Neuer Inhalt; A2 verbietet gespielten Zeitkolorit. |
+
+### D6 · Kinderleser
+
+| Fund | Entscheid | Grund |
+|---|---|---|
+| D6-1 L37 Block langweilig | angenommen (teilw.) | Fragment-Kette verbunden (*School days, friends, cotton candy at the fair.*), Inhalt bleibt. |
+| D6-2 L43 | angenommen | *She kept turning pages: summer, the pool, …* (ruhige Passage, 3 Fragmente). |
+| D6-3 Schuld nach dem Witz / Reihenfolge | abgelehnt | Absatzfolge ist Original (1:1). |
+| D6-4 L129–143 zu lang | abgelehnt | Original-Inhalt. |
+| D6-5 L169–177 zu langsam | abgelehnt | Original-Inhalt. |
+| D6-6 zu viele Shadow-Reaktionen | abgelehnt | Jede Reaktion steht im Original (Code R44). |
+| D6-7 temples | angenommen | *heart pounded*. |
+| D6-8 amber | abgelehnt | Festes Motivwort (A4). |
+| D6-9 ceiling lamp | angenommen | *ceiling light*. |
+| D6-10 scolded | angenommen | *got mad at me*. |
+| D6-11 pricked | angenommen | *His ears perked up.* |
+| D6-12 astronomer / constellations | abgelehnt | Kontext erklärt es (D6 selbst: „fine“). |
+| D6-13 in rhythm | angenommen | *to a beat*. |
+| D6-14 Choppier | angenommen | *shorter and shorter* (zwei Synonyme → englische Steigerung). |
+| D6-15 heat | angenommen | *radiator*. |
+| D6-16 water pipes unbekannt | abgelehnt | Rückgriff auf K3, gewollt. |
+| D6-17 muzzle | angenommen | *nose* (A8). |
+| D6-18 anchor | abgelehnt | Reihenmotiv (Glossar, B5). |
+| D6-19 cellar | angenommen | *basement*. |
+| D6-20 sarcasm | abgelehnt | Bekannt genug, Theos Kernwort. |
+| D6-21 clenched | angenommen | *twisted*. |
+| D6-22 cracked | angenommen | *creaked*. |
+| D6-23 At least she had a dog | angenommen | *Luna*. |
+| D6-24 woher weiß Nora das Todesdatum | abgelehnt | Original, frühere Kapitel. |
+| D6-25 kleines Herz | abgelehnt | Neuer Inhalt. |
+| D6-26 Only two entries left | abgelehnt | Originalfehler, an Autor. |
+| D6-27 Theo weint dreimal | abgelehnt | Original. |
+| D6-28 tongue stuck | angenommen | *mouth went dry*. |
+| D6-29 Once. Briefly. | angenommen | *Just once. A quick one.* |
+| D6-30 hear hold breath | angenommen | *heard his breath catch*. |
+| D6-31 Augen zu während des Gesprächs | abgelehnt | Original. |
+| D6-32 heiß/kalt/heiß | abgelehnt | Original-Bilder. |
+| D6-33 noch ein Witz | abgelehnt | Keine neuen Witze (A8, A7). |
+| D6-34 Luna am Ende | abgelehnt | Neuer Inhalt. |
+| D6-35 Vorlesen L147 | abgelehnt | Originalfehler, an Autor. |
+| D6-36 L75 Sprecher-Tag | abgelehnt | Keine Begleitsätze, die das Original nicht hat. |
+| D6-37 L185–195 Sprecher-Tag | abgelehnt | Dito. |
+| D6-38 Layout (Einzug, Schrift) | abgelehnt | Satz/Layout, nicht Übersetzung — weitergeben an Satz. |
+| D6-39 pulse pounded Alliteration | angenommen | Entfällt mit *heart pounded*. |
+| D6-40 constellations-Satz atemlos | abgelehnt | Ein Satz, 14 Wörter, im Rahmen. |
+| D6-41 *An entry about a trip …* | angenommen | Ganzer Satz *One entry was about going up on the roof …*. |
+| D6-42 sleepwalked | angenommen | *I've never walked in my sleep.* |
+| D6-43 scratch in rhythm (Aussprache) | angenommen | *to a beat*. |
+| D6-44 hot twice | abgelehnt | Original-Wiederholung. |
+| D6-45 his fur — wessen? | angenommen | *Shadow's fur*. |
+| D6-46 empty … empty | angenommen (teilw.) | *blank* im zweiten Absatz, nichts gestrichen. |
+| D6-47 Daten vorlesen | abgelehnt | US-Datumsformat ist Vorgabe (A8). |
+| D6-48 Rhythmus L105–119 (Umstellen) | abgelehnt | wie D6-3. |
+| D6-49 went back to normal | angenommen | *steadied*. |
+| D6-50 L15 *now* überflüssig | angenommen | gestrichen (mit D5-4). |
+
+### Prüfskript Runde 2
+
+`python3 Scripts/pruefe_en.py pruefen …DE_K09.md …EN_K09.md` → **0 Befund(e)**. Bericht: Absätze 99/99, Ein-Satz-Absätze 24/24, Dialog 42,8/42,1 %, Ausrufe 1/1. Der Ein-Satz-Fehlalarm aus Runde 1 tritt nicht mehr auf (Skript offenbar angepasst).
+
+### Neue Freilösungen dieser Runde (Format wie Abschn. 1)
+
+K9 · Absatz 30 · DE: „Wie das Klopfen. Bei uns.“ · EN: “Like the knocking we hear.” · frei, weil: *At our place* klang, als seien sie woanders (D3, D5); sie sitzen in der eigenen Wohnung.
+K9 · Absatz 34 · DE: „Kürzer. Knapper.“ · EN: “shorter and shorter” · frei, weil: zwei Synonyme ohne gutes englisches Paar; Steigerung trägt denselben Sinn.
+K9 · Absatz 66 · DE: „Wir sind zu Hause, Theo.“ · EN: “We are home, Theo.” · frei, weil: ersetzt *This is home* (D4-5).
+K9 · Absatz 99 · DE: „müssen wir herausfinden“ · EN: “is what we've got to find out” · frei, weil: *have to* klang förmlich (D5-52); *'ve got to* = müssen im Kindermund.
