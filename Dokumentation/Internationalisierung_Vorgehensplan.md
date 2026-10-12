@@ -258,10 +258,14 @@ KDP-Angabe: **„Übersetzung: KI-generiert"** [prüfen: aktueller Wortlaut].
 - Bitte: Kap. 1–3 lesen, **nur** drei Fragen beantworten: *Wo hast du aufgehört? Was klang komisch?
   Würdest du weiterlesen?* (Claude erstellt den Bogen)
 - Jede Antwort geht in die Lernschleife (E4).
+- **Stand 2026-10-12:** Der Autor kennt keine Testleser persönlich → Lesegruppen mit dem Anschreiben
+  `EN_Bibel/E2_Anschreiben_Testleser.md`. Kommen keine Antworten, trägt E3 die Absicherung allein.
 
 **E3 Stiller Start:** Band 1 erscheint, aber **2–4 Wochen ohne Werbung**. In dieser Zeit lesen nur
 wenige Käufer + die Leser aus E2. Alles, was auffällt, wird korrigiert und neu hochgeladen —
 kleine Textänderungen brauchen bei KDP keine neue Ausgabe. **Erst danach** Werbung.
+Weil die Reihe in **Kindle Unlimited** ist (9.3): Die gelesenen Seiten (KENP) pro Tag zeigen schon im
+stillen Start, ob Leser früh abbrechen — auch ohne Testleser.
 
 **E4 Lernschleife:** Jeder Befund (aus D3–D7, E2, E3) wird einsortiert — Glossar? Stimme? Witz?
 Grammatik? Germanismus? — und **in Bibel und Skripte übernommen**. Gezählt wird die
@@ -470,27 +474,28 @@ Leser (E2).
 
 ---
 
-## 9. Offene Fragen an den Autor
+## 9. Entscheidungen des Autors (2026-10-12)
 
-| # | Frage | Wofür |
-|---|---|---|
-| 9.1 | Kennen Sie englischsprachige Leser (gern Familien mit Kindern 9–12), die kostenlos Kap. 1–3 lesen würden? | E2 — das wichtigste Signal von außen |
-| 9.2 | Wie hoch darf das monatliche Ads-Budget für Englisch sein? | E3, Prüfpunkt 2 |
-| 9.3 | Ist die Reihe in Kindle Unlimited? | E-Book EN in KU? |
-| 9.4 | Vorrang bei Zeitknappheit: Staffel 2 oder Englisch? | Zeitplan |
-| 9.5 | „Frau Silber" oder „Mrs. Silber"? (Vorschlag kommt in A1) | Glossar |
+| # | Frage | Antwort | Folge |
+|---|---|---|---|
+| 9.1 | Englischsprachige Testleser bekannt? | **Nein** | E2 läuft über Lesegruppen (Anschreiben: `EN_Bibel/E2_Anschreiben_Testleser.md`). Der **stille Start (E3)** wird zur wichtigsten Absicherung, unterstützt durch die KU-Lesedaten (9.3). |
+| 9.2 | Monatliches Ads-Budget EN | offen | wird erst vor dem Launch gebraucht (2027) |
+| 9.3 | Kindle Unlimited? | **Ja, alle deutschen E-Books** | Englische E-Books **ebenfalls in KU**. Während des stillen Starts zeigen die gelesenen Seiten (KENP), **wie weit** englische Leser im Schnitt kommen — grob, aber ein Lesersignal ohne Testleser. (Die genaue Ausstiegsstelle zeigt KENP nicht.) |
+| 9.4 | Vorrang Staffel 2 oder Englisch? | **Beides parallel** | Staffel 2 läuft weiter; Phase A nebenher. Die Übersetzung startet nach Prüfpunkt 1. |
+| 9.5 | „Frau" oder „Mrs."? | **Mrs.** (Glossar E8) | — |
+| 9.6 | Doppelter Satz B3 K15 / B4 K15 | zuerst „Band 4 ändern" | **Nicht geändert:** Der Satz ist laut Band-4-Planung ein gewolltes Echo (Murmel ↔ Medaillon). Meine Frage beruhte auf einer falschen Annahme. Jetzt Register R43. |
 
 ---
 
 ## Stand und nächster Schritt
 
 **Phase A gestartet 2026-10-12** — Stand in `Dokumentation/EN_Bibel/README.md`:
-A1 Glossar (Entwurf, **12 Entscheidungen des Autors offen**), A5 Satz-Register (42 Einträge),
+A1 Glossar (**entschieden**, alle 12 Vorschläge übernommen), A5 Satz-Register (42 Einträge),
 A6 Fallen-Liste (messbar B1–B5, Sprachwitze B1), A11 Extraktions-Skript mit Selbsttest.
 Schreibregeln S1–S6 stehen im Stil-Leitfaden für Staffel 2.
 
 **Wichtigster Fund:** Der wörtliche Titel *The House That Whispers* ist besetzt (Middle-Grade-Geisterroman,
 Little, Brown 2023) → Vorschlag *The Whispering Window* (A1, E2).
 
-**Als Nächstes:** Autor entscheidet A1 Abschnitt 1 → A3 Witz-Liste (liest B2–B5 ganz, vervollständigt
+**Als Nächstes:** A3 Witz-Liste (liest B2–B5 ganz, vervollständigt
 A6) → A2 Stimmen, A4 Motive → A11 EN-Prüfungen + D8-Vergleichsmodus → A7–A10 → Pilot (C).

@@ -13,22 +13,22 @@
 
 ---
 
-## 1. Entscheidungen, die nur der Autor treffen kann (zuerst)
+## 1. Entscheidungen des Autors — ✅ alle 12 übernommen (2026-10-12)
 
 | # | Deutsch | Vorschlag | Alternativen | Begründung | ✔ |
 |---|---|---|---|---|---|
-| E1 | **Reihentitel** *Die Geisterspürer* | **The Ghost Listeners** | *Ghost Sense* · *The Ghost Seekers* | Trägt das Kern-USP „Zuhören befreit". Kein gleichnamiges Buch gefunden (Abschn. 6). *The Ghost Seekers* ist als Erwachsenen-Romance-Reihe belegt, *Ghost Trackers* als TV-Begleitbuch. | |
-| E2 | **Band 1** *Das Haus, das flüstert* | **The Whispering Window** | *Whispers at Number 14* · *Help Me, Said the Window* | ⚠️ **Die wörtliche Übersetzung *The House That Whispers* ist besetzt:** Middle-Grade-Geisterroman von Lin Thompson, Little, Brown 2023, Alter 8–12 — gleiches Genre, gleiche Zielgruppe. Das Fenster mit den Wörtern im Kondenswasser ist das Signaturbild von Band 1. | |
-| E3 | **Band 2** *Der Friedhof ohne Namen* | **The Graveyard Without Names** | *The Nameless Graveyard* | Kein gleichnamiges Buch gefunden. Die längere Form klingt nach Kinderbuch und behält den Rhythmus des deutschen Titels. | |
-| E4 | **Band 3** *Schatten sieht mehr* | **Shadow Sees More** | — | Wörtlich übertragbar, kein gleichnamiges Buch gefunden. | |
-| E5 | **Band 4** *Die zugemauerte Tür* | **The Bricked-Up Door** | *The Walled-Up Door* | Kein gleichnamiges Buch gefunden. *bricked-up* ist für Kinder anschaulicher. | |
-| E6 | **Band 5** *Der Schleier* | **The Veil** | *Beyond the Veil* | Kurz, passt zur Reihe. *The Veil* ist als Begriff verbreitet (V. E. Schwab, *City of Ghosts*, nutzt „the Veil" ebenso) — als Titel innerhalb der Reihe unproblematisch, allein schwer auffindbar. Untertitel mit Reihenname löst das. | |
-| E7 | **Hundename** *Schatten* | **Shadow** | — | Name trägt Bedeutung und steht im Titel von Band 3. Großschreibung trennt den Hund vom Wort *shadow* (Band 1, Kap. 12: „A shadow. But not our Shadow."). | |
-| E8 | **Anrede** *Frau Silber, Frau Held, Herr Kloß …* | **Mrs. Silber, Mrs. Held, Mr. Kloss …** | „Frau"/„Herr" beibehalten | Kinder 9–12 in den USA verstehen „Frau" nicht sicher (≈ „woman"?). „Mrs." ist sofort klar; die deutschen Nachnamen tragen das Flair weiter. Über 160 Stellen. | |
-| E9 | **Stockwerke** *Erdgeschoss / erster / zweiter Stock* | **US-Zählung:** first floor / **second floor** / **third floor** | nur *downstairs / upstairs / top floor* | ⚠️ Der deutsche 1. Stock ist der amerikanische *second floor*. Kirchgasse 14: EG Frau Held → *first floor*, Familie → *second floor*, Silber → *third floor*. „Zweiter Stock" kommt 20× vor und ist eine Ortsbezeichnung — „the third floor" funktioniert als unheimlicher Ortsname besser als ein vages „upstairs". | |
-| E10 | **Temperaturen** | **Fahrenheit**, wo eine Zahl nötig ist; sonst Bild statt Zahl | Celsius mit Erklärung | Band 2, Kap. 1 misst per Handy-App: *„13 Grad … 9 Grad. Neun Grad kälter."* → **55 °F … 48 °F**, „sixteen degrees colder". Band 1 *„zehn Grad"* → „the temperature dropped like a stone". | |
-| E11 | **Kindliche Schrift im Kondenswasser** (Band 1) | HELP · HERE · DON'T FORGET · DIARY · READ · PLEASE · THANK YOU · UP | — | Kurz, mit dem Finger schreibbar, gleiche Wirkung. Siehe A6 F2. | |
-| E12 | **Spielbuch-Codewörter** | B1: **KEY · MAP · VOICE** → Serienwort **LISTEN** · B2: **NAME · FILE · VOICE** → **REMEMBER** · Serie: LISTEN · REMEMBER · FORGIVE · LET GO · SET FREE | B2 *AKTE*: *RECORD* | Begriffe statt Buchstabenrätsel — übertragbar. *VOICE* kommt in B1 und B2 vor, wie *STIMME* im Original. *FILE* ist für Kinder klarer als *RECORD*. | |
+| E1 | **Reihentitel** *Die Geisterspürer* | **The Ghost Listeners** | *Ghost Sense* · *The Ghost Seekers* | Trägt das Kern-USP „Zuhören befreit". Kein gleichnamiges Buch gefunden (Abschn. 6). *The Ghost Seekers* ist als Erwachsenen-Romance-Reihe belegt, *Ghost Trackers* als TV-Begleitbuch. | ✅ |
+| E2 | **Band 1** *Das Haus, das flüstert* | **The Whispering Window** | *Whispers at Number 14* · *Help Me, Said the Window* | ⚠️ **Die wörtliche Übersetzung *The House That Whispers* ist besetzt:** Middle-Grade-Geisterroman von Lin Thompson, Little, Brown 2023, Alter 8–12 — gleiches Genre, gleiche Zielgruppe. Das Fenster mit den Wörtern im Kondenswasser ist das Signaturbild von Band 1. | ✅ |
+| E3 | **Band 2** *Der Friedhof ohne Namen* | **The Graveyard Without Names** | *The Nameless Graveyard* | Kein gleichnamiges Buch gefunden. Die längere Form klingt nach Kinderbuch und behält den Rhythmus des deutschen Titels. | ✅ |
+| E4 | **Band 3** *Schatten sieht mehr* | **Shadow Sees More** | — | Wörtlich übertragbar, kein gleichnamiges Buch gefunden. | ✅ |
+| E5 | **Band 4** *Die zugemauerte Tür* | **The Bricked-Up Door** | *The Walled-Up Door* | Kein gleichnamiges Buch gefunden. *bricked-up* ist für Kinder anschaulicher. | ✅ |
+| E6 | **Band 5** *Der Schleier* | **The Veil** | *Beyond the Veil* | Kurz, passt zur Reihe. *The Veil* ist als Begriff verbreitet (V. E. Schwab, *City of Ghosts*, nutzt „the Veil" ebenso) — als Titel innerhalb der Reihe unproblematisch, allein schwer auffindbar. Untertitel mit Reihenname löst das. | ✅ |
+| E7 | **Hundename** *Schatten* | **Shadow** | — | Name trägt Bedeutung und steht im Titel von Band 3. Großschreibung trennt den Hund vom Wort *shadow* (Band 1, Kap. 12: „A shadow. But not our Shadow."). | ✅ |
+| E8 | **Anrede** *Frau Silber, Frau Held, Herr Kloß …* | **Mrs. Silber, Mrs. Held, Mr. Kloss …** | „Frau"/„Herr" beibehalten | Kinder 9–12 in den USA verstehen „Frau" nicht sicher (≈ „woman"?). „Mrs." ist sofort klar; die deutschen Nachnamen tragen das Flair weiter. Über 160 Stellen. | ✅ |
+| E9 | **Stockwerke** *Erdgeschoss / erster / zweiter Stock* | **US-Zählung:** first floor / **second floor** / **third floor** | nur *downstairs / upstairs / top floor* | ⚠️ Der deutsche 1. Stock ist der amerikanische *second floor*. Kirchgasse 14: EG Frau Held → *first floor*, Familie → *second floor*, Silber → *third floor*. „Zweiter Stock" kommt 20× vor und ist eine Ortsbezeichnung — „the third floor" funktioniert als unheimlicher Ortsname besser als ein vages „upstairs". | ✅ |
+| E10 | **Temperaturen** | **Fahrenheit**, wo eine Zahl nötig ist; sonst Bild statt Zahl | Celsius mit Erklärung | Band 2, Kap. 1 misst per Handy-App: *„13 Grad … 9 Grad. Neun Grad kälter."* → **55 °F … 48 °F**, „sixteen degrees colder". Band 1 *„zehn Grad"* → „the temperature dropped like a stone". | ✅ |
+| E11 | **Kindliche Schrift im Kondenswasser** (Band 1) | HELP · HERE · DON'T FORGET · DIARY · READ · PLEASE · THANK YOU · UP | — | Kurz, mit dem Finger schreibbar, gleiche Wirkung. Siehe A6 F2. | ✅ |
+| E12 | **Spielbuch-Codewörter** | B1: **KEY · MAP · VOICE** → Serienwort **LISTEN** · B2: **NAME · FILE · VOICE** → **REMEMBER** · Serie: LISTEN · REMEMBER · FORGIVE · LET GO · SET FREE | B2 *AKTE*: *RECORD* | Begriffe statt Buchstabenrätsel — übertragbar. *VOICE* kommt in B1 und B2 vor, wie *STIMME* im Original. *FILE* ist für Kinder klarer als *RECORD*. | ✅ |
 
 ---
 
@@ -149,3 +149,4 @@ Aug. 2026: Umzug in ein Spukhaus, Geistern beim Hinübergehen helfen, 8–12).
 | Datum | Eintrag | alt → neu | Grund |
 |---|---|---|---|
 | 2026-10-12 | angelegt | — | Phase A |
+| 2026-10-12 | E1–E12 entschieden | Vorschlag → **übernommen** | Autor: „Deine Empfehlungen waren alle super.“ Die Standard-Einträge (Abschn. 2–5) gelten damit ebenfalls. |

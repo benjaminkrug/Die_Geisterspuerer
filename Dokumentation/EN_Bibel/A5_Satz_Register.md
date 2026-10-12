@@ -8,7 +8,7 @@
 > **Quelle:** `python3 Scripts/en_bibel_extrakt.py register --band1 <umgebaute Fassung>` fand
 > **267** mehrfache Sätze (≥ 4 Wörter), davon 118 über Bände hinweg. **Die meisten sind
 > Gesten** („Theo sah sie an." 20×, „Nora sah ihn an." 27×) — die gehören **nicht** ins Register
-> (siehe Abschnitt 5). Hier stehen nur die **42 gewollten** Wiederholungen.
+> (siehe Abschnitt 5). Hier stehen nur die **43 gewollten** Wiederholungen.
 >
 > **Englisch-Spalte:** **vorläufig**. Endgültig festgelegt wird im Pilot (Phase C), danach nur
 > mit Eintrag im Änderungsprotokoll von A1.
@@ -80,6 +80,12 @@ Ein Zitat, das in Band 4 anders lautet als in Band 1, merken aufmerksame Leser s
 | R41 | Weißt du, was komisch ist? | B3 K16 · B4 K1, K16 | *You know what's weird?* | Einleitung zu Theo-Gedanken |
 | R42 | Ich will ja nichts sagen … | B3 K9 · B4 K12 | *I'm not saying anything, but …* | |
 
+## 4a. Gewollte Echos zwischen Bänden
+
+| # | Deutsch | Stellen | Englisch (vorläufig) | Hinweis |
+|---|---|---|---|---|
+| R43 | In der vollkommenen Stille war es das lauteste Geräusch der Welt. | B3 K15 (Murmel fällt) · B4 K15 (Medaillon fällt) | *In the perfect silence, it was the loudest sound in the world.* | **Absicht** laut Band-4-Planung: Loslassen klingt in beiden Bänden gleich. Davor jeweils das helle „Klick" — auch das gleich übersetzen (*click*). |
+
 ---
 
 ## 5. Was bewusst NICHT ins Register kommt
@@ -93,7 +99,8 @@ Rückgriff.
 (`Stimmen_Pruefplan.md`, Formel-Dichte), nicht an die Übersetzung. Eine Übersetzung, die das Original
 glättet, verändert die Stimme.
 
-**Zum Autor gemeldet** (Befund aus der Extraktion, betrifft das Original):
-- *„In der vollkommenen Stille war es das lauteste Geräusch der Welt."* steht wortgleich in **B3 K15 und
-  B4 K15**. Wahrscheinlich keine Absicht. Für die Übersetzung: identisch lassen, solange das Original
-  identisch ist.
+**Korrektur 2026-10-12:** Hier stand zuerst, *„In der vollkommenen Stille war es das lauteste Geräusch
+der Welt."* (B3 K15 und B4 K15) sei *wahrscheinlich keine Absicht*. **Das war falsch.** Die Band-4-Planung
+sagt ausdrücklich: *„Medaillon fällt (rollt, klickt — akustischer Höhepunkt in der Stille, wie Marlenes
+Murmel)"* (`Band4/Detaillierte_Szenenplanung.md`). Der Satz ist ein **gewolltes Echo** → Register R43.
+Band 4 wird **nicht** geändert.
