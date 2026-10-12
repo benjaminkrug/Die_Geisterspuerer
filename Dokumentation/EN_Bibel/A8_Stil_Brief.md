@@ -73,6 +73,13 @@
 - **Reihenfolge:** *Theo said*, *she said* — nicht *said Theo* (klingt im US-Kinderbuch altmodisch).
 - **Keine Adverbien dazuerfinden.** *„sagte Theo"* wird nicht zu *Theo said nervously*.
 - Hat das Original keinen Begleitsatz, bekommt die Übersetzung auch keinen.
+- **Ausnahme Pronomen (nach Pilot):** Das Englische hat für den Hund *he* wie für Theo. Wo *he/his* dadurch
+  mehrdeutig wird (Hund, Theo, Nora, Mom im selben Absatz), **darf ein Name statt des Pronomens** stehen.
+  Das ist keine Erklärung, sondern die Klarheit, die das Deutsche über das Geschlecht schon hat.
+- *sagte leise* → *said quietly*; bei Geräuschen (Knurren, Atmen) *softly*. *flüsterte leise* → nur *whispered*.
+- **Häufige Gesten immer gleich** (A5 Abschn. 5 nennt sie, legt das Englische aber nicht fest):
+  *Schatten hob den Kopf* → **Shadow lifted his head** · *sah ihn/sie an* → **looked at him/her** ·
+  *schluckte* → **swallowed** · *nickte* → **nodded**. Wiederholung ist im Original gewollt, Variation wäre Glättung.
 - **Kurzformen:** Im Dialog ja (*I'm, don't, it's*) — so reden Kinder. **Ausnahmen:** Silbers Notizbuch
   und Brief, Graven (A2). Im Erzähltext sparsam und natürlich, nicht erzwungen.
 - **Ausrufezeichen:** nur, wo das Original eins hat. Im Original sind 1–2 % der Kinder-Reden Ausrufe (A2).
@@ -87,6 +94,7 @@
 | Deutsch | Englisch |
 |---|---|
 | „…“ | “…” (Satzzeichen **innerhalb** der Anführung: *“Come on,” she said.*) |
+| Apostroph | **’** typografisch (*don’t, Silber’s*) — passend zu “ ”. Im Pilot standen gerade ' neben “ ” (K9 sogar gemischt); im Druck sieht das unsauber aus. Prüfskript meldet es. |
 | ‚…‘ (Zitat im Zitat, z. B. Nora liest Silbers Notizbuch vor) | ‘…’ innerhalb von “…” |
 | Gedankenstrich „ – " oder „ — " (mit Leerzeichen; B1 nutzt –, B2–B5 —) | **em dash ohne Leerzeichen**: *“Theo—”* · *She stopped—listened.* |
 | Abgebrochene Rede *„Nora --“* / *„Nora –“* | *“Nora—”* |
@@ -141,7 +149,8 @@
 5. **Keine stillen Korrekturen** am Inhalt. Fällt ein Fehler im Original auf (z. B. B2 K1 „Neun Grad
    kälter"), wird er **gemeldet**, nicht still repariert (A0, Abschn. 3).
 6. **Nichts weglassen.** Auch keine Sätze, die im Englischen überflüssig wirken. Wenn einer wirklich
-   nicht geht: Randnotiz.
+   nicht geht: Randnotiz. **Kein Weglassen** ist es, wenn das englische Wort die Information schon
+   enthält (*„Sein Fell sträubte sich am Nacken"* → *His hackles rose* — *hackles* sind die Nackenhaare).
 
 ---
 
@@ -150,8 +159,14 @@
 1. Szenen-Absicht des Kapitels lesen (A7, sobald vorhanden): Was soll der Leser fühlen? Wie endet es?
 2. Fallen (A6), Witze (A3), Register-Sätze (A5) und Motive (A4) **dieses Kapitels** heraussuchen.
 3. Übersetzen, Absatz für Absatz.
-4. Für **Kapitelanfang, Kapitelende, jeden Umbau-Witz und jede Fallen-Stelle**: 2–3 Varianten, eine
-   wählen, Begründung in die Notizen (Plan, D2).
+4. Für **Kapitelanfang, Kapitelende, jeden Umbau-Witz und jede Falle mit echter Wahl** (Witz, Stimme,
+   Rhythmus): 2–3 Varianten, eine wählen, Begründung in die Notizen (Plan, D2). **Nicht** für mechanische
+   Fallen mit einer richtigen Lösung (Stockwerk, Bohnerwachs) — dort wären Varianten Strohmänner (Pilot).
+   **A3-Vorschläge sind Vorschläge**, nicht bindend; bindend sind Glossar (A1), Register (A5) und Motive (A4).
+   Abweichung von A3 in den Notizen begründen.
+4a. **Setups über Kapitel:** Steht in A7 bei diesem Kapitel ein Rückgriff auf ein früheres Kapitel (z. B.
+   K8 *„alte Blumentapeten"* ↔ K1 *„Muster aus winzigen Blumen"*), den englischen Wortlaut des früheren
+   Kapitels nachschlagen und aufgreifen. Der Pilot hat das nicht geprüft (Prüfer sahen je nur ein Kapitel).
 5. Kapitel laut „lesen": Klingt Theo wie zehn? Klingt Nora wie zwölf? Ist das Ende so scharf wie im Deutschen?
 
 ---

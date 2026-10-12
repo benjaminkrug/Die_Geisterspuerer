@@ -372,3 +372,5 @@ A, weil es als einzige Variante beides behält: *nicht in den Ohren* (das Geräu
 `python3 Scripts/pruefe_en.py pruefen …DE_K01.md …EN_K01.md` → **0 Befund(e).**
 
 **Nachtrag R3 (Bedeutungsfehler behoben):** Absatz 43 *It's where I meet everyone* → *It's my first time meeting the team—I can't move it.* (*Erste Vorstellung* = sie stellt sich dem neuen Team vor); bei der Nachprüfung aller R3-Sätze zudem Absatz 108 *fine dust covered the doorway* → *there was fine dust in the doorway* (*covered* übertrieb „lag feiner Staub“); geringe, bewusst hingenommene Abweichungen: *chin* statt *Schnauze* (86, Vorgabe), *Like he lived here* deutet *Selbstverständlich* aus (97, Vorgabe), *Come look out the window* statt nur „ans Fenster“ (70).
+
+**Nachtrag R3 (2):** Absatz 97 *Like he lived here.* → *Like it was the most natural thing in the world.* — *Like he lived here* nahm eine spätere Enthüllung vorweg (D4_K01_Runde3_Gegenprobe); *Selbstverständlich* sagt nur „als wäre es ganz normal“.

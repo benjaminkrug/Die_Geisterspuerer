@@ -33,7 +33,7 @@ VERBOTE = {
     "Dialogverb (A8)": r"\b(?:exclaimed|stated|remarked|uttered|inquired|queried|replied)\b",
     "Satzbau (A8)": r"\bsaid (?:Theo|Nora|Mom)\b",
     "Wortwahl nach Pilot (A8 Abschn. 6)": r"\b(?:cellar|muzzle|ceiling lamp|nameplate|kids' rooms?|food box|supermarket|"
-                                         r"blamed it on the heat)\b",
+                                         r"blamed it on the heat|raised (?:his|her) head)\b",
     "Deutsch-Rest": r"[„‚äöüÄÖÜß]|\b(?:und|nicht|ist|ich|wir|aber|auch|noch|schon|sagte)\b",
 }
 
@@ -169,6 +169,31 @@ def pruefen(de_text, en_text, register=None):
     for nr, de_s, en_s in (register if register is not None else register_paare()):
         if de_s in de_n and en_s not in en_n:
             befunde.append(("Register (A5)", f"{nr}: erwartet {en_s!r}"))
+
+    # 7. Satzbild (A8 Abschn. 5): typografische Apostrophe passend zu “ ”, Striche, Auslassungspunkte
+    typo = []
+    if re.search(r"[A-Za-z]'[A-Za-z]|s'(?=\s)", en_text):
+        typo.append(f"gerader Apostroph ' ({len(re.findall(chr(39), en_text))}×) statt ’")
+    if '"' in en_text:
+        typo.append('gerade Anführung "')
+    if re.search(r" [—–] |(?<!-)--(?!-)", en_text):  # --- (Szenentrenner) ist erlaubt
+        typo.append("Gedankenstrich mit Leerzeichen oder --")
+    if "..." in en_text:
+        typo.append("... statt …")
+    if typo:
+        befunde.append(("Satzbild (A8)", "; ".join(typo)))
+
+    # 8. Kursiv (Tagebuch, Notizbuch, Gedanken) muss erhalten bleiben
+    k_de, k_en = len(re.findall(r"\*[^*\n]+\*", de_text)), len(re.findall(r"\*[^*\n]+\*", en_text))
+    if k_de != k_en:
+        befunde.append(("Kursiv", f"DE {k_de} · EN {k_en} kursive Stellen"))
+
+    # 9. Schattens Code (A4 Abschn. 2, R44): jedes Signal im Deutschen braucht sein festes Wort
+    for de_rx, en_rx, name in ((r"knurr", r"growl", "knurrt → growl"), (r"winsel", r"whin", "winselt → whine"),
+                               (r"sträub", r"hackles", "Fell sträubt sich → hackles")):
+        n_de, n_en = len(re.findall(de_rx, de_text, re.I)), len(re.findall(en_rx, en_text, re.I))
+        if n_en < n_de:
+            befunde.append(("Schattens Code (A4)", f"{name}: DE {n_de} · EN {n_en}"))
     return befunde
 
 
@@ -220,20 +245,20 @@ Genau aus Frau Silbers Wohnung.
 
 Klopf. Klopf. Klopf.
 
-Nora las: „Der Schleier wird dünner.“ Schatten sah sie an, mit seinen bernsteinfarbenen Augen.
+Nora las: „Der Schleier wird dünner.“ Schatten sah sie an, mit seinen bernsteinfarbenen Augen. Er knurrte. *Lila Tinte.*
 """
 
 EN_GUT = """# Chapter 1: Test
 
-“Come on,” their mother said. “Second floor. You'll love it!”
+“Come on,” their mother said. “Second floor. You’ll love it!”
 
 Mrs. Silber lived on the third floor. The weather app said 55 degrees.
 
-Right from Mrs. Silber's apartment.
+Right from Mrs. Silber’s apartment.
 
 Knock. Knock. Knock.
 
-Nora read: “The Veil is getting thinner.” Shadow looked at her with his amber eyes.
+Nora read: “The Veil is getting thinner.” Shadow looked at her with his amber eyes. He growled. *Purple ink.*
 """
 
 EN_SCHLECHT = """# Chapter 1: Test
@@ -244,7 +269,7 @@ Frau Silber lived on the second floor, in her grey flat. The weather app said 13
 
 Knock, knock. Knock.
 
-Nora read: “The veil grows thinner und thinner.” Shadow looked at her with golden eyes.
+Nora read: “The veil grows thinner und thinner.” Shadow looked at her with golden eyes — he snarled. Purple ink...
 """
 
 
@@ -258,12 +283,16 @@ def selbsttest():
     schlecht = {k for k, _ in pruefen(DE_PROBE, EN_SCHLECHT, register)}
     erwartet = {"Absätze", "Ausrufezeichen", "Fluch (A2, A8)", "Britisch (A6, A8)", "Anrede ohne Punkt (A8)", "Glossar (A1)",
                 "Motiv-Wortlaut (A4)", "Dialogverb (A8)", "Deutsch-Rest", "Stockwerk (E9)",
-                "Temperatur (E10)", "Register (A5)", "Mutter (A2)", "Wortwahl nach Pilot (A8 Abschn. 6)"}
+                "Temperatur (E10)", "Register (A5)", "Mutter (A2)", "Wortwahl nach Pilot (A8 Abschn. 6)",
+                "Satzbild (A8)", "Kursiv", "Schattens Code (A4)"}
     for k in sorted(erwartet - schlecht):
         print("FEHLT:", k)
         ok = False
     # Ein-Satz-Absatz braucht gleiche Absatzzahl: eigener Fall
     # Kein Fehlalarm bei Frage + Begleitsatz in US-Reihenfolge (Pilot K1, Absatz 53)
+    if pruefen("Eins.\n\n---\n\nZwei.\n", "One.\n\n---\n\nTwo.\n", []):
+        print("FEHLALARM: Szenentrenner --- als Gedankenstrich gezählt")
+        ok = False
     if pruefen("„Hast du das gehört?“, flüsterte Theo.\n", "“Did you hear that?” Theo whispered.\n", []):
         print("FEHLALARM: Frage vor Begleitsatz als Satzende gezählt")
         ok = False

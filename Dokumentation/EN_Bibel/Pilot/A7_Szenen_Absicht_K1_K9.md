@@ -13,6 +13,7 @@
 | **Steigerung** | Haus wie ein Gesicht → Spiegel mit Riss → kahler Baum im Juli → Handabdruck im Putz → Kälte → Schritte oben → Hund wartet vor der Tür → Hund geht ohne Zögern in den zweiten Stock → knurrt Silbers Tür an. |
 | **Schlüsselsätze** | *„Hast du mal eins gefragt?"* (Theos bester Witz) · *„Hat es nicht." / Es hatte es.* (Nora lügt sich an — der Erzähler verrät sie) · *„Kannst du einmal nicht alles erklären?"* |
 | **Kapitelende** | *Ein Geräusch, das Nora nicht in den Ohren spürte. / Sondern im Magen. / Er knurrte die Tür an.* — drei kurze Absätze, der letzte ist der Schlag. |
+| **Setups / Rückgriffe** (nachgetragen bei der Nachprüfung) | Tapete *„Muster aus winzigen Blumen"* → K8 *„alte Blumentapeten"* (Versteck hinter der Tapete) · Klingelschild **SILBER** → K2, K5 · Kälte, die *„nicht zur Jahreszeit passte"* → Grundsignal der Reihe (A4) · Schritte über ihnen im zweiten Stock → K3 Klopfen · der Hund wartet auf jemanden → Schattens Herkunft (B4/B5) — **nichts davon vorwegnehmen** |
 | **Darf nicht verloren gehen** | Das Wort **SILBER** allein auf der Zeile. Schattens Signale nach Code R44 (Fell sträubt sich → Geist da; Knurren → wütend) — hier zum ersten Mal, der Leser kennt den Code noch nicht. |
 
 ## Kapitel 9 — Das Tagebuch
@@ -25,4 +26,5 @@
 | **Steigerung** | Geburtstag, Schule, Fluss → kaltes Zimmer → Luna knurrt → Kratzen im Takt → Stuhl am Fenster → Luna verweigert das Zimmer (wie Schatten) → niemand glaubt ihr → Tür öffnet sich → „Wenn mir etwas passiert" → Keller → leere Seiten. |
 | **Schlüsselsätze** | *„Ich gucke keine Gruselfilme. Ich lebe in einem."* · R27 *Niemand glaubt mir.* · R28 *Morgen gehe ich in den Keller.* · R16 *Wir haben dich gehört, Lina.* · *„Wir sind zu Hause, Theo."* |
 | **Kapitelende** | *„Was ist im Keller, Nora?"* → Schatten hebt den Kopf, etwas knackt tief im Haus → *„Das", sagte sie leise, „müssen wir herausfinden."* |
+| **Setups / Rückgriffe** | *Morgen gehe ich in den Keller* (R28) → K10, K13 · *Niemand glaubt mir* (R27) → K11, K12, K15 · *Wir haben dich gehört, Lina* (R16) → K12 · Luna = Schatten (Code R44) · *Wie an einem Anker* → Schatten als Anker (B5, Glossar *anchor*) · Lila Tinte, das kleine Herz → K11, K12 |
 | **Darf nicht verloren gehen** | Die **leeren Seiten** als eigene Ein-Satz-Absätze (*Leer.* / *Und die danach. Und die danach.*). Die Parallele Luna = Schatten (knurrt, winselt, verweigert den Raum — Code R44). |

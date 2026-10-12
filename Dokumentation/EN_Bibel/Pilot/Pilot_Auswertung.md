@@ -111,7 +111,7 @@ der Text ist. Die Gesamtzahl misst den Prüfer, nicht den Text.
 
 **Neue Regel — ein Kapitel ist fertig, wenn:**
 - der US-Lektor die Frage *„Würdest du merken, dass das übersetzt ist?"* mit **Nein** beantwortet,
-- höchstens **7** Befunde der Kategorie TRANSLATED übrig sind,
+- höchstens **7** Befunde der Kategorie TRANSLATED übrig sind (⚠️ **Zahl aus dem Pilot selbst abgeleitet** — K1 R2 hatte genau 7. Sie ist damit nicht geprüft, sondern angepasst. Hauptkriterium ist das Urteil „Nein"; die 7 ist ein Startwert, nach 4 Kapiteln neu festlegen),
 - der Bedeutungsprüfer **0 FEHLER** meldet,
 - das Prüfskript **0 Befunde** meldet.
 
@@ -123,9 +123,11 @@ Dann nur noch D4-Schwächen nach 5.1 einarbeiten — **keine weitere Runde**, so
 
 In Runde 3 wurde aus *„Erste Vorstellung, ich kann das nicht verschieben"* (Mom stellt sich am neuen
 Arbeitsplatz vor) *“It's where I meet everyone”* — ein **Bedeutungsfehler, den ich selbst beim
-Gegenlesen fand**, weil nach Runde 3 kein Bedeutungsprüfer mehr lief. **Regel:** Jede Änderung nach der
-letzten D4-Prüfung wird vom Übersetzer Satz für Satz gegen das Original geprüft, und D8 (Nachanalyse)
-läuft immer auf der **letzten** Fassung. Eine Glättung ohne Gegenprobe ist ein Risiko, kein Feinschliff.
+Gegenlesen fand**, weil nach Runde 3 kein Bedeutungsprüfer mehr lief. **Regel (verschärft bei der Nachprüfung):** Jede Änderung nach der
+letzten D4-Prüfung prüft ein **unabhängiger** D4-Durchgang anhand des Diffs (nur geänderte Sätze, nur
+Bedeutung — dauert ca. 1 Minute). Die Selbstprüfung des Übersetzers reicht nicht: Sie fand 6 Abweichungen,
+die unabhängige Gegenprobe danach noch eine weitere (*„Like he lived here"* verriet eine spätere Enthüllung —
+ausgelöst durch **meine** Vorgabe in Runde 3). D8 läuft immer auf der **letzten** Fassung. Eine Glättung ohne Gegenprobe ist ein Risiko, kein Feinschliff.
 **Gemessen:** Nach dieser Regel geprüft, hatten sich in K1 **2** und in K9 **4 von 12** Änderungen aus Runde 3
 in der Bedeutung verschoben (u. a. *abgewürgt* → *blew you off*; *Wenn ich es verstehe* → *If I figure it out*,
 was das Kernthema der Reihe — Verstehen befreit — unhörbar machte). Ein Drittel der späten Glättungen war
@@ -161,3 +163,30 @@ Klingelschild). Die Übersetzer haben sie korrekt stehen lassen und an die Liste
 3. Phase D erst nach Phase B (Band 1 DE eingefroren) und Prüfpunkt 1 — so steht es im Plan, und der Pilot
    gibt keinen Grund, das zu ändern.
 4. Bis dahin möglich: A7 für die übrigen 14 Kapitel von Band 1 aus dem Text schreiben; A9 (US-Zielwerte).
+
+---
+
+## 8. Nachprüfung der Auswertung — was im ersten Durchgang fehlte
+
+> Auftrag des Autors: *„Überarbeite den Schritt noch einmal genau. Haben wir was vergessen? Nur echte
+> Verbesserungen."* Aufgenommen ist nur, was einen **Beleg** im Pilot hat und einen Fehler verhindert.
+
+| # | Was fehlte | Beleg | Verbesserung | Warum echt |
+|---|---|---|---|---|
+| N1 | **Lernschleife nicht geschlossen:** Beide Übersetzer haben in ihren Notizen aufgeschrieben, welche Regeln unklar oder falsch waren (8 + 9 Punkte). Übernommen hatte ich davon fast nichts. | `EN_K01_Notizen.md` Abschn. 7, `EN_K09_Notizen.md` Abschn. 5 | A8 ergänzt: Name statt mehrdeutigem *he* erlaubt · „im Wort enthalten" ist kein Weglassen · *sagte leise* geregelt · **feste Gesten** · Varianten nur bei Fallen mit echter Wahl · A3 = Vorschlag, A1/A4/A5 = bindend | Die Gesten-Lücke hatte schon zugeschlagen: K1 *raised his head*, K9 *lifted his head* für dieselbe deutsche Geste. Vereinheitlicht, Skript prüft es. |
+| N2 | **Satzbild ungeprüft:** “ ” typografisch, aber Apostroph gerade ' (K1 45×, K9 60× und 2× ’ gemischt). | Zählung | A8: Apostroph **’**; Skript meldet gerade Apostrophe, Anführungen, Striche mit Leerzeichen, `...` | Im gedruckten Buch sofort sichtbar. Kein Prüfer hatte es gemeldet — KI-Leser „sehen" Typografie nicht. |
+| N3 | **Kursiv und Schattens Code nicht gemessen.** Das Tagebuch (K9) lebt vom Kursiv; der Hunde-Code (R44) von festen Verben. | — | Skript zählt kursive Stellen DE ↔ EN (K9: 22 = 22) und *knurrt/winselt/sträubt* ↔ *growl/whine/hackles* | Beide Kapitel bestehen — aber ein späteres Kapitel ohne diese Prüfung könnte unbemerkt kippen. |
+| N4 | **Durchgang D1 (ganzes Buch verstehen) lief nicht.** Jeder Prüfer sah nur ein Kapitel. Setups über Kapitel hinweg waren ungeprüft. | K1 *„Muster aus winzigen Blumen"* ↔ K8 *„alte Blumentapeten"* (Kapitel „Hinter der Tapete") | A8 Schritt 4a: Rückgriffe aus A7 im englischen Wortlaut des früheren Kapitels aufgreifen. A7 bekommt je Kapitel die Zeile **„Setups/Rückgriffe"**. | Im Pilot konnte es nicht schiefgehen (nur 2 Kapitel), in Phase D bei 16 Kapiteln schon. |
+| N5 | **D3 lief nur halb.** Der Plan sieht nach der Rückübersetzung einen **Abgleich mit dem Original** vor — den hat niemand gemacht; genutzt wurden nur die MEHRDEUTIG-Marken. Daher die niedrige Quote (2/7, 6/12). | Plan Phase D, D3 | D3 wird **umbenannt in „Mehrdeutigkeits-Leser"**: blind lesen und markieren, wo der englische Text zwei Lesarten hat. Den Abgleich mit dem Original **streichen** — D4 vergleicht ohnehin Satz für Satz. | Spart einen Durchgang ohne Verlust: Der einzige Beitrag, den nur D3 lieferte (Küchenfenster), kam aus einer MEHRDEUTIG-Marke, nicht aus einem Abgleich. |
+| N6 | **Fertig-Schwelle aus dem Pilot selbst abgeleitet** (≤ 7 TRANSLATED, K1 hatte genau 7). | 5.2 | als Startwert gekennzeichnet, Urteil „Nein" ist Hauptkriterium | Sonst sähe eine angepasste Zahl wie ein geprüfter Maßstab aus. |
+| N7 | **Späte Änderungen nur selbst geprüft.** | 5.2a | unabhängige Diff-Gegenprobe, gelaufen: K1 1 Schwäche (behoben), K9 1 vertretbare Schwäche, 0 Fehler | Selbstprüfung übersieht, was man selbst für richtig hielt. |
+
+**Bewusst NICHT aufgenommen** (geprüft, aber keine echte Verbesserung):
+- **Kinderleser D6 für Runde 2 wiederholen:** Seine Befunde aus Runde 1 betrafen v. a. Wörter, und die
+  Wortliste ist jetzt im Skript. Ein zweiter KI-Kinderleser sagt wenig Neues über echte Kinder — dafür sind
+  die Lesegruppen (E2) da.
+- **Verbot von *figure it out* im Skript:** kurz eingebaut, wieder entfernt — *herausfinden* darf so heißen;
+  nur *verstehen* ist festgelegt (Glossar). Die Regel hätte Fehlalarme erzeugt.
+- **„Kirchgasse" ändern** (D6: schwer auszusprechen, „gas"-Kicher-Gefahr): Ortsname bleibt nach Glossar;
+  ein einzelner KI-Kinderleser ist kein Beleg. Für die Lesegruppen-Fragen vormerken.
+- **„Dear Diary", 1970er-Details, zusätzliche Witze** (D5/D6): würden Inhalt erfinden.

@@ -185,15 +185,18 @@ Sieben Durchgänge. **Jeder Prüf-Durchgang läuft getrennt** (eigene Sitzung, o
 ```
 D1  VERSTEHEN          Ganzes Buch lesen. Pro Kapitel Abgleich mit Szenen-Absicht:
                        Witze, Hinweise, Motive, Register-Sätze markieren.
+                       Nach Pilot ergänzt: Setups/Rückgriffe über Kapitel in A7
+                       eintragen — sonst sieht kein Prüfer sie (Pilot_Auswertung N4).
 
 D2  ÜBERSETZEN         Kapitelweise, ganzes Buch + Bibel im Kontext.
                        Bei Witzen, Kapitelenden, Kapitelanfängen und Fallen-Stellen:
                        2–3 unabhängige Varianten, Auswahl mit Begründung.
                        Jede freie Lösung bekommt eine Randnotiz „frei, weil …".
 
-D3  RÜCKÜBERSETZEN     Getrennter Durchgang, sieht NUR das Englische und übersetzt
-    (blind)            zurück ins Deutsche. Danach Abgleich mit dem Original:
-                       jede Sinnabweichung → gewollt (Randnotiz vorhanden) oder Fehler.
+D3  MEHRDEUTIGKEITS-    Getrennter Durchgang, sieht NUR das Englische, übersetzt blind
+    LESER (blind)      zurück und markiert jede Stelle mit zwei Lesarten [MEHRDEUTIG].
+                       (Nach Pilot geändert: Der Abgleich mit dem Original entfällt —
+                       D4 vergleicht ohnehin Satz für Satz. Pilot_Auswertung N5.)
 
 D4  BEDEUTUNGSPRÜFER   Getrennter Durchgang mit Original + Übersetzung nebeneinander.
                        Prüft Q1 Satz für Satz, besonders Hinweise und Auflösungen
@@ -521,6 +524,10 @@ die übrigen Kapitel → A10 mit Titel-Gegenprobe vor dem Cover. Begründung: A0
 Runden; beide Kapitel nach Runde 2 vom US-Lektor als „klingt nicht übersetzt" beurteilt, 0 Bedeutungsfehler.
 Abbruchregel nicht ausgelöst. Bibel an 8 Stellen geändert (u. a. *Mom*, *basement*, Fragmente dosieren,
 Vorrangregel). Größte offene Schwäche: Alle Prüfer sind KI → menschliche Lesegruppen (E2) bleiben Pflicht.
+
+**Pilot nachgeprüft (2026-10-12):** 7 Lücken geschlossen (Pilot_Auswertung Abschn. 8) — u. a. Rückmeldungen
+der Übersetzer übernommen, Satzbild/Kursiv/Schattens Code im Skript, D3 verschlankt, unabhängige
+Gegenprobe später Änderungen.
 
 **Als Nächstes:** Autor prüft die Funde im deutschen Original (vor Phase B). Dann Phase B (Band 1 DE
 einfrieren) → Prüfpunkt 1 → Phase D. Bis dahin: A7 für die übrigen Kapitel von Band 1, A9.
