@@ -82,7 +82,7 @@ Mom clapped her hands. “Okay. Sorry, guys, I have to go in a minute.”
 
 Nora turned around. “Already? We just got here.”
 
-“I've got that meeting at the hospital. It's where I meet everyone—I can't move it.” Mom smoothed Nora's hair. “Two hours, tops. Start unpacking, pick out your rooms. Nora—”
+“I've got that meeting at the hospital. It's my first time meeting the team—I can't move it.” Mom smoothed Nora's hair. “Two hours, tops. Start unpacking, pick out your rooms. Nora—”
 
 “I'll watch him.”
 
@@ -212,7 +212,7 @@ Third floor.
 
 Nora's stomach tightened. It was only a dog on the stairs. That's what she told herself. Only a dog. But the way he walked. With purpose. Without sniffing, without stopping. As if he knew exactly where he had to go.
 
-The dog stopped in front of a door. The one on the right. The paint was peeling, and fine dust covered the doorway, as if nobody had cleaned there in months.
+The dog stopped in front of a door. The one on the right. The paint was peeling, and there was fine dust in the doorway, as if nobody had cleaned there in months.
 
 Nora stepped closer. A name card hung next to the frame. Yellowed. The letters were handwritten, scrawly and faded.
 
