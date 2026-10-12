@@ -309,6 +309,9 @@ unverzichtbar** ist.
 
 ## 7. Fahrplan mit Prüfpunkten (Go/No-Go)
 
+> ⚠️ **Überholt (2026-10-12):** Ersetzt durch `Internationalisierung_Vorgehensplan.md`
+> (berücksichtigt den Band-1-Umbau und die echten deutschen Zahlen).
+
 | Phase | Inhalt | Prüfpunkt / Bedingung zum Weitermachen |
 |---|---|---|
 | **0. Voraussetzung** | Deutsche Zahlen auswerten (`Zahlen_lesen_Entscheidung.md`) | Read-Through B1→B2 in DE **≥ ~35 %**. Darunter: erst die deutsche Reihe reparieren. |
