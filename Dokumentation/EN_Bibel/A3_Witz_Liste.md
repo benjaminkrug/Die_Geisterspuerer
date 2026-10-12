@@ -299,6 +299,11 @@ ist, sollte zuerst **auf Deutsch** korrigiert werden — sonst wird es mitübers
 | B4 | K16 (Kapitel_16.md Z. 51) | Szenentrenner `---` zwischen Theos Frage *„Hat's funktioniert?"* und Mamas Antwort — mitten im Gespräch. Absicht oder Versehen? [prüfen] (gefunden bei A2) |
 | B1 (umgebaut) | K8 (2×), K13 | Abgebrochene Rede 3× mit `--` (*„Nora --"*), sonst überall `–`. Satzbild vereinheitlichen. (gefunden bei A8) |
 | B1 (umgebaut) | K9 | *„\*30. Oktober. Nur noch zwei Einträge\*“, sagte Nora leise.* — „Nur noch zwei Einträge" ist **Noras** Bemerkung, steht aber kursiv **im** Tagebuch-Zitat, als hätte Lina es geschrieben. Vorschlag: „\*30. Oktober.\* Nur noch zwei Einträge", sagte Nora leise. (gefunden beim Pilot) |
+| B1 (umgebaut) | K1 | **Logik, von drei Pilot-Prüfern unabhängig gefunden:** (a) Die Mutter hebt einen Karton „aus dem **Kofferraum**" — da steht nur der Umzugswagen. (b) *„Die Wohnung mit dem vergilbten Klingelschild"* — Nora kennt das Schild noch nicht, sie sieht es erst am Kapitelende (verrät außerdem die Pointe). (c) *„Kein Mensch zu sehen"* am Anfang, später starrt der Hund *„nicht die Passanten"* an. (d) Das Küchenfenster geht **zum Hinterhof**, trotzdem sehen die Kinder daraus den Hund **vor der Haustür**. |
+| B1 (umgebaut) | K1 | *„Hat es nicht." / Es hatte es.* — „Es hatte es" ist grammatisch schief (gemeint: *Doch, hatte es.*). Wenn Absicht (Erzähler widerspricht Nora): so lassen. [prüfen] |
+| B1 (umgebaut) | K9 | Theo: Linas Eltern hätten es *„auf die Heizung geschoben"* — im Tagebuch schiebt es Papa aufs **Fenster**, Mama auf **Mäuse**; Mama dreht die Heizung nur auf. Theos Satz stimmt so nicht. |
+| B1 (umgebaut) | K9, K11 | *„das kleine Herz"*: in K9 auf dem **Einband**, in K11 *„auf der ersten Seite"* — und vorher nie eingeführt. Einmal festlegen und beim Fund des Tagebuchs (K8) kurz zeigen. |
+| B1 (umgebaut) | K9 | Nora sieht schon die erste Seite (*„Mädchenschrift auf der ersten Seite"*), dann *„blätterte zur ersten Seite"*. Gemeint ist wohl der erste Eintrag. |
 
 ---
 
