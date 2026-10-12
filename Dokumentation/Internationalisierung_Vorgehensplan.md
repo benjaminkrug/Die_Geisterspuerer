@@ -8,6 +8,10 @@
 > 2. Blinder Probe-Vergleich mit einer menschlichen Übersetzung: *„Nicht machen."* → gestrichen.
 > 3. *„Sonst super"* → Übersetzungs-Bibel, vier KI-Durchgänge, Lernschleife, Prüfpunkte bleiben.
 >
+> **Ergänzung 3.1 (2026-10-12, auf Wunsch des Autors):** **D8 Nachanalyse** (Deutsch und Englisch
+> Kapitel für Kapitel gegeneinander gemessen) und **Schreibregeln für neue Texte**
+> (übersetzungsfreundlich schreiben, ohne den deutschen Text zu verflachen).
+>
 > **Ziel dieser Fassung:** Die bestmögliche Übersetzung **ohne bezahlte menschliche Prüfung**.
 > Abschnitt 8 sagt offen, wo dieser Weg an Grenzen stößt.
 >
@@ -31,6 +35,8 @@ Erscheinen schnell und kostenlos korrigiert werden.
 | Schwierige Stellen | Überarbeiter entscheidet | **2–3 unabhängige Varianten**, begründete Auswahl |
 | Weg wählen | blinder Vergleich | **Pilot** an Kap. 1 + Kap. 9: Verfahren einstellen, nicht Personen auswählen |
 | Absicherung beim Start | – | **Stiller Start:** erst Lesersignale sammeln und korrigieren, dann Werbung |
+| Analyse nach dem Übersetzen | – | **D8 Nachanalyse:** DE und EN Kapitel für Kapitel gemessen (Rhythmus, Spannung, Stimmen, Kapitelenden, Witze) |
+| Neue Texte (Staffel 2 …) | – | **Sechs Schreibregeln:** markieren statt vermeiden, damit spätere Übersetzungen leichter und besser werden |
 | Kosten Übersetzung B1–B5 | ca. 5.700–12.400 € | **ca. 0 €** (Testleser-Dankeschön optional) |
 | Ganze Reihe zur Halloween-Saison 2027 | nein (nur B1+B2) | **ja, realistisch** |
 
@@ -81,12 +87,14 @@ PHASE A  Übersetzungs-Bibel + Prüfskripte (Okt–Nov 2026)           ┐ paral
 PHASE B  Deutsche Fassung Band 1 festmachen (Okt–Nov 2026)         ┘
    ◆ PRÜFPUNKT 1 (ca. Mitte Jan 2027): Wirkt der Umbau in DE?
 PHASE C  Pilot: Kap. 1 + Kap. 9 durch das ganze Verfahren (Dez 2026 – Jan 2027)
-PHASE D  Band 1 übersetzen (Feb 2027)
+PHASE D  Band 1 übersetzen + D8 Nachanalyse (Feb – März 2027)
 PHASE E  Produktion EN + Stiller Start Band 1 (März – Apr 2027)
 PHASE F  Band 2 übersetzen + Start (Apr – Mai 2027)
    ◆ PRÜFPUNKT 2 (ca. Anfang Juli 2027): Trägt Englisch? Gibt es Übersetzungs-Klagen?
 PHASE G  Band 3–5 (Juli – Aug 2027) → ganze Reihe ab September 2027
 PHASE H  (später) Spielbücher · zweite Sprache
+
+BEGLEITEND ab sofort: Schreibregeln für neue Texte (Staffel 2 und später)
 ```
 
 ---
@@ -124,6 +132,10 @@ was messbar ist, **gemessen** werden:
 | Lesbarkeit je Kapitel | Abweichung vom US-Korridor (A9) |
 | Schatten je Kapitel, Kapitelende | Pflichtregeln der Reihe |
 | Reste | Umlaute, deutsche Anführungszeichen, unübersetzte Wörter |
+
+Außerdem: englische Fassungen von `pruefe_qualitaet.py` und `pruefe_logik.py` sowie ein
+Vergleichsmodus DE ↔ EN für die **Nachanalyse D8** (Gleichwertigkeits-Bericht, Auszüge je Figur,
+Kapitelenden, Witze). Dazu sammelt A11 die `EN:`-Markierungen aus den Schreibregeln S1/S4 ein.
 
 Die Skripte werden **vorher** an absichtlich fehlerhaften Testtexten geprüft (wie bei
 `pruefe_band1_umbau.py`): Ein Skript, das eingeschleuste Fehler nicht meldet, ist wertlos.
@@ -193,10 +205,36 @@ D6  KINDERLESER +      Getrennter Durchgang: liest das Buch am Stück wie ein
 
 D7  KONSISTENZ         Prüfskripte (A11). Alle Meldungen müssen erledigt oder
                        begründet sein.
+
+D8  NACHANALYSE        Fertiges Englisch gegen das deutsche Original messen,
+                       Kapitel für Kapitel (siehe unten). Nach der letzten
+                       Korrektur, als Abnahme-Grundlage.
 ```
 
 **Wer setzt die Befunde um?** Nur **ein** Durchgang schreibt am Text (der Übersetzer aus D2), alle
 anderen melden nur. So bleibt eine Stimme im Buch — dieselbe Regel wie in Fassung 2.
+
+#### D8 — Nachanalyse: Deutsch und Englisch nebeneinander
+
+**Grundidee:** Die Durchgänge D3–D6 urteilen nach KI-Geschmack. D8 misst gegen einen **festen Maßstab**:
+das deutsche Original, das schon durch alle deutschen Prüfungen gegangen ist. Wo Englisch von Deutsch
+abweicht, muss die Abweichung **begründet** sein — sonst ist es ein Befund.
+
+Die Werkzeuge gibt es großenteils schon (`pruefe_qualitaet.py`, `pruefe_logik.py`,
+`Stimmen_Pruefplan.md`, Spannungsraster aus `Band1/PLAN_Durchlesequote.md`). Sie werden in A11 um
+eine englische Fassung erweitert.
+
+| # | Prüfung | Wie | Befund, wenn … |
+|---|---|---|---|
+| D8.1 | **Gleichwertigkeits-Bericht** | Pro Kapitel DE ↔ EN: Dialoganteil, mittlere Satzlänge (in Silben, nicht Wörtern), Zahl der Absätze, Zahl der Ein-Satz-Absätze, Lesbarkeit | ein Wert deutlich abweicht und keine Randnotiz es erklärt. Startwerte für „deutlich": Dialoganteil ± 5 Prozentpunkte, Absätze ± 10 %, **jeder** verlorene Ein-Satz-Absatz. Im Pilot (C) nachjustieren. |
+| D8.2 | **Spannungskurve blind** | Getrennter Durchgang bewertet jedes englische Kapitel mit dem Raster aus dem Band-1-Umbau (Neues 0–3, Gefahr 0–3, Gefühl 0–2, Sog 0–2), **ohne** die deutschen Werte zu kennen. Dann Vergleich. | ein Kapitel auf Englisch ≥ 2 Punkte schwächer ist, vor allem beim Sog |
+| D8.3 | **Stimmen-Test** | Alle Sätze **einer** Figur hintereinander lesen: erst Theo, dann Nora, dann Mama, dann Lina/Silber. Gleiche Liste auf Deutsch daneben. | eine Figur zwischendurch anders klingt (Theo plötzlich erwachsen, Nora plötzlich flapsig) |
+| D8.4 | **Kapitelenden isoliert** | Nur die letzten 3–4 Zeilen aller Kapitel, DE und EN nebeneinander | der englische Satz weniger zieht (Rhythmus, letztes Wort, Länge) |
+| D8.5 | **Witz-Test** | Alle Witze mit ihrem Auslöser (Schreck davor) herausziehen, DE und EN nebeneinander | ein Witz nicht mehr zündet oder der Abstand Schreck → Witz größer geworden ist |
+| D8.6 | **Lesedurchgang am Stück** | Das ganze englische Buch einmal von vorn bis hinten lesen, nachdem alle Korrekturen drin sind | Brüche zwischen Kapiteln, Wiederholungen, die erst über Kapitelgrenzen auffallen |
+
+**Ergebnis:** `Band1/EN/Nachanalyse_Band1.md` — Tabelle je Kapitel, alle Befunde mit Entscheidung
+(behoben / bewusst so, weil …). Befunde gehen wie alle anderen in die Lernschleife (E4).
 
 **Abnahme Band 1** (alle müssen erfüllt sein):
 
@@ -206,7 +244,8 @@ anderen melden nur. So bleibt eine Stimme im Buch — dieselbe Regel wie in Fass
 | Prüfskript-Meldungen (D7) | **0** offen, Rest begründet |
 | US-Lektor-Markierungen (D5) | nach Umsetzung neuer Durchgang: **deutlich weniger als in Runde 1**, Rest begründet |
 | Lesbarkeit je Kapitel | im US-Korridor (A9) |
-| Kapitelenden | jedes mit Sog (Abgleich Szenen-Absicht) |
+| Kapitelenden | jedes mit Sog (Abgleich Szenen-Absicht, D8.4) |
+| Nachanalyse (D8) | **0** offene Befunde; jede Abweichung DE ↔ EN behoben oder begründet |
 
 ### Phase E — Produktion und Stiller Start Band 1 (März – Apr 2027)
 
@@ -253,7 +292,7 @@ Verfahren nach Befundquote von Band 2:
 
 | Befundquote Band 2 | Verfahren Band 3–5 |
 |---|---|
-| niedrig | D1, D2, D3, D5, D7 — Kinderleser nur für das erste Kapitel jedes Bandes |
+| niedrig | D1, D2, D3, D5, D7, **D8** — Kinderleser nur für das erste Kapitel jedes Bandes. D8 entfällt nie: Sie ist billig und misst gegen das Original. |
 | mittel / hoch | volles Verfahren wie Band 1 |
 
 **Ziel:** ganze Reihe ab **September 2027**, rechtzeitig zur Halloween-Saison.
@@ -261,6 +300,25 @@ Verfahren nach Befundquote von Band 2:
 ### Phase H — später
 
 Spielbücher EN (Marke „Choose Your Own Adventure" beachten), zweite Sprache aus dem **deutschen** Original.
+
+### Begleitend ab sofort — Übersetzungsfreundlich schreiben (Staffel 2 und alles Neue)
+
+**Grundsatz:** Deutsch ist der Hauptmarkt. Keine Regel darf den deutschen Text flacher machen.
+Deshalb heißt es fast überall **„markieren"**, nicht „vermeiden". Die Markierung kostet beim Schreiben
+Sekunden und spart beim Übersetzen Suche und Fehler.
+
+| # | Regel | Warum | Beispiel aus dem Bestand |
+|---|---|---|---|
+| S1 | **Sprachwitze markieren**, nicht verbieten. Kommentar am Absatz: `<!-- EN: Wortwitz, Funktion: Entlastung nach Schreck -->` | Der Übersetzer weiß sofort, dass er einen gleichwertigen Witz bauen muss, und wozu. | Band 1, Kap. 4: *„Kondenswasser schreibt keine deutschen Wörter!"* |
+| S2 | **Wiederkehrende Sätze sofort ins Satz-Register** eintragen und danach wörtlich gleich verwenden | Callbacks und Zitate über Bände bleiben in jeder Sprache gleich. | Silbers Notizbuch, zitiert in Band 4 |
+| S3 | **Stockwerke, Maße, Schulklassen nur, wenn die Handlung sie braucht**; sonst „oben", „unten", „ein paar Schritte" | Deutsche und US-Zählung weichen ab (F13); Zahlen müssen sonst umgerechnet werden. | Band 1: *„Erste Etage"*, *„zehn Grad"*, *„dreißig Kilo"* |
+| S4 | **Kulturbezüge so, dass sie sich selbst erklären** — oder markieren | Was in Deutschland jeder kennt, versteht ein US-Kind nicht ohne Weiteres. | S2-1, Kap. 6: klopfte dreimal, *„wie bei einem Adventskalender"* |
+| S5 | **Rätsel, Hinweise und Codewörter nie an deutsche Buchstaben binden** (Anfangsbuchstaben, Anagramme, Reime, Schreibweise) | Solche Rätsel lassen sich nicht übersetzen, nur neu erfinden — und dann stimmen Hinweisketten nicht mehr. | Bisher eingehalten: SCHLÜSSEL/KARTE/STIMME funktionieren als **Begriffe** |
+| S6 | **Szenen-Absicht pro Kapitel mitschreiben**: eine Zeile, was der Leser fühlen soll, im vorhandenen Cliffhanger-Register | Daraus entsteht die Übersetzungs-Bibel (A7) nebenbei, statt nachträglich rekonstruiert. | `Cliffhanger_Register_S2-1.md` — eine Spalte mehr |
+
+**Wo die Regeln stehen sollen:** in diesem Plan und als kurzer Abschnitt im Stil-Leitfaden für
+Staffel 2 (Eintrag dort, sobald der Autor ihn freigibt). Neue Prüfskripte braucht es dafür nicht —
+die Markierungen aus S1 und S4 werden in A11 nur **eingesammelt**.
 
 ---
 
@@ -303,6 +361,8 @@ Risiko verschiebt sich von Geld zu **Qualität und Ruf** (Abschnitt 8).
 | **Prüfskripte mit Fehler-Test** | Was messbar ist, wird gemessen. Ohne menschlichen Leser ist ein Skript, das zuverlässig meldet, der wichtigste Schutz gegen Flüchtigkeitsfehler. |
 | **Pilot statt Wettbewerb** | Der Pilot stellt das Verfahren ein, bevor ein ganzes Buch durchläuft. Billig, schnell, und er enthält eine ehrliche Abbruchregel. |
 | **Stiller Start** | Ersetzt die Sicherheit, die ein Lektor gegeben hätte, teilweise: Die ersten Leser sind Freunde und wenige Käufer, nicht hunderte Ads-Käufer. Fehler werden korrigiert, bevor sie viele sehen. |
+| **D8 Nachanalyse gegen das Original** | Alle anderen Prüf-Durchgänge urteilen nach KI-Geschmack. D8 misst gegen einen festen, bereits geprüften Maßstab — das ist ohne Lektorat der verlässlichste Qualitätsanker. Die Werkzeuge gibt es zum großen Teil schon. |
+| **Schreibregeln als Markierungen** | Sie verbessern jede künftige Übersetzung, kosten beim Schreiben fast nichts und lassen den deutschen Text unangetastet. |
 | **Ganze Reihe zur Saison 2027** | Ohne Suche nach Personen und Wartezeiten auf Fremde wird der Zeitplan kürzer. Die Saison kann voll genutzt werden. |
 
 ---
@@ -361,7 +421,34 @@ selbst kann direkt nach Prüfpunkt 1 starten.
 Deshalb entscheidet sie nur über den **Umfang** der Prüfung von Band 3–5, nie über „gut genug".
 „Gut genug" entscheiden die Signale von außen (8.3).
 
-### 8.7 Was ich beim Hinterfragen am Plan geändert habe
+### 8.7 „Ist das Original wirklich ein guter Maßstab für D8?"
+
+**Nur für das, was gleich bleiben soll.** Englisch darf vom Deutschen abweichen — Witze werden neu gebaut,
+Sätze im Englischen anders gebaut. Ein starres „muss gleich sein" würde genau die freien, guten Lösungen
+bestrafen. **Deshalb:** D8 meldet Abweichungen nur, wenn **keine Randnotiz** sie erklärt. Gemessen wird
+Satzlänge in **Silben**, nicht Wörtern (Englisch hat mehr, kürzere Wörter). Und die Schwellen sind
+Startwerte, die im Pilot an echten Abweichungen eingestellt werden.
+
+**Restgrenze:** Auch D8.2 und D8.3 werden von KI bewertet. Der Unterschied zu D3–D6: Sie vergleichen
+mit einer Vorlage, statt frei zu urteilen. Das macht sie verlässlicher, nicht unfehlbar.
+
+### 8.8 „Machen die Schreibregeln den deutschen Text schlechter?"
+
+**Das wäre der falsche Preis**, denn Deutsch ist der Hauptmarkt. Die Regeln sind deshalb so gebaut, dass
+nur S3 („Zahlen nur, wenn nötig") den Text überhaupt berührt — und das ist auch auf Deutsch eher ein
+Gewinn (weniger Zahlen, mehr Bild). S1, S2, S4, S6 sind reine Markierungen; S5 ist schon heute gelebte
+Praxis. **Risiko:** Ein Autor, der beim Schreiben an die Übersetzung denkt, schreibt vorsichtiger. Darum
+die ausdrückliche Regel: **im Zweifel deutsch schreiben und markieren.**
+
+### 8.9 „Wird das Verfahren jetzt zu groß?"
+
+**Berechtigte Sorge.** Acht Durchgänge plus Nachanalyse plus Schreibregeln. Jeder weitere Schritt bringt
+weniger als der vorige. **Gegenmaßnahme:** Der Pilot (C) entscheidet, welche Durchgänge echte Befunde
+liefern; die anderen werden gestrichen. D8 und D7 (beide messen statt urteilen) werden **nicht**
+gestrichen. Der größte verbleibende Sprung bleibt außerhalb des Verfahrens: echte englischsprachige
+Leser (E2).
+
+### 8.10 Was ich beim Hinterfragen am Plan geändert habe
 
 1. **Rückübersetzung blind gemacht** — zuerst sah der Rückübersetzer das Original. Dann „repariert" er
    unbewusst und findet weniger.
@@ -372,6 +459,14 @@ Deshalb entscheidet sie nur über den **Umfang** der Prüfung von Band 3–5, ni
 5. **Muttersprachler-Check als Option, nicht als Plan** — der Autor hat sich gegen Lektorat entschieden.
    Der Plan respektiert das, sagt aber offen, an welchem Signal man die Entscheidung noch einmal
    ansehen sollte.
+6. **D8 misst Satzlänge in Silben statt Wörtern** — zuerst in Wörtern geplant. Englisch braucht für
+   denselben Satz mehr, aber kürzere Wörter; Wörter zu zählen hätte fast jedes Kapitel falsch gemeldet.
+7. **D8 meldet nur unbegründete Abweichungen** — zuerst sollte jede Abweichung ein Befund sein. Das hätte
+   genau die gewollten freien Lösungen (neu gebaute Witze) bestraft.
+8. **D8 fällt auch im verkürzten Verfahren (Phase G) nie weg** — sie misst gegen das Original und ist
+   damit der verlässlichste Anker ohne Lektorat.
+9. **Schreibregeln als Markierungen statt Verbote** — ein Verbot von Wortwitzen hätte den deutschen Text,
+   also den Hauptmarkt, ärmer gemacht.
 
 ---
 
@@ -390,4 +485,6 @@ Deshalb entscheidet sie nur über den **Umfang** der Prüfung von Band 3–5, ni
 ## Nächster konkreter Schritt
 
 **Phase A starten:** A1 Glossar (Entscheidungsvorlage inkl. Stockwerke F13) → A5 Satz-Register und
-A6 Fallen-Liste über alle 5 Bände → A11 Prüfskripte mit Fehler-Test → restliche Bibel → Pilot (C).
+A6 Fallen-Liste über alle 5 Bände → A11 Prüfskripte mit Fehler-Test (inkl. D8-Vergleichsmodus) →
+restliche Bibel → Pilot (C). **Parallel:** Schreibregeln S1–S6 in den Stil-Leitfaden für Staffel 2
+übernehmen, sobald der Autor zustimmt.
