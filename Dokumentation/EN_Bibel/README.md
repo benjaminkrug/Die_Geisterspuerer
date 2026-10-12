@@ -18,9 +18,9 @@ Plan: `Dokumentation/Internationalisierung_Vorgehensplan.md`, Phase A.
 | A8 | Stil-Brief EN | [A8_Stil_Brief.md](A8_Stil_Brief.md) | ✅ Fassung 0 · wird im Pilot geschärft |
 | A9 | US-Zielwerte (Vergleichstitel) | – | ⏳ offen |
 | A10 | US-Marktanalyse | – | ⏳ offen · Titelprüfung schon in A1, Gegenprobe (Amazon.com, USPTO) vor dem Cover |
-| A11 | Prüfskripte | `Scripts/en_bibel_extrakt.py` | 🟡 Extraktion fertig (register, fallen, stimmen, motive · mit Selbsttest) · EN-Prüfungen + D8-Vergleich offen |
+| A11 | Prüfskripte | `Scripts/en_bibel_extrakt.py` · `Scripts/pruefe_en.py` | ✅ Extraktion (register, fallen, stimmen, motive) · EN-Prüfung (Absätze, Ein-Satz-Absätze, Ausrufe, Flüche, britisch, Glossar, Motive, Dialogverben, Deutsch-Reste, Stockwerke, Temperaturen, Register) · D8.1-Bericht · beide mit Selbsttest |
 
-**Reihenfolge ab jetzt** (A0, Abschn. 5): ~~A2 + A4 → A8~~ ✅ → **A11** → Pilot → A7/A9 → A10.
+**Reihenfolge ab jetzt** (A0, Abschn. 5): ~~A2 + A4 → A8 → A11~~ ✅ → **Pilot** → A7/A9 → A10.
 
 ## Weitere Unterlagen
 

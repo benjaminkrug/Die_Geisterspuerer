@@ -30,6 +30,8 @@ das **deutsche Original** selbst einen Fehler hat. Und der weitere Ablauf von Ph
 | P5 | **Plan, Abschnitt „Stand"** | Doppelte, abgebrochene Zeile (`A6) → A2 Stimmen …`), veraltete Zahlen (42 statt 43 Register-Einträge; „Sprachwitze B1" statt B1–B5). | bereinigt | Gering. |
 | P6 | **Selbsttest des Skripts** | Prüfte nur, ob *irgendein* Treffer kommt, nicht ob **jeder erwartete Ausdruck** gefunden wird. Den Fehler mit „Dritter Stock" am Satzanfang (A6, F29) hätte er nicht bemerkt. | Selbsttest prüft jetzt jeden erwarteten Ausdruck einzeln, auch „Dritter Stock" und den Genitiv „Frau Silbers". Gegenprobe: Mit dem alten Muster schlägt er fehl. | Mittel — ein Test, der nicht scheitern kann, ist kein Test. |
 
+| P7 | **A5 Satz-Register** (Commit 5cc553a, nachträglich gefunden) | Beim Einfügen von R44/R45 hat mein Bearbeitungs-Skript den Rest der Datei abgeschnitten: **R12–R43 waren gelöscht** (106 → 37 Zeilen). Gefunden hat es der Selbsttest des neuen Prüfskripts `pruefe_en.py` (verlangt ≥ 30 Register-Paare). | Datei aus dem vorigen Stand wiederhergestellt, R44/R45 wieder eingefügt (45 Einträge). Alle anderen Dateien des Commits per Zeilenzahl geprüft: nur A5 betroffen. | **Hoch** — wäre ohne Selbsttest erst beim Übersetzen aufgefallen. Lehre: Nach jeder Bearbeitung per Skript Zeilenzahl vorher/nachher vergleichen. |
+
 **Ehrliche Einordnung:** P2 und P3 sind Flüchtigkeitsfehler beim Schreiben der Vorschläge. P1 ist ein
 Denkfehler: Ich habe die Regel aus Sicht der Übersetzung entworfen und nicht geprüft, was die
 Build-Kette mit dem Text macht. Daraus folgt eine Regel für den Rest von Phase A: **Jede Regel, die den
