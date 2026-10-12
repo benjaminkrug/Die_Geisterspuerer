@@ -24,9 +24,9 @@
 | E5 | **Band 4** *Die zugemauerte Tür* | **The Bricked-Up Door** | *The Walled-Up Door* | Kein gleichnamiges Buch gefunden. *bricked-up* ist für Kinder anschaulicher. | ✅ |
 | E6 | **Band 5** *Der Schleier* | **The Veil** | *Beyond the Veil* | Kurz, passt zur Reihe. *The Veil* ist als Begriff verbreitet (V. E. Schwab, *City of Ghosts*, nutzt „the Veil" ebenso) — als Titel innerhalb der Reihe unproblematisch, allein schwer auffindbar. Untertitel mit Reihenname löst das. | ✅ |
 | E7 | **Hundename** *Schatten* | **Shadow** | — | Name trägt Bedeutung und steht im Titel von Band 3. Großschreibung trennt den Hund vom Wort *shadow* (Band 1, Kap. 12: „A shadow. But not our Shadow."). | ✅ |
-| E8 | **Anrede** *Frau Silber, Frau Held, Herr Kloß …* | **Mrs. Silber, Mrs. Held, Mr. Kloss …** | „Frau"/„Herr" beibehalten | Kinder 9–12 in den USA verstehen „Frau" nicht sicher (≈ „woman"?). „Mrs." ist sofort klar; die deutschen Nachnamen tragen das Flair weiter. Über 160 Stellen. | ✅ |
-| E9 | **Stockwerke** *Erdgeschoss / erster / zweiter Stock* | **US-Zählung:** first floor / **second floor** / **third floor** | nur *downstairs / upstairs / top floor* | ⚠️ Der deutsche 1. Stock ist der amerikanische *second floor*. Kirchgasse 14: EG Frau Held → *first floor*, Familie → *second floor*, Silber → *third floor*. „Zweiter Stock" kommt 20× vor und ist eine Ortsbezeichnung — „the third floor" funktioniert als unheimlicher Ortsname besser als ein vages „upstairs". | ✅ |
-| E10 | **Temperaturen** | **Fahrenheit**, wo eine Zahl nötig ist; sonst Bild statt Zahl | Celsius mit Erklärung | Band 2, Kap. 1 misst per Handy-App: *„13 Grad … 9 Grad. Neun Grad kälter."* → **55 °F … 48 °F**, „sixteen degrees colder". Band 1 *„zehn Grad"* → „the temperature dropped like a stone". | ✅ |
+| E8 | **Anrede** *Frau Silber, Frau Held, Herr Kloß …* | **Mrs. Silber, Mrs. Held, Mr. Kloss …** | „Frau"/„Herr" beibehalten | Kinder 9–12 in den USA verstehen „Frau" nicht sicher (≈ „woman"?). „Mrs." ist sofort klar; die deutschen Nachnamen tragen das Flair weiter. Über 160 Stellen. **Warum *Mrs.* und nicht das neutrale *Ms.*:** Alle Frauen mit Anrede sind alt oder aus einer anderen Zeit — Frau Silber, Frau Held, die Geistfrau Frau Weber (B3), Linas Lehrerin Frau Kettner (Tagebuch 1974). *Mrs.* passt dazu; *Ms.* klänge modern. Für eine junge Frau mit unbekanntem Familienstand in Staffel 2 gilt **Ms.** | ✅ |
+| E9 | **Stockwerke** *Erdgeschoss / erster / zweiter Stock* | **US-Zählung:** first floor / **second floor** / **third floor** | nur *downstairs / upstairs / top floor* | ⚠️ Der deutsche 1. Stock ist der amerikanische *second floor*. Kirchgasse 14: EG Frau Held → *first floor*, Familie → *second floor*, Silber → *third floor*. „Zweiter Stock" kommt 25× vor (A6, F-A) und ist eine Ortsbezeichnung — „the third floor" funktioniert als unheimlicher Ortsname besser als ein vages „upstairs". | ✅ |
+| E10 | **Temperaturen** | **Fahrenheit**, wo eine Zahl nötig ist; sonst Bild statt Zahl | Celsius mit Erklärung | Band 2, Kap. 1 misst per Handy-App: *„13 Grad … 9 Grad. Neun Grad kälter."* → **55 °F … 48 °F**, *“Seven degrees colder. In two steps.”* (korrigiert 2026-10-12: 13→9 °C sind 4 °C = 7 °F, nicht 16 °F; ⚠️ das Original sagt „Neun Grad kälter" — Rechenfehler im Deutschen, siehe A3 Nebenfunde). Band 1 *„zehn Grad"* → „the temperature dropped like a stone". | ✅ |
 | E11 | **Kindliche Schrift im Kondenswasser** (Band 1) | HELP · HERE · DON'T FORGET · DIARY · READ · PLEASE · THANK YOU · UP | — | Kurz, mit dem Finger schreibbar, gleiche Wirkung. Siehe A6 F2. | ✅ |
 | E12 | **Spielbuch-Codewörter** | B1: **KEY · MAP · VOICE** → Serienwort **LISTEN** · B2: **NAME · FILE · VOICE** → **REMEMBER** · Serie: LISTEN · REMEMBER · FORGIVE · LET GO · SET FREE | B2 *AKTE*: *RECORD* | Begriffe statt Buchstabenrätsel — übertragbar. *VOICE* kommt in B1 und B2 vor, wie *STIMME* im Original. *FILE* ist für Kinder klarer als *RECORD*. | ✅ |
 
@@ -135,7 +135,7 @@
 | Sprachnachricht | **voicemail** | B5 K14 |
 | Trockenfutter | **kibble** | B5 K6 |
 | Weichei | **softie** | B4 K7 |
-| verdammt (mild) | **darn** | B3 K13 — Middle Grade USA |
+| verdammt (mild) | **darn** (Kinder) · **blasted** (alte Leute, z. B. Pawlik B3 K13) | Middle Grade USA, nie *damn* |
 | Rente / Un-Rente | **retirement / un-retirement** | B5 K18 |
 
 
@@ -168,3 +168,8 @@ Aug. 2026: Umzug in ein Spukhaus, Geistern beim Hinübergehen helfen, 8–12).
 | 2026-10-12 | angelegt | — | Phase A |
 | 2026-10-12 | Abschn. 5a ergänzt | — | Begriffe aus dem vollständigen Lesen von B1–B5 (A3) |
 | 2026-10-12 | E1–E12 entschieden | Vorschlag → **übernommen** | Autor: „Deine Empfehlungen waren alle super.“ Die Standard-Einträge (Abschn. 2–5) gelten damit ebenfalls. |
+| 2026-10-12 | E9 Begründung | „20×" → „25×" | Zählung aus A6 (Skript ohne Groß-/Kleinschreibung) |
+| 2026-10-12 | E8 Begründung ergänzt | — | Warum *Mrs.* statt *Ms.*; Regel für junge Frauen in Staffel 2 |
+| 2026-10-12 | E10 Beispiel | „sixteen degrees colder" → „Seven degrees colder" | Rechenfehler: 55 − 48 = 7 °F. Das deutsche Original hat selbst einen Rechenfehler (A3 Nebenfunde) |
+| 2026-10-12 | verdammt (mild) | *darn* → *darn* (Kinder) / *blasted* (alte Leute) | Pawliks Stimme; Prüfung Phase A |
+| 2026-10-12 | E1/E2 Gegenprobe | entschieden, **bleibt** | Prüfung Phase A: Titel wurden vor der Marktanalyse A10 festgelegt. Sie bleiben, aber A10 macht vor dem Cover eine Gegenprobe (Amazon.com-Suche, Kategorien). Erst danach ist der Titel endgültig. |

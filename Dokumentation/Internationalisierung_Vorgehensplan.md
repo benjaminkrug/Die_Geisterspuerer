@@ -135,7 +135,7 @@ was messbar ist, **gemessen** werden:
 
 Außerdem: englische Fassungen von `pruefe_qualitaet.py` und `pruefe_logik.py` sowie ein
 Vergleichsmodus DE ↔ EN für die **Nachanalyse D8** (Gleichwertigkeits-Bericht, Auszüge je Figur,
-Kapitelenden, Witze). Dazu sammelt A11 die `EN:`-Markierungen aus den Schreibregeln S1/S4 ein.
+Kapitelenden, Witze). Dazu liest A11 die `EN_Hinweise.md`-Dateien aus den Schreibregeln S1/S4 ein.
 
 Die Skripte werden **vorher** an absichtlich fehlerhaften Testtexten geprüft (wie bei
 `pruefe_band1_umbau.py`): Ein Skript, das eingeschleuste Fehler nicht meldet, ist wertlos.
@@ -313,7 +313,7 @@ Sekunden und spart beim Übersetzen Suche und Fehler.
 
 | # | Regel | Warum | Beispiel aus dem Bestand |
 |---|---|---|---|
-| S1 | **Sprachwitze markieren**, nicht verbieten. Kommentar am Absatz: `<!-- EN: Wortwitz, Funktion: Entlastung nach Schreck -->` | Der Übersetzer weiß sofort, dass er einen gleichwertigen Witz bauen muss, und wozu. | Band 1, Kap. 4: *„Kondenswasser schreibt keine deutschen Wörter!"* |
+| S1 | **Sprachwitze markieren**, nicht verbieten. Eine Zeile in `EN_Hinweise.md` im Manuskript-Ordner (Kapitel · Zitat · Art · Funktion) — **kein** `<!-- -->`-Kommentar im Text, weil die Build-Skripte ihn mitdrucken würden | Der Übersetzer weiß sofort, dass er einen gleichwertigen Witz bauen muss, und wozu. | Band 1, Kap. 4: *„Kondenswasser schreibt keine deutschen Wörter!"* |
 | S2 | **Wiederkehrende Sätze sofort ins Satz-Register** eintragen und danach wörtlich gleich verwenden | Callbacks und Zitate über Bände bleiben in jeder Sprache gleich. | Silbers Notizbuch, zitiert in Band 4 |
 | S3 | **Stockwerke, Maße, Schulklassen nur, wenn die Handlung sie braucht**; sonst „oben", „unten", „ein paar Schritte" | Deutsche und US-Zählung weichen ab (F13); Zahlen müssen sonst umgerechnet werden. | Band 1: *„Erste Etage"*, *„zehn Grad"*, *„dreißig Kilo"* |
 | S4 | **Kulturbezüge so, dass sie sich selbst erklären** — oder markieren | Was in Deutschland jeder kennt, versteht ein US-Kind nicht ohne Weiteres. | S2-1, Kap. 6: klopfte dreimal, *„wie bei einem Adventskalender"* |
@@ -322,7 +322,7 @@ Sekunden und spart beim Übersetzen Suche und Fehler.
 
 **Wo die Regeln stehen:** in diesem Plan und in `Dokumentation/Schreibstil_Ergaenzung_Staffel2.md`
 (vom Autor freigegeben 2026-10-12, verlinkt in `Staffel2/PLAN_Staffel2.md`, Abschnitt 1a). Neue Prüfskripte braucht es dafür nicht —
-die Markierungen aus S1 und S4 werden in A11 nur **eingesammelt**.
+die Hinweise aus S1 und S4 (`EN_Hinweise.md`) werden in A11 nur **eingelesen**.
 
 ---
 
@@ -490,8 +490,8 @@ Leser (E2).
 ## Stand und nächster Schritt
 
 **Phase A gestartet 2026-10-12** — Stand in `Dokumentation/EN_Bibel/README.md`:
-A1 Glossar (**entschieden**, alle 12 Vorschläge übernommen), A5 Satz-Register (42 Einträge),
-A6 Fallen-Liste (messbar B1–B5, Sprachwitze B1), A11 Extraktions-Skript mit Selbsttest.
+A1 Glossar (**entschieden**, alle 12 Vorschläge übernommen), A5 Satz-Register (43 Einträge),
+A6 Fallen-Liste (B1–B5, 30 Fallen), A11 Extraktions-Skript mit Selbsttest.
 Schreibregeln S1–S6 stehen im Stil-Leitfaden für Staffel 2.
 
 **Wichtigster Fund:** Der wörtliche Titel *The House That Whispers* ist besetzt (Middle-Grade-Geisterroman,
@@ -499,5 +499,11 @@ Little, Brown 2023) → Vorschlag *The Whispering Window* (A1, E2).
 
 **A3 Witz-Liste fertig (2026-10-12):** alle fünf Bände gelesen, ≈ 280 Witze, nur 2 hängen am Deutschen; 13 Running Gags über Bände; Nebenfunde im deutschen Original (u. a. 8 Tippfehler in Band 2, ein Verweis in Band 5 auf eine Frau-Held-Szene, die es in Band 1 nicht gibt).
 
-**Als Nächstes:** A2 Stimmen, A4 Motive → A11 EN-Prüfungen + D8-Vergleichsmodus → A7–A10 → Pilot (C).
-A6) → A2 Stimmen, A4 Motive → A11 EN-Prüfungen + D8-Vergleichsmodus → A7–A10 → Pilot (C).
+**Phase A geprüft (2026-10-12)** — `Dokumentation/EN_Bibel/A0_Pruefung_Phase_A.md`: sechs Fehler
+korrigiert, darunter die Markierung in S1/S4 (`<!-- -->`-Kommentare wären mitgedruckt worden → jetzt
+Nebendatei `EN_Hinweise.md`). Drei Fehler im deutschen Original gemeldet (u. a. B2 K1 „Neun Grad kälter"
+bei 13 → 9 Grad).
+
+**Als Nächstes (umgestellt nach der Prüfung):** A2 Stimmen + A4 Motive (aus Skript und vorhandenen
+Unterlagen) → A8 Stil-Brief → A11 EN-Prüfungen + D8-Vergleichsmodus → **Pilot (C)** → A7 und A9 für
+die übrigen Kapitel → A10 mit Titel-Gegenprobe vor dem Cover. Begründung: A0, Abschnitt 5.

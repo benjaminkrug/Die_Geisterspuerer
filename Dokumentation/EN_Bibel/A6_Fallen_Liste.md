@@ -1,6 +1,6 @@
 # A6 · Fallen-Liste — Stellen, die beim Übersetzen eine Entscheidung brauchen
 
-> Phase A der englischen Ausgabe. Stand 2026-10-12.
+> Phase A der englischen Ausgabe. Stand 2026-10-12 (nach Prüfung, siehe `A0_Pruefung_Phase_A.md`).
 > **Quelle:** `python3 Scripts/en_bibel_extrakt.py fallen --band1 <umgebaute Fassung>` (automatische
 > Suche in Band 1–5) plus manuelle Lesung von Band 1 (umgebaute Fassung, alle 16 Kapitel).
 >
@@ -20,7 +20,7 @@
 |---|---|---|---|
 | zweiten / zweite / Zweiter Stock | 25 | B1, B3, B4, B5 | **third floor** (Silbers Wohnung) |
 | ersten Stock, Erste Etage, Etage | 6 | B1, B3, B4 | **second floor** (Familie) |
-| Erdgeschoss, Erdgeschosswohnung | 2 | B1 K15, B4 K2 | **first floor** / *the downstairs apartment* (Frau Held) |
+| Erdgeschoss, Erdgeschosswohnung | 2 | B1 K15, B4 K2 | **first floor** / *the downstairs apartment* (in B1 namenlos; Frau Held erst ab B2 namentlich, eingeführt im Spielbuch B1) |
 | obersten Stock | 1 | B4 K3 | **top floor** (Fabers Zimmer) |
 | Dritter Stock (Archiv, „Regal acht“) | 1 | B2 K4 | **fourth floor** |
 | dritten Stock | 1 | B5 K7 | Fabrikfenster → **fourth floor** — oder *a top-floor window* (Zahl ist dort unwichtig) |
@@ -32,7 +32,7 @@ Englischen genau um eins höher gezählt sein — oder als *upstairs/top floor* 
 
 | Ausdruck | Stellen | Lösung |
 |---|---|---|
-| **13 / 12 / 11 / 9 Grad**, *„Neun Grad kälter"* (Handy-App) | B2 K1 | **55 / 54 / 52 / 48 °F**, *„sixteen degrees colder"* — die App-Szene braucht Zahlen, also umrechnen |
+| **13 / 12 / 11 / 9 Grad**, *„Neun Grad kälter"* (Handy-App) | B2 K1 | **55 / 54 / 52 / 48 °F**, *“Seven degrees colder.”* — die App-Szene braucht Zahlen, also umrechnen. ⚠️ Das Original rechnet falsch (13→9 = 4 Grad, nicht 9) — erst auf Deutsch klären |
 | zwei Grad, ein Grad, fünfzehn Grad | B2 K9–K10, B3 K15 | umrechnen (°F), Differenzen ×1,8 |
 | zehn Grad (Temperatursturz) | B1 K2 | Bild statt Zahl: *the temperature dropped like a stone* |
 | drei / fünf / zwanzig / dreißig / dreihundert Meter | B1, B2, B5 | Bild oder *feet/yards* — *a few steps*, *across the street*, *the length of a bus*; nur umrechnen, wenn die Zahl zählt |

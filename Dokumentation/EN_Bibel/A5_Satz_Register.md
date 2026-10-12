@@ -26,7 +26,7 @@ Ein Zitat, das in Band 4 anders lautet als in Band 1, merken aufmerksame Leser s
 | R2 | *Wenn ihr das lest, bin ich nicht mehr hier.* | B1 K15 | *If you are reading this, I am no longer here.* |
 | R3 | Die Unruhigen brauchen jemanden, der ihre Geschichte versteht. Nicht nur kennt. Versteht. | B1 K11 (Notizbuch), sinngemäß B1 K16 (Brief) | *The Restless need someone who understands their story. Not just knows it. Understands it.* |
 | R4 | Und hütet euch vor dem Ersten. Er ist nicht wie die anderen. | B1 K16 | *And beware of the First One. He is not like the others.* |
-| R5 | *Wütend. Grab.* (Kartennotiz zu Heinrich B.) | B1 K15 (2×) | *Angry. Grave.* — zwei Wörter, Bleistift, kein Satz |
+| R5 | *Wütend. Grab.* (Kartennotiz zu Heinrich B.) | B1 K15 (2×) | *Angry. Grave.* — zwei Wörter, Bleistift, kein Satz. ⚠️ *grave* heißt auch „ernst"; im Kontext (Friedhof, Karte zu einem Toten) liest es sich als Grab. Bleibt wegen Theos Witz F17 (*“Angry period. Grave period.”*), Pilot prüft Verständnis |
 | R6 | *Vorsicht. Er ist noch ein Kind.* (Kartennotiz) | B2 K14, K15 · B3 K1 (2×) | *Careful. He is still a child.* |
 | R7 | *Hier ist nicht das Kind gefangen. Es ist die Mutter.* | B3 K7 | *It is not the child who is trapped here. It is the mother.* — korrigiert R6, muss R6 erkennbar aufgreifen |
 | R8 | Motto B3: *Nicht jeder Unruhige sucht die Wahrheit. / Manche suchen nur die Erlaubnis, endlich aufzuhören.* | B3 Vorspann | *Not every one of the Restless is looking for the truth. / Some are only looking for permission to finally stop.* |
@@ -61,10 +61,10 @@ Ein Zitat, das in Band 4 anders lautet als in Band 1, merken aufmerksame Leser s
 | R27 | *Niemand glaubt mir.* | B1 K9, K11, K12, K15 | *Nobody believes me.* | Linas Kernsatz, 4 Stellen |
 | R28 | *Morgen gehe ich in den Keller.* | B1 K9, K13 | *Tomorrow I'm going down to the cellar.* | |
 | R29 | Das Buch liegt unter dem Stein mit dem Hund. | B2 K5, K6 | *The book is under the stone with the dog.* | |
-| R30 | *Hatte eine Tochter in Hannover. Wusste nicht, dass er starb.* | B2 K9, K14 | *Had a daughter in Hanover. Never knew he died.* | Hannover → **Hanover** (englische Schreibweise) |
+| R30 | *Hatte eine Tochter in Hannover. Wusste nicht, dass er starb.* | B2 K9, K14 | K9: *Had a daughter in Hanover. She never knew he died.* · K14: *She never knew he died.* — das *she* muss stehen, sonst liest man „er wusste nicht, dass er starb" | Hannover → **Hanover** (englische Schreibweise) |
 | R31 | Ja, ich höre dich. | B2 K10, K11 | *Yes, I hear you.* | |
 | R32 | Er suchte nach dem Wort. | B2 K8, K12, K14 · B3 K1 | *He searched for the word.* | Kloß-Gestus, geht in B3 über |
-| R33 | FÜR MAMA. ICH BIN NICHT BÖSE. | B3 K10, K13 (+ „ICH BIN NICHT BÖSE." 5×) | *FOR MOM. I'M NOT MAD.* | ⚠️ *böse* = hier „wütend" (Kind zur Mutter), nicht „evil". *I'M NOT ANGRY* ist die sichere Alternative. Ritzung in der Wand: kurz halten. |
+| R33 | FÜR MAMA. ICH BIN NICHT BÖSE. | B3 K10, K13 (+ „ICH BIN NICHT BÖSE." 5×) | *FOR MOM. I'M NOT MAD.* | ⚠️ *böse* = hier „wütend" (Kind zur Mutter), nicht „evil". *I'M NOT ANGRY* ist die sichere Alternative. Ritzung in der Wand: kurz halten. **Ohne Objekt lassen** (nicht *mad at you*): In B3 K13 sagt Nora, der Satz sei an niemanden gerichtet — ein Objekt würde diese Deutung zerstören. *MAD* statt *ANGRY*, weil es nach Kind klingt; Risiko: britische Leser lesen *mad* als „verrückt" — für die US-Ausgabe hinnehmbar. |
 | R34 | Wo ist mein Junge? | B3 K8, K11 | *Where is my boy?* | |
 | R35 | Steht in keinem Buch, aber so ist es. | B3 K13, K16 | *It's not in any book, but that's how it is.* | |
 | R36 | Du bist wie ich, Kind. | B5 K4, K11, K16 | *You are like me, child.* | Grabens Satz, 3 Stellen |

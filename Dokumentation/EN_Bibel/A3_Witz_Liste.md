@@ -132,7 +132,7 @@ eine Frage an das Original (Grusel-Humor-Balance), nicht an die Übersetzung.
 | W3-05 | K6 | „Du hörst zu, aber du hörst nicht *hin*." | C | U | *“You're listening, but you're not* hearing*.”* | **Trägt das Kernthema der Reihe** (Zuhören). Wortspiel *zuhören/hinhören* → *listen/hear* funktioniert — muss sitzen |
 | W3-06 | K6 | „Schreib das auf. Datum und Uhrzeit. *Theo hatte recht — und es gibt einen Zeugen mit Fell.*" | C/R | Ü | *“Write it down. Date and time.* Theo was right — and there's a witness with fur.*”* | **R** zu B1 K4 („Theo hatte recht. Steht auf meinem Grabstein.") und B3 K9 („falls jemand mitschreibt") |
 | W3-07 | K7 | „Also warst du die ganze Zeit ein Profi. Und wir waren die Praktikanten." | W | U | *“So you were a pro the whole time. And we were the interns.”* | *Praktikant* → *intern* |
-| W3-08 | K13 | Pawlik: „Margrets **verdammter** Hund." | W | U | *“Margret's darn dog.”* | Milder Fluch — für Middle Grade USA eine Stufe weicher (*darn*); *damn* wäre für 9–12 riskant in Eltern-Rezensionen |
+| W3-08 | K13 | Pawlik: „Margrets **verdammter** Hund." | W | U | *“Margret's blasted dog.”* | Milder Fluch — für Middle Grade USA eine Stufe weicher; *damn* wäre für 9–12 riskant in Eltern-Rezensionen. **Geändert bei der Prüfung:** *blasted* statt *darn* — *darn* klingt nach Kind oder Oma, *blasted* nach knurrigem altem Mann (Pawlik) und ist genauso harmlos |
 | W3-09 | K13 | Theo duzt Pawlik („Der Hund hat **dir** den Mantel gebracht"), Nora siezt ihn | C | — | — | **Geht verloren:** Englisch kennt kein du/Sie. Theos Frechheit muss über Ton und Wortwahl kommen, nicht über die Anrede. Kein Handlungsbezug, daher unkritisch |
 | W3-10 | K15 | „Ich hab Staub im Auge … Guter Staub aber. Der beste Staub, den ich je hatte." | W/R | Ü | *“I've got dust in my eye … Good dust, though. The best dust I've ever had.”* | **R über Bände** zu B1 K16 („Ich heul nicht. Staub.") — gleiches Wort *dust* |
 | W3-11 | K16 | „Andere Kinder sammeln Sticker." – „Wir sammeln Geister." – „Schlechteres Hobby. Coolere Geschichten." | C/R | Ü | *“Other kids collect stickers.” – “We collect ghosts.” – “Worse hobby. Cooler stories.”* | **R** zu B1 K6 („Andere Kinder … Videospiele. Wir ermitteln in Geisterfällen.") |
@@ -274,7 +274,7 @@ Diese Stellen müssen **gemeinsam** übersetzt werden — wer Band 1 übersetzt,
 | Sprachnachricht | **voicemail** | B5 K14 |
 | Trockenfutter | **kibble** | B5 K6 |
 | Weichei | **softie** | B4 K7 |
-| verdammt (Pawlik) | **darn** | B3 K13 |
+| verdammt (Pawlik) | **blasted** | B3 K13 |
 
 ## Nebenfunde im deutschen Original (für den Autor, nicht für die Übersetzung)
 
@@ -291,7 +291,8 @@ ist, sollte zuerst **auf Deutsch** korrigiert werden — sonst wird es mitübers
 | B2 | K11 Z.2279 | „Ich sieh dich" → „Ich seh dich" |
 | B2 | K12 Z.2395 | „kein Gegenbeleg gibt" → „keinen Gegenbeleg gibt" |
 | B2 | K12 Z.2431 | „der Schlimmste Moment" → „der schlimmste Moment" |
-| B5 | K5 | Nora erinnert sich, Frau Held habe „im Sommer" gesagt *„Niemand hört mir zu"* und ihnen „den ersten echten Hinweis" gegeben. **Frau Held kommt in Band 1 nicht vor** (weder alte noch umgebaute Fassung). Ähnlich B3 K2 („bei Frau Held gesehen, im Treppenhaus, vor langer Zeit"). [prüfen: Rest einer früheren Planung?] |
+| B5 | K5 | Nora erinnert sich, Frau Held habe „im Sommer" gesagt *„Niemand hört mir zu"* und ihnen „den ersten echten Hinweis" gegeben. **Nachgeprüft:** Frau Held kommt im Roman Band 1 nicht vor (0 Treffer, alte und umgebaute Fassung, auch nicht in der Git-Geschichte), wohl aber im **Spielbuch Band 1** (`Band1/CYOA`, z. B. Abschnitt 017: „Nachbarin im Erdgeschoss", Abschnitt B14). Der Rückbezug stimmt also für Spielbuch-Leser, für reine Roman-Leser hängt er in der Luft. Ähnlich B3 K2. **Für EN wichtig:** Wird das Spielbuch nicht übersetzt, ist der Bezug im Englischen ganz ohne Grundlage → auf Deutsch entscheiden, ob Band 1 (Roman) Frau Held kurz einführt. |
+| B2 | K1 Z.153–157 | Wetter-App: 13 → 12 → 11 → 9 Grad, dann *„Neun Grad kälter."* — **Rechenfehler**, es sind 4 Grad. Steht so auch im `Serien_Kanon.md` („9 Grad kälter"). Vorschlag DE: *„Vier Grad kälter. In zwei Metern."* — oder die Reihe auf 13 → 4 Grad ändern, wenn der Sturz drastisch sein soll. Nebenbei: Eine Wetter-App zeigt die Vorhersage, nicht die Temperatur am Handy — fällt Kindern kaum auf, einem genauen Leser schon. EN bis zur Klärung: *“Seven degrees colder.”* (55 → 48 °F) |
 | B5 | K1, K3, K5 | „Nicht an der Wohnungstür, wie damals in dem alten Haus" und eine **Balkontür** — klingt, als wohne die Familie inzwischen woanders. Kanon: Kirchgasse 14 in allen Bänden. [prüfen] |
 | B5 | K14 | Theo: „Sie hat's ja **hundert** Jahre lang gemacht" — sonst überall zweihundert. Kann Theos Ungenauigkeit sein [prüfen] |
 | B5 | K9 Z.1142 | Zwei wörtliche Reden direkt hintereinander ohne Begleitsatz („Das ist nicht das Kind." „Das war nie das Kind …") — Satzzeichen-Rest |
@@ -307,6 +308,21 @@ ist, sollte zuerst **auf Deutsch** korrigiert werden — sonst wird es mitübers
 | Übertragbar mit Hinweis (Teil A: Running Gags, Fallen) | 2 | 3 | 5 | 2 | 6 | **18** |
 | Übertragbar (Teil B, gezählt) | 89 | 53 | 35 | 23 | 26 | **226** |
 | **Summe** | **108** | **63** | **46** | **28** | **37** | **≈ 280** |
+
+**Vorsicht beim Vergleich der Bände** (ergänzt bei der Prüfung 2026-10-12): Die Zahlen sind
+**nicht** gleich genau erhoben. Band 1 wurde Satz für Satz durchgezählt (er ist auch der Band, der
+zuerst übersetzt wird), Band 2–5 beim Lesen in größeren Abschnitten. Band 1 ist außerdem der längste.
+Pro 1.000 Wörter:
+
+| | B1 | B2 | B3 | B4 | B5 |
+|---|---|---|---|---|---|
+| Wörter (ca.) | 22.800 | 18.400 | 17.100 | 16.200 | 17.200 |
+| Witze je 1.000 Wörter | 4,7 | 3,4 | 2,7 | 1,7 | 2,2 |
+
+Der Rückgang ist zum Teil echt (die Bände werden ernster, die Gruselstufe steigt von 3 auf 8), zum
+Teil Zählweise. **Nicht daraus schließen, dass Band 4 „zu wenig Humor" hat** — dafür bräuchte es eine
+gleich genaue Zählung. Für die Übersetzung spielt das keine Rolle: Entscheidend sind die 36 Umbauten und
+die 2 Neuerfindungen, und die sind in allen Bänden vollständig erfasst, weil sie beim Lesen auffallen.
 
 **Was das für die Übersetzung heißt:**
 1. **Nur 2 von rund 280 Witzen hängen wirklich am Deutschen** (W1-08, W2-02). Der Humor der Reihe ist

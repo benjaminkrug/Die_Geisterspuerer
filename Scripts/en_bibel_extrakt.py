@@ -118,6 +118,7 @@ def selbsttest():
     text = (
         "# Kapitel 1\n„Es gibt eine Erklärung“, sagte Nora.\nIm ersten Stock war es kalt, zehn Grad.\n"
         "# Kapitel 2\n„Es gibt eine Erklärung“, sagte Nora leise.\nSie trank Kakao.\n"
+        "Dritter Stock, Regal acht. Frau Silbers Wohnung war leer.\n"
     )
     ok = True
     gefunden = defaultdict(list)
@@ -128,8 +129,10 @@ def selbsttest():
     if gefunden.get("es gibt eine erklärung") != [1, 2]:
         print("FEHLT: wiederkehrender Satz trotz anderem Begleitsatz", dict(gefunden))
         ok = False
-    for name, erwartet in (("Stockwerk", "ersten Stock"), ("Mass/Zahl", "zehn Grad"), ("Kultur/Alltag", "Kakao")):
-        if not re.search(FALLEN[name], text):
+    # Jeder erwartete Ausdruck muss einzeln gefunden werden (auch am Satzanfang, auch im Genitiv).
+    for name, erwartet in (("Stockwerk", "ersten Stock"), ("Stockwerk", "Dritter Stock"), ("Mass/Zahl", "zehn Grad"),
+                           ("Kultur/Alltag", "Kakao"), ("Anrede Frau/Herr", "Frau Silbers")):
+        if erwartet not in [m.group(0) for m in re.finditer(FALLEN[name], text)]:
             print(f"FEHLT: {name} ({erwartet})")
             ok = False
     print("SELBSTTEST BESTANDEN" if ok else "SELBSTTEST FEHLGESCHLAGEN")
