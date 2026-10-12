@@ -298,6 +298,7 @@ ist, sollte zuerst **auf Deutsch** korrigiert werden — sonst wird es mitübers
 | B5 | K9 Z.1142 | Zwei wörtliche Reden direkt hintereinander ohne Begleitsatz („Das ist nicht das Kind." „Das war nie das Kind …") — Satzzeichen-Rest |
 | B4 | K16 (Kapitel_16.md Z. 51) | Szenentrenner `---` zwischen Theos Frage *„Hat's funktioniert?"* und Mamas Antwort — mitten im Gespräch. Absicht oder Versehen? [prüfen] (gefunden bei A2) |
 | B1 (umgebaut) | K8 (2×), K13 | Abgebrochene Rede 3× mit `--` (*„Nora --"*), sonst überall `–`. Satzbild vereinheitlichen. (gefunden bei A8) |
+| B1 (umgebaut) | K9 | *„\*30. Oktober. Nur noch zwei Einträge\*“, sagte Nora leise.* — „Nur noch zwei Einträge" ist **Noras** Bemerkung, steht aber kursiv **im** Tagebuch-Zitat, als hätte Lina es geschrieben. Vorschlag: „\*30. Oktober.\* Nur noch zwei Einträge", sagte Nora leise. (gefunden beim Pilot) |
 
 ---
 
