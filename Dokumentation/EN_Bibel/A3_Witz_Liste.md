@@ -116,3 +116,47 @@ wirklich am Deutschen** (W1-08). Der Rest ist Situationskomik — gute Nachricht
 mehrere Kapitel (Skala bis tot, Film-Sterbeszene) und **einer über zwei Bände** (*Gemütlich*).
 **Auffällig:** Band 2 hat deutlich weniger Witze als Band 1 — in K10, K11, K13 kaum einer. Das ist
 eine Frage an das Original (Grusel-Humor-Balance), nicht an die Übersetzung.
+
+---
+
+## Band 3 — Schatten sieht mehr
+
+### Teil A · Umbauen / neu erfinden
+
+| # | Stelle | Deutsch | Fkt. | Typ | Englisch (Vorschlag) | Warum |
+|---|---|---|---|---|---|---|
+| W3-01 | K1 | „Das ist nicht unhöflich. Das ist unheimlich." | E | U | *“That's not rude. That's creepy.”* — im Pilot Variante mit Klangspiel suchen (*“That's not impolite. That's impossible.”*) | Der Witz lebt vom Gleichklang *unhöflich / unheimlich* |
+| W3-02 | K1 | „Du machst das Gesicht." – „Welches Gesicht?" – „Das Gesicht, das du beim Friedhof gemacht hast. Bevor alles schlimm wurde." | C/R | Ü | *“You're making the face.” – “What face?” – “The face you made at the cemetery. Before everything went bad.”* | **R über Bände** zu B2 K8 („Du machst ein Gesicht") — gleiche Wörter wählen |
+| W3-03 | K1 | „Das ist falschrum. Das ist alles falschrum." | E | U | *“That's backwards. That's all backwards.”* | |
+| W3-04 | K3 | „… genau den gleichen blöden **Pony** wie ich auf meinem Kindergartenfoto … Solidarität unter Pony-Trägern." | W | U | *“… the exact same dumb* bangs *I had in my kindergarten photo … Solidarity among bad-bangs kids.”* | ⚠️ **Falscher Freund:** *pony* heißt im Englischen „Pony (Pferd)". US: *bangs*. Auch im Erzähltext („schiefer Pony", K3/K4) → *crooked bangs* |
+| W3-05 | K6 | „Du hörst zu, aber du hörst nicht *hin*." | C | U | *“You're listening, but you're not* hearing*.”* | **Trägt das Kernthema der Reihe** (Zuhören). Wortspiel *zuhören/hinhören* → *listen/hear* funktioniert — muss sitzen |
+| W3-06 | K6 | „Schreib das auf. Datum und Uhrzeit. *Theo hatte recht — und es gibt einen Zeugen mit Fell.*" | C/R | Ü | *“Write it down. Date and time.* Theo was right — and there's a witness with fur.*”* | **R** zu B1 K4 („Theo hatte recht. Steht auf meinem Grabstein.") und B3 K9 („falls jemand mitschreibt") |
+| W3-07 | K7 | „Also warst du die ganze Zeit ein Profi. Und wir waren die Praktikanten." | W | U | *“So you were a pro the whole time. And we were the interns.”* | *Praktikant* → *intern* |
+| W3-08 | K13 | Pawlik: „Margrets **verdammter** Hund." | W | U | *“Margret's darn dog.”* | Milder Fluch — für Middle Grade USA eine Stufe weicher (*darn*); *damn* wäre für 9–12 riskant in Eltern-Rezensionen |
+| W3-09 | K13 | Theo duzt Pawlik („Der Hund hat **dir** den Mantel gebracht"), Nora siezt ihn | C | — | — | **Geht verloren:** Englisch kennt kein du/Sie. Theos Frechheit muss über Ton und Wortwahl kommen, nicht über die Anrede. Kein Handlungsbezug, daher unkritisch |
+| W3-10 | K15 | „Ich hab Staub im Auge … Guter Staub aber. Der beste Staub, den ich je hatte." | W/R | Ü | *“I've got dust in my eye … Good dust, though. The best dust I've ever had.”* | **R über Bände** zu B1 K16 („Ich heul nicht. Staub.") — gleiches Wort *dust* |
+| W3-11 | K16 | „Andere Kinder sammeln Sticker." – „Wir sammeln Geister." – „Schlechteres Hobby. Coolere Geschichten." | C/R | Ü | *“Other kids collect stickers.” – “We collect ghosts.” – “Worse hobby. Cooler stories.”* | **R** zu B1 K6 („Andere Kinder … Videospiele. Wir ermitteln in Geisterfällen.") |
+
+### Teil B · Übertragbar (abhaken)
+
+| Kap. | Witze (Kurzform, Funktion) |
+|---|---|
+| K1 | „Das hast du beim vierten Mal auch gesagt." (C) · „Warum treffen wir Geister nie an einem hellen Ort? Einmal. Ein Café. Mit Kuchen." (E) · „Er weiß es immer." (C) |
+| K2 | „Oder ist deshalb komisch geworden. Ich würde komisch werden." (C, **R** → K3) · „Charmant. Ich glaube, wir haben einen neuen besten Freund." (E) · „Alle haben Angst vor Schatten. Schatten ist ein Geisterhund." (C) · „Frag ihn." (C) |
+| K3 | „Schatten hat Angst vor dem Staubsauger." (C, *vacuum cleaner*) · „Drei Dinge." (C, Nora) · „Als hätte er Angst, dass sie wegläuft." (E) · „Ich sag ja nur." (Register R40) · „Ich würde auch komisch werden. Ich nehme alles zurück." (W, **R** zu K2) |
+| K4 | „UNSER GEISTERHUND FREUT SICH … das schlechteste Zeichen aller Zeiten." (E) |
+| K5 | „Einen großen, wenn das Etwas dich fressen will." (E) · „Süß. Auf eine gruselige Art." (E) · „Sag's nicht." (E) · „Lass mich kurz zusammenfassen … Alles völlig normal. Kein Grund zur Sorge." (E) · „**Ich rede, wenn ich Angst habe. Lass mich.**" (C — Theos Selbstbeschreibung, Schlüsselsatz für A2 Stimmen) |
+| K6 | „Selbst der Hund ist auf meiner Seite." (C) · „Ich sag ja nur." (R40) |
+| K7 | „Hättest ruhig mal was sagen können, Schatten. Ein Beller. Ein Hinweis." (W) · „du bist auch kein normaler Hund, oder?" (W) |
+| K9 | „Ihr seht aus, als hättet ihr sie gesehen." – „Wir haben sie gehört." – „Das ist fast dasselbe." (Pawlik, C) · „Ich will ja nichts sagen … falls jemand mitschreibt: Ich hatte recht." (R42, **R** W3-06) · „Danke. Das musste raus." (W) |
+| K10 | „Comics über Furzgeräusche … Mit Kapiteln." (W — *fart noises*, für US-Middle-Grade unproblematisch) |
+| K11 | „Schatten kennt hier unten einfach alle … ein ganzes Geheimleben" (E) |
+| K12 | „Ein Geist hat mich gerade vor einem Einsturz gerettet. Den ein anderer Teil von genau demselben Geist verursacht hat." (E) · „Mein Kopf tut weh. Und nicht vom Schutt." (E) |
+| K13 | „Steht in keinem Buch, aber so ist es." (Register R35) |
+| K14 | „falls du noch verborgene Superkräfte hast — jetzt wäre ein guter Moment" / „wahrscheinlich nur Zustimmung. Aber ich nehm's." (E) |
+| K16 | „Neun bleiben. Klingt nach viel." (C) · „Ich sag's nur gern nochmal laut. Damit es offiziell ist." (C) · „Steht in keinem Buch …" (R35) · „Weißt du, was komisch ist?" – „Sehr vieles in meinem Leben gerade." (R41, C) |
+
+**Bilanz Band 3:** 11 Einträge in Teil A, keine echte Neuerfindung. Aber: **ein falscher Freund**
+(*Pony*), **ein Themen-Wortspiel** (*zuhören/hinhören*) und **drei Running Gags über Bände**
+(Gesicht, Staub, „Andere Kinder …"). Band 3 hat wieder mehr Witze als Band 2 — Theos Humor ist hier
+auch Figurenentwicklung („Ich rede, wenn ich Angst habe").
