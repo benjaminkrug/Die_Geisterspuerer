@@ -178,3 +178,142 @@ Formen, Stockwerke +1, keine deutschen Reste.
 6. **„Nichts weglassen" bei Redundanz im Englischen** — z. B. „Sein Fell sträubte sich am Nacken" → *hackles* enthält den Nacken schon. Ich habe *am Nacken* nicht eigens übersetzt; das ist formal ein Weglassen. Der Brief sollte „im Wort enthalten" als erlaubt nennen.
 7. **Abschnitt 9 (Ablage)** nennt `Band1/Manuskript_EN/…`, der Pilotauftrag `Pilot/EN_K01.md` — für den Pilot korrekt so abgelegt, im Brief nachziehen.
 8. **Varianten für „jede Fallen-Stelle"** sind bei mechanischen Fallen (Stockwerk, Bohnerwachs) leere Pflicht: Es gibt eine richtige Lösung, die Varianten sind Strohmänner. Vorschlag: Varianten nur für Witz-, Stimm- und Rhythmusfallen.
+
+---
+
+## Runde 2
+
+Grundlage: geänderte Bibel (A8 Abschn. 2 + 6, A2 Abschn. 1 + 3) und die Prüfberichte D3, D4, D5, D6.
+Wo eine Zeile aus Abschnitt 1–4 dadurch überholt ist, gilt Runde 2 (z. B. *That's silly* → *Oh, come on*,
+*their mother* → *Mom*, *nameplate* → *name card*, *muzzle* → *nose*, Kapitelende Absatz 116–117).
+Absatz-Nr. = Prüfskript-Zählung (Überschrift = 1). D3/D5 zählen ohne Überschrift (ihre Nr. + 1), D4/D6 nach Zeilen.
+
+### Regel-Änderungen aus der Bibel (ohne Befund-Nummer umgesetzt)
+
+- A2 Abschn. 3 / A8 Abschn. 6: Erzähltext *Mom* statt *their mother* (Absatz 10, 16, 21, 33, 41, 43, 48). In Absatz 10 der zweite Bezug als *She*, damit nicht zweimal *Mom* im selben Absatz steht.
+- A2 Abschn. 1: *Quatsch* → *“Oh, come on.”* (Absatz 7).
+- A8 Abschn. 6: *bedroom*, *grocery store*, *name card by the doorbell*, *nose*, *box of snacks*, *doorway* übernommen.
+- A8 Abschn. 2: keine vorangestellte Ortsangabe mit umgestelltem Verb mehr (Absatz 74, 109); Fragmente an Anfang, Ende und in Schreckmomenten unverändert gelassen.
+
+### Befunde
+
+| Quelle + Nr. | Entscheidung | Grund (eine Zeile) |
+|---|---|---|
+| D3-15 | abgelehnt | *Second floor* ist nach Glossar E9 gewollt; die Mehrdeutigkeit für deutsche Leser ist kein Fehler im Englischen. |
+| D3-53 | abgelehnt | Stockwerk wie D3-15; Schild vor dem Sehen ist ein Fehler im Original → an den Autor (Abschnitt 5, Nr. 2). |
+| D3-60 | angenommen | *strange* las sich als „seltsam“ → *Here, nothing was familiar.* (wie D4-2). |
+| D3-73 | abgelehnt | Küchenfenster zum Hof und trotzdem Blick auf die Haustür: Fehler im Original → an den Autor. |
+| D3-103 | abgelehnt | Stockwerk wie D3-15. |
+| D3-105 | abgelehnt | Stockwerk wie D3-15. |
+| D3-107 | angenommen | *under the door frame* unklar → *fine dust lay in the doorway* (A8: Schwelle → *doorway*). |
+| D4-1 | angenommen | *something sweet* → *something sickly sweet* (*süßlich* ist ein Warnsignal). |
+| D4-2 | angenommen | *Here everything was strange.* → *Here, nothing was familiar.* (Heimweh, nicht Grusel). |
+| D4-3 | angenommen | *clicked shut* → *thudded shut* (schwere Tür, Geräusch hallt). |
+| D4-4 | angenommen | *soon* → *in a minute* (*gleich*). |
+| D4-5 | angenommen | *shaky* → *scrawly* (*krakelig*, keine Aussage über eine zitternde Hand). |
+| D4-6 | angenommen | → *“Can you just not explain everything for once?”* (Lesart als Bitte sitzt sofort). |
+| D5-1 | angenommen | *was parked crooked*: Zustandsbeschreibung, kein Handlungspassiv; so sagen es Amerikaner. |
+| D5-2 | angenommen | *Their new building*; folgerichtig auch *in front of the building*, *old building* (Witz Absatz 7–8, A1 erlaubt *old building*) und *into the building* (Absatz 97). Theos *the house hates us* / *Houses don't hate anybody* bleibt *house*. |
+| D5-3 | angenommen | *Cracks ran through the plaster like wrinkles on an old face.* — Bild bleibt, nur verständlich. |
+| D5-4 | angenommen | *He was hugging his backpack to his chest like a shield.* |
+| D5-5 | angenommen | *“Oh, come on,”* (A2 entschieden). |
+| D5-6 | angenommen | *Mom* im Erzähltext (A2 Abschn. 3). |
+| D5-7 | angenommen | *“So what do you think?”* — *Well?* ist schon für „Und?“ (Absatz 33) vergeben. |
+| D5-8 | angenommen | *She looked up at the building, trying to find something to like.* |
+| D5-9 | abgelehnt | *trunk* am Umzugswagen ist ein Fehler im Original → an den Autor. |
+| D5-10 | angenommen (umformuliert, nicht gestrichen) | *Behind it was their new home.* — Satz bleibt (nichts weglassen), Wiederholung *apartment* ist weg. |
+| D5-11 | angenommen | *Two bedrooms* (A8). |
+| D5-12 | angenommen | *Clammy* → *Damp*; dazu *Musty* → *Moldy* (D6-8). |
+| D5-13 | angenommen | *another layer of wallpaper*; *older* nicht vorgezogen, weil *Even older* folgt. |
+| D5-14 | angenommen (abgewandelt) | *A cold that didn't belong in summer.* — körperlicher, ohne die Datumsangabe zu verdoppeln. |
+| D5-15 | angenommen | *“Okay. Sorry, guys, I have to go in a minute.”* (*leider* → *Sorry*, mit D4-4). |
+| D5-16 | angenommen (abgewandelt) | *“The meeting at the hospital. I'm introducing myself to everyone—I can't move it.”* — keine Doppelung *meeting*, keine Kommaverkettung; *first day* wäre eine neue Information. |
+| D5-17 | angenommen | *grocery store* (A8), auch in Theos Antwort. |
+| D5-18 | abgelehnt | *metallic taste on her tongue* ist festes Motiv (A4, 4× in B1). |
+| D5-19 | abgelehnt | Schild vor dem Sehen: Fehler im Original → an den Autor; nicht streichen, nicht vorziehen. |
+| D5-20 | angenommen (abgewandelt) | *Old houses make noises like that.* — ohne das hinzugefügte *That's all*. |
+| D5-21 | angenommen (abgewandelt) | *He'd sat down on a moving box, arms crossed.* — *plopped* fügt Ton hinzu. |
+| D5-22 | angenommen | wie D4-2. |
+| D5-23 | angenommen | *A dog was sitting on the stone step outside the front door.* (A8: keine Inversion). |
+| D5-24 | abgelehnt | Passanten trotz „Kein Mensch zu sehen“: Fehler im Original → an den Autor. |
+| D5-25 | abgelehnt | *strangers* ist Noras Argument im Original („nicht auf Fremde“); *stray dogs … anybody* ändert die Aussage. |
+| D5-26 | angenommen | *But something about him made her stop.* |
+| D5-27 | abgelehnt | *She turned back. The dog was still watching her.* fügt Handlung und einen Satz hinzu. |
+| D5-28 | angenommen (abgewandelt) | *rested his nose in Theo's hand* — *nose* nach A8, *chin* wäre ein anderer Körperteil. |
+| D5-29 | angenommen | *the box of snacks* (A8). |
+| D5-30 | angenommen (teilweise) | *The dog drank. And drank. Greedy gulps.* — das Echo im Vorschlag wäre neuer Inhalt. |
+| D5-31 | angenommen (umformuliert, nicht gestrichen) | *You could count every rib under the dull fur, tangled on his sides, but his eyes were clear.* — keine Doppelung *fur*, alle Informationen bleiben. |
+| D5-32 | angenommen (abgewandelt) | *Like it was nothing. Like he had done it a thousand times.* — *Like he lived here* hätte einen Hinweis hinzugefügt, den das Original nicht gibt. |
+| D5-33 | angenommen (teilweise) | *Purposeful* → *Like he had somewhere to be.*; die Wiederholung *Without sniffing, without stopping* steht im Original und bleibt (A8 Abschn. 7.4). |
+| D5-34 | angenommen | *The one on the right.* |
+| D5-35 | angenommen | *A name card hung next to the frame.* (keine Inversion, A8-Wort). |
+| D5-36 | angenommen | Kapitelende: *A sound Nora didn't hear with her ears. / She felt it in her stomach.* (Wortlaut nach D6; D5s *didn't just hear* hieße, dass sie es auch hört). |
+| D5-Zusammenfassung (3a/3b) | abgelehnt | Ende kürzen oder neues Ereignis hinter der Tür = Inhalt ändern; das Original endet genau auf *Er knurrte die Tür an.* → *He was growling at the door.* bleibt. |
+| D6-1 Kirchgasse (Aussprache, „gas“) | abgelehnt | Straßennamen bleiben deutsch (Glossar Abschn. 3); Aussprachefrage → Autor/Marketing (Aussprachehilfe außerhalb des Textes?). |
+| D6-2 cobblestones | abgelehnt | gängiges Wort, kein einfacheres Gegenstück. |
+| D6-3 plaster | abgelehnt | kein einfacheres Wort; der Handabdruck im Putz trägt die Szene, Kontext erklärt es. |
+| D6-4 stories | angenommen | *three floors* (kein Missverständnis mit „Geschichten“). |
+| D6-5 trunk | abgelehnt | wie D5-9. |
+| D6-6 Stockwerke prüfen | abgelehnt (kein Änderungsbedarf) | geprüft: E9-Zählung stimmt (D4 bestätigt). |
+| D6-7 floor wax | abgelehnt | Glossar/A6 F-D legt *floor wax* fest. |
+| D6-8 musty, clammy | angenommen | *Moldy. Damp.* (*modrig, klamm*). |
+| D6-9 bay window | abgelehnt | Standardwort, keine kürzere Entsprechung; Bedeutung für die Handlung gering. |
+| D6-10 insulated | abgelehnt | Gewollt: Nora sagt einen auswendig gelernten Erwachsenensatz (nächster Absatz sagt genau das). |
+| D6-11 metallic taste | abgelehnt | wie D5-18 (A4-Motiv). |
+| D6-12 yellowed nameplate (zu früh, „yellowed“) | abgelehnt | zu früh: Fehler im Original → Autor; *yellowed* = *vergilbt*, bleibt. Wort *nameplate* ist durch A8 ohnehin ersetzt. |
+| D6-13 expands and contracts | angenommen | *It swells and shrinks.* — gleiche Aussage, Kinderwörter. |
+| D6-14 matted | angenommen | *tangled* (Absatz 74 und 94). |
+| D6-15 amber | abgelehnt | A4-Motiv *amber eyes*, alle Bände. |
+| D6-16 muzzle | angenommen | *nose* (A8). |
+| D6-17 matter-of-factly | angenommen | wie D5-32. |
+| D6-18 purposeful | angenommen | wie D5-33. |
+| D6-19 SILBER | abgelehnt | bleibt laut Auftrag und A7; *Silver?*-Witz wäre neu erfunden. |
+| D6-20 hackles | abgelehnt | A4-Code-Wort (R44), wird in K11 erklärt. |
+| D6-21 pricked forward | angenommen | *His ears turned forward.* |
+| D6-22 Humor nach dem Schreck dünn / hintere Hälfte ohne Lacher | abgelehnt | keine neuen Witze (A8 Abschn. 7.3); Frage an das Original. |
+| D6-23 *That's just the wood* (Knock-knock-Anklang) | abgelehnt | geringes Risiko, wörtlich richtig; keine Umformung ohne Bedeutungsverlust. |
+| D6-24 Vorlesen L85 (meeting/meeting) | angenommen | wie D5-16. |
+| D6-25 Vorlesen L45 (apartment 2×) | angenommen | wie D5-10. |
+| D6-26 Vorlesen L187 (fur. His fur) | angenommen | wie D5-31. |
+| D6-27 Vorlesen L231–233 (Ende) | angenommen | Wortlaut übernommen: *didn't hear with her ears / She felt it in her stomach*. |
+| D6-28 Vorlesen L19 (drei Fragmentgruppen) | abgelehnt | *Too wide. Too forced.* sind zwei Fragmente (A8: bleiben), *New job, new city, new life* ist ein einziges; die Stelle zeigt die Mutter. |
+| D6-29 L75 Sprecher unklar | abgelehnt | kein Begleitsatz im Original (A8 Abschn. 4); Theos Ton macht den Sprecher klar. |
+| D6-30 *their mother* | angenommen | wie D5-6. |
+| D6-31 Anfang abgehackt | abgelehnt | A8 neu: Fragmente am Kapitelanfang bleiben. |
+| D6-32 *Sorted by size. Order helped.* (Aussprache) | abgelehnt | Wiederholung *Order … Order* ist Noras Selbstberuhigung; kein Fehler. |
+| D6-33 Wiederholung L207/L213 | abgelehnt | Wiederholung steht im Original (A8 7.4); nur *Purposeful* ersetzt (D6-18). |
+| D6-34 Überspring-Stellen (L19, L35–47, L121, L157) | abgelehnt | Inhalt des Originals; keine Kürzung durch die Übersetzung → Rückmeldung an den Autor. |
+
+### Zählung
+
+| Durchgang | angenommen | abgelehnt | gesamt |
+|---|---|---|---|
+| D3 | 2 | 5 | 7 |
+| D4 | 6 | 0 | 6 |
+| D5 | 30 | 7 | 37 (36 + Zusammenfassung zum Ende) |
+| D6 | 13 | 21 | 34 |
+| **Summe** | **51** | **33** | **84** |
+
+„Angenommen (abgewandelt/teilweise)“ zählt als angenommen. Mehrere Befunde betreffen dieselbe Stelle (z. B. D4-2 = D3-60 = D5-22), die Zählung ist je Bericht.
+
+### Kapitelende Runde 2 — Varianten
+
+| | 116 | 117 | 118 |
+|---|---|---|---|
+| **A (gewählt)** | A sound Nora didn't hear with her ears. | She felt it in her stomach. | He was growling at the door. |
+| B | A sound Nora didn't just hear. | She felt it in her stomach. | He was growling at the door. |
+| C | A sound that didn't go into Nora's ears. | It went into her stomach. | He was growling at the door. |
+
+A, weil es den Gegensatz des Originals (*nicht* in den Ohren, *sondern* im Magen) korrekt ausdrückt; B sagt, sie höre es *auch*; C ist parallel, aber holprig. Drei Absätze, Reihenfolge und letzter Satz wie im Original.
+
+### Neu an den Autor (zusätzlich zu Abschnitt 5)
+
+7. **Absatz 74 · Passanten** — „Nicht die Passanten.“ widerspricht „Kein Mensch zu sehen.“ (Absatz 3). [prüfen]
+8. **Absatz 24/74 · Küchenfenster** — geht laut Absatz 24 zum Hinterhof, in Absatz 74 sieht man daraus die Haustür. [prüfen]
+9. **Kirchgasse** — Kinderleser liest „Kirch-GAS-ee“ (Kichern). Kein Übersetzungsthema (Glossar), aber für Hörbuch/Marketing eine Aussprachehilfe erwägen.
+
+### Prüfskript Runde 2
+
+`python3 Scripts/pruefe_en.py pruefen …DE_K01.md …EN_K01.md` → **0 Befund(e).** Der Fehlalarm aus Runde 1
+(Absatz 53) erscheint nicht mehr. Bericht: Absätze 118 = 118, Ein-Satz-Absätze 49 → 50 (Absatz 117 ist jetzt
+ein ganzer Satz statt eines Fragments, bleibt ein Ein-Satz-Absatz), Ausrufezeichen 3 = 3.
