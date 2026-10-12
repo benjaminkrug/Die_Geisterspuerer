@@ -119,6 +119,7 @@ Herr Pawlik (4), Frau Kettner, Frau Weber (je 1). **Entscheidung:** Glossar E8 (
 | F28 | B4 K12: „dritte Tür" | Wendung | *door number three* (W4-03) |
 | F29 | B2 K4: „Dritter Stock, Regal acht" (Archiv) | Stockwerk, von der ersten Suche verpasst (Großschreibung am Satzanfang) | *fourth floor* — das Skript sucht jetzt ohne Unterschied zwischen Groß- und Kleinschreibung (+4 Stellen) |
 | F30 | Running Gags über Bände | 13 Stück | Übersicht in A3 |
+| F31 | B1 K2, K3, K11: *„Klopf. Klopf. Klopf."* | ⚠️ *Knock, knock* ist im Englischen der Anfang eines Kinderwitzes | immer **drei** Schläge mit Punkt, nie *Knock, knock.* — Begründung und Ausweichlösung in A4 Abschn. 3 |
 
 ## Teil 3 · Was die automatische Suche **nicht** fand (geprüft, kein Befund)
 

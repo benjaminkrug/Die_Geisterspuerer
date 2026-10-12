@@ -119,6 +119,8 @@
 | große Pause | **recess** | |
 | Klasse (Schulklasse) | **class** · Klassenstufe vermeiden | Theo 10, Nora 12 — keine US-Grade nennen, wo das deutsche System gemeint ist |
 
+Weitere Alltagswörter (Taschenlampe → *flashlight*, Wohnung → *apartment*, Keller → *cellar*, Treppenhaus → *stairwell* …) stehen im Stil-Brief **A8, Abschnitt 6**.
+
 ---
 
 ## 5a. Nachträge aus der Witz-Liste (A3, alle Bände gelesen)
@@ -173,3 +175,4 @@ Aug. 2026: Umzug in ein Spukhaus, Geistern beim Hinübergehen helfen, 8–12).
 | 2026-10-12 | E10 Beispiel | „sixteen degrees colder" → „Seven degrees colder" | Rechenfehler: 55 − 48 = 7 °F. Das deutsche Original hat selbst einen Rechenfehler (A3 Nebenfunde) |
 | 2026-10-12 | verdammt (mild) | *darn* → *darn* (Kinder) / *blasted* (alte Leute) | Pawliks Stimme; Prüfung Phase A |
 | 2026-10-12 | E1/E2 Gegenprobe | entschieden, **bleibt** | Prüfung Phase A: Titel wurden vor der Marktanalyse A10 festgelegt. Sie bleiben, aber A10 macht vor dem Cover eine Gegenprobe (Amazon.com-Suche, Kategorien). Erst danach ist der Titel endgültig. |
+| 2026-10-12 | Verweis auf A8 Abschn. 6 | — | Ortswörter (Keller, Treppenhaus, Taschenlampe) fehlten im Glossar |

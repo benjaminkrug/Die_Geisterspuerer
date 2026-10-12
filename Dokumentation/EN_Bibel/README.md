@@ -9,18 +9,18 @@ Plan: `Dokumentation/Internationalisierung_Vorgehensplan.md`, Phase A.
 |---|---|---|---|
 | A0 | **Prüfung Phase A** (Fehler, Hinterfragung, neue Reihenfolge) | [A0_Pruefung_Phase_A.md](A0_Pruefung_Phase_A.md) | ✅ 2026-10-12 · 6 Fehler korrigiert |
 | A1 | Glossar (inkl. vorgezogener Titelprüfung aus A10) | [A1_Glossar.md](A1_Glossar.md) | ✅ **entschieden** (E1–E12 übernommen 2026-10-12) |
-| A2 | Stimmen der Figuren | – | ⏳ offen |
+| A2 | Stimmen der Figuren | [A2_Stimmen.md](A2_Stimmen.md) | ✅ 13 Figuren, gemessen + nachgelesen · 3 Fälle „Pilot entscheidet" |
 | A3 | Witz-Liste (B1–B5, jeder Band ganz gelesen) | [A3_Witz_Liste.md](A3_Witz_Liste.md) | ✅ ≈ 280 Witze · 36 Umbauten · 2 Neuerfindungen · 13 Running Gags über Bände · Nebenfunde im Original |
-| A4 | Motiv-Liste | – | ⏳ offen |
-| A5 | Satz-Register | [A5_Satz_Register.md](A5_Satz_Register.md) | ✅ 43 Einträge · Englisch vorläufig bis Pilot |
-| A6 | Fallen-Liste | [A6_Fallen_Liste.md](A6_Fallen_Liste.md) | ✅ vollständig B1–B5 (30 Fallen) |
+| A4 | Motiv-Liste | [A4_Motive.md](A4_Motive.md) | ✅ 12 Motive mit festem Wortlaut · Schattens Code · neue Falle *Knock, knock* |
+| A5 | Satz-Register | [A5_Satz_Register.md](A5_Satz_Register.md) | ✅ 45 Einträge · Englisch vorläufig bis Pilot |
+| A6 | Fallen-Liste | [A6_Fallen_Liste.md](A6_Fallen_Liste.md) | ✅ vollständig B1–B5 (31 Fallen) |
 | A7 | Szenen-Absicht je Kapitel | – | ⏳ offen · wird aus Story_Outline / Cliffhanger-Register gezogen · Autor prüft Band 1 |
-| A8 | Stil-Brief EN | – | ⏳ offen |
+| A8 | Stil-Brief EN | [A8_Stil_Brief.md](A8_Stil_Brief.md) | ✅ Fassung 0 · wird im Pilot geschärft |
 | A9 | US-Zielwerte (Vergleichstitel) | – | ⏳ offen |
 | A10 | US-Marktanalyse | – | ⏳ offen · Titelprüfung schon in A1, Gegenprobe (Amazon.com, USPTO) vor dem Cover |
-| A11 | Prüfskripte | `Scripts/en_bibel_extrakt.py` | 🟡 Extraktion fertig (mit Selbsttest) · EN-Prüfungen + D8-Vergleich offen |
+| A11 | Prüfskripte | `Scripts/en_bibel_extrakt.py` | 🟡 Extraktion fertig (register, fallen, stimmen, motive · mit Selbsttest) · EN-Prüfungen + D8-Vergleich offen |
 
-**Reihenfolge ab jetzt** (A0, Abschn. 5): A2 + A4 → A8 → A11 → Pilot → A7/A9 → A10.
+**Reihenfolge ab jetzt** (A0, Abschn. 5): ~~A2 + A4 → A8~~ ✅ → **A11** → Pilot → A7/A9 → A10.
 
 ## Weitere Unterlagen
 
@@ -38,6 +38,8 @@ Plan: `Dokumentation/Internationalisierung_Vorgehensplan.md`, Phase A.
   python3 Scripts/en_bibel_extrakt.py selbsttest
   python3 Scripts/en_bibel_extrakt.py register --band1 <Pfad zur umgebauten Fassung>
   python3 Scripts/en_bibel_extrakt.py fallen   --band1 <Pfad zur umgebauten Fassung>
+  python3 Scripts/en_bibel_extrakt.py stimmen  --band1 <Pfad zur umgebauten Fassung>
+  python3 Scripts/en_bibel_extrakt.py motive   --band1 <Pfad zur umgebauten Fassung>
   ```
 
 ## Regeln

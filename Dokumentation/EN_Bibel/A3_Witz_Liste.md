@@ -296,6 +296,8 @@ ist, sollte zuerst **auf Deutsch** korrigiert werden — sonst wird es mitübers
 | B5 | K1, K3, K5 | „Nicht an der Wohnungstür, wie damals in dem alten Haus" und eine **Balkontür** — klingt, als wohne die Familie inzwischen woanders. Kanon: Kirchgasse 14 in allen Bänden. [prüfen] |
 | B5 | K14 | Theo: „Sie hat's ja **hundert** Jahre lang gemacht" — sonst überall zweihundert. Kann Theos Ungenauigkeit sein [prüfen] |
 | B5 | K9 Z.1142 | Zwei wörtliche Reden direkt hintereinander ohne Begleitsatz („Das ist nicht das Kind." „Das war nie das Kind …") — Satzzeichen-Rest |
+| B4 | K16 (Kapitel_16.md Z. 51) | Szenentrenner `---` zwischen Theos Frage *„Hat's funktioniert?"* und Mamas Antwort — mitten im Gespräch. Absicht oder Versehen? [prüfen] (gefunden bei A2) |
+| B1 (umgebaut) | K8 (2×), K13 | Abgebrochene Rede 3× mit `--` (*„Nora --"*), sonst überall `–`. Satzbild vereinheitlichen. (gefunden bei A8) |
 
 ---
 

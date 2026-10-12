@@ -504,6 +504,11 @@ korrigiert, darunter die Markierung in S1/S4 (`<!-- -->`-Kommentare wären mitge
 Nebendatei `EN_Hinweise.md`). Drei Fehler im deutschen Original gemeldet (u. a. B2 K1 „Neun Grad kälter"
 bei 13 → 9 Grad).
 
-**Als Nächstes (umgestellt nach der Prüfung):** A2 Stimmen + A4 Motive (aus Skript und vorhandenen
+**A2, A4, A8 fertig (2026-10-12):** Stimmen von 13 Figuren (gemessen und nachgelesen), 12 Motive mit
+festem englischem Wortlaut, Stil-Brief Fassung 0. Neue Falle: *Knock, knock* (A4, F31).
+
+**Davor geplant (umgestellt nach der Prüfung):** A2 Stimmen + A4 Motive (aus Skript und vorhandenen
 Unterlagen) → A8 Stil-Brief → A11 EN-Prüfungen + D8-Vergleichsmodus → **Pilot (C)** → A7 und A9 für
 die übrigen Kapitel → A10 mit Titel-Gegenprobe vor dem Cover. Begründung: A0, Abschnitt 5.
+
+**Als Nächstes:** A11 EN-Prüfskript + D8-Vergleichsmodus, dann Pilot (C).

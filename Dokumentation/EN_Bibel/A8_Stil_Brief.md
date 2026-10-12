@@ -1,0 +1,177 @@
+# A8 · Stil-Brief — Arbeitsanweisung für die Übersetzung (Durchgang D2)
+
+> Phase A der englischen Ausgabe. Stand 2026-10-12. **Fassung 0 — vor dem Pilot.**
+> Der Pilot (Phase C, Kap. 1 und Kap. 9) prüft jede Regel hier und schärft sie nach. Regeln, die im
+> Pilot nichts bewirken, fliegen raus.
+>
+> **Wer liest das:** der Übersetzungs-Durchgang D2 — als Erstes, vor dem Kapiteltext. Die anderen
+> Bibel-Teile sind Nachschlagewerk; **dieser** Brief ist der Auftrag.
+
+---
+
+## 1. Der Auftrag in fünf Sätzen
+
+1. Übersetze *Die Geisterspürer* für **amerikanische Kinder von 9 bis 12 Jahren** (Middle Grade).
+2. Das englische Buch soll beim Kind **dasselbe auslösen** wie das deutsche: an denselben Stellen
+   Gänsehaut, an denselben Stellen Lachen, am Kapitelende denselben Sog.
+3. **Nicht glätten, nicht ausbauen, nicht erklären.** Kurze Sätze bleiben kurz, Wiederholungen bleiben
+   Wiederholungen, Lücken bleiben Lücken.
+4. Die Geschichte **spielt in Deutschland** und bleibt dort. Amerikanisch wird die **Sprache**, nicht die Welt.
+5. Wo du frei übersetzen musst, schreib auf, **warum** (Abschnitt 9).
+
+---
+
+## 2. Erzählweise
+
+- **Dritte Person, Vergangenheit, ganz nah an Nora.** Nur, was Nora sieht, hört, spürt, denkt.
+  Keine Erklärung, die Nora nicht hat.
+- **Gefühle körperlich.** Das Original sagt *„Ihre Finger krallten sich in den Stoff"*, nicht
+  *„Sie hatte Angst"*. Die Übersetzung fügt **kein** *she felt scared* hinzu.
+- **Satzfragmente sind Absicht.** *„Groß. Leer. Hohe Decken, langer Flur, knarrender Dielenboden."* →
+  *“Big. Empty. High ceilings, a long hallway, creaky floorboards.”* — nicht zu einem Satz verbinden.
+- **Kein Passiv**, wo das Original aktiv ist.
+
+---
+
+## 3. Sätze und Absätze
+
+| Regel | Warum |
+|---|---|
+| **Absätze 1 : 1.** Jeder deutsche Absatz wird genau ein englischer Absatz. Nie zwei zusammenlegen, nie einen teilen. | Die Absätze tragen das Tempo. Prüfskript A11 zählt sie. |
+| **Ein-Satz-Absätze sind heilig.** Schockmomente stehen allein: *„Genau aus Frau Silbers Wohnung."* | Der Weißraum ist der Schreck. Jeder verlorene Ein-Satz-Absatz ist ein Befund (D8.1). |
+| **Satzlänge:** Ziel 10–15 Wörter, höchstens 18 — wie im Original. Ein langer deutscher Satz darf im Englischen in zwei Sätze zerfallen, zwei kurze dürfen **nicht** zu einem werden. | Englisch braucht oft mehr Wörter für dasselbe. Die Grenze schützt das Tempo. |
+| **Lesbarkeit:** Messung in Silben, nicht Wörtern (D8.1). Der US-Zielkorridor kommt aus A9 — **nach** dem Pilot. Bis dahin gilt: Gleichwertigkeit mit dem Deutschen. | Ohne Vergleichstitel wäre jede Zahl hier geraten. |
+
+---
+
+## 4. Dialog
+
+**Begleitverben** — nur diese, und nach dieser Tabelle:
+
+| Deutsch | Englisch | nie |
+|---|---|---|
+| sagte | **said** | stated, remarked, exclaimed, uttered |
+| fragte | **asked** | inquired, queried |
+| flüsterte | **whispered** | breathed |
+| rief | **called** (Entfernung) · **shouted** (laut) | yelled — nur wenn das Original *schrie* sagt |
+| schrie | **yelled** / **screamed** (Angst) | |
+| murmelte | **muttered** (Theo, Ärger) · **murmured** (leise, sanft) | |
+| zischte | **hissed** | |
+| antwortete | **said** — *answered* nur, wenn die Antwort betont ist | replied |
+
+- **Reihenfolge:** *Theo said*, *she said* — nicht *said Theo* (klingt im US-Kinderbuch altmodisch).
+- **Keine Adverbien dazuerfinden.** *„sagte Theo"* wird nicht zu *Theo said nervously*.
+- Hat das Original keinen Begleitsatz, bekommt die Übersetzung auch keinen.
+- **Kurzformen:** Im Dialog ja (*I'm, don't, it's*) — so reden Kinder. **Ausnahmen:** Silbers Notizbuch
+  und Brief, Graven (A2). Im Erzähltext sparsam und natürlich, nicht erzwungen.
+- **Ausrufezeichen:** nur, wo das Original eins hat. Im Original sind 1–2 % der Kinder-Reden Ausrufe (A2).
+- **Keine Flüche.** *Verdammt* (1× in der Reihe) → *blasted*. Kein *damn, hell, crap, sucks, oh my God*,
+  außer das Original sagt es wörtlich.
+- **Stimmen:** jede Figur nach A2. Vor allem: **Theos Witze nicht länger machen als im Original.**
+
+---
+
+## 5. Satzzeichen und Satzbild (US)
+
+| Deutsch | Englisch |
+|---|---|
+| „…“ | “…” (Satzzeichen **innerhalb** der Anführung: *“Come on,” she said.*) |
+| ‚…‘ (Zitat im Zitat, z. B. Nora liest Silbers Notizbuch vor) | ‘…’ innerhalb von “…” |
+| Gedankenstrich „ – " oder „ — " (mit Leerzeichen; B1 nutzt –, B2–B5 —) | **em dash ohne Leerzeichen**: *“Theo—”* · *She stopped—listened.* |
+| Abgebrochene Rede *„Nora --“* / *„Nora –“* | *“Nora—”* |
+| „…" / „..." | **…** einheitlich (ein Zeichen) |
+| *Kursiv* | bleibt kursiv (Gedanken, Tagebuch, Notizbuch, Titel) |
+| GEISTERSCHRIFT | Großbuchstaben, keine zusätzlichen Satzzeichen (Glossar E11) |
+| Szenentrenner `---` | bleibt `---` |
+| Zahlen | unter 100 ausschreiben (*twelve marks*, *forty years*); Jahreszahlen als Ziffern (*1823*) |
+| Datum | *September 17* (US-Reihenfolge) |
+| Kapitelüberschrift *„# Kapitel 16 – Die, die nach mir kommen“* | *“# Chapter 16: Those Who Come After Me”* — Titel wie ein Buchtitel großschreiben; Titel, die einen Register-Satz zitieren, **so wie im Register** |
+
+---
+
+## 6. US-Englisch — Wörter
+
+**Schreibweise:** US (*color, gray, center, realize, mom*). Prüfskript A11 meldet britische Formen.
+
+**Wörter, die oft falsch werden** (ergänzt Glossar Abschn. 5):
+
+| Deutsch | US | nicht (britisch / falsch) |
+|---|---|---|
+| Taschenlampe (39×) | **flashlight** | torch |
+| Wohnung | **apartment** | flat |
+| Treppenhaus | **stairwell** · *the stairs* | staircase (das ist die Treppe selbst) |
+| Keller | **cellar** — in **allen** Bänden | basement (wäre US-Standard, aber *cellar* passt zum alten Steinkeller und steht schon in R28) |
+| Gehweg / Bürgersteig | **sidewalk** | pavement |
+| Müll | **trash** | rubbish |
+| Hinterhof | **backyard** (Haus) · **courtyard** (Altbau, umbaut) | garden |
+| Erdgeschoss usw. | Glossar E9 (US-Zählung) | |
+| Mama / Mutter | **Mom** / **their mother** (A2) | Mum, Mummy |
+| Oma | **Grandma** | Gran, Nan |
+
+---
+
+## 7. Was die Übersetzung **nicht** tut
+
+1. **Keine Fußnoten, keine Erklärungen** deutscher Dinge im Text. Was ein US-Kind nicht kennt, wird
+   nach Glossar ersetzt oder durch den Zusammenhang klar.
+2. **Keine Amerikanisierung der Welt:** Gravenstedt bleibt, Hamburg bleibt, Frankfurt bleibt, Namen
+   bleiben (Ausnahme: *Kloß → Kloss*, Glossar). Keine Dollars, keine Thanksgiving-Bezüge, keine US-Schulstufen.
+3. **Keine neuen Witze**, auch wenn sich einer anbietet (z. B. *Knock knock — who's there?*, A4 Abschn. 3).
+   Ausnahmen nur aus A3 (Umbau/Neuerfindung mit Funktion).
+4. **Keine Glättung von Wiederholungen.** Register-Sätze (A5) und feste Motiv-Wörter (A4) wortgleich.
+5. **Keine stillen Korrekturen** am Inhalt. Fällt ein Fehler im Original auf (z. B. B2 K1 „Neun Grad
+   kälter"), wird er **gemeldet**, nicht still repariert (A0, Abschn. 3).
+6. **Nichts weglassen.** Auch keine Sätze, die im Englischen überflüssig wirken. Wenn einer wirklich
+   nicht geht: Randnotiz.
+
+---
+
+## 8. Reihenfolge beim Übersetzen eines Kapitels
+
+1. Szenen-Absicht des Kapitels lesen (A7, sobald vorhanden): Was soll der Leser fühlen? Wie endet es?
+2. Fallen (A6), Witze (A3), Register-Sätze (A5) und Motive (A4) **dieses Kapitels** heraussuchen.
+3. Übersetzen, Absatz für Absatz.
+4. Für **Kapitelanfang, Kapitelende, jeden Umbau-Witz und jede Fallen-Stelle**: 2–3 Varianten, eine
+   wählen, Begründung in die Notizen (Plan, D2).
+5. Kapitel laut „lesen": Klingt Theo wie zehn? Klingt Nora wie zwölf? Ist das Ende so scharf wie im Deutschen?
+
+---
+
+## 9. Ablage
+
+| Was | Wo |
+|---|---|
+| Englischer Kapiteltext | `Band1/Manuskript_EN/Kapitel_01.md` … — **nur** Text, gleiche Überschriften- und Absatzstruktur wie das Deutsche |
+| Notizen „frei, weil …", Varianten, gemeldete Fehler im Original | `Band1/Manuskript_EN/Notizen_Kapitel_01.md` … — **nie** in den Kapiteltext (Lehre aus A0, P1: Kommentare im Text landen im Buch) |
+
+Format einer Notiz:
+```
+K1 · Absatz 14 · DE: „Antik kaputt." · EN: “Antique and broken.” · frei, weil: zwei Wörter ohne „and"
+klingen im Englischen falsch, nicht witzig (A6 F8).
+```
+
+---
+
+## 10. Anhänge (in dieser Reihenfolge mitgeben)
+
+A1 Glossar · A2 Stimmen · A5 Satz-Register · A4 Motive · A3 Witz-Liste (nur der Band) · A6 Fallen-Liste
+(nur der Band) · A7 Szenen-Absicht (nur der Band, sobald vorhanden).
+
+**Warum diese Reihenfolge:** Was nie abweichen darf (Namen, Stimmen, feste Sätze), steht vorn. Was je
+Stelle entschieden wird (Witze, Fallen), steht hinten. Wenn der Kontext knapp wird, fällt das Hintere
+zuerst weg — und das Hintere ist auch das, was D4/D5 am ehesten noch auffangen.
+
+---
+
+## 11. Selbstkritik zu diesem Brief
+
+- **Er ist lang.** Ein Übersetzer, der 40 Regeln gleichzeitig beachten soll, beachtet keine richtig.
+  Gegenmittel: Die messbaren Regeln (Absätze, Ausrufe, Flüche, Schreibweise, Motiv-Wörter) prüft A11
+  **nachher** automatisch. Der Übersetzer muss sie kennen, aber nicht jede Zeile dagegen prüfen. Im
+  Pilot zählen, welche Regeln Befunde bringen; der Rest wird gekürzt.
+- **Einige Entscheidungen sind Geschmack**, nicht Wissen: *cellar* statt *basement*, *Theo said*
+  statt *said Theo*, *muttered/murmured*. Sie sind begründet, aber kein Muttersprachler hat sie
+  bestätigt. Prüfung: D5 (US-Lektor ohne Deutsch) markiert, was fremd klingt — wenn er *cellar* oder
+  *hackles* markiert, wird umentschieden.
+- **Es fehlt der US-Zielkorridor (A9).** Bewusst: Erst messen, wie weit das Englische vom Deutschen
+  abweicht, dann entscheiden, ob es auch vom US-Markt abweicht.
