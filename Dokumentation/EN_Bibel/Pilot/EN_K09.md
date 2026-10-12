@@ -34,7 +34,7 @@ Nora stopped. Twelve. Like her.
 
 Shadow lifted his head. His ears perked up.
 
-The next entries were short. School days, friends, cotton candy at the fair. One entry was about going up on the roof with a flashlight, because Lina wanted to count stars. She had drawn the constellations, tiny dots in purple ink, joined by wobbly lines. Next to them she had written: “When I grow up, I want to be an astronomer. Or a vet. Or both.” A normal girl's life. With every entry, Lina became more real.
+The next entries were short. School days, friends, cotton candy at the fair. One entry was about going up on the roof with a flashlight, because Lina wanted to count stars. She had drawn the constellations, tiny dots in purple ink, joined by wobbly lines. Next to them she had written: “When I grow up, I want to be an astronomer. Or a vet. Or both.” A normal girl's life. With every entry, Nora could picture Lina a little better.
 
 “She sounds nice,” Theo said quietly. “Cotton candy. Stars. A dog.” He stroked Shadow's head. “At least she had a dog.”
 
@@ -108,7 +108,7 @@ Nora closed her eyes. Just for a moment. Behind her eyelids she saw a girl. Twel
 
 “Yeah.”
 
-“I'm sorry.” Her voice cracked. “For not believing you. When you said something was wrong. I blew you off. Just like Lina's parents.”
+“I'm sorry.” Her voice cracked. “For not believing you. When you said something was wrong. I didn't even let you finish. Just like Lina's parents.”
 
 Theo was quiet. Then he said, “If you'd believed me, I probably would've been even more scared.”
 
@@ -132,7 +132,7 @@ Nora lowered the book into her lap. “Theo—”
 
 Shadow pressed his nose harder against Theo's arm. Theo's fingers dug into Shadow's fur. He held on. As if Shadow were an anchor.
 
-Nora's eyes burned. She blinked the sting away. She had to hold it together now.
+Nora's eyes burned. She blinked the sting away. She had to be the strong one now.
 
 Theo wiped his face. “Nora.” His voice was small. “I want to go home.”
 
@@ -154,7 +154,7 @@ The handwriting was different. Bigger. Shaky. In some places the purple ink was 
 
 “*November 2*,” Nora read. Her voice was a whisper.
 
-“*Tomorrow I'm going down to the basement. I have to know what's down there. Luna is coming with me. I'm scared. But I have to know. If I figure it out, maybe it will stop. If I figure it out, maybe everybody else will believe me.*”
+“*Tomorrow I'm going down to the basement. I have to know what's down there. Luna is coming with me. I'm scared. But I have to know. If I understand it, maybe it will stop. If I understand it, maybe everybody else will believe me.*”
 
 Nora turned the page.
 

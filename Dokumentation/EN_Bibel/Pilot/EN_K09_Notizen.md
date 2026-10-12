@@ -310,3 +310,23 @@ Grundlage: D4_K09_Bedeutung_R2.md, D5_K09_US_Lektor_R2.md, neue Vorrangregel (a)
 
 ### Prüfskript Runde 3
 `python3 Scripts/pruefe_en.py pruefen …DE_K09.md …EN_K09.md` → **0 Befund(e)**.
+
+### Runde 3 · Bedeutungs-Nachprüfung gegen DE_K09.md (neue Regel: jede Änderung nach D4 neu prüfen)
+
+| Abs. | R3-Fassung | DE | Urteil | jetzt |
+|---|---|---|---|---|
+| 4 | pulse throbbed in her temples | Puls pochte in ihren Schläfen | deckungsgleich | bleibt |
+| 31 | tongue stuck to the roof of her mouth | Zunge klebte am Gaumen | deckungsgleich | bleibt |
+| 19 | At least she had a dog. | Sie hatte wenigstens einen Hund. | deckungsgleich | bleibt |
+| 30 | Like the knocking. At our place. | Wie das Klopfen. Bei uns. | deckungsgleich | bleibt |
+| 53 | I blew you off. | Ich hab dich abgewürgt. | **Drift:** *blow off* = gleichgültig ignorieren; *abwürgen* = aktiv mittendrin abschneiden | **I didn't even let you finish.** — trifft das Abschneiden *und* das Abweisen (D5: *cut off* hieß nur „unterbrochen“) |
+| 18 | With every entry, Lina became more real. | Mit jedem Eintrag formte sich ein Bild. | **Drift:** Bild (Noras Vorstellung) → Lina wird „echter“ (Wertung) | **With every entry, Nora could picture Lina a little better.** — Bild bleibt, Bezug klar (D5 R1/R2: abstraktes *picture took shape*). Kleine Verschiebung: *Nora* wird genannt (DE unpersönlich) — akzeptiert, Perspektive ist ohnehin Noras |
+| 64 | She had to hold it together now. | Jetzt musste sie stark sein. | **Drift:** *hold it together* = nur nicht zusammenbrechen; *stark sein* meint hier auch „stark für Theo“ | **She had to be the strong one now.** — *strong* bleibt, *the one* trägt die Rolle für Theo (kleine, gewollte Verdeutlichung; keine Floskel mehr) |
+| 74 | If I figure it out … (2×) | Wenn ich es verstehe … (2×) | **Drift:** *figure out* = Rätsel lösen; *verstehen* ist das Kernthema der Reihe (R3: *someone who understands their story*) — der Bezug wäre verloren | **zurück zu If I understand it** (2×). D5 R2-32 damit abgelehnt: Regel (a)/(b) vor (d) |
+| 47 / 58 | making such a big deal out of it / I wasn't making a big deal out of it | mich nicht so anstellen / Ich habe mich nicht angestellt | kleine Verschiebung akzeptiert: *out of it* setzt ein Objekt (die Sache), DE ist objektlos; Kern „übertreiben“ bleibt, Echo bleibt | bleibt |
+| 39 | the pipes | den Wasserrohren | deckungsgleich (Kontext eindeutig) | bleibt |
+| 14 | after school was fun | nach der Schule war es gut | kleine Verschiebung akzeptiert: *gut* → *fun* (etwas konkreter, Ton gleich) | bleibt |
+| 60 | One short sob. | Einmal. Kurz. | deckungsgleich in der Sache (einmal + kurz); zwei Takte werden einer — akzeptiert, Ein-Satz-Absatz *Theo sobbed.* davor bleibt | bleibt |
+
+Zählung D5 R2 nach Nachprüfung: 7 übernommen (20 in neuer Fassung, 16, 12, 5 in neuer Fassung, 2, 26 in neuer Fassung, 24), 1 zurückgenommen (32).
+Prüfskript nach Nachprüfung: **0 Befund(e)**.

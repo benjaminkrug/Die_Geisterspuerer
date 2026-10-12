@@ -93,6 +93,7 @@
 | Markierung / Kreis (auf der Karte) | **mark / circle** | Original nutzt in B1 „Kreis", ab B2 „Markierung". Diese Unterscheidung beibehalten. |
 | der rote Kreis am Rand | **the red circle at the edge** | Register-Satz (A5) |
 | Anker | **anchor** | Schatten als Anker des Schleiers (B5) |
+| verstehen (Geschichte eines Geistes, Silbers Methode) | **understand** — nie *figure out*, *get*, *solve* | **Themenwort der Reihe** (R3: *Not just knows it. Understands it.*). Pilot K9: *figure out* klang nach Rätsel lösen und kappte die Verbindung |
 | Echo | **echo** | Weltregel B3: „Ein Geist antwortet, ein Echo nicht." |
 | Hüterin | **Keeper** | 1× (B4) |
 | Geisterspürer (als Wort im Text) | wie Reihentitel (E1) | kommt im Text praktisch nicht vor, nur im Titel |
@@ -178,3 +179,4 @@ Aug. 2026: Umzug in ein Spukhaus, Geistern beim Hinübergehen helfen, 8–12).
 | 2026-10-12 | Verweis auf A8 Abschn. 6 | — | Ortswörter (Keller, Treppenhaus, Taschenlampe) fehlten im Glossar |
 | 2026-10-12 | Keller | *cellar* → *basement* | Pilot Runde 1: Kinderleser und US-Lektor unabhängig |
 | 2026-10-12 | Mutter im Erzähltext | A2 hatte *their mother* erlaubt → gilt wieder A1: **Mom** | Pilot Runde 1: auffälligstes Übersetzungszeichen; A2 widersprach A1 |
+| 2026-10-12 | verstehen | neu: **understand** (fest) | Pilot K9 Runde 3 |

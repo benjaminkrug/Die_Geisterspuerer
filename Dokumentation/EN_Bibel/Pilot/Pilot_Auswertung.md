@@ -126,6 +126,10 @@ Arbeitsplatz vor) *“It's where I meet everyone”* — ein **Bedeutungsfehler,
 Gegenlesen fand**, weil nach Runde 3 kein Bedeutungsprüfer mehr lief. **Regel:** Jede Änderung nach der
 letzten D4-Prüfung wird vom Übersetzer Satz für Satz gegen das Original geprüft, und D8 (Nachanalyse)
 läuft immer auf der **letzten** Fassung. Eine Glättung ohne Gegenprobe ist ein Risiko, kein Feinschliff.
+**Gemessen:** Nach dieser Regel geprüft, hatten sich in K1 **2** und in K9 **4 von 12** Änderungen aus Runde 3
+in der Bedeutung verschoben (u. a. *abgewürgt* → *blew you off*; *Wenn ich es verstehe* → *If I figure it out*,
+was das Kernthema der Reihe — Verstehen befreit — unhörbar machte). Ein Drittel der späten Glättungen war
+also falsch. Das ist der stärkste Einzelbefund des Pilots über das Verfahren.
 
 ### 5.3 Was die Übersetzung **nicht** repariert
 
