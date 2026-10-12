@@ -316,8 +316,8 @@ Sekunden und spart beim Übersetzen Suche und Fehler.
 | S5 | **Rätsel, Hinweise und Codewörter nie an deutsche Buchstaben binden** (Anfangsbuchstaben, Anagramme, Reime, Schreibweise) | Solche Rätsel lassen sich nicht übersetzen, nur neu erfinden — und dann stimmen Hinweisketten nicht mehr. | Bisher eingehalten: SCHLÜSSEL/KARTE/STIMME funktionieren als **Begriffe** |
 | S6 | **Szenen-Absicht pro Kapitel mitschreiben**: eine Zeile, was der Leser fühlen soll, im vorhandenen Cliffhanger-Register | Daraus entsteht die Übersetzungs-Bibel (A7) nebenbei, statt nachträglich rekonstruiert. | `Cliffhanger_Register_S2-1.md` — eine Spalte mehr |
 
-**Wo die Regeln stehen sollen:** in diesem Plan und als kurzer Abschnitt im Stil-Leitfaden für
-Staffel 2 (Eintrag dort, sobald der Autor ihn freigibt). Neue Prüfskripte braucht es dafür nicht —
+**Wo die Regeln stehen:** in diesem Plan und in `Dokumentation/Schreibstil_Ergaenzung_Staffel2.md`
+(vom Autor freigegeben 2026-10-12, verlinkt in `Staffel2/PLAN_Staffel2.md`, Abschnitt 1a). Neue Prüfskripte braucht es dafür nicht —
 die Markierungen aus S1 und S4 werden in A11 nur **eingesammelt**.
 
 ---
@@ -482,9 +482,15 @@ Leser (E2).
 
 ---
 
-## Nächster konkreter Schritt
+## Stand und nächster Schritt
 
-**Phase A starten:** A1 Glossar (Entscheidungsvorlage inkl. Stockwerke F13) → A5 Satz-Register und
-A6 Fallen-Liste über alle 5 Bände → A11 Prüfskripte mit Fehler-Test (inkl. D8-Vergleichsmodus) →
-restliche Bibel → Pilot (C). **Parallel:** Schreibregeln S1–S6 in den Stil-Leitfaden für Staffel 2
-übernehmen, sobald der Autor zustimmt.
+**Phase A gestartet 2026-10-12** — Stand in `Dokumentation/EN_Bibel/README.md`:
+A1 Glossar (Entwurf, **12 Entscheidungen des Autors offen**), A5 Satz-Register (42 Einträge),
+A6 Fallen-Liste (messbar B1–B5, Sprachwitze B1), A11 Extraktions-Skript mit Selbsttest.
+Schreibregeln S1–S6 stehen im Stil-Leitfaden für Staffel 2.
+
+**Wichtigster Fund:** Der wörtliche Titel *The House That Whispers* ist besetzt (Middle-Grade-Geisterroman,
+Little, Brown 2023) → Vorschlag *The Whispering Window* (A1, E2).
+
+**Als Nächstes:** Autor entscheidet A1 Abschnitt 1 → A3 Witz-Liste (liest B2–B5 ganz, vervollständigt
+A6) → A2 Stimmen, A4 Motive → A11 EN-Prüfungen + D8-Vergleichsmodus → A7–A10 → Pilot (C).
