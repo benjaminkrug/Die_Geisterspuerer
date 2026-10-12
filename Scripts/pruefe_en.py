@@ -51,6 +51,9 @@ def absaetze(text):
 def satzzahl(absatz):
     """Sätze im Absatz. Ende = . ! ? … (ggf. mit Anführungszeichen), danach Großbuchstabe."""
     absatz = re.sub(r"\b(Mrs?|Ms|Dr|St)\.", r"\1", absatz)  # Anrede-Punkt ist kein Satzende
+    # “Did you hear that?” Theo whispered. — Frage/Ausruf vor dem Begleitsatz ist kein Satzende.
+    absatz = re.sub(r"([?!])([”\"’])\s+(?=(?:[A-Z]\w+\s+)?(?:said|asked|whispered|called|shouted|yelled|screamed|"
+                    r"muttered|murmured|hissed|answered|he|she|they)\b)", r"\1\2 ~", absatz)
     enden = re.findall(r"[.!?…]+[\"“”»«’‘']*\s+(?=[\"„“‚‘»«(*_]*[A-ZÄÖÜ])", absatz)
     return len(enden) + 1
 
@@ -253,6 +256,10 @@ def selbsttest():
         print("FEHLT:", k)
         ok = False
     # Ein-Satz-Absatz braucht gleiche Absatzzahl: eigener Fall
+    # Kein Fehlalarm bei Frage + Begleitsatz in US-Reihenfolge (Pilot K1, Absatz 53)
+    if pruefen("„Hast du das gehört?“, flüsterte Theo.\n", "“Did you hear that?” Theo whispered.\n", []):
+        print("FEHLALARM: Frage vor Begleitsatz als Satzende gezählt")
+        ok = False
     de = "Erster Absatz. Zweiter Satz.\n\nGenau aus Frau Silbers Wohnung.\n"
     en = "First paragraph. Second sentence.\n\nRight from Mrs. Silber's apartment. It was cold.\n"
     if not any(k == "Ein-Satz-Absatz" for k, _ in pruefen(de, en, [])):
