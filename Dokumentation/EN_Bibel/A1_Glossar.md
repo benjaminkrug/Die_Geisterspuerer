@@ -107,7 +107,7 @@
 |---|---|---|
 | Handy (35×, inkl. Handylicht) | **phone** | *handy* ist im Englischen ein Adjektiv (falscher Freund) |
 | Müsli | **cereal** | *muesli* ist in den USA unüblich |
-| Kakao | **hot chocolate** | *cocoa* ist möglich, aber altmodischer |
+| Kakao | **hot chocolate** (warm) · **chocolate milk** (kalt, z. B. Sommerfrühstück K3) — nach Zusammenhang (Block 1) | *cocoa* ist möglich, aber altmodischer |
 | Bohnerwachs | **floor wax** | |
 | Altbau | **old house** / **old building** | kein Gegenstück; Witz in B1 K1 umbauen (A6 F6) |
 | Kiosk | **corner store** | |

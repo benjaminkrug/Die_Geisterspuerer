@@ -1,5 +1,7 @@
 # Notizen zur Übersetzung · Band 1, Kapitel 2 (Block 1, Durchgang D2)
 
+> **Stand zur Übersetzungszeit — teils überholt.** Gültiger Wortlaut: Kapiteltext und `../Wortliste_Band1.md` (Nachprüfung Block 1).
+
 Grundlage: `DE_Basis/Kapitel_02.md` (eingefroren, 6f251d2) → `Kapitel_02.md`. Absatz-Nr. wie im Prüfskript
 (Überschrift = Absatz 1, Szenentrenner zählen nicht). DE 103 Absätze, EN 103 Absätze.
 Vorher gelesen: A8, A1, A2, A5, A4, A7 (K2), A3/A6 (K2), Pilot 5 + 8, englisches K1 (letzte zwei Seiten).

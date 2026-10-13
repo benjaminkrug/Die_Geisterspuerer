@@ -40,5 +40,32 @@ Daher: **fertig**. Eine vierte Runde würde nach Pilot-Erfahrung ins Leere polie
 ## Nächste Schritte
 
 1. Leseprobe K1–K4 für US-Lesegruppen bereitstellen.
-2. Block 2 (K5–K8) mit demselben Ablauf — der Übersetzer liest vorher K3–K4 englisch.
+2. Block 2 (K5–K8) mit demselben Ablauf — der Übersetzer liest vorher die Wortliste und K3–K4 englisch.
 3. Offene Autor-Entscheidungen aus Fundliste Abschnitt E (v. a. E1 Klopf-Ort, E3 Frühstücks-Bruch K3/K4).
+
+## Nachprüfung (nach Abschluss, 2026-10-13)
+
+Frage: Ist Block 1 wirklich fertig, und muss sich am Verfahren etwas ändern?
+
+**Geprüft und in Ordnung**
+- Einheitlichkeit über alle Kapitel (K1–K4 + Pilot-K9): gleicher deutscher Absatz → 0 Abweichungen; gleicher
+  deutscher Satz → 3 Abweichungen, alle gewollt (*Nora’s stomach tightened / clenched / twisted* — Abwechslung
+  wie im Deutschen erwünscht; *Nora said nothing / didn’t say anything*; *At the door. / The door!* — anderer Satz).
+- Skript 0 Befunde in allen fünf Kapiteln, auch mit der neuen *shadow*-Prüfung.
+- K4 noch einmal am Stück gelesen: Ende, Schattens Signale, Wortliste-Begriffe stimmen.
+
+**Echte Lücke → behoben**
+- Die Block-1-Entscheidungen standen nur in Prüfberichten, nicht in der Bibel, und die Übersetzer-Notizen sind
+  überholt (K3-Notiz nennt für K10 *Pressure pushed on her ears*, Text sagt *Nora’s ears filled with pressure*;
+  K2-Notiz nennt noch *name card* und *Knock*). Ein Übersetzer für Block 2 hätte falsche Vorlagen gehabt.
+  → `Wortliste_Band1.md` (aktueller Wortlaut, Pflichtlektüre, A8 Schritt 0), Warnhinweis in allen Notizen.
+- Einheitlichkeit war nur einmal von Hand geprüft → fest im Skript: `pruefe_en.py konsistenz Band1/Manuskript_EN`.
+- Regel „kein kleines *shadow*" stand nur hier → A8-Wortliste + Skriptprüfung (mit Selbsttest).
+- Kakao-Regel (*chocolate milk* kalt / *hot chocolate* warm) → A1.
+
+**Bewusst nicht geändert**
+- Kinderleser-Hinweis „Kapitel beginnen mit Rückblick": K3 setzt die Szene fort, kein Rückblick — kein Befund.
+- *Magen zog sich zusammen* vereinheitlichen: Im Deutschen ist die Wiederholung schon grenzwertig; Abwechslung im
+  Englischen ist besser, nicht schlechter.
+- Ablauf (Blöcke zu 4, ein Prüfer je Prüfart, unabhängige Gegenprobe): Er hat in Block 1 jeden echten Fehler gefunden.
+  Kein Grund zum Umbau.

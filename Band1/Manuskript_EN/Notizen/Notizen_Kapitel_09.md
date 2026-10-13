@@ -1,5 +1,7 @@
 # Notizen zu EN_K09 (Pilot, Durchgang D2)
 
+> **Stand zur Übersetzungszeit — teils überholt.** Gültiger Wortlaut: Kapiteltext und `../Wortliste_Band1.md` (Nachprüfung Block 1).
+
 Absatz-Nummern = Zählung von `pruefe_en.py` (Überschrift = Absatz 1, Szenentrenner zählen nicht).
 DE 99 Absätze = EN 99 Absätze. Ausrufezeichen DE 1 / EN 1 (Abs. 12, „Neues Tagebuch!“).
 Dialoganteil DE 42,8 % / EN 41,5 %. Register R16, R27, R28 wörtlich nach A5.

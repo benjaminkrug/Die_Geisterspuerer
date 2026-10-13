@@ -1,5 +1,7 @@
 # Notizen zur Übersetzung · Band 1, Kapitel 4 (Block 1, Durchgang D2)
 
+> **Stand zur Übersetzungszeit — teils überholt.** Gültiger Wortlaut: Kapiteltext und `../Wortliste_Band1.md` (Nachprüfung Block 1).
+
 Grundlage: `DE_Basis/Kapitel_04.md` (eingefroren, 6f251d2) → `Kapitel_04.md`. Absatz-Nr. wie im Prüfskript
 (Überschrift = Absatz 1, Szenentrenner zählen nicht). DE 98 Absätze, EN 98 Absätze.
 Vorher gelesen: A7 (K4), A3/A6 (K4), die letzten zwei Seiten des englischen K3 (Frühstück, HELP, Schüssel).

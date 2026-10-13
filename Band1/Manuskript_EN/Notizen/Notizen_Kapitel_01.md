@@ -1,5 +1,7 @@
 # Notizen zur Übersetzung · Band 1, Kapitel 1 (Pilot, Durchgang D2)
 
+> **Stand zur Übersetzungszeit — teils überholt.** Gültiger Wortlaut: Kapiteltext und `../Wortliste_Band1.md` (Nachprüfung Block 1).
+
 Grundlage: `Pilot/DE_K01.md` → `Pilot/EN_K01.md`. Absatznummern wie im Prüfskript: Die Überschrift
 ist Absatz 1, Szenentrenner zählen nicht (K1 hat keine). DE 118 Absätze, EN 118 Absätze.
 

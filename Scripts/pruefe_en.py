@@ -7,6 +7,8 @@ und prüft alles, was messbar ist. Grundlage: Dokumentation/EN_Bibel/ (A1, A2, A
 Aufruf:
   python3 Scripts/pruefe_en.py pruefen  DE.md EN.md   Befunde (Exit 1, wenn es welche gibt)
   python3 Scripts/pruefe_en.py bericht  DE.md EN.md   D8.1 Gleichwertigkeits-Bericht + Kapitelende
+  python3 Scripts/pruefe_en.py konsistenz ORDNER      gleicher deutscher Satz → überall gleiches Englisch?
+                                                      (ORDNER/DE_Basis/Kapitel_XX.md ↔ ORDNER/Kapitel_XX.md)
   python3 Scripts/pruefe_en.py hinweise               sammelt EN_Hinweise.md (Schreibregeln S1/S4)
   python3 Scripts/pruefe_en.py selbsttest             eingeschleuste Fehler müssen gefunden werden
 
@@ -194,6 +196,38 @@ def pruefen(de_text, en_text, register=None):
         n_de, n_en = len(re.findall(de_rx, de_text, re.I)), len(re.findall(en_rx, en_text, re.I))
         if n_en < n_de:
             befunde.append(("Schattens Code (A4)", f"{name}: DE {n_de} · EN {n_en}"))
+
+    # 10. Kleines „shadow" klingt beim Vorlesen wie der Hund (Block 1). Erlaubt nur im Wortspiel K12.
+    if re.search(r"\bshadows?\b", en_text) and "nicht unseren Schatten" not in de_text:
+        n = len(re.findall(r"\bshadows?\b", en_text))
+        befunde.append(("Kleines shadow (Wortliste)", f"{n}× – shape/darkness/silhouette verwenden"))
+    return befunde
+
+
+# --- Einheitlichkeit über Kapitel (Nachprüfung Block 1) ---------------------------------------
+def saetze(absatz):
+    absatz = re.sub(r"\b(Mrs?|Ms|Dr|St)\.", r"\1", absatz)
+    return [s for s in re.split(r"(?<=[.!?…])[\"“”»«’‘']*\s+(?=[\"„“‚‘»«(*_]*[A-ZÄÖÜ])", absatz) if s.strip()]
+
+
+def konsistenz(paare):
+    """paare: [(kapitel, de_text, en_text)]. Ordnet Absätze 1:1 zu, bei gleicher Satzzahl auch Sätze.
+    Meldet deutsche Sätze (≥ 2 Wörter), die in mehreren Kapiteln stehen, aber verschieden übersetzt sind."""
+    stellen = {}
+    for kap, de_text, en_text in paare:
+        a_de, a_en = absaetze(de_text), absaetze(en_text)
+        if len(a_de) != len(a_en):
+            continue
+        for d, e in zip(a_de, a_en):
+            s_de, s_en = saetze(d), saetze(e)
+            einheiten = list(zip(s_de, s_en)) if len(s_de) == len(s_en) else [(d, e)]
+            for sd, se in einheiten:
+                if len(norm(sd).split()) >= 2:
+                    stellen.setdefault(norm(sd), []).append((kap, se.strip()))
+    befunde = []
+    for de, vork in sorted(stellen.items()):
+        if len({k for k, _ in vork}) > 1 and len({norm(e) for _, e in vork}) > 1:
+            befunde.append((de, vork))
     return befunde
 
 
@@ -301,6 +335,18 @@ def selbsttest():
     if not any(k == "Ein-Satz-Absatz" for k, _ in pruefen(de, en, [])):
         print("FEHLT: Ein-Satz-Absatz")
         ok = False
+    if not any(k.startswith("Kleines shadow") for k, _ in pruefen("Ein Schatten.\n", "A shadow.\n", [])):
+        print("FEHLT: Kleines shadow")
+        ok = False
+    if pruefen("Ein Schatten. Aber nicht unseren Schatten.\n", "A shadow. But not our Shadow.\n", []):
+        print("FEHLALARM: Wortspiel K12 als kleines shadow gemeldet")
+        ok = False
+    k = konsistenz([("01", "Die Tür ging auf.\n\nStille.\n", "The door opened.\n\nSilence.\n"),
+                    ("02", "Die Tür ging auf.\n", "The door swung open.\n"),
+                    ("03", "Stille.\n", "Quiet.\n")])
+    if [d for d, _ in k] != ["die tür ging auf"]:
+        print("FEHLT/FEHLALARM: Konsistenz", [d for d, _ in k])
+        ok = False
     if len(register_paare()) < 30:
         print("FEHLT: Register aus A5 eingelesen (weniger als 30 Paare)")
         ok = False
@@ -310,7 +356,7 @@ def selbsttest():
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("modus", choices=["pruefen", "bericht", "hinweise", "selbsttest"])
+    ap.add_argument("modus", choices=["pruefen", "bericht", "konsistenz", "hinweise", "selbsttest"])
     ap.add_argument("de", nargs="?")
     ap.add_argument("en", nargs="?")
     a = ap.parse_args()
@@ -318,6 +364,18 @@ def main():
         sys.exit(selbsttest())
     if a.modus == "hinweise":
         return hinweise()
+    if a.modus == "konsistenz":
+        ordner = Path(a.de or "Band1/Manuskript_EN")
+        paare = [(en.stem[-2:], (ordner / "DE_Basis" / en.name).read_text(encoding="utf-8"), en.read_text(encoding="utf-8"))
+                 for en in sorted(ordner.glob("Kapitel_*.md")) if (ordner / "DE_Basis" / en.name).exists()]
+        befunde = konsistenz(paare)
+        print(f"Kapitel verglichen: {', '.join(k for k, _, _ in paare)}\n")
+        for de, vork in befunde:
+            print(f"- **{de}**")
+            for kap, e in vork:
+                print(f"  - K{kap}: {e}")
+        print(f"\n{len(befunde)} uneinheitliche Stelle(n). Nicht jede ist ein Fehler — Zusammenhang prüfen.")
+        return
     if not (a.de and a.en):
         sys.exit("DE- und EN-Datei angeben")
     de, en = Path(a.de).read_text(encoding="utf-8"), Path(a.en).read_text(encoding="utf-8")

@@ -134,6 +134,7 @@
 | Proviantkarton | **the box of snacks** / *food from the car* | food box |
 | Schwelle | **doorway** | threshold (zu erwachsen) |
 | Oma | **Grandma** | Gran, Nan |
+| *Schatten* als Wort (nicht der Hund) | **shape** · *darkness* · *silhouette* (nach Block 1: beim Vorlesen klingt *shadow* wie der Hund *Shadow*) | kleines *shadow* — einzige Ausnahme das Wortspiel K12 *“A shadow. But not our Shadow.”* (Skript prüft) |
 
 ---
 
@@ -156,6 +157,9 @@
 
 ## 8. Reihenfolge beim Übersetzen eines Kapitels
 
+0. **Wortliste des Bandes lesen** (`Band1/Manuskript_EN/Wortliste_Band1.md`): fester englischer Wortlaut aus
+   den schon übersetzten Kapiteln. Sie gilt vor den Notizen — die Notizen halten nur den Stand zur
+   Übersetzungszeit fest und sind teils überholt (Nachprüfung Block 1).
 1. Szenen-Absicht des Kapitels lesen (A7, sobald vorhanden): Was soll der Leser fühlen? Wie endet es?
 2. Fallen (A6), Witze (A3), Register-Sätze (A5) und Motive (A4) **dieses Kapitels** heraussuchen.
 3. Übersetzen, Absatz für Absatz.
@@ -188,7 +192,7 @@ klingen im Englischen falsch, nicht witzig (A6 F8).
 
 ## 10. Anhänge (in dieser Reihenfolge mitgeben)
 
-A1 Glossar · A2 Stimmen · A5 Satz-Register · A4 Motive · A3 Witz-Liste (nur der Band) · A6 Fallen-Liste
+Wortliste des Bandes · A1 Glossar · A2 Stimmen · A5 Satz-Register · A4 Motive · A3 Witz-Liste (nur der Band) · A6 Fallen-Liste
 (nur der Band) · A7 Szenen-Absicht (nur der Band, sobald vorhanden).
 
 **Warum diese Reihenfolge:** Was nie abweichen darf (Namen, Stimmen, feste Sätze), steht vorn. Was je
