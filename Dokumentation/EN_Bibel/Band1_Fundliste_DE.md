@@ -85,3 +85,25 @@ sie nachmittags losfuhr. Nicht ändern.
 **Zählung:** 12 × A, 19 × B, 6 × C, 2 × D. Davon 6 von mir im Text nachgelesen (✔), alle Zitate maschinell geprüft.
 **Empfehlung:** A1–A12 vor dem Einfrieren entscheiden (zwei davon, A3 und A12, sind echte Entscheidungen
 über die Geschichte). B und C sind je ein Satz und können in einem Durchgang erledigt werden.
+
+---
+
+## E · Neue Funde aus der Übersetzung, Block 1 (K1–K4) — 2026-10-13
+
+> Gemeldet von Übersetzer und Prüfern (D3–D6) beim Übersetzen; von mir im deutschen Text nachgelesen und **bewertet**.
+> Grundlage: eingefrorener Stand 6f251d2. Die Übersetzung folgt dem Original — nichts davon wurde im Englischen „repariert".
+
+| # | Kap. | Befund | Meine Einschätzung |
+|---|---|---|---|
+| E1 | K2 ↔ K3 | **Woher kommt das Klopfen?** *„Das Klopfen kam aus der Wand. Direkt hinter ihrem Kopfende. Genau über ihr."* und *„Genau aus Frau Silbers Wohnung"* (ein Stock höher); in K3 vibriert die Wand in Theos Zimmer. Drei Prüfer sind darüber gestolpert. | **Gewichtig, aber kein harter Fehler:** Wer im Bett liegt, hat das Kopfende „über sich". Unklar bleibt, wie es aus der Wand *und* von oben kommt. Ein Halbsatz würde reichen: *„… in der Wand, als käme es von oben durch die Mauern."* — **deine Entscheidung** |
+| E2 | K2 | *„Nora sah seine Pfotenabdrücke im Staub neben ihren eigenen Fußspuren. Sonst keine Spuren."* — Theo ging mit hinein | klein: *„neben ihren und Theos Fußspuren"* |
+| E3 | K3 ↔ K4 | Theo sitzt in K3 schon beim Frühstück (*„rührte lustlos in seinem Kakao"*, erzählt vom Zettel), in K4 kommt er wie zum ersten Mal in die Küche, Nora liest den Zettel neu | ✔ **nachgelesen, echter Bruch:** derselbe Morgen — K3 endet mit *„Noras Müslischüssel krachte auf den Boden."*, K4 setzt direkt danach ein. Theo sitzt in K3 schon am Tisch und sagt *„Schon weg. Frühschicht."*, in K4 *„kam barfuß in die Küche geschlurft"*, und Nora liest den Zettel, als wäre er neu. Vorschlag: K4 Theo *„sprang vom Stuhl auf"* statt hereinzuschlurfen; Zettel-Absatz als Rückblick. **Deine Entscheidung** |
+| E4 | K3 | Theo: *„Ein Luftzug … Der eine schwere Holztür zu…"* — zugeschlagen hat niemand etwas hören | klein; Theos Übertreibung möglich |
+| E5 | K3 ↔ K4 | Buchstaben *„klar und deutlich"* (K3), in K4 mit verschwommenen Rändern | klein |
+| E6 | K4 | Juli: erster Schultag, Pullover, tickende Heizung | Für Deutschland stimmig (Schuljahr je nach Land, Kälte ist Absicht). Fürs Englische gelöst (*first day at the new school*). **Kein Handlungsbedarf** |
+| E7 | K3 | *„dreißig Kilo"* — für einen mittelgroßen, abgemagerten Hund viel | klein; *„zwanzig Kilo"* wäre stimmiger |
+| E8 | K2 | Nora „sieht" durch eine geschlossene Tür, dass Schatten reglos steht | klein (Perspektive) |
+| E9 | K3 | Nora denkt *„Wasserrohre klopften nicht im Takt."*, sagt dann zu Theo *„Wasserrohre."* | **kein Fehler — Absicht:** Nora redet es sich und Theo schön (A7 K1–K3). Bleibt. |
+| E10 | K2–K4 | **Noras Stimme:** zwei US-Lektoren geben ihr 3/5 — ihre gesprochenen Sätze seien allgemein (*„Sei leise"*, *„Es gibt eine Erklärung"*), Theo bekommt alle Pointen | **Hinweis für Staffel 2 / spätere Überarbeitung**, kein Fehler. Die Übersetzung erfindet ihr keine Sätze. |
+
+Bereits entschieden, nicht wieder aufgenommen: Körbchen/Leine „am Abend" (B4-Folge, *so lassen*), Mamas „erster Tag" (geprüft, kein Fehler).

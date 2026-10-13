@@ -227,3 +227,44 @@ light to cast it* aufgreifen, nicht mehr *a shadow*.
 (2) Absatz 97–98: Klopfen *aus der Wand hinter dem Kopfende* + *Genau über ihr* + *aus Frau Silbers Wohnung* (Stockwerk höher) —
 Wand oder Decke? Drei Prüfer stolperten. (3) Absatz 91 und 102: Nora sieht durch die geschlossene Tür, dass Schatten *reglos*,
 *auf etwas gerichtet* steht (POV). (4) Absatz 72 *ersten Tag im Krankenhaus* (bereits Abschn. 6 Nr. 2, D6 bestätigt).
+
+---
+
+## Runde 3
+
+Grundlage: `Pruefung/D4_K02-K04_Gegenprobe_R2.md` (K2: 2 SCHWÄCHE), `Pruefung/D5_K02_R2.md` (20 Befunde, höchstens 8 umgesetzt
+nach Pilot 5.1 d). K3/K4 unberührt.
+
+| Befund | Entscheidung | Grund / neuer Wortlaut |
+|---|---|---|
+| D4-G R2 Z.91 *one of the neighbors* | angenommen | → *By the way, I ran into the neighbor downstairs, Mrs. Held.* (DE bestimmt: *die Nachbarin*). |
+| D4-G R2 Z.121 *He looked up.* | angenommen | → *He looked up at Mom.* (Blick zur Mutter; nicht mit dem Decken-Signal K3 verwechseln). Revidiert meine R2-Entscheidung zu D4 #2. |
+| D5-R2 #1 *nameplate* | abgelehnt | A8 Abschn. 6. |
+| D5-R2 #2 *dark hackles* | abgelehnt | A4-Code *hackles*; *dunkles* bliebe sonst weg. |
+| D5-R2 #3 *as wide as a finger* | angenommen | → *A finger-wide crack ran down the wall on the right, from the ceiling to the floor.* |
+| D5-R2 #4 *lamp … lay next to it* | angenommen | → *Next to it, a lamp with a shattered shade.* (Fragment wie die Reihe davor, *Daneben* bleibt). |
+| D5-R2 #5 *twenty degrees* | abgelehnt | Fahrenheit korrekt (10 °C ≈ 18 °F), Vorgabe R2. |
+| D5-R2 #6 *tightened* doppelt | angenommen | → *Nora’s stomach clenched.* |
+| D5-R2 #7 *July* wiederholt | abgelehnt | Wiederholung des Originals (A8 7.4). |
+| D5-R2 #8 *There must be* | angenommen | → *“There’s got to be a cold pipe under the floor. Or—”* |
+| D5-R2 #9 *not one step farther* | abgelehnt | Vorschlag verlangt Kursiv (Prüfskript) und ändert den Sinn. |
+| D5-R2 #10 *Calmer than anything up there* | abgelehnt | Vergleich steht so im Original. |
+| D5-R2 #11 Frau Held verschieben/streichen | abgelehnt | ändert Inhalt/Reihenfolge. |
+| D5-R2 #12 *pulled at her* | abgelehnt | Vorschlag verliert das „zog sie an“. |
+| D5-R2 #13 *had the feeling* | abgelehnt | fügt Körperbild hinzu, das das Original nicht hat. |
+| D5-R2 #14 *her thoughts were upstairs* | angenommen | → *But her mind was upstairs.* |
+| D5-R2 #15 Salami | angenommen | → *half a slice of pepperoni* (Koordinator: US-Pizzawort, Sinnkern bleibt). |
+| D5-R2 #16 *felt something like home* | angenommen | → *it almost felt like home* (nicht *a little bit*: *A little.* steht zwei Sätze davor). |
+| D5-R2 #17 Kirchgasse = Straße | abgelehnt | keine Erklärungen (A8 7.1); in K1 eingeführt. |
+| D5-R2 #18 *dark shape … without any light* | abgelehnt | Vorgabe 3 (R2) und Setup K12; Vorschlag ändert Inhalt. |
+| D5-R2 #19 Wand/Decke | abgelehnt | Original → Autorenliste. |
+| D5-R2 #20 *Always the same* doppelt | abgelehnt | Doppelung des Originals. |
+| D5-R2 Ende *low whine* | abgelehnt | A7-Schlüsselstelle, Wirkung wie im Original. |
+
+**Zählung:** D4-Gegenprobe 2 angenommen / 0 abgelehnt · D5-R2 7 angenommen / 14 abgelehnt (inkl. Ende).
+
+**Gegenprobe (nur Bedeutung, 9 Sätze gegen DE):** keine Abweichung. *pepperoni* weicht im Wort von *Salami* ab (bewusst, Vorgabe);
+*There’s got to be* = *Da muss … laufen*; *almost felt like home* = *etwas wie Zuhause*; *He looked up at Mom* = *Sein Blick wanderte
+nach oben* (zur Mutter, an deren Knie er lehnt).
+
+**Prüfskript:** 0 Befunde · Absätze 103 = 103 · Ein-Satz-Absätze 33 = 33 · Ausrufe 1 = 1 · Dialog 14,4 % → 13,9 %.

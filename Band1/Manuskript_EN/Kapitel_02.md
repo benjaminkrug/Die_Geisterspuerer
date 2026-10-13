@@ -22,7 +22,7 @@ Nora waited. Three seconds. Five. Nothing happened. No sound. No draft. Only the
 
 She stepped through the doorway. The floorboards creaked under her shoes.
 
-The hallway was long and narrow. Wallpaper, once yellow, now gray and stained. A crack as wide as a finger ran down the wall on the right, from the ceiling to the floor. On the left, furniture lay knocked over like toys after a tantrum. A chair on its side. A small table with one leg snapped. A lamp with a shattered shade lay next to it. Broken glass on the floor, covered with a fine layer of dust.
+The hallway was long and narrow. Wallpaper, once yellow, now gray and stained. A finger-wide crack ran down the wall on the right, from the ceiling to the floor. On the left, furniture lay knocked over like toys after a tantrum. A chair on its side. A small table with one leg snapped. Next to it, a lamp with a shattered shade. Broken glass on the floor, covered with a fine layer of dust.
 
 Nora swallowed. Her throat was dry. This didn’t look like someone had just moved out. It looked like someone had run away. In the middle of the night. Without looking back.
 
@@ -38,7 +38,7 @@ She peeked into the kitchen. Empty shelves. A dead plant sat on the windowsill, 
 
 On the wall next to the kitchen door, she spotted scratches. Deep grooves in the plaster, as if someone had dragged heavy furniture along it. Or as if someone had dug their fingers in and held on.
 
-Nora’s stomach tightened. But she kept going. There was a room at the end of the hallway. The door was open.
+Nora’s stomach clenched. But she kept going. There was a room at the end of the hallway. The door was open.
 
 Cold.
 
@@ -60,7 +60,7 @@ In July. In the middle of summer.
 
 “Okay,” Theo said. “Okay, okay, okay. We’re leaving now.”
 
-“There must be a cold pipe running under the floor. Or—”
+“There’s got to be a cold pipe under the floor. Or—”
 
 “Nora. Your breath is STEAMING. In summer. The dog won’t go in. What other explanation do you need?”
 
@@ -88,7 +88,7 @@ Nora almost laughed. Almost. The dog was the calmest thing in this whole buildin
 
 ---
 
-Mom came home at six. Tired, but smiling. “Hey. Everything okay here? By the way, I ran into one of the neighbors downstairs. Mrs. Held. She talked like she hadn’t seen anyone in weeks.”
+Mom came home at six. Tired, but smiling. “Hey. Everything okay here? By the way, I ran into the neighbor downstairs, Mrs. Held. She talked like she hadn’t seen anyone in weeks.”
 
 Nora said, “Everything’s fine.”
 
@@ -118,7 +118,7 @@ Theo shrugged. “Maybe a few.”
 
 “Theo.”
 
-The dog stood up, trotted over to Mom, and rested his head against her knee. He looked up. Calm. Patient.
+The dog stood up, trotted over to Mom, and rested his head against her knee. He looked up at Mom. Calm. Patient.
 
 Mom sighed. “For now.”
 
@@ -144,11 +144,11 @@ Nora nodded slowly. The name fit. Perfectly.
 
 ---
 
-They ate pizza between moving boxes. Mom told them about her first day at the hospital. Nora nodded in the right places. But her thoughts were upstairs. On the third floor. In the room that was so cold she had seen her breath.
+They ate pizza between moving boxes. Mom told them about her first day at the hospital. Nora nodded in the right places. But her mind was upstairs. On the third floor. In the room that was so cold she had seen her breath.
 
 After the third slice, Mom’s eyelids started to droop.
 
-Theo fed Shadow half a slice of salami. The dog swallowed it in one bite.
+Theo fed Shadow half a slice of pepperoni. The dog swallowed it in one bite.
 
 “Tomorrow we’re buying dog food,” Nora said.
 
@@ -162,7 +162,7 @@ Theo fed Shadow half a slice of salami. The dog swallowed it in one bite.
 
 “Me. Just now.”
 
-Nora shook her head. But she smiled. A little. For the first time since they got here, it felt something like home. Shadow lay on the floor between them, his head on his paws.
+Nora shook her head. But she smiled. A little. For the first time since they got here, it almost felt like home. Shadow lay on the floor between them, his head on his paws.
 
 Mom fell asleep on the couch. Within seconds. It had been like that since the move. She worked until she dropped, and then she slept so deeply you could vacuum right next to her.
 
