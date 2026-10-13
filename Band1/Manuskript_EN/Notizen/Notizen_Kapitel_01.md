@@ -404,3 +404,5 @@ Nr. 8 Küchenfenster. Offen bleiben Nr. 3–6 und 9.
 
 **Prüfskript:** `python3 Scripts/pruefe_en.py pruefen Band1/Manuskript_EN/DE_Basis/Kapitel_01.md Band1/Manuskript_EN/Kapitel_01.md` → **0 Befund(e).**
 **Nicht gelaufen:** D4-Gegenprobe auf diese fünf Sätze (Pilot 5.2a verlangt sie für jede späte Änderung).
+
+K1 · Nachtrag Block 1 (Koordinator): *name card* → *nameplate* (Absatz mit „hung next to the frame“), weil zwei US-Lektoren unabhängig *name card* markierten; A8-Verbot von *nameplate* aufgehoben.

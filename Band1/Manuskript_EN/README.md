@@ -16,16 +16,17 @@
 
 | Kap. | D2 | D3 | D4 | D5 | D6 | Überarb. | Gegenprobe | Skript | fertig |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Pilot + Nachzug | | | | | | | | |
-| 2 | | | | | | | | | |
-| 3 | | | | | | | | | |
-| 4 | | | | | | | | | |
+| 1 | Pilot + Nachzug ✅ | Pilot | Pilot | Pilot | ✅ | – | ✅ 5/5 OK | 0 | ✅ |
+| 2 | ✅ | ✅ | ✅ | ✅ R1–R3 | ✅ | R2, R3 | ✅ | 0 | ✅ (Meldung: R3 „ja, knapp“) |
+| 3 | ✅ | ✅ | ✅ | ✅ R1–R2 | ✅ | R2 | ✅ | 0 | ✅ |
+| 4 | ✅ | ✅ | ✅ | ✅ R1–R2 | ✅ | R2 | ✅ | 0 | ✅ |
 | 5–8 | Block 2 | | | | | | | | |
 | 9 | Pilot + Nachzug | | | | | | | | |
 | 10–12 | Block 3 | | | | | | | | |
 | 13–16 | Block 4 | | | | | | | | |
 
-Nach Block 1: Auswertung + Leseprobe an US-Lesegruppen (`Dokumentation/EN_Bibel/E2_Anschreiben_Testleser.md`).
+**Block 1 fertig (2026-10-13)** — Auswertung: `Pruefung/Auswertung_Block1.md`.
+Nach Block 1: Leseprobe an US-Lesegruppen (`Dokumentation/EN_Bibel/E2_Anschreiben_Testleser.md`).
 Am Ende: Gesamtdurchgang (Stimmen, Running Gags), Kinderleser am Stück, D8 Nachanalyse, Rahmen (Titelei, Impressum mit KI-Hinweis, Anhang).
 
 **Offene Entscheidung für den Anhang:** Die deutsche Leseprobe stammt aus Band 2 — auf Englisch gibt es Band 2 noch nicht.

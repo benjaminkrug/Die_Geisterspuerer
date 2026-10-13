@@ -2,7 +2,7 @@
 
 The growling didn’t stop. It vibrated in Nora’s chest, low and deep.
 
-The dog sat in front of the door with the SILBER name card and didn’t move. His dark hackles were up. His eyes were fixed on the door. Only on the door.
+The dog sat in front of the door with the SILBER nameplate and didn’t move. His dark hackles were up. His eyes were fixed on the door. Only on the door.
 
 Theo grabbed Nora’s arm. His fingers were cold.
 
@@ -122,7 +122,7 @@ The dog stood up, trotted over to Mom, and rested his head against her knee. He 
 
 Mom sighed. “For now.”
 
-Theo punched his fist in the air. “Yes!”
+Theo pumped his fist. “Yes!”
 
 “For now, Theo. If someone claims him—”
 

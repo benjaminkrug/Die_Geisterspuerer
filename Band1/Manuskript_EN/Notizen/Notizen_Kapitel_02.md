@@ -268,3 +268,5 @@ nach Pilot 5.1 d). K3/K4 unberührt.
 nach oben* (zur Mutter, an deren Knie er lehnt).
 
 **Prüfskript:** 0 Befunde · Absätze 103 = 103 · Ein-Satz-Absätze 33 = 33 · Ausrufe 1 = 1 · Dialog 14,4 % → 13,9 %.
+
+K2 · Nachtrag Block 1 (Koordinator): *name card* → *nameplate* (Absatz 3), A8-Verbot aufgehoben; *punched his fist in the air* → *pumped his fist* (Absatz 62).

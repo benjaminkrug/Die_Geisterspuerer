@@ -214,7 +214,7 @@ Nora’s stomach tightened. It was only a dog on the stairs. That’s what she t
 
 The dog stopped in front of a door. The one on the right. The paint was peeling, and there was fine dust in the doorway, as if nobody had cleaned there in months.
 
-Nora stepped closer. A name card hung next to the frame. Yellowed. The letters were handwritten, scrawly and faded.
+Nora stepped closer. A nameplate hung next to the frame. Yellowed. The letters were handwritten, scrawly and faded.
 
 SILBER
 
