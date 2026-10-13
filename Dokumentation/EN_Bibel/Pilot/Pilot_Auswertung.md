@@ -190,3 +190,11 @@ Klingelschild). Die Übersetzer haben sie korrekt stehen lassen und an die Liste
 - **„Kirchgasse" ändern** (D6: schwer auszusprechen, „gas"-Kicher-Gefahr): Ortsname bleibt nach Glossar;
   ein einzelner KI-Kinderleser ist kein Beleg. Für die Lesegruppen-Fragen vormerken.
 - **„Dear Diary", 1970er-Details, zusätzliche Witze** (D5/D6): würden Inhalt erfinden.
+
+---
+
+> **Hinweis 2026-10-13:** Die deutschen Pilot-Kapitel (`DE_K01.md`, `DE_K09.md`) stammen aus Stand a3f2b68.
+> Durch die Korrekturen in 6f251d2 haben sich K1 (Ladefläche, Klingelschild, Passanten, Erkerfenster,
+> *Doch. Hatte es.*) und K9 (Herz auf der ersten Seite, Theos Heizungs-Satz, erster Eintrag, Kursiv) geändert.
+> Die englischen Pilot-Texte sind damit **nicht mehr aktuell** — gewollt: Der Pilot hat das Verfahren
+> getestet; übersetzt wird in Phase D vom eingefrorenen Band 1.

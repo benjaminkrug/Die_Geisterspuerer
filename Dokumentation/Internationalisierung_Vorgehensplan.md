@@ -533,5 +533,8 @@ Gegenprobe später Änderungen.
 285 Zitate maschinell geprüft. Nebenprodukt: **`EN_Bibel/Band1_Fundliste_DE.md`** — 39 Funde im deutschen Band 1
 (12 × Logik/Kanon, 19 × klein, 6 × Sprache, 2 × Reihe), zusammengeführt und nach Gewicht sortiert.
 
-**Als Nächstes:** Autor prüft die Funde im deutschen Original (vor Phase B). Dann Phase B (Band 1 DE
+**Fundliste umgesetzt (2026-10-13):** 33 Korrekturen auf dem Band-1-Branch (Commit 6f251d2), 6 bewusst gelassen.
+A7 nachgezogen.
+
+**Als Nächstes:** Phase B — Band 1 DE einfrieren (Testleser DE, KDP-Frage, Upload), danach Prüfpunkt 1. Dann Phase B (Band 1 DE
 einfrieren) → Prüfpunkt 1 → Phase D. Bis dahin: A7 für die übrigen Kapitel von Band 1, A9.

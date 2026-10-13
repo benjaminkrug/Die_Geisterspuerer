@@ -12,6 +12,7 @@
 >
 > **Die Übersetzung folgt dem Original.** Was hier nicht korrigiert wird, wird so übersetzt.
 >
+> **✅ Umgesetzt 2026-10-13** auf Branch `ccr-c33fc6fe-peyki0`, Commit **6f251d2** (Kapitel und Komplett-Datei; `pruefe_band1_umbau.py`: alle harten Prüfungen bestanden).
 > **Entschieden vom Autor 2026-10-13:** 33 × korrigieren, 6 × so lassen (B11, B13, B17, B19, C6, D1).
 > Abweichend von der Empfehlung: B11, B13, B17, D1 (so lassen), B18 (Schnarchen streichen statt Witz), D2 (nur Erwähnung).
 
