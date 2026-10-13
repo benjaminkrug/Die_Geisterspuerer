@@ -11,70 +11,73 @@
 > Übersetzung und kann die KDP-Regel (10 % geänderte Seiten) berühren. Jetzt kostet jede Korrektur einen Satz.
 >
 > **Die Übersetzung folgt dem Original.** Was hier nicht korrigiert wird, wird so übersetzt.
+>
+> **Entschieden vom Autor 2026-10-13:** 33 × korrigieren, 6 × so lassen (B11, B13, B17, B19, C6, D1).
+> Abweichend von der Empfehlung: B11, B13, B17, D1 (so lassen), B18 (Schnarchen streichen statt Witz), D2 (nur Erwähnung).
 
 ---
 
 ## A · Logik und Kanon — fällt aufmerksamen Lesern auf
 
-| # | Kap. | Befund | Vorschlag | gefunden von |
-|---|---|---|---|---|
-| A1 ✔ | K2 ↔ K13 | **Schatten vor dem kalten Zimmer:** K2 *„Er knurrte nicht. Er jaulte nicht."* — K13 erinnert: *„Vor dem er sich quergestellt und geknurrt hatte."* Bricht zugleich Silbers Code (R44: Knurren = wütend; Lina ist traurig). | K13: *„Vor dem er sich quergestellt hatte."* (ohne *geknurrt*) | 3 Durchgänge |
-| A2 ✔ | K2 ↔ K13 | **Tür des kalten Zimmers:** K2 *„Am Flurende lag ein Raum. Die Tür stand offen."* — K13 *„Bis zu der Tür, die immer geschlossen gewesen war."* | K13: *„die sie nie hatten öffnen wollen"* o. ä. — oder K2 die Tür schließen | 1 |
-| A3 ✔ | K12 ↔ K13 | **Wo wohnte Lina?** K12 *„Noras Zimmer. Linas Zimmer."* und *„bevor es Noras Zimmer war"* (erster Stock). Das kalte Zimmer, das Klopfen und die Befreiung liegen aber in **Silbers** Wohnung darüber; im Tagebuch ist *„Mein Zimmer"* das kalte. Der Text verbindet beides nicht. | Entweder ein Satz, der es verbindet (Linas Kälte „wanderte" nach oben / der Geist zog sich in die leere Wohnung zurück), oder Linas Zimmer nach oben legen. **Deine Entscheidung** — betrifft die Logik des ganzen Buches. | 1 |
-| A4 | K8, K9, K11, K13 | **Beschriftung des Tagebuchs:** K8 Einband *„Kein Titel. Keine Beschriftung."* — K9 *„Über den Namen. Über das kleine Herz."* (Einband) — K11 *„Das kleine Herz auf der ersten Seite."* — K13 *„Auf den Namen in Mädchenschrift."* (Ledereinband). | Einmal festlegen: Name und Herz auf der **ersten Seite**; K9 und K13 anpassen, K8 bleibt. | Pilot + 2 (auch im früheren Band-1-Feedback) |
-| A5 ✔ | K7 | **Nora weiß zu früh Bescheid:** *„Ein Mädchen hatte in ihrem Haus gelebt und gesagt, dass etwas nicht stimmt. Und niemand hatte ihr zugehört."* — das erfährt sie erst aus dem Tagebuch (K9). | Satz streichen oder als Vermutung: *„Und vielleicht hatte ihr niemand zugehört."* | 1 |
-| A6 ✔ | K6 | **„vierzig Jahre" zu früh:** *„Was kann eine Frau erschrecken, die vierzig Jahre lang –"* — die Zahl steht erst in K11 (Notizbuch); der Zeitungsartikel sagt nur *„langjährige Bewohnerin"*. | *„… die so lange hier gelebt hat –"* | 1 |
-| A7 | K6 | **Vorname und Monat zu früh:** Nora sucht nach *„Margret Silber"* (kennt nur *„M. Silber, 2019."*) und sagt *„Wir brauchen November."* (der Zettel sagt nur *1974?*). | *„M. Silber Gravenstedt"* · *„Wir brauchen 1974."* | 1 (Vorname auch im früheren Feedback) |
-| A8 ✔ | K11 | **Falsche Tür:** *„Sie riss die Haustür zum Treppenhaus auf"* — sie kommen aus dem **Keller**; zwei Absätze später *„Die Kellertür fiel hinter ihnen zu."* | *„Sie riss die Kellertür auf"* | 1 |
-| A9 | K12 ↔ K13 | **Wer hält das Tagebuch?** K12 endet *„Sie hielt das Tagebuch fest"* (Nora), K13 beginnt mit Theo, *„das Tagebuch an die Brust gedrückt"*. | Einen Halbsatz Übergabe in K13 | 2 |
-| A10 | K1 | **Logik der Ankunft:** (a) Karton *„aus dem Kofferraum"* — da steht nur der Umzugswagen; (b) *„Die Wohnung mit dem vergilbten Klingelschild"* — Nora kennt es noch nicht und es verrät die Pointe; (c) *„Kein Mensch zu sehen"*, später *„Nicht die Passanten"*; (d) Küchenfenster *„zum Hinterhof"*, trotzdem sehen sie den Hund **vor der Haustür**. | (a) *„von der Ladefläche"* (b) *„Die Wohnung, aus der das Geräusch kam."* (c) *„Nicht die Straße."* (d) Theo steht am **Wohnzimmer**fenster (Erker zur Straße) | Pilot: 3 Prüfer unabhängig |
-| A11 | K9 | **Theos Behauptung stimmt nicht:** Linas Eltern hätten es *„auf die Heizung geschoben"* — im Tagebuch: Papa *Fenster*, Mama *Mäuse*, Mama dreht die Heizung nur auf. | *„Und ihre Eltern hatten für alles eine Erklärung."* | Pilot |
-| A12 | K5 (+K1) | **Code-Frage R44:** Schatten **knurrt** bei Linas Kinderschritten (*„Schatten knurrte. Leise. Tief in der Kehle."*) — Knurren heißt „wütend", Lina ist traurig. | Gewollt (Lina hier noch aufgewühlt)? Sonst *winselte*. **Deine Entscheidung.** | 1 |
+| # | Kap. | Befund | Vorschlag | gefunden von | Entscheidung |
+|---|---|---|---|---|---|
+| A1 ✔ | K2 ↔ K13 | **Schatten vor dem kalten Zimmer:** K2 *„Er knurrte nicht. Er jaulte nicht."* — K13 erinnert: *„Vor dem er sich quergestellt und geknurrt hatte."* Bricht zugleich Silbers Code (R44: Knurren = wütend; Lina ist traurig). | K13: *„Vor dem er sich quergestellt hatte."* (ohne *geknurrt*) | 3 Durchgänge | **Autor: ✅ K13 ändern** |
+| A2 ✔ | K2 ↔ K13 | **Tür des kalten Zimmers:** K2 *„Am Flurende lag ein Raum. Die Tür stand offen."* — K13 *„Bis zu der Tür, die immer geschlossen gewesen war."* | K13: *„die sie nie hatten öffnen wollen"* o. ä. — oder K2 die Tür schließen | 1 | **Autor: ✅ K13 ändern** |
+| A3 ✔ | K12 ↔ K13 | **Wo wohnte Lina?** K12 *„Noras Zimmer. Linas Zimmer."* und *„bevor es Noras Zimmer war"* (erster Stock). Das kalte Zimmer, das Klopfen und die Befreiung liegen aber in **Silbers** Wohnung darüber; im Tagebuch ist *„Mein Zimmer"* das kalte. Der Text verbindet beides nicht. | Entweder ein Satz, der es verbindet (Linas Kälte „wanderte" nach oben / der Geist zog sich in die leere Wohnung zurück), oder Linas Zimmer nach oben legen. **Deine Entscheidung** — betrifft die Logik des ganzen Buches. | 1 | **Autor: ✅ Erklärsatz (Lina wohnte unten, Geist zog sich nach oben zurück)** |
+| A4 | K8, K9, K11, K13 | **Beschriftung des Tagebuchs:** K8 Einband *„Kein Titel. Keine Beschriftung."* — K9 *„Über den Namen. Über das kleine Herz."* (Einband) — K11 *„Das kleine Herz auf der ersten Seite."* — K13 *„Auf den Namen in Mädchenschrift."* (Ledereinband). | Einmal festlegen: Name und Herz auf der **ersten Seite**; K9 und K13 anpassen, K8 bleibt. | Pilot + 2 (auch im früheren Band-1-Feedback) | **Autor: ✅ erste Seite (K9, K13 anpassen)** |
+| A5 ✔ | K7 | **Nora weiß zu früh Bescheid:** *„Ein Mädchen hatte in ihrem Haus gelebt und gesagt, dass etwas nicht stimmt. Und niemand hatte ihr zugehört."* — das erfährt sie erst aus dem Tagebuch (K9). | Satz streichen oder als Vermutung: *„Und vielleicht hatte ihr niemand zugehört."* | 1 | **Autor: ✅ als Vermutung** |
+| A6 ✔ | K6 | **„vierzig Jahre" zu früh:** *„Was kann eine Frau erschrecken, die vierzig Jahre lang –"* — die Zahl steht erst in K11 (Notizbuch); der Zeitungsartikel sagt nur *„langjährige Bewohnerin"*. | *„… die so lange hier gelebt hat –"* | 1 | **Autor: ✅ umformulieren** |
+| A7 | K6 | **Vorname und Monat zu früh:** Nora sucht nach *„Margret Silber"* (kennt nur *„M. Silber, 2019."*) und sagt *„Wir brauchen November."* (der Zettel sagt nur *1974?*). | *„M. Silber Gravenstedt"* · *„Wir brauchen 1974."* | 1 (Vorname auch im früheren Feedback) | **Autor: ✅ beides anpassen** |
+| A8 ✔ | K11 | **Falsche Tür:** *„Sie riss die Haustür zum Treppenhaus auf"* — sie kommen aus dem **Keller**; zwei Absätze später *„Die Kellertür fiel hinter ihnen zu."* | *„Sie riss die Kellertür auf"* | 1 | **Autor: ✅ Kellertür** |
+| A9 | K12 ↔ K13 | **Wer hält das Tagebuch?** K12 endet *„Sie hielt das Tagebuch fest"* (Nora), K13 beginnt mit Theo, *„das Tagebuch an die Brust gedrückt"*. | Einen Halbsatz Übergabe in K13 | 2 | **Autor: ✅ Halbsatz Übergabe in K13** |
+| A10 | K1 | **Logik der Ankunft:** (a) Karton *„aus dem Kofferraum"* — da steht nur der Umzugswagen; (b) *„Die Wohnung mit dem vergilbten Klingelschild"* — Nora kennt es noch nicht und es verrät die Pointe; (c) *„Kein Mensch zu sehen"*, später *„Nicht die Passanten"*; (d) Küchenfenster *„zum Hinterhof"*, trotzdem sehen sie den Hund **vor der Haustür**. | (a) *„von der Ladefläche"* (b) *„Die Wohnung, aus der das Geräusch kam."* (c) *„Nicht die Straße."* (d) Theo steht am **Wohnzimmer**fenster (Erker zur Straße) | Pilot: 3 Prüfer unabhängig | **Autor: ✅ a, b, c, d** |
+| A11 | K9 | **Theos Behauptung stimmt nicht:** Linas Eltern hätten es *„auf die Heizung geschoben"* — im Tagebuch: Papa *Fenster*, Mama *Mäuse*, Mama dreht die Heizung nur auf. | *„Und ihre Eltern hatten für alles eine Erklärung."* | Pilot | **Autor: ✅ allgemeiner** |
+| A12 | K5 (+K1) | **Code-Frage R44:** Schatten **knurrt** bei Linas Kinderschritten (*„Schatten knurrte. Leise. Tief in der Kehle."*) — Knurren heißt „wütend", Lina ist traurig. | Gewollt (Lina hier noch aufgewühlt)? Sonst *winselte*. **Deine Entscheidung.** | 1 | **Autor: ✅ K5 → winselt** |
 
 ## B · Kleine Unstimmigkeiten — wenige Leser merken sie
 
-| # | Kap. | Befund | Vorschlag |
-|---|---|---|---|
-| B1 | K2 | *„Der Hund war schon vorausgegangen."* — kurz darauf *„Der Hund, der ihnen durch die Wohnung gefolgt war"* | eine Stelle angleichen |
-| B2 | K5 ↔ K1 | Theo: *„… der letztes Mal fast die Tür angeknurrt hat."* — in K1 hat er sie angeknurrt | *fast* streichen (oder als Theo-Ungenauigkeit lassen) |
-| B3 | K5 ↔ K2/K3 | Silbers Wohnungstür *„stand offen. Einen Spalt breit. So wie beim ersten Mal."* — beim ersten Mal (K2) war sie zu, in K3 *„Fest geschlossen."* | *„So wie beim ersten Mal"* streichen |
-| B4 | K2 → K4/K6 | Körbchen und Leine *„Morgen"* kaufen — am nächsten Morgen liegt Schatten schon *„in seinem Körbchen"*, nachmittags hat Theo eine Leine | ein Halbsatz in K4 (*„im neuen Körbchen, das Mama vor der Schicht besorgt hatte"*) |
-| B5 | K4 | Ende räumlich unklar: Schatten *„Vor der Wohnungstür"* (drinnen), dann *„vor der Treppe zum zweiten Stock"* (draußen) | Tür öffnen lassen |
-| B6 | K7 | *„Sie hatte dieses Haus dutzende Male angeschaut."* — eingezogen am Vortag | *„dutzende Male"* → *„seit gestern immer wieder"* |
-| B7 | K8 | Szene spielt im Flur, aber *„knallte die Flurtür zu"*, *„Dahinter der leere Flur."* | Raum festlegen |
-| B8 | K8 | Doppelung aus dem Umbau: *„Sie schloss die Finger darum"* / *„Noras Finger schlossen sich darum"*; *„Kalt. Glatt. Hart."* gegen *„rissig und trocken"* | eine Fassung |
-| B9 | K8 | *„Leise, hoch, aus tiefer Kehle."* — widersprüchlich | *„Leise, hoch, kläglich."* |
-| B10 | K9 | Nora sieht schon *„Mädchenschrift auf der ersten Seite"*, dann *„blätterte zur ersten Seite"* | *„… zum ersten Eintrag"* |
-| B11 | K11 ↔ K5 | Kerzen jetzt auf dem *„Schreibtisch"* mit Schubladen — in K5 *„ein kleiner Tisch"* und *„eine kleine Kommode"* | K11 angleichen |
-| B12 | K11 | *„… wie Frau Silber die Geister befreit hat."* — vor dem Lesen des Notizbuchs | *„… ob Frau Silber …"* |
-| B13 | K12 ↔ K2 | *„Nachttischschublade"* — in K2 ist der Nachttisch *„ein Umzugskarton"* | *„aus dem Karton neben dem Bett"* |
-| B14 | K13 | Lichtfleck *„direkt neben Schattens Pfote"*, dann geht er *„Drei Schritte."* hin; *„setzte er sich"*, dann *„lag still"* | angleichen |
-| B15 | K14 ↔ K5 | *„Das Fragezeichen"* — in K5 *„zwei Fragezeichen"* | *„Die Fragezeichen"* |
-| B16 | K14 | *„seit drei Monaten"* — vermisst seit 14. März, Handlung im Juli (≈ 4) | *„seit Monaten"* (im Kanon als hingenommen vermerkt) |
-| B17 | K15 | *„seinen Brieföffner"* — kommt vorher nie vor | *„ein Taschenmesser"* oder vorher einführen (auch im früheren Feedback) |
-| B18 | K16 | *„leises Schnarchen"* aus Theos Zimmer, kurz darauf Theo: *„Kann nicht schlafen"* | Witz markieren oder Schnarchen streichen |
-| B19 | K14 | Friedhof *„Drei, vielleicht vier Straßen"* entfernt — gegenüber der Bibliothek, die *„zwölf Minuten zu Fuß"* liegt | nur prüfen |
+| # | Kap. | Befund | Vorschlag | Entscheidung |
+|---|---|---|---|---|
+| B1 | K2 | *„Der Hund war schon vorausgegangen."* — kurz darauf *„Der Hund, der ihnen durch die Wohnung gefolgt war"* | eine Stelle angleichen | **Autor: ✅** |
+| B2 | K5 ↔ K1 | Theo: *„… der letztes Mal fast die Tür angeknurrt hat."* — in K1 hat er sie angeknurrt | *fast* streichen (oder als Theo-Ungenauigkeit lassen) | **Autor: ✅** |
+| B3 | K5 ↔ K2/K3 | Silbers Wohnungstür *„stand offen. Einen Spalt breit. So wie beim ersten Mal."* — beim ersten Mal (K2) war sie zu, in K3 *„Fest geschlossen."* | *„So wie beim ersten Mal"* streichen | **Autor: ✅** |
+| B4 | K2 → K4/K6 | Körbchen und Leine *„Morgen"* kaufen — am nächsten Morgen liegt Schatten schon *„in seinem Körbchen"*, nachmittags hat Theo eine Leine | ein Halbsatz in K4 (*„im neuen Körbchen, das Mama vor der Schicht besorgt hatte"*) | **Autor: ✅ Halbsatz K4** |
+| B5 | K4 | Ende räumlich unklar: Schatten *„Vor der Wohnungstür"* (drinnen), dann *„vor der Treppe zum zweiten Stock"* (draußen) | Tür öffnen lassen | **Autor: ✅** |
+| B6 | K7 | *„Sie hatte dieses Haus dutzende Male angeschaut."* — eingezogen am Vortag | *„dutzende Male"* → *„seit gestern immer wieder"* | **Autor: ✅** |
+| B7 | K8 | Szene spielt im Flur, aber *„knallte die Flurtür zu"*, *„Dahinter der leere Flur."* | Raum festlegen | **Autor: ✅ Szene ins Wohnzimmer** |
+| B8 | K8 | Doppelung aus dem Umbau: *„Sie schloss die Finger darum"* / *„Noras Finger schlossen sich darum"*; *„Kalt. Glatt. Hart."* gegen *„rissig und trocken"* | eine Fassung | **Autor: ✅** |
+| B9 | K8 | *„Leise, hoch, aus tiefer Kehle."* — widersprüchlich | *„Leise, hoch, kläglich."* | **Autor: ✅ kläglich** |
+| B10 | K9 | Nora sieht schon *„Mädchenschrift auf der ersten Seite"*, dann *„blätterte zur ersten Seite"* | *„… zum ersten Eintrag"* | **Autor: ✅** |
+| B11 | K11 ↔ K5 | Kerzen jetzt auf dem *„Schreibtisch"* mit Schubladen — in K5 *„ein kleiner Tisch"* und *„eine kleine Kommode"* | K11 angleichen | **Autor: ❌ so lassen** |
+| B12 | K11 | *„… wie Frau Silber die Geister befreit hat."* — vor dem Lesen des Notizbuchs | *„… ob Frau Silber …"* | **Autor: ✅** |
+| B13 | K12 ↔ K2 | *„Nachttischschublade"* — in K2 ist der Nachttisch *„ein Umzugskarton"* | *„aus dem Karton neben dem Bett"* | **Autor: ❌ so lassen** |
+| B14 | K13 | Lichtfleck *„direkt neben Schattens Pfote"*, dann geht er *„Drei Schritte."* hin; *„setzte er sich"*, dann *„lag still"* | angleichen | **Autor: ✅** |
+| B15 | K14 ↔ K5 | *„Das Fragezeichen"* — in K5 *„zwei Fragezeichen"* | *„Die Fragezeichen"* | **Autor: ✅** |
+| B16 | K14 | *„seit drei Monaten"* — vermisst seit 14. März, Handlung im Juli (≈ 4) | *„seit Monaten"* (im Kanon als hingenommen vermerkt) | **Autor: ✅ seit Monaten** |
+| B17 | K15 | *„seinen Brieföffner"* — kommt vorher nie vor | *„ein Taschenmesser"* oder vorher einführen (auch im früheren Feedback) | **Autor: ❌ so lassen** |
+| B18 | K16 | *„leises Schnarchen"* aus Theos Zimmer, kurz darauf Theo: *„Kann nicht schlafen"* | Witz markieren oder Schnarchen streichen | **Autor: ✅ Schnarchen streichen (statt Witz)** |
+| B19 | K14 | Friedhof *„Drei, vielleicht vier Straßen"* entfernt — gegenüber der Bibliothek, die *„zwölf Minuten zu Fuß"* liegt | nur prüfen | **Autor: ❌ so lassen** |
 
 **Geprüft, eher kein Fehler:** K1 *„Zwei Stunden, höchstens."* ↔ K2 *„Die Mutter kam um sechs."* — passt, wenn
 sie nachmittags losfuhr. Nicht ändern.
 
 ## C · Sprache und Satzbild
 
-| # | Kap. | Befund | Vorschlag |
-|---|---|---|---|
-| C1 | K1 | *„Hat es nicht." / Es hatte es.* — grammatisch schief | *Doch, hatte es.* — oder lassen, wenn der Bruch Absicht ist |
-| C2 | K12 | *„Ihrem Zimmer ist dein Zimmer."* | *„Ihr Zimmer ist dein Zimmer."* (auch im früheren Feedback) |
-| C3 | K8, K13 | Abgebrochene Rede 3× mit `--`, sonst `–` | `–` |
-| C4 | K8 ↔ K9 | Dieselbe Seite: `LINAS TAGEBUCH` (K8) und `*Linas Tagebuch*` (K9) | eine Schreibweise |
-| C5 | K9 | *„\*30. Oktober. Nur noch zwei Einträge\*"*: Noras Bemerkung steht kursiv im Tagebuch-Zitat | *„\*30. Oktober.\* Nur noch zwei Einträge"* |
-| C6 | K3 | *„zum dritten Mal"* — *„Es gibt eine Erklärung"* steht wörtlich nur 2× | lassen (Theo zählt Noras Ausreden), oder dritte Stelle |
+| # | Kap. | Befund | Vorschlag | Entscheidung |
+|---|---|---|---|---|
+| C1 | K1 | *„Hat es nicht." / Es hatte es.* — grammatisch schief | *Doch, hatte es.* — oder lassen, wenn der Bruch Absicht ist | **Autor: ✅ Doch. Hatte es.** |
+| C2 | K12 | *„Ihrem Zimmer ist dein Zimmer."* | *„Ihr Zimmer ist dein Zimmer."* (auch im früheren Feedback) | **Autor: ✅** |
+| C3 | K8, K13 | Abgebrochene Rede 3× mit `--`, sonst `–` | `–` | **Autor: ✅** |
+| C4 | K8 ↔ K9 | Dieselbe Seite: `LINAS TAGEBUCH` (K8) und `*Linas Tagebuch*` (K9) | eine Schreibweise | **Autor: ✅ kursiv** |
+| C5 | K9 | *„\*30. Oktober. Nur noch zwei Einträge\*"*: Noras Bemerkung steht kursiv im Tagebuch-Zitat | *„\*30. Oktober.\* Nur noch zwei Einträge"* | **Autor: ✅** |
+| C6 | K3 | *„zum dritten Mal"* — *„Es gibt eine Erklärung"* steht wörtlich nur 2× | lassen (Theo zählt Noras Ausreden), oder dritte Stelle | **Autor: ❌ so lassen** |
 
 ## D · Reihe
 
-| # | Befund | Hinweis |
-|---|---|---|
-| D1 | K13 *„Kein Möbelstück."* im kalten Zimmer — in Band 4 steht dort ein alter Schrank, hinter dem Fabers Tür liegt | K13: *„Nur ein alter Schrank an der Wand."* — macht Band 4 sogar stärker (Rückgriff) |
-| D2 | Frau Held kommt im Roman Band 1 nicht vor, Band 3 K2 und Band 5 K5 beziehen sich auf eine Begegnung (steht nur im Spielbuch) | Siehe A0 Abschn. 3. Ein kurzer Auftritt im Treppenhaus in K1 oder K2 würde es lösen |
+| # | Befund | Hinweis | Entscheidung |
+|---|---|---|---|
+| D1 | K13 *„Kein Möbelstück."* im kalten Zimmer — in Band 4 steht dort ein alter Schrank, hinter dem Fabers Tür liegt | K13: *„Nur ein alter Schrank an der Wand."* — macht Band 4 sogar stärker (Rückgriff) | **Autor: ❌ so lassen (Kein Möbelstück bleibt)** |
+| D2 | Frau Held kommt im Roman Band 1 nicht vor, Band 3 K2 und Band 5 K5 beziehen sich auf eine Begegnung (steht nur im Spielbuch) | Siehe A0 Abschn. 3. Ein kurzer Auftritt im Treppenhaus in K1 oder K2 würde es lösen | **Autor: ✅ nur Erwähnung (Mama nennt Frau Held in einem Satz)** |
 
 ---
 
