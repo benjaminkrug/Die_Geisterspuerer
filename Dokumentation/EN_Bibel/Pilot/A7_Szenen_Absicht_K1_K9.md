@@ -1,5 +1,7 @@
 # A7 (Pilot-Ausschnitt) · Szenen-Absicht Band 1, Kapitel 1 und 9
 
+> **Aufgegangen in `../A7_Szenen_Absicht_Band1.md`** (alle 16 Kapitel). Diese Datei bleibt als Pilot-Stand.
+
 > Grundlage: umgebaute Fassung, Branch `ccr-c33fc6fe-peyki0`, Stand a3f2b68.
 > **Autor prüft.** Geschrieben aus dem Text, nicht aus der Planung: `Band1/Story_Outline.md` beschreibt
 > noch die alte Fassung mit 18 Kapiteln (siehe Pilot-Auswertung, Befund zu A7).

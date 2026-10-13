@@ -83,7 +83,7 @@ Herr Pawlik (4), Frau Kettner, Frau Weber (je 1). **Entscheidung:** Glossar E8 (
 | # | Stelle | Falle | Lösungsrichtung |
 |---|---|---|---|
 | F1 | B1 K4: *„Kondenswasser schreibt keine deutschen Wörter!"* | Witz über die Sprache selbst — auf Englisch absurd | **neu bauen:** *“Condensation doesn't spell!”* |
-| F2 | B1 K3–K12: HILF · HIER · VERGISS NICHT · TAGEBUCH · LIES · BITTE · DANKE · OBEN | kurz, kindlich, mit dem Finger geschrieben; in K12 **vier Wörter auf vier Fenstern** | Glossar E11. Großbuchstaben, ohne Satzzeichen, wie im Original |
+| F2 | B1 K3–K12: HILF · HIER · VERGISS NICHT · TAGEBUCH · LIES · BITTE · DANKE · OBEN | kurz, kindlich, mit dem Finger geschrieben; in K12 **vier Wörter auf vier Fenstern** | Glossar E11. Großbuchstaben, Satzzeichen **genau wie im Original**: K3, K4, K7 **ohne** Punkt (HILF · HIER · VERGISS NICHT), K12 **mit** Punkt (TAGEBUCH. LIES. BITTE. VERGISS NICHT. DANKE. OBEN.) — der Wechsel ist im Original so; ob gewollt, siehe A7 K12 |
 | F3 | B1 K3: *„Es gibt eine Erklärung"* + *„Du sagst das jetzt zum dritten Mal"* | Witz lebt von Wiederholung | Register R26 — beide Stellen identisch |
 | F4 | B1 K2, K3, K11: *„Klopf. Klopf. Klopf. Pause."* | Rhythmus | Register R24 |
 | F5 | B1 K12: *„Einen Schatten. Aber nicht unseren Schatten."* | Hundename = Wort | *“A shadow. But not our Shadow.”* — wird im Englischen sogar klarer |

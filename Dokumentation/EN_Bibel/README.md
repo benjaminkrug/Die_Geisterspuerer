@@ -14,7 +14,7 @@ Plan: `Dokumentation/Internationalisierung_Vorgehensplan.md`, Phase A.
 | A4 | Motiv-Liste | [A4_Motive.md](A4_Motive.md) | ✅ 12 Motive mit festem Wortlaut · Schattens Code · neue Falle *Knock, knock* |
 | A5 | Satz-Register | [A5_Satz_Register.md](A5_Satz_Register.md) | ✅ 45 Einträge · Englisch vorläufig bis Pilot |
 | A6 | Fallen-Liste | [A6_Fallen_Liste.md](A6_Fallen_Liste.md) | ✅ vollständig B1–B5 (31 Fallen) |
-| A7 | Szenen-Absicht je Kapitel | [Pilot/A7_Szenen_Absicht_K1_K9.md](Pilot/A7_Szenen_Absicht_K1_K9.md) | 🟡 K1, K9 · Rest offen · für Band 1 **aus dem Text** zu schreiben (Story_Outline ist veraltet) · Autor prüft |
+| A7 | Szenen-Absicht je Kapitel | [A7_Szenen_Absicht_Band1.md](A7_Szenen_Absicht_Band1.md) | ✅ Band 1 alle 16 Kapitel · mit Setups/Rückgriffen · 285 Zitate maschinell geprüft · **Autor prüft** |
 | A8 | Stil-Brief EN | [A8_Stil_Brief.md](A8_Stil_Brief.md) | ✅ Fassung 0 · wird im Pilot geschärft |
 | A9 | US-Zielwerte (Vergleichstitel) | – | ⏳ offen |
 | A10 | US-Marktanalyse | – | ⏳ offen · Titelprüfung schon in A1, Gegenprobe (Amazon.com, USPTO) vor dem Cover |
@@ -29,6 +29,7 @@ alle Berichte in `Pilot/`.
 
 | Datei | Wofür |
 |---|---|
+| [Band1_Fundliste_DE.md](Band1_Fundliste_DE.md) | **Fehler im deutschen Band 1** (39 Funde, nach Gewicht) — vor dem Einfrieren entscheiden |
 | [E2_Anschreiben_Testleser.md](E2_Anschreiben_Testleser.md) | Anschreiben für Lesegruppen (Autor kennt keine EN-Testleser persönlich) |
 
 ## Grundlage
@@ -43,6 +44,7 @@ alle Berichte in `Pilot/`.
   python3 Scripts/en_bibel_extrakt.py fallen   --band1 <Pfad zur umgebauten Fassung>
   python3 Scripts/en_bibel_extrakt.py stimmen  --band1 <Pfad zur umgebauten Fassung>
   python3 Scripts/en_bibel_extrakt.py motive   --band1 <Pfad zur umgebauten Fassung>
+  python3 Scripts/en_bibel_extrakt.py zitate <Bibel-Datei> --band1 <Pfad>   # stimmt jedes Zitat wörtlich?
   ```
 
 ## Regeln

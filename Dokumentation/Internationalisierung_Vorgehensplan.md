@@ -529,5 +529,9 @@ Vorrangregel). Größte offene Schwäche: Alle Prüfer sind KI → menschliche L
 der Übersetzer übernommen, Satzbild/Kursiv/Schattens Code im Skript, D3 verschlankt, unabhängige
 Gegenprobe später Änderungen.
 
+**A7 für Band 1 fertig (2026-10-13):** alle 16 Kapitel mit Setups/Rückgriffen (`EN_Bibel/A7_Szenen_Absicht_Band1.md`),
+285 Zitate maschinell geprüft. Nebenprodukt: **`EN_Bibel/Band1_Fundliste_DE.md`** — 39 Funde im deutschen Band 1
+(12 × Logik/Kanon, 19 × klein, 6 × Sprache, 2 × Reihe), zusammengeführt und nach Gewicht sortiert.
+
 **Als Nächstes:** Autor prüft die Funde im deutschen Original (vor Phase B). Dann Phase B (Band 1 DE
 einfrieren) → Prüfpunkt 1 → Phase D. Bis dahin: A7 für die übrigen Kapitel von Band 1, A9.
