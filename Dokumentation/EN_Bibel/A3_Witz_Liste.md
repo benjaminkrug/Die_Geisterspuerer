@@ -38,7 +38,7 @@ bei der Übersetzung abgehakt werden können. Englische Vorschläge sind **vorl�
 | W1-06 | K3 | „Und? Bitte sag mir, du hast ihm gekündigt." | E | U | *“Well? Please tell me you evicted it.”* | *kündigen* (Mietvertrag) → *evict* trifft den Witz genauer |
 | W1-07 | K3 | „Weil Geister sich bekanntlich an Öffnungszeiten halten." | E | U | *“Because ghosts famously keep business hours.”* | *Öffnungszeiten* → *business hours* |
 | W1-08 | K4 | „Kondenswasser schreibt keine deutschen Wörter!" | E | **N** | *“Condensation doesn't* spell*!”* | hängt an der Sprache (F1) |
-| W1-09 | K5 | „Letztes Mal sind wir gerannt. Ich möchte das protokollieren." | C/R | U | *“Last time, we ran. I'd like that on the record.”* | *protokollieren* → *on the record* |
+| W1-09 | K5 | „… sind wir gerannt. Ich möchte das protokollieren. Wir sind gerannt." | C/R | U | *“Last time, we ran. I'd like that on the record.”* | *protokollieren* → *on the record* |
 | W1-10 | K6 | „Geisterjäger und Lügner. Toller Lebenslauf." | C | U | *“Ghost hunters and liars. Great résumé.”* | *résumé* (F16); **R-Bezug** zu W1-17 |
 | W1-11 | K6 | „In welchem Fach? Gruselkunde?" | C | U | *“What class is that? Spookology?”* | Wortneubildung neu bauen |
 | W1-12 | K6 | „Mikrofiche." – „Gesundheit." | E | Ü! | *“Microfiche.” – “Bless you.”* | **Bewusst wörtlich** — Beispiel gegen Überübersetzen (F7) |
@@ -58,11 +58,11 @@ bei der Übersetzung abgehakt werden können. Englische Vorschläge sind **vorl�
 | K2 | „Gemütlich. Sehr einladend. Fünf Sterne." (E) · „der stillste Mensch der Welt" (E) · „Das Klügste, was du heute gesagt hast" (E) · „Für immer. Für alle Zeiten. Bis ans Ende der Welt." (E) · Mama: „Wollteppich mit Beinen" (C) · Flöhe / „Vielleicht ein paar" (C) · „Leckerlis … wissenschaftlich bewiesen" / „Von mir. Gerade eben." (W) |
 | K3 | „Ich übe nur, eine Decke zu sein" (E) · „Eiszimmer. Wo sonst." (E) · „die ordentlichsten Wasserrohre der Welt" (E) · „Geister. Eindeutig Geister." (E) · „Filme kann man ausmachen" (E) · Luftzug ohne Fenster (E) · „zum dritten Mal" (R, Register R26) · Hund „verarbeitet" im Schlaf (E) · „Haus, das klopft" (E) · Erzähler: „drei Stunden geschlafen. Weil er drei Stunden geschlafen hatte." (C) · „Stille nach Klopfen ist schlimmer als Klopfen. Meine neue Lebensweisheit." (E) |
 | K4 | „Geister-Grippe" (E) · „Theo hatte recht. Steht auf meinem Grabstein." / „Sag das dem Fenster." (E) · Hamster in der Jackentasche, „Das ist solide." (C) · „Mama schreibt ‚Hab euch lieb' auf Zettel" (W) |
-| K5 | „Das habe ich befürchtet" (E) · „entweder sicher oder der Hund hat aufgegeben" (E) · „Labor einer Hexe" / „Arbeitszimmer einer Hexe" (E) · „Ich war drei Meter weg" (C, Maß → *ten feet*) · Historiker mögen Kerzen / „nostalgisch = alt und staubig" (E) |
+| K5 | „Das habe ich befürchtet" (E) · „Also entweder ist das jetzt sicher. Oder der Hund hat aufgegeben." (E) · „Labor einer Hexe" / „Arbeitszimmer einer Hexe" (E) · „Ich war drei Meter weg" (C, Maß → *ten feet*) · Historiker mögen Kerzen / „nostalgisch = alt und staubig" (E) |
 | K6 | „Das ist mein Leben jetzt" (E) · „Kannst du das überhaupt verhindern?" (C) · „Hat jemand auf Theo gehört? Nein." (C) · Videospiele vs. Geisterfälle (C) · „Bell." / „Er nimmt mich nicht ernst" / „Willkommen in meiner Welt" (C) · „Omas Dachboden. Nur ohne Kekse." (C) · „Mein Hamsterreferat hatte mehr" (R zu K4 Hamster) · „Kapitel eins von *Wir hätten zu Hause bleiben sollen*" (E) · „Netflix ohne Bild und Ton" (C) · „gelangweilt. Das geht gleichzeitig." (C) |
 | K7 | „Hunde spüren keine Zeitungsartikel" / „das kleinere Wunder" (W) · „Stehst du hier, bis es dunkel wird?" (C) · „der Satz, nach dem im Film alle schreien" (E) |
 | K8 | „Navigationsgerät für Gruselzeug" (C, → *GPS for creepy stuff*) · „Unseren Fingernägeln?" (C) · „Meißel oder ein sehr aggressiver Löffel" (C) · „Endlich Anerkennung" (C) · „sag ich Mama, dass du angefangen hast" (C) · „Ein Buch. In der Wand. Total normal." (E) |
-| K9 | „Weil Stühle sich ständig selbst bewegen" (E) · „Hättest du mir geglaubt, hätte ich mich noch mehr erschreckt" (W) |
+| K9 | „Weil Stühle sich ständig selbst bewegen" (E) · „Hättest du mir geglaubt, hätte ich mich wahrscheinlich noch mehr erschreckt." (W) |
 | K10 | „mehr Mut als wir beide zusammen" (E) · „Ich sehe keinen Geist. Gutes Zeichen." (E) · Kino-Zuschauer (E) · „Im Film gibt es wenigstens Hintergrundmusik" (E) · „Neue Regel: keine Keller mehr … Auch nicht zum Getränkeholen" (E) |
 | K11 | „Deine Augen waren nass. Das zählt." (W) · „Seit wann bin ich der Mutige?" / „Seit jetzt." (C) · „Dem Geist?" (C) · „Hund knurrt, Frau rennt hin" (C) · „wirklich gruselige Hobbys" (C) |
 | K12 | Kakao „mit Marshmallows … nie wieder über diese Nacht reden" (E, *hot chocolate*) · „Er wollte nur helfen" auf dem Grabstein (E, R zu K4) · „Du erfrierst nicht." / „Sicher?" / „Nein." (E) · „Nächstes Mal vielleicht nicht um drei Uhr nachts" (W) |
@@ -85,7 +85,7 @@ wirklich am Deutschen** (W1-08). Der Rest ist Situationskomik — gute Nachricht
 | W2-01 | K1 | „Du hast geschrien." – „Ich habe ausgerufen. Das ist ein Unterschied." | E | U | *“You screamed.” – “I* exclaimed*. There's a difference.”* | *ausrufen* hat kein Kinder-Gegenstück; *exclaimed* trägt die gespielte Würde |
 | W2-02 | K2 | „Du siehst nicht gut aus." – „Danke. Ich fühle mich auch nicht gut aus." | E | **N** | *“You don't look so good.” – “Thanks. I don't feel so good-looking either.”* | Witz lebt vom deutschen Grammatik-Verdreher. Englisch braucht einen eigenen Verdreher — im Pilot 2–3 Varianten |
 | W2-03 | K2 | Schilder NUR NACH VEREINBARUNG / ODER KLINGELN – Theo: „Es steht ODER KLINGELN. Nicht DANN KOMMT JEMAND." | C | U | Schilder *BY APPOINTMENT ONLY* / *OR RING BELL* – *“It says OR RING BELL. Not THEN SOMEONE COMES.”* | Schilder übersetzen, Großschreibung halten |
-| W2-04 | K3 | „Auf einer Skala von eins bis tot schätze ich: sieben." | E/R | Ü | *“On a scale from one to dead, I'd say: seven.”* | **Running Gag** → K8 („sechs") — beide Stellen gleich bauen |
+| W2-04 | K3 | „Auf einer Skala von eins bis tot … schätze ich: sieben." | E/R | Ü | *“On a scale from one to dead, I'd say: seven.”* | **Running Gag** → K8 („sechs") — beide Stellen gleich bauen |
 | W2-05 | K6 | Kloß: Brenner sei ein „hartnäckiger Hund" gewesen | W | U | *“a dogged old man”* | Englisch *dogged* enthält den Hund — trifft sogar besser |
 | W2-06 | K7 | „Ich bin schon an." (= angezogen) | C | U | *“Already dressed.”* | Umgangssprache ohne Gegenstück |
 | W2-07 | K7 | „Das sagtest du schon." – „Noch gültiger." | E | U | *“You said that already.” – “Even truer now.”* | |
@@ -97,11 +97,11 @@ wirklich am Deutschen** (W1-08). Der Rest ist Situationskomik — gute Nachricht
 
 | Kap. | Witze (Kurzform, Funktion) |
 |---|---|
-| K1 | „seit zwanzig Minuten dasselbe Brötchen" / „Ich kaue gründlich" (C, *roll*) · „Ich habe Angst. Das sage ich einfach mal laut." (C) · „Fragen wir lieber nicht, was." (E) · Erzähler: „Natürlich quietschte es." (E) · „Schatten ist klüger als wir beide zusammen … sollte uns zu denken geben" (C) · „Eigentlich ganz schön … wenn man vergisst, warum wir hier sind" (E) · „Das waren nur Vögel. Ich sage das für uns beide." (E) |
+| K1 | „seit zwanzig Minuten dasselbe Brötchen" / „Ich kaue gründlich" (C, *roll*) · „Ich habe Angst. Das sage ich einfach mal laut." (C) · „Fragen wir vielleicht lieber nicht, was." (E) · Erzähler: „Natürlich quietschte es." (E) · „… beide zusammen. … Das sollte uns wirklich zu denken geben." (C) · „Eigentlich ganz schön … wenn man vergisst, warum wir hier sind" (E) · „Das … waren nur Vögel." (E) |
 | K2 | „Unser Hund ist am Tor. Der kommt nicht rein." – „Klug." (C) · „Das Schild war nicht sehr deutlich" / „ein besseres Schild" / Totenkopf (C) · „Das ist der Teil im Film, wo alle sterben." / „Ich sage nur, was wir alle denken." (E, **R** → W2-10) · „sehr rührend oder sehr gruselig" – „Beides" (W) |
-| K3 | „Er flieht." – „Er hat Termine." – „Er flieht." (C) · „Ich sage nichts … nur laut, dass wir das zum zweiten Mal machen" (E) · Rucksack: „Hat der Rucksack die Zahl gesenkt?" (E) |
+| K3 | „Er flieht." – „Er hat Termine." – „Er flieht." (C) · „Ich denke nur laut, dass wir das jetzt zum zweiten Mal machen." (E) · Rucksack: „Hat der Rucksack die Zahl gesenkt?" (E) |
 | K4 | „Rekord." (elf Sekunden) (C) · „Wenigstens geht er diesmal mit bis zur Tür" (C) · „Schulreferat?" – „Privat." / „Alt genug für ein Archiv." (C) |
-| K5 | Schatten wedelt „kurz, entschuldigend" (W) · „Ihr wieder." (C) · „Natürlich. Nach dir." (C) · „Gemütlich." (E, **R** zu B1 K2 „Gemütlich. Sehr einladend. Fünf Sterne." → gleiches Wort *Cozy.*) · „Alles hier ist ungewöhnlich." (E) · Kloß: „Ich habe vergessen, einen einzubauen." (C) · Schatten leckt Nora, „als wäre er eingesperrt gewesen und nicht sie" (W) |
+| K5 | Schatten wedelt „kurz, entschuldigend" (W) · „Ihr wieder." (C) · „Natürlich. Nach dir." (C) · „Gemütlich." (E, **R** zu B1 K2 „Gemütlich. Sehr einladend. Fünf Sterne." → gleiches Wort *Cozy.*) · „Alles hier ist ungewöhnlich." (E) · Kloß: „Ich habe vergessen, einen einzubauen." (C) · Schatten leckt Nora, „als wäre er seit Stunden eingesperrt gewesen und nicht sie" (W) |
 | K6 | „Ich mach das nicht auf dem Friedhof. Nicht mit einem Spaten." (C) · „Siebenunddreißig Jahre" (C — ⚠️ Kanon: Theo zählt inklusiv, *nicht* korrigieren) · „Sag mir wenigstens, wir nehmen Taschenlampen mit." – „Mehrere. Und Ersatzbatterien." (C) |
 | K7 | „Wozu das Messer?" – „Erschien sinnvoll." (C) · Schatten seufzt theatralisch, „von Theo gelernt" (C) · „Es ist sehr still … Danke fürs Zuhören." (E) · „Das klingt beruhigend." / „Ich warte. Ich frage nur." (E) · „Rennen?" – „Rennen." (E) · „Wann wäre der Moment?" / „Ich frage nur für die Zukunft—" (E) |
 | K8 | „Du machst ein Gesicht." – „Welches Gesicht?" (C) · „Nylon reißt manchmal." – „Nein, tut es nicht." (C) · „Das klingt schrecklich." – „Geht so." (W) · Rucksack + Müsliriegel – „Großartig." (W, *granola bar*) · „Skala … sechs" / „Beim letzten Mal war kein Voss" (E, **R** W2-04) · „Einer traurig. Einer böse. Signifikant komplizierter als Lina." (C — hier *böse* = *evil*, vgl. B3 R33) |
@@ -151,9 +151,9 @@ eine Frage an das Original (Grusel-Humor-Balance), nicht an die Übersetzung.
 | K9 | „Ihr seht aus, als hättet ihr sie gesehen." – „Wir haben sie gehört." – „Das ist fast dasselbe." (Pawlik, C) · „Ich will ja nichts sagen … falls jemand mitschreibt: Ich hatte recht." (R42, **R** W3-06) · „Danke. Das musste raus." (W) |
 | K10 | „Comics über Furzgeräusche … Mit Kapiteln." (W — *fart noises*, für US-Middle-Grade unproblematisch) |
 | K11 | „Schatten kennt hier unten einfach alle … ein ganzes Geheimleben" (E) |
-| K12 | „Ein Geist hat mich gerade vor einem Einsturz gerettet. Den ein anderer Teil von genau demselben Geist verursacht hat." (E) · „Mein Kopf tut weh. Und nicht vom Schutt." (E) |
+| K12 | „Ein Geist … hat mich gerade vor einem Einsturz gerettet. … Den ein anderer Teil …" (E) · „Mein Kopf tut weh. Und nicht vom Schutt." (E) |
 | K13 | „Steht in keinem Buch, aber so ist es." (Register R35) |
-| K14 | „falls du noch verborgene Superkräfte hast — jetzt wäre ein guter Moment" / „wahrscheinlich nur Zustimmung. Aber ich nehm's." (E) |
+| K14 | „… verborgene Superkräfte hast — jetzt wäre ein wirklich guter Moment dafür." / „wahrscheinlich nur Zustimmung. Aber ich nehm's." (E) |
 | K16 | „Neun bleiben. Klingt nach viel." (C) · „Ich sag's nur gern nochmal laut. Damit es offiziell ist." (C) · „Steht in keinem Buch …" (R35) · „Weißt du, was komisch ist?" – „Sehr vieles in meinem Leben gerade." (R41, C) |
 
 **Bilanz Band 3:** 11 Einträge in Teil A, keine echte Neuerfindung. Aber: **ein falscher Freund**

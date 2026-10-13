@@ -165,7 +165,7 @@
    **A3-Vorschläge sind Vorschläge**, nicht bindend; bindend sind Glossar (A1), Register (A5) und Motive (A4).
    Abweichung von A3 in den Notizen begründen.
 4a. **Setups über Kapitel:** Steht in A7 bei diesem Kapitel ein Rückgriff auf ein früheres Kapitel (z. B.
-   K8 *„alte Blumentapeten"* ↔ K1 *„Muster aus winzigen Blumen"*), den englischen Wortlaut des früheren
+   K8 *„alten Blumentapeten"* ↔ K1 *„Muster aus winzigen Blumen"*), den englischen Wortlaut des früheren
    Kapitels nachschlagen und aufgreifen. Der Pilot hat das nicht geprüft (Prüfer sahen je nur ein Kapitel).
 5. Kapitel laut „lesen": Klingt Theo wie zehn? Klingt Nora wie zwölf? Ist das Ende so scharf wie im Deutschen?
 

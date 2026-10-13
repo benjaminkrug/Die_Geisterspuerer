@@ -10,6 +10,8 @@ Liest die Komplett-Manuskripte von Band 1-5 und erzeugt zwei Rohlisten:
   stimmen   Wörtliche Rede je Figur und Band (Anzahl, Länge, Fragen, Ausrufe,
             Beispielsätze) -> Grundlage fuer A2.
   motive    Wiederkehrende Bilder je Band mit ihren genauen Wortlauten -> Grundlage fuer A4.
+  zitate    Prueft, ob jedes deutsche Zitat „…" in einer Bibel-Datei woertlich im Manuskript steht
+            (gegen erfundene oder umformulierte Zitate). Aufruf: zitate DATEI [--band1 PFAD]
 
 Aufruf:
   python3 Scripts/en_bibel_extrakt.py register [--band1 PFAD]
@@ -229,6 +231,29 @@ def motive(pfade):
             print(f"- ({len(stellen)}×) {satz[:160]} — {', '.join(stellen[:4])}")
 
 
+def zitat_teile(zitat):
+    """Ein Zitat kann mit … oder / gekürzt sein; jedes Teilstück muss einzeln im Text stehen."""
+    # Auch an Satz- und Kommagrenzen teilen: Zitate lassen oft den Begleitsatz weg
+    # („Quatsch. Das ist ein Altbau." steht im Text als „Quatsch", sagte Nora. „Das ist ein Altbau.").
+    for teil in re.split(r"\s*(?:…|\.\.\.|/|→|[.!?,;:—–])\s*", zitat):
+        teil = re.sub(r"[^\w\s]", " ", teil.replace("*", ""))
+        teil = re.sub(r"\s+", " ", teil).strip().lower()
+        if len(teil.split()) >= 2:
+            yield teil
+
+
+def zitate(datei, pfade):
+    text = " ".join(re.sub(r"\s+", " ", re.sub(r"[^\w\s]", " ", p.read_text(encoding="utf-8").replace("*", ""))).lower()
+                    for p in pfade.values())
+    inhalt = Path(datei).read_text(encoding="utf-8")
+    gefunden = re.findall(r"„([^“\"]{3,}?)[“\"]", inhalt)
+    fehlt = [(z, t) for z in gefunden for t in zitat_teile(z) if t not in text]
+    print(f"Zitate geprüft: {len(gefunden)} · nicht wörtlich gefunden: {len(fehlt)}\n")
+    for z, t in fehlt:
+        print(f"- „{z}“ — Teil nicht gefunden: {t!r}")
+    return 1 if fehlt else 0
+
+
 def selbsttest():
     """Eingeschleuste Faelle muessen gefunden werden, sonst ist das Skript wertlos."""
     text = (
@@ -265,13 +290,27 @@ def selbsttest():
     if gefunden_wer != erwartet[:1] + ["?"] + erwartet[2:]:
         print("FEHLT: Sprecherzuordnung", gefunden_wer)
         ok = False
+    # Zitat-Prüfung: ein wörtliches Zitat besteht, ein umformuliertes fällt durch
+    with tempfile.TemporaryDirectory() as d:
+        ms, bib = Path(d) / "m.md", Path(d) / "b.md"
+        ms.write_text("„Es gibt eine Erklärung“, sagte Nora. Die Tür fiel ins Schloss.", encoding="utf-8")
+        bib.write_text("*„Es gibt eine Erklärung“* … *„Die Tür fiel ins Schloss“*", encoding="utf-8")
+        import contextlib, io
+        with contextlib.redirect_stdout(io.StringIO()):
+            gut = zitate(bib, {1: ms})
+            bib.write_text("*„Es gibt sicher eine Erklärung“*", encoding="utf-8")
+            schlecht = zitate(bib, {1: ms})
+        if gut != 0 or schlecht != 1:
+            print("FEHLT: Zitat-Prüfung", gut, schlecht)
+            ok = False
     print("SELBSTTEST BESTANDEN" if ok else "SELBSTTEST FEHLGESCHLAGEN")
     return 0 if ok else 1
 
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("modus", choices=["register", "fallen", "stimmen", "motive", "selbsttest"])
+    ap.add_argument("modus", choices=["register", "fallen", "stimmen", "motive", "zitate", "selbsttest"])
+    ap.add_argument("datei", nargs="?")
     ap.add_argument("--band1")
     a = ap.parse_args()
     if a.modus == "selbsttest":
@@ -280,6 +319,8 @@ def main():
     for p in pfade.values():
         if not p.exists():
             sys.exit(f"fehlt: {p}")
+    if a.modus == "zitate":
+        sys.exit(zitate(a.datei, pfade))
     {"register": register, "fallen": fallen, "stimmen": stimmen, "motive": motive}[a.modus](pfade)
 
 
