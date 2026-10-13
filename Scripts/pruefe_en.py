@@ -29,7 +29,7 @@ VERBOTE = {
     "Anrede ohne Punkt (A8)": r"(?-i:\bMrs?\b)(?!\.)",
     "Glossar (A1)": r"\b(?:Frau|Herr|Handy|Emily|Ghost Trackers|Celsius)\b|Kloß|°C",
     "Motiv-Wortlaut (A4)": r"\b(?:golden eyes|honey(?:-colou?red)? eyes|yellow eyes|whimper\w*|fur (?:bristled|stood on end)|"
-                           r"(?:lilac|violet|mauve) ink|ink was (?:still )?damp|damp ink)\b|\bknock,\s*knock\b",
+                           r"(?:lilac|violet|mauve) ink|ink was (?:still )?damp|damp ink)\b|\bknock[,.]\s*knock\b",
     "Dialogverb (A8)": r"\b(?:exclaimed|stated|remarked|uttered|inquired|queried|replied)\b",
     "Satzbau (A8)": r"\bsaid (?:Theo|Nora|Mom)\b",
     "Wortwahl nach Pilot (A8 Abschn. 6)": r"\b(?:cellar|muzzle|ceiling lamp|nameplate|kids' rooms?|food box|supermarket|"
@@ -256,7 +256,7 @@ Mrs. Silber lived on the third floor. The weather app said 55 degrees.
 
 Right from Mrs. Silber’s apartment.
 
-Knock. Knock. Knock.
+Thump. Thump. Thump.
 
 Nora read: “The Veil is getting thinner.” Shadow looked at her with his amber eyes. He growled. *Purple ink.*
 """

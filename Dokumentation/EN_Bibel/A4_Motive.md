@@ -16,7 +16,7 @@
 | Motiv | B1 | B2 | B3 | B4 | B5 | Fester Wortlaut EN |
 |---|---|---|---|---|---|---|
 | **Kälte** (Grundsignal der Reihe) | 53 | 23 | 24 | 21 | 19 | *the cold* · *ice-cold* |
-| **Klopfen** (dreimal, Pause) | 52 | 5 | 5 | 0 | 1 | *Knock. Knock. Knock.* ⚠️ Abschn. 3 |
+| **Klopfen** (dreimal, Pause) | 52 | 5 | 5 | 0 | 1 | *Thump. Thump. Thump.* · Substantiv *the knocking* (entschieden 2026-10-13, Abschn. 3) |
 | **Kondenswasser / beschlagen** | 18 | 0 | 0 | 0 | 1 | *fogged up* · *condensation* |
 | **Tinte** (lila bei Lina, „noch feucht") | 26 | 11 | 9 | 7 | 1 | *purple ink* · *the ink was still wet* |
 | **Schattens Signale** (knurrt · winselt · Fell sträubt sich) | 74 | 7 | 18 | 34 | 20 | *growl* · *whine* · *hackles* — Abschn. 2 |
@@ -76,7 +76,7 @@ diese Witzform kaum, deshalb fiel die Falle in A6 nicht auf.
 | B: *Thump. Thump. Thump.* | Kein Witzanklang, klingt dumpf aus der Wand. | Klingt nach Herzschlag oder Schritten, nicht nach Klopfen *an* etwas. Verliert, dass jemand **klopft**, also etwas will. |
 | C: *Tap. Tap. Tap.* | Leise, unheimlich. | Zu zart für *„Das Klopfen schwoll an"*. |
 
-**Vorschlag A**, mit einer Regel: Im englischen Text darf **nie** *Knock, knock.* (zwei Schläge, mit
+**Entschieden 2026-10-13 (Autor): B — *Thump. Thump. Thump.*** Der Kinderleser (Block 1, K2/K3) dachte bei *Knock. Knock. Knock.* an „Who's there?", am stärksten mit dem Kapiteltitel *Three Knocks* (jetzt *Three Times*). Das Substantiv bleibt *the knocking* (es klopft weiterhin *an* etwas). Ursprünglicher Vorschlag war A: Im englischen Text darf **nie** *Knock, knock.* (zwei Schläge, mit
 Komma) stehen. Die Kinderleser-Prüfung (D6) fragt im Pilot gezielt: *Hast du bei K2 an einen Witz gedacht?*
 Wenn ja → B.
 

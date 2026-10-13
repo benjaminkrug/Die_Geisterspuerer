@@ -58,7 +58,7 @@ Ein Zitat, das in Band 4 anders lautet als in Band 1, merken aufmerksame Leser s
 
 | # | Deutsch | Stellen | Englisch (vorläufig) | Hinweis |
 |---|---|---|---|---|
-| R24 | Klopf. Klopf. Klopf. / Pause. | B1 K2, K3, K11 | *Knock. Knock. Knock. / Pause.* | Rhythmus exakt halten, auch die Absatzumbrüche |
+| R24 | Klopf. Klopf. Klopf. / Pause. | B1 K2, K3, K11 | *Thump. Thump. Thump. / Pause.* | Rhythmus exakt halten, auch die Absatzumbrüche. **Geändert 2026-10-13 (Autor):** *Knock. Knock. Knock.* weckte beim Kinderleser „Who's there?" (A4 Abschn. 3, Ausweichlösung B). Das Substantiv bleibt *the knocking*. |
 | R25 | Dreimal. Pause. Dreimal. | B1 K2, K3 | *Three times. Pause. Three times.* | |
 | R26 | Es gibt eine Erklärung. | B1 K3 (2×) | *There's an explanation.* | ⚠️ Theo: *„Du sagst das jetzt zum dritten Mal"* — im Deutschen fällt der Satz nur **2×** wörtlich, das dritte Mal meint Noras Ausreden allgemein. Englisch genauso lose lassen, aber beide Stellen identisch. |
 | R27 | *Niemand glaubt mir.* | B1 K9, K11, K12, K15 | *Nobody believes me.* | Linas Kernsatz, 4 Stellen |

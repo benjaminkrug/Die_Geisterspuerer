@@ -1,6 +1,6 @@
-# Chapter 3: Three Knocks
+# Chapter 3: Three Times
 
-Knock. Knock. Knock.
+Thump. Thump. Thump.
 
 Nora lay frozen under the covers. Her heart hammered against her ribs. The knocking came from the wall behind her headboard. Three times. Pause. Three times. Pause.
 
@@ -24,13 +24,13 @@ The blanket twitched.
 
 Nora sat down on the edge of his bed. “Do you hear that?”
 
-Knock. Knock. Knock.
+Thump. Thump. Thump.
 
 Theo pulled the blanket down. His eyes were wide. “Of course I hear it. They can probably hear it in Hamburg.”
 
 “It’s coming from the wall,” Nora said. “From upstairs. From Mrs. Silber’s apartment.”
 
-Knock. Knock. Knock. The wall vibrated under her hand. Pressure pushed on Nora’s ears, as if she had ridden an elevator up too fast.
+Thump. Thump. Thump. The wall vibrated under her hand. Pressure pushed on Nora’s ears, as if she had ridden an elevator up too fast.
 
 “Perfect,” Theo said. “The empty, creepy apartment with the ice room. Where else.”
 
@@ -86,11 +86,11 @@ Nora climbed the stairs. Every single one creaked under her weight. The walls of
 
 The knocking grew louder. It came from above, from behind the door to Mrs. Silber’s apartment.
 
-Knock. Knock. Knock.
+Thump. Thump. Thump.
 
 Pause.
 
-Knock. Knock. Knock.
+Thump. Thump. Thump.
 
 Nora reached the landing in front of the apartment. She pointed the flashlight at the door.
 

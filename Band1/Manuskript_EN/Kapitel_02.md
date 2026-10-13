@@ -190,17 +190,17 @@ She opened her eyes.
 
 Then she heard it.
 
-Knock. Knock. Knock.
+Thump. Thump. Thump.
 
 Pause.
 
-Knock. Knock. Knock.
+Thump. Thump. Thump.
 
 Nora held her breath. Her heart was beating so loud she could hear it in her ears. The knocking came from the wall. Right behind her headboard. Directly above her.
 
 Straight from Mrs. Silber’s apartment.
 
-Knock. Knock. Knock.
+Thump. Thump. Thump.
 
 Three times. Pause. Three times. Always the same. Always the same rhythm.
 
