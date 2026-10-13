@@ -38,7 +38,7 @@ bei der Übersetzung abgehakt werden können. Englische Vorschläge sind **vorl�
 | W1-06 | K3 | „Und? Bitte sag mir, du hast ihm gekündigt." | E | U | *“Well? Please tell me you evicted it.”* | *kündigen* (Mietvertrag) → *evict* trifft den Witz genauer |
 | W1-07 | K3 | „Weil Geister sich bekanntlich an Öffnungszeiten halten." | E | U | *“Because ghosts famously keep business hours.”* | *Öffnungszeiten* → *business hours* |
 | W1-08 | K4 | „Kondenswasser schreibt keine deutschen Wörter!" | E | **N** | *“Condensation doesn't* spell*!”* | hängt an der Sprache (F1) |
-| W1-09 | K5 | „… sind wir gerannt. Ich möchte das protokollieren. Wir sind gerannt." | C/R | U | *“Last time, we ran. I'd like that on the record.”* | *protokollieren* → *on the record* |
+| W1-09 | K5 | „… sind wir gerannt. Ich möchte das protokollieren. Wir sind gerannt." | C/R | U | *“Last time, we ran. I want it on the record.”* (Wortlaut seit K4 fest, Wortliste) | *protokollieren* → *on the record* |
 | W1-10 | K6 | „Geisterjäger und Lügner. Toller Lebenslauf." | C | U | *“Ghost hunters and liars. Great résumé.”* | *résumé* (F16); **R-Bezug** zu W1-17 |
 | W1-11 | K6 | „In welchem Fach? Gruselkunde?" | C | U | *“What class is that? Spookology?”* | Wortneubildung neu bauen |
 | W1-12 | K6 | „Mikrofiche." – „Gesundheit." | E | Ü! | *“Microfiche.” – “Bless you.”* | **Bewusst wörtlich** — Beispiel gegen Überübersetzen (F7) |

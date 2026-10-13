@@ -29,7 +29,7 @@ VERBOTE = {
     "Britisch (A6, A8)": r"\b(?:mum|mummy|torch(?:es)?|pavement|rubbish|colour\w*|grey\w*|metres?|centre\w*|realis\w+|"
                          r"favourite\w*|neighbour\w*|learnt|spelt|whilst|(?:the|a|our|her|his|their|my) flat)\b",
     "Anrede ohne Punkt (A8)": r"(?-i:\bMrs?\b)(?!\.)",
-    "Glossar (A1)": r"\b(?:Frau|Herr|Handy|Emily|Ghost Trackers|Celsius)\b|Kloß|°C",
+    "Glossar (A1)": r"(?-i:\bHandy\b)|\b(?:Frau|Herr|Emily|Ghost Trackers|Celsius)\b|Kloß|°C",
     "Motiv-Wortlaut (A4)": r"\b(?:golden eyes|honey(?:-colou?red)? eyes|yellow eyes|whimper\w*|fur (?:bristled|stood on end)|"
                            r"(?:lilac|violet|mauve) ink|ink was (?:still )?damp|damp ink)\b|\bknock[,.]\s*knock\b",
     "Dialogverb (A8)": r"\b(?:exclaimed|stated|remarked|uttered|inquired|queried|replied)\b",
@@ -38,6 +38,9 @@ VERBOTE = {
                                          r"blamed it on the heat|raised (?:his|her) head)\b",
     "Deutsch-Rest": r"[„‚äöüÄÖÜß]|\b(?:und|nicht|ist|ich|wir|aber|auch|noch|schon|sagte)\b",
 }
+
+# Deutsche Eigennamen, die laut Glossar (A1 Abschn. 3) deutsch bleiben — kein „Deutsch-Rest"
+EIGENNAMEN_DE = r"\b(?:Mühlenweg|Südtor)\b"
 
 ORDINAL_DE = {"erd": 0, "erste": 1, "zweite": 2, "dritte": 3, "vierte": 4}
 ORDINAL_EN = {"first": 1, "second": 2, "third": 3, "fourth": 4, "fifth": 5}
@@ -142,7 +145,8 @@ def pruefen(de_text, en_text, register=None):
 
     # 3. Verbotslisten
     for name, muster in VERBOTE.items():
-        treffer = sorted({m.group(0) for m in re.finditer(muster, en_text, re.I)})
+        text = re.sub(EIGENNAMEN_DE, "", en_text) if name == "Deutsch-Rest" else en_text
+        treffer = sorted({m.group(0) for m in re.finditer(muster, text, re.I)})
         if treffer:
             befunde.append((name, ", ".join(treffer)))
 
@@ -178,7 +182,8 @@ def pruefen(de_text, en_text, register=None):
         typo.append(f"gerader Apostroph ' ({len(re.findall(chr(39), en_text))}×) statt ’")
     if '"' in en_text:
         typo.append('gerade Anführung "')
-    if re.search(r" [—–] |(?<!-)--(?!-)", en_text):  # --- (Szenentrenner) ist erlaubt
+    # --- (Szenentrenner) ist erlaubt; „Name – Jahr" ist das Kartenformat (A1: Heinrich B. – 1887, Lina Vogt? – 1974?)
+    if re.search(r" [—–] (?!\d{4})|(?<!-)--(?!-)", en_text):
         typo.append("Gedankenstrich mit Leerzeichen oder --")
     if "..." in en_text:
         typo.append("... statt …")
@@ -346,6 +351,9 @@ def selbsttest():
                     ("03", "Stille.\n", "Quiet.\n")])
     if [d for d, _ in k] != ["die tür ging auf"]:
         print("FEHLT/FEHLALARM: Konsistenz", [d for d, _ in k])
+        ok = False
+    if pruefen("*Lina Vogt? – 1974?* Mühlenweg 3.\n", "*Lina Vogt? – 1974?* Mühlenweg 3.\n", []):
+        print("FEHLALARM: Kartenformat oder Straßenname aus A1 gemeldet")
         ok = False
     if len(register_paare()) < 30:
         print("FEHLT: Register aus A5 eingelesen (weniger als 30 Paare)")

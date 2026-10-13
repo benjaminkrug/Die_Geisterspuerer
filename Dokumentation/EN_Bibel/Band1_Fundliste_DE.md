@@ -107,3 +107,13 @@ sie nachmittags losfuhr. Nicht ändern.
 | E10 | K2–K4 | **Noras Stimme:** zwei US-Lektoren geben ihr 3/5 — ihre gesprochenen Sätze seien allgemein (*„Sei leise"*, *„Es gibt eine Erklärung"*), Theo bekommt alle Pointen | **Hinweis für Staffel 2 / spätere Überarbeitung**, kein Fehler. Die Übersetzung erfindet ihr keine Sätze. |
 
 Bereits entschieden, nicht wieder aufgenommen: Körbchen/Leine „am Abend" (B4-Folge, *so lassen*), Mamas „erster Tag" (geprüft, kein Fehler).
+
+## F · Neue Funde aus der Übersetzung, Block 2 (K5–K8) — 2026-10-13
+
+| # | Kap. | Befund | Meine Einschätzung |
+|---|---|---|---|
+| F1 | K6 | **Folgefehler meiner Korrektur A6:** Nora sagt jetzt *„… die so lange allein in so einem Haus gewohnt hat –"*, Theo antwortet weiter *„Vierzig Jahre lang was?"* — er antwortet auf etwas, das niemand gesagt hat, und nennt die Zahl aus K11 doch zu früh. | **Echter Fehler, von mir verursacht.** Vorschlag: *„Was meinst du?", sagte Theo.* — der nächste Absatz (*Nora schüttelte den Kopf. Sie wusste es noch nicht.*) passt genau dazu. **Deine Entscheidung** (betrifft das hochgeladene deutsche Buch) |
+| F2 | K5 | Bücher liegen *„Stapel … direkt auf dem Boden"*, später *„Neben dem Bücherregal hing etwas"* | klein: *„Neben den Bücherstapeln"* |
+| F3 | K5 | Foto *„M. Silber, 2019."* ist *„Schwarzweiß. Die Ränder vergilbt"* | klein; als Silbers Eigenart lesbar (Schwarzweiß-Abzug). Bleibt, wenn du nichts änderst |
+
+Geprüft, **kein** Fehler (vom Übersetzer gemeldet): K7 *„jeden Morgen"* (Noras Vorstellung, nicht Zählung) · K7 das Glas (*„Sie wollte ein Glas Wasser"* steht davor) · K8 Werkzeug (*„Hast du nicht gesagt …"* — Gespräch außerhalb der Szene ist möglich) · K8 *„seit dem Umzug"*.
