@@ -176,7 +176,7 @@
 | Was | Wo |
 |---|---|
 | Englischer Kapiteltext | `Band1/Manuskript_EN/Kapitel_01.md` … — **nur** Text, gleiche Überschriften- und Absatzstruktur wie das Deutsche |
-| Notizen „frei, weil …", Varianten, gemeldete Fehler im Original | `Band1/Manuskript_EN/Notizen_Kapitel_01.md` … — **nie** in den Kapiteltext (Lehre aus A0, P1: Kommentare im Text landen im Buch) |
+| Notizen „frei, weil …", Varianten, gemeldete Fehler im Original | `Band1/Manuskript_EN/Notizen/Notizen_Kapitel_01.md` … — **nie** in den Kapiteltext (Lehre aus A0, P1: Kommentare im Text landen im Buch) |
 
 Format einer Notiz:
 ```

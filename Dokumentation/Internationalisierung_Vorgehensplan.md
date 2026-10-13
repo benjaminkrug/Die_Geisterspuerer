@@ -536,5 +536,12 @@ Gegenprobe später Änderungen.
 **Fundliste umgesetzt (2026-10-13):** 33 Korrekturen auf dem Band-1-Branch (Commit 6f251d2), 6 bewusst gelassen.
 A7 nachgezogen.
 
-**Als Nächstes:** Phase B — Band 1 DE einfrieren (Testleser DE, KDP-Frage, Upload), danach Prüfpunkt 1. Dann Phase B (Band 1 DE
+**Entscheidung des Autors 2026-10-13: Übersetzung startet VOR Prüfpunkt 1.** Grundlage ist der korrigierte
+deutsche Band 1 (6f251d2, eingefroren in `Band1/Manuskript_EN/DE_Basis/`). Begründung: kostet nur Zeit, englische
+Ausgabe Monate früher, US-Leser früher erreichbar. Preis: Falls Band 1 nach Prüfpunkt 1 nochmals umgebaut wird,
+werden die betroffenen Absätze über `Band1/Manuskript_EN/Aenderungsliste_DE.md` nachgezogen.
+Vorgehen: Blöcke à 4 Kapitel in Buchreihenfolge, ein Übersetzer je Block, getrennte Prüfer je Kapitel, nach
+Block 1 Auswertung + US-Leser, am Ende Gesamtdurchgang. Stand: `Band1/Manuskript_EN/README.md`.
+
+**Parallel (Autor):** Upload Band 1 DE (QR-Code, Seitenzahl/Cover), danach Prüfpunkt 1 wie geplant. Dann Phase B (Band 1 DE
 einfrieren) → Prüfpunkt 1 → Phase D. Bis dahin: A7 für die übrigen Kapitel von Band 1, A9.
