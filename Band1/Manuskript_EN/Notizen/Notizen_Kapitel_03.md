@@ -139,3 +139,83 @@ Ausrufezeichen 0 = 0, Dialoganteil 23,1 % → 22,6 %.
 2. **Wortgleichheit über Kapitel vs. natürliche Variation.** *Nora lay frozen under the covers* (K2 und K3) und *Pipes swell and shrink* (Echo K1) habe ich bewusst gleich gehalten, weil das Deutsche gleich ist. Bei *Super* / *Großartig* habe ich dagegen zwei Wörter gewählt (*Perfect* / *Great*), weil das Deutsche zwei hat. Die Regel „gleich, wo das Original gleich ist" ist klar; schwer ist zu erkennen, **wo** das Original gleich ist — ohne Suche im ganzen Band übersehe ich Echos.
 3. **„Fragmente dosieren"** — in den Schreckszenen (Treppenhaus, Tür) alle Fragmente behalten (A8 erlaubt das). In der Frühstücksszene ebenfalls, weil keine Kette von drei Fragmenten ohne Spannung vorkam.
 4. **Varianten für W1-04 und W1-06** waren eher Pflicht als Wahl — der A3-Vorschlag war jeweils schon die beste Lösung.
+
+---
+
+## Runde 2 (Block 1)
+
+Grundlage: `Pruefung/D3_K03.md`, `D4_K03.md`, `D5_K03.md`, `D6_K01-K04.md` (Teil K3), Pilot 5.1, Vorgaben 2, 3, 5.
+Titel bereits *Three Times*, Klopfen *Thump. Thump. Thump.* (A4 Abschn. 3).
+
+| Befund | Entscheidung | Grund (eine Zeile) |
+|---|---|---|
+| D3 #1 Z.9 *between the knocks* | abgelehnt | Original ebenso (*zwischen den Schlägen*). |
+| D3 #2 Z.13 Logiksprung | angenommen | über D5 #3 (*It was as if he had heard this before.*). |
+| D3 #3 Z.29 Hamburg | angenommen | Vorgabe 5: *They can probably hear it on the moon.* |
+| D3 #4 Z.31/33 Wand/oben | abgelehnt | Ortslogik des Originals → Autorenliste (wie K2). |
+| D3 #5 Z.45 Sprecher | abgelehnt | inhaltlich klar; keine Begleitsätze dazu (A8 Abschn. 4). |
+| D3 #6 Z.73/75 *the boy*, Tür | angenommen | über D5 #10/#11. |
+| D3 #7 Z.83 *shadows* | angenommen | Vorgabe 3: *Outside the circle, the darkness was deep and black.* |
+| D3 #8 Z.129 *up here* | angenommen | → *Nobody lives up there.* |
+| D3 #9 Z.133 *slams* | abgelehnt | Original *zuschlägt* (Theos Übertreibung) → Autorenliste. |
+| D3 #10 Z.139 *third time* | abgelehnt | R26: im Deutschen ebenso lose (A5). |
+| D3 #11 Z.143 *suspicious* | abgelehnt | Witz funktioniert. |
+| D3 #12 Z.171/181 drei Stunden vs. ganze Nacht | abgelehnt | Theos Übertreibung, Original identisch. |
+| D3 #13 Z.177 Spielzeugknochen | abgelehnt | Original → Autorenliste. |
+| D3 #14 Z.197 Augenhöhe | abgelehnt | Original; K4 *a child’s finger* klärt. |
+| D3 #15 Z.169/201 Schüssel | abgelehnt | Original; nichts dazuerfinden. |
+| D4 #1 Z.175/185 *hot chocolate* | angenommen | Vorgabe 2: *chocolate milk* (Juli; *Kakao* oft kalt). |
+| D5 #1 L5 Rückblick | abgelehnt | Kapitelanfang des Originals; Inhalt bleibt. |
+| D5 #2 L9 *to a beat* | angenommen | → *Pipes didn’t keep a beat.* (Echo zu Theos *To a beat?* bleibt). |
+| D5 #3 L13 | angenommen | → *It was as if he had heard this before.* |
+| D5 #4 L15 *tips of his hair* | angenommen | → *a tuft of hair*. |
+| D5 #5 L29 Hamburg behalten | abgelehnt | Vorgabe 5 (Kinderleser verstand es nicht). |
+| D5 #6 L33 Hand an der Wand | abgelehnt | würde Handlung dazuerfinden; Original *unter ihrer Hand*. |
+| D5 #7 L35 *Where else.* | angenommen | → *Of course.* |
+| D5 #8 L63 *cold stab* | angenommen | → *Something cold stabbed through her chest.* (Stich bleibt konkret, 5.1 Nr. 3). |
+| D5 #9 L69 Doppelpunkt | angenommen | → *As if he wanted to tell her no, nothing was okay at all.* (ohne Kursiv, Prüfskript). |
+| D5 #10 L73 *the boy* | angenommen | → *Between Theo and the stairwell.* |
+| D5 #11 L73 welche Tür | angenommen | → *toward the front door* (= Wohnungstür, nächster Absatz). |
+| D5 #12 L79 *wall of ice* | abgelehnt | Bild des Originals (*Wand aus Eis*). |
+| D5 #13 L109–111 *pressed* doppelt | angenommen | → *She put her ear to the cold wood.* |
+| D5 #14 L113 Kursiv für Gedanken | abgelehnt | Original nicht kursiv; Prüfskript zählt Kursiv (A8 Abschn. 5). |
+| D5 #15 L113 *straight* | angenommen | → *Every step steady.* |
+| D5 #16 L115 Knie | angenommen | → *Her knees had other ideas. They almost gave out.* (beide Sätze bleiben). |
+| D5 #17 L129 *up here* | angenommen | wie D3 #8. |
+| D5 #18 L133 *slams* | abgelehnt | Original → Autorenliste. |
+| D5 #19 L139 *third time* | abgelehnt | R26. |
+| D5 #20 L169 *kitchen* doppelt | angenommen | → *Sunlight came through the window.* |
+| D5 #21 L175 *without much interest* | angenommen | → *stirred his chocolate milk halfheartedly* (nicht *didn't drink any*: er trinkt in L185). |
+| D5 #22 L181 Widerspruch | abgelehnt | Theos Übertreibung, Original. |
+| D5 #23 L195 *Strokes* | angenommen | → *Lines. Marks.* |
+| D5 #24 L201 Schüssel | abgelehnt | würde Handlung dazuerfinden. |
+| D6 skim 5–9 | abgelehnt | Kapitelanfang des Originals. |
+| D6 skim 159–165 | abgelehnt | Inhalt. |
+| D6 Hamburg | angenommen | Vorgabe 5. |
+| D6 *evicted* | angenommen | → *Please tell me you told it to move out.* (Mieter-Witz bleibt, *gekündigt*). |
+| D6 *bolt upright, processing, business hours, seeped* | abgelehnt | Kind erschließt alle; kein Ersatz nötig. |
+| D6 Titel *Three Knocks* | angenommen | bereits *Three Times* (Autor). |
+| D6 L83 *shadows* | angenommen | Vorgabe 3. |
+| D6 L133 *slams* | abgelehnt | Original → Autorenliste. |
+| D6 Vorlesen L33 p-p | angenommen | → *Nora’s ears filled with pressure, …* |
+| D6 Vorlesen L37 s-sh | abgelehnt | Echo K1 (*Pipes swell and shrink*) wortgleich halten. |
+| D6 L129 *up here* | angenommen | wie D3 #8. |
+| D6 Knie-Wiederholung | angenommen | teilweise: *They almost gave out.* (Knie einmal weniger). |
+| D6 Rückblick-Anfänge | abgelehnt | Struktur des Originals. |
+
+**Zählung:** D3 5 angenommen / 10 abgelehnt · D4 1 / 0 · D5 15 / 9 · D6 7 / 6.
+
+**Gegenprobe (nur Bedeutung):** 21 Änderungen geprüft. **Abweichung gefunden und behoben:** *As if he wanted to say no. Nothing
+was okay.* machte aus Schattens gedachtem Satz eine Feststellung der Erzählerin → jetzt *As if he wanted to tell her no, nothing was
+okay at all.* (bleibt im *Als wollte er sagen*, *gar nichts* = *at all*). Grenzfälle: *toward the front door* (DE *Richtung Tür*,
+Deutung = Wohnungstür); *Nobody lives up there* (DE *Niemand sonst wohnt hier oben* — „sonst“ fällt weg, Kern „keiner konnte sie
+schließen“ bleibt); *on the moon* (frei nach Vorgabe 5, gleiche Übertreibung ohne Ort — A8 7.2 sagt sonst „Hamburg bleibt“;
+Ausnahme, weil der Witz für US-Kinder nicht zündete).
+
+**Prüfskript:** 0 Befunde · Absätze 100 = 100 · Ein-Satz-Absätze 24 = 24 · Ausrufe 0 = 0 · Dialog 23,1 % → 22,7 %.
+
+**An den Autor (Original, nicht korrigiert):** (1) Absatz 17: *Die Wand vibrierte* in Theos Zimmer, *Von oben* — gleiche
+Ortsfrage wie K2 (Wand hinter Noras Kopfende vs. Wohnung darüber). (2) Absatz 67 *Der eine schwere Holztür zuschlägt* — niemand
+hat einen Knall gehört (Theos Übertreibung, aber drei Prüfer stolperten). (3) Absatz 88 *Spielzeugknochen* — am Vorabend „kein Geld
+für Leckerlis“, gekauft wird erst „morgen“. (4) K3-Ende/K4-Anfang: Theo sitzt in K3 schon am Tisch und kennt Mamas Zettel, in K4
+kommt er neu barfuß in die Küche (siehe K4).

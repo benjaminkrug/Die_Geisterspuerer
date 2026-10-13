@@ -148,3 +148,88 @@ Ausrufezeichen 13 = 13, Dialoganteil 23,1 % → 22,8 %.
 5. **Wortgleichheit über Kapitel** (A8 4a) ist die Regel mit dem meisten Aufwand: Ich musste für jeden wiederkehrenden deutschen Satz die englische Stelle im früheren Kapitel suchen (*Nora lay frozen under the covers*, *Pipes swell and shrink*, *As if he knew exactly where …*). Ein Skript, das wortgleiche deutsche Sätze über Kapitel findet und die englischen nebeneinanderstellt, würde das sicherer machen.
 6. **„sagte" bei Fragen → *said*** (K2 Absatz 67, K3 mehrfach *“Did you sleep?” Nora said.*) — regelkonform, im Englischen bei Fragen etwas ungewohnt. Kein Fehler, aber ein mögliches TRANSLATED-Signal für D5.
 7. **Varianten für W1-04, W1-06 (K3) und die Titel** waren Pflichtübungen: Der Vorschlag war jeweils klar der beste. Die Regel „Varianten nur bei echter Wahl" hat geholfen; bei Witzen aus A3 Teil A gilt sie aber pauschal.
+
+---
+
+## Runde 2 (Block 1)
+
+Grundlage: `Pruefung/D3_K04.md`, `D4_K04.md`, `D5_K04.md`, `D6_K01-K04.md` (Teil K4), Pilot 5.1, Vorgaben 1 und 3.
+
+| Befund | Entscheidung | Grund (eine Zeile) |
+|---|---|---|
+| D3 #1 Z.7 *from the bottom up* | abgelehnt | verständlich (D3 selbst). |
+| D3 #2 Z.13 Pizza-Reste | abgelehnt | plausibel, Original. |
+| D3 #3 Z.33/37 Pullover im Juli | abgelehnt | Original → Autorenliste. |
+| D3 #4 Z.53 *own shadow* | angenommen | Vorgabe 3: *who jumped at every little noise*. |
+| D3 #5 Z.59 *picked it up* / Zeitlinie | angenommen (Wortlaut) | → *Mom had gotten it the night before*; Zeitlogik bleibt → Autorenliste. |
+| D3 #6 Z.59/185 Heizung im Juli | abgelehnt | Original → Autorenliste (Frage: Absicht?). |
+| D3 #7 Z.63 *it* | abgelehnt | Original ebenso (*es*). |
+| D3 #8 Z.69 Schultag im Juli | angenommen | Vorgabe 1: *First day at the new school.* |
+| D3 #9 Z.105 Klo/Spiegel | abgelehnt | verständlich. |
+| D3 #10 Z.133 *Apartment door open* | angenommen | → *They went up to the second floor and opened the apartment door.* |
+| D3 #11 Z.139 *his fingers* | angenommen | → *Theo’s fingers* (A8 Pronomen-Ausnahme). |
+| D3 #12 Z.151 HERE/HEAR | abgelehnt | Glossar E11 fest. |
+| D3 #13 Z.169 *the word* | abgelehnt | unproblematisch (D3 selbst). |
+| D3 #14 Z.191 Blick durch Tür | abgelehnt | Original ebenso (Blickrichtung). |
+| D4 #1 Z.69 *First day of school* | angenommen | Vorgabe 1 (wortgleich mit D4-Vorschlag). |
+| D5 #1 L1 Titel *Condensation* | abgelehnt | Titel = deutscher Titel; W1-08-Wort, Theos Witz L43 erklärt es; Titelwechsel ist Autorsache. |
+| D5 #2 L3–7 Rückblick / *clear* vs. *blurred* | abgelehnt | Struktur und Beschreibung des Originals → Autorenliste (Widerspruch K3/K4). |
+| D5 #3 L11 *Pressure … ribs* | abgelehnt | konkretes Körperbild bleibt (5.1 Nr. 3); *chest went tight* wäre Floskel. |
+| D5 #4 L13 *PS:* | angenommen | → *P.S.* (US-Satzbild). |
+| D5 #5 L19 Theo kommt zweimal | abgelehnt | Kontinuität des Originals → Autorenliste. |
+| D5 #6 L19 *in bare feet* | angenommen | → *barefoot*. |
+| D5 #7 L33 *ignored it* | angenommen | → *ignored them*. |
+| D5 #8 L37 *sweater* | abgelehnt | Original *Pullover* → Autorenliste. |
+| D5 #9 L45 *one single, short moment* | angenommen | → *just one short moment* (Einschub bleibt). |
+| D5 #10 L47 Knie | abgelehnt | Körperbild des Originals (5.1 Nr. 3). |
+| D5 #11 L53 *own shadow* | angenommen | Vorgabe 3 (nicht *scared of the dark*: neuer Inhalt). |
+| D5 #12 L59 Hundebett-Zeitlinie | abgelehnt | Original (*am Abend noch besorgt*) → Autorenliste. |
+| D5 #13 L59 Zeitform | angenommen | → *His head was up, and he was looking at the window.* |
+| D5 #14 L63 *rational* | angenommen | → *the part of her that didn’t listen to logic*. |
+| D5 #15 L69 Schultag | angenommen | Vorgabe 1; der vorgeschlagene Zusatz *Here, summer break ends in July* abgelehnt (neuer Inhalt). |
+| D5 #16 L93 Lehrer verschieben | abgelehnt | ändert Absatzinhalt (A8 Abschn. 3). |
+| D5 #17 L105 *blink of an eye* | angenommen | → *for a split second*. |
+| D5 #18 L133 Tür offen? | angenommen | wie D3 #10. |
+| D5 #19 L147 *gone blind* | angenommen | → *The window had fogged over again.* |
+| D5 #20 L147 *middle* doppelt | angenommen | → *from the bottom halfway up*. |
+| D5 #21 L153 *Not a letter* streichen | abgelehnt | Inhalt des Originals. |
+| D5 #22 L161 vier Körpersignale | abgelehnt | Körperbilder des Originals. |
+| D5 #23 L169 *pressed lips* | angenommen | → *lips pressed tight* (bleibt konkret). |
+| D5 #24 L185 Heizung | abgelehnt | Original, nichts dazuerfinden → Autorenliste. |
+| D5 #25 L191 Blickrichtung | abgelehnt | Original. |
+| D5 #26 L23–31 Großbuchstaben | abgelehnt | Original (A8: Satzbild des Originals). |
+| D5 #27 L197–199 Ende | abgelehnt | Kapitelende des Originals (A7); kein neuer Reiz dazu. |
+| D6 skim 3–9 | abgelehnt | Struktur des Originals. |
+| D6 Fragmentkette L129–133 | angenommen | ruhige Passage, A8 Abschn. 2: *Number 14, with its gray walls and narrow windows.* / *Then the stairwell, the smell of floor wax, …* |
+| D6 *Condensation* (Titel) | abgelehnt | wie D5 #1. |
+| D6 *rational* | angenommen | wie D5 #14. |
+| D6 *on the record* | abgelehnt | Setup K5. |
+| D6 *gone blind* | angenommen | wie D5 #19. |
+| D6 *hoarse* | angenommen | → *Her voice was rough.* |
+| D6 *scared of his own shadow* | angenommen | Vorgabe 3. |
+| D6 *as if written with a finger* ×3 | abgelehnt | gewollte Wiederholung, K7-Rückgriff (D4). |
+| D6 Knie | abgelehnt | Körperbild des Originals. |
+| D6 Schultag im Juli | angenommen | Vorgabe 1. |
+| D6 Hundebett | abgelehnt | Original → Autorenliste. |
+| D6 Scherben mit der Hand | abgelehnt | Inhalt des Originals. |
+| D6 L105 *A shadow.* | angenommen | Vorgabe 3: *A dark shape.* |
+| D6 *PS:* | angenommen | wie D5 #4. |
+| D6 Sprecher L17 | abgelehnt | Reihenfolge des Originals; keine Begleitsätze dazu. |
+
+**Zählung:** D3 5 angenommen / 9 abgelehnt · D4 1 / 0 · D5 13 / 14 · D6 8 / 8.
+
+**Gegenprobe (nur Bedeutung):** 16 Änderungen geprüft. **Abweichung gefunden und behoben:** *unlocked the apartment* (aus D3/D5)
+legte „aufschließen“ fest und ließ *door* weg; DE *Wohnungstür auf* → jetzt *opened the apartment door*. Grenzfälle: *fogged over
+again* (DE *blind* — *again* ist durch den Morgen gedeckt); *the smell of floor wax* (DE *Bohnerwachs* — das Wort steht für den
+Geruch); *Her voice was rough* (DE *heiser*). Hinweis: Ein-Satz-Absätze jetzt 32 statt 31 (Absatz *They went up …* ist ein Satz
+geworden) — kein Verlust, Prüfskript ok.
+
+**Prüfskript:** 0 Befunde · Absätze 98 = 98 · Ein-Satz-Absätze 31 → 32 · Ausrufe 13 = 13 · Dialog 23,1 % → 22,7 %.
+
+**An den Autor (Original, nicht korrigiert):** (1) Absatz 9–10: Theo betritt die Küche neu, obwohl er in K3 schon am Tisch saß,
+Kakao trank und von Mamas Zettel erzählte; Nora liest den Zettel hier wie neu. (2) Absatz 30: Mama hat Körbchen und Leine *am Abend
+noch besorgt* — in K2 schlief sie nach der Pizza auf der Couch ein; die Kinder wollten „morgen“ kaufen. (3) Absatz 35 *Erster
+Schultag* im Juli — für US-Leser auffällig (EN jetzt *First day at the new school*); Datum/Ferien bitte bestätigen. (4) Absatz 19
+*Pullover* im Juli. (5) Absatz 91 *Das Ticken der Heizung* (und Absatz 30 *neben der Heizung*) — läuft die Heizung im Juli? Falls
+Absicht (Kälte-Hinweis), ist sie im Text nicht erkennbar. (6) Absatz 4 *Die Ränder verliefen leicht* vs. K3 *klar und deutlich*.
+(7) Absatz 94 Schatten schaut *zum Treppenhaus* durch die geschlossene Wohnungstür (Blickrichtung, klein).

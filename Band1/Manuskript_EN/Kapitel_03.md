@@ -6,13 +6,13 @@ Nora lay frozen under the covers. Her heart hammered against her ribs. The knock
 
 The apartment was dark. Moonlight fell through the bare windows and painted pale rectangles on the floor. The moving boxes stood against the wall like silent figures.
 
-Nora counted the seconds between the knocks. Exactly four. Always four. Pipes didn’t knock to a beat.
+Nora counted the seconds between the knocks. Exactly four. Always four. Pipes didn’t keep a beat.
 
 Nora pushed back the covers and got up. The wooden floor creaked under her feet. Shadow was sitting in the hallway. Upright, ears forward, hackles up. He didn’t growl. He waited.
 
-That was worse than growling. As if he had heard it before.
+That was worse than growling. It was as if he had heard this before.
 
-Nora crept to Theo’s room. She pushed the handle down and eased the door open. Theo lay curled up under his blanket. Only the tips of his hair stuck out.
+Nora crept to Theo’s room. She pushed the handle down and eased the door open. Theo lay curled up under his blanket. Only a tuft of hair stuck out.
 
 “Theo,” Nora whispered.
 
@@ -26,13 +26,13 @@ Nora sat down on the edge of his bed. “Do you hear that?”
 
 Thump. Thump. Thump.
 
-Theo pulled the blanket down. His eyes were wide. “Of course I hear it. They can probably hear it in Hamburg.”
+Theo pulled the blanket down. His eyes were wide. “Of course I hear it. They can probably hear it on the moon.”
 
 “It’s coming from the wall,” Nora said. “From upstairs. From Mrs. Silber’s apartment.”
 
-Thump. Thump. Thump. The wall vibrated under her hand. Pressure pushed on Nora’s ears, as if she had ridden an elevator up too fast.
+Thump. Thump. Thump. The wall vibrated under her hand. Nora’s ears filled with pressure, as if she had ridden an elevator up too fast.
 
-“Perfect,” Theo said. “The empty, creepy apartment with the ice room. Where else.”
+“Perfect,” Theo said. “The empty, creepy apartment with the ice room. Of course.”
 
 Nora crossed her arms. “It’s the pipes. The building is old. Pipes swell and shrink.”
 
@@ -60,17 +60,17 @@ Theo sat bolt upright. “Please tell me you’re not serious.”
 
 “Watch Shadow?” Theo stared at her. “Shadow weighs sixty-five pounds. If anything, he’s babysitting me.”
 
-Nora stood up. A cold stab went through her chest. But she would never admit that her hands were shaking. Not in front of Theo.
+Nora stood up. Something cold stabbed through her chest. But she would never admit that her hands were shaking. Not in front of Theo.
 
 Shadow was still waiting in the hallway. He turned his head toward Nora. His eyes were calm. Alert. His hackles were still up.
 
 “It’s okay, Shadow,” Nora whispered.
 
-The dog didn’t move. He just looked at her. As if he wanted to say: No. Nothing is okay.
+The dog didn’t move. He just looked at her. As if he wanted to tell her no, nothing was okay at all.
 
 Nora took the flashlight off the shelf. Her fingers closed tight around the handle.
 
-Shadow stood up. He took one step toward the door. Then he stopped and planted himself in front of Theo’s room. Between the boy and the stairwell.
+Shadow stood up. He took one step toward the front door. Then he stopped and planted himself in front of Theo’s room. Between Theo and the stairwell.
 
 She opened the apartment door and stepped into the stairwell.
 
@@ -80,7 +80,7 @@ Instantly. Like a wall of ice pressing against her. In July. In the middle of th
 
 Nora’s breath made a white cloud in front of her face. She clenched her free hand into a fist. Her fingers were numb with cold.
 
-The stairs lay in darkness. The flashlight threw a trembling circle on the wall. The shadows behind it were black and deep.
+The stairs lay in darkness. The flashlight threw a trembling circle on the wall. Outside the circle, the darkness was deep and black.
 
 Nora climbed the stairs. Every single one creaked under her weight. The walls of the stairwell were gray in the flashlight beam. Somewhere, water was dripping. Or something that sounded like water.
 
@@ -108,17 +108,17 @@ Silence. Total silence. No creaking, no wind, nothing. Only Nora’s breath, dri
 
 Nora stood in front of the closed door and didn’t move. Ten seconds. Twenty. Thirty. The silence pressed on her ears.
 
-She pressed her ear to the cold wood. Behind it: nothing. No rustling. No breathing. No knocking. Only empty, icy silence.
+She put her ear to the cold wood. Behind it: nothing. No rustling. No breathing. No knocking. Only empty, icy silence.
 
-She turned around and went down the stairs. Fast. Don’t run. Whatever happens, don’t run. Nora pressed her lips together. Every step controlled. Every step straight.
+She turned around and went down the stairs. Fast. Don’t run. Whatever happens, don’t run. Nora pressed her lips together. Every step controlled. Every step steady.
 
-Her knees said something else. Her knees almost gave out.
+Her knees had other ideas. They almost gave out.
 
 But she didn’t run. She just walked fast. Very fast.
 
 Back in the apartment, Theo was waiting in the hallway. Shadow sat next to him. Theo had one hand buried in the fur on Shadow’s neck.
 
-“Well?” he whispered. “Please tell me you evicted it.”
+“Well?” he whispered. “Please tell me you told it to move out.”
 
 Nora put the flashlight down. “The door’s closed.”
 
@@ -126,7 +126,7 @@ Theo blinked. “We left it open.”
 
 “I know.”
 
-“Nora. We left it open. Nobody else lives up here.” He shifted from one foot to the other. “So somebody closed it. Or something.”
+“Nora. We left it open. Nobody lives up there.” He shifted from one foot to the other. “So somebody closed it. Or something.”
 
 “Maybe a draft,” Nora said.
 
@@ -166,13 +166,13 @@ Sometime just before five, as the first gray light seeped through the windows, s
 
 ---
 
-Sunlight came through the kitchen window. Nora stood in the kitchen and poured cereal into a bowl. Her eyes burned. Her head felt heavy.
+Sunlight came through the window. Nora stood in the kitchen and poured cereal into a bowl. Her eyes burned. Her head felt heavy.
 
 Theo sat at the table, his chin propped on his hands. Dark circles under his eyes. He looked like someone who had slept for three hours. Because he had slept for three hours.
 
 “Mom?” Nora said.
 
-“Already gone. Early shift.” Theo stirred his hot chocolate without much interest. “Left a note.”
+“Already gone. Early shift.” Theo stirred his chocolate milk halfheartedly. “Left a note.”
 
 Shadow lay under the table, chewing on a toy bone. Relaxed. Normal. As if nothing had happened last night.
 
@@ -182,7 +182,7 @@ Shadow lay under the table, chewing on a toy bone. Relaxed. Normal. As if nothin
 
 “Did it?”
 
-“No. Which is almost creepier.” He took a sip of hot chocolate. “Silence after knocking is worse than knocking. That’s my new life lesson.”
+“No. Which is almost creepier.” He took a sip of chocolate milk. “Silence after knocking is worse than knocking. That’s my new life lesson.”
 
 Shadow lifted his head under the table. He looked up at the ceiling. Just for a second. Then he went back to chewing.
 
@@ -192,7 +192,7 @@ Then she stopped.
 
 The window was fogged up. A gray film covered the glass, damp and cloudy. In the middle of July. In the middle of the morning, with the sun out. Cold air brushed over Nora’s hands.
 
-Something had been drawn in the fog. Lines. Strokes. At first she thought it was random, just drops trickling down. Then she stepped closer.
+Something had been drawn in the fog. Lines. Marks. At first she thought it was random, just drops trickling down. Then she stepped closer.
 
 They weren’t drops. They were letters. At eye level, written with a finger, clear and sharp. Impossible to miss.
 

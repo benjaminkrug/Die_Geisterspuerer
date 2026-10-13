@@ -1,6 +1,6 @@
 # Chapter 2: Shadow
 
-The growling didn’t stop. It vibrated in Nora’s chest, dull and deep.
+The growling didn’t stop. It vibrated in Nora’s chest, low and deep.
 
 The dog sat in front of the door with the SILBER name card and didn’t move. His dark hackles were up. His eyes were fixed on the door. Only on the door.
 
@@ -12,7 +12,7 @@ Theo grabbed Nora’s arm. His fingers were cold.
 
 “Nora, no.”
 
-She pushed the handle down.
+She pressed down on the handle.
 
 The door opened.
 
@@ -22,13 +22,13 @@ Nora waited. Three seconds. Five. Nothing happened. No sound. No draft. Only the
 
 She stepped through the doorway. The floorboards creaked under her shoes.
 
-The hallway was long and narrow. Wallpaper, once yellow, now gray and stained. A crack ran down the right-hand wall from the ceiling to the floor, as wide as a finger. On the left, furniture lay knocked over like toys after a tantrum. A chair on its side. A small table, broken, one leg snapped. A lamp with a shattered shade lay next to it. Shards of glass on the floor, covered with a fine layer of dust.
+The hallway was long and narrow. Wallpaper, once yellow, now gray and stained. A crack as wide as a finger ran down the wall on the right, from the ceiling to the floor. On the left, furniture lay knocked over like toys after a tantrum. A chair on its side. A small table with one leg snapped. A lamp with a shattered shade lay next to it. Broken glass on the floor, covered with a fine layer of dust.
 
-Nora swallowed. Her throat was dry. This didn’t look like someone had just moved out. It looked like someone had run. In the middle of the night. Without looking back.
+Nora swallowed. Her throat was dry. This didn’t look like someone had just moved out. It looked like someone had run away. In the middle of the night. Without looking back.
 
 “Cozy,” Theo said behind her. “Very inviting. Five stars.”
 
-“Be quiet.”
+“Quiet.”
 
 “Happy to. I’m quiet. I’m the quietest person in the world. Can we go now?”
 
@@ -42,15 +42,15 @@ Nora’s stomach tightened. But she kept going. There was a room at the end of t
 
 Cold.
 
-It hit Nora like a wall. From one step to the next, the temperature dropped like a stone. Twenty degrees. Maybe more. Nora’s skin tightened. Goosebumps raced over her arms, her neck, all the way down her back. Her fingers went numb. In seconds.
+It hit Nora like a wall. In one step, the temperature dropped like a stone. It fell twenty degrees. Maybe more. Nora’s skin tightened. Goosebumps raced over her arms, her neck, all the way down her back. Her fingers went numb. In seconds.
 
 The air in the hallway was suddenly so cold that every breath burned in her lungs. Like winter. Like being outside when it’s below freezing. Except it was July, and the sun had been shining through the kitchen windows.
 
-The dog, who had gone ahead of them through the apartment, stopped. Three steps short of the room. He sat down sideways across the hallway and blocked the way. His hackles rose from his neck all the way to his tail.
+Up ahead, the dog stopped. Three steps short of the room. He sat down sideways across the hallway and blocked the way. His hackles rose from his neck all the way to his tail.
 
 “Do you see that?” Theo whispered.
 
-Nora saw it. The dog was refusing. He didn’t growl. He didn’t howl. He just sat there and wouldn’t let them pass. His whole body said: No.
+Nora saw it. The dog wouldn’t budge. He didn’t growl. He didn’t howl. He just sat there and wouldn’t let them pass. His whole body said no.
 
 Nora leaned forward and looked past the dog into the room. Empty. No open window. No air conditioner. Nothing that could explain the cold.
 
@@ -64,9 +64,9 @@ In July. In the middle of summer.
 
 “Nora. Your breath is STEAMING. In summer. The dog won’t go in. What other explanation do you need?”
 
-Nora bit her lip. She wanted to say something sensible. Cold pipes. Bad construction. Drafts through invisible cracks.
+Nora bit her lip. She wanted to say something logical. Cold pipes. Bad construction. Drafts through invisible cracks.
 
-But her heart was pounding, and her hands were shaking. And the dog sat in front of her like a wall of dark fur, with a look that said: No farther.
+But her heart was pounding, and her hands were shaking. And the dog sat in front of her like a wall of dark fur, with a look that said not one step farther.
 
 “Fine,” she said. “We’ll go.”
 
@@ -88,7 +88,7 @@ Nora almost laughed. Almost. The dog was the calmest thing in this whole buildin
 
 ---
 
-Mom came home at six. Tired, but smiling. “Hey. Everything okay here? I ran into the downstairs neighbor, by the way, Mrs. Held. She talked like she hadn’t seen anyone in weeks.”
+Mom came home at six. Tired, but smiling. “Hey. Everything okay here? By the way, I ran into one of the neighbors downstairs. Mrs. Held. She talked like she hadn’t seen anyone in weeks.”
 
 Nora said, “Everything’s fine.”
 
@@ -118,7 +118,7 @@ Theo shrugged. “Maybe a few.”
 
 “Theo.”
 
-The dog stood up, trotted over to Mom, and rested his head against her knee. He looked up at her. Calm. Patient.
+The dog stood up, trotted over to Mom, and rested his head against her knee. He looked up. Calm. Patient.
 
 Mom sighed. “For now.”
 
@@ -130,7 +130,7 @@ Theo punched his fist in the air. “Yes!”
 
 Nora leaned against the doorframe and watched the dog. He had lain down next to Theo. His tail thumped slowly against the floor. One. Two. One. Two.
 
-Something about this dog pulled at her. He was a stray they didn’t even know. Dirty, skinny, full of fleas. Still, she had the feeling he belonged here. With them. And that scared her almost more than the cold upstairs.
+Something about this dog pulled at her. He was a stray they knew nothing about. Dirty, skinny, full of fleas. Still, she had the feeling he belonged here. With them. And that scared her almost more than the cold upstairs.
 
 “What should we call him?” Mom said.
 
@@ -138,13 +138,13 @@ Theo tilted his head. He looked at the dog. The dark fur, the bright eyes, the w
 
 “Shadow,” Theo said.
 
-The dog lifted his head. His ears twitched. Quick and short, as if he had recognized the name.
+The dog lifted his head. His ears twitched. A quick flick, as if he had recognized the name.
 
 Nora nodded slowly. The name fit. Perfectly.
 
 ---
 
-They ate pizza between moving boxes. Mom told them about her first day at the hospital. Nora nodded in the right places. But her thoughts were upstairs. On the third floor. With the room that was so cold she had seen her breath.
+They ate pizza between moving boxes. Mom told them about her first day at the hospital. Nora nodded in the right places. But her thoughts were upstairs. On the third floor. In the room that was so cold she had seen her breath.
 
 After the third slice, Mom’s eyelids started to droop.
 
@@ -162,15 +162,15 @@ Theo fed Shadow half a slice of salami. The dog swallowed it in one bite.
 
 “Me. Just now.”
 
-Nora shook her head. But she smiled. A little. The first real moment since they got here that felt something like home. Shadow lay on the floor between them, his head on his paws.
+Nora shook her head. But she smiled. A little. For the first time since they got here, it felt something like home. Shadow lay on the floor between them, his head on his paws.
 
 Mom fell asleep on the couch. Within seconds. It had been like that since the move. She worked until she dropped, and then she slept so deeply you could vacuum right next to her.
 
-Nora stayed where she was and looked out the window. Kirchgasse lay quiet in the evening light. Warm air drifted in.
+Nora stayed where she was and looked out the window. Kirchgasse was quiet in the evening light. Warm air drifted in.
 
 Warm. Warm everywhere. Except upstairs. Except in that one room, the one Shadow had refused to go into.
 
-Out of the corner of her eye, she saw something. A flicker on the wall, like a shadow moving without any light to cast it. She turned her head. Nothing. Just the empty wall in the evening light.
+Out of the corner of her eye, she saw something. A flicker on the wall, like a dark shape moving without any light to cast it. She turned her head. Nothing. Just the empty wall in the evening light.
 
 ---
 

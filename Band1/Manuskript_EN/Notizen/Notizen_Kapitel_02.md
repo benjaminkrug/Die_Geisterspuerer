@@ -145,3 +145,85 @@ Ausrufezeichen 1 = 1, Dialoganteil 14,4 % → 13,9 %.
 2. **„Satzfragmente dosieren" vs. „Kein Laut. Kein Atem." / „Leise. Lautlos." / „Eins. Zwei. Eins. Zwei."** — K2 hat in ruhigen Passagen viele Zweierketten. A8 erlaubt das Zusammenziehen nur ab **drei** Fragmenten; ich habe nichts zusammengezogen. Die Pizza-Szene (Absatz 72–84) liest sich dadurch auf Englisch etwas abgehackt — Frage an D5.
 3. **Feste Geste vs. Code:** Absatz 3 *Fell stand am Nacken ab* ist nicht *sträubt sich*, aber dasselbe Signal. A4 legt nur *sträuben* fest. Ich habe *hackles* gewählt, damit der Code (R44) ein Wort behält; das Prüfskript zählt diese Stelle nicht mit.
 4. **„sagte" bei Fragen** (*„Wie nennen wir ihn?", sagte ihre Mutter*) → *Mom said.* Nach A8-Tabelle richtig, im Englischen bei einer Frage leicht ungewohnt (*asked* wäre natürlicher). Beibehalten, weil das Original bewusst *sagte* schreibt.
+
+---
+
+## Runde 2 (Block 1)
+
+Grundlage: `Pruefung/D3_K02.md`, `D4_K02.md`, `D5_K02.md`, `D6_K01-K04.md` (Teil K2), Vorrangregel Pilot 5.1,
+Vorgaben des Auftrags (Nr. 3 *shadow*, Nr. 4 *twenty degrees*). Klopfen bereits auf *Thump. Thump. Thump.* (A4 Abschn. 3).
+
+| Befund | Entscheidung | Grund (eine Zeile) |
+|---|---|---|
+| D3 #1 Z.5 *name card* | abgelehnt | A8 Abschn. 6: *name card*, nie *nameplate* (wie K1). |
+| D3 #2 Z.27 *had run* | angenommen | → *had run away*; Flucht ist gemeint (*Without looking back*). |
+| D3 #3 Z.35 Theos Spuren fehlen | abgelehnt | Logik des Originals (*Sonst keine Spuren*) → Autorenliste. |
+| D3 #4 Z.45 °F/°C | angenommen | Vorgabe 4: *It fell twenty degrees. Maybe more.* — klar ein Abfall, °F-Zahl bleibt (E10). |
+| D3 #5 Z.35/49 wer ist wo | angenommen | über D5 #8 (*Up ahead, the dog stopped.*). |
+| D3 #6 Z.77 Stockwerke | abgelehnt | Glossar E9, US-Zählung gewollt und konsistent. |
+| D3 #7 Z.91 *talked like …* | abgelehnt | Bild steht so im Original; Kinder verstehen „viel geredet“. |
+| D3 #8 Z.109 welche Tür | abgelehnt | Original ebenso offen (*vor der Tür*). |
+| D3 #9 Z.127 *claims him* | abgelehnt | Setup K5; D6 versteht es. |
+| D3 #10 Z.149 wessen Stück | abgelehnt | durch Folgesatz klar (D3 selbst). |
+| D3 #11 Z.151 Salami | abgelehnt | Original: halbe Scheibe Salami; Menge nicht ändern. |
+| D3 #12 Z.173 *shadow*/Shadow | angenommen | Vorgabe 3: *like a dark shape moving …* |
+| D3 #13 Z.185 *breathing stopped* | abgelehnt | gewollter Schreck, Z.187 löst auf; Original identisch. |
+| D3 #14 Z.199 Wand/über ihr | abgelehnt | Widerspruch steht im Original → Autorenliste. |
+| D3 #15 Z.211 Winseln ohne Subjekt | abgelehnt | Kapitelende (A7): Fragment bleibt, Wirkung vor Klarheit. |
+| D4 #1 Z.91 *downstairs neighbor* | angenommen | → *I ran into one of the neighbors downstairs. Mrs. Held.* (keine neue Wohnort-Festlegung). |
+| D4 #2 Z.121 *looked up at her* | angenommen | → *He looked up.* — so offen wie *Sein Blick wanderte nach oben*. |
+| D5 #1 L3 *dull and deep* | angenommen | → *low and deep*. |
+| D5 #2 L5 *nameplate* | abgelehnt | A8 Abschn. 6 verbietet *nameplate*. |
+| D5 #3 L5 *dark hackles* | abgelehnt | *dunkles* fiele weg (A8 7.6); *hackles* ist A4-Code. |
+| D5 #4 L15 *pushed the handle down* | angenommen | → *pressed down on the handle*. |
+| D5 #5 L25 Riss | angenommen | → *A crack as wide as a finger ran down the wall on the right, …* (Finger-Bild bleibt, 5.1 Nr. 3). |
+| D5 #6 L25 *broken, one leg snapped* | angenommen | → *A small table with one leg snapped.* |
+| D5 #7 L31 *Be quiet.* | angenommen | → *Quiet.* (nicht *Shh*: Theos *I'm quiet* braucht das Wort). |
+| D5 #8 L49 Relativsatz | angenommen | → *Up ahead, the dog stopped.* |
+| D5 #9 L45 *From one step to the next* | angenommen | → *In one step* (auch D6: klang nach Treppe). |
+| D5 #10 L45 *Twenty degrees* | angenommen | Vorgabe 4 statt *freezer* (Zahl bleibt, E10). |
+| D5 #11 L53 *was refusing* | angenommen | → *The dog wouldn’t budge.* |
+| D5 #12 L53 *said: No.* | angenommen | → *said no.* (ohne Kursiv: Prüfskript zählt Kursiv gegen DE). |
+| D5 #13 L69 *said: No farther.* | angenommen | → *said not one step farther.* (nicht *Don't*: Sinn „nicht weiter“ bleibt). |
+| D5 #14 L67 *sensible* | angenommen | → *logical*. |
+| D5 #15 L77 Stockwerke | abgelehnt | Glossar E9. |
+| D5 #16 L91 *by the way* | angenommen | zusammen mit D4 #1. |
+| D5 #17 L133 *didn’t even know* | angenommen | → *a stray they knew nothing about* (*stray* bleibt). |
+| D5 #18 L141 *Quick and short* | angenommen | → *A quick flick, as if he had recognized the name.* (Setup K16 wortgleich behalten). |
+| D5 #19 L147 *With the room* | angenommen | → *In the room …* |
+| D5 #20 L151 Salami | abgelehnt | Inhalt (halbe Scheibe) bleibt wie im Original. |
+| D5 #21 L165 Fragment | angenommen | → *For the first time since they got here, it felt something like home.* |
+| D5 #22 L169 *lay quiet* | angenommen | → *was quiet*. |
+| D5 #23 L173 *shadow* | angenommen | Vorgabe 3 (*dark shape*). |
+| D5 #24 L187 POV *Motionless. Focused* | abgelehnt | Original identisch (Nora schließt aus dem Geräusch) → Autorenliste. |
+| D5 #25 L199 *behind/above* | abgelehnt | Original-Widerspruch; Weglassen wäre Inhaltsverlust → Autorenliste. |
+| D5 #26 L209 POV *stood motionless* | abgelehnt | Original identisch; Kapitelende → Autorenliste (mit #24). |
+| D6 skim 45–47 Kälte | abgelehnt | Inhalt des Originals. |
+| D6 L49 Wiederholung | angenommen | wie D5 #8. |
+| D6 skim 145–171 Pizza | abgelehnt | Inhalt des Originals. |
+| D6 *Twenty degrees* unklar | angenommen | Vorgabe 4. |
+| D6 *landing* | abgelehnt | Standardwort, Kind erschließt es. |
+| D6 *Knock. Knock. Knock.* „Who's there?“ | angenommen | bereits erledigt: *Thump. Thump. Thump.* (Autor, A4 Abschn. 3); kein Theo-Witz dazu (A8 7.3). |
+| D6 L173 *shadow* | angenommen | Vorgabe 3. |
+| D6 L199 Wand/Decke | abgelehnt | Original → Autorenliste. |
+| D6 *first day at the hospital* | abgelehnt | Original (schon Abschn. 6 Nr. 2) → Autorenliste. |
+| D6 Vorlesen L25 sh-Kette | angenommen | *Shards of glass* → *Broken glass*. |
+| D6 Vorlesen L45 *From one step* | angenommen | wie D5 #9. |
+| D6 Sprecher L103 | abgelehnt | keine Begleitsätze dazuerfinden (A8 Abschn. 4). |
+| D6 *In July* wiederholt | abgelehnt | Wiederholung des Originals (A8 7.4). |
+| D6 *throat was dry* wiederholt | abgelehnt | Körperbild des Originals (5.1 Nr. 3). |
+
+**Zählung:** D3 4 angenommen / 11 abgelehnt · D4 2 / 0 · D5 19 / 7 · D6 6 / 8.
+
+**Gegenprobe (nur Bedeutung, jeder geänderte Satz gegen DE):** 21 Änderungen geprüft. Keine Abweichung, die eine Korrektur
+brauchte. Grenzfälle, bewusst so gelassen: *had run away* (DE *gerannt* — Flucht durch Kontext gedeckt); *wouldn’t budge*
+(DE *weigerte sich* — Weigerung als Nicht-von-der-Stelle-Gehen); *it felt something like home* (DE *Der erste echte Moment* —
+„echt“ steckt in *For the first time*, leicht schwächer). **Achtung Setup:** K12 (F5) muss *like a dark shape moving without any
+light to cast it* aufgreifen, nicht mehr *a shadow*.
+
+**Prüfskript:** 0 Befunde · Absätze 103 = 103 · Ein-Satz-Absätze 33 = 33 · Ausrufe 1 = 1 · Dialog 14,4 % → 14,0 %.
+
+**An den Autor (Original, nicht korrigiert):** (1) Absatz 18: *Sonst keine Spuren* — Theo geht hinter Nora, seine Spuren fehlen.
+(2) Absatz 97–98: Klopfen *aus der Wand hinter dem Kopfende* + *Genau über ihr* + *aus Frau Silbers Wohnung* (Stockwerk höher) —
+Wand oder Decke? Drei Prüfer stolperten. (3) Absatz 91 und 102: Nora sieht durch die geschlossene Tür, dass Schatten *reglos*,
+*auf etwas gerichtet* steht (POV). (4) Absatz 72 *ersten Tag im Krankenhaus* (bereits Abschn. 6 Nr. 2, D6 bestätigt).
