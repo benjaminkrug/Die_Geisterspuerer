@@ -130,7 +130,7 @@
 | Schnauze (Hund) | **nose** · *snout* | **muzzle** — Kinder denken an den Maulkorb (D6 K1 und K9 unabhängig) |
 | Kinderzimmer | **bedroom** | kids' room |
 | Supermarkt | **grocery store** | supermarket (nicht falsch, klingt im Kindermund fremd) |
-| Klingelschild | **the name by the doorbell** · *name card* | nameplate (= Bürotür) |
+| Klingelschild | **nameplate** (geändert nach Block 1: zwei US-Lektoren unabhängig — *name card* klingt fremd, *nameplate* ist an Wohnungstüren üblich) | name card |
 | Proviantkarton | **the box of snacks** / *food from the car* | food box |
 | Schwelle | **doorway** | threshold (zu erwachsen) |
 | Oma | **Grandma** | Gran, Nan |

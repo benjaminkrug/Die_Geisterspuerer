@@ -32,7 +32,7 @@ VERBOTE = {
                            r"(?:lilac|violet|mauve) ink|ink was (?:still )?damp|damp ink)\b|\bknock[,.]\s*knock\b",
     "Dialogverb (A8)": r"\b(?:exclaimed|stated|remarked|uttered|inquired|queried|replied)\b",
     "Satzbau (A8)": r"\bsaid (?:Theo|Nora|Mom)\b",
-    "Wortwahl nach Pilot (A8 Abschn. 6)": r"\b(?:cellar|muzzle|ceiling lamp|nameplate|kids' rooms?|food box|supermarket|"
+    "Wortwahl nach Pilot (A8 Abschn. 6)": r"\b(?:cellar|muzzle|ceiling lamp|name card|kids' rooms?|food box|supermarket|"
                                          r"blamed it on the heat|raised (?:his|her) head)\b",
     "Deutsch-Rest": r"[„‚äöüÄÖÜß]|\b(?:und|nicht|ist|ich|wir|aber|auch|noch|schon|sagte)\b",
 }
