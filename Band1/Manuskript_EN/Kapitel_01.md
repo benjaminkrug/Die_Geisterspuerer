@@ -28,7 +28,7 @@ Mom came around the truck. She was smiling, but it was the smile she had been we
 
 Nora said nothing. She looked up at the building, trying to find something to like. The entrance had a stone arch. That was pretty. Kind of.
 
-“Come on,” Mom said, lifting a box out of the trunk. “Second floor. You’ll like it.”
+“Come on,” Mom said, lifting a box off the truck. “Second floor. You’ll like it.”
 
 Theo snorted.
 
@@ -104,7 +104,7 @@ Goosebumps crept over Nora’s arms. There was a metallic taste on her tongue.
 
 “Did you hear that?” Theo whispered.
 
-Nora looked up at the ceiling. Above them was the third floor. The apartment with the yellowed name card by the doorbell.
+Nora looked up at the ceiling. Above them was the third floor. The empty apartment.
 
 “That’s just the wood,” she said. “It swells and shrinks. Old houses make noises like that.”
 
@@ -112,7 +112,7 @@ Nora looked up at the ceiling. Above them was the third floor. The apartment wit
 
 “It didn’t.”
 
-It had.
+But it had.
 
 “Great,” Theo said. He was sitting on a moving box, arms crossed. “First day. Strange city. Creepy apartment. And Mom’s gone.”
 
@@ -140,11 +140,11 @@ Silence.
 
 No joke in his voice. No complaining. Theo sounded surprised.
 
-Nora went into the kitchen. Theo stood at the window, his forehead pressed against the glass. He pointed down.
+Nora went into the living room. Theo stood at the bay window, his forehead pressed against the glass. He pointed down.
 
 “There’s a dog down there.”
 
-Nora stood next to him and looked down. A dog was sitting on the stone step outside the front door. Medium-sized. Dark fur, tangled and dull. Thin—even from up here she could almost see his ribs. He sat completely still and stared at the front door. Not at the street. Not at the people walking by. At the door.
+Nora stood next to him and looked down. A dog was sitting on the stone step outside the front door. Medium-sized. Dark fur, tangled and dull. Thin—even from up here she could almost see his ribs. He sat completely still and stared at the front door. Not at the street. At the door.
 
 “How long has he been sitting there?” she murmured.
 

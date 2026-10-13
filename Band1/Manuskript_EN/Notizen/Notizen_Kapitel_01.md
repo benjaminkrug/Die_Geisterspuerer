@@ -374,3 +374,33 @@ A, weil es als einzige Variante beides behält: *nicht in den Ohren* (das Geräu
 **Nachtrag R3 (Bedeutungsfehler behoben):** Absatz 43 *It's where I meet everyone* → *It's my first time meeting the team—I can't move it.* (*Erste Vorstellung* = sie stellt sich dem neuen Team vor); bei der Nachprüfung aller R3-Sätze zudem Absatz 108 *fine dust covered the doorway* → *there was fine dust in the doorway* (*covered* übertrieb „lag feiner Staub“); geringe, bewusst hingenommene Abweichungen: *chin* statt *Schnauze* (86, Vorgabe), *Like he lived here* deutet *Selbstverständlich* aus (97, Vorgabe), *Come look out the window* statt nur „ans Fenster“ (70).
 
 **Nachtrag R3 (2):** Absatz 97 *Like he lived here.* → *Like it was the most natural thing in the world.* — *Like he lived here* nahm eine spätere Enthüllung vorweg (D4_K01_Runde3_Gegenprobe); *Selbstverständlich* sagt nur „als wäre es ganz normal“.
+
+---
+
+## Nachzug DE 6f251d2
+
+Grundlage: `DE_Basis/Kapitel_01.md` (eingefroren) statt `Pilot/DE_K01.md`. Nur die geänderten Absätze angefasst,
+sonst Stand Runde 3. Absatz-Nr. = Prüfskript-Zählung (Überschrift = 1).
+
+| Absatz | DE neu | EN vorher | EN jetzt |
+|---|---|---|---|
+| 16 | „hob einen Karton von der Ladefläche“ | lifting a box out of the trunk | lifting a box off the truck |
+| 54 | „Über ihnen lag der zweite Stock. Die leere Wohnung.“ | … The apartment with the yellowed name card by the doorbell. | … The empty apartment. |
+| 58 | „Doch. Hatte es.“ | It had. | But it had. |
+| 72 | „Nora ging ins Wohnzimmer. Theo stand am Erkerfenster …“ | Nora went into the kitchen. Theo stood at the window, … | Nora went into the living room. Theo stood at the bay window, … |
+| 74 | „Nicht die Straße. Die Tür.“ (*Nicht die Passanten.* gestrichen) | Not at the street. Not at the people walking by. At the door. | Not at the street. At the door. |
+
+K1 · Absatz 16 · DE: „von der Ladefläche“ · EN: “off the truck” · frei, weil: *truck bed* / *cargo area* sind Erwachsenen- bzw. Pickup-Wörter; *off the truck* sagt dasselbe, und *truck* greift *moving truck* aus Absatz 2 auf.
+K1 · Absatz 58 · DE: „Doch. Hatte es.“ · EN: “But it had.” · frei, weil: *Doch* (Widerspruch gegen eine Verneinung) hat kein Ein-Wort-Gegenstück. Varianten: **A *But it had.*** (gewählt) · B *Yes. It had.* · C *It had, though.* — A widerspricht Noras „It didn't.“ hörbar und bleibt kurz und still; B klingt wie eine Antwort auf eine Frage (niemand hat gefragt); C ist umgangssprachlich und schiebt den Widerspruch ans Ende, wo er verpufft. Die zwei Takte des Deutschen gehen verloren, der Verrat durch den Erzähler (A7) bleibt.
+K1 · Absatz 72 · DE: „Erkerfenster“ · EN: “bay window” · frei, weil: greift *bay window* aus Absatz 29 auf (Wohnzimmer mit Erker), damit klar ist, dass es dasselbe Fenster ist.
+
+**Fünfte Stelle, nicht in der Änderungsliste:** Absatz 74 *Nicht die Passanten.* ist im eingefrorenen Deutsch gestrichen
+(Diff `Pilot/DE_K01.md` ↔ `DE_Basis/Kapitel_01.md`; im Hinweis der Pilot-Auswertung als „Passanten" genannt). Das englische
+*Not at the people walking by.* hätte sonst Inhalt behalten, den das Original nicht mehr hat. Ein Satz gestrichen, sonst nichts.
+→ `Aenderungsliste_DE.md` nennt „4 Stellen in K1“; es sind 5 (Liste nicht von mir geändert).
+
+Damit erledigt aus Abschnitt 5 / Runde 2 (Fehler im Original): Nr. 1 Kofferraum, Nr. 2 Klingelschild zu früh, Nr. 7 Passanten,
+Nr. 8 Küchenfenster. Offen bleiben Nr. 3–6 und 9.
+
+**Prüfskript:** `python3 Scripts/pruefe_en.py pruefen Band1/Manuskript_EN/DE_Basis/Kapitel_01.md Band1/Manuskript_EN/Kapitel_01.md` → **0 Befund(e).**
+**Nicht gelaufen:** D4-Gegenprobe auf diese fünf Sätze (Pilot 5.2a verlangt sie für jede späte Änderung).
