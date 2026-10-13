@@ -4,15 +4,17 @@ Oben.
 
 Nora starrte auf das Wort im Kondenswasser. Die Buchstaben waren klar und deutlich. Kein Zweifel. Kein Zittern in der Schrift. Daneben stand noch immer das andere Wort: DANKE.
 
-„Oben“, sagte Theo. Er stand neben ihr, das Tagebuch an die Brust gedrückt. „Sie meint Frau Silbers Wohnung.“
+„Oben“, sagte Theo. Er stand neben ihr, das Tagebuch an die Brust gedrückt. Irgendwann in der Nacht hatte Nora es ihm gegeben. Seitdem ließ er es nicht mehr los. „Sie meint Frau Silbers Wohnung.“
 
-Nora nickte. Ihr Herz schlug ruhig. Zum ersten Mal seit Tagen schlug es ruhig. Die Kälte war aus der Wohnung gewichen. Die Luft fühlte sich an wie nach einem Gewitter. Frisch. Weich. Als hätte jemand ein Fenster geöffnet.
+Nora nickte. Lina hatte hier unten gewohnt, in Noras Zimmer. Aber die Kälte und das Klopfen waren immer von oben gekommen. Aus der leeren Wohnung. Als hätte Lina sich dorthin zurückgezogen, wo niemand sie störte.
+
+Ihr Herz schlug ruhig. Zum ersten Mal seit Tagen schlug es ruhig. Die Kälte war aus der Wohnung gewichen. Die Luft fühlte sich an wie nach einem Gewitter. Frisch. Weich. Als hätte jemand ein Fenster geöffnet.
 
 Schatten stand an der Wohnungstür. Er kratzte nicht. Er winselte nicht. Er wartete einfach. Sein Schwanz pendelte langsam hin und her.
 
 „Dann gehen wir hoch“, sagte Nora.
 
-Theo schaute auf das Tagebuch in seinen Händen. Auf den Ledereinband. Auf den Namen in Mädchenschrift.
+Theo schaute auf das Tagebuch in seinen Händen. Auf den Ledereinband. Auf die erste Seite mit dem Namen in Mädchenschrift.
 
 „Soll ich es mitnehmen?“, sagte er.
 
@@ -36,7 +38,7 @@ Der Flur lag im Dunkeln. Mondlicht fiel durch das Küchenfenster am Ende des Gan
 
 „Ich weiß.“
 
-Sie ging den Flur entlang. Vorbei an der Küche. Vorbei an dem Zimmer mit den Notizen und der Namensliste. Bis zum Ende des Gangs. Bis zu der Tür, die immer geschlossen gewesen war. Das kalte Zimmer. Der Raum, den Schatten am ersten Tag gemieden hatte. Vor dem er sich quergestellt und geknurrt hatte. In den er sie nicht gelassen hatte.
+Sie ging den Flur entlang. Vorbei an der Küche. Vorbei an dem Zimmer mit den Notizen und der Namensliste. Bis zum Ende des Gangs. Bis zu der Tür, durch die sie nie hatten gehen wollen. Das kalte Zimmer. Der Raum, den Schatten am ersten Tag gemieden hatte. Vor dem er sich quergestellt hatte. In den er sie nicht gelassen hatte.
 
 Die Tür stand offen.
 
@@ -44,7 +46,7 @@ Nora blieb stehen. Ihre Finger kribbelten. Aber nicht vor Angst. Es war ein ande
 
 „Wartet hier“, sagte sie leise.
 
-Theo riss die Augen auf. „Was? Nein. Nora --“
+Theo riss die Augen auf. „Was? Nein. Nora –“
 
 „Nur eine Minute.“
 
@@ -72,7 +74,7 @@ Und etwas anderes.
 
 ---
 
-Ein Lichtfleck. Klein. Rund. Wie ein Sonnenstrahl, der durch ein Blatt fällt. Er lag auf dem Boden, direkt neben Schattens Pfote. Goldfarben. Warm. Er bewegte sich langsam, wie Sonnenlicht über eine Wand wandert.
+Ein Lichtfleck. Klein. Rund. Wie ein Sonnenstrahl, der durch ein Blatt fällt. Er lag auf dem Boden, ein paar Schritte vor Schatten. Goldfarben. Warm. Er bewegte sich langsam, wie Sonnenlicht über eine Wand wandert.
 
 Aber es war Nacht. Der Mond schien silbern. Keine Sonne. Keine Lampe. Nichts, das dieses Licht erklären konnte.
 
@@ -96,7 +98,7 @@ Das Licht pulsierte stärker. Wärmer. Nora spürte es auf ihrem Gesicht. Wie So
 
 Theo kniete sich hin. Ganz vorsichtig legte er das Tagebuch neben das Licht. Es gehörte ihr.
 
-Schatten hob den Kopf. Er stand langsam auf und ging zum Licht. Drei Schritte. Dann setzte er sich davor und legte den Kopf schief. Als würde er jemanden verabschieden, den er lange gekannt hatte.
+Schatten hob den Kopf. Er stand langsam auf und ging zum Licht. Drei Schritte. Dann legte er sich davor und neigte den Kopf. Als würde er jemanden verabschieden, den er lange gekannt hatte.
 
 Und für einen Herzschlag lang war Nora Lina. Sie spürte den kalten Kellerboden unter nackten Füßen. Die Angst. Die Einsamkeit. Fünfzig Jahre Warten. Dann war es vorbei. Ein Wimpernschlag. Nora war wieder Nora. Aber sie verstand jetzt.
 

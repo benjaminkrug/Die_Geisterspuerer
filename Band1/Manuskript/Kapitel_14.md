@@ -46,7 +46,7 @@ Die Tür stand offen wie immer. Schatten schob sich an ihnen vorbei und lief den
 
 Die Wohnung roch nach alten Büchern und Staub. Aber die Kälte war weg.
 
-Theo blieb vor der Namensliste stehen. Ganz unten: *Lina Vogt? – 1974?* Das Fragezeichen stand noch da.
+Theo blieb vor der Namensliste stehen. Ganz unten: *Lina Vogt? – 1974?* Die Fragezeichen standen noch da.
 
 „Frau Silber wusste von Lina“, murmelte er. „Aber sie hat es nicht geschafft.“
 
@@ -148,7 +148,7 @@ Der Kreis war durchgestrichen. Zwei Linien, über Kreuz.
 
 „Sie ist frei“, sagte Theo leise. „Frau Silber hat sie durchgestrichen.“
 
-„Frau Silber ist seit drei Monaten verschwunden“, sagte Nora.
+„Frau Silber ist seit Monaten verschwunden“, sagte Nora.
 
 Sie beugte sich dichter über das Papier. Die Linien glänzten. Nur ein bisschen. So wie Tinte glänzt, bevor sie trocknet.
 

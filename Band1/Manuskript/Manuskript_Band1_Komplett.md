@@ -1,7 +1,7 @@
 # Die Geisterspuerer
 ## Band 1 - Das Haus, das fluestert
 
-*Gesamtwortzahl: ca. 22.600 Woerter (Umbau 2026-10, Basis 4e983cf)*
+*Gesamtwortzahl: ca. 22.600 Woerter (Umbau 2026-10, Basis 4e983cf; Korrekturen Fundliste 2026-10-13)*
 
 ---
 
@@ -35,7 +35,7 @@ Ihre Mutter kam um den Wagen herum. Sie lächelte, aber es war das Lächeln, das
 
 Nora sagte nichts. Sie schaute an der Fassade hoch und suchte nach etwas, das sie mögen konnte. Der Eingang hatte einen Steinbogen. Das war hübsch. Irgendwie.
 
-„Kommt“, sagte ihre Mutter und hob einen Karton aus dem Kofferraum. „Erste Etage. Ihr werdet sie mögen.“
+„Kommt“, sagte ihre Mutter und hob einen Karton von der Ladefläche. „Erste Etage. Ihr werdet sie mögen.“
 
 Theo schnaubte.
 
@@ -111,7 +111,7 @@ Gänsehaut kroch über Noras Arme. Ein metallischer Geschmack lag auf ihrer Zung
 
 „Hast du das gehört?“, flüsterte Theo.
 
-Nora schaute zur Decke. Über ihnen lag der zweite Stock. Die Wohnung mit dem vergilbten Klingelschild.
+Nora schaute zur Decke. Über ihnen lag der zweite Stock. Die leere Wohnung.
 
 „Das ist nur das Holz“, sagte sie. „Das dehnt sich aus und zieht sich zusammen. So ein Haus macht solche Geräusche.“
 
@@ -119,7 +119,7 @@ Nora schaute zur Decke. Über ihnen lag der zweite Stock. Die Wohnung mit dem ve
 
 „Hat es nicht.“
 
-Es hatte es.
+Doch. Hatte es.
 
 „Großartig“, sagte Theo. Er hatte sich auf einen Umzugskarton gesetzt und die Arme verschränkt. „Erster Tag. Fremde Stadt. Gruselwohnung. Und Mama ist weg.“
 
@@ -147,11 +147,11 @@ Stille.
 
 Kein Witz in seiner Stimme. Keine Beschwerde. Theo klang überrascht.
 
-Nora ging in die Küche. Theo stand am Fenster, die Stirn gegen die Scheibe gedrückt. Er zeigte nach unten.
+Nora ging ins Wohnzimmer. Theo stand am Erkerfenster, die Stirn gegen die Scheibe gedrückt. Er zeigte nach unten.
 
 „Da sitzt ein Hund.“
 
-Nora stellte sich neben ihn und schaute hinunter. Vor der Haustür, auf der Steinstufe, saß ein Hund. Mittelgroß. Dunkles Fell, verfilzt und stumpf. Dünn – selbst von oben konnte sie die Rippen erahnen. Er saß völlig reglos da und starrte die Haustür an. Nicht die Straße. Nicht die Passanten. Die Tür.
+Nora stellte sich neben ihn und schaute hinunter. Vor der Haustür, auf der Steinstufe, saß ein Hund. Mittelgroß. Dunkles Fell, verfilzt und stumpf. Dünn – selbst von oben konnte sie die Rippen erahnen. Er saß völlig reglos da und starrte die Haustür an. Nicht die Straße. Die Tür.
 
 „Seit wann sitzt der da?“, murmelte sie.
 
@@ -291,7 +291,7 @@ Sie schlug Nora entgegen wie eine Wand. Von einem Schritt zum nächsten sank die
 
 Die Luft im Flur war plötzlich so kalt, dass jeder Atemzug in der Lunge brannte. Wie im Winter. Wie draußen, bei Minusgraden. Nur dass es Juli war und die Sonne durch die Küchenfenster geschienen hatte.
 
-Der Hund, der ihnen durch die Wohnung gefolgt war, blieb stehen. Drei Schritte vor dem Raum. Er setzte sich quer in den Flur und blockierte den Weg. Sein Fell sträubte sich vom Nacken bis zum Schwanz.
+Der Hund, der vor ihnen durch die Wohnung gelaufen war, blieb stehen. Drei Schritte vor dem Raum. Er setzte sich quer in den Flur und blockierte den Weg. Sein Fell sträubte sich vom Nacken bis zum Schwanz.
 
 „Siehst du das?“, flüsterte Theo.
 
@@ -333,7 +333,7 @@ Nora musste fast lachen. Fast. Der Hund war das Ruhigste in diesem ganzen Haus. 
 
 ---
 
-Die Mutter kam um sechs. Müde, aber lächelnd. „Na? Alles klar bei euch?“
+Die Mutter kam um sechs. Müde, aber lächelnd. „Na? Alles klar bei euch? Unten hab ich übrigens die Nachbarin getroffen, Frau Held. Die hat geredet, als hätte sie seit Wochen niemanden gesehen.“
 
 Nora sagte: „Alles gut.“
 
@@ -719,7 +719,7 @@ Sie schaute ihn an. Theo. Ihr kleiner Bruder, der sich vor seinem eigenen Schatt
 
 „Mama schreibt keine Hilferufe ans Küchenfenster, Nora. Mama schreibt ‚Hab euch lieb' auf Zettel.“ Er legte kurz die Hand auf ihren Arm. „Aber wir kriegen das raus. Okay?“
 
-Schatten lag in seinem Körbchen neben der Heizung. Er hatte den Kopf gehoben und schaute zum Fenster. Nicht zu Nora. Nicht zu Theo. Zum Fenster. Seine Ohren standen aufrecht. Sein Fell lag glatt. Keine Reaktion wie gestern Nacht. Kein Winseln, kein gesträubtes Fell.
+Schatten lag in dem neuen Körbchen neben der Heizung. Mama hatte es am Abend noch besorgt, zusammen mit einer Leine. Er hatte den Kopf gehoben und schaute zum Fenster. Nicht zu Nora. Nicht zu Theo. Zum Fenster. Seine Ohren standen aufrecht. Sein Fell lag glatt. Keine Reaktion wie gestern Nacht. Kein Winseln, kein gesträubtes Fell.
 
 Nora beobachtete ihn. Der Hund war ruhig. Fast zu ruhig. Als wäre er nicht überrascht. Als hätte er das Wort erwartet.
 
@@ -853,6 +853,8 @@ Nora drehte sich um.
 
 Schatten stand am Ende des Flurs. Vor der Wohnungstür. Aber er schaute nicht zur Tür. Er schaute nach links. Zum Treppenhaus. Nach oben.
 
+Nora öffnete die Wohnungstür. Schatten ging hinaus, ohne sich umzusehen.
+
 Er saß vor der Treppe zum zweiten Stock. Aufrecht. Ohren nach vorn. Reglos.
 
 Er wartete auf sie.
@@ -897,7 +899,7 @@ Sie gingen die Treppe hoch. Nora zuerst. Schatten neben ihr. Seine Krallen klick
 
 Der zweite Stock. Der Flur. Die Tür mit dem Klingelschild SILBER.
 
-Sie stand offen. Einen Spalt breit. So wie beim ersten Mal. Nur war es diesmal anders.
+Sie stand offen. Einen Spalt breit. Nur war es diesmal anders.
 
 Diesmal war die Luft kühl. Nicht eisig wie beim letzten Mal. Eher wie ein Keller im Sommer. Nora schluckte. Da war ein metallischer Geschmack auf ihrer Zunge. Wie Münzen. Wie Blut nach einem Biss auf die Wange. Fremd und falsch.
 
@@ -913,7 +915,7 @@ Noras Herz setzte einen Schlag aus. Beim letzten Mal hatte Schatten sich geweige
 
 „Ja.“
 
-„Er geht rein. Er geht einfach rein. Der Hund, der letztes Mal fast die Tür angeknurrt hat.“
+„Er geht rein. Er geht einfach rein. Der Hund, der letztes Mal die Tür angeknurrt hat.“
 
 „Ich sehe es, Theo.“
 
@@ -1085,7 +1087,7 @@ Stille.
 
 Nora hielt den Atem an. Ihre Finger krallten sich in Theos Ärmel. Theo stand wie eingefroren neben ihr. Sein Gesicht war weiß. Seine Augen riesig.
 
-Schatten knurrte. Leise. Tief in der Kehle.
+Schatten winselte. Leise. Kläglich.
 
 Kein Laut aus dem Flur. Kein Knarzen. Kein Rascheln. Nur die schwere, drückende Stille einer leeren Wohnung.
 
@@ -1189,7 +1191,7 @@ Die Bibliothek roch nach altem Papier und Kaffee. Regale bis zur Decke. Irgendwo
 
 Eine Frau mit Brille und grauem Dutt saß hinter der Theke. Nora ging zu ihr.
 
-„Entschuldigung. Wir suchen Informationen über eine Bewohnerin von Gravenstedt. Margret Silber.“
+„Entschuldigung. Wir suchen Informationen über eine Bewohnerin von Gravenstedt. M. Silber.“
 
 Die Frau schaute über den Rand ihrer Brille. „Für die Schule?“
 
@@ -1209,7 +1211,7 @@ Theo folgte ihr die Treppe hinunter. „Wir lügen jetzt auch noch“, murmelte 
 
 Das Untergeschoss war kühl und still. Neonlicht summte an der Decke. Lange Reihen von Regalen mit gebundenen Zeitungsausgaben. An der Wand standen drei alte Computer.
 
-Nora setzte sich an den ersten. Die Suchmaske der digitalen Zeitung lud langsam. Sie tippte: „Margret Silber Gravenstedt.“
+Nora setzte sich an den ersten. Die Suchmaske der digitalen Zeitung lud langsam. Sie tippte: „M. Silber Gravenstedt.“
 
 Ein Ergebnis.
 
@@ -1235,7 +1237,7 @@ Nora starrte auf den Bildschirm. Margret Silber. 75 Jahre. Alleinlebend. Kirchga
 
 Das Neonlicht summte. Noras Nacken kribbelte. Sie drehte sich um. Hinter ihr nur leere Stuhlreihen und das Surren der Neonröhren. Sie dachte an Schatten, der oben vor der Tür wartete. Ruhig. Geduldig. Als hätte er gewusst, was sie finden würden.
 
-„Was hat sie so erschreckt?“, flüsterte Nora. „Was kann eine Frau erschrecken, die vierzig Jahre lang –“ Sie brach ab.
+„Was hat sie so erschreckt?“, flüsterte Nora. „Was kann eine Frau erschrecken, die so lange allein in so einem Haus gewohnt hat –“ Sie brach ab.
 
 „Vierzig Jahre lang was?“, sagte Theo.
 
@@ -1267,7 +1269,7 @@ Sie legte den Film auf die Glasplatte. Ihre Finger zitterten leicht, aber sie ig
 
 „Das ist wie Netflix ohne Bild und Ton“, sagte Theo und gähnte.
 
-„Konzentrier dich. Wir brauchen November.“
+„Konzentrier dich. Wir brauchen 1974.“
 
 „Ich bin konzentriert. Ich bin nur auch gelangweilt. Das geht gleichzeitig.“
 
@@ -1343,7 +1345,7 @@ Noras Kehle wurde eng. Eine Kälte breitete sich in ihrer Brust aus, die nichts 
 
 Nora starrte auf den Bildschirm. Sechs Zeilen. Ein ganzes Leben, zusammengefasst in sechs Zeilen. Und dann vergessen. Fünfzig Jahre lang.
 
-Etwas Schweres legte sich auf Noras Schultern. Ein Mädchen hatte in ihrem Haus gelebt und gesagt, dass etwas nicht stimmt. Und niemand hatte ihr zugehört. Der Gedanke ließ sie nicht los, auch wenn sie noch nicht wusste, warum.
+Etwas Schweres legte sich auf Noras Schultern. Ein Mädchen hatte in ihrem Haus gelebt. Und vielleicht hatte ihr niemand zugehört. Der Gedanke ließ sie nicht los, auch wenn sie noch nicht wusste, warum.
 
 „Wir müssen nach Hause“, sagte sie.
 
@@ -1393,7 +1395,7 @@ Sie ging schneller. Aber sie spürte den Friedhof noch immer. Links von ihr, hin
 
 Schatten trottete neben ihr her. Eng. Näher als sonst. Sein Fell streifte ihr Bein bei jedem Schritt.
 
-Sie blieb vor dem Haus stehen. Graue Fassade. Schmale Fenster. Sie hatte dieses Haus dutzende Male angeschaut. Aber jetzt sah sie es anders. Jetzt wusste sie, wer hier gestorben war.
+Sie blieb vor dem Haus stehen. Graue Fassade. Schmale Fenster. Sie hatte dieses Haus seit gestern immer wieder angeschaut. Aber jetzt sah sie es anders. Jetzt wusste sie, wer hier gestorben war.
 
 „Nora?“, sagte Theo.
 
@@ -1457,13 +1459,13 @@ Theo stellte sich neben sie. Sein Arm berührte ihren. Er sagte nichts. Er stand
 
 ---
 
-Dann hörten sie es. Aus dem Flur.
+Dann hörten sie es. Aus dem Wohnzimmer.
 
 Ein Kratzen. Leise. Gleichmäßig. Krallen auf Putz.
 
 Nora drehte sich um. Theo folgte ihr.
 
-Schatten saß im Flur. Genau in der Mitte. Vor der Wand, gegenüber der Badezimmertür. Er saß aufrecht. Sein Rücken war gerade. Seine Ohren standen nach vorn.
+Schatten saß im Wohnzimmer. Genau in der Mitte der langen Wand. Vor der alten Blumentapete. Er saß aufrecht. Sein Rücken war gerade. Seine Ohren standen nach vorn.
 
 Er kratzte mit der rechten Pfote an der Wand. Langsam. Immer an derselben Stelle. Nicht hektisch. Nicht nervös. Ruhig und bestimmt. Als wüsste er genau, was er tat.
 
@@ -1569,7 +1571,7 @@ Schatten rührte sich nicht. Er saß neben Nora und beobachtete die Wand. Sein A
 
 Nora legte die Hand auf seinen Rücken. Sein Fell war warm. Keine Kälte. Kein Winseln. Was auch immer hinter der Wand war, Schatten hatte keine Angst davor. Er wollte, dass sie es fanden.
 
-Theos Schritte kamen zurück. Er tauchte im Flur auf, einen kleinen roten Werkzeugkasten in den Händen. Ein breites Grinsen im Gesicht.
+Theos Schritte kamen zurück. Er tauchte in der Tür auf, einen kleinen roten Werkzeugkasten in den Händen. Ein breites Grinsen im Gesicht.
 
 „Hammer, Schraubenzieher, Zange, und etwas, das entweder ein Meißel oder ein sehr aggressiver Löffel ist.“ Er klappte den Kasten auf und legte ihn auf den Boden. „Sag niemals, ich wäre nicht praktisch.“
 
@@ -1597,7 +1599,7 @@ Nora wirbelte herum. Ihr erster Gedanke war Mama. Aber hinter der Schlafzimmert�
 
 Die Tür zum Flur war geschlossen. Sie war offen gewesen. Die ganze Zeit. Kein Luftzug. Kein offenes Fenster.
 
-„Das --“, fing Theo an. Seine Stimme war dünn.
+„Das –“, fing Theo an. Seine Stimme war dünn.
 
 Nora ging zur Tür und drückte die Klinke. Die Tür ging auf. Dahinter der leere Flur. Nichts.
 
@@ -1619,11 +1621,11 @@ Nora spürte ihren Puls im Hals. Ihre Finger verkrampften sich um das Handy. Im 
 
 „Ich weiß nicht. Etwas Kleines.“
 
-Nora streckte die Hand in den Hohlraum. Ihre Finger berührten den Gegenstand. Kalt. Glatt. Hart. Sie schloss die Finger darum und zog ihn heraus.
+Nora streckte die Hand in den Hohlraum. Ihre Finger berührten den Gegenstand. Kalt. Hart. Sie schloss die Finger darum und zog ihn heraus.
 
 Staub rieselte auf den Boden. Der graue Stoff fiel ab. Und in Noras Hand lag ein Buch.
 
-Noras Finger schlossen sich darum. Ein Kribbeln lief durch ihre Hände. Nicht Kälte. Etwas anderes. Als hielte sie etwas, das lange auf sie gewartet hatte.
+Noras Finger schlossen sich fester darum. Ein Kribbeln lief durch ihre Hände. Nicht Kälte. Etwas anderes. Als hielte sie etwas, das lange auf sie gewartet hatte.
 
 Das Licht der Deckenlampe flackerte. Nur kurz, kaum eine Sekunde. Aber die Schatten an der Wand zuckten, streckten sich, wurden lang und dünn wie Finger. Nora spürte ein Summen in den Ohren. Leise, tief, wie eine Stimmgabel hinter den Schläfen.
 
@@ -1637,7 +1639,9 @@ Nora schlug den Deckel auf. Die Seiten waren vergilbt. Handgeschrieben. Mädchen
 
 Auf der ersten Seite standen zwei Worte. Mittig. Unterstrichen. In großen, sorgfältigen Buchstaben.
 
-LINAS TAGEBUCH
+*Linas Tagebuch*
+
+Darunter ein kleines Herz, mit derselben lila Tinte.
 
 Noras Atem stockte.
 
@@ -1645,7 +1649,7 @@ Noras Atem stockte.
 
 Theo beugte sich über ihre Schulter. Sein Gesicht war bleich.
 
-„Linas Tagebuch“, las er. „Wie in Lina Vogt? Wie in das Mädchen, das hier --“
+„Linas Tagebuch“, las er. „Wie in Lina Vogt? Wie in das Mädchen, das hier –“
 
 „Ja.“
 
@@ -1653,7 +1657,7 @@ Theo beugte sich über ihre Schulter. Sein Gesicht war bleich.
 
 „Oder jemand hat es dort hineingelegt, damit es gefunden wird.“ Nora schaute zu Schatten. „Von der richtigen Person.“
 
-Schatten hob den Kopf. Er schaute Nora an. Dann das Buch. Dann wieder Nora. Sein Blick glänzte im trüben Licht der Flurlampe.
+Schatten hob den Kopf. Er schaute Nora an. Dann das Buch. Dann wieder Nora. Sein Blick glänzte im trüben Licht der Deckenlampe.
 
 Lina wollte nicht vergessen werden. Und jemand hatte ihr Tagebuch in der Wand versteckt. Zugemauert. Als sollte niemand es finden.
 
@@ -1667,13 +1671,13 @@ Nora begann zu lesen.
 
 Und in diesem Moment wurde es kalt.
 
-Nicht langsam. Nicht schleichend. Schlagartig. Als hätte jemand eine Tür zu einem Eisschrank aufgerissen. Die Temperatur im Flur fiel so schnell, dass Noras Haut schmerzte. Ihr Atem kam als weiße Wolke aus ihrem Mund.
+Nicht langsam. Nicht schleichend. Schlagartig. Als hätte jemand eine Tür zu einem Eisschrank aufgerissen. Die Temperatur im Zimmer fiel so schnell, dass Noras Haut schmerzte. Ihr Atem kam als weiße Wolke aus ihrem Mund.
 
 Die Glühbirne über ihnen flackerte. Einmal. Zweimal. Das Licht zuckte, wurde schwächer, kam zurück, wurde schwächer. Schatten sprangen über die Wände, lang und dünn und zitternd.
 
 Schatten winselte.
 
-Leise, hoch, aus tiefer Kehle. Er presste sich an Noras Bein und winselte. Sein ganzer Körper zitterte.
+Leise, hoch, kläglich. Er presste sich an Noras Bein und winselte. Sein ganzer Körper zitterte.
 
 Theo griff nach Noras Arm. Seine Finger waren eiskalt. Seine Augen riesig.
 
@@ -1701,7 +1705,7 @@ Schatten winselte noch einmal. Dann wurde er still. Er legte sich hin, direkt ne
 
 Theo nickte. Er saß ihr gegenüber, die Beine angezogen, den Rücken gegen die Wand. Sein Gesicht war blass im Licht der Deckenlampe.
 
-Nora blätterte zur ersten Seite.
+Nora blätterte zum ersten Eintrag.
 
 ---
 
@@ -1763,7 +1767,7 @@ Schatten hob den Kopf. Nur kurz. Dann legte er ihn wieder auf die Pfoten. Seine 
 
 „Ich weiß.“ Nora schluckte. „Genau gleich.“
 
-„Und ihre Eltern haben es auf die Heizung geschoben.“ Theo schüttelte den Kopf. „Wie du mit den Wasserrohren.“
+„Und ihre Eltern hatten für alles eine Erklärung.“ Theo schüttelte den Kopf. „Wie du mit den Wasserrohren.“
 
 Nora sagte nichts. Weil er recht hatte.
 
@@ -1827,7 +1831,7 @@ Sie nahm das Buch wieder auf.
 
 ---
 
-„*30. Oktober. Nur noch zwei Einträge*“, sagte Nora leise. Sie spürte es. Das Ende näherte sich. Die letzten Seiten.
+„*30. Oktober.* Nur noch zwei Einträge“, sagte Nora leise. Sie spürte es. Das Ende näherte sich. Die letzten Seiten.
 
 „*Ich habe nachgedacht. Im Keller ist es am kältesten. Luna weigert sich, die Kellertreppe runterzugehen. Sie zittert am ganzen Körper und zerrt mich weg. Aber ich glaube, da unten ist die Antwort. Da unten hat es angefangen.*“
 
@@ -1859,7 +1863,7 @@ Noras Kehle war zugeschnürt. Sie drückte das Tagebuch an sich. Ein Mädchen. Z
 
 Schatten lag still zwischen ihnen. Sein warmer Körper. Sein ruhiger Atem. Er lag einfach da, als wüsste er, dass die Kinder ihn brauchten.
 
-Nora strich über den Einband des Tagebuchs. Über den Namen. Über das kleine Herz.
+Nora schlug die erste Seite auf und strich darüber. Über den Namen. Über das kleine Herz.
 
 „Wir haben dich gehört, Lina“, flüsterte sie. „Jemand hat dir zugehört.“
 
@@ -2077,7 +2081,7 @@ Nora rannte.
 
 Die Kellerstufen flogen unter ihren Füßen vorbei. Ihre Lunge brannte. Hinter ihr hörte sie Theos schnelle Schritte und Schattens Krallen auf dem Stein. Höher. Schneller. Weg von den Fußspuren. Weg von der Kälte. Weg von dem, was dort unten auf sie gewartet hatte.
 
-Sie riss die Haustür zum Treppenhaus auf und stolperte in den Flur. Tageslicht. Warme Luft. Staub in den Sonnenstrahlen.
+Sie riss die Kellertür auf und stolperte in den Flur. Tageslicht. Warme Luft. Staub in den Sonnenstrahlen.
 
 Nora blieb stehen. Sie stützte die Hände auf die Knie und atmete. Ihr Puls dröhnte in den Ohren.
 
@@ -2157,7 +2161,7 @@ Schatten ging voraus. Er trottete durch den Flur, die Nase am Boden. Kein Knurre
 
 „Wonach suchen wir genau?“, sagte Theo.
 
-„Nach allem, was erklärt, wie Frau Silber die Geister befreit hat.“ Nora ging ins Arbeitszimmer. Die Namensliste an der Wand. Die Kerzenreste auf dem Schreibtisch. Bücher über Gravenstedts Geschichte. „Sie hat das jahrelang gemacht. Sie muss aufgeschrieben haben, wie.“
+„Nach allem, was erklärt, ob und wie Frau Silber den Geistern geholfen hat.“ Nora ging ins Arbeitszimmer. Die Namensliste an der Wand. Die Kerzenreste auf dem Schreibtisch. Bücher über Gravenstedts Geschichte. „Sie hat das jahrelang gemacht. Sie muss aufgeschrieben haben, wie.“
 
 „Vielleicht hatte sie auch einfach ein System von ‚Hund knurrt, Frau rennt hin'.“
 
@@ -2361,7 +2365,7 @@ Theo riss die Augen auf. „Wie?“
 
 „Wir lesen ihr vor“, sagte Nora. „Das Tagebuch. Laut. Alles. Jedes Wort. In ihrem Zimmer.“
 
-„Ihrem Zimmer ist dein Zimmer.“
+„Ihr Zimmer ist dein Zimmer.“
 
 „Ja.“
 
@@ -2497,15 +2501,17 @@ Oben.
 
 Nora starrte auf das Wort im Kondenswasser. Die Buchstaben waren klar und deutlich. Kein Zweifel. Kein Zittern in der Schrift. Daneben stand noch immer das andere Wort: DANKE.
 
-„Oben“, sagte Theo. Er stand neben ihr, das Tagebuch an die Brust gedrückt. „Sie meint Frau Silbers Wohnung.“
+„Oben“, sagte Theo. Er stand neben ihr, das Tagebuch an die Brust gedrückt. Irgendwann in der Nacht hatte Nora es ihm gegeben. Seitdem ließ er es nicht mehr los. „Sie meint Frau Silbers Wohnung.“
 
-Nora nickte. Ihr Herz schlug ruhig. Zum ersten Mal seit Tagen schlug es ruhig. Die Kälte war aus der Wohnung gewichen. Die Luft fühlte sich an wie nach einem Gewitter. Frisch. Weich. Als hätte jemand ein Fenster geöffnet.
+Nora nickte. Lina hatte hier unten gewohnt, in Noras Zimmer. Aber die Kälte und das Klopfen waren immer von oben gekommen. Aus der leeren Wohnung. Als hätte Lina sich dorthin zurückgezogen, wo niemand sie störte.
+
+Ihr Herz schlug ruhig. Zum ersten Mal seit Tagen schlug es ruhig. Die Kälte war aus der Wohnung gewichen. Die Luft fühlte sich an wie nach einem Gewitter. Frisch. Weich. Als hätte jemand ein Fenster geöffnet.
 
 Schatten stand an der Wohnungstür. Er kratzte nicht. Er winselte nicht. Er wartete einfach. Sein Schwanz pendelte langsam hin und her.
 
 „Dann gehen wir hoch“, sagte Nora.
 
-Theo schaute auf das Tagebuch in seinen Händen. Auf den Ledereinband. Auf den Namen in Mädchenschrift.
+Theo schaute auf das Tagebuch in seinen Händen. Auf den Ledereinband. Auf die erste Seite mit dem Namen in Mädchenschrift.
 
 „Soll ich es mitnehmen?“, sagte er.
 
@@ -2529,7 +2535,7 @@ Der Flur lag im Dunkeln. Mondlicht fiel durch das Küchenfenster am Ende des Gan
 
 „Ich weiß.“
 
-Sie ging den Flur entlang. Vorbei an der Küche. Vorbei an dem Zimmer mit den Notizen und der Namensliste. Bis zum Ende des Gangs. Bis zu der Tür, die immer geschlossen gewesen war. Das kalte Zimmer. Der Raum, den Schatten am ersten Tag gemieden hatte. Vor dem er sich quergestellt und geknurrt hatte. In den er sie nicht gelassen hatte.
+Sie ging den Flur entlang. Vorbei an der Küche. Vorbei an dem Zimmer mit den Notizen und der Namensliste. Bis zum Ende des Gangs. Bis zu der Tür, durch die sie nie hatten gehen wollen. Das kalte Zimmer. Der Raum, den Schatten am ersten Tag gemieden hatte. Vor dem er sich quergestellt hatte. In den er sie nicht gelassen hatte.
 
 Die Tür stand offen.
 
@@ -2537,7 +2543,7 @@ Nora blieb stehen. Ihre Finger kribbelten. Aber nicht vor Angst. Es war ein ande
 
 „Wartet hier“, sagte sie leise.
 
-Theo riss die Augen auf. „Was? Nein. Nora --“
+Theo riss die Augen auf. „Was? Nein. Nora –“
 
 „Nur eine Minute.“
 
@@ -2565,7 +2571,7 @@ Und etwas anderes.
 
 ---
 
-Ein Lichtfleck. Klein. Rund. Wie ein Sonnenstrahl, der durch ein Blatt fällt. Er lag auf dem Boden, direkt neben Schattens Pfote. Goldfarben. Warm. Er bewegte sich langsam, wie Sonnenlicht über eine Wand wandert.
+Ein Lichtfleck. Klein. Rund. Wie ein Sonnenstrahl, der durch ein Blatt fällt. Er lag auf dem Boden, ein paar Schritte vor Schatten. Goldfarben. Warm. Er bewegte sich langsam, wie Sonnenlicht über eine Wand wandert.
 
 Aber es war Nacht. Der Mond schien silbern. Keine Sonne. Keine Lampe. Nichts, das dieses Licht erklären konnte.
 
@@ -2589,7 +2595,7 @@ Das Licht pulsierte stärker. Wärmer. Nora spürte es auf ihrem Gesicht. Wie So
 
 Theo kniete sich hin. Ganz vorsichtig legte er das Tagebuch neben das Licht. Es gehörte ihr.
 
-Schatten hob den Kopf. Er stand langsam auf und ging zum Licht. Drei Schritte. Dann setzte er sich davor und legte den Kopf schief. Als würde er jemanden verabschieden, den er lange gekannt hatte.
+Schatten hob den Kopf. Er stand langsam auf und ging zum Licht. Drei Schritte. Dann legte er sich davor und neigte den Kopf. Als würde er jemanden verabschieden, den er lange gekannt hatte.
 
 Und für einen Herzschlag lang war Nora Lina. Sie spürte den kalten Kellerboden unter nackten Füßen. Die Angst. Die Einsamkeit. Fünfzig Jahre Warten. Dann war es vorbei. Ein Wimpernschlag. Nora war wieder Nora. Aber sie verstand jetzt.
 
@@ -2767,7 +2773,7 @@ Die Tür stand offen wie immer. Schatten schob sich an ihnen vorbei und lief den
 
 Die Wohnung roch nach alten Büchern und Staub. Aber die Kälte war weg.
 
-Theo blieb vor der Namensliste stehen. Ganz unten: *Lina Vogt? – 1974?* Das Fragezeichen stand noch da.
+Theo blieb vor der Namensliste stehen. Ganz unten: *Lina Vogt? – 1974?* Die Fragezeichen standen noch da.
 
 „Frau Silber wusste von Lina“, murmelte er. „Aber sie hat es nicht geschafft.“
 
@@ -2869,7 +2875,7 @@ Der Kreis war durchgestrichen. Zwei Linien, über Kreuz.
 
 „Sie ist frei“, sagte Theo leise. „Frau Silber hat sie durchgestrichen.“
 
-„Frau Silber ist seit drei Monaten verschwunden“, sagte Nora.
+„Frau Silber ist seit Monaten verschwunden“, sagte Nora.
 
 Sie beugte sich dichter über das Papier. Die Linien glänzten. Nur ein bisschen. So wie Tinte glänzt, bevor sie trocknet.
 
@@ -3189,7 +3195,7 @@ Irgendwo in Gravenstedt schlug eine Kirchturmuhr. Einmal. Zweimal.
 
 Nora konnte nicht schlafen.
 
-Sie saß am Fenster. Hinter ihr lag die Wohnung im Dunkeln. Aus Theos Zimmer kam leises Schnarchen. Die Heizung tickte. Vertraute Geräusche.
+Sie saß am Fenster. Hinter ihr lag die Wohnung im Dunkeln. Die Heizung tickte. Vertraute Geräusche.
 
 Schatten lag neben ihr auf dem Boden. Sein warmer Körper drückte gegen ihr Bein. Seine Augen waren offen. Zwei helle Punkte im Halbdunkel.
 

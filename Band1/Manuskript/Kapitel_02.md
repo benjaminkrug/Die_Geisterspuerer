@@ -46,7 +46,7 @@ Sie schlug Nora entgegen wie eine Wand. Von einem Schritt zum nächsten sank die
 
 Die Luft im Flur war plötzlich so kalt, dass jeder Atemzug in der Lunge brannte. Wie im Winter. Wie draußen, bei Minusgraden. Nur dass es Juli war und die Sonne durch die Küchenfenster geschienen hatte.
 
-Der Hund, der ihnen durch die Wohnung gefolgt war, blieb stehen. Drei Schritte vor dem Raum. Er setzte sich quer in den Flur und blockierte den Weg. Sein Fell sträubte sich vom Nacken bis zum Schwanz.
+Der Hund, der vor ihnen durch die Wohnung gelaufen war, blieb stehen. Drei Schritte vor dem Raum. Er setzte sich quer in den Flur und blockierte den Weg. Sein Fell sträubte sich vom Nacken bis zum Schwanz.
 
 „Siehst du das?“, flüsterte Theo.
 
@@ -88,7 +88,7 @@ Nora musste fast lachen. Fast. Der Hund war das Ruhigste in diesem ganzen Haus. 
 
 ---
 
-Die Mutter kam um sechs. Müde, aber lächelnd. „Na? Alles klar bei euch?“
+Die Mutter kam um sechs. Müde, aber lächelnd. „Na? Alles klar bei euch? Unten hab ich übrigens die Nachbarin getroffen, Frau Held. Die hat geredet, als hätte sie seit Wochen niemanden gesehen.“
 
 Nora sagte: „Alles gut.“
 

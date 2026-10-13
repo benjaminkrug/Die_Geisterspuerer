@@ -80,7 +80,7 @@ Theo riss die Augen auf. „Wie?“
 
 „Wir lesen ihr vor“, sagte Nora. „Das Tagebuch. Laut. Alles. Jedes Wort. In ihrem Zimmer.“
 
-„Ihrem Zimmer ist dein Zimmer.“
+„Ihr Zimmer ist dein Zimmer.“
 
 „Ja.“
 

@@ -28,7 +28,7 @@ Ihre Mutter kam um den Wagen herum. Sie lächelte, aber es war das Lächeln, das
 
 Nora sagte nichts. Sie schaute an der Fassade hoch und suchte nach etwas, das sie mögen konnte. Der Eingang hatte einen Steinbogen. Das war hübsch. Irgendwie.
 
-„Kommt“, sagte ihre Mutter und hob einen Karton aus dem Kofferraum. „Erste Etage. Ihr werdet sie mögen.“
+„Kommt“, sagte ihre Mutter und hob einen Karton von der Ladefläche. „Erste Etage. Ihr werdet sie mögen.“
 
 Theo schnaubte.
 
@@ -104,7 +104,7 @@ Gänsehaut kroch über Noras Arme. Ein metallischer Geschmack lag auf ihrer Zung
 
 „Hast du das gehört?“, flüsterte Theo.
 
-Nora schaute zur Decke. Über ihnen lag der zweite Stock. Die Wohnung mit dem vergilbten Klingelschild.
+Nora schaute zur Decke. Über ihnen lag der zweite Stock. Die leere Wohnung.
 
 „Das ist nur das Holz“, sagte sie. „Das dehnt sich aus und zieht sich zusammen. So ein Haus macht solche Geräusche.“
 
@@ -112,7 +112,7 @@ Nora schaute zur Decke. Über ihnen lag der zweite Stock. Die Wohnung mit dem ve
 
 „Hat es nicht.“
 
-Es hatte es.
+Doch. Hatte es.
 
 „Großartig“, sagte Theo. Er hatte sich auf einen Umzugskarton gesetzt und die Arme verschränkt. „Erster Tag. Fremde Stadt. Gruselwohnung. Und Mama ist weg.“
 
@@ -140,11 +140,11 @@ Stille.
 
 Kein Witz in seiner Stimme. Keine Beschwerde. Theo klang überrascht.
 
-Nora ging in die Küche. Theo stand am Fenster, die Stirn gegen die Scheibe gedrückt. Er zeigte nach unten.
+Nora ging ins Wohnzimmer. Theo stand am Erkerfenster, die Stirn gegen die Scheibe gedrückt. Er zeigte nach unten.
 
 „Da sitzt ein Hund.“
 
-Nora stellte sich neben ihn und schaute hinunter. Vor der Haustür, auf der Steinstufe, saß ein Hund. Mittelgroß. Dunkles Fell, verfilzt und stumpf. Dünn – selbst von oben konnte sie die Rippen erahnen. Er saß völlig reglos da und starrte die Haustür an. Nicht die Straße. Nicht die Passanten. Die Tür.
+Nora stellte sich neben ihn und schaute hinunter. Vor der Haustür, auf der Steinstufe, saß ein Hund. Mittelgroß. Dunkles Fell, verfilzt und stumpf. Dünn – selbst von oben konnte sie die Rippen erahnen. Er saß völlig reglos da und starrte die Haustür an. Nicht die Straße. Die Tür.
 
 „Seit wann sitzt der da?“, murmelte sie.
 

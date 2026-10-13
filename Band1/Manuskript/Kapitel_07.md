@@ -16,7 +16,7 @@ Noras Kehle wurde eng. Eine Kälte breitete sich in ihrer Brust aus, die nichts 
 
 Nora starrte auf den Bildschirm. Sechs Zeilen. Ein ganzes Leben, zusammengefasst in sechs Zeilen. Und dann vergessen. Fünfzig Jahre lang.
 
-Etwas Schweres legte sich auf Noras Schultern. Ein Mädchen hatte in ihrem Haus gelebt und gesagt, dass etwas nicht stimmt. Und niemand hatte ihr zugehört. Der Gedanke ließ sie nicht los, auch wenn sie noch nicht wusste, warum.
+Etwas Schweres legte sich auf Noras Schultern. Ein Mädchen hatte in ihrem Haus gelebt. Und vielleicht hatte ihr niemand zugehört. Der Gedanke ließ sie nicht los, auch wenn sie noch nicht wusste, warum.
 
 „Wir müssen nach Hause“, sagte sie.
 
@@ -66,7 +66,7 @@ Sie ging schneller. Aber sie spürte den Friedhof noch immer. Links von ihr, hin
 
 Schatten trottete neben ihr her. Eng. Näher als sonst. Sein Fell streifte ihr Bein bei jedem Schritt.
 
-Sie blieb vor dem Haus stehen. Graue Fassade. Schmale Fenster. Sie hatte dieses Haus dutzende Male angeschaut. Aber jetzt sah sie es anders. Jetzt wusste sie, wer hier gestorben war.
+Sie blieb vor dem Haus stehen. Graue Fassade. Schmale Fenster. Sie hatte dieses Haus seit gestern immer wieder angeschaut. Aber jetzt sah sie es anders. Jetzt wusste sie, wer hier gestorben war.
 
 „Nora?“, sagte Theo.
 
@@ -130,13 +130,13 @@ Theo stellte sich neben sie. Sein Arm berührte ihren. Er sagte nichts. Er stand
 
 ---
 
-Dann hörten sie es. Aus dem Flur.
+Dann hörten sie es. Aus dem Wohnzimmer.
 
 Ein Kratzen. Leise. Gleichmäßig. Krallen auf Putz.
 
 Nora drehte sich um. Theo folgte ihr.
 
-Schatten saß im Flur. Genau in der Mitte. Vor der Wand, gegenüber der Badezimmertür. Er saß aufrecht. Sein Rücken war gerade. Seine Ohren standen nach vorn.
+Schatten saß im Wohnzimmer. Genau in der Mitte der langen Wand. Vor der alten Blumentapete. Er saß aufrecht. Sein Rücken war gerade. Seine Ohren standen nach vorn.
 
 Er kratzte mit der rechten Pfote an der Wand. Langsam. Immer an derselben Stelle. Nicht hektisch. Nicht nervös. Ruhig und bestimmt. Als wüsste er genau, was er tat.
 

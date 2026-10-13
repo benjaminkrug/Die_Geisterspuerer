@@ -78,7 +78,7 @@ Schatten rührte sich nicht. Er saß neben Nora und beobachtete die Wand. Sein A
 
 Nora legte die Hand auf seinen Rücken. Sein Fell war warm. Keine Kälte. Kein Winseln. Was auch immer hinter der Wand war, Schatten hatte keine Angst davor. Er wollte, dass sie es fanden.
 
-Theos Schritte kamen zurück. Er tauchte im Flur auf, einen kleinen roten Werkzeugkasten in den Händen. Ein breites Grinsen im Gesicht.
+Theos Schritte kamen zurück. Er tauchte in der Tür auf, einen kleinen roten Werkzeugkasten in den Händen. Ein breites Grinsen im Gesicht.
 
 „Hammer, Schraubenzieher, Zange, und etwas, das entweder ein Meißel oder ein sehr aggressiver Löffel ist.“ Er klappte den Kasten auf und legte ihn auf den Boden. „Sag niemals, ich wäre nicht praktisch.“
 
@@ -106,7 +106,7 @@ Nora wirbelte herum. Ihr erster Gedanke war Mama. Aber hinter der Schlafzimmert�
 
 Die Tür zum Flur war geschlossen. Sie war offen gewesen. Die ganze Zeit. Kein Luftzug. Kein offenes Fenster.
 
-„Das --“, fing Theo an. Seine Stimme war dünn.
+„Das –“, fing Theo an. Seine Stimme war dünn.
 
 Nora ging zur Tür und drückte die Klinke. Die Tür ging auf. Dahinter der leere Flur. Nichts.
 
@@ -128,11 +128,11 @@ Nora spürte ihren Puls im Hals. Ihre Finger verkrampften sich um das Handy. Im 
 
 „Ich weiß nicht. Etwas Kleines.“
 
-Nora streckte die Hand in den Hohlraum. Ihre Finger berührten den Gegenstand. Kalt. Glatt. Hart. Sie schloss die Finger darum und zog ihn heraus.
+Nora streckte die Hand in den Hohlraum. Ihre Finger berührten den Gegenstand. Kalt. Hart. Sie schloss die Finger darum und zog ihn heraus.
 
 Staub rieselte auf den Boden. Der graue Stoff fiel ab. Und in Noras Hand lag ein Buch.
 
-Noras Finger schlossen sich darum. Ein Kribbeln lief durch ihre Hände. Nicht Kälte. Etwas anderes. Als hielte sie etwas, das lange auf sie gewartet hatte.
+Noras Finger schlossen sich fester darum. Ein Kribbeln lief durch ihre Hände. Nicht Kälte. Etwas anderes. Als hielte sie etwas, das lange auf sie gewartet hatte.
 
 Das Licht der Deckenlampe flackerte. Nur kurz, kaum eine Sekunde. Aber die Schatten an der Wand zuckten, streckten sich, wurden lang und dünn wie Finger. Nora spürte ein Summen in den Ohren. Leise, tief, wie eine Stimmgabel hinter den Schläfen.
 
@@ -146,7 +146,9 @@ Nora schlug den Deckel auf. Die Seiten waren vergilbt. Handgeschrieben. Mädchen
 
 Auf der ersten Seite standen zwei Worte. Mittig. Unterstrichen. In großen, sorgfältigen Buchstaben.
 
-LINAS TAGEBUCH
+*Linas Tagebuch*
+
+Darunter ein kleines Herz, mit derselben lila Tinte.
 
 Noras Atem stockte.
 
@@ -154,7 +156,7 @@ Noras Atem stockte.
 
 Theo beugte sich über ihre Schulter. Sein Gesicht war bleich.
 
-„Linas Tagebuch“, las er. „Wie in Lina Vogt? Wie in das Mädchen, das hier --“
+„Linas Tagebuch“, las er. „Wie in Lina Vogt? Wie in das Mädchen, das hier –“
 
 „Ja.“
 
@@ -162,7 +164,7 @@ Theo beugte sich über ihre Schulter. Sein Gesicht war bleich.
 
 „Oder jemand hat es dort hineingelegt, damit es gefunden wird.“ Nora schaute zu Schatten. „Von der richtigen Person.“
 
-Schatten hob den Kopf. Er schaute Nora an. Dann das Buch. Dann wieder Nora. Sein Blick glänzte im trüben Licht der Flurlampe.
+Schatten hob den Kopf. Er schaute Nora an. Dann das Buch. Dann wieder Nora. Sein Blick glänzte im trüben Licht der Deckenlampe.
 
 Lina wollte nicht vergessen werden. Und jemand hatte ihr Tagebuch in der Wand versteckt. Zugemauert. Als sollte niemand es finden.
 
@@ -176,13 +178,13 @@ Nora begann zu lesen.
 
 Und in diesem Moment wurde es kalt.
 
-Nicht langsam. Nicht schleichend. Schlagartig. Als hätte jemand eine Tür zu einem Eisschrank aufgerissen. Die Temperatur im Flur fiel so schnell, dass Noras Haut schmerzte. Ihr Atem kam als weiße Wolke aus ihrem Mund.
+Nicht langsam. Nicht schleichend. Schlagartig. Als hätte jemand eine Tür zu einem Eisschrank aufgerissen. Die Temperatur im Zimmer fiel so schnell, dass Noras Haut schmerzte. Ihr Atem kam als weiße Wolke aus ihrem Mund.
 
 Die Glühbirne über ihnen flackerte. Einmal. Zweimal. Das Licht zuckte, wurde schwächer, kam zurück, wurde schwächer. Schatten sprangen über die Wände, lang und dünn und zitternd.
 
 Schatten winselte.
 
-Leise, hoch, aus tiefer Kehle. Er presste sich an Noras Bein und winselte. Sein ganzer Körper zitterte.
+Leise, hoch, kläglich. Er presste sich an Noras Bein und winselte. Sein ganzer Körper zitterte.
 
 Theo griff nach Noras Arm. Seine Finger waren eiskalt. Seine Augen riesig.
 

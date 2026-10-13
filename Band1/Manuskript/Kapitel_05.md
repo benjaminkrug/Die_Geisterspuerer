@@ -34,7 +34,7 @@ Sie gingen die Treppe hoch. Nora zuerst. Schatten neben ihr. Seine Krallen klick
 
 Der zweite Stock. Der Flur. Die Tür mit dem Klingelschild SILBER.
 
-Sie stand offen. Einen Spalt breit. So wie beim ersten Mal. Nur war es diesmal anders.
+Sie stand offen. Einen Spalt breit. Nur war es diesmal anders.
 
 Diesmal war die Luft kühl. Nicht eisig wie beim letzten Mal. Eher wie ein Keller im Sommer. Nora schluckte. Da war ein metallischer Geschmack auf ihrer Zunge. Wie Münzen. Wie Blut nach einem Biss auf die Wange. Fremd und falsch.
 
@@ -50,7 +50,7 @@ Noras Herz setzte einen Schlag aus. Beim letzten Mal hatte Schatten sich geweige
 
 „Ja.“
 
-„Er geht rein. Er geht einfach rein. Der Hund, der letztes Mal fast die Tür angeknurrt hat.“
+„Er geht rein. Er geht einfach rein. Der Hund, der letztes Mal die Tür angeknurrt hat.“
 
 „Ich sehe es, Theo.“
 
@@ -222,7 +222,7 @@ Stille.
 
 Nora hielt den Atem an. Ihre Finger krallten sich in Theos Ärmel. Theo stand wie eingefroren neben ihr. Sein Gesicht war weiß. Seine Augen riesig.
 
-Schatten knurrte. Leise. Tief in der Kehle.
+Schatten winselte. Leise. Kläglich.
 
 Kein Laut aus dem Flur. Kein Knarzen. Kein Rascheln. Nur die schwere, drückende Stille einer leeren Wohnung.
 

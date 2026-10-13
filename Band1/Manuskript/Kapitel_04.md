@@ -56,7 +56,7 @@ Sie schaute ihn an. Theo. Ihr kleiner Bruder, der sich vor seinem eigenen Schatt
 
 „Mama schreibt keine Hilferufe ans Küchenfenster, Nora. Mama schreibt ‚Hab euch lieb' auf Zettel.“ Er legte kurz die Hand auf ihren Arm. „Aber wir kriegen das raus. Okay?“
 
-Schatten lag in seinem Körbchen neben der Heizung. Er hatte den Kopf gehoben und schaute zum Fenster. Nicht zu Nora. Nicht zu Theo. Zum Fenster. Seine Ohren standen aufrecht. Sein Fell lag glatt. Keine Reaktion wie gestern Nacht. Kein Winseln, kein gesträubtes Fell.
+Schatten lag in dem neuen Körbchen neben der Heizung. Mama hatte es am Abend noch besorgt, zusammen mit einer Leine. Er hatte den Kopf gehoben und schaute zum Fenster. Nicht zu Nora. Nicht zu Theo. Zum Fenster. Seine Ohren standen aufrecht. Sein Fell lag glatt. Keine Reaktion wie gestern Nacht. Kein Winseln, kein gesträubtes Fell.
 
 Nora beobachtete ihn. Der Hund war ruhig. Fast zu ruhig. Als wäre er nicht überrascht. Als hätte er das Wort erwartet.
 
@@ -189,6 +189,8 @@ Dann ein Geräusch aus dem Flur. Leise. Krallen auf Holz.
 Nora drehte sich um.
 
 Schatten stand am Ende des Flurs. Vor der Wohnungstür. Aber er schaute nicht zur Tür. Er schaute nach links. Zum Treppenhaus. Nach oben.
+
+Nora öffnete die Wohnungstür. Schatten ging hinaus, ohne sich umzusehen.
 
 Er saß vor der Treppe zum zweiten Stock. Aufrecht. Ohren nach vorn. Reglos.
 

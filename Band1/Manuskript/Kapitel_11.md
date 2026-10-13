@@ -4,7 +4,7 @@ Nora rannte.
 
 Die Kellerstufen flogen unter ihren Füßen vorbei. Ihre Lunge brannte. Hinter ihr hörte sie Theos schnelle Schritte und Schattens Krallen auf dem Stein. Höher. Schneller. Weg von den Fußspuren. Weg von der Kälte. Weg von dem, was dort unten auf sie gewartet hatte.
 
-Sie riss die Haustür zum Treppenhaus auf und stolperte in den Flur. Tageslicht. Warme Luft. Staub in den Sonnenstrahlen.
+Sie riss die Kellertür auf und stolperte in den Flur. Tageslicht. Warme Luft. Staub in den Sonnenstrahlen.
 
 Nora blieb stehen. Sie stützte die Hände auf die Knie und atmete. Ihr Puls dröhnte in den Ohren.
 
@@ -84,7 +84,7 @@ Schatten ging voraus. Er trottete durch den Flur, die Nase am Boden. Kein Knurre
 
 „Wonach suchen wir genau?“, sagte Theo.
 
-„Nach allem, was erklärt, wie Frau Silber die Geister befreit hat.“ Nora ging ins Arbeitszimmer. Die Namensliste an der Wand. Die Kerzenreste auf dem Schreibtisch. Bücher über Gravenstedts Geschichte. „Sie hat das jahrelang gemacht. Sie muss aufgeschrieben haben, wie.“
+„Nach allem, was erklärt, ob und wie Frau Silber den Geistern geholfen hat.“ Nora ging ins Arbeitszimmer. Die Namensliste an der Wand. Die Kerzenreste auf dem Schreibtisch. Bücher über Gravenstedts Geschichte. „Sie hat das jahrelang gemacht. Sie muss aufgeschrieben haben, wie.“
 
 „Vielleicht hatte sie auch einfach ein System von ‚Hund knurrt, Frau rennt hin'.“
 

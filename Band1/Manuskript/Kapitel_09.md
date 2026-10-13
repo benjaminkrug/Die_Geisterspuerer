@@ -18,7 +18,7 @@ Schatten winselte noch einmal. Dann wurde er still. Er legte sich hin, direkt ne
 
 Theo nickte. Er saß ihr gegenüber, die Beine angezogen, den Rücken gegen die Wand. Sein Gesicht war blass im Licht der Deckenlampe.
 
-Nora blätterte zur ersten Seite.
+Nora blätterte zum ersten Eintrag.
 
 ---
 
@@ -80,7 +80,7 @@ Schatten hob den Kopf. Nur kurz. Dann legte er ihn wieder auf die Pfoten. Seine 
 
 „Ich weiß.“ Nora schluckte. „Genau gleich.“
 
-„Und ihre Eltern haben es auf die Heizung geschoben.“ Theo schüttelte den Kopf. „Wie du mit den Wasserrohren.“
+„Und ihre Eltern hatten für alles eine Erklärung.“ Theo schüttelte den Kopf. „Wie du mit den Wasserrohren.“
 
 Nora sagte nichts. Weil er recht hatte.
 
@@ -144,7 +144,7 @@ Sie nahm das Buch wieder auf.
 
 ---
 
-„*30. Oktober. Nur noch zwei Einträge*“, sagte Nora leise. Sie spürte es. Das Ende näherte sich. Die letzten Seiten.
+„*30. Oktober.* Nur noch zwei Einträge“, sagte Nora leise. Sie spürte es. Das Ende näherte sich. Die letzten Seiten.
 
 „*Ich habe nachgedacht. Im Keller ist es am kältesten. Luna weigert sich, die Kellertreppe runterzugehen. Sie zittert am ganzen Körper und zerrt mich weg. Aber ich glaube, da unten ist die Antwort. Da unten hat es angefangen.*“
 
@@ -176,7 +176,7 @@ Noras Kehle war zugeschnürt. Sie drückte das Tagebuch an sich. Ein Mädchen. Z
 
 Schatten lag still zwischen ihnen. Sein warmer Körper. Sein ruhiger Atem. Er lag einfach da, als wüsste er, dass die Kinder ihn brauchten.
 
-Nora strich über den Einband des Tagebuchs. Über den Namen. Über das kleine Herz.
+Nora schlug die erste Seite auf und strich darüber. Über den Namen. Über das kleine Herz.
 
 „Wir haben dich gehört, Lina“, flüsterte sie. „Jemand hat dir zugehört.“
 

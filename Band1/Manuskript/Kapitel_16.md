@@ -84,7 +84,7 @@ Irgendwo in Gravenstedt schlug eine Kirchturmuhr. Einmal. Zweimal.
 
 Nora konnte nicht schlafen.
 
-Sie saß am Fenster. Hinter ihr lag die Wohnung im Dunkeln. Aus Theos Zimmer kam leises Schnarchen. Die Heizung tickte. Vertraute Geräusche.
+Sie saß am Fenster. Hinter ihr lag die Wohnung im Dunkeln. Die Heizung tickte. Vertraute Geräusche.
 
 Schatten lag neben ihr auf dem Boden. Sein warmer Körper drückte gegen ihr Bein. Seine Augen waren offen. Zwei helle Punkte im Halbdunkel.
 

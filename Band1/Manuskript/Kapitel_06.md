@@ -88,7 +88,7 @@ Die Bibliothek roch nach altem Papier und Kaffee. Regale bis zur Decke. Irgendwo
 
 Eine Frau mit Brille und grauem Dutt saß hinter der Theke. Nora ging zu ihr.
 
-„Entschuldigung. Wir suchen Informationen über eine Bewohnerin von Gravenstedt. Margret Silber.“
+„Entschuldigung. Wir suchen Informationen über eine Bewohnerin von Gravenstedt. M. Silber.“
 
 Die Frau schaute über den Rand ihrer Brille. „Für die Schule?“
 
@@ -108,7 +108,7 @@ Theo folgte ihr die Treppe hinunter. „Wir lügen jetzt auch noch“, murmelte 
 
 Das Untergeschoss war kühl und still. Neonlicht summte an der Decke. Lange Reihen von Regalen mit gebundenen Zeitungsausgaben. An der Wand standen drei alte Computer.
 
-Nora setzte sich an den ersten. Die Suchmaske der digitalen Zeitung lud langsam. Sie tippte: „Margret Silber Gravenstedt.“
+Nora setzte sich an den ersten. Die Suchmaske der digitalen Zeitung lud langsam. Sie tippte: „M. Silber Gravenstedt.“
 
 Ein Ergebnis.
 
@@ -134,7 +134,7 @@ Nora starrte auf den Bildschirm. Margret Silber. 75 Jahre. Alleinlebend. Kirchga
 
 Das Neonlicht summte. Noras Nacken kribbelte. Sie drehte sich um. Hinter ihr nur leere Stuhlreihen und das Surren der Neonröhren. Sie dachte an Schatten, der oben vor der Tür wartete. Ruhig. Geduldig. Als hätte er gewusst, was sie finden würden.
 
-„Was hat sie so erschreckt?“, flüsterte Nora. „Was kann eine Frau erschrecken, die vierzig Jahre lang –“ Sie brach ab.
+„Was hat sie so erschreckt?“, flüsterte Nora. „Was kann eine Frau erschrecken, die so lange allein in so einem Haus gewohnt hat –“ Sie brach ab.
 
 „Vierzig Jahre lang was?“, sagte Theo.
 
@@ -166,7 +166,7 @@ Sie legte den Film auf die Glasplatte. Ihre Finger zitterten leicht, aber sie ig
 
 „Das ist wie Netflix ohne Bild und Ton“, sagte Theo und gähnte.
 
-„Konzentrier dich. Wir brauchen November.“
+„Konzentrier dich. Wir brauchen 1974.“
 
 „Ich bin konzentriert. Ich bin nur auch gelangweilt. Das geht gleichzeitig.“
 
