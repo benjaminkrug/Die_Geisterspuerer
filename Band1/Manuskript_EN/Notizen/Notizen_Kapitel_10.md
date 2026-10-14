@@ -96,3 +96,86 @@ K10 · Absatz 85 · DE: „Genau dort, wo jemand gestanden hatte, den sie nicht 
 - *Schatten stand auf.* zuerst *Shadow got up.* → angeglichen an K3/K11 *Shadow stood up.*
 - *Nicht vor Angst.* zuerst *Not with fear.* → angeglichen an K1/K11 *Not from fear.* (dann auch *From confusion.*)
 - **Gewollt verschieden:** *Er winselte.* K6 *He was whining.* (Beobachtung durchs Fenster, Dauer) ↔ K10 *He whined.* (Ein-Satz-Absatz, plötzliches Ereignis nach *he did something*). Gleiches Verb, nur die Zeitform folgt der Szene.
+
+## Runde 2 (Block 3)
+
+Grundlage: `Pruefung/D3_K10.md`, `D4_K10.md`, `D5_K10.md`, `D6_K09-K12.md` (Teil K10), Pilot 5.1–5.3, Wortliste. DE_Basis K10 neu: *„Wie alte Münzen.“* (Blut gestrichen).
+K10 ist das Kapitel, das der US-Lektor noch „übersetzt“ nennt → Schwerpunkt Erzähltext. Zeilen = Zeilennummern (DE = EN).
+
+| Befund (Quelle · Nr./Zeile) | Entscheidung | Grund (eine Zeile) |
+|---|---|---|
+| DE-Änderung Z.43 (Blut gestrichen) | umgesetzt | → *There was a metallic taste on her tongue. Like old coins.* |
+| D4 Z.123 *couldn’t see it* (Präsenz = *it*) | angenommen | → *Nora couldn’t see anyone. But she could FEEL it.* (A7: nie *it* für sie; zweites *it* = das Gefühl). |
+| D5 #1 Z.3 *down them* | angenommen | → *Nora pointed her phone’s flashlight down the stairs.* |
+| D5 #2 Z.13 *Hackles up, steps calm.* | angenommen | → *His hackles were up, but his steps were calm. He just went.* (*hackles* A4 bleibt; *didn’t hesitate* abgelehnt = doppelt zu *He just went*). |
+| D5 #3 *the damp* (Z.19, Z.81) | angenommen | → *swollen with moisture* · *decades of moisture*. |
+| D5 #4 Z.19 *pushed down the handle* | angenommen | → *Nora pressed the handle.* (*tried* abgelehnt: Versuch statt Tun). |
+| D5 #5 Z.19 *Beyond it lay darkness.* | angenommen | → *Behind it, everything was dark.* |
+| D5 #6 Z.31 *fluorescent tubes* | abgelehnt | (a) Wortliste: *Neonröhre → fluorescent tube*. |
+| D5 #7 Z.35 *sagged* | angenommen | → *The ceiling dropped lower.* (*sackte tiefer*, ohne Einsturz-Bild). |
+| D5 #8 Z.37 Zitat in der Rede | angenommen (teilw.) | einfache Anführung ‘…’ (A8); Ausrufezeichen abgelehnt (DE hat keins). |
+| D5 #9 Z.43 *Like blood* | angenommen | durch DE-Änderung erledigt; *pennies* abgelehnt (K5 *coins*, Wortliste). |
+| D5 #10 Z.61 *did … heard … quite like this* | angenommen | → *And then he made a sound Nora had never heard from him. Not like this.* |
+| D5 #11 Z.65 *from earlier, at the diary* | angenommen | → *Not the short, high whine he had made over the diary.* |
+| D5 #12 Z.67 Haut eng + Stromschlag | abgelehnt | (c) Körperbild des Originals (*Haut wurde eng. Wie ein elektrischer Schlag.*). |
+| D5 #13 Z.71 *grieving* verrät *Grief.* | abgelehnt | gleiches Wortfeld im Original (*trauern / Trauer*). |
+| D5 #14 Z.75 *weight on chest* wiederholt | abgelehnt | (a) Wortliste (*Ein Druck legte sich auf ihre Brust*). |
+| D5 #15 Z.91 *Only the dripping.* | angenommen | → *Nothing but the dripping.* (+ D6 *Shadow’s whining*, s. u.). |
+| D5 #16 Z.93 *so loud* | angenommen | → *so loudly* (*swallowed* bleibt, A8-Geste). |
+| D5 #17 Z.95 *Something* ×3, *Sadness* | abgelehnt | Wiederholung und Benennung im Original; körperlicher Nachsatz folgt. |
+| D5 #18 Z.111 *From one moment to the next.* | angenommen | → *Suddenly. Just like that.* |
+| D5 #19 Z.133 *His face twisted.* | angenommen | → *His face scrunched up.* (*frowned* abgelehnt: zu schwach für *verzerrte sich*). |
+| D5 #20 Z.145 zwei Vergleiche | angenommen (teilw.) | Wortlaut → *Like fast breathing slowing down.*; Streichen abgelehnt (DE-Satzteil). |
+| D5 #21 Z.149 *The thickness* | angenommen | → *The thick air behind Nora’s back faded away.* (greift Z.123 *thicker* auf). |
+| D5 #22 Z.157 *But on the floor.* | angenommen | → *But the floor wasn’t.* (Ein-Satz-Absatz bleibt). |
+| D5 #23 Z.159 *floor* doppelt | angenommen | → *There were tracks in the dust.* (Boden steht in Z.157). |
+| D5 #24 Z.161 20 Wörter | angenommen | → *They started at the corner with the scratch marks. They led right up behind the spot where Nora had just been standing.* |
+| D5 #25 Z.163 *prints were barefoot* | angenommen | → *These were bare feet.* (*A child’s feet.* bleibt, Wortliste). |
+| D5 #26 Z.167 *look that knew* | angenommen | → *With that look that said he knew too much.* |
+| D5 #27 Z.173 *grabbed hers back* | angenommen | → *He squeezed back.* |
+| D5 #28 Z.175 Zeile streichen | abgelehnt | streicht deutschen Satz; A7-Ende. |
+| D5 #29 Z.79 Kratzen zu dunkel | abgelehnt | A7: nicht auflösen. |
+| D5 #30 Z.25 *bike* Singular | abgelehnt | Original (schon gemeldet, Abschn. 4 Nr. 1). |
+| D5 Urteil: Drohung vor *Run* einbauen | abgelehnt | fügt Inhalt hinzu. |
+| eigene (D2, Schwerpunkt K10) Z.149 *Only now did she notice* | geändert | → *She hadn’t noticed until now how tense she had been.* (Inversion, A8). |
+| D3 #1 Z.3 Tageszeit | abgelehnt | Vorgabe: Zeitlinie des Originals. |
+| D3 #3 Kellertür unten/oben | abgelehnt | Original-Logik → Autor. |
+| D3 #4 *bike/bikes* | abgelehnt | Original. |
+| D3 #7 Z.43 *blood* | angenommen | DE-Änderung. |
+| D3 #9 Kratzspuren-Bild | abgelehnt | A7: nicht auflösen. |
+| D3 #14 *neck cracked* | abgelehnt | (c) Körperbild. |
+| D3 #15 Raumlogik Ecke/Spuren | abgelehnt | Original-Logik → Autor. |
+| D3 #16 Spuren vorher da? | abgelehnt | Original. |
+| D3 #18 warum *Run* | abgelehnt | Kapitelende des Originals. |
+| D6 Skim Z.29–31 | abgelehnt | Original. |
+| D6 Skim Z.95–101 | abgelehnt | Original. |
+| D6 Skim Z.111–115 *Grief* / *looked sad* | abgelehnt | Original-Wiederholung. |
+| D6 Wort *rear guard* | abgelehnt | A3 W1-14 fest. |
+| D6 Wort *glistened* | abgelehnt | gängiges MG-Wort. |
+| D6 Wort *sagged* | angenommen | wie D5 #7. |
+| D6 Wort *seeping* | abgelehnt | gängiges MG-Wort, Bild des Originals. |
+| D6 Wort *parallel* | abgelehnt | DE-Wort, laut D6 bekannt. |
+| D6 Wort *grieving/Grief* | abgelehnt | Original. |
+| D6 Wort *presence* | abgelehnt | (a) Wortliste. |
+| D6 Wort *ball* (*Toes, ball, heel*) | abgelehnt | (c) Bild des Originals (*Ballen*); D6 löst es selbst auf. |
+| D6 zu gruselig Z.77–79/97 | abgelehnt | A7: nicht auflösen. |
+| D6 silly *neck cracked* | abgelehnt | (c). |
+| D6 silly Jacke im Juli | abgelehnt | Original. |
+| D6 silly Münzen/Blut 3× | angenommen | Blut gestrichen (DE); Münzen bleiben (K5). |
+| D6 Tageszeit K9→K11 | abgelehnt | Vorgabe: Original. |
+| D6 Z.61 *never heard … whined* (Aufbau) | abgelehnt | Aufbau des Originals; Wortlaut s. D5 #10. |
+| D6 Z.11 Theo sagt *died* | abgelehnt | Original (Theos Annahme). |
+| D6 Z.177 warum *Run* | abgelehnt | Original-Ende. |
+| D6 Vorlesen Z.161 | angenommen | wie D5 #24. |
+| D6 Vorlesen Z.61 | angenommen | wie D5 #10. |
+| D6 Vorlesen Z.157 | angenommen | wie D5 #22. |
+| D6 Vorlesen Z.111–115 Redundanz | abgelehnt | Original. |
+| D6 Vorlesen Z.91 *Shadow’s whining* | angenommen | → *And Shadow, whining softly now, almost too quiet to hear.* (kein *shadows whining*). |
+
+**Zählung K10:** D3 1 angenommen / 8 abgelehnt · D4 1 / 0 · D5 22 / 8 (+ Urteil-Vorschlag abgelehnt) · D6 6 / 18. Dazu 1 eigene Änderung.
+
+**Gegenprobe (nur Bedeutung, jeder geänderte Satz gegen DE):** 25 Stellen, alle deckungsgleich oder Grenzfall. Grenzfälle, belassen: *but his steps were calm* (DE ohne *aber*, Gegensatz steckt im Nebeneinander) · *Like fast breathing slowing down* (*fast* ist im *sich beruhigen* enthalten) · *He squeezed back* (*griff zurück* — sie hält schon seine Hand) · *His face scrunched up* (schwächer als *verzerrte*, aber mit *From confusion* passend) · *There were tracks in the dust* (*Kellerboden* steht im Ein-Satz-Absatz davor). D5-Vorschlag *Not the little whine from upstairs* nicht übernommen: *von vorhin beim Tagebuch* nennt den Anlass, nicht den Ort. **Keine Abweichung im Text gefunden.**
+
+**Prüfskript:** 0 Befunde. **konsistenz:** keine neue Abweichung (*He whined.* ↔ K6 bleibt bewusst, Abschn. 6).
+
+**An den Autor (Original, nicht korrigiert):** (1) Raumlogik Z.153–173: Nora steht zur Ecke gewandt, die Präsenz ist *hinter* ihr; beim Umdrehen schaut sie also von der Ecke weg, und die Spuren müssten an ihr vorbei führen (D3 #15). (2) Z.19 die schwere Kellertür liegt *unten* an der Treppe; K11 Z.7 reißt Nora *die Kellertür* auf und stolpert in den Hausflur (D3, D5 K11 #1). (3) Z.11 Theo: *„in dem … ein Mädchen gestorben ist“* — bekannt ist nur „Unfall“ (D6). (4) Tageszeit: K9 abends (Mutter schläft) → K10 ohne Sprung → K11 *Tageslicht* (D3/D6).

@@ -114,3 +114,73 @@ K12 · Absatz 101 · DE: „starrte auf die zwei Wörter im Kondenswasser“ · 
 6. **Silbers Stimme ohne Kurzformen** (A2) klang im Notizbuch richtig; schwer war nur *begreift* vs. *versteht* (R3): Das Deutsche unterscheidet, das Glossar reserviert *understand*. Lösung *grasps* — ein schwereres Wort für 9-Jährige.
 7. **„Kinder“ im Erzähltext** (*zurück zu den Kindern*, K11 Abs. 88) → *the kids*. Nora erzählt nah; *the kids* klingt leicht von außen. Keine bessere Lösung ohne Umbau (*at Nora and Theo* wäre Erklärung).
 8. **K9-Nachzug:** Der Auftrag „an A8 angleichen“ ergab fast nichts — der Pilot hatte die Regeln schon geprägt. Nur `konsistenz` fand zwei echte Abweichungen zu K1. Die Pilot-Notizen sind teils veraltet (*slap*, *cracked*, *This is home*, *cellar*) — wer sie liest statt des Textes, irrt; die Wortliste-Regel greift.
+
+## Runde 2 (Block 3)
+
+Grundlage: `Pruefung/D3_K12.md`, `D4_K12.md`, `D5_K12.md`, `D6_K09-K12.md` (Teil K12), Pilot 5.1–5.3, Wortliste (neu: *thump* nur fürs Klopfen). Zeilen = Zeilennummern (DE = EN).
+
+| Befund (Quelle · Nr./Zeile) | Entscheidung | Grund (eine Zeile) |
+|---|---|---|
+| D4 Z.125 *Her mom* | angenommen | → *Lina’s mom, who said *imagination*.* (sonst Noras Mutter). |
+| D4 Z.203 *What’s up there, Nora?* | angenommen | → *“What’s upstairs, Nora?”* — gleicher Bau wie K9 *What’s in the basement, Nora?* (A7); Abschn. 2 Variante (b). |
+| D4 Z.163 *Warm from someone’s hands* | angenommen | → *Hand-warm, as if someone had held it for a long time.* (*Handwarm* = nur Temperatur, Halter nur vermutet). |
+| D4 Z.209 *tail thumped* | angenommen | → *His tail swished across the floor once.* (Vorgabe 2; gleiches Verb K1/K2; freundlich, kein Warnsignal). |
+| D5 #1 Z.5 *One single* | angenommen | → *A single, sharp sound …* |
+| D5 #2 Z.7 *Stiff. Upright.* streichen | abgelehnt | streicht deutsche Fragmente. |
+| D5 #3 Z.11 *Nora got goosebumps.* | angenommen | → *Goosebumps prickled over Nora’s skin.* (*raced up her arms* abgelehnt: neues Bild). |
+| D5 #4 Z.11 *refused* ohne Objekt | angenommen | → *He had growled, whined, refused to go in.* (Schattens bekannte Weigerung, Zimmer zu betreten; kleinstes Objekt). |
+| D5 #5 Z.15 Rückblende / Cliffhanger K11 | abgelehnt | Vorgabe: Original (Klopf-Cliffhanger). |
+| D5 #6 Z.19 *like a punch* wiederholt | abgelehnt | (a) Wortliste (gleicher DE-Satz K9). |
+| D5 #7 Z.19 *out of her mouth* | angenommen | → *Her breath came out in a white cloud.* |
+| D5 #8 Z.25 *Her fingers went cold.* streichen | abgelehnt | streicht deutschen Satz. |
+| D5 #9 Z.41 *A presence.* | abgelehnt | (a) Wortliste (*presence*, K10/K13). |
+| D5 #10 Z.69 *Only the ticking* | angenommen | → *Nothing but the ticking of the kitchen clock.* (wie K10 *Nothing but the dripping.*). |
+| D5 #11 Z.73 *the method* | abgelehnt | (a) Wortliste (K11 *My method is simple.*). |
+| D5 #12 Z.95 *a calm shine* | angenommen | → *and his eyes were bright and calm.* (*glänzte* bleibt als *bright*). |
+| D5 #13 Z.111 *frost* | angenommen | → *didn’t come from the cold.* |
+| D5 #14 Z.129 Eis vs. Wörter am Fenster | abgelehnt | Original-Logik (schon gemeldet, Abschn. 4 Nr. 2). |
+| D5 #15 Z.169 Passiv | angenommen (teilw.) | → *Like a breath going out at last.* (*held for fifty years* abgelehnt: Zusatz). |
+| D5 #16 Z.175 *One single* | angenommen | → *One long dog sigh.* |
+| D5 #17 Z.181 *Erased* streichen | abgelehnt | streicht deutschen Satzteil (*Ausgelöscht*). |
+| D5 #18 Z.201 *third floor* | abgelehnt | US-Zählung richtig: DE *zweiter Stock* = *third floor* (Glossar E9). |
+| D5 #19 Z.209 Schluss bedrohlich machen | abgelehnt | Inhalt; A7: Schwanzschlag freundlich, kein Warnsignal (Verb nach Vorgabe 2 geändert). |
+| D3 #1 Zeitsprung Z.3–15 | abgelehnt | Vorgabe: Original. |
+| D3 #2 *That evening* / Tageslicht K11 | abgelehnt | Vorgabe: Tageszeit des Originals. |
+| D3 #5 Fenster sichtbar? | abgelehnt | Original. |
+| D3 #6 jedes Fenster / jedes Wort | abgelehnt | Original (gemeldet, Abschn. 4 Nr. 1). |
+| D3 #7 *DIARY. READ.* = „gelesen“? | abgelehnt | Glossar E11 und Reihenfolge des Originals; *PLEASE* klärt den Befehl. |
+| D3 #8 *dark shapes* / *the room* | abgelehnt | (a) Wortliste (Z.41); *im Raum* steht im DE. |
+| D3 #14 *frost* | angenommen | wie D5 #13. |
+| D3 #15 Erzählreihenfolge Z.123–125 | abgelehnt | Original. |
+| D3 #16 *Her mom* | angenommen | wie D4. |
+| D3 #17 welches Fenster | abgelehnt | Original (gemeldet). |
+| D3 #23 *UP* = „steh auf“? | abgelehnt | Glossar E11; Z.201 löst auf. |
+| D3 #24 *third floor* | abgelehnt | US-Zählung bereits richtig (E9). |
+| D3 #25 *What’s up there* ≈ *What’s up* | angenommen | erledigt durch *What’s upstairs, Nora?* |
+| D6 Skim Z.15 Klopfen verschluckt | abgelehnt | Vorgabe: Original. |
+| D6 Skim Z.121–125 Nacherzählung | abgelehnt | Original. |
+| D6 Skim Z.155–175 Vergleiche | abgelehnt | streicht DE-Bilder. |
+| D6 Wort *stirred* | abgelehnt | gängiges Wort; *moved* doppelte *They were moving.* |
+| D6 Wort *presence* | abgelehnt | Wortliste. |
+| D6 silly *THANK YOU. UP.* | abgelehnt | Glossar E11, Satzbild des Originals. |
+| D6 silly *What’s up there* | angenommen | wie D4 Z.203. |
+| D6 silly Mama schläft trotz Bellen | abgelehnt | Vorgabe: Original. |
+| D6 Z.83 woher Linas Zimmer? | abgelehnt | Original → Autor. |
+| D6 Z.75 warum wirkt das zweite Vorlesen? | abgelehnt | Original (A7-Schlüsselsatz) → Autor. |
+| D6 Z.199 *UP* nicht neu | abgelehnt | Original → Autor. |
+| D6 Z.93 Nachttisch | abgelehnt | Original (gemeldet, Abschn. 4 Nr. 3). |
+| D6 Z.129/181 Fenster | abgelehnt | Original (gemeldet). |
+| D6 Vorlesen Vergleichskette | abgelehnt | streicht DE-Bilder. |
+| D6 Vorlesen Z.207 Pause | abgelehnt | Satzbild des Originals (eigene Zeile, Punkte). |
+| D6 Vorlesen Z.15 Rückblende | abgelehnt | Vorgabe: Original. |
+| D6 Schwanzschlag verrät „freundlich“ | abgelehnt | A7: freundlich gewollt; nur das Verb gewechselt. |
+
+**Zählung K12:** D3 3 angenommen / 10 abgelehnt · D4 4 / 0 · D5 9 / 10 · D6 1 / 16.
+
+**Vorgabe 4/5:** kein *Shadow’s* + Substantiv in K12. Stockwerk: einzige Zahl Z.201 *third floor* (= DE *zweiter Stock*, Glossar E9) — richtig.
+
+**Gegenprobe (nur Bedeutung, jeder geänderte Satz gegen DE):** 13 Stellen. Grenzfälle, belassen: *refused to go in* (DE *sich geweigert* ohne Objekt; *go in* nennt nur, was K3/K9 zeigen — kleinste Ergänzung) · *bright and calm* (*glänzte ruhig*) · *swished across the floor* (*schlug auf den Boden* — Bewegung statt Schlag, Autor-Vorgabe 2) · *Goosebumps prickled over Nora’s skin* (*bekam eine Gänsehaut*). Keine Abweichung gefunden.
+
+**Prüfskript:** 0 Befunde (Thump-Regel jetzt erfüllt). **konsistenz:** keine neue Abweichung aus K12.
+
+**An den Autor (Original, nicht korrigiert):** (1) Z.83 Woher weiß Theo, dass Noras Zimmer Linas war? (D6). (2) Z.75 *„Aber nur für sich“* — in K9 las Nora laut vor und sagte schon *„Wir haben dich gehört, Lina“*; nur *„In ihrem Zimmer“* (Z.81) unterscheidet (D6). (3) Z.199 *OBEN* wiederholt den Pfeil nach oben aus K4 (D6). (4) Hunde-Code K11 (*knurrt = wütend*) vs. Knurren bei Lina Z.21/55 (D6).

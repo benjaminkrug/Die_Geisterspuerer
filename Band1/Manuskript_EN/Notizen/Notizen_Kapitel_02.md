@@ -272,3 +272,5 @@ nach oben* (zur Mutter, an deren Knie er lehnt).
 **Prüfskript:** 0 Befunde · Absätze 103 = 103 · Ein-Satz-Absätze 33 = 33 · Ausrufe 1 = 1 · Dialog 14,4 % → 13,9 %.
 
 K2 · Nachtrag Block 1 (Koordinator): *name card* → *nameplate* (Absatz 3), A8-Verbot aufgehoben; *punched his fist in the air* → *pumped his fist* (Absatz 62).
+
+K2 · Block 3 (Wortliste: *thump* nur fürs Klopfen, D4 Block 3): *His tail thumped slowly against the floor.* → *His tail swished slowly across the floor.* — Schwanz *One. Two.* klingt nicht mehr wie das spätere Klopfen; gleiches Verb wie K1/K12; sonst nichts geändert. Prüfskript 0 Befunde.

@@ -36,7 +36,7 @@ The third floor. The landing. The door with the SILBER nameplate.
 
 It was open. Just a crack. But this time was different.
 
-This time the air was cool. Not icy like last time. More like a basement in summer. Nora swallowed. There was a metallic taste on her tongue. Like coins. Like blood when you bite the inside of your cheek. Strange and wrong.
+This time the air was cool. Not icy like last time. More like a basement in summer. Nora swallowed. There was a metallic taste on her tongue. Like coins. Strange and wrong.
 
 Nora stopped. She put her hand on the doorframe. The wood was cool, not cold. No frost under her fingertips. She couldn’t see her breath.
 

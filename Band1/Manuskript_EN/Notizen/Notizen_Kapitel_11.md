@@ -97,3 +97,85 @@ K11 · Absatz 97 · DE: „Wie eine Tür, die ins Schloss fiel.“ · EN: “Lik
 
 - *Theo kniete sich neben Schatten und legte die Hand auf seinen Rücken.* zuerst *put his hand on* → angeglichen an K5 *put a hand on the dog’s back.*
 - **Gewollt / übernommen:** *Kein Knurren.* K11 *No growling.* = K8; K5 *Not a growl.* bleibt (K1–K8 unangetastet, im Block-2-Bericht schon als gewollt geführt).
+
+## Runde 2 (Block 3)
+
+Grundlage: `Pruefung/D3_K11.md`, `D4_K11.md`, `D5_K11.md`, `D6_K09-K12.md` (Teil K11), Pilot 5.1–5.3, Wortliste. DE_Basis K11 neu: *„Theo kniete vor den Bücherstapeln.“* (war *Bücherregal*; Abschn. 4 Nr. 1 damit erledigt). Zeilen = Zeilennummern (DE = EN).
+
+| Befund (Quelle · Nr./Zeile) | Entscheidung | Grund (eine Zeile) |
+|---|---|---|
+| DE-Änderung Z.97 Bücherstapel | umgesetzt | → *Theo was kneeling in front of the stacks of books.* (= K5 Z.111, K11 Z.83). Sonst kein Regal im Kapitel (geprüft). |
+| D4 Z.195 *swinging shut* (Endgültigkeit) | angenommen | → *Like a door latching shut.* — Einrasten = endgültig; Echo auf Z.11 über *door … shut* (*slammed shut* laut / *latching shut* leise). *clicking shut* abgelehnt (doppelt mit *clicked*), *falling shut* klingt übersetzt (D5 #2). |
+| D5 #1 Z.7 Kellertür oben/unten | abgelehnt | Original-Logik → Autor. |
+| D5 #2 Z.11 *fell shut* | angenommen | → *The basement door slammed shut behind them.* (*wie ein Schuss* trägt *slammed*). |
+| D5 #3 Z.35 *Like for the last fifty years.* | angenommen | → *Like she’s been for the last fifty years.* |
+| D5 #4 Z.47 *Just now in the basement* | angenommen | → *A minute ago in the basement, you were clinging …* (*Five minutes* abgelehnt: erfundene Zahl). |
+| D5 #5 Z.49 zwei Fragmente streichen | abgelehnt | streicht deutsche Sätze. |
+| D5 #6 Z.51 *Only Shadow’s breathing.* | angenommen | → *The only sound was Shadow breathing. Slow and even.* (zugleich Vorgabe 4 / D6 Vorlesen). |
+| D5 #7 Z.53 *no argument … against the truth* | angenommen | → *She couldn’t argue. Not with the truth.* (Kern *gegen die Wahrheit* bleibt; *nothing to say* abgelehnt). |
+| D5 #8 Z.55 *trotted past … slow* | angenommen (teilw.) | → *Shadow padded past her.* (langsamer Gang); *past* bleibt (DE *an ihr vorbei*). |
+| D5 #9 Z.59 *Not X. Something else.* | abgelehnt | Wortlaut des Originals (*Nicht Panik. Etwas anderes.*). |
+| D5 #10 Z.87 *explains whether … and how* | angenommen | → *Anything that tells us if Mrs. Silber helped the ghosts, and how.* |
+| D5 #11 Z.97 *direct line* | abgelehnt | (a) A3 W1-15 / Wortliste; *ghost hotline* = neuer Witz. |
+| D5 #12 Z.105–107 *dull thud … light* | angenommen (teilw.) | → *A muffled sound.* (*dumpf*); *soft thump* abgelehnt (*thump* nur fürs Klopfen); Theos Satz bleibt (DE). |
+| D5 #13 Z.121 voll vs. leere Seiten | abgelehnt | Original-Logik (Vorgabe) → Autor. |
+| D5 #14 Z.125 *Between what was …* | abgelehnt | Silbers Erwachsenenstimme (A2), Inhalt. |
+| D5 #15 Z.133 *From understanding.* | abgelehnt | Wortlaut des Originals; *Not from fear* = K1/K10. |
+| D5 #16 Z.135 Inversion, *grasps*, *chain* | angenommen (teilw.) | → *The chain only comes loose when someone truly sees that.* (*understand* bleibt R3 vorbehalten); Kette bleibt (DE). |
+| D5 #17 Z.141 vierzig Jahre | abgelehnt | A7: bewusst, keine Reaktion. |
+| D5 #18 Z.147 *release* | abgelehnt | (a) Wortliste. |
+| D5 #19 Z.147 *Three nights.* | abgelehnt | (a) Wortliste (Karte, K16). |
+| D5 #20 Z.159 *the Veil* + Theo-Frage | abgelehnt | Glossar-Begriff; Frage = neuer Inhalt. |
+| D5 #21 Z.173 *heavier. Thicker.* doppelt | abgelehnt | Wiederholung im Original. |
+| D5 #22 Z.177 *Not trotting. Fast.* | angenommen | → *He didn’t trot. He hurried.* |
+| D3 #2 Kellertür | abgelehnt | Original-Logik. |
+| D3 #3 *hallway* = Hausflur? | abgelehnt | Z.11 *stairwell* löst es auf (D3 selbst). |
+| D3 #5 *gunshot* | abgelehnt | Bild des Originals. |
+| D3 #7 *trotted past … at her feet* | angenommen (teilw.) | wie D5 #8. |
+| D3 #8 *Don’t tell anyone* — was? | abgelehnt | im Original ebenso offen. |
+| D3 #11 *Margret* | abgelehnt | Name (A1). |
+| D3 #12 voll vs. leer | abgelehnt | Original. |
+| D3 #13 *chain* | abgelehnt | Metapher des Originals. |
+| D3 #14 vierzig Jahre | abgelehnt | A7. |
+| D3 #16 *release* | abgelehnt | Wortliste. |
+| D3 #17 *Drowned* | abgelehnt | Inhalt. |
+| D3 #18 *the Veil* | abgelehnt | Glossar. |
+| D3 #20 welche Tür (Schatten) | abgelehnt | Original. |
+| D6 Skim Z.45–59 | abgelehnt | Original. |
+| D6 Skim Z.121 | abgelehnt | Original. |
+| D6 Z.135 Erwachsenensprache | angenommen | wie D5 #16. |
+| D6 Z.161/173 doppelt | abgelehnt | Original. |
+| D6 Wort *the Restless* | abgelehnt | Glossar. |
+| D6 Wort *the Beyond* | abgelehnt | Buchtitel, A3 W1-15. |
+| D6 Wort *the Veil* | abgelehnt | Glossar. |
+| D6 Wort *grasps* | angenommen | entfällt (D5 #16). |
+| D6 Wort *method* | abgelehnt | Wortliste (Silbers Methode). |
+| D6 Wort *observations* | abgelehnt | DE *Beobachtungen*, kein Ersatz ohne Bedeutungsverlust. |
+| D6 Wort *release* | abgelehnt | Wortliste. |
+| D6 *Between what was …* | abgelehnt | Silbers Stimme. |
+| D6 *Northern Germany* | abgelehnt | A8 Abschn. 7: Welt bleibt deutsch. |
+| D6 Witz *direct line* nicht verstanden | abgelehnt | A3/Wortliste. |
+| D6 vierzig Jahre | abgelehnt | A7 (Reihengeheimnis). |
+| D6 Silber nennt den Hund *Shadow* | abgelehnt | A7: bewusst, nicht erklären. |
+| D6 Hunde-Code vs. K12-Knurren | abgelehnt | Original → Autor. |
+| D6 *bookshelf* | angenommen | DE geändert (Bücherstapel). |
+| D6 *desk* vs. K5 *small table* | abgelehnt | Vorgabe: Original (schon gemeldet). |
+| D6 Handschrift *Tight, neat* vs. K5 *scrawly* | abgelehnt | Original (*Eng, sauber*) → Autor. |
+| D6 Z.81 Tür *open a crack. Like always.* | abgelehnt | Original → Autor. |
+| D6 *never wrote again* 3× | abgelehnt | Vorgabe: Original-Wiederholung. |
+| D6 Vorlesen Z.135 | angenommen | wie D5 #16. |
+| D6 Vorlesen Z.125 | abgelehnt | Silbers Stimme. |
+| D6 Vorlesen Z.161/173 | abgelehnt | Original. |
+| D6 Vorlesen Refrain | abgelehnt | Original. |
+| D6 Vorlesen Z.51 *Shadow’s breathing* | angenommen | wie D5 #6. |
+| D6 Vorlesen *Margret* | abgelehnt | Name. |
+
+**Zählung K11:** D3 1 angenommen / 12 abgelehnt · D4 1 / 0 (dazu DE-Änderung Bücherstapel) · D5 10 / 12 · D6 5 / 23.
+
+**Vorgabe 4 (Vorlesen *Shadow’s* + Substantiv):** Z.51 geändert. Z.5 *Shadow’s claws on the stone* geprüft: steht nach *she heard Theo’s quick footsteps and*, Besitzfolge klar — belassen (D6: unkritisch).
+
+**Gegenprobe (nur Bedeutung, jeder geänderte Satz gegen DE):** 13 Stellen. Grenzfälle, belassen: *slammed shut* (*fiel zu* ist ohne Kraft; *wie ein Schuss* deckt den Knall) · *truly sees that* (*begreift*; *truly* trägt den Unterschied zu *kennt*) · *A minute ago* (*eben*) · *padded* (*trottete … Langsam, ruhig*). Keine Abweichung gefunden.
+
+**Prüfskript:** 0 Befunde. **konsistenz:** keine neue Abweichung aus K11.
+
+**An den Autor (Original, nicht korrigiert):** (1) Z.113 Silbers Schrift *„Eng, sauber, altmodisch“* — K5 (Z.113/155) nennt sie klein und krakelig (D6). (2) Z.81 Tür *„einen Spalt offen. Wie immer.“* — in K3 war sie fest zu (D6). (3) Z.121 *„Jede Seite war voll. Keine leere Stelle.“* ↔ Z.169 *„Leere Seiten“* (D3, D5). (4) Z.141 Hunde-Code *knurrt = wütend*, in K12 knurrt Schatten bei Lina, die BITTE schreibt (D6). (5) Kellertür oben/unten (s. K10).

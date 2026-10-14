@@ -176,7 +176,7 @@ The dog sniffed it for a moment. Then he rested his chin in Theo’s hand.
 
 “Can you just not explain everything for once?”
 
-Nora went upstairs and got a bowl of water and a piece of cheese from the box of snacks. When she came back, Theo was sitting on the step. The dog had laid his head on Theo’s knee. His tail thumped slowly against the stone. Once. Twice.
+Nora went upstairs and got a bowl of water and a piece of cheese from the box of snacks. When she came back, Theo was sitting on the step. The dog had laid his head on Theo’s knee. His tail swished slowly across the stone. Once. Twice.
 
 She set the bowl down. The dog drank. And drank. Greedy gulps.
 

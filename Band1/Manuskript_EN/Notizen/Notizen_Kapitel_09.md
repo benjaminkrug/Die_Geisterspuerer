@@ -364,3 +364,59 @@ Vorgehen: kein Neuübersetzen. Nur die vier deutschen Änderungen und zwei Einhe
 
 - Abs. 39: Theos neuer Satz ist allgemeiner als der alte — gewollt laut Fundliste; D4 sollte nur prüfen, ob *had an explanation for everything* den leicht vorwurfsvollen Ton von *hatten für alles eine Erklärung* trägt (ich meine: ja).
 - Abs. 85: Sie hält das Tagebuch an sich gedrückt (Abs. 83) und schlägt dann die erste Seite auf — im Deutschen genauso, kein Fehler.
+
+## Runde 2 (Block 3)
+
+Grundlage: `Pruefung/D3_K09.md`, `D4_K09.md`, `D5_K09_B3.md`, `D6_K09-K12.md` (Teil K9), Pilot 5.1–5.3, Wortliste (Stand Block 3).
+Zeilen = Zeilennummern der Datei (DE und EN gleich). Regel 5.1: (a) Glossar/Register/A4/Wortliste fest · (b) Kapitelende/A7: Wirkung · (c) Körperbilder konkret · (d) sonst Leser-Durchgänge.
+
+| Befund (Quelle · Nr./Zeile) | Entscheidung | Grund (eine Zeile) |
+|---|---|---|
+| D4 — keine Befunde | — | — |
+| D5 #1 Z.7 *pulse throbbed in her temples* | abgelehnt | (c) Körperbild; im Pilot R3 von D4 zurückgeholt. |
+| D5 #2 *ice-cold* durchgehend | abgelehnt | (a) A4-Motivwort Kälte (*ice-cold*); K3/K6/K8 ebenso. |
+| D5 #3 Z.17 *said* → *asked* | abgelehnt | A8-Verbtabelle: DE *sagte* → *said*. |
+| D5 #4 Z.37 Satz zu lang (21 W.) | angenommen | → *One entry was about the roof. Lina had gone up there with a flashlight to count stars.* |
+| D5 #5 Z.37 *A normal girl’s life.* | angenommen | → *Just normal girl stuff.* (Fragment bleibt Fragment). |
+| D5 #6 Z.61 *to a beat* | abgelehnt | (a) Rückgriff K3 *To a beat?* (*im Takt*), Echo Z.63. |
+| D5 #7 Z.71 *round letters* vorbereiten | abgelehnt | Z.7 bekäme Inhalt, den das Deutsche dort nicht hat. |
+| D5 #8 Z.93 *someone … it* | angenommen | → *I can’t see anyone. But I can feel it.* (gleicher Bau wie K10 Z.123 nach D4). |
+| D5 #9 Z.103 *Luna screamed* | abgelehnt | A7-Steigerung, Original. |
+| D5 #10 Z.117 *hot* doppelt / umstellen | abgelehnt | Wiederholung und Reihenfolge stehen im Original (*heißer … Heiß*). |
+| D5 #11 Z.119 Körpersignale kürzen | abgelehnt | streicht deutsche Sätze. |
+| D5 #12 Z.133 *pressed … harder* doppelt | abgelehnt | Wiederholung im Original (*drückte … fester*, Z.95/133). |
+| D5 #13 Z.147 Datum und Kommentar in einem Zitat | angenommen | Reihenfolge im Satz getauscht: *“Only two entries left,” Nora said quietly. “\*October 30.\*”* — kein neuer Begleitsatz, Absatz bleibt. |
+| D5 #14 Z.147 dreifach gesagt | abgelehnt | streicht deutsche Sätze. |
+| D5 #15 Z.163 *The next page was blank.* streichen | abgelehnt | streicht einen deutschen Satz. |
+| D5 #16 Z.167 Todesdatum bekannt? | abgelehnt | in K6 eingeführt (Wortliste). |
+| D5 #17 Z.179 Herz nicht eingeführt | abgelehnt | in K8 eingeführt (*a little heart*, Wortliste). |
+| D5 #18 Z.177 *as if he knew* (Tick) | abgelehnt | *als wüsste er* steht so im Original. |
+| D5 #19 Z.197 *Closing in.* hängt | angenommen | → *seemed to grow thicker. Tighter.* (*Enger.*) |
+| D3 #1 Z.179 Herz | abgelehnt | K8-Setup. |
+| D3 #5 Z.63 *At our place* | abgelehnt | Pilot-Entscheidung D4 R2-4 (bereitet *We are home* vor); DE *Bei uns* ebenso offen. |
+| D3 #6 Z.105–119 Augen lange zu | abgelehnt | Original-Logik. |
+| D3 #7 Z.115 wer lacht fast? | abgelehnt | Original ohne Subjekt (*Fast ein Lachen.*). |
+| D3 #10 Z.147 Sprecher/Textebene | angenommen | wie D5 #13. |
+| D3 #12 Z.167 Todesdatum | abgelehnt | K6. |
+| D3 #13 Z.103 *Luna screamed* | abgelehnt | A7, Original. |
+| D6 Skim Z.105–119 Reihenfolge Schuld | abgelehnt | Aufbau des Originals. |
+| D6 Skim Z.169–179 / Theo weint zweimal | abgelehnt | Vorgabe: Original (Theo weint zweimal). |
+| D6 Wort *temples* | abgelehnt | (c) Körperbild. |
+| D6 Wörter *astronomer, constellations* | abgelehnt | Inhalt des Originals; laut D6 „sort of“ bekannt. |
+| D6 Wort *voice was thick* | angenommen | → *Nora’s voice was rough.* (*rau*, wie K11 *Rough.*). |
+| D6 silly *Luna screamed* | abgelehnt | A7, Original. |
+| D6 Z.147 Sprecher | angenommen | wie D5 #13. |
+| D6 Z.111 *didn’t even let you finish* — wann? | abgelehnt | Original-Logik (*abgewürgt*). |
+| D6 Z.35 Luna = Schatten? | abgelehnt | gewollt (A7). |
+| D6 Vorlesen Z.117 *hot* doppelt | abgelehnt | Original-Wiederholung. |
+| D6 Vorlesen Z.113–119 Reihenfolge | abgelehnt | Aufbau des Originals. |
+| D6 Weinen-Last (Z.171 streichen) | abgelehnt | Vorgabe, streicht Inhalt. |
+| D6 Wiederholung *cold hit … like a punch* | abgelehnt | Wortliste (gleicher DE-Satz K9/K12). |
+
+**Zählung K9:** D3 1 angenommen / 6 abgelehnt (nur Marker mit Befund; „OK“-Marker nicht gezählt) · D4 0 / 0 · D5 5 / 14 · D6 2 / 11.
+
+**Gegenprobe (nur Bedeutung, jeder geänderte Satz gegen DE):** 6 Stellen. Z.37 *the roof … to count stars* = *Ausflug aufs Dach … weil Lina Sterne zählen wollte* (Grund bleibt als *to count stars*) · *Just normal girl stuff* = *Normales Mädchenleben* (Grenzfall: *stuff* statt *Leben*, Ton etwas lockerer; belassen, Kern „ganz normales Mädchen“ bleibt) · *rough* = *rau* · *can’t see anyone … feel it* = *kann es nicht sehen … spüre es* (*es* = *jemand*) · Z.147 nur Reihenfolge · *thicker. Tighter.* = *dichter … Enger.* Keine Abweichung gefunden.
+
+**Prüfskript:** 0 Befunde. **konsistenz:** keine neue Abweichung aus K9.
+
+**An den Autor (Original, nicht korrigiert):** Theo weint in K9 zweimal, dazu K11 rote Augen, K12 Tränen — D6 nennt die „Weinen-Last“ über vier Kapitel (Vorschlag D6: Z.171 streichen). Z.111 *„Ich hab dich abgewürgt“* — in K1–K4 schneidet Nora Theo nie das Wort ab (D6).

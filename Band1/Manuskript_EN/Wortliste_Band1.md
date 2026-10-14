@@ -15,7 +15,7 @@
 |---|---|---|
 | Klopf. Klopf. Klopf. | **Thump. Thump. Thump.** · Substantiv *the knocking* | Autor 2026-10-13 (*Knock* = „Who's there?") |
 | Klingelschild | **nameplate** | zwei US-Lektoren |
-| Schwanz schlug (auf den Boden) | **nie** *thumped* — *thumped/thump* gehört nur dem Klopfen; z. B. *swished*, *beat*, *wagged against* | D4 Block 3: sonst wirkt Schatten wie der Klopfer (K2: Schwanz *One. Two.*, kurz danach das Klopfen); Skript prüft |
+| Schwanz schlug (auf den Boden) | **swished** — **nie** *thumped* (*thumped/thump* gehört nur dem Klopfen): K1 *His tail swished slowly across the stone.* · K2 *… across the floor.* · K12 *His tail swished across the floor once.* | D4 Block 3: sonst wirkt Schatten wie der Klopfer (K2: Schwanz *One. Two.*, kurz danach das Klopfen); Skript prüft |
 | *schatten* als Wort (nicht der Hund) | **nie** *shadow* klein — *shape*, *darkness*, *silhouette*; Ausnahmen nur die bewussten Wortspiele K8 (*Shadows leaped across the walls … / Shadow whined.*) und K12 (*“A shadow. But not our Shadow.”*) | Vorlesen: klingt wie der Hund; K8 Autor 2026-10-14 (*dark shapes* klang nach Wesen) |
 | Erster Schultag | **first day at the new school** | US: „first day of school" = Schuljahresbeginn |
 | Kakao | **chocolate milk** (Sommerfrühstück, K3) · **hot chocolate** (warm, z. B. K12 *„heißen Kakao. Mit Marshmallows."*) | nach Zusammenhang |
@@ -90,8 +90,8 @@
 | die letzte beschriebene Seite | *the last page with writing on it* | K9 | K11 (Silbers Notizbuch), K12 (Vorlesen) |
 | Fahrig. / die fahrigen Buchstaben (Linas letzter Eintrag) | *Shaky.* / *The shaky letters.* | K9 | K12 |
 | Lina hatte nie wieder geschrieben. / Frau Silber hatte nie wieder geschrieben. | *Lina never wrote again.* / *Mrs. Silber never wrote again.* | K9 / K11 | gleicher Bau, Leere-Seiten-Motiv (*Empty.* / *Empty pages.*) |
-| Einbildung (Linas Eltern) | *imagination* (*Dad says imagination. …*) | K9 | K12 (*Her mom, who said *imagination*.*) |
-| Was ist im Keller, Nora? / Was ist oben, Nora? | *What’s in the basement, Nora?* / *What’s up there, Nora?* | K9 / K12 | A7: beide gleich gebaut (*What’s* + Ort + *Nora?*); nie *What’s up, Nora?* (Begrüßung) |
+| Einbildung (Linas Eltern) | *imagination* (*Dad says imagination. …*) | K9 | K12 (*Lina’s mom, who said *imagination*.* — nicht *Her mom*, sonst Noras Mutter; D4 Block 3) |
+| Was ist im Keller, Nora? / Was ist oben, Nora? | *What’s in the basement, Nora?* / *What’s upstairs, Nora?* | K9 / K12 | A7: beide gleich gebaut (*What’s* + Ort + *Nora?*; D4 Block 3: *up there* war ein anderes Muster); nie *What’s up, Nora?* (Begrüßung) |
 | Wie an einem Anker. | *As if Shadow were an anchor.* | K9 | B5 (*anchor*, Glossar) |
 | Kellergang · Kellerverschläge | *corridor* · *storage lockers* | K10 | K13 (Keller-Erinnerung) |
 | Kratzspuren / Fingerspuren / Jeweils vier nebeneinander. | *scratch marks* · *finger marks* · *Always four, side by side.* · *The scratches were old.* | K10 | K13 (*Nora sah die Kratzspuren wieder vor sich.* → *scratch marks*) — keine Nägel, kein Blut; ← K2 *scratches* |
@@ -125,7 +125,10 @@
 | Die Kälte wich. | *The cold gave way.* · *the cold gave way a little more* | K12 | B3 K15 (A4, wortgleich) |
 | Sie hat zugehört. Die ganze Zeit. | *She was listening. The whole time.* | K12 | Reihenthema Zuhören (*listen*) |
 | um drei Uhr nachts | *at three in the morning* | K12 | A7 Zeitlinie (K12 *drei Uhr nachts*) |
-| Schwanz schlug einmal auf den Boden | *His tail thumped the floor once.* | K12 | ← K2 *His tail thumped slowly against the floor.* |
+| Schwanz schlug einmal auf den Boden | *His tail swished across the floor once.* | K12 | ← K2 *His tail swished slowly across the floor.* — freundlich, kein Warnsignal (A7) |
+| metallischer Geschmack (Autor: ohne Blut) | *There was a metallic taste on her tongue. Like coins.* (K5) · *… Like old coins.* (K10) | K5 | K10 — **kein** *blood* (DE 2026-10-14 gestrichen) |
+| Bücherstapel (Silbers Arbeitszimmer) | *the stacks of books* | K5 | K11 (*kneeling in front of the stacks of books*) — nie *bookshelf* |
+| Nur noch X. / Nur X. (Stille-Takt) | *Nothing but the dripping.* (K10) · *The only sound was Shadow breathing.* (K11) · *Nothing but the ticking of the kitchen clock.* (K12) | K10 | D5 Block 3: nacktes *Only …* klang übersetzt; D6: nie *Shadow’s* + Substantiv am Satzanfang (klingt wie *shadows*) |
 
 ## Pflege
 

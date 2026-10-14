@@ -408,3 +408,5 @@ Nr. 8 Küchenfenster. Offen bleiben Nr. 3–6 und 9.
 **Nicht gelaufen:** D4-Gegenprobe auf diese fünf Sätze (Pilot 5.2a verlangt sie für jede späte Änderung).
 
 K1 · Nachtrag Block 1 (Koordinator): *name card* → *nameplate* (Absatz mit „hung next to the frame“), weil zwei US-Lektoren unabhängig *name card* markierten; A8-Verbot von *nameplate* aufgehoben.
+
+K1 · Block 3 (Wortliste: *thump* nur fürs Klopfen, D4 Block 3): *His tail thumped slowly against the stone.* → *His tail swished slowly across the stone.* — gleiches Verb wie K2/K12; sonst nichts geändert. Prüfskript 0 Befunde.

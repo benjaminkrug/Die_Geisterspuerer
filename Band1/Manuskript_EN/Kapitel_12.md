@@ -2,13 +2,13 @@
 
 Shadow barked.
 
-The sound jolted Nora out of her sleep. Loud. Deep. One single, sharp sound that echoed through the whole apartment.
+The sound jolted Nora out of her sleep. Loud. Deep. A single, sharp sound that echoed through the whole apartment.
 
 Nora sat bolt upright in bed. Her whole body was tense. Her hands dug into the covers. Shadow was standing on the floor next to her. Stiff. Upright. Legs locked, hackles up, his eyes fixed on the bedroom door.
 
 He barked again.
 
-Nora got goosebumps. In all the time they had known him, Shadow had never barked. Not once. He had growled, whined, refused. But barked? Never.
+Goosebumps prickled over Nora’s skin. In all the time they had known him, Shadow had never barked. Not once. He had growled, whined, refused to go in. But barked? Never.
 
 Until now.
 
@@ -16,7 +16,7 @@ That evening, the knocking had stopped before they worked up the nerve to open t
 
 “Nora!” Theo’s voice came from the hallway. Thin. Scared. “Nora, are you coming?”
 
-She threw back the covers. The cold hit her like a punch. The floor was ice-cold under her bare feet. Her breath came out of her mouth in a white cloud.
+She threw back the covers. The cold hit her like a punch. The floor was ice-cold under her bare feet. Her breath came out in a white cloud.
 
 She ran into the hallway. Theo was standing outside his bedroom door, his arms wrapped around himself. He was shivering. Shadow pressed against Nora’s leg and growled softly.
 
@@ -66,7 +66,7 @@ Nora listened. Nothing came from Mom’s bedroom. No rustling. No footsteps. Onl
 
 “No,” Nora said.
 
-Only the ticking of the kitchen clock. The words on the windows shimmered in the moonlight. PLEASE. READ. DON’T FORGET.
+Nothing but the ticking of the kitchen clock. The words on the windows shimmered in the moonlight. PLEASE. READ. DON’T FORGET.
 
 Theo swallowed. “What do we do?”
 
@@ -92,7 +92,7 @@ Theo looked at her. Three seconds. Then he nodded. “Okay.”
 
 Nora almost smiled. Almost. She went into her room and took the diary out of her nightstand drawer. The leather cover was cold under her fingers.
 
-Shadow followed her. He wasn’t barking anymore. He didn’t growl. He walked beside her, close against her leg, and his eyes had a calm shine.
+Shadow followed her. He wasn’t barking anymore. He didn’t growl. He walked beside her, close against her leg, and his eyes were bright and calm.
 
 ---
 
@@ -108,7 +108,7 @@ Theo pulled the comforter off Nora’s bed and wrapped it around his shoulders. 
 
 Theo snorted softly. Then he got serious. “Start reading.”
 
-Nora opened the diary. Her fingers were stiff with cold. But the shaking didn’t come from the frost. It came from something bigger.
+Nora opened the diary. Her fingers were stiff with cold. But the shaking didn’t come from the cold. It came from something bigger.
 
 She stopped. What if it didn’t work? What if it made everything worse? What if the cold came back stronger than they could stand?
 
@@ -122,7 +122,7 @@ This time she wasn’t reading for herself. Not for Theo. She was reading for th
 
 She read all of it. Every word. The birthday and the purple ink. Luna fetching a stick out of the river. The stars on the roof. She could see her breath above the paper.
 
-Then came the dark pages. The cold room. The scratching in the wall. Her mom, who said *imagination*.
+Then came the dark pages. The cold room. The scratching in the wall. Lina’s mom, who said *imagination*.
 
 The cold got stronger. Not weaker. Stronger.
 
@@ -160,19 +160,19 @@ Theo sat there, his knees pulled up to his chest. Tears ran down his cheeks, but
 
 Shadow lay still between them. His fur was soft. His body warm. His eyes were half closed. Relaxed. For the first time that night.
 
-Nora hugged the diary to her chest. The leather cover wasn’t cold anymore. It was warm. Warm from someone’s hands, as if they had held it for a long time.
+Nora hugged the diary to her chest. The leather cover wasn’t cold anymore. It was warm. Hand-warm, as if someone had held it for a long time.
 
 “We heard you, Lina,” Nora said into the silent room. “We know your story. You weren’t alone.”
 
 Nothing happened. No sound. No wind. No flickering.
 
-But something came loose. Like a knot coming undone. Like a breath that was finally let out. The heaviness was gone.
+But something came loose. Like a knot coming undone. Like a breath going out at last. The heaviness was gone.
 
 Theo leaned back against the wall. “I think she’s crying,” he whispered.
 
 Nora nodded. Her own eyes burned. She blinked the tears away.
 
-Shadow sighed deeply. One single, long dog sigh. Then he closed his eyes all the way.
+Shadow sighed deeply. One long dog sigh. Then he closed his eyes all the way.
 
 ---
 
@@ -200,10 +200,10 @@ UP.
 
 Nora stared at the word. Her smile vanished. Something cold stabbed through her chest. Up. Mrs. Silber’s apartment was right above them. On the third floor.
 
-Theo looked at her. His eyes were wide. “What’s up there, Nora?”
+Theo looked at her. His eyes were wide. “What’s upstairs, Nora?”
 
 Nora didn’t answer. She held on tight to the diary and stared at the words in the condensation.
 
 THANK YOU. UP.
 
-Shadow lifted his head. His eyes went to the ceiling. His tail thumped the floor once. Then he was still again.
+Shadow lifted his head. His eyes went to the ceiling. His tail swished across the floor once. Then he was still again.

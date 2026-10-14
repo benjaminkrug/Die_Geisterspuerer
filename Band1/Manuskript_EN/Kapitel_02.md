@@ -128,7 +128,7 @@ Theo pumped his fist. “Yes!”
 
 “Nobody’s going to claim him. He belongs with us.”
 
-Nora leaned against the doorframe and watched the dog. He had lain down next to Theo. His tail thumped slowly against the floor. One. Two. One. Two.
+Nora leaned against the doorframe and watched the dog. He had lain down next to Theo. His tail swished slowly across the floor. One. Two. One. Two.
 
 Something about this dog pulled at her. He was a stray they knew nothing about. Dirty, skinny, full of fleas. Still, she had the feeling he belonged here. With them. And that scared her almost more than the cold upstairs.
 

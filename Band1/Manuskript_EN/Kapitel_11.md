@@ -8,7 +8,7 @@ She yanked open the basement door and stumbled into the hallway. Daylight. Warm 
 
 Nora stopped. She put her hands on her knees and breathed. Her pulse roared in her ears.
 
-Theo came out behind her. Shadow close at his side. The basement door fell shut behind them. The sound echoed through the stairwell like a gunshot.
+Theo came out behind her. Shadow close at his side. The basement door slammed shut behind them. The sound echoed through the stairwell like a gunshot.
 
 “That’s it,” Nora said. Her voice sounded strange. Rough. “We quit.”
 
@@ -32,7 +32,7 @@ The name hung in the air. Heavy. Still.
 
 A knot formed under Nora’s ribs. She swallowed. “Lina is—”
 
-“Lina is still down there.” Theo’s voice got louder. “Alone. Like for the last fifty years. And we’re the only ones who know.”
+“Lina is still down there.” Theo’s voice got louder. “Alone. Like she’s been for the last fifty years. And we’re the only ones who know.”
 
 “Theo, I—”
 
@@ -44,15 +44,15 @@ A knot formed under Nora’s ribs. She swallowed. “Lina is—”
 
 Nora pressed her lips together. The cold from the basement was still in her bones. The footprints. Small, bare feet in the dust. A child’s feet.
 
-“Theo, you’re ten. Just now in the basement, you were clinging to my sleeve.”
+“Theo, you’re ten. A minute ago in the basement, you were clinging to my sleeve.”
 
 “I’m still scared.” He looked her in the eye. Straight on. Without looking away. “But Lina was scared too. And nobody was with her.”
 
-Only Shadow’s breathing. Slow and even.
+The only sound was Shadow breathing. Slow and even.
 
-Nora opened her mouth. Closed it again. She had no argument. Not against the truth.
+Nora opened her mouth. Closed it again. She couldn’t argue. Not with the truth.
 
-Shadow trotted past her. Slow, calm. He lay down at Nora’s feet. Right on top of her shoes. Then he lifted his head and looked at her. His eyes were warm. Patient. He rested his nose on the toes of her shoes and sighed.
+Shadow padded past her. Slow, calm. He lay down at Nora’s feet. Right on top of her shoes. Then he lifted his head and looked at her. His eyes were warm. Patient. He rested his nose on the toes of her shoes and sighed.
 
 As if he were saying: I’m here. We can do this.
 
@@ -84,7 +84,7 @@ Shadow went ahead. He trotted down the hallway, nose to the floor. No growling. 
 
 “What exactly are we looking for?” Theo said.
 
-“Anything that explains whether Mrs. Silber helped the ghosts, and how.” Nora went into the study. The list of names on the wall. The burned-down candles on the desk. Books about Gravenstedt’s history. “She did this for years. She must have written down how.”
+“Anything that tells us if Mrs. Silber helped the ghosts, and how.” Nora went into the study. The list of names on the wall. The burned-down candles on the desk. Books about Gravenstedt’s history. “She did this for years. She must have written down how.”
 
 “Maybe her whole system was just ‘dog growls, lady runs over.’”
 
@@ -94,7 +94,7 @@ He held up his hands. “I am looking.”
 
 Nora pulled open the desk drawers. Pens. Candles. Loose notes. Nothing that helped.
 
-Theo was kneeling in front of the bookshelf. He pulled books out and pushed them back in. “Gravenstedt City History. Cemeteries of Northern Germany.” He paused. “Mrs. Silber had really creepy hobbies.” He held up a book. “*Conversations with the Beyond*. She had a direct line.”
+Theo was kneeling in front of the stacks of books. He pulled books out and pushed them back in. “Gravenstedt City History. Cemeteries of Northern Germany.” He paused. “Mrs. Silber had really creepy hobbies.” He held up a book. “*Conversations with the Beyond*. She had a direct line.”
 
 “Focus.”
 
@@ -102,7 +102,7 @@ Theo was kneeling in front of the bookshelf. He pulled books out and pushed them
 
 “Theo.”
 
-He reached for the next book. Pulled it out. Something fell from behind the book onto the floor. A dull thud. Small. Light.
+He reached for the next book. Pulled it out. Something fell from behind the book onto the floor. A muffled sound. Small. Light.
 
 Theo looked down at the floor. “Something fell out.”
 
@@ -132,7 +132,7 @@ Nora turned the page. “‘My method is simple. I find out who they were. What 
 
 Nora nodded. Her heart beat faster. Not from fear. From something else. From understanding.
 
-She kept reading. “‘The Restless need someone who understands their story. Not just knows it. Understands it. Who were they? What did they lose? What is keeping them here? Only when someone grasps that does the chain come loose.’”
+She kept reading. “‘The Restless need someone who understands their story. Not just knows it. Understands it. Who were they? What did they lose? What is keeping them here? The chain only comes loose when someone truly sees that.’”
 
 Shadow had lain down next to Nora’s feet. Still. Attentive. His eyes followed the pages, as if he could read.
 
@@ -174,7 +174,7 @@ Nora closed the notebook. Her fingers were stiff. The air in the room grew heavi
 
 “I don’t know,” she said quietly. “But Mrs. Silber’s hand was shaking when she wrote about him.”
 
-Shadow stood up. His hackles rose from his neck all the way to his tail. He went to the door. Not trotting. Fast. He looked out into the stairwell, then back at the kids. His whole body was trembling.
+Shadow stood up. His hackles rose from his neck all the way to his tail. He went to the door. He didn’t trot. He hurried. He looked out into the stairwell, then back at the kids. His whole body was trembling.
 
 Theo swallowed. “The First One. He’s searching.”
 
@@ -192,7 +192,7 @@ Who was the First One?
 
 And what had he done to Mrs. Silber?
 
-Somewhere in the apartment, something clicked. Softly. Like a door swinging shut.
+Somewhere in the apartment, something clicked. Softly. Like a door latching shut.
 
 Shadow growled. He stared down the hallway. Toward the last door. Toward the cold room.
 

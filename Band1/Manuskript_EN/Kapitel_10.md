@@ -1,6 +1,6 @@
 # Chapter 10: The Basement
 
-The basement stairs were steep. Nora pointed her phone’s light down them. The beam slid over gray steps. Moisture glistened on the stone.
+The basement stairs were steep. Nora pointed her phone’s flashlight down the stairs. The beam slid over gray steps. Moisture glistened on the stone.
 
 “I’ll go first,” she said.
 
@@ -10,13 +10,13 @@ The basement stairs were steep. Nora pointed her phone’s light down them. The 
 
 “Of course I’m scared. We’re going into the basement where a girl died fifty years ago. But please, after you.”
 
-Shadow pushed past Nora’s legs. He trotted down the steps. His claws clicked on the stone. Hackles up, steps calm. He just went.
+Shadow pushed past Nora’s legs. He trotted down the steps. His claws clicked on the stone. His hackles were up, but his steps were calm. He just went.
 
 “The dog’s braver than both of us put together,” Theo muttered.
 
 Nora followed Shadow. The air got cooler with every step. The smell changed. Upstairs it smelled like wood and old carpet. Down here it smelled like wet stone and dirt.
 
-The stairs ended at a heavy wooden door. Old wood, swollen from the damp. Nora pushed down the handle. The door opened slowly, with a creak that echoed through the basement. Beyond it lay darkness.
+The stairs ended at a heavy wooden door. Old wood, swollen with moisture. Nora pressed the handle. The door opened slowly, with a creak that echoed through the basement. Behind it, everything was dark.
 
 Nora’s phone lit up a long corridor. Concrete floor. Pipes on the ceiling. Storage lockers with padlocks. Old bikes. Boxes in the corners.
 
@@ -32,15 +32,15 @@ She had seen it on moving day. The front part of the basement had been redone. C
 
 The corridor bent sharply to the left. And suddenly the concrete was gone.
 
-Stone walls. Rough, uneven, damp. The ceiling sagged lower. Her ears filled with pressure. Like diving to the bottom of a swimming pool.
+Stone walls. Rough, uneven, damp. The ceiling dropped lower. Her ears filled with pressure. Like diving to the bottom of a swimming pool.
 
-Theo stopped. “You know the part in the movie where somebody says, Come on, let’s go down to the basement? And everybody in the theater screams NO?” He swallowed. “I’m one of the people in the theater.”
+Theo stopped. “You know the part in the movie where somebody says, ‘Come on, let’s go down to the basement’? And everybody in the theater screams NO?” He swallowed. “I’m one of the people in the theater.”
 
 “We’re not in a movie.”
 
 “True. In a movie, at least there’s background music. Then you know when it’s getting dangerous.”
 
-Nora kept going. Three small rooms, connected by low doorways. Cobwebs on the ceiling. Somewhere, something was dripping. Evenly. Like a slow heartbeat. There was a metallic taste on her tongue. Like blood. Like old coins.
+Nora kept going. Three small rooms, connected by low doorways. Cobwebs on the ceiling. Somewhere, something was dripping. Evenly. Like a slow heartbeat. There was a metallic taste on her tongue. Like old coins.
 
 The phone light flickered. Once. Then it went out.
 
@@ -58,11 +58,11 @@ She didn’t say anything.
 
 Shadow stopped.
 
-In the middle of the last room. In front of a corner where two walls met. He stood there, head down, tail between his legs. And then he did something Nora had never heard him do quite like this.
+In the middle of the last room. In front of a corner where two walls met. He stood there, head down, tail between his legs. And then he made a sound Nora had never heard from him. Not like this.
 
 He whined.
 
-Not the short, high whine from earlier, at the diary. This was different. Deep. Long. A sound that came from his whole body. As if he were in pain.
+Not the short, high whine he had made over the diary. This was different. Deep. Long. A sound that came from his whole body. As if he were in pain.
 
 Nora’s skin tightened. Like an electric shock.
 
@@ -78,7 +78,7 @@ Cracks. Everywhere. Dozens of thin lines running across the stone. But not natur
 
 Like fingers. Like someone who had scratched at the stone with their fingers.
 
-Nora tasted something sour in her mouth. The scratches were old. Worn smooth by decades of damp. Fifty years old.
+Nora tasted something sour in her mouth. The scratches were old. Worn smooth by decades of moisture. Fifty years old.
 
 “Nora.” Theo’s voice was barely a whisper. He was standing right behind her. His hand was still clutching her sleeve. “Those are finger marks.”
 
@@ -88,9 +88,9 @@ Nora tasted something sour in her mouth. The scratches were old. Worn smooth by 
 
 Nora just nodded.
 
-Only the dripping. And Shadow’s whining, soft now, almost too quiet to hear.
+Nothing but the dripping. And Shadow, whining softly now, almost too quiet to hear.
 
-Theo swallowed so loud that Nora heard it. “It happened down here,” he whispered. “Whatever happened to Lina. It was down here.”
+Theo swallowed so loudly that Nora heard it. “It happened down here,” he whispered. “Whatever happened to Lina. It was down here.”
 
 Nora didn’t answer. She stared at the scratch marks. Her arms hung heavy at her sides. Something was spreading through her chest. Not fear. Something else. Something deeper. Sadness. So heavy she could hardly breathe.
 
@@ -108,7 +108,7 @@ He nodded. She could see his breath too. “That’s not the pipes, is it?”
 
 “No.”
 
-Shadow stopped whining. Suddenly. From one moment to the next. He lifted his head and looked at Nora. His eyes were wide. There was something in them that Nora couldn’t place. Not fear. Not a warning.
+Shadow stopped whining. Suddenly. Just like that. He lifted his head and looked at Nora. His eyes were wide. There was something in them that Nora couldn’t place. Not fear. Not a warning.
 
 Grief.
 
@@ -120,7 +120,7 @@ It came without warning. No sound. No light. Just a feeling. Right behind her. I
 
 Someone was standing behind her.
 
-Nora couldn’t see it. But she could FEEL it. Like eyes on the back of her neck. The air behind her was thicker. Colder. Heavier.
+Nora couldn’t see anyone. But she could FEEL it. Like eyes on the back of her neck. The air behind her was thicker. Colder. Heavier.
 
 Goosebumps exploded over her whole body. Every nerve in her screamed: TURN AROUND.
 
@@ -130,7 +130,7 @@ But she couldn’t move.
 
 “Someone’s there,” she whispered. “Behind me.”
 
-Theo’s eyes went wide. He looked over her shoulder. His face twisted. Not from fear. From confusion.
+Theo’s eyes went wide. He looked over her shoulder. His face scrunched up. Not from fear. From confusion.
 
 “There’s nobody there, Nora.”
 
@@ -142,11 +142,11 @@ Theo’s eyes went wide. He looked over her shoulder. His face twisted. Not from
 
 Shadow stood up. Slowly. He came over to Nora and pressed himself against her leg. Warm. Solid. Real. His body wasn’t trembling anymore. He just stood there. Between Nora and whatever was behind her.
 
-The presence changed. The cold grew softer. Not warmer, but less sharp. Like a hand opening. Like breathing settling down.
+The presence changed. The cold grew softer. Not warmer, but less sharp. Like a hand opening. Like fast breathing slowing down.
 
 Then it was over.
 
-The thickness behind Nora’s back faded away. Her shoulders dropped. Only now did she notice how tense she had been.
+The thick air behind Nora’s back faded away. Her shoulders dropped. She hadn’t noticed until now how tense she had been.
 
 “Okay,” Theo said. His voice was thin and high. “Okay. That was definitely something.” He took a breath. “New rule: no more basements. Never again. Not even to get a soda.” He swallowed. “Can we please go now?”
 
@@ -154,23 +154,23 @@ Nora turned around. Slowly. Her neck cracked softly.
 
 The corner was empty. Just damp stone and cold air.
 
-But on the floor.
+But the floor wasn’t.
 
-There were tracks in the dust on the basement floor. Footprints. Small. Narrow. Bare feet. A child’s feet.
+There were tracks in the dust. Footprints. Small. Narrow. Bare feet. A child’s feet.
 
-They led from the corner with the scratch marks to right behind the spot where Nora had just been standing. Five steps. Maybe six. Every print clear in the gray dust. Toes, ball, heel. Perfect.
+They started at the corner with the scratch marks. They led right up behind the spot where Nora had just been standing. Five steps. Maybe six. Every print clear in the gray dust. Toes, ball, heel. Perfect.
 
-They weren’t theirs. Nora and Theo were wearing sneakers. These prints were barefoot. A child’s feet.
+They weren’t theirs. Nora and Theo were wearing sneakers. These were bare feet. A child’s feet.
 
 Theo saw them too. He took a step back. His mouth opened. No sound came out. His eyes were huge.
 
-Shadow lowered his head and sniffed the nearest print. Then he looked up. At Nora. With that look that knew too much.
+Shadow lowered his head and sniffed the nearest print. Then he looked up. At Nora. With that look that said he knew too much.
 
 The footprints ended right behind Nora. Exactly where she had felt the presence. Exactly where someone she couldn’t see had been standing.
 
 Lina had been here.
 
-Nora reached for Theo’s hand. He grabbed hers back. His fingers were ice-cold. Behind them, in the corner, the water kept dripping. Steady. Calm. As if nothing had happened.
+Nora reached for Theo’s hand. He squeezed back. His fingers were ice-cold. Behind them, in the corner, the water kept dripping. Steady. Calm. As if nothing had happened.
 
 But the footprints stayed in the dust.
 

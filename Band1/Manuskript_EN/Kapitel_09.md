@@ -34,11 +34,11 @@ Nora stopped. Twelve. Like her.
 
 Shadow lifted his head. His ears perked up.
 
-The next entries were short. School days, friends, cotton candy at the fair. One entry was about going up on the roof with a flashlight, because Lina wanted to count stars. She had drawn the constellations, tiny dots in purple ink, joined by wobbly lines. Next to them she had written: “When I grow up, I want to be an astronomer. Or a vet. Or both.” A normal girl’s life. With every entry, Nora could picture Lina a little better.
+The next entries were short. School days, friends, cotton candy at the fair. One entry was about the roof. Lina had gone up there with a flashlight to count stars. She had drawn the constellations, tiny dots in purple ink, joined by wobbly lines. Next to them she had written: “When I grow up, I want to be an astronomer. Or a vet. Or both.” Just normal girl stuff. With every entry, Nora could picture Lina a little better.
 
 “She sounds nice,” Theo said quietly. “Cotton candy. Stars. A dog.” He stroked Shadow’s head. “At least she had a dog.”
 
-“Yeah.” Nora’s voice was thick. “She sounds like someone you’d want to know.”
+“Yeah.” Nora’s voice was rough. “She sounds like someone you’d want to know.”
 
 She kept turning pages: summer, the pool, ice cream from the corner store. Then it was September.
 
@@ -90,7 +90,7 @@ She kept reading.
 
 Theo pulled his knees tighter to his chest. “Her best friend,” he murmured. “Even she didn’t believe her.”
 
-“*October 15*,” Nora read. Her voice was barely a whisper now. “*Dad says it’s my imagination. Mom says it’s my imagination. Hanna says it’s my imagination. But I’m not imagining it. At night someone stands in my room. I can’t see it. But I can feel it. Cold. Right next to my bed. And Luna howls in the hallway.*”
+“*October 15*,” Nora read. Her voice was barely a whisper now. “*Dad says it’s my imagination. Mom says it’s my imagination. Hanna says it’s my imagination. But I’m not imagining it. At night someone stands in my room. I can’t see anyone. But I can feel it. Cold. Right next to my bed. And Luna howls in the hallway.*”
 
 Silence. Shadow pressed his head harder against Theo’s knee. Theo put his hand on Shadow’s neck.
 
@@ -144,7 +144,7 @@ She picked the book back up.
 
 ---
 
-“*October 30.* Only two entries left,” Nora said quietly. She could feel it. The end was coming. The last pages.
+“Only two entries left,” Nora said quietly. “*October 30.*” She could feel it. The end was coming. The last pages.
 
 “*I’ve been thinking. The basement is the coldest place. Luna won’t go down the basement stairs. She shakes all over and drags me away. But I think the answer is down there. It started down there.*”
 
@@ -194,7 +194,7 @@ He looked at her. No jokes. No sarcasm. Just a ten-year-old boy with wet eyes.
 
 “And she didn’t come back up.”
 
-Nora’s stomach tightened. The cold in the apartment seemed to grow thicker. Closing in.
+Nora’s stomach tightened. The cold in the apartment seemed to grow thicker. Tighter.
 
 Theo looked her straight in the eye.
 
