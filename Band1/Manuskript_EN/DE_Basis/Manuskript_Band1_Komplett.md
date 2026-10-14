@@ -901,7 +901,7 @@ Der zweite Stock. Der Flur. Die Tür mit dem Klingelschild SILBER.
 
 Sie stand offen. Einen Spalt breit. Nur war es diesmal anders.
 
-Diesmal war die Luft kühl. Nicht eisig wie beim letzten Mal. Eher wie ein Keller im Sommer. Nora schluckte. Da war ein metallischer Geschmack auf ihrer Zunge. Wie Münzen. Wie Blut nach einem Biss auf die Wange. Fremd und falsch.
+Diesmal war die Luft kühl. Nicht eisig wie beim letzten Mal. Eher wie ein Keller im Sommer. Nora schluckte. Da war ein metallischer Geschmack auf ihrer Zunge. Wie Münzen. Fremd und falsch.
 
 Nora blieb stehen. Sie legte die Hand an den Türrahmen. Das Holz war kühl, nicht kalt. Kein Frost unter den Fingerspitzen. Kein Atem, der dampfte.
 
@@ -1937,7 +1937,7 @@ Theo blieb stehen. „Kennst du die Stelle im Film, wo einer sagt: Komm, wir geh
 
 „Stimmt. Im Film gibt es wenigstens Hintergrundmusik. Dann weiß man, wann es gefährlich wird.“
 
-Nora ging weiter. Drei kleine Räume, durch niedrige Durchgänge verbunden. Spinnweben an der Decke. Irgendwo tropfte es. Regelmäßig. Wie ein langsamer Herzschlag. Auf ihrer Zunge lag ein metallischer Geschmack. Wie Blut. Wie alte Münzen.
+Nora ging weiter. Drei kleine Räume, durch niedrige Durchgänge verbunden. Spinnweben an der Decke. Irgendwo tropfte es. Regelmäßig. Wie ein langsamer Herzschlag. Auf ihrer Zunge lag ein metallischer Geschmack. Wie alte Münzen.
 
 Das Handylicht flackerte. Einmal. Dann ging es aus.
 

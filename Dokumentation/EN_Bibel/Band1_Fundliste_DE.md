@@ -117,3 +117,13 @@ Bereits entschieden, nicht wieder aufgenommen: Körbchen/Leine „am Abend" (B4-
 | F3 | K5 | Foto *„M. Silber, 2019."* ist *„Schwarzweiß. Die Ränder vergilbt"* | klein; als Silbers Eigenart lesbar (Schwarzweiß-Abzug). Bleibt, wenn du nichts änderst |
 
 Geprüft, **kein** Fehler (vom Übersetzer gemeldet): K7 *„jeden Morgen"* (Noras Vorstellung, nicht Zählung) · K7 das Glas (*„Sie wollte ein Glas Wasser"* steht davor) · K8 Werkzeug (*„Hast du nicht gesagt …"* — Gespräch außerhalb der Szene ist möglich) · K8 *„seit dem Umzug"*.
+
+## G · Neue Funde aus der Übersetzung, Block 3 (K9–K12) — 2026-10-14
+
+| # | Kap. | Befund | Entscheidung |
+|---|---|---|---|
+| G1 | K11 | *„Theo kniete vor dem Bücherregal"* — Folge von F2 (es gibt kein Regal) | **✅ Bücherstapeln (cec0c9a)**, Anwendung der Autor-Entscheidung F2 |
+| G2 | K5, K10 | Geschmack *„Wie Blut"* — widerspricht der Reihen-Regel „kein Blut" (CLAUDE.md); zwei Prüfer | **Autor 2026-10-14: ✅ gestrichen (9b67b13)** |
+
+Vom Übersetzer gemeldet, klein, **bewusst nicht** in die Fundliste: K10 Fahrräder/Fahrrad, *Schatten stand auf*; K11 Schreibtisch ↔ Tisch/Kommode (K5), Notizbuch zu/leer; K12 BITTE *„an jedes Fenster"*, Nachttischschublade ↔ Umzugskarton (K2). Silbers Notizbuch nennt den Hund *Schatten* und *vierzig Jahre* — **Absicht** (A7: nicht erklären, Reihe B4/B5).
+
