@@ -2171,7 +2171,7 @@ Er hob die Hände. „Ich suche ja schon.“
 
 Nora zog die Schubladen des Schreibtischs auf. Stifte. Kerzen. Lose Zettel. Nichts, das half.
 
-Theo kniete vor dem Bücherregal. Er zog Bücher heraus und schob sie zurück. „Stadtgeschichte Gravenstedt. Friedhöfe Norddeutschlands.“ Er hielt inne. „Frau Silber hatte wirklich gruselige Hobbys.“ Er hielt ein Buch hoch. „*Gespräche mit dem Jenseits*. Die hatte eine Standleitung.“
+Theo kniete vor den Bücherstapeln. Er zog Bücher heraus und schob sie zurück. „Stadtgeschichte Gravenstedt. Friedhöfe Norddeutschlands.“ Er hielt inne. „Frau Silber hatte wirklich gruselige Hobbys.“ Er hielt ein Buch hoch. „*Gespräche mit dem Jenseits*. Die hatte eine Standleitung.“
 
 „Konzentrier dich.“
 
