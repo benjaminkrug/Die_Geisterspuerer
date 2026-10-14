@@ -3095,7 +3095,7 @@ Dann legte er sich hin. Genau auf eine bestimmte Diele. Er legte die Pfote darau
 
 Nora kniete sich hin. Die Diele hatte eine Kante, kaum zu sehen. Sie war nicht festgenagelt.
 
-Theo reichte ihr wortlos seinen Brieföffner. Nora hebelte. Staub rieselte. Die Diele kam hoch.
+Theo reichte ihr wortlos den Schraubenzieher. Nora hebelte. Staub rieselte. Die Diele kam hoch.
 
 Darunter lag ein Umschlag. Groß und vergilbt. Verschlossen mit einem Siegel aus rotem Wachs.
 
