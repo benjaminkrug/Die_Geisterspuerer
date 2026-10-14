@@ -40,4 +40,10 @@
 Nach Block 1: Leseprobe an US-Lesegruppen (`Dokumentation/EN_Bibel/E2_Anschreiben_Testleser.md`).
 Am Ende: Gesamtdurchgang (Stimmen, Running Gags), Kinderleser am Stück, D8 Nachanalyse, Rahmen (Titelei, Impressum mit KI-Hinweis, Anhang).
 
-**Offene Entscheidung für den Anhang:** Die deutsche Leseprobe stammt aus Band 2 — auf Englisch gibt es Band 2 noch nicht.
+## Rahmen (Titelei, Impressum, Anhang) — fertig 2026-10-14
+
+- Texte: `Rahmen/Rahmen_EN.md` (je Seite ein Abschnitt), Leseprobe Book 2: `Rahmen/EN_Leseprobe_Band2.md` (aus `DE_Leseprobe_Band2.md`, D4 + D5 + Gegenprobe).
+- Autor-Entscheidungen: Leseprobe übersetzt („Coming soon"); Impressum nur *Translated from the German.* (KI-Angabe im KDP-Dashboard); keine nur-deutschen Reihen; Rezensions-Link erst nach Veröffentlichung.
+- Bau: `python3 Scripts/build_ebook_en_band1.py` → `Output/Band1_EN/KDP_Book1_eBook_EN.docx` (prüft Abschnitte, Platzhalter, jeden Kapitelabsatz, 16 Kapitel).
+- **Nach Veröffentlichung:** ASIN in `BOOK1_ASIN_EN` eintragen, neu bauen, Datei bei KDP ersetzen.
+- Band 2 (DE) Kap. 1 angepasst (*diesen Sommer*, *seit Wochen*, Commit 8e40adc auf dem Band-1-Branch).

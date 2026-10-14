@@ -118,3 +118,5 @@ Skript nach Runde 2: 0 Befunde. Abschn. 1–3 oben = Stand Runde 1; wo sie abwei
 - Bewertung: *I’d love …*; *And it helps me bring you more adventures with Nora, Theo, and Shadow.* Koordinator-Satz *Kids, ask a parent or another grown-up to post it for you.* bleibt (Amazon: Rezensenten volljährig).
 - Reihenliste: *The Ghost Listeners series*.
 - Offen: Titelseite *Book One*, sonst *Book 1/Book 2* (Vorgabe Koordinator; D5 empfahl einheitlich ausgeschrieben).
+- **Gegenprobe R2** (`Pruefung/D4_Leseprobe_Band2_Gegenprobe_R2.md`): Abs. 9 *properly* → “I’m chewing slowly” (Ausrede, auf die Theos *You’re not chewing at all* antwortet) · Abs. 25 *started to drag* → “The leash felt heavier.” (*drag* kann „locker schleifen“ heißen) · Abs. 31 *He was walking differently now.* → “He put his paws down differently now. More carefully.” (Pfoten wie DE).
+- Z.53 Nachtrag (Projektleitung): *Nora felt it right away. The leash felt heavier.* → *Nora noticed it right away.* — doppeltes *felt*; DE *spürte* bleibt sinngleich.

@@ -16,7 +16,7 @@ Nora hadn’t exactly rushed through breakfast.
 
 He sat across from her. He had already polished off two rolls, a bowl of cereal, and a glass of orange juice. Shadow sat next to his chair, waiting patiently for crumbs. His amber eyes went from Theo to Nora and back again.
 
-“I’m chewing properly,” Nora said.
+“I’m chewing slowly,” Nora said.
 
 “You’re not chewing at all. You’re staring at the roll.”
 
@@ -50,7 +50,7 @@ Until they turned the first corner.
 
 Shadow slowed down.
 
-Nora felt it right away. The leash started to drag. She knew what that meant. She glanced at the dog. Ears half flat, tail down. He was sniffing the air.
+Nora noticed it right away. The leash felt heavier. She knew what that meant. She glanced at the dog. Ears half flat, tail down. He was sniffing the air.
 
 “Shadow?” Theo said.
 
@@ -62,7 +62,7 @@ Shadow didn’t even turn his head. He kept sniffing. His eyes narrowed.
 
 “Maybe let’s not ask what.”
 
-They kept walking. Shadow followed, but more slowly. He was walking differently now. More carefully. Nora held the leash tighter.
+They kept walking. Shadow followed, but more slowly. He put his paws down differently now. More carefully. Nora held the leash tighter.
 
 ---
 
