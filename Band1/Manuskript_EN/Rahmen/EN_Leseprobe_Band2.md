@@ -2,13 +2,13 @@
 
 Shadow wouldn’t go in.
 
-Nora didn’t find that out until the gate—but at breakfast, an hour earlier, she had looked at him and thought: He already knows. He always knows what’s coming.
+Nora didn’t find that out until they reached the gate. But an hour earlier, at breakfast, she had looked at him. He already knows, she had thought. He always knows what’s coming.
 
-Mrs. Silber’s map had been lying on her desk for days. Hand-drawn, with twelve marks. One was crossed out. Lina. That left eleven.
+Mrs. Silber’s map had been lying on Nora’s desk for weeks. Hand-drawn, with twelve marks. One was crossed out. Lina. That left eleven.
 
-The next one: the old cemetery at the edge of the Old Town. Three blocks from their apartment.
+The next mark was the old cemetery, at the edge of the Old Town. Three blocks from their apartment.
 
-At breakfast, Nora hadn’t been in any particular hurry.
+Nora hadn’t exactly rushed through breakfast.
 
 ---
 
@@ -16,7 +16,7 @@ At breakfast, Nora hadn’t been in any particular hurry.
 
 He sat across from her. He had already polished off two rolls, a bowl of cereal, and a glass of orange juice. Shadow sat next to his chair, waiting patiently for crumbs. His amber eyes went from Theo to Nora and back again.
 
-“I’m chewing thoroughly,” Nora said.
+“I’m chewing properly,” Nora said.
 
 “You’re not chewing at all. You’re staring at the roll.”
 
@@ -24,11 +24,11 @@ He sat across from her. He had already polished off two rolls, a bowl of cereal,
 
 Theo leaned back. “You’re scared.”
 
-Nora put the roll down on her plate. Her stomach had already tightened when she woke up. A small, nasty knot that had stayed with her the whole time she brushed her teeth. Her mouth was dry. She had barely touched her tea.
+Nora put the roll down on her plate. Her stomach had been tight since she woke up. A small, nasty knot. It hadn’t gone away, not even while she brushed her teeth. Her mouth was dry. She had barely touched her tea.
 
 “I’m not scared,” she said.
 
-“We’re going to a cemetery today,” Theo said. “To look for a ghost. After everything that happened last month.” He paused for a moment. “I’m scared. I’m just going to say it out loud.”
+“We’re going to a cemetery today,” Theo said. “To look for a ghost. After everything that happened this summer.” He stopped for a second. “I’m scared. I’m just going to say it out loud.”
 
 “Then stay here.”
 
@@ -38,7 +38,7 @@ Nora put the roll down on her plate. Her stomach had already tightened when she 
 
 They left twenty minutes later.
 
-The sun was shining. That was almost suspicious. Somehow Nora had expected rain, gray skies, the right weather for a trip to a cemetery. Instead: a clear fall morning, golden light on the cobblestones, the smell of fresh pretzels from the bakery on the corner.
+The sun was shining. That was almost suspicious. Nora had expected rain. Gray skies. Real cemetery weather. Instead, it was a clear fall morning. Golden light on the cobblestones. The smell of fresh pretzels from the bakery on the corner.
 
 Gravenstedt looked harmless when the sun was shining.
 
@@ -50,11 +50,11 @@ Until they turned the first corner.
 
 Shadow slowed down.
 
-Nora felt it right away—the leash got heavier. She knew that sign. A quick look at the dog: ears half flat, tail down. He was sniffing the air.
+Nora felt it right away. The leash started to drag. She knew what that meant. She glanced at the dog. Ears half flat, tail down. He was sniffing the air.
 
 “Shadow?” Theo said.
 
-No reaction. Shadow kept sniffing. His eyes narrowed.
+Shadow didn’t even turn his head. He kept sniffing. His eyes narrowed.
 
 “He smells something,” Theo said.
 
@@ -62,11 +62,11 @@ No reaction. Shadow kept sniffing. His eyes narrowed.
 
 “Maybe let’s not ask what.”
 
-They kept walking. Shadow came along—but slower. He set his paws down differently, more carefully. Nora held the leash tighter.
+They kept walking. Shadow followed, but more slowly. He was walking differently now. More carefully. Nora held the leash tighter.
 
 ---
 
-The gate was made of old iron. Tall, with pointed tips at the top, the paint long since peeled off. A rusty screw dangled from one of the hinges. Next to it, a small sign: GRAVENSTEDT MAIN CEMETERY.
+The gate was old iron. It was tall, with spikes on top, and the paint had peeled off long ago. A rusty screw dangled from one of the hinges. A small sign next to the gate said GRAVENSTEDT MAIN CEMETERY.
 
 “That’s big,” Theo said.
 

@@ -1,12 +1,12 @@
 ## Half title
 
-The Ghost Listeners
+The Whispering Window
 
 ## Title page
 
 The Ghost Listeners
 
-Book 1
+Book One
 
 The Whispering Window
 
@@ -14,9 +14,11 @@ Benjamin Krug
 
 ## Copyright page
 
-Text © 2026 Benjamin Krug
+Copyright © 2026 by Benjamin Krug
 
 All rights reserved.
+
+No part of this book may be reproduced, stored in a retrieval system, or transmitted in any form or by any means without written permission from the author, except for brief quotations in a book review.
 
 Originally published in German as *Die Geisterspürer: Das Haus, das flüstert* (2026).
 
@@ -24,7 +26,7 @@ Translated from the German.
 
 This is a work of fiction. Names, characters, places, and events are products of the author’s imagination or are used fictitiously. Any resemblance to actual persons, living or dead, or to actual events is entirely coincidental.
 
-First English edition 2026
+First English-language edition 2026
 
 Independently published
 
@@ -40,15 +42,9 @@ Eleven circles on Mrs. Silber’s map.
 
 The next one is at the old cemetery.
 
-The Ghost Listeners · Book 2
-
-The Graveyard Without Names
-
-Coming soon
-
 ## Sneak peek heading
 
-A sneak peek at Book 2
+A sneak peek at Book 2: *The Graveyard Without Names*
 
 ## After the sneak peek
 
@@ -66,9 +62,9 @@ Coming soon
 
 Did you enjoy *The Whispering Window*?
 
-I would love to hear what you thought. A short review on Amazon helps more than you might think—even one or two sentences is plenty. Kids, ask a parent or another grown-up to post it for you.
+I’d love to hear what you thought. A short review on Amazon helps more than you might think—even one or two sentences is plenty. Kids, ask a parent or another grown-up to post it for you.
 
-Every review helps other kids (and their parents) find this book. And it helps me write the next ones.
+Every review helps other kids (and their parents) find this book. And it helps me bring you more adventures with Nora, Theo, and Shadow.
 
 Thank you so much!
 
@@ -78,7 +74,7 @@ Benjamin Krug
 
 ## Series list
 
-The Ghost Listeners
+The Ghost Listeners series
 
 Book 1: The Whispering Window
 
