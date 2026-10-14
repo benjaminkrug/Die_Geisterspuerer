@@ -8,4 +8,4 @@ Jede Änderung am deutschen Text nach dem Einfrieren hier eintragen; das Englisc
 | 2026-10-14 | d2badb5 | 5, 6 | Fundliste F1/F2: K6 Theo *„Was meinst du?“* statt *„Vierzig Jahre lang was?“* · K5 *„Neben den Bücherstapeln“* statt *„Neben dem Bücherregal“* — DE_Basis mitgezogen | K5, K6 ✅ Block 2 Runde 2 |
 | 2026-10-14 | cec0c9a | 11 | Folge von F2: *„Theo kniete vor den Bücherstapeln.“* statt *vor dem Bücherregal* (vom Übersetzer gefunden) — DE_Basis mitgezogen | ✅ Block 3 Runde 2 |
 | 2026-10-14 | 9b67b13 | 5, 10 | Autor: Blut-Vergleich gestrichen — K5 *„Wie Münzen.“* (statt *… Wie Blut nach einem Biss auf die Wange.*), K10 *„Wie alte Münzen.“* (statt *Wie Blut. Wie alte Münzen.*) — DE_Basis mitgezogen | ✅ Block 3 Runde 2 (K5 und K10) |
-| 2026-10-14 | 8820bb3 | 15 | Autor: *„Theo reichte ihr wortlos den Schraubenzieher.“* statt *seinen Brieföffner* (nicht eingeführt) — DE_Basis mitgezogen | Block 4 Runde 2 |
+| 2026-10-14 | 8820bb3 | 15 | Autor: *„Theo reichte ihr wortlos den Schraubenzieher.“* statt *seinen Brieföffner* (nicht eingeführt) — DE_Basis mitgezogen | ✅ Block 4 Runde 2 |

@@ -28,11 +28,15 @@
 | 10 | ✅ | ✅ | ✅ | ✅ R1–R3 | ✅ | R2, R3 | ✅ | 0 | ✅ (Meldung: R3 „nur bei genauem Lesen“) |
 | 11 | ✅ | ✅ | ✅ | ✅ | ✅ | R2 | ✅ | 0 | ✅ |
 | 12 | ✅ | ✅ | ✅ | ✅ | ✅ | R2 | ✅ | 0 | ✅ |
-| 13–16 | Block 4 | | | | | | | | |
+| 13 | ✅ | ✅ | ✅ | ✅ R1–R2 | ✅ | R2, R3 | ✅ | 0 | ✅ |
+| 14 | ✅ | ✅ | ✅ | ✅ | ✅ | R2 | ✅ | 0 | ✅ |
+| 15 | ✅ | ✅ | ✅ | ✅ | ✅ | R2, R3 | ✅ | 0 | ✅ |
+| 16 | ✅ | ✅ | ✅ | ✅ R1–R2 | ✅ | R2, R3 | ✅ | 0 | ✅ |
 
 **Block 1 fertig (2026-10-13)** — Auswertung: `Pruefung/Auswertung_Block1.md`.
 **Block 2 fertig (2026-10-14)** — Auswertung: `Pruefung/Auswertung_Block2.md`.
 **Block 3 fertig (2026-10-14)** — Auswertung: `Pruefung/Auswertung_Block3.md`.
+**Block 4 fertig (2026-10-14) — Übersetzung Band 1 vollständig.** Auswertung: `Pruefung/Auswertung_Block4.md`. Gesamtfassung: `The_Whispering_Window_Komplett.md`.
 Nach Block 1: Leseprobe an US-Lesegruppen (`Dokumentation/EN_Bibel/E2_Anschreiben_Testleser.md`).
 Am Ende: Gesamtdurchgang (Stimmen, Running Gags), Kinderleser am Stück, D8 Nachanalyse, Rahmen (Titelei, Impressum mit KI-Hinweis, Anhang).
 
