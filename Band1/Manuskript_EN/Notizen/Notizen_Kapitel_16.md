@@ -168,3 +168,29 @@ Alle Briefzeilen stehen jetzt als Zitat im Zitat **“‘…’”** — die Buc
 **Gegenprobe (nur Bedeutung, 17 Stellen):** Gefundene Abweichung, behoben: Z.37 erste Neufassung *To this day, it is the same with every one of them.* hatte *mir* (*So geht es **mir***) verloren → *the same for me* wieder eingesetzt. Grenzfälle, belassen: *To those who find this letter* (*Liebe* entfällt; Förmlichkeit bleibt) · *right then* für *gerade* · *there was another hand* für *läge … eine zweite Hand* (Liegen nicht mehr ausgedrückt; *another* = *zweite*) · *coming through it* (*it* nur Bezug, kein Zusatz) · *She went to roll up the map* (Absicht, unterbrochen wie *wollte*). Sonst keine Abweichung.
 
 **Prüfskript:** 0 Befunde (nach Verzicht auf Kursiv). **konsistenz:** unverändert (6 Stellen wie vor der Runde).
+
+## Runde 3 (Block 4)
+
+Grundlage: `Pruefung/D4_Block4_Gegenprobe_R2.md` (K16: 1 SCHWÄCHE, Z.173), `Pruefung/D5_K16_R2.md`. Nur Gelistetes geändert.
+
+### Buchschluss, dritte Fassung — DE *„Es fühlte sich an, als läge auf der anderen Seite gerade eine zweite Hand.“* / *„Genau auf derselben Stelle.“*
+Anforderungen (D4 + D5): kein Uhrzeiger; die **Berührung** von *läge* (Hand flach am Papier, Handfläche an Handfläche); Schluss auf *hand* oder der Berührung; kaum Kommas; *the other side* offen; kein *someone*.
+- (a) **Right then it felt as if another hand were lying flat against the other side. / In exactly the same spot.**
+- (b) *It felt as if another hand were pressed flat against the other side right then. / In exactly the same spot.*
+- (c) *It felt as if another hand lay against the other side right then. / Right where hers was.*
+- **Wahl (a).** Null Kommas, der Satz baut ohne Stocken auf. *Right then* (= *gerade*) steht vorn, damit der Satz auf der Berührung endet: *lying flat against the other side* — die Hand liegt flach an, wie *läge*, ohne Handlung (kein *pressing*, das jemandem Absicht gäbe). *another hand* = *zweite Hand* ohne Sekundenzeiger. Kein *someone*; *the other side* bleibt Papierrückseite oder Jenseits. (b) endet wieder auf der Zeit, *pressed* klingt nach jemandem, der drückt. (c) hat wieder *lay* (R2) und endet auf der Zeit.
+- **Letzte Zeile bleibt *In exactly the same spot.*** — *Right where hers was.* (D5) ist nicht falsch (*dieselbe Stelle* = wo Noras Hand liegt), aber es benennt Noras Hand, wo das DE nur *Stelle* sagt, und doppelt das *Right* vom Satzanfang. *spot* nimmt außerdem Z.161 *Only in one spot* auf. Die Zeile steht weiter allein.
+
+| Befund | Entscheidung | Grund / alt → neu |
+|---|---|---|
+| D4 R2 Z.173 Berührung verloren, Kommakette | angenommen | *It felt as if, right then, on the other side, there was another hand.* → *Right then it felt as if another hand were lying flat against the other side.* |
+| D5 R2 #18 Z.173 Kommas | angenommen | wie oben; *pressing back* abgelehnt (Handlung erfunden). |
+| D5 R2 #3 Z.37 *To this day, it is the same for me …* | angenommen | → *It is still the same for me with every one of them.* (*bis heute* = *still*; *for me* bleibt, Silbers förmliche Stimme). |
+| D5 R2 #9 Z.89 *half-dark* | angenommen | → *Two bright points in the dim room.* |
+| D5 R2 #7 Z.75 Ortsangabe vorn | angenommen | → *“She wrote about him in the notebook,” Nora said slowly.* — Gegensatz *Here she’s writing to us.* bleibt. |
+| D5 R2 #10 Z.93 *Gravenstedt lay in the night* | angenommen (teilw.) | → *Outside, Gravenstedt spread out in the dark.* (*was asleep* abgelehnt: neues Bild); gleiches Verb wie K13 Z.197. |
+| D5 R2 #8 Heizung/Juli · #12 *Eleven who were still waiting* | abgelehnt | Auftrag: Heizung gesetzt; DE-Satz. |
+| D5 R2 übrige Punkte | nicht behandelt | Runde 3 ändert nur Gelistetes. |
+
+**Gegenprobe (nur Bedeutung, 5 Sätze):** *Right then … another hand were lying flat against the other side* = *als läge auf der anderen Seite gerade eine zweite Hand* (*flat* macht das Liegen sichtbar, kein Zusatz an Inhalt) · *It is still the same for me* = *So geht es mir bis heute* · *in the dim room* = *im Halbdunkel* (Raum = ihr Zimmer, aus dem Zusammenhang) · *She wrote about him in the notebook* = *Im Notizbuch hat sie über ihn geschrieben* · *spread out in the dark* = *lag bei Nacht*. Keine Abweichung.
+**Prüfskript:** 0 Befunde. **konsistenz:** unverändert (6 Stellen). **Wortliste:** Zeile Buchschluss aktualisiert.

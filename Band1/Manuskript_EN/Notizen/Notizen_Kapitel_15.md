@@ -155,3 +155,15 @@ Funktion: Theo liest den Zwei-Wort-Zettel stur bis zum Satzende vor — knappe N
 **Gegenprobe (nur Bedeutung, 15 Stellen):** *The end* ist Umbau nach A3 (Witzfunktion, kein Inhalt). *dark shapes* = *lange Schatten* (Sonne wirft Schatten). *Right on top of one floorboard* (*eine bestimmte*: „bestimmt“ abgeschwächt, Pfote darauf trägt es). *under old linden trees* (*im Schatten der Linden*). *the screwdriver* = neues DE (*den Schraubenzieher*, bestimmter Artikel wie DE). Keine Abweichung gefunden.
 
 **Prüfskript:** 0 Befunde. **konsistenz:** unverändert (*noch nicht* K06/K15 wie gehabt, bewusst). Abschn. 4 Nr. 1 (Brieföffner) durch Autor erledigt.
+
+## Runde 3 (Block 4)
+
+Grundlage: `Pruefung/D4_Block4_Gegenprobe_R2.md` (K15: 2 SCHWÄCHE). Nur diese zwei Stellen.
+
+| Befund | Entscheidung | Grund / alt → neu |
+|---|---|---|
+| D4 R2 Z.53 *long dark shapes* klingt nach Gestalten (nimmt den Geist vorweg) | angenommen | *The evening sun cast long dark shapes across the sidewalk.* → *The evening sun stretched long stripes of shade across the sidewalk.* (Licht/Schatten-Bild, A7 Ruhe vor dem Schreck; kein kleines *shadow*). |
+| D4 R2 Z.71 *under old linden trees* verliert das Dunkle | angenommen | → *The cemetery lay in the shade of old linden trees.* (dunkle Insel in der Abendsonne → *In July. In the evening sun.*). R2-Entscheidung (D6 *shade* ≈ *Shadow*) damit zurückgenommen: Wirkung vor Vorleseglätte (Pilot 5.1 Nr. 2). |
+
+**Gegenprobe:** *stripes of shade* = *lange Schatten* · *in the shade of* = *im Schatten der*. Keine Abweichung.
+**Prüfskript:** 0 Befunde. **konsistenz:** unverändert.

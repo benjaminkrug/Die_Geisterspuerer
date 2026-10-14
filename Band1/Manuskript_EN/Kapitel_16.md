@@ -34,7 +34,7 @@ She kept reading. “‘The first person I helped was a girl. Anna. She only wan
 
 Nora nodded. Her throat was tight.
 
-“‘I cried for a long time afterward,’” she read. “‘From sadness and from happiness. To this day, it is the same for me with every one of them.’”
+“‘I cried for a long time afterward,’” she read. “‘From sadness and from happiness. It is still the same for me with every one of them.’”
 
 ---
 
@@ -72,7 +72,7 @@ Theo’s hand hung in the air where Shadow’s ear had been a second ago.
 
 “The First One,” he whispered. “Like in her notebook.”
 
-“In the notebook, she wrote about him,” Nora said slowly. “Here she’s writing to us. She’s warning us.”
+“She wrote about him in the notebook,” Nora said slowly. “Here she’s writing to us. She’s warning us.”
 
 Shadow growled. Deep. He stared at the hallway window. Out over the rooftops.
 
@@ -86,11 +86,11 @@ Nora couldn’t sleep.
 
 She sat by the window. Behind her, the apartment was dark. The radiator ticked. Familiar sounds.
 
-Shadow lay next to her on the floor. His warm body pressed against her leg. His eyes were open. Two bright points in the half-dark.
+Shadow lay next to her on the floor. His warm body pressed against her leg. His eyes were open. Two bright points in the dim room.
 
 The map was on her desk. Next to it, the letter.
 
-Outside, Gravenstedt lay in the night. Rooftops and chimneys. Streetlights that cast yellow circles on the cobblestones. The church tower, black against the dark blue sky.
+Outside, Gravenstedt spread out in the dark. Rooftops and chimneys. Streetlights that cast yellow circles on the cobblestones. The church tower, black against the dark blue sky.
 
 A completely normal city. At least that’s how it looked.
 
@@ -170,7 +170,7 @@ Shadow stood next to her. He didn’t growl. He whined. Very softly.
 
 Nora didn’t pull her hand away. The cold bit into her fingertips.
 
-It felt as if, right then, on the other side, there was another hand.
+Right then it felt as if another hand were lying flat against the other side.
 
 In exactly the same spot.
 

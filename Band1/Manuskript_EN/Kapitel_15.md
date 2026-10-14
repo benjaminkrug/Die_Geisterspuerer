@@ -50,7 +50,7 @@ But he got up and grabbed the leash.
 
 ---
 
-The evening sun cast long dark shapes across the sidewalk. The air smelled like warm stone. Shadow trotted between them. Calm. His fur flat.
+The evening sun stretched long stripes of shade across the sidewalk. The air smelled like warm stone. Shadow trotted between them. Calm. His fur flat.
 
 Until they reached the library.
 
@@ -68,7 +68,7 @@ The dog’s hackles rose. From his neck all the way to his tail. A growl came fr
 
 “I see it,” Theo whispered back. “I mean, I don’t see anything. But I see that he sees something.”
 
-The cemetery lay under old linden trees. Crooked gravestones, green with moss. A rusty iron gate, half open. Behind it, a gravel path that disappeared between the graves.
+The cemetery lay in the shade of old linden trees. Crooked gravestones, green with moss. A rusty iron gate, half open. Behind it, a gravel path that disappeared between the graves.
 
 Nora let out her breath. A small white cloud hung in front of her mouth.
 

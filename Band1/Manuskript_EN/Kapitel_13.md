@@ -8,7 +8,7 @@ Nora stared at the word in the condensation. The letters were clear and sharp. N
 
 Nora nodded. Lina had lived down here, in what was now Nora’s room. But the cold and the knocking had always come from above. From the empty apartment. As if Lina had hidden away up there, where nobody would bother her.
 
-Her heart was calm. For the first time in days, it was calm. The cold had left the apartment. The air felt the way it does after a thunderstorm. Fresh. Soft. As if someone had opened a window.
+Her heart beat steadily. For the first time in days, it beat steadily. The cold had left the apartment. The air felt the way it does after a thunderstorm. Fresh. Soft. As if someone had opened a window.
 
 Shadow stood at the apartment door. He didn’t scratch. He didn’t whine. He just waited. His tail wagged slowly back and forth.
 
@@ -32,7 +32,7 @@ Nora pushed it open. No creak. The door swung inward without a sound. Shadow wen
 
 “Okay,” Theo muttered. “If the dog goes in, we go in.”
 
-The hallway was dark. Moonlight fell through the kitchen window at the end of the hall and painted a silver stripe on the floorboards. Nora smelled dust and old wood. But the air wasn’t cold. Not like before. Not like the first time.
+The hallway was dark. Moonlight came in through the kitchen window at the end of the hall and painted a silver stripe on the floorboards. Nora smelled dust and old wood. But the air wasn’t cold. Not like before. Not like the first time.
 
 “It’s warm,” Theo whispered. “Nora, it’s warm up here.”
 
@@ -108,7 +108,7 @@ Shadow lay still. His eyes were half closed. His tail lay motionless on the floo
 
 Nora didn’t answer. She couldn’t put it into words. But she could feel it. Something was letting go.
 
-The spot of light moved. Slowly. It slid across the floor, over the cover of the diary, past Shadow’s paw, toward the window. It got a little bigger. A little brighter. The gold turned whiter. Clearer.
+The spot of light moved. Slowly. It slid across the floor, over the cover of the diary, past Shadow’s paw, toward the window. It got a little bigger. A little brighter. The gold turned whiter. Purer.
 
 Nora’s eyes blurred. She didn’t blink.
 
@@ -192,9 +192,9 @@ Theo nodded. He didn’t say anything else. He didn’t need to.
 
 ---
 
-After a while Nora stood up. Her knees cracked. The night was still. Moonlight fell through the window onto the floor, right where the golden light had been. Now it was only silver. Cold and clear.
+After a while Nora stood up. Her knees cracked. The night was still. Moonlight shone through the window onto the floor, right where the golden light had been. Now it was only silver. Cold and clear.
 
-She went to the window. From up here she could see over the rooftops. Gravenstedt lay in front of her like a blanket of darkness and lights. Streetlights, yellow and warm. Windows where lamps were still on. Chimneys. Antennas. The outline of the church tower at the end of the street.
+She went to the window. From up here she could see over the rooftops. Gravenstedt spread out in front of her like a blanket of darkness and lights. Streetlights, yellow and warm. Windows where lamps were still on. Chimneys. Antennas. The outline of the church tower at the end of the street.
 
 A normal city. A completely normal city at night. But Nora knew better.
 

@@ -163,7 +163,7 @@
 | Elf, die noch warteten. | *Eleven who were still waiting.* | K16 | B2 K1 (Zählstand) |
 | Er hat uns gefunden. Er hat vor der Tür gesessen und gewartet. | *He found us.* · *He sat outside the door and waited.* | K16 | ← K1 |
 | Das ist schlimmer als gruselig. Das ist traurig. | *That’s worse than creepy. That’s sad.* | K16 | B2 (Heinrich, Erinnern) |
-| Buchschluss | *It felt as if, right then, on the other side, there was another hand.* / *In exactly the same spot.* · *END OF BOOK 1* | K16 | B2-Haken; *the other side* (A1); nie *second hand* (Sekundenzeiger, Block 4) |
+| Buchschluss | *Right then it felt as if another hand were lying flat against the other side.* / *In exactly the same spot.* · *END OF BOOK 1* | K16 | B2-Haken; *the other side* (A1); nie *second hand* (Sekundenzeiger); Berührung von *läge* (Block 4 R3) |
 | Etwas löste sich. (K13, Befreiung) | *Something was letting go.* | K13 | Echo K13 *finally get to let go*; K12 *But something came loose.* bleibt (anderer Satz) |
 | Drei, vielleicht vier Straßen / ein paar Straßen (Entfernung) | *Three, maybe four blocks away* · *… blocks from their building* · *only a few blocks away* | K13 | K14, K15 (Block 4: *streets away* klang britisch) |
 | Schraubenzieher (K15, DE geändert) | *Without a word, Theo handed her the screwdriver.* | K15 | ← K8 *the screwdriver* (Papas Werkzeugkasten) |

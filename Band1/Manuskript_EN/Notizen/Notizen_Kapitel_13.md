@@ -167,3 +167,20 @@ Grundlage: `Pruefung/D3_K13.md`, `D4_K13.md`, `D5_K13.md`, `D6_K13-K16_Gesamt.md
 **Gegenprobe (nur Bedeutung, jeder geänderte Satz gegen DE, 27 Stellen):** Grenzfälle, belassen: *Clearer.* (*Reiner*: rein → klarer; Farbe bleibt „weißer“) · *wagged* (*pendelte*: langsames Wedeln, freundlich wie DE) · *behind her ribs* (*Brustbein*: gleiche Stelle, bleibt Körper) · *Next to it, THANK YOU was still there.* (*das andere Wort* entfällt als Zeiger, Inhalt gleich) · *Of all the names on it* (*all* verstärkt minimal). Keine Abweichung gefunden, keine zurückgenommen.
 
 **Prüfskript:** 0 Befunde. **konsistenz:** unverändert (6 Stellen wie vor der Runde, keine neue).
+
+## Runde 3 (Block 4)
+
+Grundlage: `Pruefung/D4_Block4_Gegenprobe_R2.md` (K13: 2 SCHWÄCHE), `Pruefung/D5_K13_R2.md`; Auftrag: nur die gelisteten Punkte ändern.
+
+| Befund | Entscheidung | Grund / alt → neu |
+|---|---|---|
+| D4 R2 Z.11 Herzschlag abstrakt | angenommen | *Her heart was calm. … it was calm.* → *Her heart beat steadily. For the first time in days, it beat steadily.* (körperlich, Wiederholung des DE bleibt; *calmly* war in R1 als schiefe Verbindung markiert). |
+| D4 R2 Z.111 *Clearer* | angenommen | → *Purer.* (*Reiner*). |
+| D5 R2 #6 Z.35 *Moonlight fell through* | angenommen | → *Moonlight came in through the kitchen window …* |
+| D5 R2 #6 Z.195 *Moonlight fell through* | angenommen | → *Moonlight shone through the window onto the floor …* |
+| D5 R2 #22 Z.197 *Gravenstedt lay in front of her* | angenommen (teilw.) | → *Gravenstedt spread out in front of her like a blanket of darkness and lights.* — Decken-Bild des DE bleibt. |
+| D5 R2 #5 *Third floor* · #17 Lehrer am Montag · #16 Licht wird kleiner | abgelehnt | Auftrag: E9 richtig; Schule im Juli gesetzt; Wiederholung steht im DE. |
+| D5 R2 übrige Punkte | nicht behandelt | Runde 3 ändert nur Gelistetes (späte Runden erzeugen neue Spuren). |
+
+**Gegenprobe (nur Bedeutung, 5 Sätze):** *beat steadily* = *schlug ruhig* · *Purer* = *Reiner* · *came in through / shone through* = *fiel durch* · *spread out in front of her like a blanket* = *lag vor ihr wie eine Decke*. Keine Abweichung.
+**Prüfskript:** 0 Befunde. **konsistenz:** unverändert (6 Stellen).
