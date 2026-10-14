@@ -30,7 +30,7 @@ Nach drei Runden: TRANSLATED 5 (Grenze 7), Urteil „ja, aber nur bei genauem Le
 - **Meine eigene Einschätzung war einmal falsch:** K10 *Her fingers scratching at the stone* hielt ich für unbedenklich; die unabhängige Gegenprobe erkannte, dass es die Kratzer Lina zuschreibt (A7: offen lassen). Die Regel „unabhängige Gegenprobe auf jede späte Änderung" hat in allen drei Blöcken Fehler gefunden, die Übersetzer und ich übersehen hatten.
 - **Runde 3 erzeugt neue Übersetzungs-Zeichen** (*opened heavily*, *pushed down on the handle*). Lehre: In späten Runden nur noch Bedeutungs- und klare Lektor-Funde, keine breite Glättung.
 - **Geprüft, kein Fehler:** Schatten knurrt in K12 bei Lina, obwohl K11 „knurrt = wütend" erklärt — Lina drängt (BITTE an allen Fenstern), solange nur *für sich* gelesen wurde; nach dem Vorlesen *Er knurrte nicht.* A7 sieht das Knurren vor. Silbers Notizbuch nennt den Hund *Schatten* und *vierzig Jahre* — Absicht (Reihen-Geheimnis).
-- **Deutsche Kleinigkeiten** (Fundliste G, unten): bewusst nicht vorgelegt, jede einzeln klein.
+- **Deutsche Kleinigkeiten** (Fundliste G, Absatz unter der Tabelle): bewusst nicht vorgelegt, jede einzeln klein.
 - **Alle Urteile sind KI-Urteile.** US-Testleser stehen aus.
 
 ## Nächste Schritte
