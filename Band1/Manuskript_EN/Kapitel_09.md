@@ -18,7 +18,7 @@ Shadow whined once more. Then he went quiet. He lay down right next to Theo’s 
 
 Theo nodded. He sat across from her, his knees pulled up, his back against the wall. His face was pale under the ceiling light.
 
-Nora turned to the first page.
+Nora turned to the first entry.
 
 ---
 
@@ -80,9 +80,9 @@ Shadow lifted his head. Only for a moment. Then he laid it back down on his paws
 
 “I know.” Nora swallowed. “Exactly the same.”
 
-“And her parents blamed it on the radiator.” Theo shook his head. “Like you did with the pipes.”
+“And her parents had an explanation for everything.” Theo shook his head. “Like you did with the pipes.”
 
-Nora didn’t say anything. Because he was right.
+Nora said nothing. Because he was right.
 
 She kept reading.
 
@@ -144,7 +144,7 @@ She picked the book back up.
 
 ---
 
-“*October 30. Only two entries left*,” Nora said quietly. She could feel it. The end was coming. The last pages.
+“*October 30.* Only two entries left,” Nora said quietly. She could feel it. The end was coming. The last pages.
 
 “*I’ve been thinking. The basement is the coldest place. Luna won’t go down the basement stairs. She shakes all over and drags me away. But I think the answer is down there. It started down there.*”
 
@@ -176,7 +176,7 @@ Nora’s throat squeezed shut. She hugged the diary close. A girl. Twelve years 
 
 Shadow lay still between them. His warm body. His calm breathing. He just lay there, as if he knew they needed him.
 
-Nora ran her hand over the diary’s cover. Over the name. Over the little heart.
+Nora opened the diary to the first page and ran her hand over it. Over the name. Over the little heart.
 
 “We heard you, Lina,” she whispered. “Someone listened to you.”
 
@@ -194,7 +194,7 @@ He looked at her. No jokes. No sarcasm. Just a ten-year-old boy with wet eyes.
 
 “And she didn’t come back up.”
 
-Nora’s stomach twisted. The cold in the apartment seemed to grow thicker. Closing in.
+Nora’s stomach tightened. The cold in the apartment seemed to grow thicker. Closing in.
 
 Theo looked her straight in the eye.
 

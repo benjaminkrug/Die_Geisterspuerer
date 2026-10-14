@@ -332,3 +332,35 @@ Grundlage: D4_K09_Bedeutung_R2.md, D5_K09_US_Lektor_R2.md, neue Vorrangregel (a)
 
 Zählung D5 R2 nach Nachprüfung: 7 übernommen (20 in neuer Fassung, 16, 12, 5 in neuer Fassung, 2, 26 in neuer Fassung, 24), 1 zurückgenommen (32).
 Prüfskript nach Nachprüfung: **0 Befund(e)**.
+
+## Nachzug Block 3
+
+Grundlage: DE_Basis/Kapitel_09.md (6f251d2, eingefroren), Wortliste_Band1.md, A8 (aktueller Stand), K8 (Block 2, fertig).
+Vorgehen: kein Neuübersetzen. Nur die vier deutschen Änderungen und zwei Einheitlichkeitsfunde (`konsistenz`); alles andere, was die drei Pilot-Runden festgelegt haben, bleibt.
+
+### Geändert (6)
+
+| Abs. | vorher (Pilot R3) | jetzt | Grund |
+|---|---|---|---|
+| 11 | Nora turned to the first page. | Nora turned to the first entry. | DE geändert (*blätterte zum ersten Eintrag*) |
+| 39 | “And her parents blamed it on the radiator.” | “And her parents had an explanation for everything.” | DE geändert (*hatten für alles eine Erklärung*). *explanation* greift absichtslos Noras R26 *There’s an explanation.* (K3) auf — im Deutschen ebenso (*Erklärung*), also kein Zusatz. Die A8-Zeile *blame it on the radiator* ist damit für K9 gegenstandslos |
+| 69 | “*October 30. Only two entries left*,” Nora said quietly. | “*October 30.* Only two entries left,” Nora said quietly. | DE geändert (nur das Datum kursiv; Noras Bemerkung ist nicht mehr Tagebuchtext) |
+| 85 | Nora ran her hand over the diary’s cover. Over the name. Over the little heart. | Nora opened the diary to the first page and ran her hand over it. Over the name. Over the little heart. | DE geändert (*schlug die erste Seite auf und strich darüber*). Passt jetzt zu K8 EN: *There were two words on the first page … *Lina’s Diary* / Underneath, a little heart* und zu K11 *The little heart on the first page.* · *the diary* statt *it* als Objekt von *opened*, weil das Buch im Absatz davor nur als *the diary* (*hugged the diary close*) steht — keine Erklärung |
+| 40 | Nora didn’t say anything. Because he was right. | Nora said nothing. Because he was right. | `konsistenz`: *Nora sagte nichts.* heißt in K1 *Nora said nothing.* |
+| 94 | Nora’s stomach twisted. | Nora’s stomach tightened. | `konsistenz`: gleicher Satz K1 *tightened* (K2 *clenched* bleibt dort, K1–K8 unangetastet) |
+
+### Geprüft, nicht geändert
+
+- **Naht K8 → K9:** K8 endet mit *The light bulb above them flickered … Shadow whined. … “Nora,” he whispered. That was all he could get out.* K9 setzt mit *The cold hit Nora like a punch. / … The light bulb flickered, then steadied. Shadow whined next to Theo.* — wie in der Wortliste, liest sich durchgehend. *A girl’s handwriting on the first page. Purple ink.* und *\*Lina’s Diary\** auf eigener Zeile wie K8.
+- **Rückgriffe im K1–K8-Wortlaut:** *Twelve. Like her.* (Wortliste), *Like the knocking. At our place.* (*the knocking*, A4), *Like you did with the pipes.* (K3 *the pipes*), *To a beat* (K3 *To a beat?*), *the box …* kommt nicht vor, *We are home, Theo.* (K5–K7 *home*), *The day before she died.* (K6), *Tomorrow I’m going down to the basement.* (R28), *Nobody believes me.* (R27), *We heard you, Lina.* (R16), *Shadow lifted his head* (A8 Geste), *nose* statt *muzzle*, *doorway* für *Schwelle*, *the hair on the back of her neck* (A4), *understand* (Glossar). Alles stimmt.
+- **Kleines *shadow*:** keins. **Apostrophe/Striche:** typografisch. **Fragmente:** A8-Beispiel *School days, friends, cotton candy at the fair.* steht schon so.
+- Die Pilot-Notiz Abs. 97 nennt *something cracked*; im Text steht seit Runde 2 *something creaked* — Text gilt (Wortliste-Regel), nicht geändert.
+
+### Prüfskript nach Nachzug
+
+`python3 Scripts/pruefe_en.py pruefen Band1/Manuskript_EN/DE_Basis/Kapitel_09.md Band1/Manuskript_EN/Kapitel_09.md` → **0 Befund(e)** (Absätze 99/99, Ein-Satz-Absätze 24/24, Ausrufe 1/1, R16/R27/R28 gefunden).
+
+### Offen für die Prüfer (D4)
+
+- Abs. 39: Theos neuer Satz ist allgemeiner als der alte — gewollt laut Fundliste; D4 sollte nur prüfen, ob *had an explanation for everything* den leicht vorwurfsvollen Ton von *hatten für alles eine Erklärung* trägt (ich meine: ja).
+- Abs. 85: Sie hält das Tagebuch an sich gedrückt (Abs. 83) und schlägt dann die erste Seite auf — im Deutschen genauso, kein Fehler.

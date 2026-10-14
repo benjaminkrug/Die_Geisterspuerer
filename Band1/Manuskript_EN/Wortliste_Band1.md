@@ -84,6 +84,47 @@
 | 12. März 1974. | *March 12, 1974.* | K8 | K9 (Geburtstag) |
 | Die Glühbirne flackerte. / Schatten winselte. (K8-Ende) | *The light bulb above them flickered.* / *Shadow whined.* | K8 | K9 Anfang (*The light bulb flickered, then steadied. Shadow whined next to Theo.*) |
 | *Schatten* als Wort in K8 (*die Schatten an der Wand*, *Schatten sprangen über die Wände*) | *But the shadows on the wall twitched and stretched …* · *Shadows leaped across the walls, long and thin and trembling.* (Wortspiel mit *Shadow whined.*) | K8 | — ✅ Autor 2026-10-14: Ausnahme wie K12; im Text umgesetzt Block 2 Runde 2 (vorher *dark shapes*) |
+| Die Kälte traf Nora / sie wie ein Schlag. | *The cold hit Nora like a punch.* / *The cold hit her like a punch.* | K9 | K12 (Aufwachen, gleicher deutscher Satz) |
+| Und ihre Eltern hatten für alles eine Erklärung. (Theo) | *And her parents had an explanation for everything.* | K9 (Nachzug Block 3) | ← K3 R26 *There’s an explanation.* — Wortfeld *explanation* nicht wechseln |
+| die letzte beschriebene Seite | *the last page with writing on it* | K9 | K11 (Silbers Notizbuch), K12 (Vorlesen) |
+| Fahrig. / die fahrigen Buchstaben (Linas letzter Eintrag) | *Shaky.* / *The shaky letters.* | K9 | K12 |
+| Lina hatte nie wieder geschrieben. / Frau Silber hatte nie wieder geschrieben. | *Lina never wrote again.* / *Mrs. Silber never wrote again.* | K9 / K11 | gleicher Bau, Leere-Seiten-Motiv (*Empty.* / *Empty pages.*) |
+| Einbildung (Linas Eltern) | *imagination* (*Dad says imagination. …*) | K9 | K12 (*Her mom, who said *imagination*.*) |
+| Was ist im Keller, Nora? / Was ist oben, Nora? | *What’s in the basement, Nora?* / *What’s up there, Nora?* | K9 / K12 | A7: beide gleich gebaut (*What’s* + Ort + *Nora?*); nie *What’s up, Nora?* (Begrüßung) |
+| Wie an einem Anker. | *As if Shadow were an anchor.* | K9 | B5 (*anchor*, Glossar) |
+| Kellergang · Kellerverschläge | *corridor* · *storage lockers* | K10 | K13 (Keller-Erinnerung) |
+| Kratzspuren / Fingerspuren / Jeweils vier nebeneinander. | *scratch marks* · *finger marks* · *Always four, side by side.* · *The scratches were old.* | K10 | K13 (*Nora sah die Kratzspuren wieder vor sich.* → *scratch marks*) — keine Nägel, kein Blut; ← K2 *scratches* |
+| Fußspuren, barfuß, Kinderfüße (Keller) | *footprints* · *Bare feet. A child’s feet.* · *But the footprints stayed in the dust.* | K10 | K11 (*Small, bare feet in the dust. A child’s feet.*), K13 (*Die kleinen Fußspuren im Staub.* → *The little footprints in the dust.*; *unter nackten Füßen* → *bare feet*) |
+| Aber sie ist da. (Präsenz) | *But she’s there.* · *the presence* | K10 | K12 (*Eine Anwesenheit.* → *A presence.*), K13 (*spürte die Anwesenheit* → *presence*) — immer *she*, nie *it* |
+| Trauer (Schatten) | *as if he were grieving* · *Grief.* | K10 | — |
+| Langsam. Schleichend. | *Slowly. Bit by bit.* | K10 | Spiegel zu K8 *Not slowly. Not bit by bit.* |
+| „Lauf“, flüsterte Nora. → Nora rannte. | *“Run,” Nora whispered.* → *Nora ran.* | K10 / K11 | Kapitelnaht |
+| Ein Druck legte sich auf ihre Brust. (K10) | *A weight pressed down on her chest.* | K10 | getrennt von *Her ears filled with pressure.* (Ohren) |
+| Wir hören auf. / Wir können nicht aufhören. | *We quit.* / *We can’t quit.* | K11 | K15 (Theo: *Du sagst gleich, wir hören auf.* → *we quit*) |
+| Seit wann bin ich der Mutige von uns? / Seit jetzt. | *Since when am I the brave one?* / *Since right now.* | K11 | K15 (Rollentausch), K16 (*der mutigste Zehnjährige* → *the bravest ten-year-old*) |
+| Aber Lina hatte auch Angst. Und bei ihr war niemand. | *But Lina was scared too. And nobody was with her.* | K11 | K15 (*alone*, ← K5 *Not alone. Not here.*) |
+| *Margret Silber – Notizen* (Heft) | *Margret Silber: Notes* · *her notebook* · *blue ink* | K11 | K14, K16 (*Notizbuch* → *notebook*) |
+| Silbers Methode | *My method is simple. I find out who they were. … And then I show them that someone remembers. That they are not forgotten. Only then can they go.* | K11 | K12 (*Find out the story. Understand it. Show the ghost that someone remembers.*), K13 (*Sag ihren Namen*) |
+| Kartennotiz Anna Berger | *Anna Berger, 1923. Drowned in the canal. Only wanted someone to know her name. Three nights.* | K11 | K16 (*ein Mädchen. Anna.*, *Drei Nächte* → *Three nights*) |
+| Ich glaube, die Nächste bin ich. | *I believe I am next.* | K11 | K15 (R2), K16 |
+| Und ich spüre IHN. Den Ersten. | *And I can feel HIM. The First One.* | K11 | K14 (Nora zitiert *Ich spüre IHN. Den Ersten.* → wörtlich *I can feel HIM. The First One.*), K16 (R4) |
+| Er wartet nicht. Er sucht. / Der Erste. Der sucht. | *He is not waiting. He is searching.* / *The First One. He’s searching.* | K11 | K16 |
+| Er war mein Kompass. Vierzig Jahre lang. | *He was my compass. For forty years.* | K11 | K13 (*Vierzig Jahre lang.* 2× → *For forty years.*), K14 (*vierzig Jahre lang* → *for forty years*), K16 — nie *for years* |
+| Befreiung | *release* (*Every release was written down.*) | K11 | K13 Titel *Die Befreiung*, K14 W1-17 (*Ghost release*) — ein Wort für die Reihe |
+| *Gespräche mit dem Jenseits* · Standleitung | *Conversations with the Beyond* · *She had a direct line.* | K11 | — (W1-15) |
+| Zur letzten Tür. Zum kalten Zimmer. | *Toward the last door. Toward the cold room.* | K11 | K13 (*the cold room*, Schatten legt sich hinein) |
+| Schatten bellte. | *Shadow barked.* | K12 | ← K1 *He didn’t bark.*, K6 *bark.* |
+| Fensterwörter K12 (mit Punkt, je eigene Zeile) | *DIARY.* · *READ.* · *PLEASE.* · *DON’T FORGET.* · *THANK YOU.* · *UP.* · Fließtext *THANK YOU. UP.* | K12 | K13 (*Daneben stand noch immer das andere Wort: DANKE.* → *THANK YOU* ist **zwei** englische Wörter: nicht „das Wort“ zählen, z. B. *the other message* / *the other words*), K16 (*Danke* → *Thank you*, Theo *Like Lina. At the window.*) |
+| Das Mondlicht warf Schatten an die Wände. (K12, vor dem Wortspiel) | *The moonlight cast dark shapes on the walls.* | K12 | ← K2 *a dark shape moving without any light to cast it*; kleines *shadow* nur im Wortspiel Abs. 26 |
+| Wie eine Gestalt aus Rauch. | *Like a figure made of smoke.* | K12 | K15 (*Eine Gestalt … verwaschen wie Rauch* → *A figure … blurry like smoke*; *Gestalt* → *figure*) |
+| Sie hatten Linas Tagebuch gelesen. Aber nur für sich. Nicht für Lina. | *They had read Lina’s diary. But only for themselves. Not for Lina.* | K12 | — (A7-Schlüsselsatz) |
+| Mutter schläft (K12 *tief und fest*) | *Mom was sleeping like a rock, the way she always did.* | K12 | ← K8 *Like a rock.*; Gegenbild K16 (Mutter wach) |
+| Ein kalter Stich fuhr durch ihre Brust. | *Something cold stabbed through her chest.* | K3 | K12 (wortgleich) |
+| Grabstein-Witz K12 | *If I freeze to death, put this on my tombstone: He just wanted to help.* | K12 | ← K4 *tombstone* |
+| Die Kälte wich. | *The cold gave way.* · *the cold gave way a little more* | K12 | B3 K15 (A4, wortgleich) |
+| Sie hat zugehört. Die ganze Zeit. | *She was listening. The whole time.* | K12 | Reihenthema Zuhören (*listen*) |
+| um drei Uhr nachts | *at three in the morning* | K12 | A7 Zeitlinie (K12 *drei Uhr nachts*) |
+| Schwanz schlug einmal auf den Boden | *His tail thumped the floor once.* | K12 | ← K2 *His tail thumped slowly against the floor.* |
 
 ## Pflege
 

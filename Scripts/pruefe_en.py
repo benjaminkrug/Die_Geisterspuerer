@@ -204,9 +204,11 @@ def pruefen(de_text, en_text, register=None):
 
     # 10. Kleines „shadow" klingt beim Vorlesen wie der Hund (Block 1). Erlaubt nur in den bewussten
     #     Wortspielen K8 (Schatten sprangen … / Schatten winselte., Autor 2026-10-14) und K12.
-    if re.search(r"\bshadows?\b", en_text) and not re.search(r"nicht unseren Schatten|Schatten sprangen", de_text):
-        n = len(re.findall(r"\bshadows?\b", en_text))
-        befunde.append(("Kleines shadow (Wortliste)", f"{n}× – shape/darkness/silhouette verwenden"))
+    #     Gezählt, nicht abgeschaltet: K8 erlaubt 2 (beide Flacker-Stellen), K12 genau 1 (Block 3).
+    erlaubt = (1 if "nicht unseren Schatten" in de_text else 0) + (2 if "Schatten sprangen" in de_text else 0)
+    n = len(re.findall(r"\bshadows?\b", en_text))
+    if n > erlaubt:
+        befunde.append(("Kleines shadow (Wortliste)", f"{n}× (erlaubt {erlaubt}) – shape/darkness/silhouette verwenden"))
     return befunde
 
 
@@ -347,6 +349,9 @@ def selbsttest():
     if pruefen("Ein Schatten. Aber nicht unseren Schatten.\n", "A shadow. But not our Shadow.\n", []) or \
             pruefen("Schatten sprangen über die Wände.\n\nSchatten winselte.\n", "Shadows leaped across the walls.\n\nShadow whined.\n", []):
         print("FEHLALARM: Wortspiel K12 als kleines shadow gemeldet")
+        ok = False
+    if not pruefen("Einen Schatten. Aber nicht unseren Schatten.\n", "A shadow. But not our Shadow. More shadows.\n", []):
+        print("FEHLT: zweites kleines shadow im Wortspiel-Kapitel")
         ok = False
     k = konsistenz([("01", "Die Tür ging auf.\n\nStille.\n", "The door opened.\n\nSilence.\n"),
                     ("02", "Die Tür ging auf.\n", "The door swung open.\n"),
