@@ -4,7 +4,7 @@ Schatten wollte nicht rein.
 
 Das erfuhr Nora erst am Tor — aber beim Frühstück, eine Stunde vorher, hatte sie ihn schon angesehen und gedacht: Er weiß es schon. Er weiß immer, was kommt.
 
-Frau Silbers Karte lag seit Tagen auf ihrem Schreibtisch. Handgezeichnet, zwölf Markierungen. Eine war durchgestrichen. Lina. Elf blieben übrig.
+Frau Silbers Karte lag seit Wochen auf ihrem Schreibtisch. Handgezeichnet, zwölf Markierungen. Eine war durchgestrichen. Lina. Elf blieben übrig.
 
 Die nächste: der alte Friedhof am Rand der Altstadt. Drei Straßen von ihrer Wohnung entfernt.
 
@@ -28,7 +28,7 @@ Nora legte das Brötchen auf den Teller. Ihr Magen hatte sich beim Aufwachen sch
 
 „Ich habe keine Angst“, sagte sie.
 
-„Wir gehen heute auf einen Friedhof“, sagte Theo. „Um einen Geist zu suchen. Nach allem, was letzten Monat passiert ist.“ Er machte eine kleine Pause. „Ich habe Angst. Das sage ich einfach mal laut.“
+„Wir gehen heute auf einen Friedhof“, sagte Theo. „Um einen Geist zu suchen. Nach allem, was diesen Sommer passiert ist.“ Er machte eine kleine Pause. „Ich habe Angst. Das sage ich einfach mal laut.“
 
 „Dann bleib hier.“
 

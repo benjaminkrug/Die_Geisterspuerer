@@ -301,9 +301,10 @@ def front_matter(doc, r):
     add_page_break(doc)
 
     add_blank_lines(doc, 5)
-    groessen = [22, 12, 16, 12]          # Reihe · Book 1 · Titel · Autor
+    # Reihe · Book One · Buchtitel (größte Zeile, US-Konvention) · Autor
+    groessen = [14, 12, 24, 12]
     for i, z in enumerate(r["Title page"]):
-        zeile(doc, z, groessen[min(i, len(groessen) - 1)], bold=(i == 0), italic=(i == 2))
+        zeile(doc, z, groessen[min(i, len(groessen) - 1)], bold=(i == 2))
         add_blank_lines(doc, 2 if i == len(r["Title page"]) - 2 else 1)
     add_page_break(doc)
 
