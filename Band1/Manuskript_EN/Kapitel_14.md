@@ -160,7 +160,7 @@ Theo touched the X with his finger. He pulled it back. His fingertip was black.
 
 Nora’s stomach turned into a cold lump. Ink dries fast. This X couldn’t be more than a few minutes old.
 
-But the map had been behind the loose board until earlier today. And since then, Nora hadn’t let go of it.
+But the map had been behind the loose board until just a little while ago. And since then, Nora hadn’t let go of it.
 
 “Somebody was here,” Theo said. “Somebody came in here and did that.”
 

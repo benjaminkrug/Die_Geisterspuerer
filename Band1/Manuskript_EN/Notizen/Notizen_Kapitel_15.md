@@ -183,3 +183,4 @@ Grundlage: `Pruefung/D5_K14_K15_Endkontrolle.md`, Auftrag des Koordinators: nur 
 | Z.189 | *Sealed with red sealing wax.* → *Closed with red sealing wax.* | *Verschlossen mit … rotem Wachs*; kein *sealed/sealing*, *sealing wax* bleibt (A7-Echo K14). |
 
 **Prüfskript:** 0 Befunde. **konsistenz:** unverändert (6 Stellen).
+- Z.189 Gegenprobe-SCHWÄCHE *Closed* statt *Sealed* — **bleibt**: A7 verlangt das Wort *sealing wax* als Echo zu K14; *Sealed with red sealing wax* stolpert vorgelesen. Das unversehrte Siegel trägt *sealing wax* weiter.

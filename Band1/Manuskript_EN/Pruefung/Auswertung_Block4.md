@@ -38,3 +38,12 @@ Weg dorthin: Erstfassung *a second hand lay …* — drei Prüfer unabhängig: k
 1. Echte US-Testleser (E2-Anschreiben) — jetzt mit dem ganzen Buch möglich.
 2. Rahmen: Titelei, Impressum (mit KI-Hinweis), Anhang (deutsche Leseprobe ist aus Band 2 — offene Entscheidung).
 3. D8 Nachanalyse; EN-Bausatz für KDP (eBook/Taschenbuch).
+
+## Nachprüfung (Autor-Auftrag „letzte 2 Schritte sehr genau", 2026-10-14)
+
+**Echte Funde → behoben**
+- **Inhaltsverzeichnis im eBook (EN und DE):** war ein Word-Feld, das bis zur Aktualisierung nur einen Platzhalter enthält („Table of contents (updates when opened)" / „Inhaltsverzeichnis wird beim Öffnen aktualisiert."). Ob KDP Felder aktualisiert, ist nicht gesichert → festes Inhaltsverzeichnis mit internen Links auf Textmarken; 16/16 Links per Umwandlung geprüft; das Bauskript bricht ab, wenn einer fehlt. Deutsch: Commit 7373e43 (Band-1-Branch).
+- **Metadaten:** Autor stand als „python-docx", kein Titel; deutsches eBook hatte Sprache en-US → Titel, Autor, Sprache gesetzt.
+- **Lücke im Ablauf:** K14/K15 wurden nach Runde 2/3 nicht mehr vom US-Lektor gelesen → Endkontrolle: 14 Funde, 11 umgesetzt (u. a. *couldn't go* → *couldn't leave* — Klo-Kicher-Gefahr; *Ghost release* im Lebenslauf → *Freeing ghosts*; *long stripes of shade* → *Long bands of shade … in the low evening sun*), 3 begründet abgelehnt (Schule, *Veil*, Schraubenzieher). Gegenprobe: 0 FEHLER, 2 SCHWÄCHE — eine davon **mein Vorgabefehler** (*until earlier today* für *Bis vorhin*) → behoben; die andere (*Closed with red sealing wax*) bleibt wegen des A7-Echos.
+
+**Geprüft, in Ordnung:** Gesamtfassung = Kapiteldateien; Satzbild (keine geraden Anführungszeichen, `--`, `...`, Doppel-Leerzeichen); Skript K1–K16 0 Befunde; Einheitlichkeit 6 Stellen (bekannt); Leseprobe und Buchende selbst gelesen.

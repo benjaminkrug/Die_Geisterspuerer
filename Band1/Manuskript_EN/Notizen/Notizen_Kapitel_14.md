@@ -148,3 +148,4 @@ Grundlage: `Pruefung/D5_K14_K15_Endkontrolle.md` (unabhängiger US-Lektor), Auft
 | Z.163 | *… behind the loose board. Until a little while ago.* → *… behind the loose board until earlier today.* | *Bis vorhin.*; keine erfundene Zeitspanne. Fragment auf Auftrag in den Satz gezogen (Ausnahme von A8 „zwei kurze nicht verbinden“; Absatz bleibt). |
 
 **Prüfskript:** 0 Befunde. **konsistenz:** unverändert (6 Stellen).
+- Z.163 Nachtrag nach Gegenprobe (Projektleitung): *until earlier today* → *until just a little while ago* — *Bis vorhin* meint denselben Besuch; *earlier today* dehnte es auf Stunden und schwächte das Rätsel der nassen Tinte (Fehler in meiner Vorgabe).
