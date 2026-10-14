@@ -355,6 +355,8 @@ def seite(doc, zeilen, titel_groesse=16, absatz_ab=80):
             add_formatted_paragraph(doc, z, first_line_indent=False)
             add_blank_lines(doc, 1)
         else:
+            if z.startswith("The Ghost Listeners ·"):   # Buch-Hinweis vom Teaser absetzen
+                add_blank_lines(doc, 2)
             zeile(doc, z, 12)
 
 
