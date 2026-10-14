@@ -127,3 +127,12 @@ Geprüft, **kein** Fehler (vom Übersetzer gemeldet): K7 *„jeden Morgen"* (Nor
 
 Vom Übersetzer gemeldet, klein, **bewusst nicht** in die Fundliste: K10 Fahrräder/Fahrrad, *Schatten stand auf*; K11 Schreibtisch ↔ Tisch/Kommode (K5), Notizbuch zu/leer; K12 BITTE *„an jedes Fenster"*, Nachttischschublade ↔ Umzugskarton (K2). Silbers Notizbuch nennt den Hund *Schatten* und *vierzig Jahre* — **Absicht** (A7: nicht erklären, Reihe B4/B5).
 
+## H · Neue Funde aus der Übersetzung, Block 4 (K13–K16) — 2026-10-14
+
+| # | Kap. | Befund | Entscheidung |
+|---|---|---|---|
+| H1 | K15 | Theos *Brieföffner* nie eingeführt — drei Prüfer, Kinderleser: „unfreiwillig komisch" | **Autor: ✅ „den Schraubenzieher" (8820bb3)** |
+| H2 | K14→K15/16 | Wer das Kreuz in nasser Tinte gezogen hat, wird nicht wieder aufgegriffen | **Autor: offen lassen** — Band-2-Haken (Kinderleser: einer der drei besten Momente) |
+
+Geprüft, **Absicht**: K16 Schatten *winselt* beim wütenden Heinrich (*Er knurrte nicht. Er winselte.* — bewusster Bruch mit R44, Band-2-Haken) · Luna = Schatten (Reihen-Geheimnis). Klein, nicht vorgelegt: K13 Küchenfenster „am Ende des Flurs", K16 Nora am Fenster ↔ Mama auf der Bettkante, K14 Theo vor der Namensliste, K16 Kirchturm schlägt zweimal.
+
