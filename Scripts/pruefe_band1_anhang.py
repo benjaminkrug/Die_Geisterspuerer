@@ -83,8 +83,12 @@ def pruefe_gemeinsam(name, pfad):
     check(not vor_kapitel and not am_ende,
           f"(e) Fehl-Ornamente: vor Kapiteln {len(vor_kapitel)}, am Buchende {int(am_ende)}")
 
+    # Seit 2026-10-14 steht jeder Kapiteltitel zusaetzlich im festen Inhaltsverzeichnis (eBook)
+    # -> verschiedene Titel zaehlen, und jeder darf hoechstens zweimal vorkommen.
     kapitel = [p for p in voll if re.match(r"Kapitel \d+ – ", p)]
-    check(len(kapitel) == 17, f"16 Kapitel + Leseprobe-Kapitel ({len(kapitel)} Ueberschriften)")
+    titel = set(kapitel)
+    check(len(titel) == 17 and all(kapitel.count(k) <= 2 for k in titel),
+          f"16 Kapitel + Leseprobe-Kapitel ({len(titel)} verschiedene Ueberschriften)")
     return voll
 
 

@@ -171,7 +171,7 @@ def add_table_of_contents(doc):
     add_page_break(doc)
 
 
-def add_front_matter(doc):
+def add_front_matter(doc, titel_liste=None):
     """Add title page, half-title, and copyright page."""
     # --- Half title ---
     add_blank_lines(doc, 8)
@@ -213,8 +213,8 @@ def add_front_matter(doc):
     add_centered_text(doc, "Independently published", font_size=9)
     add_page_break(doc)
 
-    # --- Table of contents ---
-    add_table_of_contents(doc)
+    # --- Table of contents (fest, verlinkt; das Feld blieb ein Platzhalter) ---
+    add_static_toc(doc, titel_liste)
 
 
 def add_hyperlink(paragraph, url, text, font_size=11):
@@ -357,6 +357,57 @@ def add_back_matter(doc):
     add_centered_text(doc, "Zeitreise-Abenteuer", font_size=10, italic=True)
 
 
+# --- Festes, verlinktes Inhaltsverzeichnis (2026-10-14) ---------------------------------------
+# Das Word-Feld oben enthält bis zur Aktualisierung nur den Platzhalter "Inhaltsverzeichnis wird
+# beim Öffnen aktualisiert." Ob der KDP-Konverter Felder aktualisiert, ist nicht gesichert ->
+# feste Einträge mit internen Links auf Textmarken an den Kapitelüberschriften.
+_bm_id = [0]
+_kapitel_nr = [0]
+
+
+def add_bookmark(paragraph, name):
+    _bm_id[0] += 1
+    start = OxmlElement("w:bookmarkStart")
+    start.set(qn("w:id"), str(_bm_id[0]))
+    start.set(qn("w:name"), name)
+    end = OxmlElement("w:bookmarkEnd")
+    end.set(qn("w:id"), str(_bm_id[0]))
+    paragraph._p.insert(0, start)
+    paragraph._p.append(end)
+
+
+def add_internal_link(paragraph, anchor, text, font_size=11):
+    link = OxmlElement("w:hyperlink")
+    link.set(qn("w:anchor"), anchor)
+    run = OxmlElement("w:r")
+    rpr = OxmlElement("w:rPr")
+    fonts = OxmlElement("w:rFonts")
+    fonts.set(qn("w:ascii"), "Georgia")
+    fonts.set(qn("w:hAnsi"), "Georgia")
+    size = OxmlElement("w:sz")
+    size.set(qn("w:val"), str(font_size * 2))
+    rpr.append(fonts)
+    rpr.append(size)
+    run.append(rpr)
+    t = OxmlElement("w:t")
+    t.set(qn("xml:space"), "preserve")
+    t.text = text
+    run.append(t)
+    link.append(run)
+    paragraph._p.append(link)
+
+
+def add_static_toc(doc, titel_liste):
+    add_blank_lines(doc, 3)
+    add_centered_text(doc, "Inhalt", font_size=18, bold=True)
+    add_blank_lines(doc, 2)
+    for i, titel in enumerate(titel_liste, 1):
+        p = doc.add_paragraph()
+        p.paragraph_format.first_line_indent = Cm(0)
+        p.alignment = WD_ALIGN_PARAGRAPH.LEFT
+        add_internal_link(p, f"kapitel_{i:02d}", titel)
+
+
 def add_chapter_heading(doc, title):
     """Add a chapter heading with page break.
 
@@ -371,6 +422,8 @@ def add_chapter_heading(doc, title):
         run.font.name = "Georgia"
         run.font.size = Pt(16)
         run.bold = True
+    _kapitel_nr[0] += 1
+    add_bookmark(p, f"kapitel_{_kapitel_nr[0]:02d}")
     add_blank_lines(doc, 2)
 
 
@@ -475,10 +528,26 @@ def main():
     # Set up styles
     create_styles(doc)
 
+    cp = doc.core_properties
+    cp.title = "Die Geisterspürer – Das Haus, das flüstert (Band 1)"
+    cp.author = cp.last_modified_by = AUTHOR
+    cp.language = "de-DE"
+    for el in doc.styles.element.iter(qn("w:lang")):
+        el.set(qn("w:val"), "de-DE")
+        el.set(qn("w:eastAsia"), "de-DE")
+
     # Build document
-    add_front_matter(doc)
+    titel_liste = [l[2:].strip() for l in content.split("\n") if l.startswith("# Kapitel ")]
+    add_front_matter(doc, titel_liste)
     parse_and_build(doc, content)
     add_back_matter(doc)
+
+    xml = doc.element.xml
+    for i in range(1, len(titel_liste) + 1):
+        if f'w:anchor="kapitel_{i:02d}"' not in xml or f'w:name="kapitel_{i:02d}"' not in xml:
+            raise ValueError(f"Inhaltsverzeichnis: Link oder Textmarke für Kapitel {i} fehlt")
+    if _kapitel_nr[0] != len(titel_liste):
+        raise ValueError(f"{_kapitel_nr[0]} Überschriften, aber {len(titel_liste)} Einträge im Inhalt")
 
     # Save
     doc.save(OUTPUT_FILE)
