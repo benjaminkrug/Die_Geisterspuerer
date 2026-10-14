@@ -15,6 +15,7 @@
 |---|---|---|
 | Klopf. Klopf. Klopf. | **Thump. Thump. Thump.** · Substantiv *the knocking* | Autor 2026-10-13 (*Knock* = „Who's there?") |
 | Klingelschild | **nameplate** | zwei US-Lektoren |
+| Schwanz schlug (auf den Boden) | **nie** *thumped* — *thumped/thump* gehört nur dem Klopfen; z. B. *swished*, *beat*, *wagged against* | D4 Block 3: sonst wirkt Schatten wie der Klopfer (K2: Schwanz *One. Two.*, kurz danach das Klopfen); Skript prüft |
 | *schatten* als Wort (nicht der Hund) | **nie** *shadow* klein — *shape*, *darkness*, *silhouette*; Ausnahmen nur die bewussten Wortspiele K8 (*Shadows leaped across the walls … / Shadow whined.*) und K12 (*“A shadow. But not our Shadow.”*) | Vorlesen: klingt wie der Hund; K8 Autor 2026-10-14 (*dark shapes* klang nach Wesen) |
 | Erster Schultag | **first day at the new school** | US: „first day of school" = Schuljahresbeginn |
 | Kakao | **chocolate milk** (Sommerfrühstück, K3) · **hot chocolate** (warm, z. B. K12 *„heißen Kakao. Mit Marshmallows."*) | nach Zusammenhang |

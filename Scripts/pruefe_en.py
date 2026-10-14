@@ -209,6 +209,12 @@ def pruefen(de_text, en_text, register=None):
     n = len(re.findall(r"\bshadows?\b", en_text))
     if n > erlaubt:
         befunde.append(("Kleines shadow (Wortliste)", f"{n}× (erlaubt {erlaubt}) – shape/darkness/silhouette verwenden"))
+
+    # 11. „thump" gehört nur dem Klopfen (Thump. Thump. Thump., Autor 2026-10-13). Ein klopfender
+    #     Hundeschwanz mit demselben Wort macht Schatten zum Verdächtigen (D4 Block 3, K2/K12).
+    rest = re.sub(r"Thump\. Thump\. Thump\.", "", en_text)
+    if re.search(r"\bthump\w*", rest, re.I):
+        befunde.append(("Thump nur fürs Klopfen (Wortliste)", ", ".join(sorted({m.lower() for m in re.findall(r"\bthump\w*", rest, re.I)}))))
     return befunde
 
 
@@ -361,6 +367,9 @@ def selbsttest():
         ok = False
     if pruefen("*Lina Vogt? – 1974?* Mühlenweg 3.\n", "*Lina Vogt? – 1974?* Mühlenweg 3.\n", []):
         print("FEHLALARM: Kartenformat oder Straßenname aus A1 gemeldet")
+        ok = False
+    if not any(k.startswith("Thump") for k, _ in pruefen("Sein Schwanz schlug auf den Boden.\n", "His tail thumped the floor.\n", [])):
+        print("FEHLT: thump außerhalb des Klopfens")
         ok = False
     if len(register_paare()) < 30:
         print("FEHLT: Register aus A5 eingelesen (weniger als 30 Paare)")
