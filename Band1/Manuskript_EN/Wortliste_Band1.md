@@ -15,7 +15,7 @@
 |---|---|---|
 | Klopf. Klopf. Klopf. | **Thump. Thump. Thump.** · Substantiv *the knocking* | Autor 2026-10-13 (*Knock* = „Who's there?") |
 | Klingelschild | **nameplate** | zwei US-Lektoren |
-| *schatten* als Wort (nicht der Hund) | **nie** *shadow* klein — *shape*, *darkness*, *silhouette*; Ausnahme nur das bewusste Wortspiel K12 *“A shadow. But not our Shadow.”* | Vorlesen: klingt wie der Hund |
+| *schatten* als Wort (nicht der Hund) | **nie** *shadow* klein — *shape*, *darkness*, *silhouette*; Ausnahmen nur die bewussten Wortspiele K8 (*Shadows leaped across the walls … / Shadow whined.*) und K12 (*“A shadow. But not our Shadow.”*) | Vorlesen: klingt wie der Hund; K8 Autor 2026-10-14 (*dark shapes* klang nach Wesen) |
 | Erster Schultag | **first day at the new school** | US: „first day of school" = Schuljahresbeginn |
 | Kakao | **chocolate milk** (Sommerfrühstück, K3) · **hot chocolate** (warm, z. B. K12 *„heißen Kakao. Mit Marshmallows."*) | nach Zusammenhang |
 | Hamburg (Theos Übertreibung, K3) | **on the moon** | US-Kinder kennen Hamburg nicht |
@@ -83,7 +83,7 @@
 | *Linas Tagebuch* + kleines Herz | *Lina’s Diary* (kursiv, eigene Zeile) · *a little heart* | K8 | K9 (*the little heart*), K11, K12, K13 |
 | 12. März 1974. | *March 12, 1974.* | K8 | K9 (Geburtstag) |
 | Die Glühbirne flackerte. / Schatten winselte. (K8-Ende) | *The light bulb above them flickered.* / *Shadow whined.* | K8 | K9 Anfang (*The light bulb flickered, then steadied. Shadow whined next to Theo.*) |
-| *Schatten* als Wort in K8 (*die Schatten an der Wand*, *Schatten sprangen über die Wände*) | *the dark shapes on the wall* / *Dark shapes leaped across the walls* | K8 | — ⚠️ A7 wollte hier *shadows/Shadow*; Wortliste-Regel (nur K12) befolgt — Autor entscheidet (Notizen K8 Abschn. 4) |
+| *Schatten* als Wort in K8 (*die Schatten an der Wand*, *Schatten sprangen über die Wände*) | *shadows* (Wortspiel mit *Shadow whined.*) | K8 | — ✅ Autor 2026-10-14: Ausnahme wie K12 |
 
 ## Pflege
 

@@ -112,8 +112,8 @@ Bereits entschieden, nicht wieder aufgenommen: Körbchen/Leine „am Abend" (B4-
 
 | # | Kap. | Befund | Meine Einschätzung |
 |---|---|---|---|
-| F1 | K6 | **Folgefehler meiner Korrektur A6:** Nora sagt jetzt *„… die so lange allein in so einem Haus gewohnt hat –"*, Theo antwortet weiter *„Vierzig Jahre lang was?"* — er antwortet auf etwas, das niemand gesagt hat, und nennt die Zahl aus K11 doch zu früh. | **Echter Fehler, von mir verursacht.** Vorschlag: *„Was meinst du?", sagte Theo.* — der nächste Absatz (*Nora schüttelte den Kopf. Sie wusste es noch nicht.*) passt genau dazu. **Deine Entscheidung** (betrifft das hochgeladene deutsche Buch) |
-| F2 | K5 | Bücher liegen *„Stapel … direkt auf dem Boden"*, später *„Neben dem Bücherregal hing etwas"* | klein: *„Neben den Bücherstapeln"* |
+| F1 | K6 | **Folgefehler meiner Korrektur A6:** Nora sagt jetzt *„… die so lange allein in so einem Haus gewohnt hat –"*, Theo antwortet weiter *„Vierzig Jahre lang was?"* — er antwortet auf etwas, das niemand gesagt hat, und nennt die Zahl aus K11 doch zu früh. | **Echter Fehler, von mir verursacht.** Vorschlag: *„Was meinst du?", sagte Theo.* — der nächste Absatz (*Nora schüttelte den Kopf. Sie wusste es noch nicht.*) passt genau dazu. **Autor 2026-10-14: ✅ „Was meinst du?" (d2badb5)** |
+| F2 | K5 | Bücher liegen *„Stapel … direkt auf dem Boden"*, später *„Neben dem Bücherregal hing etwas"* | **Autor 2026-10-14: ✅ (d2badb5)** |
 | F3 | K5 | Foto *„M. Silber, 2019."* ist *„Schwarzweiß. Die Ränder vergilbt"* | klein; als Silbers Eigenart lesbar (Schwarzweiß-Abzug). Bleibt, wenn du nichts änderst |
 
 Geprüft, **kein** Fehler (vom Übersetzer gemeldet): K7 *„jeden Morgen"* (Noras Vorstellung, nicht Zählung) · K7 das Glas (*„Sie wollte ein Glas Wasser"* steht davor) · K8 Werkzeug (*„Hast du nicht gesagt …"* — Gespräch außerhalb der Szene ist möglich) · K8 *„seit dem Umzug"*.

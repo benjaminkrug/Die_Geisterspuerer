@@ -134,7 +134,7 @@
 | Proviantkarton | **the box of snacks** / *food from the car* | food box |
 | Schwelle | **doorway** | threshold (zu erwachsen) |
 | Oma | **Grandma** | Gran, Nan |
-| *Schatten* als Wort (nicht der Hund) | **shape** · *darkness* · *silhouette* (nach Block 1: beim Vorlesen klingt *shadow* wie der Hund *Shadow*) | kleines *shadow* — einzige Ausnahme das Wortspiel K12 *“A shadow. But not our Shadow.”* (Skript prüft) |
+| *Schatten* als Wort (nicht der Hund) | **shape** · *darkness* · *silhouette* (nach Block 1: beim Vorlesen klingt *shadow* wie der Hund *Shadow*) | kleines *shadow* — Ausnahmen nur die bewussten Wortspiele K8 *Shadows leaped across the walls … / Shadow whined.* (Autor 2026-10-14) und K12 *“A shadow. But not our Shadow.”* (Skript prüft) |
 
 ---
 

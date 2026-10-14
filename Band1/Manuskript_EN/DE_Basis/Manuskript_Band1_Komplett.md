@@ -973,7 +973,7 @@ Theo hob die Augenbrauen. „Ich war drei Meter weg.“
 
 Er stellte das Glas hin und nickte langsam. „Okay. Verstanden.“
 
-Neben dem Bücherregal hing etwas an der Wand. Zettel. Dutzende. Mit Reißnägeln befestigt, in Reihen übereinander. Nora ging näher heran und kniff die Augen zusammen.
+Neben den Bücherstapeln hing etwas an der Wand. Zettel. Dutzende. Mit Reißnägeln befestigt, in Reihen übereinander. Nora ging näher heran und kniff die Augen zusammen.
 
 Handschrift. Klein, krakelig, mit schwarzer Tinte geschrieben. Auf jedem Zettel stand ein Name. Daneben ein Datum. Manche hatten eine Adresse. Manche einen kurzen Satz, kaum lesbar.
 
@@ -1239,7 +1239,7 @@ Das Neonlicht summte. Noras Nacken kribbelte. Sie drehte sich um. Hinter ihr nur
 
 „Was hat sie so erschreckt?“, flüsterte Nora. „Was kann eine Frau erschrecken, die so lange allein in so einem Haus gewohnt hat –“ Sie brach ab.
 
-„Vierzig Jahre lang was?“, sagte Theo.
+„Was meinst du?“, sagte Theo.
 
 Nora schüttelte den Kopf. Sie wusste es noch nicht. Aber die Puzzleteile lagen vor ihr. Die Namensliste. Die Notizen. Das Foto mit Schatten. Eine alte Frau, die in einer Wohnung voller Hinweise auf Tote gelebt hatte. Und die eines Nachts verschwunden war.
 

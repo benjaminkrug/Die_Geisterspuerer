@@ -108,7 +108,7 @@ Theo hob die Augenbrauen. „Ich war drei Meter weg.“
 
 Er stellte das Glas hin und nickte langsam. „Okay. Verstanden.“
 
-Neben dem Bücherregal hing etwas an der Wand. Zettel. Dutzende. Mit Reißnägeln befestigt, in Reihen übereinander. Nora ging näher heran und kniff die Augen zusammen.
+Neben den Bücherstapeln hing etwas an der Wand. Zettel. Dutzende. Mit Reißnägeln befestigt, in Reihen übereinander. Nora ging näher heran und kniff die Augen zusammen.
 
 Handschrift. Klein, krakelig, mit schwarzer Tinte geschrieben. Auf jedem Zettel stand ein Name. Daneben ein Datum. Manche hatten eine Adresse. Manche einen kurzen Satz, kaum lesbar.
 
