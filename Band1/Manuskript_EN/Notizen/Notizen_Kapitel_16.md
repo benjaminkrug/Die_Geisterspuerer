@@ -99,3 +99,72 @@ K16 · Absatz 86 · DE: „**ENDE BAND 1**“ · EN: “**END OF BOOK 1**” · 
 5. **Lehre *Not X. Something else.*** — das Original benutzt die Form in K13 zweimal; nicht vermeidbar ohne Inhaltsänderung.
 6. **Fragment-Dosierung (A8)**: Die Befreiungsszene (K13) und der Friedhof (K15) sind Schreck-/Staun-Momente; dort blieben alle Fragmente. In ruhigen Stellen (K14 Frühstück, K16 Brief) gab es kaum Ketten. Ob K13 im Englischen zu abgehackt klingt, muss D5 hören.
 7. **Zeitwörter**: K14 *heute Nacht* (= letzte Nacht aus Sicht Samstagmorgen) musste *last night* werden — das deutsche Wort ist mehrdeutig, die Regel „Zeitwörter nicht dehnen“ hilft hier nicht.
+
+## Runde 2 (Block 4)
+
+Grundlage: `Pruefung/D3_K16.md`, `D4_K16.md`, `D5_K16.md`, `D6_K13-K16_Gesamt.md` (Teil K16 + ganzes Buch + Vorlesen), Pilot 5.1–5.3, Wortliste, Autor-Vorgaben Block 4 (Vorgabe 2: Buchschluss; Vorgabe 4: Brief beim Vorlesen, Anrede). Bewusst nicht angefasst: Schatten *winselt* an Heinrichs Kreis (Bruch mit R44, B2-Haken), Kirchturmuhr, Heizung (*radiator*), nächtlicher Stadtblick, Luna, Linas Tod, das nasse X.
+
+### Buchschluss neu (Vorgabe 2) — DE: *„Es fühlte sich an, als läge auf der anderen Seite gerade eine zweite Hand.“* / *„Genau auf derselben Stelle.“*
+Ziel: kein Sekundenzeiger (*second hand*, D4/D5/D6, Kirchturmuhr Z.79), kein *lay*, *wessen* Hand offen, Gewicht auf der Hand, letzte Zeile allein.
+- (a) **It felt as if, right then, on the other side, there was another hand. / In exactly the same spot.**
+- (b) *It felt as if another hand were resting on the other side, right now. / In exactly the same spot.*
+- (c) *It felt as if someone else’s hand were pressing back from the other side. / In exactly the same spot.*
+- **Wahl (a).** *another hand* kann nichts anderes heißen als eine Hand; der Satz **endet auf *hand*** — das Gewicht liegt dort, und die letzte Zeile *In exactly the same spot.* schließt direkt an das Wort an (Hand → Stelle). *right then* trägt *gerade* knapp vorn, statt wie *at that very moment* den Satz zu beenden (D4). *on the other side* bleibt Reihenbegriff (A1) in betonter Mitte, doppeldeutig wie im DE (Papierrückseite / jenseits). Kein *someone* (DE sagt nicht, wessen Hand). (b) endet wieder auf der Zeit, *resting* ist weicher; (c) *pressing back* erfindet eine Handlung und *someone else’s* einen Besitzer (D5-Vorschlag, Zusatz).
+
+### Briefanrede (Vorgabe 4) — DE *„Liebe Finder dieses Briefes.“*
+- (a) **“‘To those who find this letter. …’”** · (b) *To whoever finds this letter,* · (c) *Dear finders of this letter.* (bisher)
+- **Wahl (a):** natürliches US-Englisch für eine förmliche Anrede, Plural wie das DE (*ihr*), altmodisch-feierlich (A7) und Echo auf den Umschlag *For those who come after me.* (b) klingt nach Zettel und ist Singular/unbestimmt; (c) klang fremd (D6).
+
+### Brief beim Vorlesen (Vorgabe 4)
+Alle Briefzeilen stehen jetzt als Zitat im Zitat **“‘…’”** — die Buchkonvention für Silbers Schrift, die Nora vorliest (K11 Notizbuch, K13 *‘Find out what happened.’*). Damit ist Z.45 (*I do not know who you are …*, im DE ohne Begleitsatz) als Brieftext erkennbar, ohne neuen Sprechersatz; ebenso Z.65. Kursiv (D6-Vorschlag 4, Konvention K9 Tagebuch) wurde verworfen: das Prüfskript zählt Kursivstellen gegen das DE (7 vs. 19 = Befund), und K11 ist für Silbers Schrift der nähere Vorläufer.
+
+| Befund (Quelle · Nr./Zeile) | Entscheidung | Grund (eine Zeile) |
+|---|---|---|
+| D4 #1 Z.173 *a second hand … lay … at that very moment* | angenommen | Vorgabe 2, s. oben. |
+| D5 Z.15 *looked after* | angenommen | → *I have cared for the Restless* (*kümmere mich um*). |
+| D5 Z.23 *In 1823.* → *Founded …* | abgelehnt | Wortliste/K14-Zitat; A7: Nora denkt die Verbindung, sie wird nicht ausgesprochen. |
+| D5 Z.37 Satzbau *It is the same for me to this day* | angenommen | → *To this day, it is the same for me with every one of them.* |
+| D5 Z.57 *coming through* wodurch? | angenommen | → *coming through it* (*it* = der Schleier, Satz davor). |
+| D5 Z.87 *radiator* / *the apartment* | abgelehnt | Vorgabe (Heizung); *die Wohnung* steht im DE. |
+| D5 Z.89–93 *lay* 4× | angenommen | → *the apartment was dark* · *The map was on her desk. Next to it, the letter.* (DE-Fragment *Daneben der Brief.* zurück); Schatten und Gravenstedt behalten *lay*. |
+| D5 Z.99 *no machine could record* | abgelehnt | Bild des DE (*Messgerät*); *nobody else could hear* ändert den Sinn. |
+| D5 Z.129 *before* | angenommen | → *You know what I was thinking earlier?* |
+| D5 Z.139 *Hm?* | angenommen | → *“Hmm?”* |
+| D5 Z.153 *wanted to roll up* | angenommen | → *She went to roll up the map.* |
+| D5 Z.161 *one single* | angenommen | → *Only on a single circle.* |
+| D5 Z.173 Schlusssatz | angenommen | Vorgabe 2; *pressing back* abgelehnt (Zusatz). |
+| D5 Serie: nasses X erwähnen | abgelehnt | Vorgabe: X bleibt offen (B2-Haken). |
+| D5 Serie: Teaser nach END OF BOOK 1 | abgelehnt | A7: nach dem Kapitel nur *END OF BOOK 1*. |
+| D3 #1–#6, #8, #10, #12, #13, #17–#19, #21–#24 | abgelehnt (17) | OK-Marker bzw. gewollt offen (#4 Tür, #8 Schattens Alter); kein Befund. |
+| D3 #7 *It is the same for me* | angenommen | wie D5 Z.37. |
+| D3 #9 Z.45 ohne *she read* | angenommen | Zitat im Zitat (Vorgabe 4), kein neuer Begleitsatz. |
+| D3 #11 Z.65 ohne Tag | angenommen | ebenso. |
+| D3 #14 Kirchturmuhr | abgelehnt | Vorgabe. |
+| D3 #15 Heizung im Juli | abgelehnt | Vorgabe. |
+| D3 #16 welche Wohnung | abgelehnt | Original; Z.91 klärt. |
+| D3 #20 *he asked* = Schatten? | angenommen | → *“Are you scared?” Theo asked.* (A8 4: Name statt Pronomen bei Hund/Theo). |
+| D3 #25 *second hand* / *other side* | angenommen (teilw.) | *another hand*; *the other side* bleibt (A1, gewollt doppeldeutig). |
+| D6 Skim Z.85–99 Stadtblick | abgelehnt | Vorgabe: Nachtgedanke = Bau des DE. |
+| D6 Skim Z.15–37 Brief | abgelehnt | D6 selbst: okay. |
+| D6 Wort *the Restless* | abgelehnt | Glossar A1. |
+| D6 Wort *Veil* zu spät erklärt | abgelehnt | Aufbau des Originals → Autor. |
+| D6 Wort *beware* | abgelehnt | R4 (Register). |
+| D6 Wort *suspect* | abgelehnt | Silbers Ton (*ahne*), Kind kennt es. |
+| D6 *Dear finders of this letter* (+ Vorlesen) | angenommen | Vorgabe 4, s. oben. |
+| D6 silly *second hand* (+ Vorlesen) | angenommen | Vorgabe 2. |
+| D6 Z.79 Uhrzeit (+ Tab. #13) | abgelehnt | Vorgabe (Kirchturmuhr). |
+| D6 Z.169 *whines* (+ Tab. #12) | abgelehnt | Vorgabe (bewusster Bruch, B2-Haken). |
+| D6 Z.173 *the other side* | abgelehnt | A1-Begriff, Doppeldeutigkeit des DE. |
+| D6 Z.43 Schattens Alter | abgelehnt | gewollt (D6: „B2-Ding“). |
+| D6 Buch: Luna | abgelehnt | Vorgabe. |
+| D6 Buch: wie Lina starb | abgelehnt | Vorgabe. |
+| D6 Buch: Handabdrücke K1 aufgreifen | abgelehnt | neuer Inhalt. |
+| D6 Buch: *In July* zu oft | abgelehnt | DE *Im Juli* / *Mitten im Juli*; keine Glättung. |
+| D6 Vorlesen Z.45 klingt wie Nora | angenommen | Vorgabe 4, Zitat im Zitat. |
+| D6 Brief-Fix 4: Brief absetzen | angenommen (teilw.) | ‘…’ statt Kursiv (Skript, K11-Konvention). |
+
+**Zählung K16:** D3 5 angenommen / 20 abgelehnt · D4 1 / 0 · D5 9 / 5 · D6 4 / 14.
+
+**Gegenprobe (nur Bedeutung, 17 Stellen):** Gefundene Abweichung, behoben: Z.37 erste Neufassung *To this day, it is the same with every one of them.* hatte *mir* (*So geht es **mir***) verloren → *the same for me* wieder eingesetzt. Grenzfälle, belassen: *To those who find this letter* (*Liebe* entfällt; Förmlichkeit bleibt) · *right then* für *gerade* · *there was another hand* für *läge … eine zweite Hand* (Liegen nicht mehr ausgedrückt; *another* = *zweite*) · *coming through it* (*it* nur Bezug, kein Zusatz) · *She went to roll up the map* (Absicht, unterbrochen wie *wollte*). Sonst keine Abweichung.
+
+**Prüfskript:** 0 Befunde (nach Verzicht auf Kursiv). **konsistenz:** unverändert (6 Stellen wie vor der Runde).

@@ -14,7 +14,7 @@ Nora leaned over the circles. Next to some of the names were small notes. Pencil
 
 At the cemetery: *Heinrich B. – 1887.* Below it, two words. *Angry. Grave.*
 
-“Angry period. Grave period,” Theo read. “Oh, great. That sounds cozy.”
+“Angry. Grave. The end,” Theo read. “Oh, great. That sounds cozy.”
 
 In the city park: *Clara B. – 1889. Child. Lost.* Theo’s grin disappeared.
 
@@ -32,11 +32,11 @@ Nora ran her finger over the other circles. Factory. Church. Bridge. City hall. 
 
 “Yeah.” Nora thought of Lina. Of the round letters and the purple ink.
 
-Her finger went back to the cemetery. It was only a few streets away, across from the library. They had walked past it yesterday. Shadow had stared at it and growled.
+Her finger went back to the cemetery. It was only a few blocks away, across from the library. They had walked past it yesterday. Shadow had stared at it and growled.
 
 “We’ll go look at it,” Nora said. “Just from the outside. Just to look.”
 
-Theo stared at her. “Angry period. Grave period. And you want to look.”
+Theo stared at her. “Angry. Grave. The end. And you want to look.”
 
 “From the other side of the street.”
 
@@ -46,13 +46,13 @@ Theo stared at her. “Angry period. Grave period. And you want to look.”
 
 “Ghosts go through walls, Nora.”
 
-But he got up and got the leash.
+But he got up and grabbed the leash.
 
 ---
 
-The evening sun stretched long silhouettes across the sidewalk. The air smelled like warm stone. Shadow trotted between them. Calm. His fur flat.
+The evening sun cast long dark shapes across the sidewalk. The air smelled like warm stone. Shadow trotted between them. Calm. His fur flat.
 
-Until they were standing in front of the library.
+Until they reached the library.
 
 Shadow stopped. In the middle of a step. As if he had turned to stone.
 
@@ -60,7 +60,7 @@ Shadow stopped. In the middle of a step. As if he had turned to stone.
 
 Shadow didn’t move. He stared across the street. At the old cemetery.
 
-Then the city got quieter. The rush of the cars. The voices at the intersection. As if someone had turned down the volume. A metallic taste settled on Nora’s tongue. In the middle of the warm evening sun, the air turned cold.
+Then the city got quieter. The hum of the traffic. The voices at the intersection. As if someone had turned down the volume. A metallic taste settled on Nora’s tongue. Right there in the warm evening sun, the air turned cold.
 
 The dog’s hackles rose. From his neck all the way to his tail. A growl came from deep in his chest. Nora could feel it in her bones.
 
@@ -68,7 +68,7 @@ The dog’s hackles rose. From his neck all the way to his tail. A growl came fr
 
 “I see it,” Theo whispered back. “I mean, I don’t see anything. But I see that he sees something.”
 
-The cemetery lay in the shade of old linden trees. Crooked gravestones, green with moss. A rusty iron gate, half open. Behind it, a gravel path that disappeared between the graves.
+The cemetery lay under old linden trees. Crooked gravestones, green with moss. A rusty iron gate, half open. Behind it, a gravel path that disappeared between the graves.
 
 Nora let out her breath. A small white cloud hung in front of her mouth.
 
@@ -98,11 +98,11 @@ Straight at them.
 
 Theo held the leash with both hands. His knuckles were white. Shadow was shaking all over.
 
-The figure lifted its head. Slowly. As if it had all the time in the world.
+The figure lifted his head. Slowly. As if he had all the time in the world.
 
 Then the gate slammed shut.
 
-Iron on iron. A bang that rang down the whole street. No wind. Nobody there. The gate had just slammed shut.
+Iron on iron. A clang that rang down the whole street. No wind. Nobody there. The gate had just slammed shut.
 
 Nora flinched so hard she almost tripped.
 
@@ -156,7 +156,7 @@ Theo blinked. “What?”
 
 “Point one: We’re good at this. Point two: Shadow is on our side.” He frowned. “I forgot point three. You totally threw me off.”
 
-Nora had to laugh. It just came out, right through her pounding heart.
+Nora couldn’t help laughing. It just came out, right through her pounding heart.
 
 She was scared. Her hands were still shaking. But she thought of Lina. Of *Nobody believes me*. Of the golden light that had gotten smaller and disappeared.
 
@@ -180,13 +180,13 @@ Shadow scratched again.
 
 On the third floor, Shadow trotted past the kitchen. Past the room with the list of names. He stopped in the middle of the hallway and lowered his nose to the floor.
 
-Then he lay down. Right on one particular floorboard. He put his paw on it and looked at Nora.
+Then he lay down. Right on top of one floorboard. He put his paw on it and looked at Nora.
 
 Nora knelt down. The floorboard had an edge, barely visible. It wasn’t nailed down.
 
-Without a word, Theo handed her his letter opener. Nora pried. Dust trickled down. The floorboard came up.
+Without a word, Theo handed her the screwdriver. Nora pried. Dust trickled down. The floorboard came up.
 
-Underneath was an envelope. Big and yellowed. Closed with a seal of red wax.
+Underneath was an envelope. Big and yellowed. Sealed with red sealing wax.
 
 There was writing on the front. Mrs. Silber’s scrawly handwriting.
 

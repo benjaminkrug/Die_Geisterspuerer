@@ -84,3 +84,86 @@ K13 · Absatz 110 · DE: „Und knurrte. Leise. Tief.“ · EN: “And growled. 
 1. **„Nicht *Not X. Something else.* mehr als einmal“** — das Deutsche baut K13 mehrfach so (*Aber nicht vor Angst. Es war ein anderes Kribbeln.*, *Nicht golden. Nicht warm. … Das hier war anders.*). Beide stehen; das zweite ist eine Fragmentkette im Schreckmoment, nicht die Kalke-Form.
 2. **Gold vs. Silber:** Abs. 94 *„Jetzt war es nur Silber.“* — im Deutschen klingt der Name *Silber* mit. Das Englische (*silver*) verliert das nicht ganz, weil *Mrs. Silber* deutsch bleibt; kein Zusatz.
 3. **Fragmente in Abs. 35** (*No furniture. Bare floorboards. Empty walls. Moonlight on the floor.*) — vier Fragmente; A8 erlaubt das Zusammenziehen in ruhigen Passagen. Ich habe sie stehen lassen, weil der Absatz mit *And something else.* in einen Schreck kippt.
+
+## Runde 2 (Block 4)
+
+Grundlage: `Pruefung/D3_K13.md`, `D4_K13.md`, `D5_K13.md`, `D6_K13-K16_Gesamt.md` (Teil K13), Pilot 5.1–5.3, Wortliste, Autor-Vorgaben Block 4 (Vorgabe 3: *letting go*, *echoed*; Vorgabe 4: *Believe me.* als Linas Worte). Zeilen = Zeilennummern (DE = EN). Bewusst offen (nicht angefasst): Rückblick am Kapitelanfang, wie Lina starb, Luna.
+
+| Befund (Quelle · Nr./Zeile) | Entscheidung | Grund (eine Zeile) |
+|---|---|---|
+| D4 #1 Z.109 *coming loose* | angenommen | → *Something was letting go.* (Vorgabe 3; Wärme, Echo zu Z.189 *let go*). |
+| D4 #2 Z.27 *sounded loud* | angenommen | → *Their footsteps echoed on the wooden stairs.* (Vorgabe 3; *hallten*). |
+| D5 Z.7 *At some point in the night* | angenommen | → *Sometime during the night, …* |
+| D5 Z.9 *in Nora’s room* | angenommen | → *in what was now Nora’s room* (Sinn des DE, kein Zusatz). |
+| D5 Z.11 *beating calmly* 2× | angenommen (teilw.) | → *Her heart was calm. For the first time in days, it was calm.* — Wiederholung des DE bleibt. |
+| D5 Z.13 *swung* | angenommen | → *His tail wagged slowly back and forth.* (*pendelte*; kein *thump*). |
+| D5 Z.17 Präpositionskette | angenommen (teilw.) | → *At the first page, where the name was written in a girl’s handwriting.* — *Lina*, *round* nicht ergänzt. |
+| D5 Z.35 *Not like usual* | angenommen | → *Not like before.* |
+| D5 Z.55 *breath someone was holding back* | angenommen | → *Like someone holding their breath.* |
+| D5 Z.55 *the presence* | abgelehnt | (a) Wortliste *presence* (K10/K12/K13). |
+| D5 Z.61 Wiederholung zu Z.31 | abgelehnt | Das DE wiederholt bewusst (*Kein Zögern … / Ohne Zögern …*); keine Glättung (A8 7.4). |
+| D5 Z.69 *breastbone* | angenommen | → *behind her ribs* — bleibt konkretes Körperbild (5.1 Nr. 3). |
+| D5 Z.89 *His voice broke* | angenommen | → *His voice caught.* (*cracked* hätte dieselbe Stimmbruch-Lesart). |
+| D5 Z.105 *after a long time* | angenommen (teilw.) | → *a dog who had been gone a long time and had finally come home* — *trip* abgelehnt (Zusatz); *home* bleibt (Wortliste). |
+| D5 Z.109 *coming loose* | angenommen | wie D4 #1. |
+| D5 Z.119 *was shining now* | angenommen | → *Now the light was beaming.* (*strahlte*). |
+| D5 Z.121–123 Theo wiederholt Erzähler | abgelehnt | Beide Sätze stehen im DE; Theos Satz streichen = Satz kürzen. |
+| D5 Z.135 *No tense body* | angenommen (teilw.) | → *No tense muscles.* (*stiff legs* = neues Bild). |
+| D5 Z.141 *the teacher* | angenommen | → *my teacher*. |
+| D5 Z.147 *I think exactly like this* | angenommen | → *“I think so. Just like this.”* |
+| D5 Z.161 22-Wort-Fragment | angenommen | in zwei Sätze geteilt (*… for months. Now it was as warm …*). |
+| D5 Z.165 *she had gone* | abgelehnt | Wortfeld *go* (Wortliste, nie *leave*); Zusammenhang klärt. |
+| D5 Z.167 *actually* | angenommen | → *What really happened down there?* |
+| D5 Z.169 *saw the scratch marks* | angenommen | → *In her mind, Nora saw the scratch marks again.* (*vor sich sehen*). |
+| D5 Z.171 *what it had felt like* | angenommen | → *all I felt was how it felt for her.* |
+| D5 Z.179 *Believe me.* | angenommen | → *“‘Believe me.’”* — Zitat im Zitat wie Z.175 *‘Find out what happened.’* (Vorgabe 4; kein neuer Begleitsatz). |
+| D5 Z.203 *streets away* | angenommen | → *blocks away*; gleich in K14 Z.79, K15 Z.35 (Wortliste). |
+| D5 Z.205 Blitz unter der Erde | abgelehnt | Bild des Originals (*unter der Erde einschlägt*); keine Logik-Reparatur → Autor. |
+| D5 Z.223 *Of the names.* | angenommen (teilw.) | → *She thought of Mrs. Silber’s list. Of all the names on it.* — Fragment bleibt, klingt nicht mehr nach Tippfehler. |
+| D3 #1 Wo ist das Kondenswasser? | abgelehnt | K12 hat es gesetzt; Original. |
+| D3 #2 *Up.* klein | abgelehnt | Noras Gedanke, nicht das Fensterwort (Abschn. 2). |
+| D3 #3 Linas Zimmer | angenommen | wie D5 Z.9. |
+| D3 #4 *Third floor* | abgelehnt | E9 (DE *Zweiter Stock*). |
+| D3 #5 Küche am Flurende | abgelehnt | Original-Logik, schon gemeldet (Abschn. 4 Nr. 1). |
+| D3 #6 Zimmer mit Notizen / *study* | abgelehnt | Bezeichnungen des Originals (K5). |
+| D3 #7 Nora in der Tür? | abgelehnt | Original. |
+| D3 #8 *voice broke* | angenommen | wie D5 Z.89. |
+| D3 #9 *It belonged to her* | abgelehnt | harmlos, Lina klar. |
+| D3 #10 Kellerboden | abgelehnt | kein Befund (K9/K10 setzen es). |
+| D3 #11 *eyes blurred* | abgelehnt | harmlos, Z.137 klärt. |
+| D3 #12 *She’s going* | abgelehnt | Wortliste (*go*). |
+| D3 #13 Wochenende | abgelehnt | Original, gemeldet. |
+| D3 #14 Kratzspuren real? | angenommen | wie D5 Z.169. |
+| D3 #15 *what it had felt like* | angenommen | wie D5 Z.171. |
+| D3 #16 *Believe me.* | angenommen | wie D5 Z.179. |
+| D3 #17 *streets* | angenommen | wie D5 Z.203. |
+| D3 #18 Blitz unter der Erde | abgelehnt | wie D5 Z.205. |
+| D3 #19 *couldn’t go* | abgelehnt | harmlos, Wortfeld *go*. |
+| D6 Skim Z.5–23 | abgelehnt | Vorgabe: Rückblick am Kapitelanfang = Bau des DE. |
+| D6 Skim Z.27–41 | abgelehnt | wie oben. |
+| D6 Skim Z.143–161 | abgelehnt | streicht DE-Sätze. |
+| D6 Wort *silhouette* Z.197 | angenommen | → *The outline of the church tower*. |
+| D6 Wort *breastbone* | angenommen | wie D5 Z.69. |
+| D6 Wort *drew in on itself* Z.125 | angenommen | → *It shrank. Slowly. Gently.* (*zog sich zusammen*). |
+| D6 Wort *purer* Z.111 | angenommen | → *Clearer.* (*Reiner*; Grenzfall, s. Gegenprobe). |
+| D6 Blitz unter der Erde | abgelehnt | wie D5 Z.205. |
+| D6 silly Z.119–123 | abgelehnt | wie D5 Z.121–123. |
+| D6 silly Z.223 | angenommen | wie D5 Z.223. |
+| D6 Z.35 Küche am Flurende (+ Tab. #1) | abgelehnt | Original, gemeldet. |
+| D6 Z.9 Kälte immer von oben (+ Tab. #2) | abgelehnt | Inhalt des Originals → Autor. |
+| D6 Z.49–53 Nora allein (+ Tab. #3) | abgelehnt | neuer Witz/Inhalt. |
+| D6 Z.167–183 was im Keller geschah | abgelehnt | Vorgabe: wie Lina starb bleibt offen. |
+| D6 Tab. #4 *most natural thing* 3× | abgelehnt | Wortliste (K1/K5 wortgleich, gleicher DE-Satz). |
+| D6 Tab. #5 3. Heimkehr | abgelehnt | Wortliste *home* (optional laut D6). |
+| D6 Tab. #6 Stadtblick K13 vs. K16 | abgelehnt | Vorgabe: K16-Nachtgedanke = Bau des DE; Wortliste *A completely normal city*. |
+| D6 Tab. #7 Satz zu Silbers Methode | abgelehnt | Zusatz. |
+| D6 Vorlesen Z.5 *Next to it, the other words* | angenommen | → *Next to it, THANK YOU was still there.* |
+| D6 Vorlesen Z.119–123 | abgelehnt | wie D5 Z.121–123. |
+| D6 Vorlesen Z.203–207 Fragmentkette | abgelehnt | Kapitelende: Fragmente bleiben (A8 Abschn. 2). |
+| D6 Vorlesen Z.179 *Believe me.* | angenommen (teilw.) | Zitat im Zitat; Begleitsatz *Nora said … Someone to believe her* abgelehnt (Zusatz). |
+
+**Zählung K13:** D3 6 angenommen / 13 abgelehnt · D4 2 / 0 · D5 22 / 5 · D6 7 / 15.
+
+**Gegenprobe (nur Bedeutung, jeder geänderte Satz gegen DE, 27 Stellen):** Grenzfälle, belassen: *Clearer.* (*Reiner*: rein → klarer; Farbe bleibt „weißer“) · *wagged* (*pendelte*: langsames Wedeln, freundlich wie DE) · *behind her ribs* (*Brustbein*: gleiche Stelle, bleibt Körper) · *Next to it, THANK YOU was still there.* (*das andere Wort* entfällt als Zeiger, Inhalt gleich) · *Of all the names on it* (*all* verstärkt minimal). Keine Abweichung gefunden, keine zurückgenommen.
+
+**Prüfskript:** 0 Befunde. **konsistenz:** unverändert (6 Stellen wie vor der Runde, keine neue).

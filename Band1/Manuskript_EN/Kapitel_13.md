@@ -2,19 +2,19 @@
 
 Up.
 
-Nora stared at the word in the condensation. The letters were clear and sharp. No doubt about it. Not one shaky line. Next to it, the other words were still there: THANK YOU.
+Nora stared at the word in the condensation. The letters were clear and sharp. No doubt about it. Not one shaky line. Next to it, THANK YOU was still there.
 
-“Up,” Theo said. He was standing next to her, hugging the diary to his chest. At some point in the night, Nora had given it to him. He hadn’t let go of it since. “She means Mrs. Silber’s apartment.”
+“Up,” Theo said. He was standing next to her, hugging the diary to his chest. Sometime during the night, Nora had given it to him. He hadn’t let go of it since. “She means Mrs. Silber’s apartment.”
 
-Nora nodded. Lina had lived down here, in Nora’s room. But the cold and the knocking had always come from above. From the empty apartment. As if Lina had hidden away up there, where nobody would bother her.
+Nora nodded. Lina had lived down here, in what was now Nora’s room. But the cold and the knocking had always come from above. From the empty apartment. As if Lina had hidden away up there, where nobody would bother her.
 
-Her heart was beating calmly. For the first time in days, it was beating calmly. The cold had left the apartment. The air felt the way it does after a thunderstorm. Fresh. Soft. As if someone had opened a window.
+Her heart was calm. For the first time in days, it was calm. The cold had left the apartment. The air felt the way it does after a thunderstorm. Fresh. Soft. As if someone had opened a window.
 
-Shadow stood at the apartment door. He didn’t scratch. He didn’t whine. He just waited. His tail swung slowly back and forth.
+Shadow stood at the apartment door. He didn’t scratch. He didn’t whine. He just waited. His tail wagged slowly back and forth.
 
 “Then let’s go up,” Nora said.
 
-Theo looked down at the diary in his hands. At the leather cover. At the first page with the name in a girl’s handwriting.
+Theo looked down at the diary in his hands. At the leather cover. At the first page, where the name was written in a girl’s handwriting.
 
 “Should I bring it?” he said.
 
@@ -24,7 +24,7 @@ Nora thought about it. The diary belonged to Lina. It had been lying in a hole i
 
 ---
 
-The stairwell was silent. Their footsteps sounded loud on the wooden stairs. Nora went first, Theo right behind her. Shadow walked between them, his claws clicking softly on the wood.
+The stairwell was silent. Their footsteps echoed on the wooden stairs. Nora went first, Theo right behind her. Shadow walked between them, his claws clicking softly on the wood.
 
 Third floor. The door to Mrs. Silber’s apartment was open a crack. Like always. As if it were waiting for them.
 
@@ -32,7 +32,7 @@ Nora pushed it open. No creak. The door swung inward without a sound. Shadow wen
 
 “Okay,” Theo muttered. “If the dog goes in, we go in.”
 
-The hallway was dark. Moonlight fell through the kitchen window at the end of the hall and painted a silver stripe on the floorboards. Nora smelled dust and old wood. But the air wasn’t cold. Not like usual. Not like the first time.
+The hallway was dark. Moonlight fell through the kitchen window at the end of the hall and painted a silver stripe on the floorboards. Nora smelled dust and old wood. But the air wasn’t cold. Not like before. Not like the first time.
 
 “It’s warm,” Theo whispered. “Nora, it’s warm up here.”
 
@@ -52,7 +52,7 @@ Theo’s eyes went wide. “What? No. Nora—”
 
 Before he could argue, Nora stepped through the door. Alone.
 
-The air in the room closed around her. Cool, but not cold. Like a breath someone was holding back. Nora could feel her heartbeat all the way to her fingertips. She stood in the dark and felt the presence. Close. Right in front of her. Everywhere.
+The air in the room closed around her. Cool, but not cold. Like someone holding their breath. Nora could feel her heartbeat all the way to her fingertips. She stood in the dark and felt the presence. Close. Right in front of her. Everywhere.
 
 “It’s me,” Nora whispered. “I read your diary.”
 
@@ -66,7 +66,7 @@ And sighed.
 
 “He’s about to start snoring,” Theo whispered from the doorway. But his voice was shaking.
 
-Nora’s breathing went shallow. Something pressed behind her breastbone. Warm. Deep.
+Nora’s breathing went shallow. Something pressed behind her ribs. Warm. Deep.
 
 Theo stepped up beside her. The room was small. One window that looked out onto Kirchgasse. No furniture. Bare floorboards. Empty walls. Moonlight on the floor.
 
@@ -86,7 +86,7 @@ It was the most beautiful thing Nora had ever seen.
 
 “Theo,” she whispered. “Do you see that?”
 
-“Yeah.” His voice broke. “Yeah, I see it.” He reached for her hand. “What do we do?”
+“Yeah.” His voice caught. “Yeah, I see it.” He reached for her hand. “What do we do?”
 
 “Say her name,” Nora whispered. “Tell her we know her.”
 
@@ -102,13 +102,13 @@ Shadow lifted his head. He slowly got up and walked over to the light. Three ste
 
 And for one heartbeat, Nora was Lina. She felt the cold basement floor under bare feet. The fear. The loneliness. Fifty years of waiting. Then it was over. Gone in a blink. Nora was Nora again. But now she understood.
 
-Shadow lay still. His eyes were half closed. His tail lay motionless on the floor. He looked like a dog who had finally come home after a long time.
+Shadow lay still. His eyes were half closed. His tail lay motionless on the floor. He looked like a dog who had been gone a long time and had finally come home.
 
 “What’s happening?” Theo whispered.
 
-Nora didn’t answer. She couldn’t put it into words. But she could feel it. Something was coming loose.
+Nora didn’t answer. She couldn’t put it into words. But she could feel it. Something was letting go.
 
-The spot of light moved. Slowly. It slid across the floor, over the cover of the diary, past Shadow’s paw, toward the window. It got a little bigger. A little brighter. The gold turned whiter. Purer.
+The spot of light moved. Slowly. It slid across the floor, over the cover of the diary, past Shadow’s paw, toward the window. It got a little bigger. A little brighter. The gold turned whiter. Clearer.
 
 Nora’s eyes blurred. She didn’t blink.
 
@@ -116,13 +116,13 @@ Nora’s eyes blurred. She didn’t blink.
 
 Two words. That was all it took. Nora knew he was right. She knew it in her bones. In her chest. In the place where you feel things you can’t explain.
 
-The light was shining now. Not blinding. Like a candle in a dark room.
+Now the light was beaming. Not blinding. Like a candle in a dark room.
 
 Then it got smaller.
 
 “Nora,” Theo whispered. “The light’s getting smaller.”
 
-It drew in on itself. Slowly. Gently. The glow gathered into one single point. Bright. Warm. Perfectly still.
+It shrank. Slowly. Gently. The glow gathered into one single point. Bright. Warm. Perfectly still.
 
 And then it was gone.
 
@@ -132,19 +132,19 @@ Nothing but the creaking of the old house.
 
 No cold. No knocking. No scratching. No words in the condensation. Just the normal, ordinary silence of an empty apartment on a quiet street in a sleeping city.
 
-Shadow lay on the floor, breathing evenly. No raised hackles. No tense body. Just a dog who was asleep.
+Shadow lay on the floor, breathing evenly. No raised hackles. No tense muscles. Just a dog who was asleep.
 
 Nora noticed that her cheeks were wet. She lifted her hand and wiped them with the back of it. Warm. Salty.
 
 Next to her, Theo sniffled. He wiped his nose on his sleeve and made a sound that was half laughing and half sobbing.
 
-“We just watched a ghost go,” he murmured. “In case the teacher asks on Monday what I did this weekend.”
+“We just watched a ghost go,” he murmured. “In case my teacher asks on Monday what I did this weekend.”
 
 Nora laughed. Short. Quiet. It felt good. It loosened something in her chest that had been stuck there for days. A knot she hadn’t even noticed.
 
 “Do you think Mrs. Silber did it like this too?” Theo murmured. “Watched them go?”
 
-“Yeah,” Nora said. “I think exactly like this.”
+“Yeah,” Nora said. “I think so. Just like this.”
 
 “For forty years.”
 
@@ -158,17 +158,17 @@ She knelt down next to Shadow and put her hand on his fur. Warm. His chest rose 
 
 “Good dog,” Nora whispered. Her voice was rough. “Good, good dog.”
 
-Theo sat down next to her on the floor. He leaned against the wall and stretched out his legs. For a moment they just sat there. In the room that had been ice-cold for months and was now as warm as any other room in the house.
+Theo sat down next to her on the floor. He leaned against the wall and stretched out his legs. For a moment they just sat there. In the room that had been ice-cold for months. Now it was as warm as any other room in the house.
 
 Lina was free. The girl with the purple ink and the round letters. The girl nobody had believed. The girl who had gone down to the basement alone.
 
 Someone had listened to her. And she had gone.
 
-“Nora?” Theo looked at the spot where the light had been. “What actually happened down there? In the basement?”
+“Nora?” Theo looked at the spot where the light had been. “What really happened down there? In the basement?”
 
-Nora saw the scratch marks again. The little footprints in the dust. *Tomorrow I’m going down to the basement.*
+In her mind, Nora saw the scratch marks again. The little footprints in the dust. *Tomorrow I’m going down to the basement.*
 
-“I don’t know,” she said. “Just now, when the light was here, all I felt was what it had felt like. Cold. And all alone.”
+“I don’t know,” she said. “Just now, when the light was here, all I felt was how it felt for her. Cold. And all alone.”
 
 “You said we’d find out.”
 
@@ -176,7 +176,7 @@ Nora saw the scratch marks again. The little footprints in the dust. *Tomorrow I
 
 “Then what?”
 
-“Believe me.”
+“‘Believe me.’”
 
 Theo was quiet for a long time. Then he said, “We did.”
 
@@ -194,13 +194,13 @@ Theo nodded. He didn’t say anything else. He didn’t need to.
 
 After a while Nora stood up. Her knees cracked. The night was still. Moonlight fell through the window onto the floor, right where the golden light had been. Now it was only silver. Cold and clear.
 
-She went to the window. From up here she could see over the rooftops. Gravenstedt lay in front of her like a blanket of darkness and lights. Streetlights, yellow and warm. Windows where lamps were still on. Chimneys. Antennas. The silhouette of the church tower at the end of the street.
+She went to the window. From up here she could see over the rooftops. Gravenstedt lay in front of her like a blanket of darkness and lights. Streetlights, yellow and warm. Windows where lamps were still on. Chimneys. Antennas. The outline of the church tower at the end of the street.
 
 A normal city. A completely normal city at night. But Nora knew better.
 
 Then she saw it.
 
-Three, maybe four streets away. Between two roofs. A glow. Quick. Cold. Blue.
+Three, maybe four blocks away. Between two roofs. A glow. Quick. Cold. Blue.
 
 Not golden. Not warm. Not like Lina’s light. This was different. Icy. Sharp. Like lightning striking underground.
 
@@ -220,7 +220,7 @@ Nora stared at the spot between the roofs. Dark. Still. Nothing. As if it had ne
 
 But it had been there. Something blue. Something cold.
 
-She thought of Mrs. Silber’s list of names. Of the names. Of the stories nobody knew. Of the ones who couldn’t go.
+She thought of Mrs. Silber’s list. Of all the names on it. Of the stories nobody knew. Of the ones who couldn’t go.
 
 Behind her, on the floor, Shadow lifted his head. His eyes gleamed in the moonlight. He looked at the window. At the spot where the blue glow had been.
 

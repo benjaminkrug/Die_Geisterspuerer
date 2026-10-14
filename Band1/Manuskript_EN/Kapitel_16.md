@@ -12,11 +12,11 @@ She broke the seal. The wax cracked into pieces. Inside were several sheets of p
 
 “Hurry up,” Theo said. No joke this time.
 
-Nora began to read. “Dear finders of this letter. My name is Margret Silber. For forty years, I have looked after the Restless of Gravenstedt.”
+Nora began to read. “‘To those who find this letter. My name is Margret Silber. For forty years, I have cared for the Restless of Gravenstedt.’”
 
 She kept reading. Her voice was steady.
 
-“The Restless are trapped. About two hundred years ago, someone opened something that was meant to stay closed. A door between the living and the dead. Since then, the dead cannot leave Gravenstedt.”
+“‘The Restless are trapped. About two hundred years ago, someone opened something that was meant to stay closed. A door between the living and the dead. Since then, the dead cannot leave Gravenstedt.’”
 
 Theo stared at her. “A door? Who would do something like that?”
 
@@ -28,21 +28,21 @@ Nora didn’t answer. She thought of the chronicle. *In 1823.* And of the red ci
 
 Theo pulled his knees up to his chest. “I don’t want to be stuck somewhere that long. I can’t even stand sitting in the dentist’s waiting room.”
 
-She kept reading. “The first person I helped was a girl. Anna. She only wanted someone to say her name out loud. I sat with her for three nights. On the third night, she said thank you. Then she was gone.”
+She kept reading. “‘The first person I helped was a girl. Anna. She only wanted someone to say her name out loud. I sat with her for three nights. On the third night, she said thank you. Then she was gone.’”
 
 “Thank you,” Theo repeated quietly. “Like Lina. At the window.”
 
 Nora nodded. Her throat was tight.
 
-“I cried for a long time afterward,” she read. “From sadness and from happiness. It is the same for me to this day, with every one of them.”
+“‘I cried for a long time afterward,’” she read. “‘From sadness and from happiness. To this day, it is the same for me with every one of them.’”
 
 ---
 
-Nora turned the page. “Shadow has always led me to them. He senses them before I even suspect it. He is not an ordinary dog.”
+Nora turned the page. “‘Shadow has always led me to them. He senses them before I even suspect it. He is not an ordinary dog.’”
 
 Shadow lifted his head. As if he had recognized his name. His eyes rested on Nora. Calm. Old. Much older than a dog should look.
 
-“I do not know who you are. I do not know how old you are. But Shadow found you. That means you are the right ones.”
+“‘I do not know who you are. I do not know how old you are. But Shadow found you. That means you are the right ones.’”
 
 Theo quickly wiped his eyes with his sleeve.
 
@@ -54,15 +54,15 @@ Theo quickly wiped his eyes with his sleeve.
 
 Theo sniffled. “Lots of dust up here. Keep reading.”
 
-“The Veil is getting thinner,” Nora read. “It is the border between their world and ours. In some places it is tearing. More of the Restless are coming through than I can handle alone. There are nights when I hear all of them at once. Then Gravenstedt is loud with voices that no one else hears.”
+“‘The Veil is getting thinner,’” Nora read. “‘It is the border between their world and ours. In some places it is tearing. More of the Restless are coming through it than I can handle alone. There are nights when I hear all of them at once. Then Gravenstedt is loud with voices that no one else hears.’”
 
 Theo’s leg was bouncing. He did that when he was scared and didn’t want to show it.
 
-“Please do not give up,” Nora read. “They need someone who listens. Shadow will lead you. Trust him.”
+“‘Please do not give up,’” Nora read. “‘They need someone who listens. Shadow will lead you. Trust him.’”
 
 Nora thought the letter was over. But under the last paragraph there was one more line. The handwriting was different. Smaller. Shakier. As if Mrs. Silber had added it later.
 
-“And beware of the First One. He is not like the others.”
+“‘And beware of the First One. He is not like the others.’”
 
 Shadow jumped up.
 
@@ -84,11 +84,11 @@ Somewhere in Gravenstedt, a church clock struck. Once. Twice.
 
 Nora couldn’t sleep.
 
-She sat by the window. Behind her, the apartment lay in darkness. The radiator ticked. Familiar sounds.
+She sat by the window. Behind her, the apartment was dark. The radiator ticked. Familiar sounds.
 
 Shadow lay next to her on the floor. His warm body pressed against her leg. His eyes were open. Two bright points in the half-dark.
 
-The map lay on her desk. The letter lay next to it.
+The map was on her desk. Next to it, the letter.
 
 Outside, Gravenstedt lay in the night. Rooftops and chimneys. Streetlights that cast yellow circles on the cobblestones. The church tower, black against the dark blue sky.
 
@@ -122,11 +122,11 @@ Mom left. A little later, Theo padded in. Messy hair. One eye open.
 
 “Can’t sleep,” he murmured. He sat down next to her on the floor. Shadow immediately laid his head on Theo’s knee.
 
-“Are you scared?” he asked.
+“Are you scared?” Theo asked.
 
 “Yeah.”
 
-“Me too.” He was quiet for a moment. “You know what I was thinking before? When that man was standing there?”
+“Me too.” He was quiet for a moment. “You know what I was thinking earlier? When that man was standing there?”
 
 “That you wanted to run?”
 
@@ -136,7 +136,7 @@ Nora looked at him. Sometimes she forgot that he was only ten.
 
 “Theo?”
 
-“Hm?”
+“Hmm?”
 
 “You’re the bravest ten-year-old I know.”
 
@@ -150,7 +150,7 @@ A little later, a murmur came from his room. “… need … bigger flashlight �
 
 ---
 
-She got up and went to the desk. She wanted to roll up the map.
+She got up and went to the desk. She went to roll up the map.
 
 Shadow lifted his head.
 
@@ -158,7 +158,7 @@ Nora put her hand on the paper. And stopped.
 
 Under her fingers, the map was cold.
 
-Not cool. Ice-cold. Only in one spot. Only on one single circle.
+Not cool. Ice-cold. Only in one spot. Only on a single circle.
 
 At the cemetery.
 
@@ -170,7 +170,7 @@ Shadow stood next to her. He didn’t growl. He whined. Very softly.
 
 Nora didn’t pull her hand away. The cold bit into her fingertips.
 
-It felt as if a second hand lay on the other side at that very moment.
+It felt as if, right then, on the other side, there was another hand.
 
 In exactly the same spot.
 

@@ -26,7 +26,7 @@ Theo was sitting in the kitchen with a glass of milk. His hair stuck out in ever
 
 “You don’t have a résumé. You’re ten.”
 
-“Then I’ll start one.” He counted on his fingers. “Ghost release. Teamwork with supernatural dog. Experience reading diaries out loud in subzero temperatures.”
+“Then I’ll start one.” He counted on his fingers. “Ghost release. Teamwork with supernatural dog. Experience reading diaries out loud below freezing.”
 
 Nora laughed. For real. Her shoulders relaxed.
 
@@ -48,7 +48,7 @@ The apartment smelled like old books and dust. But the cold was gone.
 
 Theo stopped in front of the list of names. At the very bottom: *Lina Vogt? – 1974?* The question marks were still there.
 
-“Mrs. Silber knew about Lina,” he murmured. “But she couldn’t do it.”
+“Mrs. Silber knew about Lina,” he murmured. “But she never managed to help her.”
 
 “No,” Nora said. “We did it.”
 
@@ -76,7 +76,7 @@ Nora counted. Twelve.
 
 A circle at the cemetery. *Heinrich B. – 1887.*
 
-Nora kept her finger on it. Three, maybe four streets from their building. Right there, between two roofs, the blue light had flickered last night. Or somewhere close by. She wasn’t sure.
+Nora kept her finger on it. Three, maybe four blocks from their building. Right there, between two roofs, the blue light had flickered last night. Or somewhere close by. She wasn’t sure.
 
 But the direction was right.
 
@@ -98,7 +98,7 @@ She ran her finger over the years. 1843. 1889. 1912. Some of the circles were al
 
 Then Nora saw the edge of the map.
 
-There was another circle there. But not a black one. A big red circle with a double outline. The ink was thick and dark. Dark red like old sealing wax.
+There was another circle there. But not a black one. A big red circle with a double outline. The ink was thick and dark. A deep red, like old sealing wax.
 
 No name. No date. Just one word in capital letters.
 
@@ -122,7 +122,7 @@ Nora opened it to the first chapter. One paragraph. Three sentences.
 
 Below it was a footnote in tiny print. *The city archives were lost in a fire in 1871.*
 
-“Convenient,” Theo said dryly. “The man who founded the city. No picture, no story. Just a name. And a red circle.”
+“How convenient,” Theo said dryly. “The man who founded the city. No picture, no story. Just a name. And a red circle.”
 
 Nora thought of the notebook. Of Mrs. Silber’s last, shaky lines. *I can feel HIM. The First One.*
 
@@ -160,7 +160,7 @@ Theo touched the X with his finger. He pulled it back. His fingertip was black.
 
 Nora’s stomach turned into a cold lump. Ink dries fast. This X couldn’t be more than a few minutes old.
 
-But the map had been behind the board. Until a little while ago. And since then, Nora hadn’t let go of it.
+But the map had been behind the loose board. Until a little while ago. And since then, Nora hadn’t let go of it.
 
 “Somebody was here,” Theo said. “Somebody came in here and did that.”
 
@@ -168,13 +168,13 @@ He turned around and stared down the hallway. Empty. The apartment door was open
 
 Nora looked over at Shadow. He would have known. He always knew when someone was there.
 
-Shadow sniffed the black X. For a long time. Then he sat down and looked at Nora. Calm. No growling. No raised hackles. His tail swished across the floor once.
+Shadow sniffed the black X. For a long time. Then he sat down and looked at Nora. Calm. No growling. No raised hackles. His tail tapped the floor once.
 
 As if he had recognized something.
 
 That was almost worse than growling.
 
-Nora looked at the board under the sink. At the dust in front of it. A thick gray layer. There were only two sets of marks in it. The ones from Shadow’s nose. And her own fingerprints from before.
+Nora looked at the board under the sink. At the dust in front of it. A thick gray layer. There were only two sets of marks in it. The ones from Shadow’s nose. And her own fingerprints from earlier.
 
 Nothing else. Nobody had opened the hiding place. Not for months.
 

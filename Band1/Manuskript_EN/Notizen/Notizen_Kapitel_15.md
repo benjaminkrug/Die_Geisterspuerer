@@ -85,3 +85,73 @@ K15 · Absatz 95 · DE: „mit zittriger Hand“ · EN: “in a shaky hand” ·
 1. **Kleines *shadow* verboten** — in K15 zweimal mitten in Stimmungsbildern (*lange Schatten*, *im Schatten der Linden*). *shade* ist dort sogar besser; *silhouettes* für die Abendschatten ist ein Hauch literarischer als das DE. Regel richtig, aber teuer in Lichtbildern.
 2. **Abs. 50 *it* nach Abs. 47 *He*:** Das Deutsche wechselt grammatisch (*Er stand still* / *Die Gestalt … sie*). Englisch hört man den Wechsel stärker. Bewusst gelassen (unheimlich), D4 möge prüfen.
 3. **„Name statt Pronomen“ (A8)** und **„kein *Shadow’s* am Satzanfang“** stoßen in Abs. 32 zusammen; *The dog’s* löst es, ist aber das einzige *the dog* im Kapitel.
+
+## Runde 2 (Block 4)
+
+Grundlage: `Pruefung/D3_K15.md`, `D4_K15.md`, `D5_K15.md`, `D6_K13-K16_Gesamt.md` (Teil K15), Pilot 5.1–5.3, Wortliste, Autor-Vorgaben Block 4 (Vorgabe 1: DE geändert → *Schraubenzieher*; Vorgabe 3: *red sealing wax*; Vorgabe 5: Punkt-Witz neu bauen).
+
+### W1-18 neu gebaut (Vorgabe 5, A3: Witz darf umgebaut werden)
+DE Abs. 9 *„Wütend Punkt Grab Punkt“, las Theo. „Na toll. Das klingt gemütlich.“* · Abs. 20 *„Wütend Punkt Grab Punkt. Und du willst gucken.“*
+Funktion: Theo liest den Zwei-Wort-Zettel stur bis zum Satzende vor — knappe Notiz wird zur Grabinschrift; Pointe *cozy*.
+- (a) **“Angry. Grave. The end,” Theo read. “Oh, great. That sounds cozy.”** · Abs. 20 **“Angry. Grave. The end. And you want to look.”**
+- (b) *“Angry. Grave,” Theo read. “Oh, great. An angry guy in a grave. That sounds cozy.”*
+- (c) *“Angry. Grave,” Theo read in a robot voice. “Oh, great. That sounds cozy.”*
+- **Wahl (a):** *The end* ist der Schlusspunkt, den ein US-Kind kennt (Geschichtenende) — Theo „liest das Satzende mit“ wie im DE, ohne *period* (Kicher-Wort, Zeitalter-Lesart, D5/D6/D3). Gleich kurz wie das DE, Abs. 20 wortgleich wiederholbar; *Grave* bleibt Substantiv am Friedhof (Kartennotiz unverändert, R5 *Angry. Grave.*). Schwarzer Humor *Grave. The end.* passt zur Reihe. (b) erklärt den Witz und verlängert ihn (A2); (c) erfindet eine Regieanweisung.
+
+| Befund (Quelle · Nr./Zeile) | Entscheidung | Grund (eine Zeile) |
+|---|---|---|
+| D4 #1 Z.189 *seal of red wax* | angenommen | → *Sealed with red sealing wax.* (Vorgabe 3; A7-Echo K14 *old sealing wax*). |
+| D5 Z.17 *Angry period. Grave period.* | angenommen | neu gebaut, s. oben (Vorgabe 5); Z.39 gleich. |
+| D5 Z.25 *the Ring* | abgelehnt | (a) Glossar A1: *the elementary school on the Ring*. |
+| D5 Z.25 Schultyp (Theo zehn) | abgelehnt | Welt bleibt deutsch (A8 1.4); *Not yours* funktioniert auch so. |
+| D5 Z.49 *got up and got* | angenommen | → *got up and grabbed the leash.* |
+| D5 Z.53 *silhouettes* | angenommen | → *The evening sun cast long dark shapes across the sidewalk.* (Wortliste K12 *cast dark shapes*; kein kleines *shadow*). |
+| D5 Z.55 *Until they were standing* | angenommen | → *Until they reached the library.* |
+| D5 Z.63 *The rush of the cars* | angenommen | → *The hum of the traffic.* |
+| D5 Z.63 *In the middle of the … sun* | angenommen | → *Right there in the warm evening sun, …* |
+| D5 Z.65 *in her bones* 2× | abgelehnt | DE *in den Knochen* in K13 und K15; Körperbild bleibt. |
+| D5 Z.93–101 *he/its* | angenommen | → *The figure lifted his head. … As if he had all the time in the world.* (Geister sind Menschen; Z.95 *He*). |
+| D5 Z.105 *bang* / 2× *slammed shut* | angenommen (teilw.) | → *A clang …*; zweites *slammed shut* bleibt (DE *schlug zu / zugeschlagen*). |
+| D5 Z.159 *had to laugh* | angenommen | → *Nora couldn’t help laughing.* |
+| D5 Z.183 *one particular floorboard* | angenommen | → *Right on top of one floorboard.* |
+| D5 Z.187 Brieföffner | angenommen | Vorgabe 1 → *Without a word, Theo handed her the screwdriver.* (← K8 *the screwdriver*). |
+| D3 #1 *Grave* doppeldeutig | abgelehnt | DE *Grab*; am Friedhof Substantiv, Kartennotiz bleibt. |
+| D3 #2 *period* Nebenlesarten | angenommen | Vorgabe 5. |
+| D3 #3 *Lost* | abgelehnt | beide Lesarten traurig, wie DE. |
+| D3 #4 *Veil* | abgelehnt | Original (K16 erklärt). |
+| D3 #5 *the Ring* | abgelehnt | Glossar A1. |
+| D3 #6 *Behind each one* | abgelehnt | kein Befund. |
+| D3 #7 Bibliothek | abgelehnt | kein Befund. |
+| D3 #8 *silhouettes* | angenommen | wie D5 Z.53. |
+| D3 #9 Leine | abgelehnt | Original. |
+| D3 #10 Tor | abgelehnt | kein Befund. |
+| D3 #11 Zaun | abgelehnt | kein Befund. |
+| D3 #12 *it/him* | angenommen | wie D5 Z.93–101. |
+| D3 #13 *sidewalk/cobblestones* | abgelehnt | DE *Bürgersteig / Pflaster*. |
+| D3 #14 Hausnummer 14 | abgelehnt | Original. |
+| D3 #15 welche Tür | abgelehnt | Original, gemeldet (Abschn. 4 Nr. 2). |
+| D3 #16 *we quit* | abgelehnt | Wortliste. |
+| D3 #17 Wohnungstür | abgelehnt | kein Befund. |
+| D3 #18 *third floor* | abgelehnt | E9. |
+| D3 #19 Brieföffner | angenommen | Vorgabe 1. |
+| D3 #20 *scrawly* | abgelehnt | kein Befund. |
+| D3 #21 *no longer here* | abgelehnt | Wortliste/R2, B4 (≠ tot). |
+| D6 Skim Z.13–33 | abgelehnt | streicht DE. |
+| D6 Wort *linden* | abgelehnt | Baumname des Originals (Welt bleibt deutsch). |
+| D6 Wort *the Ring* | abgelehnt | Glossar A1. |
+| D6 Wort *Veil* | abgelehnt | Original/R45. |
+| D6 Wort *grave* | abgelehnt | DE *Grab* (Substantiv). |
+| D6 Wort *silhouettes* (+ Vorlesen) | angenommen | wie D5 Z.53. |
+| D6 Wort *deadbolt* | abgelehnt | bekannt (D6 selbst). |
+| D6 Brieföffner (+ silly, Tab. #11) | angenommen | Vorgabe 1. |
+| D6 Witz *period* (+ Vorlesen) | angenommen | Vorgabe 5. |
+| D6 silly Z.101 starrt/hebt Kopf | abgelehnt | Original. |
+| D6 Z.165 *Nobody goes anywhere alone* vs. K13 | abgelehnt | Inhalt des Originals. |
+| D6 Vorlesen *shade* ≈ *Shadow* | angenommen | → *The cemetery lay under old linden trees.* (*im Schatten der Linden*: *under* trägt den Schatten). |
+| D6 Vorlesen Z.125 Hausnummern | abgelehnt | D6: funktioniert; keine Änderung nötig. |
+
+**Zählung K15:** D3 4 angenommen / 17 abgelehnt · D4 1 / 0 · D5 11 / 3 · D6 4 / 9.
+
+**Gegenprobe (nur Bedeutung, 15 Stellen):** *The end* ist Umbau nach A3 (Witzfunktion, kein Inhalt). *dark shapes* = *lange Schatten* (Sonne wirft Schatten). *Right on top of one floorboard* (*eine bestimmte*: „bestimmt“ abgeschwächt, Pfote darauf trägt es). *under old linden trees* (*im Schatten der Linden*). *the screwdriver* = neues DE (*den Schraubenzieher*, bestimmter Artikel wie DE). Keine Abweichung gefunden.
+
+**Prüfskript:** 0 Befunde. **konsistenz:** unverändert (*noch nicht* K06/K15 wie gehabt, bewusst). Abschn. 4 Nr. 1 (Brieföffner) durch Autor erledigt.

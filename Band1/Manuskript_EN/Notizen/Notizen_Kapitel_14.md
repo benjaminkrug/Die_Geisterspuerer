@@ -75,3 +75,62 @@ K14 · Absatz 87 · DE: „Und trotzdem war die Tinte nass.“ · EN: “And yet
 1. **„Kein *Shadow’s* + Substantiv am Satzanfang“** zwang in Abs. 85 zu einer kleinen Erweiterung (*The ones from …*). Die Regel ist richtig, kostet aber bei Aufzählungs-Fragmenten Kürze.
 2. **W1-16** ist nur im Kopf witzig, wenn man elf als „ein Jahr“ hört — funktioniert englisch gleich.
 3. **Silber-Zeitform:** *has been missing* (Present Perfect) in Noras Rede ist richtig, im Erzähltext wäre es *had been*. Unproblematisch, nur bewusst gewählt.
+
+## Runde 2 (Block 4)
+
+Grundlage: `Pruefung/D3_K14.md`, `D4_K14.md`, `D5_K14.md`, `D6_K13-K16_Gesamt.md` (Teil K14), Pilot 5.1–5.3, Wortliste, Autor-Vorgaben Block 4 (Vorgabe 3: Schwanz *tapped*, *below freezing*). Bewusst offen: das nasse X (Band-2-Haken), Schule im Juli, 12 Kreise vs. „Dutzende“ Namen.
+
+| Befund (Quelle · Nr./Zeile) | Entscheidung | Grund (eine Zeile) |
+|---|---|---|
+| D4 #1 Z.171 *swished* | angenommen | → *His tail tapped the floor once.* (Vorgabe 3; A7: einzelner bewusster Schlag = Wiedererkennen; *thump* bleibt dem Klopfen). Abschn. 2 (Falle) damit überholt. |
+| D4 #2 Z.29 *subzero* | angenommen | → *reading diaries out loud below freezing.* (Vorgabe 3; Fahrenheit). |
+| D5 Z.9 Juli/keine Schule | abgelehnt | Vorgabe: Schule im Juli bleibt. |
+| D5 Z.51 *couldn’t do it* | angenommen | → *“But she never managed to help her.”* (*geschafft*; Z.53 *We did it.* bleibt). |
+| D5 Z.69–73 *black ink* 2× | abgelehnt | Das DE sagt es zweimal (*Schwarze Tinte … mit schwarzer Tinte*). |
+| D5 Z.79 *Right there … Or somewhere close by* | abgelehnt | Selbstkorrektur steht im DE. |
+| D5 Z.101 *dark. Dark red* | angenommen | → *The ink was thick and dark. A deep red, like old sealing wax.* — *sealing wax* bleibt (A7-Echo K15). |
+| D5 Z.125 *Convenient* zu erwachsen | angenommen (teilw.) | → *“How convenient,” Theo said dryly.* — gängige Sarkasmus-Formel, Wort bleibt; *super* abgelehnt (Ausbau). |
+| D5 Z.151 *so how could she?* | abgelehnt | Zusatz/Erklärung. |
+| D5 Z.163 *the board* / *a little while ago* | angenommen (teilw.) | → *behind the loose board* (Bezug zu Z.61); *twenty minutes* abgelehnt (Zusatz), *a little while ago* ist US-üblich. |
+| D5 Z.177 *from before* | angenommen | → *from earlier*. |
+| D3 #1 *résumé* | abgelehnt | Wortliste (K6). |
+| D3 #2 *subzero* | angenommen | wie D4 #2. |
+| D3 #3 *Which it once had* | abgelehnt | kein Befund. |
+| D3 #4 Wo hängt die Liste? | abgelehnt | Original, gemeldet (Abschn. 4 Nr. 1). |
+| D3 #5 12 + rot | abgelehnt | Vorgabe/Original (*another circle* offen wie DE). |
+| D3 #6 Friedhof = blaues Licht | abgelehnt | kein Befund. |
+| D3 #7 *by eleven* | abgelehnt | Witz löst sich sofort (W1-16). |
+| D3 #8 *sealing wax* | abgelehnt | A7-Echo (K15 jetzt *red sealing wax*). |
+| D3 #9 GRAVEN ≈ *grave* | abgelehnt | kein Befund. |
+| D3 #10 *study* | abgelehnt | K5-Bezeichnung. |
+| D3 #11 *Convenient* | angenommen | wie D5 Z.125. |
+| D3 #12 Türrahmen | abgelehnt | kein Befund. |
+| D3 #13 Wann entstand das X? | abgelehnt | Vorgabe: X bleibt offen. |
+| D3 #14 *crossed her out* | abgelehnt | Z.149 *She’s free* klärt. |
+| D3 #15 schwarz/grau | abgelehnt | kein Befund. |
+| D3 #16 Tinte trocknet | abgelehnt | kein Befund. |
+| D3 #17 *hadn’t let go of it* | abgelehnt | Sinn klar (*nicht aus der Hand gegeben*). |
+| D3 #18 Wiedererkennen | abgelehnt | gewollt (A7, nicht verstärken). |
+| D3 #19 Staubspuren-Logik | abgelehnt | Vorgabe: X bleibt offen. |
+| D6 Skim Z.39–55 | abgelehnt | streicht DE. |
+| D6 Wort *résumé* | abgelehnt | Wortliste. |
+| D6 Wort *subzero* | angenommen | wie D4 #2. |
+| D6 Wort *immune* | abgelehnt | trägt den Spinnen-Witz (*Except to spiders*); Kind versteht es „so halb“. |
+| D6 Wort *baseboard* | abgelehnt | konkretes Haushaltswort, nötig für Z.177. |
+| D6 Wort *sealing wax* | abgelehnt | A7-Echo. |
+| D6 Wort *double outline* | abgelehnt | *doppelt umrandet*; kein kürzeres Kinderwort. |
+| D6 Wörter *chronicle/footnote/archives* | abgelehnt | Wortliste (Buchtitel) und Inhalt des DE. |
+| D6 *Convenient … dryly* | angenommen (teilw.) | wie D5 Z.125; *dryly* steht im DE (*trocken*). |
+| D6 12 Kreise vs. Dutzende (+ Tab. #9) | abgelehnt | Vorgabe. |
+| D6 Entfernung Bibliothek (+ Tab. #8) | abgelehnt | Original → Autor. |
+| D6 Nasse-Tinte-Logik | abgelehnt | Vorgabe (X offen); *loose board* hilft dem Bezug. |
+| D6 Häkchen für Lina (+ Tab. #10) | abgelehnt | neuer Inhalt. |
+| D6 Tab. #14 Kakao mit Marshmallows | abgelehnt | neuer Inhalt (DE: *Glas Milch*). |
+| D6 Tab. #15 *like always* 3× | abgelehnt | DE *wie immer* 3× (keine Glättung). |
+| D6 Vorlesen Z.101 *dark. Dark* | angenommen | wie D5 Z.101. |
+
+**Zählung K14:** D3 2 angenommen / 17 abgelehnt · D4 2 / 0 · D5 5 / 4 · D6 3 / 13.
+
+**Gegenprobe (nur Bedeutung, 8 Stellen):** Grenzfall, belassen: *never managed to help her* (*hat es nicht geschafft* — *es* = Lina befreien; *help* ist Silbers Wort aus Z.43). *tapped* = *klopfte* (Bewegung jetzt wie im DE ein Schlag). Keine Abweichung gefunden.
+
+**Prüfskript:** 0 Befunde. **konsistenz:** unverändert. **Wortliste:** Zeilen Schwanz K14, Lebenslauf, roter Kreis, *Praktisch*, neue Zeile *blocks* aktualisiert.
