@@ -233,6 +233,6 @@ Grundlage: `Pruefung/D5_K10_R2.md` (Urteil „translated, slightly“), Vorrang 
 - Z.97 FEHLER behoben: *Her fingers scratching at the stone.* → *Fingers scratching at stone.* (A7: nicht festlegen, wer kratzte; DE *Mit Fingern, die über Stein kratzten*).
 - Z.43 *Over and over.* → *In an even rhythm.* (*Regelmäßig* = gleichmäßiger Takt; kein *steady*, das bleibt fürs Ende; kein Geräuschwort ergänzt).
 - Z.81 *decades of water* → *decades of moisture* (zurück; Echo zu Z.19 *swollen with moisture*).
-- Z.19 *The door opened slowly* → *The door opened heavily* (*ging schwer auf*; Rest des Satzes unverändert).
+- Z.19 *The door opened slowly* → *The door dragged open* (*ging schwer auf* = mühsam; *opened heavily* wäre selbst Lehnübersetzung; *heavy* steht schon im Satz davor, kein neues Geräusch neben *creak*; Rest des Satzes und Satzzahl unverändert).
 - Z.173 *He squeezed back.* → *He held on tight.* (*Er griff zurück*; kein Drücken, das Nora nicht gab).
 Prüfskript K10: 0 Befunde. konsistenz: keine neue Abweichung.

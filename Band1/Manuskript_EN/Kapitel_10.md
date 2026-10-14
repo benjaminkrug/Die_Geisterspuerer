@@ -16,7 +16,7 @@ Shadow pushed past Nora’s legs. He trotted down the steps. His claws clicked o
 
 Nora followed Shadow. The air got cooler with every step. The smell changed. Upstairs it smelled like wood and old carpet. Down here it smelled like wet stone and dirt.
 
-The stairs ended at a heavy wooden door. Old wood, swollen with moisture. Nora pushed down on the handle. The door opened heavily, with a creak that echoed through the basement. Behind it, everything was dark.
+The stairs ended at a heavy wooden door. Old wood, swollen with moisture. Nora pushed down on the handle. The door dragged open, with a creak that echoed through the basement. Behind it, everything was dark.
 
 Nora’s phone lit up a long corridor. Concrete floor. Pipes on the ceiling. Storage lockers with padlocks. Old bikes. Boxes in the corners.
 
