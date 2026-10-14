@@ -248,6 +248,74 @@ def add_scene_break(doc):
 
 
 
+# --- Festes, verlinktes Inhaltsverzeichnis --------------------------------------------------------
+# Das Word-Feld (add_table_of_contents) enthält bis zur Aktualisierung nur einen Platzhalter.
+# Ob der KDP-Konverter Felder aktualisiert, ist nicht gesichert -> feste Einträge mit internen
+# Links auf Textmarken an den Kapitelüberschriften. Funktioniert ohne Aktualisierung (Nachprüfung
+# 2026-10-14).
+_bm_id = [0]
+
+
+def add_bookmark(paragraph, name):
+    _bm_id[0] += 1
+    start = OxmlElement("w:bookmarkStart")
+    start.set(qn("w:id"), str(_bm_id[0]))
+    start.set(qn("w:name"), name)
+    end = OxmlElement("w:bookmarkEnd")
+    end.set(qn("w:id"), str(_bm_id[0]))
+    paragraph._p.insert(0, start)
+    paragraph._p.append(end)
+
+
+def add_internal_link(paragraph, anchor, text, font_size=11):
+    link = OxmlElement("w:hyperlink")
+    link.set(qn("w:anchor"), anchor)
+    run = OxmlElement("w:r")
+    rpr = OxmlElement("w:rPr")
+    fonts = OxmlElement("w:rFonts")
+    fonts.set(qn("w:ascii"), "Georgia")
+    fonts.set(qn("w:hAnsi"), "Georgia")
+    size = OxmlElement("w:sz")
+    size.set(qn("w:val"), str(font_size * 2))
+    rpr.append(fonts)
+    rpr.append(size)
+    run.append(rpr)
+    t = OxmlElement("w:t")
+    t.set(qn("xml:space"), "preserve")
+    t.text = text
+    run.append(t)
+    link.append(run)
+    paragraph._p.append(link)
+
+
+def kapitel_titel(content):
+    return [l[2:].strip() for l in content.split("\n") if l.startswith("# Chapter ")]
+
+
+def add_static_toc(doc, titel_liste, ueberschrift):
+    add_blank_lines(doc, 3)
+    add_centered_text(doc, ueberschrift, font_size=18, bold=True)
+    add_blank_lines(doc, 2)
+    for i, titel in enumerate(titel_liste, 1):
+        p = doc.add_paragraph()
+        p.paragraph_format.first_line_indent = Cm(0)
+        p.alignment = WD_ALIGN_PARAGRAPH.LEFT
+        add_internal_link(p, f"kapitel_{i:02d}", titel)
+
+
+def add_chapter_heading_bm(doc, title, nummer):
+    """Wie add_chapter_heading, zusätzlich Textmarke für das Inhaltsverzeichnis."""
+    add_page_break(doc)
+    add_blank_lines(doc, 3)
+    p = doc.add_paragraph(title, style="Heading 1")
+    for run in p.runs:
+        run.font.name = "Georgia"
+        run.font.size = Pt(16)
+        run.bold = True
+    add_bookmark(p, f"kapitel_{nummer:02d}")
+    add_blank_lines(doc, 2)
+
+
 # --- Quellen lesen ---------------------------------------------------------------------------
 def rahmen():
     text = open(RAHMEN, encoding="utf-8").read()
@@ -294,7 +362,7 @@ def zeile(doc, text, size=11, bold=False, italic=False):
     return add_centered_text(doc, text, font_size=size, bold=bold, italic=italic)
 
 
-def front_matter(doc, r):
+def front_matter(doc, r, titel_liste):
     add_blank_lines(doc, 8)
     for z in r["Half title"]:
         zeile(doc, z, 18, bold=True)
@@ -314,9 +382,7 @@ def front_matter(doc, r):
         add_blank_lines(doc, 1)
     add_page_break(doc)
 
-    global TOC_TITEL
-    TOC_TITEL = r["Contents"][0]
-    add_table_of_contents(doc)
+    add_static_toc(doc, titel_liste, r["Contents"][0])
 
 
 def body(doc, content, ende_marker="**END OF BOOK 1**"):
@@ -326,11 +392,13 @@ def body(doc, content, ende_marker="**END OF BOOK 1**"):
     content = re.sub(r"(\n\s*---\s*)+$", "\n", content.rstrip() + "\n")
     lines = [l.strip() for l in content.split("\n")]
     erster = False
+    nummer = 0
     for i, line in enumerate(lines):
         if not line:
             continue
         if line.startswith("# "):
-            add_chapter_heading(doc, line[2:])
+            nummer += 1
+            add_chapter_heading_bm(doc, line[2:], nummer)
             erster = True
             continue
         if line == "---":
@@ -408,6 +476,12 @@ def pruefe(doc, content):
     kapitel = sum(1 for p in doc.paragraphs if p.style.name == "Heading 1")
     if kapitel != 16:
         raise ValueError(f"{kapitel} Kapitelüberschriften statt 16")
+    xml = doc.element.xml
+    for n in range(1, 17):
+        if f'w:anchor="kapitel_{n:02d}"' not in xml or f'w:name="kapitel_{n:02d}"' not in xml:
+            raise ValueError(f"Inhaltsverzeichnis: Link oder Textmarke für Kapitel {n} fehlt")
+    if "updates when opened" in text or "TOC \\o" in xml:
+        raise ValueError("Altes Inhaltsverzeichnis-Feld im Dokument")
     if "END OF BOOK 1" in text:
         raise ValueError("Ende-Marker steht noch im Dokument")
     return kapitel
@@ -420,7 +494,12 @@ def main():
     s = doc.sections[0]
     s.top_margin = s.bottom_margin = s.left_margin = s.right_margin = Cm(2)
     create_styles(doc)
-    front_matter(doc, r)
+    cp = doc.core_properties
+    cp.title = "The Whispering Window (The Ghost Listeners, Book 1)"
+    cp.author = cp.last_modified_by = "Benjamin Krug"
+    cp.language = "en-US"
+    titel_liste = kapitel_titel(content)
+    front_matter(doc, r, titel_liste)
     body(doc, content)
     back_matter(doc, r)
     kapitel = pruefe(doc, content)
