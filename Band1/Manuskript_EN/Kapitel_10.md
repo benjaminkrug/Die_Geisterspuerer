@@ -16,7 +16,7 @@ Shadow pushed past Nora’s legs. He trotted down the steps. His claws clicked o
 
 Nora followed Shadow. The air got cooler with every step. The smell changed. Upstairs it smelled like wood and old carpet. Down here it smelled like wet stone and dirt.
 
-The stairs ended at a heavy wooden door. Old wood, swollen with moisture. Nora pushed down on the handle. The door opened slowly, with a creak that echoed through the basement. Behind it, everything was dark.
+The stairs ended at a heavy wooden door. Old wood, swollen with moisture. Nora pushed down on the handle. The door opened heavily, with a creak that echoed through the basement. Behind it, everything was dark.
 
 Nora’s phone lit up a long corridor. Concrete floor. Pipes on the ceiling. Storage lockers with padlocks. Old bikes. Boxes in the corners.
 
@@ -40,7 +40,7 @@ Theo stopped. “You know the part in the movie where somebody says, ‘Come on,
 
 “True. In a movie, at least there’s background music. That way you know when it’s getting dangerous.”
 
-Nora kept going. Three small rooms, connected by low doorways. Cobwebs on the ceiling. Somewhere, something was dripping. Over and over. Like a slow heartbeat. There was a metallic taste on her tongue. Like old coins.
+Nora kept going. Three small rooms, connected by low doorways. Cobwebs on the ceiling. Somewhere, something was dripping. In an even rhythm. Like a slow heartbeat. There was a metallic taste on her tongue. Like old coins.
 
 The phone light flickered. Once. Then it went out.
 
@@ -78,7 +78,7 @@ Cracks. Everywhere. Dozens of thin lines running across the stone. But not natur
 
 Like fingers. Like someone had scratched at the stone with their fingers.
 
-Nora tasted something sour in her mouth. The scratches were old. Worn smooth by decades of water. Fifty years old.
+Nora tasted something sour in her mouth. The scratches were old. Worn smooth by decades of moisture. Fifty years old.
 
 “Nora.” Theo’s voice was barely a whisper. He was standing right behind her. His hand was still clutching her sleeve. “Those are finger marks.”
 
@@ -94,7 +94,7 @@ Theo swallowed loud enough for Nora to hear. “It happened down here,” he whi
 
 Nora didn’t answer. She stared at the scratch marks. Her arms hung heavy at her sides. Something was spreading through her chest. Not fear. Something else. Something deeper. Sadness. So heavy she could hardly breathe.
 
-A girl. Twelve years old. Alone in this basement. Her fingers scratching at the stone.
+A girl. Twelve years old. Alone in this basement. Fingers scratching at stone.
 
 “I’m cold,” Theo said. He rubbed his arms. “Really cold. Not normal cold.”
 
@@ -170,7 +170,7 @@ The footprints ended right behind Nora. Exactly where she had felt the presence.
 
 Lina had been here.
 
-Nora reached for Theo’s hand. He squeezed back. His fingers were ice-cold. Behind them, in the corner, the water kept dripping. Steady. Calm. As if nothing had happened.
+Nora reached for Theo’s hand. He held on tight. His fingers were ice-cold. Behind them, in the corner, the water kept dripping. Steady. Calm. As if nothing had happened.
 
 But the footprints stayed in the dust.
 

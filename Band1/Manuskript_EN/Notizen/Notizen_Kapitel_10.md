@@ -228,3 +228,11 @@ Grundlage: `Pruefung/D5_K10_R2.md` (Urteil „translated, slightly“), Vorrang 
 **Gegenprobe (nur Bedeutung, jeder geänderte Satz gegen DE):** 16 Stellen, deckungsgleich. Grenzfälle, belassen: *Over and over* (*Regelmäßig*; die Gleichmäßigkeit trägt der folgende *langsame Herzschlag*) · *decades of water* (*Feuchtigkeit*; Wasser, das durch den Stein zieht) · *In front of a corner* (*in der zwei Wände aufeinandertrafen* ist Definition der Ecke, kein Inhalt) · *Her fingers* (*Mit Fingern* — gemeint sind die des Mädchens aus dem Satz davor). Keine Abweichung gefunden.
 
 **Prüfskript:** 0 Befunde. **konsistenz:** keine neue Abweichung (Ausgabe vor/nach identisch).
+
+**Nachtrag R3 nach unabhängiger Gegenprobe (`Pruefung/D4_Block3_Gegenprobe_R3.md`, Bedeutung gewinnt):**
+- Z.97 FEHLER behoben: *Her fingers scratching at the stone.* → *Fingers scratching at stone.* (A7: nicht festlegen, wer kratzte; DE *Mit Fingern, die über Stein kratzten*).
+- Z.43 *Over and over.* → *In an even rhythm.* (*Regelmäßig* = gleichmäßiger Takt; kein *steady*, das bleibt fürs Ende; kein Geräuschwort ergänzt).
+- Z.81 *decades of water* → *decades of moisture* (zurück; Echo zu Z.19 *swollen with moisture*).
+- Z.19 *The door opened slowly* → *The door opened heavily* (*ging schwer auf*; Rest des Satzes unverändert).
+- Z.173 *He squeezed back.* → *He held on tight.* (*Er griff zurück*; kein Drücken, das Nora nicht gab).
+Prüfskript K10: 0 Befunde. konsistenz: keine neue Abweichung.
