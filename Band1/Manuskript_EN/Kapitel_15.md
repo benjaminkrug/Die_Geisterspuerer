@@ -26,7 +26,7 @@ Theo’s head snapped up. “Please tell me there’s no ghost at my school.”
 
 “Yet.”
 
-Nora ran her finger over the other circles. Factory. Church. Bridge. City hall. Behind each one, a name. Behind each one, someone who couldn’t go.
+Nora ran her finger over the other circles. Factory. Church. Bridge. City hall. Behind each one, a name. Behind each one, someone who couldn’t leave.
 
 “These aren’t monsters,” Theo said. He sounded surprised. “These are people. Normal people with normal names.”
 
@@ -50,11 +50,11 @@ But he got up and grabbed the leash.
 
 ---
 
-The evening sun stretched long stripes of shade across the sidewalk. The air smelled like warm stone. Shadow trotted between them. Calm. His fur flat.
+Long bands of shade stretched across the sidewalk in the low evening sun. The air smelled like warm stone. Shadow trotted between them. Calm. His fur flat.
 
 Until they reached the library.
 
-Shadow stopped. In the middle of a step. As if he had turned to stone.
+Shadow stopped. Mid-step. As if he had turned to stone.
 
 “Shadow?” Theo tugged on the leash. “Come on.”
 
@@ -90,7 +90,7 @@ Someone was standing between the gravestones.
 
 Nora’s heart pounded in her ears.
 
-A figure. Gray. See-through. She could make out the gravestone behind it. The outline of a man, blurry like smoke.
+A figure. Gray. See-through. She could make out the gravestone behind the figure. The outline of a man, blurry like smoke.
 
 He stood still. And stared.
 
@@ -102,7 +102,7 @@ The figure lifted his head. Slowly. As if he had all the time in the world.
 
 Then the gate slammed shut.
 
-Iron on iron. A clang that rang down the whole street. No wind. Nobody there. The gate had just slammed shut.
+Iron on iron. A clang that rang down the whole street. No wind. Nobody there. The gate had slammed shut on its own.
 
 Nora flinched so hard she almost tripped.
 
@@ -182,11 +182,11 @@ On the third floor, Shadow trotted past the kitchen. Past the room with the list
 
 Then he lay down. Right on top of one floorboard. He put his paw on it and looked at Nora.
 
-Nora knelt down. The floorboard had an edge, barely visible. It wasn’t nailed down.
+Nora knelt down. The floorboard had a thin gap around it, barely visible. It wasn’t nailed down.
 
 Without a word, Theo handed her the screwdriver. Nora pried. Dust trickled down. The floorboard came up.
 
-Underneath was an envelope. Big and yellowed. Sealed with red sealing wax.
+Underneath was an envelope. Big and yellowed. Closed with red sealing wax.
 
 There was writing on the front. Mrs. Silber’s scrawly handwriting.
 

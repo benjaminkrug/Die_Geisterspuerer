@@ -134,3 +134,17 @@ Grundlage: `Pruefung/D3_K14.md`, `D4_K14.md`, `D5_K14.md`, `D6_K13-K16_Gesamt.md
 **Gegenprobe (nur Bedeutung, 8 Stellen):** Grenzfall, belassen: *never managed to help her* (*hat es nicht geschafft* — *es* = Lina befreien; *help* ist Silbers Wort aus Z.43). *tapped* = *klopfte* (Bewegung jetzt wie im DE ein Schlag). Keine Abweichung gefunden.
 
 **Prüfskript:** 0 Befunde. **konsistenz:** unverändert. **Wortliste:** Zeilen Schwanz K14, Lebenslauf, roter Kreis, *Praktisch*, neue Zeile *blocks* aktualisiert.
+
+## Endkontrolle
+
+Grundlage: `Pruefung/D5_K14_K15_Endkontrolle.md` (unabhängiger US-Lektor), Auftrag des Koordinators: nur diese Zeilen.
+
+| Zeile | alt → neu | Grund / Gegenprobe DE |
+|---|---|---|
+| Z.11 | *He lifted his head, yawned wide, and let it sink back down.* → *… yawned wide, and laid it back down.* | *ließ ihn wieder sinken*-Kalke weg; *Er hob den Kopf* bleibt (A8-Geste). Sinn gleich. |
+| Z.29 | *Ghost release.* → *Freeing ghosts.* | *Geisterbefreiung*; *release* klang hier nach Produkt/Entlassung. *release* bleibt überall sonst (Wortliste: Ausnahme vermerkt). |
+| Z.53 | *“No,” Nora said. “We did it.”* → *“No,” Nora said. “But we did.”* | *Wir haben es geschafft* als Echo auf Z.51 (*never managed to help her*); *But* trägt den Gegensatz des DE. |
+| Z.145 | *Next to it, it said: *Lina V. – 1974.** → *Beside it were the words *Lina V. – 1974.** | *Daneben stand:*; kein *it … it*. |
+| Z.163 | *… behind the loose board. Until a little while ago.* → *… behind the loose board until earlier today.* | *Bis vorhin.*; keine erfundene Zeitspanne. Fragment auf Auftrag in den Satz gezogen (Ausnahme von A8 „zwei kurze nicht verbinden“; Absatz bleibt). |
+
+**Prüfskript:** 0 Befunde. **konsistenz:** unverändert (6 Stellen).

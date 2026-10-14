@@ -8,7 +8,7 @@ Then the memories came back. The diary. The cold. The light on the floor that go
 
 Saturday. No school. No knocking in the wall. No icy spots. Just quiet and the smell of coffee from the kitchen.
 
-Shadow was lying at the foot of her bed. He lifted his head, yawned wide, and let it sink back down.
+Shadow was lying at the foot of her bed. He lifted his head, yawned wide, and laid it back down.
 
 “You feel better too, huh?” Nora murmured.
 
@@ -26,7 +26,7 @@ Theo was sitting in the kitchen with a glass of milk. His hair stuck out in ever
 
 “You don’t have a résumé. You’re ten.”
 
-“Then I’ll start one.” He counted on his fingers. “Ghost release. Teamwork with supernatural dog. Experience reading diaries out loud below freezing.”
+“Then I’ll start one.” He counted on his fingers. “Freeing ghosts. Teamwork with supernatural dog. Experience reading diaries out loud below freezing.”
 
 Nora laughed. For real. Her shoulders relaxed.
 
@@ -50,7 +50,7 @@ Theo stopped in front of the list of names. At the very bottom: *Lina Vogt? – 
 
 “Mrs. Silber knew about Lina,” he murmured. “But she never managed to help her.”
 
-“No,” Nora said. “We did it.”
+“No,” Nora said. “But we did.”
 
 They went into the kitchen. Old cabinets, peeling paint, empty shelves. Nora opened one cabinet after another. Nothing but dust.
 
@@ -142,7 +142,7 @@ Shadow trotted over and sniffed the paper. Very slowly, circle by circle. At one
 
 Kirchgasse. Their street. Their building.
 
-There was a circle there. Next to it, it said: *Lina V. – 1974.*
+There was a circle there. Beside it were the words *Lina V. – 1974.*
 
 The circle was crossed out. Two lines, in an X.
 
@@ -160,7 +160,7 @@ Theo touched the X with his finger. He pulled it back. His fingertip was black.
 
 Nora’s stomach turned into a cold lump. Ink dries fast. This X couldn’t be more than a few minutes old.
 
-But the map had been behind the loose board. Until a little while ago. And since then, Nora hadn’t let go of it.
+But the map had been behind the loose board until earlier today. And since then, Nora hadn’t let go of it.
 
 “Somebody was here,” Theo said. “Somebody came in here and did that.”
 

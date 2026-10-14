@@ -167,3 +167,19 @@ Grundlage: `Pruefung/D4_Block4_Gegenprobe_R2.md` (K15: 2 SCHWÄCHE). Nur diese z
 
 **Gegenprobe:** *stripes of shade* = *lange Schatten* · *in the shade of* = *im Schatten der*. Keine Abweichung.
 **Prüfskript:** 0 Befunde. **konsistenz:** unverändert.
+
+## Endkontrolle
+
+Grundlage: `Pruefung/D5_K14_K15_Endkontrolle.md`, Auftrag des Koordinators: nur diese Zeilen. Abgelehnt (unverändert): *the elementary school on the Ring. Not yours.* · *Veil* · *the screwdriver*.
+
+| Zeile | alt → neu | Grund / Gegenprobe DE |
+|---|---|---|
+| Z.29 | *someone who couldn’t go* → *someone who couldn’t leave* | *der nicht gehen konnte*; ohne Kontext Klo-Lesart. *Behind each one* bleibt (bildlich wie DE). Bewusste Ausnahme vom Wortfeld *go* (Wortliste vermerkt). |
+| Z.53 | *The evening sun stretched long stripes of shade across the sidewalk.* → *Long bands of shade stretched across the sidewalk in the low evening sun.* | *Die Abendsonne warf lange Schatten über den Gehsteig.* Subjekt ist jetzt der Schatten (natürlich, nicht die Sonne, die „Schatten streckt“); kein *shadow*, keine *shapes* (D4 R2: keine Gestalt-Lesart); keine Bäume erfunden (Vorschlag mit *trees* abgelehnt: steht nicht im DE). |
+| Z.57 | *In the middle of a step.* → *Mid-step.* | *Mitten im Schritt.* |
+| Z.93 / Z.101 | *She could make out the gravestone behind it.* → *… behind the figure.* · Z.101 bleibt *The figure lifted his head. … As if he had all the time in the world.* | Pronomen einheitlich **he**: das DE sagt Z.95 *Er stand still* (der Mann), *sie* in Z.101 ist nur grammatisch (*die Gestalt*); Geister sind Menschen (Reihe), K16 *that man*. Das einzige *it* (Z.93) durch *the figure* ersetzt, also keine Mischung mehr. |
+| Z.105 | *The gate had just slammed shut.* → *The gate had slammed shut on its own.* | *Das Tor war einfach zugeschlagen.* nach *Kein Wind. Kein Mensch.* — *einfach* = von selbst. |
+| Z.185 | *The floorboard had an edge, barely visible.* → *The floorboard had a thin gap around it, barely visible.* | *eine Kante, kaum zu sehen* — der Hinweis (lose Diele) wird sichtbar; *It wasn’t nailed down.* folgt. |
+| Z.189 | *Sealed with red sealing wax.* → *Closed with red sealing wax.* | *Verschlossen mit … rotem Wachs*; kein *sealed/sealing*, *sealing wax* bleibt (A7-Echo K14). |
+
+**Prüfskript:** 0 Befunde. **konsistenz:** unverändert (6 Stellen).
