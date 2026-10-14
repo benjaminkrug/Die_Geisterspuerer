@@ -120,7 +120,7 @@ A short article. Local section, at the very bottom of the page. Between a notice
 
 Theo leaned over her shoulder. They read it together.
 
-LOCAL WOMAN MISSING. Margret Silber, 75, who has lived on Kirchgasse for many years, has been missing since March 14. Police found her apartment empty. “No signs of violence or a break-in,” a spokesperson said. “Mrs. Silber appears to have left the apartment of her own free will.”
+LOCAL WOMAN MISSING. Margret Silber, 75, who has lived on Kirchgasse for many years, has been missing since March 14. Police found no one in her apartment. “No signs of violence or a break-in,” a spokesperson said. “Mrs. Silber appears to have left the apartment of her own free will.”
 
 That was all. Three paragraphs. No follow-up. Nora searched again. And again. Nothing.
 

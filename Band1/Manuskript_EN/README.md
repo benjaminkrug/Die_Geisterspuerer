@@ -20,12 +20,16 @@
 | 2 | ✅ | ✅ | ✅ | ✅ R1–R3 | ✅ | R2, R3 | ✅ | 0 | ✅ (Meldung: R3 „ja, knapp“) |
 | 3 | ✅ | ✅ | ✅ | ✅ R1–R2 | ✅ | R2 | ✅ | 0 | ✅ |
 | 4 | ✅ | ✅ | ✅ | ✅ R1–R2 | ✅ | R2 | ✅ | 0 | ✅ |
-| 5–8 | Block 2 | | | | | | | | |
+| 5 | ✅ | ✅ | ✅ | ✅ R1–R2 | ✅ | R2 | ✅ | 0 | ✅ |
+| 6 | ✅ | ✅ | ✅ | ✅ R1–R3 | ✅ | R2, R3 | ✅ | 0 | ✅ (Meldung: R3 „ja, leicht“) |
+| 7 | ✅ | ✅ | ✅ | ✅ R1–R2 | ✅ | R2 | ✅ | 0 | ✅ |
+| 8 | ✅ | ✅ | ✅ | ✅ R1–R2 | ✅ | R2 (+1 Zeile R3) | ✅ | 0 | ✅ |
 | 9 | Pilot + Nachzug | | | | | | | | |
 | 10–12 | Block 3 | | | | | | | | |
 | 13–16 | Block 4 | | | | | | | | |
 
 **Block 1 fertig (2026-10-13)** — Auswertung: `Pruefung/Auswertung_Block1.md`.
+**Block 2 fertig (2026-10-14)** — Auswertung: `Pruefung/Auswertung_Block2.md`.
 Nach Block 1: Leseprobe an US-Lesegruppen (`Dokumentation/EN_Bibel/E2_Anschreiben_Testleser.md`).
 Am Ende: Gesamtdurchgang (Stimmen, Running Gags), Kinderleser am Stück, D8 Nachanalyse, Rahmen (Titelei, Impressum mit KI-Hinweis, Anhang).
 
