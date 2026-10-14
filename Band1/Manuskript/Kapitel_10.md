@@ -40,7 +40,7 @@ Theo blieb stehen. „Kennst du die Stelle im Film, wo einer sagt: Komm, wir geh
 
 „Stimmt. Im Film gibt es wenigstens Hintergrundmusik. Dann weiß man, wann es gefährlich wird.“
 
-Nora ging weiter. Drei kleine Räume, durch niedrige Durchgänge verbunden. Spinnweben an der Decke. Irgendwo tropfte es. Regelmäßig. Wie ein langsamer Herzschlag. Auf ihrer Zunge lag ein metallischer Geschmack. Wie Blut. Wie alte Münzen.
+Nora ging weiter. Drei kleine Räume, durch niedrige Durchgänge verbunden. Spinnweben an der Decke. Irgendwo tropfte es. Regelmäßig. Wie ein langsamer Herzschlag. Auf ihrer Zunge lag ein metallischer Geschmack. Wie alte Münzen.
 
 Das Handylicht flackerte. Einmal. Dann ging es aus.
 

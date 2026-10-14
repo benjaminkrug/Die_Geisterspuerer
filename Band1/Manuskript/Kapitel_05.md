@@ -36,7 +36,7 @@ Der zweite Stock. Der Flur. Die Tür mit dem Klingelschild SILBER.
 
 Sie stand offen. Einen Spalt breit. Nur war es diesmal anders.
 
-Diesmal war die Luft kühl. Nicht eisig wie beim letzten Mal. Eher wie ein Keller im Sommer. Nora schluckte. Da war ein metallischer Geschmack auf ihrer Zunge. Wie Münzen. Wie Blut nach einem Biss auf die Wange. Fremd und falsch.
+Diesmal war die Luft kühl. Nicht eisig wie beim letzten Mal. Eher wie ein Keller im Sommer. Nora schluckte. Da war ein metallischer Geschmack auf ihrer Zunge. Wie Münzen. Fremd und falsch.
 
 Nora blieb stehen. Sie legte die Hand an den Türrahmen. Das Holz war kühl, nicht kalt. Kein Frost unter den Fingerspitzen. Kein Atem, der dampfte.
 
