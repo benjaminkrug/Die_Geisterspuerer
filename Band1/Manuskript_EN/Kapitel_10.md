@@ -10,17 +10,17 @@ The basement stairs were steep. Nora pointed her phone’s flashlight down the s
 
 “Of course I’m scared. We’re going into the basement where a girl died fifty years ago. But please, after you.”
 
-Shadow pushed past Nora’s legs. He trotted down the steps. His claws clicked on the stone. His hackles were up, but his steps were calm. He just went.
+Shadow pushed past Nora’s legs. He trotted down the steps. His claws clicked on the stone. His hackles were up, but his steps were calm. He just kept going.
 
 “The dog’s braver than both of us put together,” Theo muttered.
 
 Nora followed Shadow. The air got cooler with every step. The smell changed. Upstairs it smelled like wood and old carpet. Down here it smelled like wet stone and dirt.
 
-The stairs ended at a heavy wooden door. Old wood, swollen with moisture. Nora pressed the handle. The door opened slowly, with a creak that echoed through the basement. Behind it, everything was dark.
+The stairs ended at a heavy wooden door. Old wood, swollen with moisture. Nora pushed down on the handle. The door opened slowly, with a creak that echoed through the basement. Behind it, everything was dark.
 
 Nora’s phone lit up a long corridor. Concrete floor. Pipes on the ceiling. Storage lockers with padlocks. Old bikes. Boxes in the corners.
 
-“Looks like a normal basement,” Theo said. His voice echoed between the walls. “Creepy, but normal. I don’t see any ghosts. Good sign.”
+“Looks like a normal basement,” Theo said. His voice echoed off the walls. “Creepy, but normal. I don’t see any ghosts. Good sign.”
 
 Shadow kept going. Past the storage lockers, past the old bike, past the boxes. His body was tense. His nose was working.
 
@@ -38,15 +38,15 @@ Theo stopped. “You know the part in the movie where somebody says, ‘Come on,
 
 “We’re not in a movie.”
 
-“True. In a movie, at least there’s background music. Then you know when it’s getting dangerous.”
+“True. In a movie, at least there’s background music. That way you know when it’s getting dangerous.”
 
-Nora kept going. Three small rooms, connected by low doorways. Cobwebs on the ceiling. Somewhere, something was dripping. Evenly. Like a slow heartbeat. There was a metallic taste on her tongue. Like old coins.
+Nora kept going. Three small rooms, connected by low doorways. Cobwebs on the ceiling. Somewhere, something was dripping. Over and over. Like a slow heartbeat. There was a metallic taste on her tongue. Like old coins.
 
 The phone light flickered. Once. Then it went out.
 
-Darkness. Total darkness. Nora could hear only the dripping. And Theo’s breathing, right next to her ear. His hand found her sleeve and clamped on.
+Darkness. Total darkness. All Nora could hear was the dripping. And Theo’s breathing, right next to her ear. His hand found her sleeve and clamped on.
 
-She tapped the screen. Nothing. Again.
+She tapped the screen. Nothing. She tapped again.
 
 Then the light came back. Shaky. Weaker than before.
 
@@ -58,7 +58,7 @@ She didn’t say anything.
 
 Shadow stopped.
 
-In the middle of the last room. In front of a corner where two walls met. He stood there, head down, tail between his legs. And then he made a sound Nora had never heard from him. Not like this.
+In the middle of the last room. In front of a corner. He stood there, head down, tail between his legs. And then he made a sound Nora had never heard him make. Not like this.
 
 He whined.
 
@@ -74,11 +74,11 @@ Nora lifted the phone. The beam fell on the wall.
 
 A weight pressed down on her chest.
 
-Cracks. Everywhere. Dozens of thin lines running across the stone. But not natural cracks. These lines were parallel. In groups. Always four, side by side.
+Cracks. Everywhere. Dozens of thin lines running across the stone. But not natural cracks. These lines were parallel. In groups. Sets of four, side by side.
 
-Like fingers. Like someone who had scratched at the stone with their fingers.
+Like fingers. Like someone had scratched at the stone with their fingers.
 
-Nora tasted something sour in her mouth. The scratches were old. Worn smooth by decades of moisture. Fifty years old.
+Nora tasted something sour in her mouth. The scratches were old. Worn smooth by decades of water. Fifty years old.
 
 “Nora.” Theo’s voice was barely a whisper. He was standing right behind her. His hand was still clutching her sleeve. “Those are finger marks.”
 
@@ -90,11 +90,11 @@ Nora just nodded.
 
 Nothing but the dripping. And Shadow, whining softly now, almost too quiet to hear.
 
-Theo swallowed so loudly that Nora heard it. “It happened down here,” he whispered. “Whatever happened to Lina. It was down here.”
+Theo swallowed loud enough for Nora to hear. “It happened down here,” he whispered. “Whatever happened to Lina. It was down here.”
 
 Nora didn’t answer. She stared at the scratch marks. Her arms hung heavy at her sides. Something was spreading through her chest. Not fear. Something else. Something deeper. Sadness. So heavy she could hardly breathe.
 
-A girl. Twelve years old. Alone in this basement. With fingers that scratched at stone.
+A girl. Twelve years old. Alone in this basement. Her fingers scratching at the stone.
 
 “I’m cold,” Theo said. He rubbed his arms. “Really cold. Not normal cold.”
 
@@ -126,7 +126,7 @@ Goosebumps exploded over her whole body. Every nerve in her screamed: TURN AROUN
 
 But she couldn’t move.
 
-“Nora?” Theo’s voice sounded far away. “You’re really pale.”
+“Nora?” Theo’s voice sounded far away. “You look really pale.”
 
 “Someone’s there,” she whispered. “Behind me.”
 
@@ -146,7 +146,7 @@ The presence changed. The cold grew softer. Not warmer, but less sharp. Like a h
 
 Then it was over.
 
-The thick air behind Nora’s back faded away. Her shoulders dropped. She hadn’t noticed until now how tense she had been.
+The thick air behind Nora’s back faded away. Her shoulders dropped. Until now, she hadn’t even noticed how tense she’d been.
 
 “Okay,” Theo said. His voice was thin and high. “Okay. That was definitely something.” He took a breath. “New rule: no more basements. Never again. Not even to get a soda.” He swallowed. “Can we please go now?”
 

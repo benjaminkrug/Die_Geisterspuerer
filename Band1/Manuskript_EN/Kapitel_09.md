@@ -34,7 +34,7 @@ Nora stopped. Twelve. Like her.
 
 Shadow lifted his head. His ears perked up.
 
-The next entries were short. School days, friends, cotton candy at the fair. One entry was about the roof. Lina had gone up there with a flashlight to count stars. She had drawn the constellations, tiny dots in purple ink, joined by wobbly lines. Next to them she had written: “When I grow up, I want to be an astronomer. Or a vet. Or both.” Just normal girl stuff. With every entry, Nora could picture Lina a little better.
+The next entries were short. School days, friends, cotton candy at the fair. One entry was about the roof. Lina had gone up there with a flashlight to count stars. She had drawn the constellations, tiny dots in purple ink, joined by wobbly lines. Next to them she had written: “When I grow up, I want to be an astronomer. Or a vet. Or both.” An ordinary girl’s life. With every entry, Nora could picture Lina a little better.
 
 “She sounds nice,” Theo said quietly. “Cotton candy. Stars. A dog.” He stroked Shadow’s head. “At least she had a dog.”
 

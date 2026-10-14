@@ -179,3 +179,52 @@ K10 ist das Kapitel, das der US-Lektor noch „übersetzt“ nennt → Schwerpun
 **Prüfskript:** 0 Befunde. **konsistenz:** keine neue Abweichung (*He whined.* ↔ K6 bleibt bewusst, Abschn. 6).
 
 **An den Autor (Original, nicht korrigiert):** (1) Raumlogik Z.153–173: Nora steht zur Ecke gewandt, die Präsenz ist *hinter* ihr; beim Umdrehen schaut sie also von der Ecke weg, und die Spuren müssten an ihr vorbei führen (D3 #15). (2) Z.19 die schwere Kellertür liegt *unten* an der Treppe; K11 Z.7 reißt Nora *die Kellertür* auf und stolpert in den Hausflur (D3, D5 K11 #1). (3) Z.11 Theo: *„in dem … ein Mädchen gestorben ist“* — bekannt ist nur „Unfall“ (D6). (4) Tageszeit: K9 abends (Mutter schläft) → K10 ohne Sprung → K11 *Tageslicht* (D3/D6).
+
+## Runde 3 (Block 3)
+
+Grundlage: `Pruefung/D5_K10_R2.md` (Urteil „translated, slightly“), Vorrang Pilot 5.1, Wortliste, A8. Bearbeitet: alle TRANSLATED/STIFF/BRITISH/TOO ADULT; RHYTHM/UNCLEAR nur, wo billig und sinnsicher. Zeilen = Zeilennummern (DE = EN), Absätze 1:1, Ein-Satz-Absätze unverändert.
+
+| Befund (D5 R2 Nr. · Zeile · Kat.) | Entscheidung | Grund / neu |
+|---|---|---|
+| #1 Z.3 *stairs* doppelt · RHYTHM | abgelehnt | erst in R2 so gesetzt; *into the dark* fügt Bild hinzu. |
+| #2 Z.13 *He just went.* · TRANSLATED | angenommen | → *He just kept going.* (*Er ging einfach.*) |
+| #3 Z.19 *wood/Old wood* · RHYTHM | abgelehnt | Echo im Original (*Holztür. Altes Holz*). |
+| #4 Z.19 *pressed the handle* · TRANSLATED | angenommen | → *Nora pushed down on the handle.* (Klinke bleibt Klinke, kein Knauf). |
+| #5 Z.21/25 *bikes/bike* · OTHER | abgelehnt | deutsche Logik (Original, gemeldet). |
+| #6 Z.21 *storage lockers* · OTHER | abgelehnt | nicht im Auftrag; R1-Wahl bleibt. |
+| #7 Z.23 *echoed between the walls* · TRANSLATED | angenommen | → *echoed off the walls.* |
+| #8 Z.31 *fluorescent tubes* · BRITISH | abgelehnt | (a) Wortliste *Neonröhre → fluorescent tube*, kehrt in K6/K7 wieder; einheitlich ändern hieße andere Kapitel anfassen. *tube* ist auch US-üblich. |
+| #9 Z.41 *Then you know* · STIFF | angenommen | → *That way you know when it’s getting dangerous.* |
+| #10 Z.43 *Evenly.* · TRANSLATED | angenommen | → *Over and over.* (*Steady.* bleibt fürs Ende reserviert; Takt trägt *Like a slow heartbeat*). |
+| #11 Z.47 *could hear only* · STIFF | angenommen | → *All Nora could hear was the dripping.* |
+| #12 Z.49 *Again.* · UNCLEAR | angenommen | → *Nothing. She tapped again.* (*Noch einmal.*) |
+| #13 Z.61 *corner where two walls met* · STIFF | angenommen | → *In front of a corner.* (Doppelung auch im DE, ohne Sinnverlust gestrichen). |
+| #14 Z.61 *never heard from him* · UNCLEAR | angenommen | → *a sound Nora had never heard him make. Not like this.* |
+| #15 Z.67 Haut/Stromschlag · OTHER | abgelehnt | 5.1 (3) Körperbild des Originals. |
+| #16 Z.71 *grieving* vor *Grief.* · RHYTHM | abgelehnt | Original (*trauern/Trauer*). |
+| #17 Z.75 Reihenfolge · RHYTHM | abgelehnt | Satzfolge des Originals. |
+| #18 Z.77 *Always four* · TRANSLATED | angenommen | → *Sets of four, side by side.* (A7-Schlag bleibt kurz). |
+| #19 Z.79 Relativsatz · STIFF | angenommen (teilw.) | → *Like someone had scratched at the stone with their fingers.*; *clawed* abgelehnt (A7, nicht dunkler). |
+| #20 Z.81 *decades of moisture* / *Fifty years old.* · TOO ADULT | angenommen (teilw.) | → *Worn smooth by decades of water.*; *Fifty years old.* bleibt (DE-Satz). |
+| #21 Z.93 *swallowed so loudly that* · TRANSLATED | angenommen | → *Theo swallowed loud enough for Nora to hear.* (*swallowed* A8 fest). |
+| #22 Z.95 *Something* ×3 · RHYTHM | abgelehnt | Original. |
+| #23 Z.97 *With fingers that scratched* · STIFF | angenommen | → *Her fingers scratching at the stone.* (Finger bleiben, Körperbild). |
+| #24 Z.101 *Slowly. Bit by bit.* · RHYTHM | abgelehnt | Echo zu K8 (*Not slowly. Not bit by bit.*). |
+| #25 Z.107 *pipes* · UNCLEAR | abgelehnt | Wortliste K3/K9. |
+| #26 Z.129 *You’re really pale.* · STIFF | angenommen | → *You look really pale.* |
+| #27 Z.143 *Shadow stood up.* · OTHER | abgelehnt | deutsche Logik (gemeldet). |
+| #28 Z.143 *trembling anymore* · OTHER | abgelehnt | deutsche Logik (gemeldet). |
+| #29 Z.145 zwei Vergleiche · TOO ADULT | abgelehnt | beide Satzteile im Original; Wortlaut schon R2 vereinfacht. |
+| #30 Z.149 Plusquamperfekt · STIFF | angenommen | → *Until now, she hadn’t even noticed how tense she’d been.* (*Erst jetzt* bleibt). |
+| #31 Z.151 *He swallowed.* ×3 · RHYTHM | abgelehnt | A8: *schluckte → swallowed*, Wiederholung gewollt. |
+| #32 Z.153 *neck cracked* · OTHER | abgelehnt | 5.1 (3), wie R2. |
+| #33 Z.163 *A child’s feet* doppelt · RHYTHM | abgelehnt | Original + Wortliste K5. |
+| #34 Z.161 *had just been standing* · UNCLEAR | abgelehnt | Raumlogik des Originals (an den Autor, R2). |
+| #35 Z.175 *stayed in the dust* · RHYTHM | abgelehnt | Kapitelende (A7, 5.1 (2)). |
+| Urteil (3): *Run* verschieben / Drohung einbauen | abgelehnt | ändert Reihenfolge/Inhalt des deutschen Endes. |
+
+**Zählung K10 R3:** 16 angenommen (2 davon teilweise) / 19 abgelehnt von 35 Befunden, dazu Urteil-Vorschlag abgelehnt. Nach Kategorie angenommen: TRANSLATED 6/6 · STIFF 7/7 · BRITISH 0/1 (Wortliste) · TOO ADULT 1/2 (teilw.) · UNCLEAR 2/4 · RHYTHM 0/9 · OTHER 0/6.
+
+**Gegenprobe (nur Bedeutung, jeder geänderte Satz gegen DE):** 16 Stellen, deckungsgleich. Grenzfälle, belassen: *Over and over* (*Regelmäßig*; die Gleichmäßigkeit trägt der folgende *langsame Herzschlag*) · *decades of water* (*Feuchtigkeit*; Wasser, das durch den Stein zieht) · *In front of a corner* (*in der zwei Wände aufeinandertrafen* ist Definition der Ecke, kein Inhalt) · *Her fingers* (*Mit Fingern* — gemeint sind die des Mädchens aus dem Satz davor). Keine Abweichung gefunden.
+
+**Prüfskript:** 0 Befunde. **konsistenz:** keine neue Abweichung (Ausgabe vor/nach identisch).

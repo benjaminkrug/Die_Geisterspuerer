@@ -132,7 +132,7 @@ Nora turned the page. “‘My method is simple. I find out who they were. What 
 
 Nora nodded. Her heart beat faster. Not from fear. From something else. From understanding.
 
-She kept reading. “‘The Restless need someone who understands their story. Not just knows it. Understands it. Who were they? What did they lose? What is keeping them here? The chain only comes loose when someone truly sees that.’”
+She kept reading. “‘The Restless need someone who understands their story. Not just knows it. Understands it. Who were they? What did they lose? What is keeping them here? The chain only comes loose when someone truly understands that.’”
 
 Shadow had lain down next to Nora’s feet. Still. Attentive. His eyes followed the pages, as if he could read.
 

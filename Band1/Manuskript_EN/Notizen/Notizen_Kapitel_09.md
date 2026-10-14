@@ -420,3 +420,5 @@ Zeilen = Zeilennummern der Datei (DE und EN gleich). Regel 5.1: (a) Glossar/Regi
 **Prüfskript:** 0 Befunde. **konsistenz:** keine neue Abweichung aus K9.
 
 **An den Autor (Original, nicht korrigiert):** Theo weint in K9 zweimal, dazu K11 rote Augen, K12 Tränen — D6 nennt die „Weinen-Last“ über vier Kapitel (Vorschlag D6: Z.171 streichen). Z.111 *„Ich hab dich abgewürgt“* — in K1–K4 schneidet Nora Theo nie das Wort ab (D6).
+
+**Runde 3 (Block 3):** Z.37 *Just normal girl stuff.* → *An ordinary girl’s life.* (*Normales Mädchenleben* — unabhängige Bedeutungsprüfung: *stuff* klang abwertend; Gewicht eines gewöhnlichen Lebens, das endete, wiederhergestellt). Prüfskript 0, konsistenz unverändert.
