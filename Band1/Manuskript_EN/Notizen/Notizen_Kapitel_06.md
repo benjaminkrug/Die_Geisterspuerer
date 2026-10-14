@@ -243,3 +243,37 @@ Altstadt lag* — K7 lässt ihn den Friedhof **gegenüber der Bibliothek** anknu
 (3) Mit Theos neuem *„Was meinst du?“* hat der spätere Rückgriff K11 *„Vierzig Jahre lang.“* in K6 kein Setup mehr; A7 (K6) zitiert noch
 *„vierzig Jahre lang –“ (abgebrochen)* — A7 bitte angleichen. (4) `Aenderungsliste_DE.md`, Zeile d2badb5: Spalte „EN nachgezogen“ kann
 auf ✅ (K5, K6 Block 2 Runde 2) — Datei nicht von mir geändert (Auftrag).
+
+## Runde 3 (Block 2)
+
+Grundlage: `Pruefung/D5_K06_R2.md` (Urteil „translated, mildly“), Pilot 5.1 (Glossar/Motive fest; Kapitelende-Wirkung gewinnt; Körperbilder bleiben; sonst Natürlichkeit bei gleichem Sinn). Auftrag: nur TRANSLATED und STIFF bearbeiten, Zeitungstexte auf US-Zeitungsstil.
+
+| Befund | Entscheidung | Grund (eine Zeile) |
+|---|---|---|
+| D5 R2 #1 L19 *Her heart slowly calmed down.* (STIFF) | angenommen (abgewandelt) | → *Her heartbeat slowly went back to normal.* (*langsam* bleibt). |
+| D5 R2 #3 L61 *saw the blue note in front of her again* (TRANSLATED) | angenommen | → *Nora pictured the blue note again.* |
+| D5 R2 #5 L69 *We investigate ghost cases.* (STIFF) | abgelehnt | Running Gag mit fester Bauweise (Wortliste, B3–B5); Glossar fest. |
+| D5 R2 #6 L77 *happens: bark.* (TRANSLATED) | angenommen | → *And if anything creepy happens, bark.* |
+| D5 R2 #7 L85 *Here, the world had order.* (STIFF) | angenommen (abgewandelt) | → *Here, there was order.* — Motivwort *order* (Wortliste K1) bleibt, Parallele zu *Here, there were answers.* |
+| D5 R2 #9 L123 *Margret Silber (75), a longtime resident* (TRANSLATED) | angenommen | US-Zeitungsstil, vorlesbar: → *LOCAL WOMAN MISSING. Margret Silber, 75, who has lived on Kirchgasse for many years, has been missing since March 14. Police found her apartment empty.* Kind stolperte über *longtime resident*. |
+| Vorlesen *voluntarily* ×2 (L123/L131) | angenommen | → *of her own free will* (Meldung und Noras Zitat); Echo des Originals (*freiwillig* ×2) bleibt, Wort kindgerecht. |
+| D5 R2 #16 L195 *Lina Vogt (12), daughter of the Vogt family* (TRANSLATED) | angenommen | → *“Lina Vogt, 12, daughter of Mr. and Mrs. Vogt of Kirchgasse 14, died November 3, 1974, after an accident.”* Alle Fakten, Datum, Adresse bleiben; keine erfundenen Vornamen; ein Satz bleibt einer. |
+| D5 R2 #18 L199 *That was exactly what made it so hard.* (TRANSLATED) | angenommen (abgewandelt) | → *That was the hard part.* — Satz bleibt (nicht gestrichen), kein neues Körperbild. |
+| D5 R2 #19 L203 *From a time when … ended up on strips of film* (STIFF) | angenommen (abgewandelt) | → *Back when there were no cell phones and newspapers were stored on strips of film.* Streichen abgelehnt (DE-Satz). |
+| D5 R2 #21 L221 *He hadn’t been staring just anywhere.* (STIFF) | abgelehnt | Kapitelende gewinnt: *toward home* nimmt dem Ein-Wort-Schluss *Home.* die Pointe; Verneinung = DE *Nicht irgendwohin.* |
+| D5 R2 #4 zwei Nora-Absätze (L61/63) | abgelehnt | Struktur des Originals, Absätze 1:1, kein Begleitsatz. |
+| D5 R2 #10 *Three paragraphs* / Artikel teilen | abgelehnt | Logik des Originals; Absätze 1:1. |
+| D5 R2 #13 Microfiche vs. Microfilm | abgelehnt | Logik des Originals; *Microfiche*/*Bless you* ist der Witz. |
+| D5 R2 #14 Netflix-Witz | abgelehnt | Witz des Originals, keine neuen Witze. |
+| D5 R2 #15 *We need 1974* | abgelehnt | Logik des Originals → Autorenliste. |
+| D5 R2 #17 Wie erkennt Nora Lina? | abgelehnt | Logik des Originals; Bildunterschrift wäre neuer Inhalt. |
+| D5 R2 #2, #8, #11, #12, #20 (TOO ADULT/UNCLEAR/RHYTHM/OTHER) | nicht bearbeitet | nicht Teil des Auftrags Runde 3 (nur TRANSLATED/STIFF); #2, #12, #20 in Runde 2 bereits als Original/Körperbild abgelehnt. |
+
+**Zählung Runde 3:** 9 angenommen (davon 4 abgewandelt) / 8 abgelehnt / 5 nicht bearbeitet.
+
+**Gegenprobe (nur Bedeutung, jeder geänderte Satz gegen DE):** 11 Sätze. Keine Bedeutungsverschiebung. Grenzfälle, belassen:
+*LOCAL WOMAN MISSING* (DE *BEWOHNERIN WIRD VERMISST* — gleiche Aussage, US-Schlagzeile); *Police found her apartment empty* (*verlassen
+vorfinden* = niemand da); *of her own free will* (*freiwillig*); *daughter of Mr. and Mrs. Vogt* (*Tochter von Familie Vogt*);
+*after an accident* (*an den Folgen eines Unfalls*); *That was the hard part.* (*Genau das machte es so schwer.*).
+
+**Prüfskript:** `pruefen` K6 0 Befunde; `konsistenz` unverändert (5 Stellen wie vorher, keine neue).

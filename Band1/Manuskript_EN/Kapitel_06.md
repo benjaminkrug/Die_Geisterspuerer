@@ -16,7 +16,7 @@ Theo stood two steps away, his hands on his head. His face was pale. Shadow sat 
 
 “We just ran out of a ghost apartment.” He pointed at Shadow. “Our dog led us in there.” Pause. “This is my life now.”
 
-Nora wiped the sweat off her forehead. Her heart slowly calmed down. But her fingers were numb, as if she had touched ice.
+Nora wiped the sweat off her forehead. Her heartbeat slowly went back to normal. But her fingers were numb, as if she had touched ice.
 
 “There were footsteps,” she said. “In the hallway. Behind us.”
 
@@ -58,7 +58,7 @@ Shadow lifted his head and looked at Nora. His eyes were calm. Attentive. As if 
 
 Theo swallowed. “A to-do list. For dead people.”
 
-“For people who needed help.” Nora saw the blue note in front of her again. “Only the name at the very bottom didn’t have one. Lina Vogt. 1974. With question marks.”
+“For people who needed help.” Nora pictured the blue note again. “Only the name at the very bottom didn’t have one. Lina Vogt. 1974. With question marks.”
 
 “Whatever Mrs. Silber was doing,” Nora said slowly, “she couldn’t do it for Lina Vogt.”
 
@@ -74,7 +74,7 @@ The city library was a twelve-minute walk away, at the edge of the Old Town. A w
 
 Shadow had to stay outside. Theo tied the leash to a bike rack.
 
-“Wait here,” he said. “And if anything creepy happens: bark.”
+“Wait here,” he said. “And if anything creepy happens, bark.”
 
 Shadow lay down and yawned.
 
@@ -82,7 +82,7 @@ Shadow lay down and yawned.
 
 “Welcome to my world,” Nora said.
 
-The library smelled like old paper and coffee. Shelves up to the ceiling. Somewhere, a computer hummed. Nora liked libraries. Here, there were answers. Here, the world had order.
+The library smelled like old paper and coffee. Shelves up to the ceiling. Somewhere, a computer hummed. Nora liked libraries. Here, there were answers. Here, there was order.
 
 “Smells like Grandma’s attic,” Theo muttered. “Just without the cookies.”
 
@@ -120,7 +120,7 @@ A short article. Local section, at the very bottom of the page. Between a notice
 
 Theo leaned over her shoulder. They read it together.
 
-MISSING RESIDENT. Margret Silber (75), a longtime resident of Kirchgasse, has been missing since March 14. Police found her apartment abandoned. “No signs of violence or a break-in,” a spokesperson said. “Mrs. Silber appears to have left the apartment voluntarily.”
+LOCAL WOMAN MISSING. Margret Silber, 75, who has lived on Kirchgasse for many years, has been missing since March 14. Police found her apartment empty. “No signs of violence or a break-in,” a spokesperson said. “Mrs. Silber appears to have left the apartment of her own free will.”
 
 That was all. Three paragraphs. No follow-up. Nora searched again. And again. Nothing.
 
@@ -128,7 +128,7 @@ That was all. Three paragraphs. No follow-up. Nora searched again. And again. No
 
 Nora stared at the screen. Margret Silber. Seventy-five years old. Lived alone. Kirchgasse. The apartment on the third floor.
 
-“The police say she left the apartment voluntarily,” Nora said. “But the apartment didn’t look like she wanted to leave. Knocked-over furniture. Scratches on the walls.”
+“The police say she left of her own free will,” Nora said. “But the apartment didn’t look like she wanted to leave. Knocked-over furniture. Scratches on the walls.”
 
 “It looked like she was running from something,” Theo said.
 
@@ -192,15 +192,15 @@ They read it together. Nora’s heart was pounding in her throat.
 
 The article was short. Cold. Just the facts.
 
-“Lina Vogt (12), daughter of the Vogt family, Kirchgasse 14, died on November 3, 1974, as the result of an accident.”
+“Lina Vogt, 12, daughter of Mr. and Mrs. Vogt of Kirchgasse 14, died November 3, 1974, after an accident.”
 
 Six lines. That was all. Not a word about what kind of accident. A girl had died, and the newspaper had six lines to spare. Between the dentist and the weather.
 
-But there was a photo. Small, grainy, barely visible on the microfiche. A class photo. Three rows of kids in front of a brick wall. Nora checked the edges of the picture. Bottom right. A girl with a dark braid. Lina Vogt. She stood between two other kids, a little crooked, as if she had moved just when the picture was taken. A completely normal girl. That was exactly what made it so hard.
+But there was a photo. Small, grainy, barely visible on the microfiche. A class photo. Three rows of kids in front of a brick wall. Nora checked the edges of the picture. Bottom right. A girl with a dark braid. Lina Vogt. She stood between two other kids, a little crooked, as if she had moved just when the picture was taken. A completely normal girl. That was the hard part.
 
 “Twelve,” Theo whispered. “She was twelve.”
 
-Nora swallowed. Twelve. Just like her. A girl her age. From a time when there were no cell phones and newspapers ended up on strips of film.
+Nora swallowed. Twelve. Just like her. A girl her age. Back when there were no cell phones and newspapers were stored on strips of film.
 
 But that wasn’t why her hands suddenly went ice-cold. Not her age. Not the accident.
 

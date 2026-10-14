@@ -276,3 +276,7 @@ Noras *„Da ist etwas hinter der Wand“* endet — die Szene beginnt neu (D5 #
 Nachmittag im Sommer; kein Zeitsprung im Text (D3, D5). (3) Absatz 88 *12. März 1974* vs. Frau Silber vermisst *seit dem 14. März* (K6) —
 falls Zufall, bitte prüfen; falls Absicht, gut so (D3 #25). (4) Absatz 60/62 *leuchtete mit dem Handy* / *Im Licht des Displays* —
 klein; EN mit *the phone’s light* neutral gelöst.
+
+## Runde 3 (Block 2)
+
+Absatz *Nora’s fingers were stiff …* (DE Z. 173) · Bedeutungsprüfung · angenommen · → *Nora’s fingers were stiff with nerves as she turned the first page.* (DE *steif vor Anspannung*; ohne Ursache läse man Kälte). `pruefen` K8 0 Befunde.

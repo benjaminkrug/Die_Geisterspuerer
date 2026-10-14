@@ -170,7 +170,7 @@ Lina didn’t want to be forgotten. And somebody had hidden her diary in the wal
 
 But Shadow had found it.
 
-Nora’s fingers were stiff as she turned the first page. The writing was small and tight. Purple ink on yellowed paper. There was a date in the top left corner.
+Nora’s fingers were stiff with nerves as she turned the first page. The writing was small and tight. Purple ink on yellowed paper. There was a date in the top left corner.
 
 March 12, 1974.
 
