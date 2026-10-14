@@ -129,6 +129,42 @@
 | metallischer Geschmack (Autor: ohne Blut) | *There was a metallic taste on her tongue. Like coins.* (K5) · *… Like old coins.* (K10) | K5 | K10 — **kein** *blood* (DE 2026-10-14 gestrichen) |
 | Bücherstapel (Silbers Arbeitszimmer) | *the stacks of books* | K5 | K11 (*kneeling in front of the stacks of books*) — nie *bookshelf* |
 | Nur noch X. / Nur X. (Stille-Takt) | *Nothing but the dripping.* (K10) · *The only sound was Shadow breathing.* (K11) · *Nothing but the ticking of the kitchen clock.* (K12) | K10 | D5 Block 3: nacktes *Only …* klang übersetzt; D6: nie *Shadow’s* + Substantiv am Satzanfang (klingt wie *shadows*) |
+| Die Befreiung (Kapiteltitel K13) | *The Release* | K13 | ← K11 *release*; K14 W1-17 *Ghost release* |
+| Sie geht. / beim Gehen zuschauen / Das Gehen | *She’s going.* · *watched a ghost go* · *Going, I mean.* · *the ones who couldn’t go* | K13 | Wortfeld *go* für das Hinübergehen (← K11 *Only then can they go.*); nie *leave* |
+| Lichtfleck, goldfarben, pulsiert wie ein Herzschlag | *A spot of light.* · *Golden. Warm.* · *Like a heartbeat.* | K13 | Gegenbild *blue glow* (K13-Ende, K14) |
+| Ein Leuchten. Kurz. Kalt. Blau. / das blaue Leuchten | *A glow. Quick. Cold. Blue.* · *the blue glow* · K14 *the blue light* (DE *das blaue Licht*) | K13 | K14, K15 (A4 *blue glow*) |
+| Und knurrte. Leise. Tief. | *And growled. Low. Deep.* | K13 | ← K7 wortgleich |
+| Glaubt mir. / Haben wir. | *Believe me.* / *We did.* | K13 | ← R27 *Nobody believes me.* |
+| Eine (ganz) normale Stadt (bei Nacht). | *A normal city. A completely normal city at night.* · K16 *A completely normal city.* | K13 | K16 |
+| Lebenslauf (Theo) | *résumé* · *Ghost release. Teamwork with supernatural dog. Experience reading diaries out loud in subzero temperatures.* | K14 | ← K6 *Great résumé.* |
+| Karte (Silbers) · Kreise | *the map* · *circles* · *Thick and clear, drawn in black ink.* · Format *Heinrich B. – 1887.* | K14 | K15, K16, B2 K1 (Zählstand) |
+| roter Kreis am Rand, doppelt umrandet · GRAVEN. | *A big red circle with a double outline.* · *Dark red like old sealing wax.* · *GRAVEN.* (eigene Zeile) · K16 *the red circle at the edge of the map* | K14 | K15 (*a seal of red wax*), K16, R14 (B4/B5 *the red circle at the edge*) |
+| Chronik-Zitat | *Gravenstedt was founded in 1823 by Alwin Graven.* · *The city archives were lost in a fire in 1871.* · K16 *In 1823.* | K14 | K16, B5 |
+| Praktisch. (Theo) | *Convenient.* | K14 | — |
+| Kreuz über Linas Kreis | *crossed out* · *Two lines, in an X.* · *the X* · *the ink was wet* | K14 | B2 K1, Serienmotiv frische Tinte (A4 *still wet* für *noch feucht*) |
+| Schwanz klopfte einmal auf den Boden (am Kreuz) | *His tail swished across the floor once.* | K14 | ← K12 wortgleich; nie *thumped/tapped* |
+| Als hätte er etwas wiedererkannt. | *As if he had recognized something.* | K14 | B4 (Silber) — nicht verstärken |
+| Seit Monaten nicht. | *Not for months.* | K14 | ← K6/K7 *for months* |
+| Geisterfinger / Geistertinte | *ghost finger* · *Ghost ink.* | K15 | — |
+| Wütend. Grab. / Wütend Punkt Grab Punkt. | *Angry. Grave.* / *Angry period. Grave period.* (beide Theo-Stellen gleich) | K15 | K16 (Heinrich), R5 |
+| Kind. Verloren. · Schleier dünn. | *Child. Lost.* · *Veil thin.* | K15 | R45 verkürzt |
+| Grundschule am Ring … Noch nicht. | *The elementary school on the Ring. Not yours.* / *Yet.* | K15 | bewusst ≠ K6 *Not yet.* (Witz) |
+| Wir machen weiter. | *We keep going.* | K15 | ← K11 *We quit.* / *We can’t quit.* |
+| Theos Rede | *I prepared a speech.* · *three points. With examples.* · *I forgot point three.* | K15 | B5 K14 (*speech*, W5-09) |
+| Keiner geht allein irgendwohin. | *Nobody goes anywhere alone.* | K15 | ← K5 *Not alone.* |
+| Gestalt am Friedhof | *A figure. Gray. See-through.* · *blurry like smoke* · *The figure lifted its head.* | K15 | ← K12 *figure made of smoke*; B2 (Heinrich) |
+| Zäune frieren nicht im Sommer. / Raureif | *Fences don’t freeze in summer.* · *Frost.* · K16 *Like frost on a windowpane.* | K15 | K16 |
+| Erdgeschosswohnung (Kirchgasse 14) | *the downstairs apartment* | K15 | ← K2 *the neighbor downstairs* |
+| Umschlag mit rotem Siegel | *an envelope … Closed with a seal of red wax.* · *She broke the seal.* | K15 | K16 |
+| Für die, die nach mir kommen. / Wenn ihr das lest … | *For those who come after me.* / *If you are reading this, I am no longer here.* · Titel K16 *Those Who Come After Me* | K15 | K16, B4 — *no longer here* ≠ tot |
+| Silbers Brief | *Dear finders of this letter.* · *For forty years, I have looked after the Restless of Gravenstedt.* · *A door between the living and the dead.* · *He is not an ordinary dog.* · *That means you are the right ones.* · *They need someone who listens.* · *Shadow will lead you. Trust him.* · R4 | K16 | B4 (*Trust him.* wortgleich), B5 (*door*, *not an ordinary dog*) |
+| Ich heul nicht. Staub. | *I’m not crying. Dust.* · *Lots of dust up here.* | K16 | B3 K15 (*dust*, W3-10) |
+| der mutigste Zehnjährige | *the bravest ten-year-old I know* / *the only ten-year-old you know* | K16 | ← K11 *the brave one* |
+| Elf, die noch warteten. | *Eleven who were still waiting.* | K16 | B2 K1 (Zählstand) |
+| Er hat uns gefunden. Er hat vor der Tür gesessen und gewartet. | *He found us.* · *He sat outside the door and waited.* | K16 | ← K1 |
+| Das ist schlimmer als gruselig. Das ist traurig. | *That’s worse than creepy. That’s sad.* | K16 | B2 (Heinrich, Erinnern) |
+| Buchschluss | *It felt as if a second hand lay on the other side at that very moment.* / *In exactly the same spot.* · *END OF BOOK 1* | K16 | B2-Haken; *the other side* (A1) |
+| Danke, Mama. | *Thanks, Mom.* (Alltag) — *Thank you* bleibt der Geisterdank (Lina, Anna) | K16 | — |
 
 ## Pflege
 
