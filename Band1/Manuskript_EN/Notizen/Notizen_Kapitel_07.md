@@ -149,3 +149,68 @@ Bericht: Absätze 79 = 79 · Ein-Satz-Absätze 25 = 25 · Ausrufezeichen 0 = 0 �
 `python3 Scripts/pruefe_en.py konsistenz Band1/Manuskript_EN` fand für K7 eine neue Abweichung:
 *„Ihr Atem ging viel zu schnell.“* K6 *Her breath came way too fast.* ↔ K7 *Her breath was coming way too fast.* → **in K7 angeglichen**.
 Keine bewusste Abweichung in K7.
+
+---
+
+## Runde 2 (Block 2)
+
+Grundlage: `Pruefung/D3_K07.md`, `D4_K07.md` (0 Befunde), `D5_K07.md`, `D6_K05-K08.md` (Teil K7), Pilot 5.1–5.3, Vorgaben 6, 7, 9 (Auftrag Runde 2).
+
+| Befund | Entscheidung | Grund (eine Zeile) |
+|---|---|---|
+| D5 #1 L7 *And died.* in der Mitte | abgelehnt | Reihenfolge von Theos stockender Rede im Original. |
+| D5 #2 L19 *wouldn’t let go of her* | angenommen | → *She couldn’t shake the thought, even though she didn’t know why yet.* |
+| D5 #3 L35 *Alert. Attentive.* (Tic) | angenommen | Vorgabe 9, ruhige Stelle: → *He looked up at her, alert and watching.* (K5 *Calm. Alert.* im Schreckvorlauf bleibt). |
+| D5 #4 L37 *found something out* | angenommen | → *That we found out something.* |
+| D5 #5 L53 *turned his eyes away* | angenommen | → *He looked away from the cemetery, back at Nora.* |
+| D5 #6 L69 *since yesterday* / *again and again* | abgelehnt | Original (*seit gestern*, *immer wieder*) → Autorenliste (Zeitleiste). |
+| D5 #7 L83 *Strange business.* | angenommen | Vorgabe 7: → *Weird, huh?* |
+| D5 #8 L85 *Does → Did* | abgelehnt | DE *Kennt*; Präsens hält offen, dass Frau Silber lebt (Kern K16). |
+| D5 #9 L87 *sorted a letter onto* | angenommen | → *She added a letter to the pile.* |
+| D5 #10 L87 *Odd, isn’t it?* | angenommen | Vorgabe 7: → *Kind of strange, right?* |
+| D5 #11 L89 Mom geht nachmittags ins Bett | abgelehnt | Logik des Originals (Vorgabe), Wortlaut fest (Wortliste K7 → K8, K12). |
+| D5 #12 L105 Glas nie genommen | abgelehnt | Original. |
+| D5 #13 L117 *the glass* | angenommen | Vorgabe 6: → *Nora didn’t touch the window.*; ebenso L125 *The words stayed on the window.* |
+| D5 #14 L125 *echo from another time* | angenommen (abgewandelt) | Bild *Echo* bleibt (Original), Wortlaut kindnah: → *Like an echo from long ago.* |
+| D5 #15 L133 *Then they heard it.* (Formel) | abgelehnt | zuerst geändert (*heard something*), dann zurück: gleicher DE-Satz wie K5 (und K13) → konsistenz meldete die neue Abweichung. |
+| D5 #16 L139 *upright … straight* | abgelehnt | beide Sätze im Original. |
+| D5 #17 L159 *Tirelessly* | angenommen | → *Patiently. Without stopping.* (Takt der zwei Fragmente bleibt). |
+| D5 Urteil Kapitelende | abgelehnt | Kapitelende des Originals (A7: ruhiger Fingerzeig). |
+| D3 #2 *She could see the girl* (Erscheinung?) | angenommen | → *She could picture the girl.* (DE *sah … vor sich*). |
+| D3 #4 Altstadt vs. Friedhof | abgelehnt | Original. |
+| D3 #8 *since yesterday* | abgelehnt | Original → Autorenliste. |
+| D3 #12 Mom nachmittags ins Bett | abgelehnt | Original (Vorgabe). |
+| D3 #13 *glass* | angenommen | Vorgabe 6. |
+| D3 #16 Scherben bleiben liegen | abgelehnt | Original. |
+| D3 #20 Szenentrenner ohne Zeitsprung | abgelehnt | Struktur des Originals. |
+| D3 ohne Handlungsbedarf | — | #1, #3, #5, #6, #7, #9, #10, #11, #14, #15, #17, #18, #19, #21, #22 — nicht gezählt. |
+| D6 skim 9–19, 69, 117–129 | abgelehnt | Struktur des Originals. |
+| D6 *wrought-iron* | abgelehnt | konkretes Bild, Zusammenhang (Zaun) klärt. |
+| D6 *Strange business* | angenommen | Vorgabe 7. |
+| D6 *hollow* (Worte) | abgelehnt | Original *hohl*; einfaches Wort, Bild bleibt. |
+| D6 *echo from another time* | angenommen | wie D5 #14. |
+| D6 *the smaller miracle* | abgelehnt | Theos Pointe (A3), Wortlaut trägt den Witz. |
+| D6 kaum Humor 43–155 | abgelehnt | Original (A7: Kapitel kippt bewusst in Mitgefühl). |
+| D6 silly Glas schon wieder | abgelehnt | Original. |
+| D6 silly Mom geht ins Bett | abgelehnt | Original (Vorgabe). |
+| D6 *Odd, isn’t it?* | angenommen | Vorgabe 7. |
+| D6 *glass* L117 | angenommen | Vorgabe 6. |
+| D6 *In the afternoon* | abgelehnt | Original. |
+| D6 Kratzstelle = Handabdrücke K1? | abgelehnt | Original klärt es nicht; nicht auflösen (Wortliste K2/K10). |
+| D6 Friedhof vs. Altstadt | abgelehnt | Original. |
+| D6 Vorlesen *Don’t forget* ×4 kürzen | abgelehnt | streicht DE-Sätze. |
+| D6 Vorlesen *Then they heard it.* | abgelehnt | wie D5 #15 (konsistenz). |
+
+**Zählung K7:** D3 2 angenommen / 5 abgelehnt · D4 0 / 0 (keine Befunde) · D5 10 / 8 · D6 4 / 12.
+
+**Gegenprobe (nur Bedeutung, jeder geänderte Satz gegen DE):** 11 Stellen (ohne die zurückgenommene). **Abweichung gefunden und behoben:**
+*He looked away from the cemetery and up at Nora.* — *up* setzte voraus, dass der Hund tiefer ist; Nora kniet (Absatz 18), DE nur
+*schaute Nora an* → *He looked away from the cemetery, back at Nora.* Grenzfälle, belassen: *Weird, huh?* (*Seltsame Sache.*), *Kind of
+strange, right?* (*Komisch, oder?*), *Like an echo from long ago.* (*aus einer anderen Zeit*), *Without stopping* (*Unermüdlich*).
+
+**Prüfskript:** 0 Befunde · Absätze gleich. **konsistenz:** die von mir zuerst erzeugte Abweichung *Dann hörten sie es.* (K5 ↔ K7) ist
+zurückgenommen; danach keine Abweichung aus K7.
+
+**An den Autor (Original, nicht korrigiert):** Absatz 32 *„Sie hatte dieses Haus seit gestern immer wieder angeschaut.“* — liest sich, als
+wären sie gestern eingezogen; K4 (Schulbeginn) und K8 *seit dem Umzug* sprechen für mehr Zeit (D3 #8, D5 #6). Mom/Bett, Glas: wie
+bekannt, bleibt.

@@ -41,7 +41,7 @@
 | wie ein Schatten, der sich bewegt, ohne Licht | *like a dark shape moving without any light to cast it* | K2 | K12 (F5) — dort das Wortspiel mit *Shadow* aufbauen |
 | Wenn sich ein Besitzer meldet | *If someone claims him—* | K2 | K5 |
 | neben ihr staubsaugen können | *you could vacuum right next to her* | K2 | K8, K12 |
-| Atem dampft | *she saw her breath* / *Your breath is STEAMING.* | K2 | A4 Kälte-Steigerung |
+| Atem dampft / kein dampfender Atem | *she saw her breath* / *Your breath is STEAMING.* · verneint: *She couldn’t see her breath.* (K5), *No ice, and she couldn’t see her breath.* (K6) | K2 | K5, K6 (Block 2 R2: *steaming breath* → *see her breath*, A4); K10, K12, K13 (*Atem dampfte*) — A4 Kälte-Steigerung |
 | HILF · HIER (+ Pfeil) | *HELP* · *HERE* (+ arrow up) | K3, K4 | K5, K12 *UP* (E11) |
 | Ordnung half | *Order helped. Order always helped.* | K1 | Noras Motiv |
 | Hamster Herbert | *hamster* | K4 | K6 |
@@ -83,7 +83,7 @@
 | *Linas Tagebuch* + kleines Herz | *Lina’s Diary* (kursiv, eigene Zeile) · *a little heart* | K8 | K9 (*the little heart*), K11, K12, K13 |
 | 12. März 1974. | *March 12, 1974.* | K8 | K9 (Geburtstag) |
 | Die Glühbirne flackerte. / Schatten winselte. (K8-Ende) | *The light bulb above them flickered.* / *Shadow whined.* | K8 | K9 Anfang (*The light bulb flickered, then steadied. Shadow whined next to Theo.*) |
-| *Schatten* als Wort in K8 (*die Schatten an der Wand*, *Schatten sprangen über die Wände*) | *shadows* (Wortspiel mit *Shadow whined.*) | K8 | — ✅ Autor 2026-10-14: Ausnahme wie K12 |
+| *Schatten* als Wort in K8 (*die Schatten an der Wand*, *Schatten sprangen über die Wände*) | *But the shadows on the wall twitched and stretched …* · *Shadows leaped across the walls, long and thin and trembling.* (Wortspiel mit *Shadow whined.*) | K8 | — ✅ Autor 2026-10-14: Ausnahme wie K12; im Text umgesetzt Block 2 Runde 2 (vorher *dark shapes*) |
 
 ## Pflege
 

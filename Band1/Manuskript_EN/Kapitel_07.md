@@ -6,7 +6,7 @@ The hum of the fluorescent tube above them. The soft clicking of the microfiche 
 
 “Nora.” Theo’s voice shook. “A girl lived in our building. Fifty years ago. And died. The same age as you.”
 
-Nora’s throat tightened. Cold spread through her chest, a cold that had nothing to do with the library’s air-conditioning. Twelve years old. Kirchgasse 14. She could see the girl. In the kitchen where Nora ate cereal every morning. In the hallway Nora walked through every day. In the room where Nora slept.
+Nora’s throat tightened. Cold spread through her chest, a cold that had nothing to do with the library’s air-conditioning. Twelve years old. Kirchgasse 14. She could picture the girl. In the kitchen where Nora ate cereal every morning. In the hallway Nora walked through every day. In the room where Nora slept.
 
 “The knocking,” Theo said quietly. “The cold. The word on the window.” He broke off. He didn’t have to say the rest.
 
@@ -16,7 +16,7 @@ Nora’s throat tightened. Cold spread through her chest, a cold that had nothin
 
 Nora stared at the screen. Six lines. A whole life, summed up in six lines. And then forgotten. For fifty years.
 
-Something heavy settled on Nora’s shoulders. A girl had lived in her building. And maybe nobody had listened to her. The thought wouldn’t let go of her, even though she didn’t know why yet.
+Something heavy settled on Nora’s shoulders. A girl had lived in her building. And maybe nobody had listened to her. She couldn’t shake the thought, even though she didn’t know why yet.
 
 “We have to go home,” she said.
 
@@ -32,9 +32,9 @@ Outside, Shadow was lying on the warm sidewalk in front of the library. When he 
 
 “What’s wrong with him?” Theo said.
 
-“No idea.” Nora knelt down and stroked Shadow’s head. The dog pressed his nose against her arm. He looked up at her. Alert. Attentive.
+“No idea.” Nora knelt down and stroked Shadow’s head. The dog pressed his nose against her arm. He looked up at her, alert and watching.
 
-“Maybe he can feel it,” Theo murmured. “That we found something out.”
+“Maybe he can feel it,” Theo murmured. “That we found out something.”
 
 “Dogs can’t sense newspaper articles.”
 
@@ -50,7 +50,7 @@ Shadow stared at it. Motionless. His hackles rose.
 
 “Shadow?” Theo said quietly.
 
-The dog growled. Low. Deep. Then he shook himself, as if he wanted to throw something off. His fur lay flat again. He turned his eyes away from the cemetery and looked at Nora.
+The dog growled. Low. Deep. Then he shook himself, as if he wanted to throw something off. His fur lay flat again. He looked away from the cemetery, back at Nora.
 
 Nora shivered. Just for a second. Like an ice cube on the back of her neck.
 
@@ -80,11 +80,11 @@ Mom was standing in the hallway, sorting the mail. She looked up. “You two loo
 
 “The library,” Nora said.
 
-Mom nodded. Then, casually: “The neighbor told me today that the old woman upstairs is still missing. Silber, I think her name was. Gone for months. Strange business.”
+Mom nodded. Then, casually: “The neighbor told me today that the old woman upstairs is still missing. Silber, I think her name was. Gone for months. Weird, huh?”
 
 Nora could feel Theo’s eyes on her back. She swallowed. “Does the neighbor know her?”
 
-Mom shook her head. “Barely. Apparently she was always alone. With a dog.” She sorted a letter onto the pile. “Odd, isn’t it?”
+Mom shook her head. “Barely. Apparently she was always alone. With a dog.” She added a letter to the pile. “Kind of strange, right?”
 
 Then she yawned. “I’ve been on my feet since five. I’m going to bed early tonight. There’s food in the fridge.”
 
@@ -114,7 +114,7 @@ He came. Saw the window. This time he didn’t go pale. This time he just nodded
 
 “She’s talking to us,” he said quietly. “Lina is talking to us.”
 
-Don’t forget. Nora didn’t touch the glass. This time she didn’t wipe anything away. She just stood there and read the words. Over and over.
+Don’t forget. Nora didn’t touch the window. This time she didn’t wipe anything away. She just stood there and read the words. Over and over.
 
 Don’t forget. As if Lina had waited fifty years for someone to find her story. And now that they had, she was begging: Don’t forget me. Not again. Not one more time.
 
@@ -122,7 +122,7 @@ Nora’s eyes burned. She blinked. Once. Twice.
 
 “We won’t forget you,” she whispered.
 
-The words stayed on the glass. Silent. Still. Like an echo from another time.
+The words stayed on the window. Silent. Still. Like an echo from long ago.
 
 Theo came and stood next to her. His arm touched hers. He didn’t say anything. He just stood there. Sometimes that was enough.
 
@@ -156,6 +156,6 @@ A tingle ran over Nora’s skin. She put her hand on the wall, right next to Sha
 
 Theo took a step back. “In movies, that’s usually the line right before everybody screams.”
 
-Shadow kept scratching. Patiently. Tirelessly. In exactly the same spot.
+Shadow kept scratching. Patiently. Without stopping. In exactly the same spot.
 
 As if he wanted to show them where they had to look.

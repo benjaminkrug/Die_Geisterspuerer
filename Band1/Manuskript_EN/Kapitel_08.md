@@ -2,7 +2,7 @@
 
 Shadow scratched at the wall. Always in the same spot. His paw ran over the wallpaper, once, twice, three times. Then he paused, looked at Nora, and kept scratching.
 
-Nora knelt down next to him. The ceiling light cast a dull glow over the old flowered wallpaper.
+Nora knelt down next to him. The ceiling light cast a dim glow over the old flowered wallpaper.
 
 “What’s wrong with him?” Theo said. He was standing three steps behind her, his arms crossed over his chest.
 
@@ -10,13 +10,13 @@ Nora knelt down next to him. The ceiling light cast a dull glow over the old flo
 
 “I can see that, Nora. Why is he scratching the wall?”
 
-Nora ran her fingers over the spot. The wallpaper was old. Yellowish, with faded flowers you could hardly make out anymore. But here, in this one spot, it felt different. Thinner. More brittle. As if someone had only stuck it on loosely.
+Nora ran her fingers over the spot. The wallpaper was old. Yellowish, with faded flowers you could hardly make out anymore. But here, in this one spot, it felt different. Thinner. More brittle. As if someone had barely glued it on.
 
 Shadow nudged Nora’s hand with his nose. His eyes were calm. No growling. No raised hackles. He sat next to her and watched, as if he wanted to say: There. Right there.
 
 “He wants us to take a look,” Nora said.
 
-“Take a look. Behind the wallpaper.” Theo shifted from one foot to the other. “Normally people look behind wallpaper when they want to redecorate. Not because their ghost dog orders them to.”
+“Take a look. Behind the wallpaper.” Theo shifted from one foot to the other. “Normally people look behind wallpaper when they want to redecorate. Not because their ghost-sniffing dog orders them to.”
 
 “He’s not giving orders. He’s showing us.”
 
@@ -24,7 +24,7 @@ Shadow nudged Nora’s hand with his nose. His eyes were calm. No growling. No r
 
 Nora ignored him. She slid her fingernail under the edge of the wallpaper. The paper came loose right away. No resistance. No glue holding it. The wallpaper came off like skin peeling.
 
-Behind it, the wall was gray and rough. And a crack ran right through the middle of the plaster. Thin, but deep. It went from top to bottom, about a foot long. The edges were crumbly.
+Behind it, the wall was gray and rough. And a crack ran right through the middle of the plaster. Thin, but deep. It ran straight down, about a foot long. The edges were crumbly.
 
 “There’s a crack,” Nora said.
 
@@ -80,9 +80,9 @@ Nora put her hand on his back. His fur was warm. No cold. No whining. Whatever w
 
 Theo’s footsteps came back. He appeared in the doorway with a small red toolbox in his hands. A big grin on his face.
 
-“Hammer, screwdriver, pliers, and something that’s either a chisel or a very aggressive spoon.” He flipped the box open and set it on the floor. “Never say I’m not useful.”
+“Hammer, screwdriver, pliers, and something that’s either a chisel or a very aggressive spoon.” He flipped the box open and set it on the floor. “Never say I’m not handy.”
 
-“You’re useful.”
+“You’re handy.”
 
 “Thank you. Finally, some appreciation.” He handed her the screwdriver. “You do it. My hands are shaking too much.”
 
@@ -108,7 +108,7 @@ The door to the hallway was closed. It had been open. The whole time. No draft. 
 
 “That—” Theo started. His voice was thin.
 
-Nora went to the door and pushed down the handle. The door opened. Behind it, the empty hallway. Nothing.
+Nora went to the door and grabbed the handle. The door opened. Behind it, the empty hallway. Nothing.
 
 Blood rushed in her ears. Cold air was streaming out of the hole in the wall. It smelled like dust and something old. Like a book that had been lying in a basement for decades.
 
@@ -116,11 +116,11 @@ Blood rushed in her ears. Cold air was streaming out of the hole in the wall. It
 
 Theo stood close behind her. She could feel his quick breath on the back of her head. “How big?”
 
-Nora shone her phone’s light into the hole. The beam fell on gray stone. A small hollow, barely bigger than a shoebox. No pipes. No wires. Someone had built this little nook into the wall on purpose. And closed it up again on purpose.
+Nora pointed her phone’s light into the hole. The beam fell on gray stone. A small space, barely bigger than a shoebox. No pipes. No wires. Someone had built it into the wall on purpose. And closed it up again on purpose.
 
 And there was something inside.
 
-Nora could feel her pulse in her throat. Her fingers clenched around the phone. In the light from the screen, she saw something rectangular. Dusty. Covered with something that might once have been cloth. Gray and thin as cobwebs.
+Nora could feel her pulse in her throat. Her fingers clenched around the phone. In the phone’s light, she saw something rectangular. Dusty. Covered with something that might once have been cloth. Gray and thin as cobwebs.
 
 “There’s something in there,” she said.
 
@@ -128,15 +128,15 @@ Nora could feel her pulse in her throat. Her fingers clenched around the phone. 
 
 “I don’t know. Something small.”
 
-Nora reached into the hollow. Her fingers touched the thing. Cold. Hard. She closed her fingers around it and pulled it out.
+Nora reached into the hole. Her fingers touched the thing. Cold. Hard. She closed her fingers around it and pulled it out.
 
-Dust trickled onto the floor. The gray cloth fell away. And in Nora’s hand lay a book.
+Dust trickled onto the floor. The gray cloth fell away. And in Nora’s hand was a book.
 
-Nora’s fingers closed tighter around it. A tingle ran through her hands. Not cold. Something else. As if she were holding something that had been waiting a long time for her.
+Nora gripped it tighter. A tingle ran through her hands. Not cold. Something else. As if she were holding something that had been waiting a long time for her.
 
-The ceiling light flickered. Only briefly, barely a second. But the dark shapes on the wall twitched and stretched, grew long and thin like fingers. Nora felt a humming in her ears. Soft, deep, like a tuning fork behind her temples.
+The ceiling light flickered. Only briefly, barely a second. But the shadows on the wall twitched and stretched, grew long and thin like fingers. Nora felt a humming in her ears. Soft, deep, like a tuning fork behind her temples.
 
-Small. Barely bigger than her palm. Dark brown leather, cracked and dry. No title. Nothing written on it.
+The book was small. Barely bigger than her palm. Dark brown leather, cracked and dry. No title. Nothing written on it.
 
 Nora turned it over. A shiver ran down her back.
 
@@ -164,23 +164,23 @@ Theo leaned over her shoulder. His face was pale.
 
 “Or somebody put it there so it would be found.” Nora looked over at Shadow. “By the right person.”
 
-Shadow lifted his head. He looked at Nora. Then at the book. Then at Nora again. His eyes shone in the dull glow of the ceiling light.
+Shadow lifted his head. He looked at Nora. Then at the book. Then at Nora again. His eyes shone in the dim light from the ceiling.
 
 Lina didn’t want to be forgotten. And somebody had hidden her diary in the wall. Bricked it up. As if nobody was ever supposed to find it.
 
 But Shadow had found it.
 
-Nora’s fingers were stiff with tension as she turned the first page. The writing was small and tight. Purple ink on yellowed paper. There was a date in the top left corner.
+Nora’s fingers were stiff as she turned the first page. The writing was small and tight. Purple ink on yellowed paper. There was a date in the top left corner.
 
 March 12, 1974.
 
 Nora began to read.
 
-And in that moment, it turned cold.
+And right at that moment, the room went cold.
 
-Not slowly. Not creeping in. All at once. As if someone had yanked open the door of a freezer. The temperature in the room dropped so fast that Nora’s skin hurt. Her breath came out of her mouth in a white cloud.
+Not slowly. Not bit by bit. All at once. As if someone had yanked open the door of a freezer. The temperature in the room dropped so fast that Nora’s skin hurt. Her breath came out of her mouth in a white cloud.
 
-The light bulb above them flickered. Once. Twice. The light jumped, went dim, came back, went dim. Dark shapes leaped across the walls, long and thin and trembling.
+The light bulb above them flickered. Once. Twice. The light jumped, went dim, came back, went dim. Shadows leaped across the walls, long and thin and trembling.
 
 Shadow whined.
 

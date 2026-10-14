@@ -151,3 +151,95 @@ Für später gesetzt: *résumé* (K14 W1-17) · *Other kids … We …* (B3 K16,
 `python3 Scripts/pruefe_en.py pruefen Band1/Manuskript_EN/DE_Basis/Kapitel_06.md Band1/Manuskript_EN/Kapitel_06.md`
 → Register-Sätze im deutschen Text: 0 · **0 Befund(e).**
 Bericht: Absätze 111 = 111 · Ein-Satz-Absätze 33 → 34 (keiner verloren; Absatz 56/66 im Englischen glatter Satz) · Ausrufezeichen 0 = 0 · Dialoganteil 34,3 % → 34,0 % · Silben/Satz 8,3 → 7,4.
+
+---
+
+## Runde 2 (Block 2)
+
+Grundlage: `Pruefung/D3_K06.md`, `D4_K06.md`, `D5_K06.md`, `D6_K05-K08.md` (Teil K6), Pilot 5.1–5.3, Vorgaben 1 und 9 (Auftrag Runde 2).
+DE_Basis K6 neu (d2badb5): Theo *„Was meinst du?“, sagte Theo.* statt *„Vierzig Jahre lang was?“* → nachgezogen (Abschn. 6 Nr. 1 damit erledigt).
+
+| Befund | Entscheidung | Grund (eine Zeile) |
+|---|---|---|
+| D4 #1 Z.137–139 *Forty years what?* | angenommen | Vorgabe 1: → *“What do you mean?” Theo said.* |
+| D4 #2 Z.133 *ran away* | angenommen | → *“It looked like she was running from something,” Theo said.* (Gegensatz zu *voluntarily* bleibt scharf). |
+| D4 #3 Z.157 *Gesundheit* | abgelehnt | *Bless you.* ist die US-Niesantwort, die jedes Kind kennt; Witz W1-12 unverändert. |
+| D5 #1 L7 *Normal warm.* | angenommen | → *The normal kind of warm.* |
+| D5 #2 L7 *steaming breath* | angenommen | Vorgabe 9 + A4: → *No ice, and she couldn’t see her breath.* (ein Satz bleibt einer). |
+| D5 #3 L9 *hands were on her knees* | angenommen | → *She bent over, hands on her knees.* (wie K2 Absatz 39). |
+| D5 #4 L11 *As if outside were* | angenommen | → *As if out here was a different world.* |
+| D5 #5 L35 *Only theirs wasn’t anymore.* | angenommen | → *Just not theirs anymore.* (*nicht mehr* bleibt). |
+| D5 #6 L45 *fear gave way to curiosity* | abgelehnt | DE-Satz (*Die Angst wich der Neugier.*), nicht streichen. |
+| D5 #7 L45 *Those aren’t living people.* | angenommen | → *Those people aren’t alive.* |
+| D5 #8 L61–63 zwei Nora-Absätze | abgelehnt | Absätze 1:1, kein Begleitsatz dazu. |
+| D5 #9 L69 *investigate ghost cases* | abgelehnt | Running Gag mit fester Bauweise (Wortliste, B3–B5). |
+| D5 #10 L75 *Shadow’s leash* | angenommen | → *Theo tied the leash to a bike rack.* |
+| D5 #11 L85 *hummed away to itself* | angenommen | → *Somewhere, a computer hummed.* |
+| D5 #12 L85 *the world was in order* | angenommen (abgewandelt) | → *Here, the world had order.* — *things made sense* hätte Noras Motivwort *order* (K1) verloren. |
+| D5 #13 *Three paragraphs* ×3 | abgelehnt | Original wiederholt bewusst. |
+| D5 #14 L135 *upstairs outside the door* | angenommen | → *waiting up there outside the library.* |
+| D5 #15 *Forty years what?* | angenommen | wie D4 #1. |
+| D5 #16 Mikrofiche = Film | abgelehnt | Noras Erklärung im Original (*Filmstreifen*). |
+| D5 #17 Netflix-Witz | abgelehnt | Witz des Originals, keine neuen Witze (A8 Abschn. 7). |
+| D5 #18 *We need 1974* | abgelehnt | Logik des Originals → Autorenliste. |
+| D5 #19 *whining … couldn’t hear it* | abgelehnt | Original; *whining* ist Code R44. |
+| D5 #20 L177 *Then her eyes stopped.* | angenommen | → *Then something caught her eye.* (Ein-Satz-Absatz bleibt). |
+| D5 #21 *daughter of the Vogt family* | abgelehnt | Meldungstext des Originals; keine erfundenen Vornamen. |
+| D5 #22 L199 *searched along the edges* | angenommen (abgewandelt) | → *Nora checked the edges of the picture.* (*scanned the faces* ändert den Sinn: *Bildrand*). |
+| D5 #23 L199 *made it so hard* | abgelehnt | DE-Satz; Körperbild statt Satz wäre neuer Inhalt. |
+| D5 #24 L217 Sprecher | abgelehnt | kein Begleitsatz im Original. |
+| D5 #25 L221 *Not just anywhere.* | angenommen (klarer, nicht gestrichen) | → *He hadn’t been staring just anywhere.* / *Home.* — Bezug auf Schattens Blick jetzt hörbar; *Home.* bleibt allein (A7). |
+| D5 Urteil „bei *That’s our address* enden“ | abgelehnt | streicht DE-Sätze (Vorgabe). |
+| D3 #3 *where nobody was standing* | abgelehnt | D3: Kind versteht es; Original *auf dem niemand stand*. |
+| D3 #4 zwei Nora-Absätze | abgelehnt | wie D5 #8. |
+| D3 #5 Leine | abgelehnt | Zeitleiste des Originals. |
+| D3 #6 *For school?* im Juli | abgelehnt | Original (Schuljahr läuft, K4). |
+| D3 #10 *Scratches on the walls* | abgelehnt | Original (K2). |
+| D3 #11 *outside the door* | angenommen | wie D5 #14. |
+| D3 #12 *Forty years what?* | angenommen | Vorgabe 1. |
+| D3 #13 *one night* | abgelehnt | Noras Schluss im Original. |
+| D3 #15 Netflix | abgelehnt | wie D5 #17. |
+| D3 #16 *We need 1974* | abgelehnt | wie D5 #18. |
+| D3 #17 Altstadt vs. Friedhof | abgelehnt | Original → Autorenliste. |
+| D3 #18 *in the middle of moving* (= umziehen?) | angenommen | → *as if she had moved just when the picture was taken.* |
+| D3 #19 *newspapers ended up on strips of film* | abgelehnt | gleiche Doppeldeutigkeit im Original; Zusammenhang (Mikrofiche) klärt. |
+| D3 #20 Sprecher *That’s our address* | abgelehnt | wie D5 #24. |
+| D3 #21 *Not just anywhere* | angenommen | wie D5 #25. |
+| D3 ohne Handlungsbedarf | — | #1, #2, #7, #8, #9, #14 — nicht gezählt. |
+| D6 skim (Wiederholung K5, Mikrofiche, Adresse) | abgelehnt | Struktur des Originals. |
+| D6 Wörter *microfiche* | abgelehnt | Nora erklärt es im Text; Witz *Bless you* braucht es. |
+| D6 *résumé* | abgelehnt | A3 W1-10, Setup K14 (Wortliste). |
+| D6 *spokesperson*, *voluntarily*, *longtime resident* | abgelehnt | Zeitungsmeldung soll nach Dokument klingen (A7); *voluntarily* ×2 siehe Vorlesen. |
+| D6 *fluorescent* | abgelehnt | Wortliste (K6 → K7). |
+| D6 *sandstone, Old Town, bun, local section, follow-up, curb* | abgelehnt | konkret, Zusammenhang klärt; *Old Town* Glossar. |
+| D6 *Margret* | abgelehnt | Name (Glossar). |
+| D6 Witz *résumé* / Netflix nicht verstanden | abgelehnt | Witze des Originals. |
+| D6 silly *bathtub* | abgelehnt | Körperbild des Originals (5.1 Nr. 3). |
+| D6 silly Theo in 3. Person | abgelehnt | A7 „darf nicht verloren gehen“. |
+| D6 *Forty years what?* | angenommen | Vorgabe 1. |
+| D6 *We need 1974* | abgelehnt | Original → Autorenliste. |
+| D6 *Old Town* vs. Friedhof | abgelehnt | Original. |
+| D6 *whining … couldn’t hear* | abgelehnt | wie D5 #19. |
+| D6 *Not just anywhere* | angenommen | wie D5 #25. |
+| D6 *March 14* ohne Jahr | abgelehnt | Original. |
+| D6 Vorlesen *(75)* / *(12)* | abgelehnt | Zeitungsformat (A8 Zahlen: Meldung bleibt Ziffer). |
+| D6 Vorlesen *voluntarily* ×2 (L131) | angenommen | zweite Stelle → *But the apartment didn’t look like she wanted to leave.* |
+| D6 Vorlesen Sprecher L43 | abgelehnt | kein Begleitsatz dazu (A8 Abschn. 4). |
+| D6 Vorlesen L61→63 zusammenlegen | abgelehnt | Absätze 1:1. |
+| D6 Vorlesen *Forty years what?* | angenommen | Vorgabe 1 (Doppelnennung). |
+
+**Zählung K6:** D3 4 angenommen / 11 abgelehnt · D4 2 / 1 · D5 14 / 12 · D6 4 / 17.
+
+**Gegenprobe (nur Bedeutung, jeder geänderte Satz gegen DE):** 16 Stellen. **Keine Bedeutungsverschiebung gefunden.** Grenzfälle,
+belassen: *didn’t look like she wanted to leave* (DE *sah nicht freiwillig aus* — gleiche Aussage, persönlicher); *He hadn’t been
+staring just anywhere.* (DE *Nicht irgendwohin.* — Bezug ausgeschrieben, kein neuer Inhalt); *as if she had moved just when the
+picture was taken* (DE *wie mitten in einer Bewegung*); *Nora checked the edges* (*suchte den Bildrand ab*).
+
+**Prüfskript:** 0 Befunde · Absätze 111 = 111. **konsistenz:** keine Abweichung aus K6.
+
+**An den Autor (Original, nicht korrigiert):** (1) Absatz 85 *„Konzentrier dich. Wir brauchen 1974.“* — die Schachtel *1974 – Oktober
+bis Dezember* liegt schon ein; gemeint ist wohl *November* (D3, D5, D6 unabhängig). (2) Absatz 86 Schatten starrt *dorthin, wo die
+Altstadt lag* — K7 lässt ihn den Friedhof **gegenüber der Bibliothek** anknurren; zwei Blickrichtungen ohne Verbindung (D3, D6).
+(3) Mit Theos neuem *„Was meinst du?“* hat der spätere Rückgriff K11 *„Vierzig Jahre lang.“* in K6 kein Setup mehr; A7 (K6) zitiert noch
+*„vierzig Jahre lang –“ (abgebrochen)* — A7 bitte angleichen. (4) `Aenderungsliste_DE.md`, Zeile d2badb5: Spalte „EN nachgezogen“ kann
+auf ✅ (K5, K6 Block 2 Runde 2) — Datei nicht von mir geändert (Auftrag).

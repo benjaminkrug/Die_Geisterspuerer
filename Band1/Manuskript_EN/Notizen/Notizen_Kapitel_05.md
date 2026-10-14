@@ -179,3 +179,91 @@ Bericht: Absätze 118 = 118 · Ein-Satz-Absätze 41 = 41 · Ausrufezeichen 2 = 2
   **Bewusst:** In K5 zählt der Satz Laute auf — *A soft sound. Not a growl. Not a whine. A sigh.* — drei gleich gebaute Substantive
   (*a growl / a whine / a sigh*) machen den Seufzer zur Pointe. In K8 (und K4 *No whining, no hackles.*) wird ein Zustand verneint;
   dort passt das Gerundium. Beide halten den Code (*growl*, *whine*).
+
+---
+
+## Runde 2 (Block 2)
+
+Grundlage: `Pruefung/D3_K05.md`, `D4_K05.md`, `D5_K05.md`, `D6_K05-K08.md` (Teil K5), Pilot 5.1–5.3, Vorgaben 1, 8, 9 (Auftrag Runde 2).
+DE_Basis K5 neu (d2badb5): *„Neben den Bücherstapeln hing etwas …“* statt *Bücherregal* → nachgezogen.
+
+| Befund | Entscheidung | Grund (eine Zeile) |
+|---|---|---|
+| D4 #1 Z.73 *tiny* + Maß | angenommen | → *The room was small. Maybe ten feet by twelve.* (DE *klein*); Maß bleibt (Streichen = Inhalt weg). |
+| D5 #1 L5 *His tail lay still on the floor* | abgelehnt | Kapitelanfang, Fragmente bleiben (A8); Vorschlag verliert *on the floor*. |
+| D5 #2 L7 Küchenfenster *behind her* | angenommen | → *Behind her, back in the kitchen, was the window.* (Küche steckt in *Küchenfenster*). |
+| D5 #3 L17 Heizung im Sommer | abgelehnt | Logik des Originals (schon auf der Autorenliste aus K4). |
+| D5 #4 L25 *Everything in her said* | angenommen | → *Every part of her said:* (*screamed* abgelehnt: steigert). |
+| D5 #5 L27 Wortstellung | angenommen | → *But the word was there on the window behind her.* |
+| D5 #6 L39 *Strange and wrong.* | abgelehnt | Fragment des Originals (*Fremd und falsch.*), kein Vorschlag, der den Takt hält. |
+| D5 #7 L41 *No steaming breath.* | angenommen | Vorgabe 9 + A4 (*Atem dampfte → see her breath*): → *She couldn’t see her breath.* (wie K2 *she saw her breath*). |
+| D5 #8 L57 *swallowed loudly* | angenommen | → *Theo gulped.* (*hörbar* steckt im Verb; DE-Satz kommt im Buch nur einmal vor). |
+| D5 #9 L63 Schritte knarren | angenommen | → *The dusty floorboards creaked under her feet.* |
+| D5 #10 L67 *breathe more easily* | angenommen | → *Nora could breathe easier.* |
+| D5 #11 L69 *after all* | angenommen | → *They had been too busy running.* (Logik „rein gerannt?“ bleibt Original). |
+| D5 #12 L73 *strip of light* doppelt | angenommen | → *danced in the beam.* |
+| D5 #13 L75 Doppelpunkt-Fragment | angenommen | Vorgabe 9: → *There were books along the wall across from the window. Stacks of them, …* |
+| D5 #14 L87 *local archives* | angenommen | Vorgabe 8: → *Old books about the city. History books and old city records.* (nicht *old town* — *Old Town* ist ab K6 ein Ortsname). |
+| D5 #15 *Nora stepped closer.* ×2 | angenommen | zweite Stelle → *Nora moved in closer.* |
+| D5 #16 L111 *bookshelf* | angenommen | Vorgabe 1 (DE korrigiert): → *Next to the stacks of books, something was hanging on the wall.* |
+| D5 #17 L111 *one above the other* | angenommen | → *in rows up and down the wall.* |
+| D5 #18 L133 *let her eyes move* | angenommen | → *Nora scanned the rows.* |
+| D5 #19 L133 Relativsatz | angenommen | → *… the more something came together in her head. Something she didn’t want to say out loud.* (Absatz bleibt). |
+| D5 #20 L139 *address books / phone lists* | angenommen (Wortlaut) | → *Not an address book. Not a list of phone numbers.*; Streichen abgelehnt (DE-Sätze). |
+| D5 #21 L155 S/W-Foto 2019 | abgelehnt | Logik des Originals (Vorgabe: bleibt). |
+| D5 #22 L175 *Not a coincidence outside our door* | angenommen | → *It was no accident, Nora thought. Not him showing up at our door. Not him on the stairs.* (Anapher bleibt). |
+| D5 #23 L187 Frage doppelt | abgelehnt | beide Sätze stehen im Original (Theo 141, Nora 187). |
+| D5 #24 L189 *genealogist* | angenommen | Vorgabe 8, meine Entscheidung: → *Or one of those family-tree people.* Der Witz hängt an *nostalgic*, nicht am Fachwort; D3/D6/D6-Vorlesen stolpern. |
+| D5 #25 L199 *grinned a lopsided grin* | angenommen | → *Theo looked at her with a lopsided grin.* |
+| D5 #26 L201 *With a jerk.* | angenommen (abgewandelt) | → *Suddenly Shadow lifted his head. Sharply.* — feste Geste (A8) und zwei Sätze bleiben; *head jerked up* hätte beides aufgegeben. |
+| D5 #27 L203 *Her skin tightened.* | abgelehnt | Körperbild des Originals (5.1 Nr. 3, K2-Wortlaut); *goosebumps* ist A4 für *Gänsehaut* reserviert. |
+| D5 #28 L203 *early warning system* | angenommen (Wortlaut) | → *Shadow was their warning system.*; Streichen abgelehnt (DE-Satz). |
+| D5 #29 L223 *pale/white* | abgelehnt | Original steigert *blass → weiß*. |
+| D5 #30 L225 *Softly. Pitifully.* | abgelehnt | Schreckmoment: Fragmente tragen den Takt (Vorgabe 9); *whined* ist Code R44, Zusammenziehen verliert den Rhythmus. |
+| D5 #31 Herz-Signale | abgelehnt | Körpersignale des Originals. |
+| D5 Urteil „Ende: drei statt vier Schläge“ | abgelehnt | Kapitelende des Originals (A7). |
+| D5 Tics (Vorgabe 9): *Then they heard it.* (L209) | abgelehnt | Schreckmoment, und derselbe DE-Satz steht in K7/K13 → konsistenz verlangt gleichen Wortlaut. |
+| D3 #1 Wo stehen alle? | abgelehnt | Vorschlag fügt Handlung hinzu. |
+| D3 #4 *blood* | abgelehnt | Körperbild des Originals (*Blut nach einem Biss auf die Wange*), harmlos. |
+| D3 #9 Regal | angenommen | wie D5 #16. |
+| D3 #10 *study* | abgelehnt | Witz braucht das Wort (*A witch’s study*); D6: „the joke helps“. |
+| D3 #11 *local archives* | angenommen | wie D5 #14. |
+| D3 #12 + #13 1840: Zettel oder Daten? | angenommen | Vorgabe 8: → *Some of the dates went back as far as 1840.* |
+| D3 #14 *phone lists* | angenommen | wie D5 #20. |
+| D3 #15 Frage doppelt | abgelehnt | Original. |
+| D3 #16 Foto 2019 | abgelehnt | Original. |
+| D3 #19 *genealogist* | angenommen | wie D5 #24. |
+| D3 #20 Flur „hinter ihnen“, Blick zur Tür | abgelehnt | Logik des Originals (*Aus dem Flur. Hinter ihnen.*) → Autorenliste. |
+| D3 #21 *bare feet* | abgelehnt | Original (Noras Schluss, A7 Setup K10/K13). |
+| D3 ohne Handlungsbedarf | — | #2, #3, #5, #6, #7, #8, #17, #18 (D3 selbst: Kind liest richtig) — nicht gezählt. |
+| D6 skim 63–69 | abgelehnt | Struktur des Originals. |
+| D6 skim 119–139 / langer Absatz 133 | angenommen (teilw.) | Satz geteilt (D5 #19); Absatz bleibt. |
+| D6 141/187 doppelt | abgelehnt | Original. |
+| D6 Wörter *Chronicle*, *Cemetery Register* | abgelehnt | Buchtitel; *Gravenstedt: A Chronicle* fest (Wortliste → K14). |
+| D6 *local archives* | angenommen | wie D5 #14. |
+| D6 *scrawly* | abgelehnt | Wortlaut aus K1 (Silbers Hand), Wiedererkennung. |
+| D6 *Mühlenweg* | abgelehnt | Glossar A1 Abschn. 3 (Straßennamen bleiben). |
+| D6 *genealogist* | angenommen | wie D5 #24. |
+| D6 *hackles* | abgelehnt | A4 fest. |
+| D6 *phone lists* | angenommen | wie D5 #20. |
+| D6 silly: Schritte knarren | angenommen | wie D5 #9. |
+| D6 silly: Foto 2019 | abgelehnt | Original. |
+| D6 silly: *blood … cheek* | abgelehnt | Körperbild des Originals (5.1 Nr. 3). |
+| D6 Regal | angenommen | wie D5 #16. |
+| D6 *running, after all* (sind nicht reingerannt) | abgelehnt (Logik) | Original; Wortlaut ohnehin neu (D5 #11). |
+| D6 *bare feet* | abgelehnt | Original. |
+| D6 Vorlesen *Vogt*, Titel mit Jahreszahlen, *Lina Vogt? – 1974?* | abgelehnt | Name/Glossar-Format (A1 Abschn. 2); Absatz 66 *Just two question marks.* trägt es beim Vorlesen. |
+| D6 Vorlesen *genealogist* | angenommen | wie D5 #24. |
+| D6 Vorlesen *Then they heard it.* (K5/K7) | abgelehnt | gleicher DE-Satz → gleiches Englisch (konsistenz); hier Schreckmoment. |
+
+**Zählung K5:** D3 5 angenommen / 7 abgelehnt (#12+#13 als ein Befund) · D4 1 / 0 · D5 22 / 11 · D6 7 / 12 (Mehrfachnennungen je Durchgang einzeln gezählt).
+
+**Gegenprobe (nur Bedeutung, jeder geänderte Satz gegen DE):** 23 Stellen. **Abweichungen gefunden und behoben:**
+(1) *It wasn’t an accident … Not at our door. Not on the stairs.* — *Kein Zufall vor unserer Tür* meint, dass **er** dort auftauchte; ohne Subjekt klang es nach einem Ort → *Not him showing up at our door. Not him on the stairs.*
+(2) *Shadow was their alarm system.* verlor *Früh-*warnung (Alarm = es passiert schon) → *warning system*.
+(3) *old town records* — kollidiert mit dem Ortsnamen *Old Town* (K6 *Altstadt*) → *old city records*.
+Grenzfälle, belassen: *They had been too busy running* (DE *Sie waren ja gerannt* — Grund gleich), *Every part of her said* (*Alles in ihr*), *in rows up and down the wall* (*übereinander*), *Sharply.* (*Ruckartig.*), *Theo gulped.* (*schluckte hörbar*).
+
+**Prüfskript:** 0 Befunde · Absätze 118 = 118. **konsistenz:** keine neue Abweichung aus K5 (*Not a growl / Not a whine* ↔ K8 bleibt bewusst, Abschn. 8).
+
+**An den Autor (Original, nicht korrigiert):** Absatz 105 *„Aus dem Flur. Hinter ihnen.“* — Schatten starrt zur Tür (Absatz 103), der Flur liegt also **vor** ihnen (D3 #20). Foto/Heizung wie bisher gemeldet.

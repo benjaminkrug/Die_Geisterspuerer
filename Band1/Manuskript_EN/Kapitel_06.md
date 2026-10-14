@@ -4,11 +4,11 @@ They ran.
 
 Nora jumped down the stairs, two at a time. Theo was ahead of her. Shadow between them. The dog’s claws scraped over the wood.
 
-It was warm in the stairwell. Normal warm. No ice, no steaming breath. Only the creaking of the steps and the pounding of Nora’s heart.
+It was warm in the stairwell. The normal kind of warm. No ice, and she couldn’t see her breath. Only the creaking of the steps and the pounding of Nora’s heart.
 
-Front door. Theo yanked it open. Sunlight. Nora stumbled onto the sidewalk and stopped. Her hands were on her knees. Her breath came way too fast.
+Front door. Theo yanked it open. Sunlight. Nora stumbled onto the sidewalk and stopped. She bent over, hands on her knees. Her breath came way too fast.
 
-Theo stood two steps away, his hands on his head. His face was pale. Shadow sat next to him, panting. His fur lay flat. No raised hackles. As if outside were a different world.
+Theo stood two steps away, his hands on his head. His face was pale. Shadow sat next to him, panting. His fur lay flat. No raised hackles. As if out here was a different world.
 
 “Okay,” Theo said. He took three deep breaths. “Okay. That happened.”
 
@@ -32,7 +32,7 @@ Nora swallowed. He was right. She had heard it. Clear and sharp. Quick, light fo
 
 Nora straightened up. Kirchgasse was quiet in front of them. Cars were parked along the curb. Somewhere, someone laughed.
 
-The world was normal. Only theirs wasn’t anymore.
+The world was normal. Just not theirs anymore.
 
 “The list of names,” Nora said.
 
@@ -42,7 +42,7 @@ Theo looked at her. “What?”
 
 “Theo said a lot of things. Theo also wanted to get out. Did anybody listen to Theo? No.”
 
-“Listen.” Nora pressed her lips together. The fear gave way to curiosity. It always happened like that. First the pounding heart, then the questions. “Mrs. Silber lived there. The apartment is full of notes. And that list—names, dates, some from as far back as 1840. Those aren’t living people.”
+“Listen.” Nora pressed her lips together. The fear gave way to curiosity. It always happened like that. First the pounding heart, then the questions. “Mrs. Silber lived there. The apartment is full of notes. And that list—names, dates, some from as far back as 1840. Those people aren’t alive.”
 
 “Obviously.”
 
@@ -72,7 +72,7 @@ Theo bit his lower lip. “And where is Mrs. Silber now?”
 
 The city library was a twelve-minute walk away, at the edge of the Old Town. A wide building of yellow sandstone with tall windows.
 
-Shadow had to stay outside. Theo tied Shadow’s leash to a bike rack.
+Shadow had to stay outside. Theo tied the leash to a bike rack.
 
 “Wait here,” he said. “And if anything creepy happens: bark.”
 
@@ -82,7 +82,7 @@ Shadow lay down and yawned.
 
 “Welcome to my world,” Nora said.
 
-The library smelled like old paper and coffee. Shelves up to the ceiling. Somewhere, a computer hummed away to itself. Nora liked libraries. Here, there were answers. Here, the world was in order.
+The library smelled like old paper and coffee. Shelves up to the ceiling. Somewhere, a computer hummed. Nora liked libraries. Here, there were answers. Here, the world had order.
 
 “Smells like Grandma’s attic,” Theo muttered. “Just without the cookies.”
 
@@ -128,15 +128,15 @@ That was all. Three paragraphs. No follow-up. Nora searched again. And again. No
 
 Nora stared at the screen. Margret Silber. Seventy-five years old. Lived alone. Kirchgasse. The apartment on the third floor.
 
-“The police say she left the apartment voluntarily,” Nora said. “But the apartment didn’t look like anybody left voluntarily. Knocked-over furniture. Scratches on the walls.”
+“The police say she left the apartment voluntarily,” Nora said. “But the apartment didn’t look like she wanted to leave. Knocked-over furniture. Scratches on the walls.”
 
-“It looked like somebody ran away,” Theo said.
+“It looked like she was running from something,” Theo said.
 
-The fluorescent lights hummed. The back of Nora’s neck prickled. She turned around. Behind her, only empty rows of chairs and the buzz of the fluorescent tubes. She thought of Shadow, waiting upstairs outside the door. Calm. Patient. As if he had known what they would find.
+The fluorescent lights hummed. The back of Nora’s neck prickled. She turned around. Behind her, only empty rows of chairs and the buzz of the fluorescent tubes. She thought of Shadow, waiting up there outside the library. Calm. Patient. As if he had known what they would find.
 
 “What scared her like that?” Nora whispered. “What could scare a woman who lived alone in a house like that for so long—” She broke off.
 
-“Forty years what?” Theo said.
+“What do you mean?” Theo said.
 
 Nora shook her head. She didn’t know yet. But the puzzle pieces were right in front of her. The list of names. The notes. The photo with Shadow. An old woman who had lived in an apartment full of clues about the dead. And who had disappeared one night.
 
@@ -174,7 +174,7 @@ Nora looked up. Up near the ceiling, there was a narrow window, right at sidewal
 
 She looked away and kept turning the knob. Early November.
 
-Then her eyes stopped.
+Then something caught her eye.
 
 A short article. Six lines. At the very bottom of page four, between an ad for Dr. Kessler, Dentist, and the weather report. Nora had almost missed it.
 
@@ -196,7 +196,7 @@ The article was short. Cold. Just the facts.
 
 Six lines. That was all. Not a word about what kind of accident. A girl had died, and the newspaper had six lines to spare. Between the dentist and the weather.
 
-But there was a photo. Small, grainy, barely visible on the microfiche. A class photo. Three rows of kids in front of a brick wall. Nora searched along the edges of the picture. Bottom right. A girl with a dark braid. Lina Vogt. She stood between two other kids, a little crooked, as if she had been caught in the middle of moving. A completely normal girl. That was exactly what made it so hard.
+But there was a photo. Small, grainy, barely visible on the microfiche. A class photo. Three rows of kids in front of a brick wall. Nora checked the edges of the picture. Bottom right. A girl with a dark braid. Lina Vogt. She stood between two other kids, a little crooked, as if she had moved just when the picture was taken. A completely normal girl. That was exactly what made it so hard.
 
 “Twelve,” Theo whispered. “She was twelve.”
 
@@ -218,6 +218,6 @@ Nora nodded. Her fingers dug into the edge of the table.
 
 Nora thought of Shadow outside on the sidewalk. The way he had stared down the street. Trembling.
 
-Not just anywhere.
+He hadn’t been staring just anywhere.
 
 Home.

@@ -4,7 +4,7 @@ Shadow waited.
 
 He sat at the foot of the stairs to the third floor. Upright. Motionless. His eyes on Nora. His tail lay still on the floor. No wagging. No twitching. Just that patient waiting that said: I’m ready. Are you?
 
-Nora stood in the hallway. Her heart beat faster. Behind her, the kitchen window. The word HERE. The arrow pointing up.
+Nora stood in the hallway. Her heart beat faster. Behind her, back in the kitchen, was the window. The word HERE. The arrow pointing up.
 
 “He wants us to go up there,” Theo said quietly.
 
@@ -22,9 +22,9 @@ Silence. The ticking of the radiator. Shadow’s breathing.
 
 “Good. Just so we’ve got that down before we make the same mistake again.”
 
-Nora took a deep breath. Her palms were damp. Her mouth was dry. Everything in her said: Don’t go up there. Stay here. Close the door.
+Nora took a deep breath. Her palms were damp. Her mouth was dry. Every part of her said: Don’t go up there. Stay here. Close the door.
 
-But the word was behind her on the window. HERE. Like a finger pointing up.
+But the word was there on the window behind her. HERE. Like a finger pointing up.
 
 “Come on,” she said.
 
@@ -38,7 +38,7 @@ It was open. Just a crack. But this time was different.
 
 This time the air was cool. Not icy like last time. More like a basement in summer. Nora swallowed. There was a metallic taste on her tongue. Like coins. Like blood when you bite the inside of your cheek. Strange and wrong.
 
-Nora stopped. She put her hand on the doorframe. The wood was cool, not cold. No frost under her fingertips. No steaming breath.
+Nora stopped. She put her hand on the doorframe. The wood was cool, not cold. No frost under her fingertips. She couldn’t see her breath.
 
 Shadow stood next to her. He sniffed at the doorway. Once. Twice.
 
@@ -54,25 +54,25 @@ Nora’s heart skipped a beat. Last time, Shadow had refused. He had planted him
 
 “I can see that, Theo.”
 
-Theo swallowed loudly. “Great. So either it’s safe now. Or the dog gave up.”
+Theo gulped. “Great. So either it’s safe now. Or the dog gave up.”
 
 “Dogs don’t give up.”
 
 “How would you know?”
 
-Nora followed Shadow. Her footsteps creaked on the dusty floor. Theo came after her. He stayed close behind her. So close that she could feel his breath on her neck.
+Nora followed Shadow. The dusty floorboards creaked under her feet. Theo came after her. He stayed close behind her. So close that she could feel his breath on her neck.
 
 The hallway was dim. On the left, the knocked-over furniture, the broken table. Everything just like the first time. Dust on every surface.
 
-But the air was different. The heaviness from last time was gone. That feeling of something pressing down on the apartment, like a hand on her chest. Nora could breathe more easily. Still, her fingers tingled.
+But the air was different. The heaviness from last time was gone. That feeling of something pressing down on the apartment, like a hand on her chest. Nora could breathe easier. Still, her fingers tingled.
 
-Shadow went ahead. He didn’t go to the room at the end of the hallway. Not to the cold room. He turned left, into a room Nora had barely noticed the first time. They had been running, after all.
+Shadow went ahead. He didn’t go to the room at the end of the hallway. Not to the cold room. He turned left, into a room Nora had barely noticed the first time. They had been too busy running.
 
 Nora followed him.
 
-The room was tiny. Maybe ten feet by twelve. The shutters were closed. Only a thin strip of afternoon light came through a gap. Specks of dust danced in the strip of light.
+The room was small. Maybe ten feet by twelve. The shutters were closed. Only a thin strip of afternoon light came through a gap. Specks of dust danced in the beam.
 
-On the wall across from the window: books. Stacks of books, right on the floor, leaning against the wall. Old covers, some leather, some brittle cardboard.
+There were books along the wall across from the window. Stacks of them, right on the floor, leaning against the wall. Old covers, some leather, some brittle cardboard.
 
 “What is all this?” Theo whispered.
 
@@ -84,7 +84,7 @@ Nora stepped closer. There was a small table next to the books, crowded with bur
 
 “Exactly. A witch’s study.”
 
-Nora stepped closer. Her eyes moved over the books. The titles were faded. She could read a few. “Gravenstedt: A Chronicle.” “Cemetery Register 1830–1900.” “The History of Kirchgasse.” Old books about the city: history books, local archives.
+Nora moved in closer. Her eyes moved over the books. The titles were faded. She could read a few. “Gravenstedt: A Chronicle.” “Cemetery Register 1830–1900.” “The History of Kirchgasse.” Old books about the city. History books and old city records.
 
 “Theo, come look—”
 
@@ -108,7 +108,7 @@ Theo raised his eyebrows. “I was ten feet away.”
 
 He set the glass down and nodded slowly. “Okay. Got it.”
 
-Something was hanging on the wall next to the bookshelf. Notes. Dozens of them. Pinned up with thumbtacks, in rows one above the other. Nora went closer and squinted.
+Next to the stacks of books, something was hanging on the wall. Notes. Dozens of them. Pinned up with thumbtacks, in rows up and down the wall. Nora went closer and squinted.
 
 Handwriting. Small and scrawly, in black ink. Each note had a name on it. Next to the name, a date. Some had an address. Some had a short sentence, barely readable.
 
@@ -116,7 +116,7 @@ Handwriting. Small and scrawly, in black ink. Each note had a name on it. Next t
 
 “Who writes stuff like that down?” Theo murmured behind her.
 
-Nora kept reading. Dozens of names. The oldest notes were yellowed, the ink almost invisible. Some went back as far as 1840.
+Nora kept reading. Dozens of names. The oldest notes were yellowed, the ink almost invisible. Some of the dates went back as far as 1840.
 
 “1840?” Theo repeated. “That’s almost two hundred years ago.”
 
@@ -130,13 +130,13 @@ Only the note at the very bottom looked different. The ink was blue instead of b
 
 No check mark. Just two question marks.
 
-Nora let her eyes move along the rows. Next to every name, a date. Always just one. No “born,” no “died.” Only a single day. And the longer she looked, the more something came together that she didn’t want to say out loud. A thought, cold and heavy, that settled in her stomach.
+Nora scanned the rows. Next to every name, a date. Always just one. No “born,” no “died.” Only a single day. And the longer she looked, the more something came together in her head. Something she didn’t want to say out loud. A thought, cold and heavy, that settled in her stomach.
 
 Theo stared at the wall. He shifted from one foot to the other. Then he said it.
 
 “It’s like a list of dead people.”
 
-Nora swallowed. Cold pressure spread through her chest. Of course. Of course that’s what it was. Not address books. Not phone lists. These were dead people.
+Nora swallowed. Cold pressure spread through her chest. Of course. Of course that’s what it was. Not an address book. Not a list of phone numbers. These were dead people.
 
 “But why?” Theo said. “Why would somebody write a list of dead people on the wall?”
 
@@ -172,7 +172,7 @@ He came over and looked over her shoulder. Then he went quiet.
 
 Nora nodded slowly. Her heart beat hard against her ribs. She looked at Shadow on the floor. The dog lifted his head and looked back at her.
 
-Not a coincidence, Nora thought. Not a coincidence outside our door. Not a coincidence on the stairs. He had come home.
+It was no accident, Nora thought. Not him showing up at our door. Not him on the stairs. He had come home.
 
 “That’s why he brought us here,” Nora said. “That’s why he waits by the stairs. This was his home.”
 
@@ -186,7 +186,7 @@ Mrs. Silber had done something in this apartment. Something with these names. So
 
 “What was she doing?” Nora murmured. “Why would somebody hang a list of dead people on the wall?”
 
-Theo stood up. He wiped his hands on his pants. “Maybe she was a historian. Or a genealogist.”
+Theo stood up. He wiped his hands on his pants. “Maybe she was a historian. Or one of those family-tree people.”
 
 “With candles?”
 
@@ -196,11 +196,11 @@ Theo stood up. He wiped his hands on his pants. “Maybe she was a historian. Or
 
 “Yes, I do. It means old and dusty. Like this place.”
 
-Nora snorted. Almost a laugh. Theo looked at her and grinned a lopsided grin. Even here, in an abandoned apartment full of dust and notes, he could almost make her laugh. Almost.
+Nora snorted. Almost a laugh. Theo looked at her with a lopsided grin. Even here, in an abandoned apartment full of dust and notes, he could almost make her laugh. Almost.
 
-Suddenly Shadow lifted his head. With a jerk. His hackles rose.
+Suddenly Shadow lifted his head. Sharply. His hackles rose.
 
-Nora’s smile vanished. Her skin tightened. She knew this sign. Shadow was the early warning system. When his hackles rose, something was coming.
+Nora’s smile vanished. Her skin tightened. She knew this sign. Shadow was their warning system. When his hackles rose, something was coming.
 
 The dog stared at the door. His ears stood straight up and forward. His body was tense, every muscle visible under the dark fur.
 

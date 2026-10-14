@@ -193,3 +193,86 @@ Bericht: Absätze 96 = 96 · Ein-Satz-Absätze 29 → 30 (keiner verloren) · Au
 8. **„sagte“ bei Fragen → *said*** (K5 *“But why?” Theo said.*, K6 *“Can I say something?” Theo muttered.*): regelkonform, bleibt ein mögliches TRANSLATED-Signal (wie in Block 1 gemeldet).
 9. **Absatz-Nummern für die Notizen** musste ich mit einem eigenen Hilfsskript ausgeben (Prüfskript-Zählung); die erste Fassung der K5-Notizen hatte ab Absatz 86 eine Verschiebung um eins. Vorschlag: `pruefe_en.py nummern DE EN` als Modus.
 10. **Zeitleiste im Original** (*jeden Morgen*, *seit dem Umzug*, *am Nachmittag* mit Mom schon zu Hause) — die Übersetzung trägt diese Unschärfen mit; für US-Leser, die genauer auf Wochentage/Schule im Juli achten (Block 1), fällt das eher auf als im Deutschen.
+
+---
+
+## Runde 2 (Block 2)
+
+Grundlage: `Pruefung/D3_K08.md`, `D4_K08.md`, `D5_K08.md`, `D6_K05-K08.md` (Teil K8), Pilot 5.1–5.3, Vorgaben 2–5 und 9 (Auftrag Runde 2).
+Abschn. 4 (*shadows*, *handy*) ist damit entschieden: Autor 2026-10-14 → Wortspiel *shadows / Shadow*; Skript meldet nur noch großes *Handy*.
+
+| Befund | Entscheidung | Grund (eine Zeile) |
+|---|---|---|
+| D4 #1 Z.183–185 Wortspiel *shadows / Shadow* | angenommen | Vorgabe 2: → *Shadows leaped across the walls, long and thin and trembling.* / *Shadow whined.* |
+| D2 selbst (Abschn. 4) *useful* → *handy* | angenommen | Vorgabe 3, meine Notiz: idiomatischer → *Never say I’m not handy.* / *You’re handy.* |
+| D5 #1 L7–11 Szene beginnt neu | abgelehnt | Struktur des Originals → Autorenliste. |
+| D5 #2 L13 *only stuck it on loosely* | angenommen | → *As if someone had barely glued it on.* |
+| D5 #3 L15 *No growling. No raised hackles.* (Tic) | abgelehnt | Vorgabe 9 geprüft: Schattens Code (A4) und Gleichlauf mit K4 *No whining, no hackles.*; hier kein Erzähl-Tic, sondern Signal. |
+| D5 #4 L25 *like skin peeling* | abgelehnt | Bild des Originals (Vorgabe). |
+| D5 #5 L27 *from top to bottom* | angenommen | → *It ran straight down, about a foot long.* |
+| D5 #6 L43 *sat … sat* | abgelehnt | beide Sätze im Original. |
+| D5 #7 L59–61 Werkzeug-Wechsel | abgelehnt | Logik des Originals (Vorgabe). |
+| D5 #8 L65 *dark apartment* (Tageszeit) | abgelehnt | Original → Autorenliste (K7). |
+| D5 #9 L111 *pushed down the handle* | angenommen | → *Nora went to the door and grabbed the handle.* |
+| D5 #10 L123 *light from the screen* | angenommen (Wortlaut) | → *In the phone’s light, …* — deckt *Display* und Absatz 60, ohne das Original zu „reparieren“. |
+| D5 #11 L133 *in Nora’s hand lay a book* | angenommen | → *And in Nora’s hand was a book.* |
+| D5 #12 L135 *closed tighter* nach *closed her fingers* | angenommen | → *Nora gripped it tighter.* |
+| D5 #13 L137 *tuning fork* | abgelehnt | konkretes Bild des Originals (5.1 Nr. 3); *buzzing phone* ist ein anderes Bild. |
+| D5 #14 L137–139 Bezug *Small.* | angenommen | Vorgabe 5: Reihenfolge bleibt, → *The book was small. Barely bigger than her palm.* |
+| D5 #15 *dull* ×4 | angenommen | L5 → *a dim glow*, L167 → *in the dim light from the ceiling*; *dull thud/clunk* (Geräusche) bleiben. |
+| D5 #16 L173 *stiff with tension* | angenommen | → *Nora’s fingers were stiff as she turned the first page.* |
+| D5 #17 L179 *it turned cold* | angenommen | Kapitelende, Wirkung zuerst (5.1 Nr. 2): → *And right at that moment, the room went cold.* (eigener Absatz, ein Satz). |
+| D5 #18 L181 *Not creeping in.* | angenommen | → *Not slowly. Not bit by bit. All at once.* |
+| D5 Urteil „schärferes Ende“ | abgelehnt | Kapitelende des Originals (A7). |
+| D3 #1 Tageszeit | abgelehnt | Original. |
+| D3 #4 *ghost dog* | angenommen | Vorgabe 4: → *Not because their ghost-sniffing dog orders them to.* |
+| D3 #5 *skin peeling* | abgelehnt | Original (Vorgabe). |
+| D3 #6 *top to bottom* | angenommen | wie D5 #5. |
+| D3 #9 Papa | abgelehnt | Original (Wortliste: nichts dazu). |
+| D3 #10 Karton KELLER in der Abstellkammer | abgelehnt | Original; *the box labeled BASEMENT* fest (Wortliste). |
+| D3 #16 Weg von der Tür zur Wand fehlt | abgelehnt | Original. |
+| D3 #17 Taschenlampe vs. Bildschirm | angenommen | wie D5 #10. |
+| D3 #19 *Small.* ohne Subjekt | angenommen | Vorgabe 5. |
+| D3 #20 *dark shapes* = Wesen? | angenommen | Vorgabe 2: beide Stellen → *shadows* (Absatz 69 *But the shadows on the wall twitched …*, Absatz 92 *Shadows leaped …*). |
+| D3 #23 gefunden werden / nie gefunden | abgelehnt | gewollte offene Frage (A7). |
+| D3 #25 12. März / 14. März | abgelehnt | Original; vermutlich gewollt → Hinweis an Autor. |
+| D3 ohne Handlungsbedarf | — | #2, #3, #7, #8, #11, #12, #13, #14, #15, #18, #21, #22, #24, #26 — nicht gezählt. |
+| D6 skim 27–45 | abgelehnt | Struktur des Originals. |
+| D6 skim/Durcheinander 113–139 | angenommen | über Vorgabe 5 (*The book was small.*) und *phone’s light*. |
+| D6 *mortar*, *bricked this up* | abgelehnt | Wortliste (*brick up*, B4-Titel); Nora erklärt es. |
+| D6 *redecorate* | abgelehnt | Theo-Wort, Zusammenhang klärt. |
+| D6 *nook*, *hollow* (Nomen) | angenommen | → *A small space, …* / *Someone had built it into the wall …* / *reached into the hole*. |
+| D6 *tuning fork*, *temples* | abgelehnt | wie D5 #13. |
+| D6 *croak*, *appreciation*, *decades* | abgelehnt | Zusammenhang klärt; *appreciation* trägt Theos Witz. |
+| D6 Witz *ghost dog* | angenommen | Vorgabe 4. |
+| D6 silly Mom schläft | abgelehnt | Original (Wortliste *like a rock*). |
+| D6 silly *skin peeling* | abgelehnt | Original (Vorgabe). |
+| D6 silly Flackern zweimal | abgelehnt | beide Stellen im Original (Steigerung). |
+| D6 Papas Werkzeugkasten / Wechsel 59–61 | abgelehnt | Original (Vorgabe). |
+| D6 Reihenfolge 133–139 | angenommen | Vorgabe 5 (Reihenfolge bleibt, Subjekt klar). |
+| D6 *dark shapes* = Kreaturen? | angenommen | Vorgabe 2. |
+| D6 165 vs. 169 | abgelehnt | gewollt offen (A7). |
+| D6 119 vs. 123 Licht | angenommen | wie D5 #10. |
+| D6 Vorlesen *shone her phone’s light into the hole* | angenommen | → *Nora pointed her phone’s light into the hole.* |
+| D6 Vorlesen *tuning fork* | abgelehnt | wie D5 #13. |
+| D6 Vorlesen *Small.* ohne Bezug | angenommen | Vorgabe 5. |
+| D6 Vorlesen zwei Flacker-Stellen | abgelehnt | Original. |
+| D6 Vorlesen „Wörter wie Shadow“ | angenommen | Vorgabe 2 (*shadows* bewusst, nur K8). |
+
+**Zählung K8:** D2 (eigene Notiz) 1 angenommen · D3 5 / 7 · D4 1 / 0 · D5 11 / 8 · D6 9 / 12.
+
+**Gegenprobe (nur Bedeutung, jeder geänderte Satz gegen DE):** 19 Stellen. **Abweichung gefunden und behoben:** *Someone had built this
+little space into the wall* (nach dem Ersatz für *nook*) wiederholte *space* aus dem Satz davor und klang wie ein zweiter Raum → *Someone
+had built it into the wall on purpose.* (DE *diese Nische*). Grenzfälle, belassen: *ghost-sniffing dog* (DE *Geisterhund* ist im
+Deutschen genauso offen; Autor-Vorgabe 4), *the room went cold* (DE *wurde es kalt* — unpersönlich, *the room* ist der Ort der Kälte),
+*stiff as she turned* (DE *steif vor Anspannung* — die Anspannung trägt der Zusammenhang), *grabbed the handle* (DE *drückte die Klinke*),
+*In the phone’s light* (DE *Im Licht des Displays*).
+
+**Prüfskript:** 0 Befunde (kleines *shadow* in K8 freigegeben) · Absätze gleich. **konsistenz:** keine neue Abweichung aus K8
+(*No growling / No whining* ↔ K5 bewusst, Abschn. 8). **Wortliste:** Zeile K8 *Schatten als Wort* auf den jetzigen Wortlaut gebracht.
+
+**An den Autor (Original, nicht korrigiert):** (1) Absatz 2–6: Theo fragt *„Was hat er? … Warum kratzt er an der Wand?“*, obwohl K7 mit
+Noras *„Da ist etwas hinter der Wand“* endet — die Szene beginnt neu (D5 #1). (2) Absatz 33 *„durch die dunkle Wohnung“* — K7 spielt am
+Nachmittag im Sommer; kein Zeitsprung im Text (D3, D5). (3) Absatz 88 *12. März 1974* vs. Frau Silber vermisst *seit dem 14. März* (K6) —
+falls Zufall, bitte prüfen; falls Absicht, gut so (D3 #25). (4) Absatz 60/62 *leuchtete mit dem Handy* / *Im Licht des Displays* —
+klein; EN mit *the phone’s light* neutral gelöst.
