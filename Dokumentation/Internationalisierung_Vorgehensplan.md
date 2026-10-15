@@ -545,3 +545,13 @@ Block 1 Auswertung + US-Leser, am Ende Gesamtdurchgang. Stand: `Band1/Manuskript
 
 **Parallel (Autor):** Upload Band 1 DE (QR-Code, Seitenzahl/Cover), danach Prüfpunkt 1 wie geplant. Dann Phase B (Band 1 DE
 einfrieren) → Prüfpunkt 1 → Phase D. Bis dahin: A7 für die übrigen Kapitel von Band 1, A9.
+
+**Stand 2026-10-15 — Band 1 EN übersetzt** (Details: `Band1/Manuskript_EN/README.md`, Auswertungen Block 1–4):
+16 Kapitel, Skript 0 Befunde, D4 0 offene Fehler, US-Lektor in der letzten Runde bei 13 von 16 Kapiteln
+„nicht übersetzt" (K2, K6, K10 mit Meldung). Rahmen (Titelei, Impressum, Leseprobe Book 2) fertig; eBook EN baut
+mit Selbstprüfung (`Scripts/build_ebook_en_band1.py`). Nebenbei im deutschen Band 1 korrigiert: 7 Folgefunde
+(Fundliste F–H), festes Inhaltsverzeichnis im eBook; Band 2 Kap. 1 Zeitangaben.
+**Offen bis zur Abnahme Band 1 (Phase D):** A9 US-Zielwerte (Lesbarkeits-Korridor) und D8 Nachanalyse
+(v. a. D8.3 Stimmen, D8.4 Kapitelenden, D8.5 Witze — vier Übersetzer-Durchgänge, Stimmen nie blockübergreifend geprüft).
+**Offen für Phase E:** A10 Titelprüfung → Cover EN → Taschenbuch EN, KDP-Texte (neu geschrieben), KI-Angabe im Dashboard,
+Rezensions-Link nach Veröffentlichung.
