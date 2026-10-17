@@ -487,9 +487,24 @@ def pruefe(doc, content):
     return kapitel
 
 
+KOMPLETT = os.path.join(EN, "The_Whispering_Window_Komplett.md")
+
+
+def komplett_schreiben(content):
+    """Gesamtfassung aus den Kapiteldateien neu schreiben — sie darf nie von ihnen abweichen
+    (vorher von Hand gepflegt und dabei zweimal veraltet)."""
+    alt = open(KOMPLETT, encoding="utf-8").read() if os.path.exists(KOMPLETT) else ""
+    kopf = alt[:alt.index("# Chapter 1:")] if "# Chapter 1:" in alt else "# The Ghost Listeners\n\n## Book 1: The Whispering Window\n\n"
+    neu = kopf + content + "\n"
+    if neu != alt:
+        open(KOMPLETT, "w", encoding="utf-8").write(neu)
+        print("  Gesamtfassung aktualisiert:", os.path.relpath(KOMPLETT, ROOT))
+
+
 def main():
     r = rahmen()
     content = kapitel_text()
+    komplett_schreiben(content)
     doc = Document()
     s = doc.sections[0]
     s.top_margin = s.bottom_margin = s.left_margin = s.right_margin = Cm(2)

@@ -184,3 +184,7 @@ Grundlage: `Pruefung/D3_K12.md`, `D4_K12.md`, `D5_K12.md`, `D6_K09-K12.md` (Teil
 **Prüfskript:** 0 Befunde (Thump-Regel jetzt erfüllt). **konsistenz:** keine neue Abweichung aus K12.
 
 **An den Autor (Original, nicht korrigiert):** (1) Z.83 Woher weiß Theo, dass Noras Zimmer Linas war? (D6). (2) Z.75 *„Aber nur für sich“* — in K9 las Nora laut vor und sagte schon *„Wir haben dich gehört, Lina“*; nur *„In ihrem Zimmer“* (Z.81) unterscheidet (D6). (3) Z.199 *OBEN* wiederholt den Pfeil nach oben aus K4 (D6). (4) Hunde-Code K11 (*knurrt = wütend*) vs. Knurren bei Lina Z.21/55 (D6).
+
+## D8
+
+- Letzte Zeile (D8.4): *His tail swished across the floor once.* → *His tail tapped the floor once.* — DE *schlug einmal auf den Boden*; gleiches Verb wie K14 (einzelner Schlag), kein Warnsignal (A7). Wortliste angepasst.

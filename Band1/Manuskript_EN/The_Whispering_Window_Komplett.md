@@ -1310,7 +1310,7 @@ Nora nodded. Her fingers dug into the edge of the table.
 
 Nora thought of Shadow outside on the sidewalk. The way he had stared down the street. Trembling.
 
-He hadn’t been staring just anywhere.
+Not just anywhere.
 
 Home.
 
@@ -1438,7 +1438,7 @@ Nora’s eyes burned. She blinked. Once. Twice.
 
 “We won’t forget you,” she whispered.
 
-The words stayed on the window. Silent. Still. Like an echo from long ago.
+The words stayed on the window. Silent. Still. Like an echo from another time.
 
 Theo came and stood next to her. His arm touched hers. He didn’t say anything. He just stood there. Sometimes that was enough.
 
@@ -2150,7 +2150,7 @@ He held up his hands. “I am looking.”
 
 Nora pulled open the desk drawers. Pens. Candles. Loose notes. Nothing that helped.
 
-Theo was kneeling in front of the stacks of books. He pulled books out and pushed them back in. “Gravenstedt City History. Cemeteries of Northern Germany.” He paused. “Mrs. Silber had really creepy hobbies.” He held up a book. “*Conversations with the Beyond*. She had a direct line.”
+Theo was kneeling in front of the stacks of books. He pulled books out and pushed them back in. “Gravenstedt City History. Cemeteries of Northern Germany.” He paused. “Mrs. Silber had really creepy hobbies.” He held up a book. “*Conversations with the Beyond*. She had a hotline.”
 
 “Focus.”
 
@@ -2468,7 +2468,7 @@ Nora didn’t answer. She held on tight to the diary and stared at the words in 
 
 THANK YOU. UP.
 
-Shadow lifted his head. His eyes went to the ceiling. His tail swished across the floor once. Then he was still again.
+Shadow lifted his head. His eyes went to the ceiling. His tail tapped the floor once. Then he was still again.
 
 # Chapter 13: The Release
 
@@ -2874,7 +2874,7 @@ As if he had recognized something.
 
 That was almost worse than growling.
 
-Nora looked at the board under the sink. At the dust in front of it. A thick gray layer. There were only two sets of marks in it. The ones from Shadow’s nose. And her own fingerprints from earlier.
+Nora looked at the board under the sink. At the dust in front of it. A thick gray layer. Only two sets of marks in it. One from Shadow’s nose. And her own fingerprints from earlier.
 
 Nothing else. Nobody had opened the hiding place. Not for months.
 
@@ -3054,7 +3054,7 @@ Shadow lifted his head. But he didn’t look at Nora. He looked at the apartment
 
 Then he stood up. He padded to the door and scratched at it once. He looked back. Waiting.
 
-“Not upstairs again,” Theo groaned. “We already went up there today. We went to a cemetery. I have a ghost finger.”
+“Not upstairs again,” Theo groaned. “We already went up there today. We went to a cemetery. I’ve got a ghost finger.”
 
 Shadow scratched again.
 

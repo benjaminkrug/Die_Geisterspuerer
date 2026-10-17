@@ -122,7 +122,7 @@ Nora’s eyes burned. She blinked. Once. Twice.
 
 “We won’t forget you,” she whispered.
 
-The words stayed on the window. Silent. Still. Like an echo from long ago.
+The words stayed on the window. Silent. Still. Like an echo from another time.
 
 Theo came and stood next to her. His arm touched hers. He didn’t say anything. He just stood there. Sometimes that was enough.
 

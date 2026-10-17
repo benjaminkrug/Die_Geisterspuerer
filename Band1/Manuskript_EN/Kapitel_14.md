@@ -174,7 +174,7 @@ As if he had recognized something.
 
 That was almost worse than growling.
 
-Nora looked at the board under the sink. At the dust in front of it. A thick gray layer. There were only two sets of marks in it. The ones from Shadow’s nose. And her own fingerprints from earlier.
+Nora looked at the board under the sink. At the dust in front of it. A thick gray layer. Only two sets of marks in it. One from Shadow’s nose. And her own fingerprints from earlier.
 
 Nothing else. Nobody had opened the hiding place. Not for months.
 

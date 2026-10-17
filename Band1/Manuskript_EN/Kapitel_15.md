@@ -172,7 +172,7 @@ Shadow lifted his head. But he didn’t look at Nora. He looked at the apartment
 
 Then he stood up. He padded to the door and scratched at it once. He looked back. Waiting.
 
-“Not upstairs again,” Theo groaned. “We already went up there today. We went to a cemetery. I have a ghost finger.”
+“Not upstairs again,” Theo groaned. “We already went up there today. We went to a cemetery. I’ve got a ghost finger.”
 
 Shadow scratched again.
 

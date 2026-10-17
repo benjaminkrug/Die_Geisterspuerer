@@ -94,7 +94,7 @@ He held up his hands. “I am looking.”
 
 Nora pulled open the desk drawers. Pens. Candles. Loose notes. Nothing that helped.
 
-Theo was kneeling in front of the stacks of books. He pulled books out and pushed them back in. “Gravenstedt City History. Cemeteries of Northern Germany.” He paused. “Mrs. Silber had really creepy hobbies.” He held up a book. “*Conversations with the Beyond*. She had a direct line.”
+Theo was kneeling in front of the stacks of books. He pulled books out and pushed them back in. “Gravenstedt City History. Cemeteries of Northern Germany.” He paused. “Mrs. Silber had really creepy hobbies.” He held up a book. “*Conversations with the Beyond*. She had a hotline.”
 
 “Focus.”
 

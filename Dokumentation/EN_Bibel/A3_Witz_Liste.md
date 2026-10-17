@@ -44,7 +44,7 @@ bei der Übersetzung abgehakt werden können. Englische Vorschläge sind **vorl�
 | W1-12 | K6 | „Mikrofiche." – „Gesundheit." | E | Ü! | *“Microfiche.” – “Bless you.”* | **Bewusst wörtlich** — Beispiel gegen Überübersetzen (F7) |
 | W1-13 | K8 | „Drei sehr lange, sehr dunkle Meter." | C | U | *“Ten very long, very dark feet.”* | Maß — *ten feet* behält den Rhythmus |
 | W1-14 | K10 | „Ich bin die Nachhut. Sehr wichtige Aufgabe." | E | U | *“I'm the rear guard. Very important job.”* | militärisches Wort, aber kindlich verständlich |
-| W1-15 | K11 | „Gespräche mit dem Jenseits. Die hatte eine Standleitung." | E | U | *“*Conversations with the Beyond*. She had a direct line.”* | *Standleitung* → *direct line* / *hotline* |
+| W1-15 | K11 | „Gespräche mit dem Jenseits. Die hatte eine Standleitung." | E | U | *“*Conversations with the Beyond*. She had a hotline.”* | *Standleitung* → *direct line* / *hotline* |
 | W1-16 | K14 | „… mit elf graue Haare." – „Du bist zehn." – „Eben. Ein Jahr noch." | C | Ü | *“… I'll have gray hair by eleven.” – “You're ten.” – “Exactly. One year left.”* | übertragbar, aber Rechenwitz genau prüfen |
 | W1-17 | K14 | Theos Geister-Lebenslauf: „Geisterbefreiung. Zusammenarbeit mit übernatürlichem Hund. Erfahrung im Tagebuch-Vorlesen bei Minusgraden." | W/R | U | *“Ghost release. Teamwork with supernatural dog. Experience reading diaries aloud in subzero temperatures.”* | **R** zu W1-10 („Toller Lebenslauf"); *Minusgrade* → *subzero* (passt auch zu °F) |
 | W1-18 | K15 | „Wütend Punkt Grab Punkt." | E | U | *“Angry period. Grave period.”* | liest Satzzeichen mit (F17); verlangt, dass Register R5 genau *Angry. Grave.* lautet |

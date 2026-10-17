@@ -278,3 +278,7 @@ vorfinden* = niemand da); *of her own free will* (*freiwillig*); *daughter of Mr
 *after an accident* (*an den Folgen eines Unfalls*); *That was the hard part.* (*Genau das machte es so schwer.*).
 
 **Prüfskript:** `pruefen` K6 0 Befunde; `konsistenz` unverändert (5 Stellen wie vorher, keine neue).
+
+## D8
+
+- Kapitelende (D8.4): *He hadn’t been staring just anywhere.* → *Not just anywhere.* — DE *Nicht irgendwohin. / Nach Hause.* zwei Fragmente; schließt direkt an *Wie er die Straße hinuntergestarrt hatte. Zitternd.* an, *Home.* bleibt.

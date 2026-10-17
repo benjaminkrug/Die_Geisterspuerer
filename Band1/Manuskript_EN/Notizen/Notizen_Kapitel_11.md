@@ -181,3 +181,7 @@ Grundlage: `Pruefung/D3_K11.md`, `D4_K11.md`, `D5_K11.md`, `D6_K09-K12.md` (Teil
 **An den Autor (Original, nicht korrigiert):** (1) Z.113 Silbers Schrift *„Eng, sauber, altmodisch“* — K5 (Z.113/155) nennt sie klein und krakelig (D6). (2) Z.81 Tür *„einen Spalt offen. Wie immer.“* — in K3 war sie fest zu (D6). (3) Z.121 *„Jede Seite war voll. Keine leere Stelle.“* ↔ Z.169 *„Leere Seiten“* (D3, D5). (4) Z.141 Hunde-Code *knurrt = wütend*, in K12 knurrt Schatten bei Lina, die BITTE schreibt (D6). (5) Kellertür oben/unten (s. K10).
 
 **Runde 3 (Block 3):** Z.135 *…when someone truly sees that.* → *…when someone truly understands that.* (*begreift*; Schlüsselwortkette *versteht/versteht/begreift* bleibt hörbar, *sees* war als „Geister sehen“ lesbar). Prüfskript 0, konsistenz unverändert.
+
+## D8
+
+- Z.97 (D8.5, W1-15): *She had a direct line.* → *She had a hotline.* — *Standleitung*; *direct line* fiel für US-Kinder flach. A3 + Wortliste angepasst.

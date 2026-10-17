@@ -214,3 +214,7 @@ zurückgenommen; danach keine Abweichung aus K7.
 **An den Autor (Original, nicht korrigiert):** Absatz 32 *„Sie hatte dieses Haus seit gestern immer wieder angeschaut.“* — liest sich, als
 wären sie gestern eingezogen; K4 (Schulbeginn) und K8 *seit dem Umzug* sprechen für mehr Zeit (D3 #8, D5 #6). Mom/Bett, Glas: wie
 bekannt, bleibt.
+
+## D8
+
+- Z.125 (D8.2 Stichentscheid): *Like an echo from long ago.* → *Like an echo from another time.* — DE *Wie ein Echo aus einer anderen Zeit.*

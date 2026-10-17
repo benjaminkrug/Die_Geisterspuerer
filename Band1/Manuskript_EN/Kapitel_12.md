@@ -206,4 +206,4 @@ Nora didn’t answer. She held on tight to the diary and stared at the words in 
 
 THANK YOU. UP.
 
-Shadow lifted his head. His eyes went to the ceiling. His tail swished across the floor once. Then he was still again.
+Shadow lifted his head. His eyes went to the ceiling. His tail tapped the floor once. Then he was still again.

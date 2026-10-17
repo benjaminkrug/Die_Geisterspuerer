@@ -149,3 +149,7 @@ Grundlage: `Pruefung/D5_K14_K15_Endkontrolle.md` (unabhängiger US-Lektor), Auft
 
 **Prüfskript:** 0 Befunde. **konsistenz:** unverändert (6 Stellen).
 - Z.163 Nachtrag nach Gegenprobe (Projektleitung): *until earlier today* → *until just a little while ago* — *Bis vorhin* meint denselben Besuch; *earlier today* dehnte es auf Stunden und schwächte das Rätsel der nassen Tinte (Fehler in meiner Vorgabe).
+
+## D8
+
+- Kapitelende (D8.4): *There were only two sets of marks in it. The ones from Shadow’s nose. And her own fingerprints from earlier.* → *Only two sets of marks in it. One from Shadow’s nose. And her own fingerprints from earlier.* — DE-Stakkato *Darin nur zwei Spuren. Schattens Nase. Und ihre eigenen Finger von vorhin.*; kein Satzanfang *Shadow’s* (Vorleseregel).

@@ -15,7 +15,7 @@
 |---|---|---|
 | Klopf. Klopf. Klopf. | **Thump. Thump. Thump.** · Substantiv *the knocking* | Autor 2026-10-13 (*Knock* = „Who's there?") |
 | Klingelschild | **nameplate** | zwei US-Lektoren |
-| Schwanz schlug (auf den Boden) | **swished** — **nie** *thumped* (*thumped/thump* gehört nur dem Klopfen): K1 *His tail swished slowly across the stone.* · K2 *… across the floor.* · K12 *His tail swished across the floor once.* · **Ausnahme K14** *klopfte einmal* (Kreuz) → *His tail tapped the floor once.* (D4 Block 4, Autor-Vorgabe: einzelner bewusster Schlag = Wiedererkennen) | D4 Block 3: sonst wirkt Schatten wie der Klopfer (K2: Schwanz *One. Two.*, kurz danach das Klopfen); Skript prüft |
+| Schwanz schlug (auf den Boden) | langsames Wedeln **swished**, einzelner Schlag **tapped** — **nie** *thumped* (*thumped/thump* gehört nur dem Klopfen): K1 *His tail swished slowly across the stone.* · K2 *… across the floor.* · K12 *schlug einmal* → *His tail tapped the floor once.* (D8.4) · K14 *klopfte einmal* (Kreuz) → *His tail tapped the floor once.* (D4 Block 4, Autor-Vorgabe: einzelner bewusster Schlag = Wiedererkennen) | D4 Block 3: sonst wirkt Schatten wie der Klopfer (K2: Schwanz *One. Two.*, kurz danach das Klopfen); Skript prüft |
 | *schatten* als Wort (nicht der Hund) | **nie** *shadow* klein — *shape*, *darkness*, *silhouette*; Ausnahmen nur die bewussten Wortspiele K8 (*Shadows leaped across the walls … / Shadow whined.*) und K12 (*“A shadow. But not our Shadow.”*) | Vorlesen: klingt wie der Hund; K8 Autor 2026-10-14 (*dark shapes* klang nach Wesen) |
 | Erster Schultag | **first day at the new school** | US: „first day of school" = Schuljahresbeginn |
 | Kakao | **chocolate milk** (Sommerfrühstück, K3) · **hot chocolate** (warm, z. B. K12 *„heißen Kakao. Mit Marshmallows."*) | nach Zusammenhang |
@@ -112,7 +112,7 @@
 | Er wartet nicht. Er sucht. / Der Erste. Der sucht. | *He is not waiting. He is searching.* / *The First One. He’s searching.* | K11 | K16 |
 | Er war mein Kompass. Vierzig Jahre lang. | *He was my compass. For forty years.* | K11 | K13 (*Vierzig Jahre lang.* 2× → *For forty years.*), K14 (*vierzig Jahre lang* → *for forty years*), K16 — nie *for years* |
 | Befreiung | *release* (*Every release was written down.*) | K11 | K13 Titel *Die Befreiung*, K14 W1-17 Ausnahme *Freeing ghosts.* (Endkontrolle: *Ghost release* klang nach Produkt/Entlassung) — sonst ein Wort für die Reihe |
-| *Gespräche mit dem Jenseits* · Standleitung | *Conversations with the Beyond* · *She had a direct line.* | K11 | — (W1-15) |
+| *Gespräche mit dem Jenseits* · Standleitung | *Conversations with the Beyond* · *She had a hotline.* | K11 | — (W1-15; D8.5: *direct line* fiel für US-Kinder flach) |
 | Zur letzten Tür. Zum kalten Zimmer. | *Toward the last door. Toward the cold room.* | K11 | K13 (*the cold room*, Schatten legt sich hinein) |
 | Schatten bellte. | *Shadow barked.* | K12 | ← K1 *He didn’t bark.*, K6 *bark.* |
 | Fensterwörter K12 (mit Punkt, je eigene Zeile) | *DIARY.* · *READ.* · *PLEASE.* · *DON’T FORGET.* · *THANK YOU.* · *UP.* · Fließtext *THANK YOU. UP.* | K12 | K13 (*Daneben stand noch immer das andere Wort: DANKE.* → *THANK YOU* ist **zwei** englische Wörter: nicht „das Wort“ zählen, z. B. *the other message* / *the other words*), K16 (*Danke* → *Thank you*, Theo *Like Lina. At the window.*) |
@@ -125,7 +125,7 @@
 | Die Kälte wich. | *The cold gave way.* · *the cold gave way a little more* | K12 | B3 K15 (A4, wortgleich) |
 | Sie hat zugehört. Die ganze Zeit. | *She was listening. The whole time.* | K12 | Reihenthema Zuhören (*listen*) |
 | um drei Uhr nachts | *at three in the morning* | K12 | A7 Zeitlinie (K12 *drei Uhr nachts*) |
-| Schwanz schlug einmal auf den Boden | *His tail swished across the floor once.* | K12 | ← K2 *His tail swished slowly across the floor.* — freundlich, kein Warnsignal (A7) |
+| Schwanz schlug einmal auf den Boden | *His tail tapped the floor once.* | K12 | = K14 einzelner Schlag (D8.4); K1/K2 *swished* = langsames Wedeln — freundlich, kein Warnsignal (A7) |
 | metallischer Geschmack (Autor: ohne Blut) | *There was a metallic taste on her tongue. Like coins.* (K5) · *… Like old coins.* (K10) | K5 | K10 — **kein** *blood* (DE 2026-10-14 gestrichen) |
 | Bücherstapel (Silbers Arbeitszimmer) | *the stacks of books* | K5 | K11 (*kneeling in front of the stacks of books*) — nie *bookshelf* |
 | Nur noch X. / Nur X. (Stille-Takt) | *Nothing but the dripping.* (K10) · *The only sound was Shadow breathing.* (K11) · *Nothing but the ticking of the kitchen clock.* (K12) | K10 | D5 Block 3: nacktes *Only …* klang übersetzt; D6: nie *Shadow’s* + Substantiv am Satzanfang (klingt wie *shadows*) |
@@ -142,7 +142,7 @@
 | Chronik-Zitat | *Gravenstedt was founded in 1823 by Alwin Graven.* · *The city archives were lost in a fire in 1871.* · K16 *In 1823.* | K14 | K16, B5 |
 | Praktisch. (Theo) | *“How convenient,” Theo said dryly.* (Block 4, D5/D6) | K14 | — |
 | Kreuz über Linas Kreis | *crossed out* · *Two lines, in an X.* · *the X* · *the ink was wet* | K14 | B2 K1, Serienmotiv frische Tinte (A4 *still wet* für *noch feucht*) |
-| Schwanz klopfte einmal auf den Boden (am Kreuz) | *His tail tapped the floor once.* | K14 | Block 4 (D4, Autor): DE *klopfte* ≠ K12 *schlug*; nie *thumped* |
+| Schwanz klopfte einmal auf den Boden (am Kreuz) | *His tail tapped the floor once.* | K14 | Block 4 (D4, Autor); seit D8.4 gleiches Verb wie K12 (einzelner Schlag); nie *thumped* |
 | Als hätte er etwas wiedererkannt. | *As if he had recognized something.* | K14 | B4 (Silber) — nicht verstärken |
 | Seit Monaten nicht. | *Not for months.* | K14 | ← K6/K7 *for months* |
 | Geisterfinger / Geistertinte | *ghost finger* · *Ghost ink.* | K15 | — |

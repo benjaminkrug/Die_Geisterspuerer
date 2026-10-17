@@ -218,6 +218,6 @@ Nora nodded. Her fingers dug into the edge of the table.
 
 Nora thought of Shadow outside on the sidewalk. The way he had stared down the street. Trembling.
 
-He hadn’t been staring just anywhere.
+Not just anywhere.
 
 Home.

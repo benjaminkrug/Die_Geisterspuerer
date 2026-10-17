@@ -184,3 +184,7 @@ Grundlage: `Pruefung/D5_K14_K15_Endkontrolle.md`, Auftrag des Koordinators: nur 
 
 **Prüfskript:** 0 Befunde. **konsistenz:** unverändert (6 Stellen).
 - Z.189 Gegenprobe-SCHWÄCHE *Closed* statt *Sealed* — **bleibt**: A7 verlangt das Wort *sealing wax* als Echo zu K14; *Sealed with red sealing wax* stolpert vorgelesen. Das unversehrte Siegel trägt *sealing wax* weiter.
+
+## D8
+
+- Z.175 (D8.3): *I have a ghost finger.* → *I’ve got a ghost finger.* — Rückgriff auf Theos eigenen Witz Z.5 (*Now I’ve got a ghost finger.*), DE wiederholt *Ich habe (jetzt) einen Geisterfinger* fast wörtlich.
