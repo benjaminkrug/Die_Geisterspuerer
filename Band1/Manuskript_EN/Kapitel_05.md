@@ -84,7 +84,7 @@ Nora stepped closer. There was a small table next to the books, crowded with bur
 
 “Exactly. A witch’s study.”
 
-Nora moved in closer. Her eyes moved over the books. The titles were faded. She could read a few. “Gravenstedt: A Chronicle.” “Cemetery Register 1830–1900.” “The History of Kirchgasse.” Old books about the city. History books and old city records.
+Nora moved in closer. Her eyes ran over the books. The titles were faded. She could read a few. “Gravenstedt: A Chronicle.” “Cemetery Register 1830–1900.” “The History of Kirchgasse.” Old books about the city. History books and old city records.
 
 “Theo, come look—”
 

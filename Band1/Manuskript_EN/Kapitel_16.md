@@ -150,7 +150,7 @@ A little later, a murmur came from his room. “… need … bigger flashlight �
 
 ---
 
-She got up and went to the desk. She went to roll up the map.
+She got up and went to the desk to roll up the map.
 
 Shadow lifted his head.
 

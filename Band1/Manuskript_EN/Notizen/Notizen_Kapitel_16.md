@@ -194,3 +194,6 @@ Anforderungen (D4 + D5): kein Uhrzeiger; die **Berührung** von *läge* (Hand fl
 
 **Gegenprobe (nur Bedeutung, 5 Sätze):** *Right then … another hand were lying flat against the other side* = *als läge auf der anderen Seite gerade eine zweite Hand* (*flat* macht das Liegen sichtbar, kein Zusatz an Inhalt) · *It is still the same for me* = *So geht es mir bis heute* · *in the dim room* = *im Halbdunkel* (Raum = ihr Zimmer, aus dem Zusammenhang) · *She wrote about him in the notebook* = *Im Notizbuch hat sie über ihn geschrieben* · *spread out in the dark* = *lag bei Nacht*. Keine Abweichung.
 **Prüfskript:** 0 Befunde. **konsistenz:** unverändert (6 Stellen). **Wortliste:** Zeile Buchschluss aktualisiert.
+
+## D8.6
+- D8.6 (Projektleitung): *She got up and went to the desk. She went to roll up the map.* → ein Satz (*went* zweimal); DE *Sie stand auf … Sie wollte die Karte zusammenrollen* — Absicht bleibt erhalten.

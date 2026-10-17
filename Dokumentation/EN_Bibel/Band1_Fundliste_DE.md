@@ -136,3 +136,11 @@ Vom Übersetzer gemeldet, klein, **bewusst nicht** in die Fundliste: K10 Fahrrä
 
 Geprüft, **Absicht**: K16 Schatten *winselt* beim wütenden Heinrich (*Er knurrte nicht. Er winselte.* — bewusster Bruch mit R44, Band-2-Haken) · Luna = Schatten (Reihen-Geheimnis). Klein, nicht vorgelegt: K13 Küchenfenster „am Ende des Flurs", K16 Nora am Fenster ↔ Mama auf der Bettkante, K14 Theo vor der Namensliste, K16 Kirchturm schlägt zweimal.
 
+## I · Aus der Nachanalyse D8.6 (Lesedurchgang am Stück, 2026-10-17) — klein, nur zur Kenntnis
+
+| # | Kap. | Befund | Einschätzung |
+|---|---|---|---|
+| I1 | K3 | Theo: *„Du sagst das jetzt zum dritten Mal"* — Nora hat *„Es gibt eine Erklärung"* bis dahin zweimal gesagt | als Theos Übertreibung lesbar; sonst *„zum zweiten Mal"* |
+| I2 | K8 → K9 | K8 endet mit Schatten an Noras Bein, K9 beginnt *„Schatten winselte neben Theo"* | klein; *„neben ihr"* |
+| I3 | K4 ↔ K7 | Küchenboden: Dielen (K4) ↔ Fliesen (K7) | klein |
+

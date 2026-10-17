@@ -2,7 +2,6 @@
 
 ## Book 1: The Whispering Window
 
-> Arbeitsfassung (Übersetzung fertig geprüft, 2026-10-14). Kein Rahmen (Titelei, Impressum, Anhang) — der kommt im Gesamtdurchgang.
 
 # Chapter 1: New City, Old House
 
@@ -940,7 +939,7 @@ Nora stepped closer. There was a small table next to the books, crowded with bur
 
 “Exactly. A witch’s study.”
 
-Nora moved in closer. Her eyes moved over the books. The titles were faded. She could read a few. “Gravenstedt: A Chronicle.” “Cemetery Register 1830–1900.” “The History of Kirchgasse.” Old books about the city. History books and old city records.
+Nora moved in closer. Her eyes ran over the books. The titles were faded. She could read a few. “Gravenstedt: A Chronicle.” “Cemetery Register 1830–1900.” “The History of Kirchgasse.” Old books about the city. History books and old city records.
 
 “Theo, come look—”
 
@@ -3230,7 +3229,7 @@ A little later, a murmur came from his room. “… need … bigger flashlight �
 
 ---
 
-She got up and went to the desk. She went to roll up the map.
+She got up and went to the desk to roll up the map.
 
 Shadow lifted his head.
 

@@ -269,3 +269,6 @@ Grenzfälle, belassen: *They had been too busy running* (DE *Sie waren ja gerann
 **An den Autor (Original, nicht korrigiert):** Absatz 105 *„Aus dem Flur. Hinter ihnen.“* — Schatten starrt zur Tür (Absatz 103), der Flur liegt also **vor** ihnen (D3 #20). Foto/Heizung wie bisher gemeldet.
 
 K5 · Block 3 (DE geändert, Autor: Blutvergleich gestrichen, *„Wie Münzen. Fremd und falsch.“*): *Like coins. Like blood when you bite the inside of your cheek. Strange and wrong.* → *Like coins. Strange and wrong.* — nur dieser Satz; Runde-2-Zeile „D6 silly *blood … cheek*“ damit gegenstandslos. Prüfskript 0 Befunde.
+
+## D8.6
+- D8.6 (Projektleitung): *Her eyes moved over the books* → *ran over* — *moved* zweimal hintereinander.
