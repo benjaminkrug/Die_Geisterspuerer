@@ -16,9 +16,9 @@ Nora drehte sich um. Theos Gesicht war blass im Lichtschein, aber seine Augen wa
 
 "Das Kind", sagte Theo. "Am Gitter. Was hat es gerufen?"
 
-"'Mama'."
+"‚Mama‘."
 
-"Genau. 'Mama'." Theo hob einen Finger. "Und gerade eben — die Frau. Was hat *sie* gerufen?"
+"Genau. ‚Mama‘." Theo hob einen Finger. "Und gerade eben — die Frau. Was hat *sie* gerufen?"
 
 Nora zögerte. "Jonas."
 
@@ -48,7 +48,7 @@ Sie wusste, was Theo da gerade gesagt hatte. Sie spürte, dass es Hand und Fuß 
 
 "Doch, ich—"
 
-"Nein, tust du nicht." Theos Stimme wurde lauter, hallte über den leeren Bahnsteig. "Du hast die Geschichte schon fertig. Du hast sie im Archiv fertiggebaut und jetzt soll alles reinpassen. Aber es passt nicht, Nora. Eine Frau ruft 'Jonas'. Das passt nicht in deine Geschichte."
+"Nein, tust du nicht." Theos Stimme wurde lauter, hallte über den leeren Bahnsteig. "Du hast die Geschichte schon fertig. Du hast sie im Archiv fertiggebaut und jetzt soll alles reinpassen. Aber es passt nicht, Nora. Eine Frau ruft ‚Jonas‘. Das passt nicht in deine Geschichte."
 
 Nora presste die Lippen zusammen. "Es ist nicht *meine* Geschichte. Es sind Fakten."
 

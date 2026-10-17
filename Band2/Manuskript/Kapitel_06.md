@@ -134,7 +134,7 @@ Sie sagte das nicht laut.
 
 "Aber Brenner hat Kopien angelegt."
 
-"Das klingt wie Brenner." Kloß sah zum ersten Mal so etwas wie Respekt. "Mein Urgroßvater hat ihn einmal als 'hartnäckiger Hund' beschrieben. Er hat es nicht freundlich gemeint. Ich glaube, es war das größte Kompliment, das jemand wie Brenner bekommen konnte."
+"Das klingt wie Brenner." Kloß sah zum ersten Mal so etwas wie Respekt. "Mein Urgroßvater hat ihn einmal als ‚hartnäckiger Hund‘ beschrieben. Er hat es nicht freundlich gemeint. Ich glaube, es war das größte Kompliment, das jemand wie Brenner bekommen konnte."
 
 ---
 

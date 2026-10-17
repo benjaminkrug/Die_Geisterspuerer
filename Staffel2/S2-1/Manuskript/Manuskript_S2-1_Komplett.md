@@ -3,7 +3,7 @@
 **Die Gebundenen · Band 1**
 Ein Grusel-Abenteuer für Kinder ab 12 Jahren
 Autor: Benjamin Krug
-Stand: 2026-08-09
+Stand: 2026-09-02
 
 ---
 

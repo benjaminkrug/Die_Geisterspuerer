@@ -20,17 +20,18 @@
 | # | Setup (Kapitel) | Payoff (Kapitel) | Status |
 |---|---|---|---|
 | 1 | Brandnarbe an Halders Hand (K1) | ⚠️ **Bewusst NICHT in S2-3 aufgelöst** — ihre Bedeutung (das Feuer) wird erst K12 erzählt, ihr voller Wahrheitsgehalt erst S2-5 | teils offen (Staffel-Faden) |
-| 2 | Mamas beiläufige Erwähnung "Herr Halder" (K2) | Löst Noras Erinnerung aus (K3) | geplant |
-| 3 | Name im S2-2-Gewerberegister-Eintrag (K3, Rückgriff) | Bestätigt: Halder = der Werkstatt-Verantwortliche (K4) | geplant |
-| 4 | Wagen mit Werkstattnamen vor dem Haus (K5) | Führt zu Frieda (K6) | geplant |
-| 5 | Vertrauter Blick zwischen Frieda und Halder (K6) | Wird zur ausgesprochenen Erkenntnis „sie ist seine Tochter" (K7) | geplant |
-| 6 | Entscheidung, ihm zu folgen statt zu konfrontieren (K8) | Führt zur temporären Unterkunft und Ilse (K9–K11) | geplant |
-| 7 | Bewegung hinter dem Fenster (K9) | Ilse wird sichtbar (K11) | geplant |
-| 8 | Halders wortloses Führen durch die Tür (K10, nach Fix) | Die Enthüllung Ilses (K11) | geplant |
-| 9 | „Seht ihr? Ihr geht es gut." (K11) | Wird direkt widerlegt durch Ilses Befreiung (K14–K15) | geplant |
-| 10 | Ilses „Er hat mich nie gefragt, ob ich bleiben will" (K13) | Grundlage für die Vergeben-Methode (K14) | geplant |
-| 11 | Halders Feuer-Erzählung als feste Überzeugung (K12) | ⚠️ **Bewusst NICHT aufgelöst** — Wahrheitsgehalt bleibt für S2-5 offen | bewusst offen (Staffel-Faden) |
-| 12 | „Jetzt weiß er, dass wir es wissen" (K16, Schlusssatz) | ⚠️ **Bewusst NICHT aufgelöst** — Konsequenz ist S2-4 vorbehalten | bewusst offen (Staffel-Faden) |
+| 2 | Mamas beiläufige Erwähnung "Herr Halder" (K2) | Löst Noras Erinnerung aus (K3) | ✅ geschrieben |
+| 3 | Name im S2-2-Gewerberegister-Eintrag (K3, Rückgriff) | Bestätigt: Halder = der Werkstatt-Verantwortliche (K4) | ✅ geschrieben |
+| 4 | Wagen mit Werkstattnamen vor dem Haus (K5) | Führt zu Frieda (K6) | ✅ geschrieben |
+| 5 | Vertrauter Blick zwischen Frieda und Halder (K6) | Wird zur ausgesprochenen Erkenntnis „sie ist seine Tochter" (K7) — extern durch Mama bestätigt | ✅ geschrieben |
+| 6 | Entscheidung, ihm zu folgen statt zu konfrontieren (K8) | Führt zur temporären Unterkunft und Ilse (K9–K11) | ✅ geschrieben |
+| — | **Neu (K8): Halder fährt nach Osten, weg von der Werkstatt** | Payoff K9: die Unterkunft ist NICHT die Werkstatt (Mechanik 5) | ✅ geschrieben |
+| 7 | Bewegung hinter dem Fenster (K9) | Ilse wird sichtbar (K11) | ✅ geschrieben |
+| 8 | Halders wortloses Führen durch die Tür (K10, nach Fix) | Die Enthüllung Ilses (K11) | ✅ geschrieben |
+| 9 | „Seht ihr? Ihr geht es gut." (K11) | Wird direkt widerlegt durch Ilses Befreiung (K14–K15) | ✅ vollständig — K15: Ilse geht, löst sich ruhig auf, kein Rückriss (sie war nie an ein Schloss gebunden, nur an Halders Festhalten) |
+| 10 | Ilses „Er hat mich nie gefragt, ob ich bleiben will" (K13) | Grundlage für die Vergeben-Methode (K14) | ✅ vollständig — K14 löst es ein (Nora: „Sie müssen es nicht mehr wissen, um zu gehen") |
+| 11 | Halders Feuer-Erzählung als feste Überzeugung (K12) | ⚠️ **Bewusst NICHT aufgelöst** — Wahrheitsgehalt bleibt für S2-5 offen | ✅ geschrieben (bewusst offen als Staffel-Faden) |
+| 12 | „Jetzt weiß er, dass wir es wissen" (K16, Schlusssatz) | ⚠️ **Bewusst NICHT aufgelöst** — Konsequenz ist S2-4 vorbehalten | ✅ geschrieben (bewusst offen als Staffel-Faden — Season-Hook, ENDE S2-3) |
 
 **Regel-Check:** Setup #1 ist ein Sonderfall — teilweise bezahlt (Bedeutung erklärt in K12),
 aber sein voller Wahrheitsgehalt bleibt staffelweit offen bis S2-5. Konsistent mit den

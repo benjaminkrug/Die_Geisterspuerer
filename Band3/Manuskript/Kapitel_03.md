@@ -126,7 +126,7 @@ Theo blätterte weiter, während Nora das Foto ansah.
 
 "Die Mutter?"
 
-"Steht nicht. Nur 'die Bahnwärterin'." Theo runzelte die Stirn. "Aber komisch — über die schreiben sie fast mehr als über den Jungen. Drei ganze Absätze. Was sie gesagt hat. Wie sie ausgesehen hat." Er sah hoch. "Wieso ist die so wichtig?"
+"Steht nicht. Nur ‚die Bahnwärterin‘." Theo runzelte die Stirn. "Aber komisch — über die schreiben sie fast mehr als über den Jungen. Drei ganze Absätze. Was sie gesagt hat. Wie sie ausgesehen hat." Er sah hoch. "Wieso ist die so wichtig?"
 
 "Weil sie ihn aus den Augen gelassen hat", sagte Nora, ohne aufzusehen. "Die geben ihr die Schuld."
 

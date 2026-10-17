@@ -1879,7 +1879,7 @@ Schatten seufzte, tief und zufrieden, und drückte die Schnauze fester gegen Nor
 
 "Er gehört jetzt uns", sagte Nora leise. "Silber hat ihn uns gegeben. Er hat sie sein ganzes Leben gesucht. Und jetzt bleibt er bei uns."
 
-"Bester geerbter Hund aller Zeiten." Theo sagte es leichthin, aber seine Stimme war belegt. "Auch wenn 'geerbt' ein trauriges Wort ist. Vergiss, dass ich 'geerbt' gesagt hab."
+"Bester geerbter Hund aller Zeiten." Theo sagte es leichthin, aber seine Stimme war belegt. "Auch wenn ‚geerbt‘ ein trauriges Wort ist. Vergiss, dass ich ‚geerbt‘ gesagt hab."
 
 ---
 

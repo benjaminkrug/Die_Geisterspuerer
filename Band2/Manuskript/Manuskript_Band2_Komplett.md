@@ -1156,7 +1156,7 @@ Leise, abgehackt, wie jemand, der eine Geschichte erzählt, die er nie laut ausg
 
 "Was hat Voss gemacht?"
 
-Kloß holte Luft. Ein langer Atemzug. "Das Geld für die Armenfürsorge war vorhanden. Einzelgräber für die Namenlosen — für alle, die Brenner begraben hat. Das war im Haushalt eingeplant." Kloß sah auf seine Hände. "Voss hat es abgezweigt. Das Geld ist in seinen eigenen Taschen gelandet. Die Armen kamen in Massengräber. Brenner hat protestiert. Voss hat ihn ignoriert." Kurze Pause. "Mein Urgroßvater hat Brenner einmal als 'hartnäckiger Hund' beschrieben. Er hat es nicht freundlich gemeint. Ich glaube, es war das größte Kompliment, das jemand wie Brenner bekommen konnte."
+Kloß holte Luft. Ein langer Atemzug. "Das Geld für die Armenfürsorge war vorhanden. Einzelgräber für die Namenlosen — für alle, die Brenner begraben hat. Das war im Haushalt eingeplant." Kloß sah auf seine Hände. "Voss hat es abgezweigt. Das Geld ist in seinen eigenen Taschen gelandet. Die Armen kamen in Massengräber. Brenner hat protestiert. Voss hat ihn ignoriert." Kurze Pause. "Mein Urgroßvater hat Brenner einmal als ‚hartnäckiger Hund‘ beschrieben. Er hat es nicht freundlich gemeint. Ich glaube, es war das größte Kompliment, das jemand wie Brenner bekommen konnte."
 
 "Und dann?"
 

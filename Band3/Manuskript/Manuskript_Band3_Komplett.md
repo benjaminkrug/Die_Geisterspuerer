@@ -335,7 +335,7 @@ Nora hätte ihn am liebsten getreten. Sie hatten eine Geschichte gehabt, eine ha
 
 "Was hast du gesagt?", fragte der Mann.
 
-"Da unten." Theo deutete Richtung Gitter. "Wir haben eine Stimme gehört. Ein Kind. Es hat — es hat 'Mama' gerufen."
+"Da unten." Theo deutete Richtung Gitter. "Wir haben eine Stimme gehört. Ein Kind. Es hat — es hat ‚Mama‘ gerufen."
 
 Etwas geschah mit dem Gesicht des alten Mannes.
 
@@ -549,7 +549,7 @@ Theo blätterte weiter, während Nora das Foto ansah.
 
 "Die Mutter?"
 
-"Steht nicht. Nur 'die Bahnwärterin'." Theo runzelte die Stirn. "Aber komisch — über die schreiben sie fast mehr als über den Jungen. Drei ganze Absätze. Was sie gesagt hat. Wie sie ausgesehen hat." Er sah hoch. "Wieso ist die so wichtig?"
+"Steht nicht. Nur ‚die Bahnwärterin‘." Theo runzelte die Stirn. "Aber komisch — über die schreiben sie fast mehr als über den Jungen. Drei ganze Absätze. Was sie gesagt hat. Wie sie ausgesehen hat." Er sah hoch. "Wieso ist die so wichtig?"
 
 "Weil sie ihn aus den Augen gelassen hat", sagte Nora, ohne aufzusehen. "Die geben ihr die Schuld."
 
@@ -945,9 +945,9 @@ Nora drehte sich um. Theos Gesicht war blass im Lichtschein, aber seine Augen wa
 
 "Das Kind", sagte Theo. "Am Gitter. Was hat es gerufen?"
 
-"'Mama'."
+"‚Mama‘."
 
-"Genau. 'Mama'." Theo hob einen Finger. "Und gerade eben — die Frau. Was hat *sie* gerufen?"
+"Genau. ‚Mama‘." Theo hob einen Finger. "Und gerade eben — die Frau. Was hat *sie* gerufen?"
 
 Nora zögerte. "Jonas."
 
@@ -977,7 +977,7 @@ Sie wusste, was Theo da gerade gesagt hatte. Sie spürte, dass es Hand und Fuß 
 
 "Doch, ich—"
 
-"Nein, tust du nicht." Theos Stimme wurde lauter, hallte über den leeren Bahnsteig. "Du hast die Geschichte schon fertig. Du hast sie im Archiv fertiggebaut und jetzt soll alles reinpassen. Aber es passt nicht, Nora. Eine Frau ruft 'Jonas'. Das passt nicht in deine Geschichte."
+"Nein, tust du nicht." Theos Stimme wurde lauter, hallte über den leeren Bahnsteig. "Du hast die Geschichte schon fertig. Du hast sie im Archiv fertiggebaut und jetzt soll alles reinpassen. Aber es passt nicht, Nora. Eine Frau ruft ‚Jonas‘. Das passt nicht in deine Geschichte."
 
 Nora presste die Lippen zusammen. "Es ist nicht *meine* Geschichte. Es sind Fakten."
 
@@ -2017,7 +2017,7 @@ Die Worte trafen ihn. Nora sah, wie sie ihn trafen — wie etwas, das er seit f�
 
 "Das kann ich nicht wissen", flüsterte Pawlik.
 
-"Doch." Nora deutete auf das Bild. "Steht da. *Ich bin nicht böse.* Nicht 'Mama ist schuld'. Nicht 'der Mann ist schuld'. *Ich bin nicht böse.* An niemanden gerichtet. An alle."
+"Doch." Nora deutete auf das Bild. "Steht da. *Ich bin nicht böse.* Nicht ‚Mama ist schuld‘. Nicht ‚der Mann ist schuld‘. *Ich bin nicht böse.* An niemanden gerichtet. An alle."
 
 Pawliks Hand zitterte, als er nach dem Handy griff.
 

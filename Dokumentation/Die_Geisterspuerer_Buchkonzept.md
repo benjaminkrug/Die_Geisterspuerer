@@ -223,6 +223,10 @@ Gravenstedt wurde 1823 von Alwin Graven gegruendet -- einem Alchemisten, der die
 | Sammelband 1-3 | 8,99 EUR | 16,99 EUR |
 | **Band 1 Entscheidungsbuch** | **—** | **11,99 EUR** |
 
+> ⚠️ **Staffel 2 (S2-1, S2-2) weicht seit 02.09.2026 bewusst ab: 12,99 EUR.** Gilt NICHT für
+> Band 1-5 — die bleiben auf dieser Spanne. Begründung und Tantiemen-Rechnung in
+> `Staffel2/S2-2/KDP_S2-2.md`, Abschnitt „KDP-Metadaten".
+
 ---
 
 # Amazon-Kategorien

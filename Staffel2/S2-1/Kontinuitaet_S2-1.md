@@ -915,11 +915,21 @@ Schlösser), kein offener **Fall**.
 
 1.682 Wörter · 2 Kapitel · 17 Grusel-Signale → **trägt** (B2: 15, B4: 16).
 
-### ⏸️ A3 — Leseprobe auf den nächsten Band
+### ✅ A3 — Leseprobe auf den nächsten Band (nachgeholt 2026-09-02)
 
-**Nicht durchführbar.** S2-2 ist noch nicht geschrieben. ⚠️ Vormerken: In Band 1–4 waren die
-Leseproben **erfunden**. Für S2-1 gilt: **erst nach S2-2 erstellen, dann maschinell Absatz für
-Absatz gegen den echten Text prüfen.**
+S2-2 ist jetzt geschrieben (12.453 W, 16/16 Kapitel). In
+`Scripts/build_taschenbuch_docx_s2_1.py` eingebaut: 26 Absätze aus `Staffel2/S2-2/
+Manuskript/Kapitel_01.md` (Kapitelanfang bis Ende der zweiten Szene), **maschinell Absatz
+für Absatz gegen den echten Text geprüft** (Python `ast`-Parser, nicht nur behauptet — alle
+26 identisch, s. Build-Log). Kein einziger spekulativ geschriebener Absatz, anders als bei
+Band 3/4.
+
+⚠️ **Noch NICHT hochgeladen.** S2-1 ist live, ein Rebuild + Re-Upload ändert ein
+veröffentlichtes Buch — das ist eine Autorenentscheidung, keine technische. Der Build steht
+lokal bereit (`NEXT_BAND_AVAILABLE = False` steuert den Schlusssatz: "Demnächst erhältlich."
+statt "Jetzt überall erhältlich.", bis S2-2 tatsächlich kaufbar ist). Vor einem echten
+Re-Upload: `NEXT_BAND_AVAILABLE` ggf. auf `True` setzen, neu bauen, das fertige Dokument
+prüfen (nicht nur das Markdown, siehe Abschlussprüfung im Logik-Prüfplan).
 
 ### Bilanz
 
@@ -1715,6 +1725,30 @@ freigegeben und im Manuskript. ⚠️ Band 5 hat gelernt, sie im Taschenbuch-Skr
 **importieren statt zu kopieren** — B1–4 definierten sie in zwei Dateien, mit
 Divergenzrisiko zwischen Manuskript und Druck. Für S2-1 genauso halten.
 
-Weiterhin offen und an S2-2 gebunden: die Leseprobe auf den nächsten Band (A3) — ⚠️ in
-Band 1–4 waren diese Leseproben **erfunden**, für S2-1 gilt: erst nach S2-2 erstellen und
-maschinell Absatz für Absatz gegen den echten Text prüfen.
+✅ Die Leseprobe auf den nächsten Band (A3) ist nachgeholt (2026-09-02) — s. Abschnitt oben.
+Offen bleibt nur noch der Re-Upload selbst, eine bewusste Autorenentscheidung, kein
+technischer Rest.
+
+## ✅ CONTENT-UPDATE NACH S2-2-VERÖFFENTLICHUNG (02.09.2026) — ABGESCHLOSSEN
+
+S2-2 ist veröffentlicht. `NEXT_BAND_AVAILABLE` in `build_taschenbuch_docx_s2_1.py` auf `True`
+gesetzt (Teaser-Schlusszeile jetzt „Jetzt überall erhältlich." statt „Demnächst erhältlich."),
+Teaser-Absätze vorher noch einmal Wort für Wort gegen das aktuelle
+`Staffel2/S2-2/Manuskript/Kapitel_01.md` geprüft (26/26 stimmen — K1 wurde in der
+Seitenzahl-Erweiterung von S2-2 nicht verändert). Taschenbuch neu gebaut, `--pruefen`
+bestanden.
+
+**Dabei gefunden: die dokumentierte Seitenzahl (104) war veraltet.** Das echte
+Taschenbuch-PDF misst jetzt **107 Seiten** — die A3-Leseprobe (26 Absätze) war offenbar
+schon vor dieser Sitzung eingebaut, aber nie nachgemessen worden. `KDP_S2-1.md` korrigiert.
+Da das Cover mit der alten Zahl (104) gebaut war, war der Buchrücken um 0,17 mm zu schmal
+(3 Seiten × 0,002252 Zoll) — drucktechnisch vermutlich irrelevant, aber zur Sicherheit mit
+`build_cover_s2_1.py --seiten 107 --final` neu gebaut. Schrift auf dem Rücken bleibt in
+derselben Größenklasse (Bandnummer 7,2 pt, Titel 6,2 pt, vorher 6,7/5,8 pt) — keine
+sichtbare Änderung, nur jetzt exakt.
+
+**Für den Re-Upload nötig (S2-1 ist live):**
+- `Output/S2-1/KDP_S2-1_Manuskript.docx` (oder das daraus exportierte PDF) als
+  Taschenbuch-Interior-Content-Update hochladen.
+- `Output/S2-1/KDP_S2-1_Cover_Vollcover_300dpi.pdf` als Cover-Content-Update hochladen.
+- Keine neue ISBN nötig (reines Content-Update, Format/Trim unverändert).

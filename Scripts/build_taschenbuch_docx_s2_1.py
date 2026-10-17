@@ -41,11 +41,14 @@ Verwendung:
    Code scannen" steht und kein Code folgt. Hier: BAND_ASIN = None schaltet den
    ganzen Block ab, und main() sagt es laut.
 
-3. KEIN TEASER auf den naechsten Band.
-   S2-2 ist nicht geschrieben. Die Regel steht seit Band 5 fest: Von Band 4s
-   12 Leseproben-Absaetzen existieren 0 in Band 5; von Band 3s 16 existiert
-   genau 1 in Band 4. Beide waren spekulativ geschrieben. **Erst NACH dem
-   naechsten Manuskript, und gegen den echten Text pruefen.**
+3. ★ TEASER auf S2-2 NACHGEHOLT (vorher: keiner, weil S2-2 nicht geschrieben war).
+   Die Regel stand seit Band 5 fest: Von Band 4s 12 Leseproben-Absaetzen
+   existieren 0 in Band 5; von Band 3s 16 existiert genau 1 in Band 4. Beide
+   waren spekulativ geschrieben. Der Teaser unten ist es NICHT — er ist Wort
+   fuer Wort aus dem tatsaechlichen S2-2/Manuskript/Kapitel_01.md kopiert
+   (verifiziert 2026-09-02). NEXT_BAND_AVAILABLE (Konstanten-Block) steuert
+   den Schlusssatz und steht auf False, bis S2-2 wirklich kaufbar ist — nicht
+   technisch entschieden, das ist Autorensache.
 
 4. SERIENUEBERSICHT ZEIGT NUR KAUFBARE TITEL.
    Band 5 listete alle fuenf Baende seiner Staffel. Fuer S2-1 waeren S2-2 bis
@@ -72,6 +75,12 @@ import re
 import sys
 import importlib.util
 
+# Windows-Konsolen (cp1252) brechen sonst bei Emoji/Sonderzeichen (✓, ⚠️, …) in
+# print() ab. UTF-8 fuer stdout/stderr erzwingen, unabhaengig vom System-Codepage.
+if sys.platform == "win32":
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+
 AUTHOR = "Benjamin Krug"
 SERIES_TITLE = "Die Geisterspürer"
 STAFFEL_TITLE = "Die Gebundenen"
@@ -80,7 +89,22 @@ BAND_TITLE = "Der Gast, der blieb"
 BAND_SUBTITLE = f"{STAFFEL_TITLE} · Band {BAND_NUM}"
 ERWARTETE_KAPITEL = 16
 
-# Kein NEXT_BAND — S2-2 ist nicht geschrieben (s. Punkt 3 oben).
+# ── Leseprobe auf S2-2 (A3, Kontinuitaet_S2-1.md) ─────────────────────────────
+# ★ Nachgeholt, jetzt wo S2-2 tatsaechlich geschrieben ist (vorher: "Kein
+#   NEXT_BAND — S2-2 ist nicht geschrieben"). Die Paragraphen unten sind Wort
+#   fuer Wort aus Staffel2/S2-2/Manuskript/Kapitel_01.md kopiert (Kapitelanfang
+#   bis zum Ende der zweiten Szene), NICHT spekulativ geschrieben — genau die
+#   Lehre aus "Band 4s 12 Leseproben-Absaetzen existieren 0 in Band 5" (siehe
+#   Dateikopf, Punkt 3). Bei jeder Aenderung an Kapitel_01.md hier neu
+#   abgleichen (--pruefen prueft das NICHT automatisch, siehe TODO im Aufruf).
+NEXT_BAND_NUM = 2
+NEXT_BAND_TITLE = "Die Uhr, die rückwärts läuft"
+# ⚠️ AUTORENENTSCHEIDUNG, NICHT technisch entschieden: S2-2 ist seit 02.09.2026
+#    tatsaechlich veroeffentlicht und kaufbar (Cover, ASIN, KDP-Eintrag stehen).
+#    Deshalb jetzt auf True gesetzt — vorher waere "Jetzt erhaeltlich" falsch
+#    gewesen, jetzt ist "Demnaechst" falsch. Dieser Build ist ein reines
+#    Content-Update fuer S2-1 (bereits live, keine neue ISBN noetig).
+NEXT_BAND_AVAILABLE = True
 
 _SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 _ROOT = os.path.join(_SCRIPT_DIR, "..")
@@ -94,11 +118,9 @@ OUTPUT_PDF = os.path.join(OUTPUT_DIR, "KDP_S2-1_Manuskript.pdf")
 SCENE_BREAK_SYMBOL = "✦  ✦  ✦"
 
 # --- Amazon-Rezension ---------------------------------------------------------
-# ⚠️ S2-1 ist noch nicht veroeffentlicht, es gibt keine ASIN. Solange das so ist,
-#    baut das Skript die Rezensions-Seite OHNE QR-Block (s. Punkt 2 oben).
-#    Nach der Veroeffentlichung: ASIN eintragen, Scripts/build_qr_rezension.py
-#    laufen lassen, Pfad unten setzen, neu bauen.
-BAND_ASIN = None
+# ASIN eingetragen 2026-08-26 (Autor). QR-Code erzeugt und gegengelesen mit
+# Scripts/build_qr_rezension.py -> Staffel2/S2-1/Cover/qr_rezension_s2_1.png.
+BAND_ASIN = "B0HDP2CC93"
 REVIEW_URL = f"https://www.amazon.de/review/create-review?asin={BAND_ASIN}" if BAND_ASIN else None
 QR_IMAGE = os.path.join(_ROOT, "Staffel2", "S2-1", "Cover", "qr_rezension_s2_1.png")
 
@@ -455,7 +477,92 @@ def add_back_matter(doc):
     add_centered_text(doc, "Vielen Dank!", font_size=11)
     add_centered_text(doc, AUTHOR, font_size=11)
 
-    # 2. KEIN TEASER — S2-2 ist nicht geschrieben (Unterschied 3 im Dateikopf).
+    # 2. Leseprobe auf S2-2 (A3, jetzt nachgeholt — s. Konstanten oben)
+    add_page_break(doc)
+    add_blank_lines(doc, 2)
+    add_centered_text(
+        doc, f"Weiterlesen? Hier kommt eine Vorschau auf Band {NEXT_BAND_NUM}:",
+        font_size=11, italic=True,
+    )
+    add_blank_lines(doc, 2)
+    add_centered_text(doc, SERIES_TITLE, font_size=18, bold=True)
+    add_centered_text(doc, NEXT_BAND_TITLE, font_size=14, italic=True)
+    add_centered_text(doc, f"{STAFFEL_TITLE} · Band {NEXT_BAND_NUM}", font_size=11)
+    add_blank_lines(doc, 2)
+
+    teaser_paragraphs_1 = [
+        "Das Schloss lag seit drei Monaten in derselben Schublade.",
+        "Nora hatte es oft genug in der Hand gehabt, dass sie sein Gewicht "
+        "auswendig kannte. Kalt, auch im Mai. Kälter, als ein Stück Metall "
+        "dieser Größe sein durfte.",
+        "Der Mai hatte Gravenstedt sonst warm gemacht. Das Fenster in der "
+        "Küche stand offen, zum ersten Mal seit Monaten. Irgendwo draußen "
+        "mähte jemand seinen Rasen.",
+        "\"Was machst du da schon wieder?\", fragte Theo von der Tür aus. "
+        "Er war seit Februar einen halben Kopf gewachsen, was er bei jeder "
+        "Gelegenheit erwähnte.",
+        "\"Ich guck's mir nur an.\"",
+        "\"Du guckst es dir andauernd an.\" Er kam näher, ließ sich auf den "
+        "Stuhl neben ihr fallen. \"Das ist nicht mehr Gucken. Das ist ein "
+        "Hobby.\"",
+        "Nora drehte das Schloss zwischen den Fingern. Die Kanten waren "
+        "glatt geschliffen. Das kleine Loch in der Mitte war zu klein für "
+        "jeden Schlüssel, den sie kannte. Ein Beweisstück ohne Fall. Sie "
+        "wusste nicht, was sie sonst damit machen sollte.",
+        "\"Ich will nur wissen, wer es gemacht hat.\"",
+        "\"Das weißt du nicht schon längst, weil du's dir hundertmal "
+        "angeguckt hast?\"",
+        "\"Beim hunderteinsten Mal vielleicht.\"",
+        "\"Weißt du, was Mama sagen würde, wenn sie wüsste, dass wir sowas "
+        "in der Küchenschublade aufbewahren.\"",
+        "\"Sie würde fragen, ob es Steuern spart.\"",
+        "Theo lachte, kurz und echt. \"Sie würde fragen, warum wir uns "
+        "nicht einfach einen Hund und ein normales Leben wünschen.\"",
+        "\"Wir haben einen Hund.\"",
+        "\"Ein Punkt von zweien ist auch was.\" Er stupste mit dem Finger "
+        "gegen das Schloss. Dann zog er die Hand zurück, als hätte er sich "
+        "erschreckt, wie kalt es war. \"Warum heben wir das eigentlich noch "
+        "auf? Herbert ist weg. Der Fall ist zu.\"",
+        "\"Weil niemand es für ihn gemacht hat.\" Nora sagte es, bevor sie "
+        "richtig darüber nachgedacht hatte. Es war der Satz, den sie seit "
+        "drei Monaten mit sich herumtrug. \"Es war einfach da. Bevor es "
+        "überhaupt jemanden zum Festhalten gab.\"",
+        "Theo wurde still. Das tat er selten.",
+    ]
+    for i, para in enumerate(teaser_paragraphs_1):
+        add_formatted_paragraph(doc, para, first_line_indent=(i > 0))
+
+    add_blank_lines(doc, 1)
+    add_centered_text(doc, SCENE_BREAK_SYMBOL, font_size=11)
+    add_blank_lines(doc, 1)
+
+    teaser_paragraphs_2 = [
+        "Schatten lag unter dem Tisch, die Schnauze auf den Pfoten. Seit "
+        "dem Winter war er langsamer geworden, stand morgens ein bisschen "
+        "steifer auf. Nichts Geheimnisvolles mehr daran – nur ein Hund, der "
+        "Jahre sammelte wie jeder andere. Nora hatte sich fast daran "
+        "gewöhnt.",
+        "Fast.",
+        "Er hob den Kopf, als sie das Schloss auf den Tisch legte. Er kam "
+        "hoch, langsamer als im Winter, und schnüffelte kurz daran.",
+        "Und dann legte er die Pfote genau darauf, mit einer einzigen, "
+        "kurzen Bewegung, ohne vorher zu zögern.",
+        "Nicht suchend. Nicht tastend. Zielsicher, als hätte er gewusst, wo "
+        "es liegen würde.",
+        "\"Schatten?\" Nora sah ihn an. Er sah nicht sie an. Er sah das "
+        "Schloss an, den Kopf leicht schief, die Ohren nach vorne gekippt.",
+        "\"Sieht aus, als hätte er auch ein Hobby\", sagte Theo.",
+        "\"Das ist nicht witzig.\"",
+        "\"War auch nicht so gemeint. Ein bisschen war es witzig.\"",
+    ]
+    for para in teaser_paragraphs_2:
+        add_formatted_paragraph(doc, para, first_line_indent=True)
+
+    add_blank_lines(doc, 2)
+    if NEXT_BAND_AVAILABLE:
+        add_centered_text(doc, "Jetzt überall erhältlich.", font_size=11, italic=True)
+    else:
+        add_centered_text(doc, "Demnächst erhältlich.", font_size=11, italic=True)
 
     # 3. Serienuebersicht — nur kaufbare Titel (Unterschied 4 im Dateikopf)
     add_page_break(doc)
@@ -702,7 +809,12 @@ def pruefen(content: str) -> int:
         print("\n⚠️  KEINE ASIN — die Rezensions-Seite wird OHNE QR-Code gebaut.")
         print("    Nach der Veroeffentlichung: BAND_ASIN setzen,")
         print("    Scripts/build_qr_rezension.py laufen lassen, neu bauen.")
-    print("⚠️  KEIN TEASER auf S2-2 — der Band ist nicht geschrieben.")
+    if NEXT_BAND_AVAILABLE:
+        print(f"   Teaser  : S2-2-Vorschau eingebaut, Schlusszeile 'Jetzt überall erhältlich.'")
+    else:
+        print(f"⚠️  Teaser auf S2-2 eingebaut, aber NEXT_BAND_AVAILABLE=False —")
+        print("    Schlusszeile ist 'Demnächst erhältlich.' Auf True setzen, sobald")
+        print("    S2-2 wirklich kaufbar ist.")
 
     print()
     if fehler:
@@ -767,7 +879,12 @@ def main():
 
     if BAND_ASIN is None:
         print("⚠️  OHNE QR-CODE gebaut — keine ASIN hinterlegt.")
-    print("⚠️  OHNE TEASER gebaut — S2-2 ist nicht geschrieben.")
+    if NEXT_BAND_AVAILABLE:
+        print("   Teaser auf S2-2 eingebaut: 'Jetzt überall erhältlich.'")
+    else:
+        print("⚠️  Teaser auf S2-2 eingebaut, aber NEXT_BAND_AVAILABLE=False —")
+        print("    Schlusszeile ist 'Demnächst erhältlich.', kein 'Jetzt erhältlich'.")
+        print("    Vor einer echten Neuveröffentlichung pruefen und ggf. umstellen.")
 
     print("Konvertiere zu PDF...")
     convert_to_pdf(OUTPUT_DOCX, OUTPUT_PDF)

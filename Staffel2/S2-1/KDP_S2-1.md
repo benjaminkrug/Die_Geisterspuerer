@@ -13,9 +13,16 @@
 | **Untertitel** | Dein Grusel-Abenteuer für Kinder ab 12 Jahre – eine spannende Geistergeschichte für Jungen und Mädchen |
 | **Serientitel** | Die Geisterspürer – Die Gebundenen |
 | **Serienband** | 1 |
-| **Preis** | Taschenbuch 10,99 € · eBook 4,99 € |
-| **Umfang** | ≈ 102 Seiten *(geschätzt)* · 16 Kapitel · **16.723 Wörter** |
+| **Preis** | Taschenbuch 12,99 € · eBook 4,99 € |
+| **Umfang** | 107 Seiten · 16 Kapitel · **16.723 Wörter** |
 | **Format** | 6 × 9 Zoll, weißes Papier |
+
+⚠️ **02.09.2026 angehoben von 10,99 €** (nur Staffel 2 — S2-1 + S2-2 — betroffen, Band 1–5
+bleiben bei 10,99 €; siehe `Staffel2/S2-2/KDP_S2-2.md` Abschnitt „KDP-Metadaten" für die
+volle Begründung). Tantieme
+pro Exemplar steigt von 4,54 € auf 5,74 € (Druckkosten bei ≤110 Seiten fix 2,05 €, 60 %-Satz
+ab 9,99 € Listenpreis). **S2-1 ist live — Preis muss manuell im KDP-Dashboard geändert
+werden**, diese Doku setzt ihn nicht automatisch um.
 
 **Untertitel-Formel unverändert von Band 3–5** — nur die Altersangabe wechselt. Die Formel
 („Grusel-Abenteuer", „Kinder ab … Jahre", „spannende Geistergeschichte", „Jungen und

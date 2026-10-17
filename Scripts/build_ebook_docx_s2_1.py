@@ -102,12 +102,16 @@ BAND_SUBTITLE = TB.BAND_SUBTITLE
 ERWARTETE_KAPITEL = TB.ERWARTETE_KAPITEL
 SCENE_BREAK_SYMBOL = TB.SCENE_BREAK_SYMBOL
 BAND_ASIN = TB.BAND_ASIN
+NEXT_BAND_NUM = TB.NEXT_BAND_NUM
+NEXT_BAND_TITLE = TB.NEXT_BAND_TITLE
+NEXT_BAND_AVAILABLE = TB.NEXT_BAND_AVAILABLE
 Q, E = TB.Q, TB.E
 WIDMUNG_ZEILEN = TB.WIDMUNG_ZEILEN
 EPIGRAPH_ZEILEN = TB.EPIGRAPH_ZEILEN
 EPIGRAPH_SOURCE = TB.EPIGRAPH_SOURCE
 
 INPUT_FILE = TB.INPUT_FILE
+QR_IMAGE = TB.QR_IMAGE
 OUTPUT_DIR = os.path.join(_ROOT, "Output", "S2-1")
 OUTPUT_DOCX = os.path.join(OUTPUT_DIR, "KDP_S2-1_eBook.docx")
 
@@ -183,6 +187,22 @@ def add_centered_text(doc, text, font_size=11, bold=False, italic=False):
     return p
 
 
+def add_centered_image(doc, image_path, width_inches=1.6):
+    """Add a centered image (e.g. QR code). Silently skips if file is missing."""
+    if not os.path.isfile(image_path):
+        print(f"  WARNUNG: Bild nicht gefunden, wird übersprungen: {image_path}")
+        return None
+    from docx.shared import Inches
+    p = doc.add_paragraph()
+    p.alignment = D['AL'].CENTER
+    p.paragraph_format.first_line_indent = D['Cm'](0)
+    p.paragraph_format.space_before = D['Pt'](0)
+    p.paragraph_format.space_after = D['Pt'](0)
+    run = p.add_run()
+    run.add_picture(image_path, width=Inches(width_inches))
+    return p
+
+
 def _add_runs_with_markdown(p, text):
     pattern = r'(\*\*(.+?)\*\*|\*(.+?)\*|([^*]+))'
     for _full, bold_text, italic_text, plain_text in re.findall(pattern, text):
@@ -209,44 +229,77 @@ def add_formatted_paragraph(doc, text, first_line_indent=True):
     return p
 
 
-def add_table_of_contents(doc):
-    """Echtes Word-TOC-Feld auf eigener Seite.
+def _add_bookmark(paragraph, bookmark_id, bookmark_name):
+    """Bookmark um den Absatzinhalt (Dokumentstruktur, kein berechnetes Feld —
+    jeder DOCX->eBook-Konverter loest das direkt auf, s. Begruendung unten)."""
+    start = D['Ox']("w:bookmarkStart")
+    start.set(D['qn']("w:id"), str(bookmark_id))
+    start.set(D['qn']("w:name"), bookmark_name)
+    end = D['Ox']("w:bookmarkEnd")
+    end.set(D['qn']("w:id"), str(bookmark_id))
+    paragraph._p.insert(0, start)
+    paragraph._p.append(end)
 
-    KDP/Kindle liest das Feld (gebaut aus den Heading-1-Kapiteln) und macht ein
-    anklickbares Inhaltsverzeichnis daraus."""
+
+def _add_internal_hyperlink(paragraph, text, anchor, font_size=12):
+    """Direkter interner Hyperlink (w:anchor) statt TOC-Feld."""
+    hyperlink = D['Ox']("w:hyperlink")
+    hyperlink.set(D['qn']("w:anchor"), anchor)
+
+    run = D['Ox']("w:r")
+    rPr = D['Ox']("w:rPr")
+    rFonts = D['Ox']("w:rFonts")
+    rFonts.set(D['qn']("w:ascii"), "Georgia")
+    rFonts.set(D['qn']("w:hAnsi"), "Georgia")
+    rPr.append(rFonts)
+    sz = D['Ox']("w:sz")
+    sz.set(D['qn']("w:val"), str(font_size * 2))
+    rPr.append(sz)
+    run.append(rPr)
+
+    t = D['Ox']("w:t")
+    t.set(D['qn']("xml:space"), "preserve")
+    t.text = text
+    run.append(t)
+
+    hyperlink.append(run)
+    paragraph._p.append(hyperlink)
+
+
+def _kapitel_nummer(title):
+    m = re.search(r"Kapitel (\d+)", title)
+    if not m:
+        raise ValueError(f"Keine Kapitelnummer in Titel gefunden: {title!r}")
+    return int(m.group(1))
+
+
+def add_table_of_contents(doc, chapter_titles):
+    """Echtes, klickbares Inhaltsverzeichnis als direkte Hyperlinks zu
+    Bookmarks an den Kapitelueberschriften (s. add_chapter_heading) —
+    NICHT als Word-TOC-\\field.
+
+    ★ FIX 2026-09-16: Ein TOC-Feld wird nur von einer Anwendung aufgeloest,
+    die Feldcode ausfuehrt (Word, wenn "Felder aktualisieren" laeuft). KDPs
+    eigener DOCX->Kindle-Konverter ist kein Word und tut das nicht garantiert
+    — dann sieht der Leser den rohen Platzhaltertext statt eines Inhalts-
+    verzeichnisses (am Band-1-eBook so gefunden und dort zuerst behoben).
+    Hyperlinks+Bookmarks sind reine Dokumentstruktur, jeder Konverter loest
+    sie ohne Berechnung auf."""
     add_blank_lines(doc, 3)
     add_centered_text(doc, "Inhalt", font_size=18, bold=True)
     add_blank_lines(doc, 2)
 
-    p = doc.add_paragraph()
-    p.paragraph_format.first_line_indent = D['Cm'](0)
-    run = p.add_run()
-
-    # \o "1-1" = nur Heading 1 · \h = Hyperlinks · \z = kein Fuellzeichen im
-    # Web-Layout · \u = Gliederungsebene
-    fld_begin = D['Ox']("w:fldChar"); fld_begin.set(D['qn']("w:fldCharType"), "begin")
-    instr = D['Ox']("w:instrText"); instr.set(D['qn']("xml:space"), "preserve")
-    instr.text = 'TOC \\o "1-1" \\h \\z \\u'
-    fld_sep = D['Ox']("w:fldChar"); fld_sep.set(D['qn']("w:fldCharType"), "separate")
-    platzhalter = D['Ox']("w:t")
-    platzhalter.text = "Inhaltsverzeichnis wird beim Öffnen aktualisiert."
-    fld_end = D['Ox']("w:fldChar"); fld_end.set(D['qn']("w:fldCharType"), "end")
-
-    for el in (fld_begin, instr, fld_sep, platzhalter, fld_end):
-        run._r.append(el)
-
-    # Word soll die Felder beim Oeffnen selbst aktualisieren.
-    settings = doc.settings.element
-    upd = settings.find(D['qn']("w:updateFields"))
-    if upd is None:
-        upd = D['Ox']("w:updateFields")
-        settings.append(upd)
-    upd.set(D['qn']("w:val"), "true")
+    for title in chapter_titles:
+        nummer = _kapitel_nummer(title)
+        p = doc.add_paragraph()
+        p.paragraph_format.first_line_indent = D['Cm'](0)
+        p.paragraph_format.space_after = D['Pt'](6)
+        _add_internal_hyperlink(p, title, f"kapitel_{nummer}", font_size=12)
 
     add_page_break(doc)
 
 
-def add_front_matter(doc):
+def add_front_matter(doc, chapter_titles):
     # Halbtitel
     add_blank_lines(doc, 8)
     add_centered_text(doc, SERIES_TITLE, font_size=18, bold=True)
@@ -290,7 +343,7 @@ def add_front_matter(doc):
     add_page_break(doc)
 
     # Inhaltsverzeichnis (Navigationsapparat)
-    add_table_of_contents(doc)
+    add_table_of_contents(doc, chapter_titles)
 
     # Widmung und Epigraph stehen wie im Druck unmittelbar vor Kapitel 1.
     add_blank_lines(doc, 10)
@@ -328,16 +381,112 @@ def add_back_matter(doc):
     )
     add_blank_lines(doc, 2)
 
-    # Kein QR/Link ohne ASIN — sonst stuende eine Aufforderung ohne Ziel im Buch.
+    # Kein QR ohne ASIN — sonst stuende eine Aufforderung ohne Ziel im Buch.
+    # ★ FIX 2026-09-16: fehlte hier komplett, obwohl das Taschenbuch-Skript
+    # (build_taschenbuch_docx_s2_1.py) laengst einen QR-Code einbaut und die
+    # Bilddatei bereits im Repo liegt — vom Nutzer am gebauten eBook gefunden.
     if BAND_ASIN:
-        add_formatted_paragraph(
-            doc, f"Direkt zur Bewertung: {TB.REVIEW_URL}", first_line_indent=False)
+        add_centered_text(doc, "Einfach den Code scannen und eine Bewertung dalassen:",
+                          font_size=11, italic=True)
+        add_blank_lines(doc, 1)
+        add_centered_image(doc, QR_IMAGE, width_inches=1.6)
+        add_blank_lines(doc, 1)
+        add_centered_text(doc, "(Handykamera auf den Code halten – der Link öffnet sich von selbst.)",
+                          font_size=9, italic=True)
         add_blank_lines(doc, 2)
 
     add_centered_text(doc, "Vielen Dank!", font_size=11)
     add_centered_text(doc, AUTHOR, font_size=11)
 
-    # KEIN TEASER auf S2-2 — nicht geschrieben.
+    # Teaser auf S2-2 — wortgleich aus build_taschenbuch_docx_s2_1.py uebernommen
+    # (dort verifiziert 2026-09-02 gegen S2-2/Manuskript/Kapitel_01.md; hier am
+    # 2026-09-16 nochmal gegen dieselbe Quelle gegengeprueft). S2-2 ist laut
+    # Autor bereits live -> "Jetzt ueberall erhaeltlich."
+    add_page_break(doc)
+    add_blank_lines(doc, 2)
+    add_centered_text(
+        doc, f"Weiterlesen? Hier kommt eine Vorschau auf Band {NEXT_BAND_NUM}:",
+        font_size=11, italic=True,
+    )
+    add_blank_lines(doc, 2)
+    add_centered_text(doc, SERIES_TITLE, font_size=18, bold=True)
+    add_centered_text(doc, NEXT_BAND_TITLE, font_size=14, italic=True)
+    add_centered_text(doc, f"{STAFFEL_TITLE} · Band {NEXT_BAND_NUM}", font_size=11)
+    add_blank_lines(doc, 2)
+
+    teaser_paragraphs_1 = [
+        "Das Schloss lag seit drei Monaten in derselben Schublade.",
+        "Nora hatte es oft genug in der Hand gehabt, dass sie sein Gewicht "
+        "auswendig kannte. Kalt, auch im Mai. Kälter, als ein Stück Metall "
+        "dieser Größe sein durfte.",
+        "Der Mai hatte Gravenstedt sonst warm gemacht. Das Fenster in der "
+        "Küche stand offen, zum ersten Mal seit Monaten. Irgendwo draußen "
+        "mähte jemand seinen Rasen.",
+        "\"Was machst du da schon wieder?\", fragte Theo von der Tür aus. "
+        "Er war seit Februar einen halben Kopf gewachsen, was er bei jeder "
+        "Gelegenheit erwähnte.",
+        "\"Ich guck's mir nur an.\"",
+        "\"Du guckst es dir andauernd an.\" Er kam näher, ließ sich auf den "
+        "Stuhl neben ihr fallen. \"Das ist nicht mehr Gucken. Das ist ein "
+        "Hobby.\"",
+        "Nora drehte das Schloss zwischen den Fingern. Die Kanten waren "
+        "glatt geschliffen. Das kleine Loch in der Mitte war zu klein für "
+        "jeden Schlüssel, den sie kannte. Ein Beweisstück ohne Fall. Sie "
+        "wusste nicht, was sie sonst damit machen sollte.",
+        "\"Ich will nur wissen, wer es gemacht hat.\"",
+        "\"Das weißt du nicht schon längst, weil du's dir hundertmal "
+        "angeguckt hast?\"",
+        "\"Beim hunderteinsten Mal vielleicht.\"",
+        "\"Weißt du, was Mama sagen würde, wenn sie wüsste, dass wir sowas "
+        "in der Küchenschublade aufbewahren.\"",
+        "\"Sie würde fragen, ob es Steuern spart.\"",
+        "Theo lachte, kurz und echt. \"Sie würde fragen, warum wir uns "
+        "nicht einfach einen Hund und ein normales Leben wünschen.\"",
+        "\"Wir haben einen Hund.\"",
+        "\"Ein Punkt von zweien ist auch was.\" Er stupste mit dem Finger "
+        "gegen das Schloss. Dann zog er die Hand zurück, als hätte er sich "
+        "erschreckt, wie kalt es war. \"Warum heben wir das eigentlich noch "
+        "auf? Herbert ist weg. Der Fall ist zu.\"",
+        "\"Weil niemand es für ihn gemacht hat.\" Nora sagte es, bevor sie "
+        "richtig darüber nachgedacht hatte. Es war der Satz, den sie seit "
+        "drei Monaten mit sich herumtrug. \"Es war einfach da. Bevor es "
+        "überhaupt jemanden zum Festhalten gab.\"",
+        "Theo wurde still. Das tat er selten.",
+    ]
+    for i, para in enumerate(teaser_paragraphs_1):
+        add_formatted_paragraph(doc, para, first_line_indent=(i > 0))
+
+    add_blank_lines(doc, 1)
+    add_centered_text(doc, SCENE_BREAK_SYMBOL, font_size=11)
+    add_blank_lines(doc, 1)
+
+    teaser_paragraphs_2 = [
+        "Schatten lag unter dem Tisch, die Schnauze auf den Pfoten. Seit "
+        "dem Winter war er langsamer geworden, stand morgens ein bisschen "
+        "steifer auf. Nichts Geheimnisvolles mehr daran – nur ein Hund, der "
+        "Jahre sammelte wie jeder andere. Nora hatte sich fast daran "
+        "gewöhnt.",
+        "Fast.",
+        "Er hob den Kopf, als sie das Schloss auf den Tisch legte. Er kam "
+        "hoch, langsamer als im Winter, und schnüffelte kurz daran.",
+        "Und dann legte er die Pfote genau darauf, mit einer einzigen, "
+        "kurzen Bewegung, ohne vorher zu zögern.",
+        "Nicht suchend. Nicht tastend. Zielsicher, als hätte er gewusst, wo "
+        "es liegen würde.",
+        "\"Schatten?\" Nora sah ihn an. Er sah nicht sie an. Er sah das "
+        "Schloss an, den Kopf leicht schief, die Ohren nach vorne gekippt.",
+        "\"Sieht aus, als hätte er auch ein Hobby\", sagte Theo.",
+        "\"Das ist nicht witzig.\"",
+        "\"War auch nicht so gemeint. Ein bisschen war es witzig.\"",
+    ]
+    for para in teaser_paragraphs_2:
+        add_formatted_paragraph(doc, para, first_line_indent=True)
+
+    add_blank_lines(doc, 2)
+    if NEXT_BAND_AVAILABLE:
+        add_centered_text(doc, "Jetzt überall erhältlich.", font_size=11, italic=True)
+    else:
+        add_centered_text(doc, "Demnächst erhältlich.", font_size=11, italic=True)
 
     # Serienuebersicht: nur kaufbare Titel
     add_page_break(doc)
@@ -401,11 +550,14 @@ def add_back_matter(doc):
 
 
 def add_chapter_heading(doc, title):
-    """Echter Heading-1-Stil — daraus baut Kindle die Navigation."""
+    """Echter Heading-1-Stil — daraus baut Kindle die Navigation. Zusaetzlich
+    ein Bookmark, auf das die Inhaltsverzeichnis-Hyperlinks zeigen."""
     add_page_break(doc)
     p = doc.add_paragraph(title, style="Heading 1")
     p.paragraph_format.space_before = D['Pt'](36)
     p.paragraph_format.space_after = D['Pt'](24)
+    nummer = _kapitel_nummer(title)
+    _add_bookmark(p, nummer, f"kapitel_{nummer}")
     return p
 
 
@@ -513,9 +665,13 @@ def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     print(f"Lese: {INPUT_FILE}")
 
+    chapter_titles = re.findall(r"^# (Kapitel \d+.*)$", content, re.MULTILINE)
+    if not chapter_titles:
+        raise ValueError("Keine Kapitelueberschriften im Manuskript gefunden")
+
     doc = D['Document']()
     create_styles(doc)
-    add_front_matter(doc)
+    add_front_matter(doc, chapter_titles)
     parse_and_build(doc, content)
     add_back_matter(doc)
 

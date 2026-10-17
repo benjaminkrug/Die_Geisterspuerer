@@ -23,17 +23,17 @@
 
 | # | Setup (Kapitel) | Payoff (Kapitel) | Status |
 |---|---|---|---|
-| 1 | Handwerker-Marke am Schloss entdeckt (K1) | Führt zur Werkstatt-Adresse (K2) | geplant |
-| 2 | Licht in den Fenstern eines angeblich verlassenen Hauses (K3) | Erklärt sich durch die Werkstatt-Aktivität selbst (K4 ff.) | geplant |
-| 3 | Schattens „überwältigt"-Reaktion beginnt (K4) | Voll ausgeprägt in K5, klingt in K13 ab | geplant |
-| 4 | Rückwärtslaufende Uhren als Bild (K6) | Bleiben unaufgelöstes visuelles Leitmotiv — bewusst kein Einzel-Payoff nötig, das Bild selbst IST die Aussage (Titel-Konzept) | geplant, Season-Bild |
-| 5 | Schemenhafte Gestalt zwischen den Regalen (K6) | Identifiziert als Grete (K7) | geplant |
-| 6 | Noras Entschluss „bei ihr anfangen" (K7) | Eingelöst durch Gretes Befreiung (K9–K10) | geplant |
-| 7 | „Beobachtet, ohne es zu merken" (K8) | Aufgelöst: es war Frieda, die ganze Zeit (K11) | geplant |
-| 8 | Unbestimmte Stimme stoppt sie (K10) | Wird zu Friedas konkreten Worten (K11) | geplant |
-| 9 | Friedas Warnung „Ihr wisst nicht, was ihr da tut" (K11) | Bestätigt sich, als sie beim zweiten Schloss eingreift (K12) | geplant |
-| 10 | Theos falsche Vermutungen über Frieda (K14) | ⚠️ **Bewusst NICHT aufgelöst in S2-2** — echte Antwort ist S2-3 vorbehalten | bewusst offen (Staffel-Faden) |
-| 11 | „Wer über ihr steht" (K15, Noras Zusammenfassung) | ⚠️ **Bewusst NICHT aufgelöst in S2-2** — Halders Identität ist S2-3 vorbehalten | bewusst offen (Staffel-Faden) |
+| 1 | Das seit S2-1 bekannte Zeichen am Schloss wird unter der Lupe als **handgefertigt** erkannt, nicht als Stempel (Korrektur der alten Annahme aus S2-1 K16) (K1) | Führt zur Werkstatt-Adresse (K2) | ✅ geschrieben |
+| 2 | Licht in den Fenstern eines angeblich verlassenen Hauses (K3) | Erklärt sich durch die Werkstatt-Aktivität selbst (K4 ff.) | ✅ geschrieben |
+| 3 | Schattens „überwältigt"-Reaktion beginnt (K4) | Voll ausgeprägt in K5 (✅ geschrieben — läuft ruhelos, findet keine Richtung, Herzschlag zu schnell), klingt in K13 ab | ✅ geschrieben |
+| 4 | Rückwärtslaufende Uhren als Bild (K6) | Bleiben unaufgelöstes visuelles Leitmotiv — bewusst kein Einzel-Payoff nötig, das Bild selbst IST die Aussage (Titel-Konzept) | ✅ geschrieben |
+| 5 | Schemenhafte Gestalt zwischen den Regalen (K6) | Identifiziert als Grete (K7) | ✅ geschrieben |
+| 6 | Noras Entschluss „bei ihr anfangen" (K7) | Eingelöst durch Gretes Befreiung (K9–K10) | ✅ vollständig geschrieben (K9 Öffnung, K10 Abschied) |
+| 7 | „Beobachtet, ohne es zu merken" (K8) | Aufgelöst: es war Frieda, die ganze Zeit (K11) | ✅ K8 geschrieben — Beobachtung bewusst NICHT im Text gezeigt (Nora merkt nichts, striktes POV-Limit), Payoff bleibt K11 |
+| 8 | Unbestimmte Stimme stoppt sie (K10) | Wird zu Friedas konkreten Worten (K11) | ✅ K10 geschrieben (Klang ohne Worte), K11 offen |
+| 9 | Friedas Warnung „Ihr wisst nicht, was ihr da tut" (K11) | Bestätigt sich, als sie beim zweiten Schloss eingreift (K12) | ✅ vollständig geschrieben |
+| 10 | Theos falsche Vermutungen über Frieda (K14) | ⚠️ **Bewusst NICHT aufgelöst in S2-2** — echte Antwort ist S2-3 vorbehalten | ✅ K14 geschrieben (drei Theorien: Geist, wohnt dort, Geheimversteck — alle falsch), bewusst offen für S2-3 |
+| 11 | „Wer über ihr steht" (K15, Noras Zusammenfassung) | ⚠️ **Bewusst NICHT aufgelöst in S2-2** — Halders Identität ist S2-3 vorbehalten | ✅ K15 geschrieben, bewusst offen für S2-3 |
 
 **Regel-Check:** Kein Setup bleibt unbezahlt außer den beiden markierten Staffel-Fäden
 (#10, #11) — konsistent mit dem S2-1-Präzedenzfall.
@@ -50,7 +50,7 @@
 | Frieda beobachtet die gesamte Grete-Befreiung, ohne einzugreifen (K8–K11) | S2-3/S2-4: erster Riss in ihrer Überzeugung, wird dort vertieft |
 | Frieda greift erst beim zweiten Schloss ein (K12) | Zeigt ihre Grenze — Payoff in S2-4, wenn diese Grenze sich verschiebt |
 | „Es gibt jemanden, der es für ihn bewacht" (K16, Schlusssatz) | S2-3: Frieda wird als genau diese Person enthüllt |
-| ⚠️ **Nachgetragen (S2-3-Planung):** Der Gewerberegister-Eintrag in K2 sollte beim Schreiben einen **Inhaber-Namen** enthalten (nicht nur die Adresse) — unauffällig zum Zeitpunkt von S2-2, aber notwendiges Setup für S2-3 K3, wo Nora genau diesen Namen in ihren alten Notizen wiedererkennt | S2-3 K3: Nora erkennt Halders Namen aus den eigenen S2-2-Notizen wieder |
+| ✅ **Geschrieben:** Der Gewerberegister-Eintrag in K2 enthält einen Inhaber-Namen in "verblasster Tinte", den Nora bewusst NICHT liest/merkt ("ohne dass er hängen blieb, weil ihr Blick sofort zur nächsten Zeile sprang") — unauffällig, wie gefordert. Sie fotografiert danach aber die GESAMTE Seite, nicht nur die Adresse — der Name ist damit im Bild festgehalten, obwohl sie ihn nicht bewusst gelesen hat. **Mechanismus für S2-3 K3 damit sauber vorbereitet:** Nora muss das alte Foto nochmal ansehen, um den Namen "wiederzuerkennen" | S2-3 K3: Nora sieht das S2-2-Archivfoto erneut an und erkennt Halders Namen wieder |
 
 ---
 

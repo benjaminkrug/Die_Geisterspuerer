@@ -281,3 +281,142 @@ Beobachtung: **K2→K3** (vom Archiv zum Weg zum Stadtrand) braucht ggf. einen k
 Reisezeitpunkt-Übergang (Archivbesuch endet, Weg beginnt) — kein echter Bruch, aber beim
 Schreiben glatt überleiten. **Vollständige Prüfung, Setup/Payoff-Mapping und
 Cliffhanger-Typenkontrolle folgen in Phase 3.**
+
+---
+
+# ⚠️ AUSBAU-PLAN für den zweiten Schreibdurchgang (Phase 4 abgeschlossen, 2026-08-XX)
+
+> **Warum dieser Abschnitt existiert:** Das fertige Rohmanuskript kam auf 9.534 Wörter statt
+> der ~16.000, die S2-1 (16.615 W) als Vergleichsgröße vorgibt — **jedes einzelne Kapitel**
+> ist kürzer als sein S2-1-Gegenstück, mit wachsendem Abstand ab K5 (Ursache: „wenig Dialog"
+> in K5 wurde beim Schreiben fälschlich als „wenig Wörter" gelesen, siehe
+> `Kontinuitaet_S2-2.md`). Dieser Abschnitt hält fest, **was** beim Ausbau pro Kapitel
+> ergänzt wird — als Plan vor der Überarbeitung, nicht als Protokoll danach (das kommt wie
+> gewohnt in `Kontinuitaet_S2-2.md`).
+>
+> **Leitplanken für den ganzen Ausbau:**
+> 1. Vertiefen, nicht auffüllen — mehr Sinneseindrücke, Innenleben, Dialog-Substanz. Keine
+>    Wiederholungen, keine Füllsätze.
+> 2. Bewusste Stilentscheidungen bleiben stehen: K5 bleibt dialogarm (wächst über
+>    Beschreibung), K12 bleibt humorfrei (wächst über Körperlichkeit/Spannung).
+> 3. Keine neuen Kapitel, keine neuen Plot-Beats — nur zusätzliche **Szenen** (eigener
+>    `---`-Trenner) innerhalb bestehender Kapitel. Cliffhanger-Register, Setup/Payoff-Tracker
+>    und Hinweisketten-Nummerierung bleiben unverändert gültig.
+> 4. Jede neue Zeile über Frieda gegen `../Hinweisketten_Tracker.md` (Kette 1) prüfen —
+>    mehr Szene ja, mehr Verrat nein.
+> 5. Nach jedem überarbeiteten Kapitel wieder der volle Zwei-Durchgang-Check
+>    (Einzelkapitel + akt-weiter Grep über Wortwiederholungen/Satzkonstruktionen).
+
+## Vier neue Zwischenszenen (zusätzlich zur Vertiefung, ~800–1.200 Wörter zusammen)
+
+| # | Ort | Inhalt | Zweck |
+|---|---|---|---|
+| Z1 | Neue zweite Szene **in K1** | Knapper, zusammenfassender Rückblick auf ein oder zwei off-page Fälle seit Herbert (Mechanik Punkt 6) — nicht ausdramatisiert. ⚠️ **Muss ohne jede Verbindung zu Halder/der Werkstatt bleiben** — reine, abgeschlossene Nebenfälle, sonst entsteht ein Faden, der nirgends hingeht | ⚠️ **Korrigierte Begründung:** NICHT um die Zange zu erklären (das leistet K8s Zeile „Seit Herbert nahm sie eine mit" bereits vollständig — eine zweite Erklärung wäre redundant). Der eigentliche Zweck: zeigt die beiden als eingespielte, routinierte Hüter im Kontrast dazu, dass dieser Fall alles bisher Erlebte übertrifft; füllt den Zeitsprung mit echtem Inhalt |
+| Z2 | ⚠️ **Korrigierter Ort:** Neue erste Szene **ganz am Anfang von K2**, im Treppenhaus/Hauseingang beim Verlassen der Wohnung — NICHT „in K2 oder K3" wie ursprünglich notiert. Begründung: Frau Held wohnt laut S2-1 K1 im **Erdgeschoss desselben Hauses** wie Nora und Theo. Eine Begegnung unterwegs zum Archiv oder auf dem Weg zum Stadtrand wäre ortsfremd | Kurze, warme Begegnung mit Frau Held (laut `Kontinuitaet_S2-2.md` als Bonus-Auftritt ausdrücklich erlaubt, nicht tragend) — zweite, leisere Umsetzung von Ausführungsrisiko #5 (`PLAN_Staffel2.md` Abschnitt 14): ein Moment normalen Lebens, den Nora gerade wieder aufgibt |
+| Z3 | **In K8**, während Schatten zu Gretes Schloss führt | Ein, zwei weitere stille, unbenannte Gestalten zwischen den Regalen, an denen sie vorbeikommen, ohne einzugreifen. ⚠️ **Craft-Hinweis:** Das ist die dritte „Gestalt zwischen den Regalen" in Folge (K6 Ersterscheinung → K7 Grete direkt → K8/Z3). Beschreibung bewusst anders halten als K6s Reveal (z. B. beiläufiger, aus dem Augenwinkel, kein eigener Spannungsaufbau), sonst wirkt es wie eine Wiederholung desselben Bildes statt einer Steigerung | Verstärkt "das Ausmaß ist der Schrecken" schon **vor** dem Höhepunkt — bereitet K12s Rückzug emotional vor, statt es nur nachträglich zu behaupten |
+| Z4 | Neue erste Szene **in K15** (vor "Die Wohnung war dunkel…") | Der Rückweg mit den Fahrrädern — bisher komplett ausgelassen (K14 endet noch bei der Werkstatt, K15 beginnt schon zu Hause) | Schließt eine echte Lücke in der erzählten Handlung, spiegelt K3s Hinweg, Raum für Erschöpfung/Nachdenken |
+
+## Kapitelweise Ausbau-Ideen
+
+### K1 – „Was am Schloss steht" (Hauptszene bleibt bei ~950, plus Z1 ≈ ~1.150 gesamt)
+Kaum Nachholbedarf in der Hauptszene selbst — der Abstand zu S2-1 ist hier am kleinsten
+(–126). Ergänzt wird primär **Z1** (siehe oben, korrigierte Begründung). In der Hauptszene
+ggf. einen Beat mehr für Schattens gezielte Pfote aufs Schloss — ⚠️ **rein körperlich
+beschreiben** (z. B. wie zielsicher/schnell die Bewegung ist), NICHT als neue oder
+rätselhafte Qualität andeuten (Wach-Regel, `Kontinuitaet_S2-2.md`).
+
+### K2 – „Das Archiv" (926 → ~1.100 mit Z2)
+**Z2** (Frau Held, siehe oben) steht als neue Eröffnungsszene ganz am Anfang, vor dem
+eigentlichen Weg zum Archiv. Danach dürfen der Archivar-Wortwechsel und die Suche selbst
+einen weiteren Fehlversuch bekommen (ein Eintrag, der fast passt, aber nicht).
+
+### K3 – „Der Weg zum Stadtrand" (793 → ~950)
+Mehr Streckenbeschreibung der Randbezirke Gravenstedts — konkrete, wechselnde Details statt
+nur "leerer werdende Straßen". Schattens wachsende Unruhe in mehr Zwischenstufen zeigen,
+nicht nur Anfang/Ende.
+
+### K4 – „Drinnen" (638 → ~800)
+Bewusst knapp bleiben (Tempo-Kapitel, Akt-1-Schluss) — aber der erste Innenraum-Eindruck
+(Gang, Staub, Fußspur) darf ein, zwei Sinneseindrücke mehr tragen, bevor der volle Blick in
+den Hauptraum fällt.
+
+### K5 – „So viele" (515 → ~950, größter Zuwachs in Akt 2)
+**Über Beschreibung, nicht Dialog** (Leitplanke 2). Konkret: drei bis vier einzelne Schlösser
+im Vorbeigehen genauer beschreiben (unterschiedliche Größen/Formen/Materialien, jedes eine
+angedeutete, nie ausgesprochene Geschichte). Ein zweites gefundenes Detail neben dem
+Häkchen-Etikett — z. B. ein Regal, in dem die Schlösser nach einem erkennbaren, aber nicht
+erklärten System sortiert sind. Mehr Raum für die "atmenden" Geräusche am Ende.
+
+### K6 – „Die Uhren" (548 → ~950)
+Mehr einzelne Uhren mit je eigenem Detail (nicht nur zwei wie bisher) — Standuhr,
+Küchenuhr, zusätzlich z. B. eine Kuckucksuhr, die zur falschen Zeit schlägt, oder eine
+Armbanduhr in einer Vitrine. Theos "Weihnachtsmarkt"-Vergleich darf sich zu einem kurzen,
+ausgebauten Bild weiterspinnen, bevor die Gestalt erscheint.
+
+### K7 – „Grete" (600 → ~850)
+Der stumme erste Moment (bevor sie näherkommt) darf länger stehen bleiben. Mehr Detail zu
+ihrer Erscheinung/Schürze/Haltung. Der Dialog um "Zu Hause" / "Ich hatte einen Korb" darf
+einen weiteren Gesprächsschritt bekommen, ohne ihre Geschichte vorwegzunehmen (die bleibt
+K9 vorbehalten).
+
+### K8 – „Das erste Schloss" (522 → ~950 + Z3 ≈ ~1.150, größter Zuwachs in Akt 2)
+Der Such-/Führungs-Prozess selbst mehr zeigen (Schatten zögert kurz an einer falschen
+Stelle, bevor er weiterzieht — kein Fehler, nur ein Abwägen). Plus **Z3** (weitere stille
+Gestalten).
+
+### K9 – „Erinnern" (604 → ~1.250, größter Einzel-Ausbau im ganzen Buch)
+Mehr gescheiterte Zangen-Versuche mit mehr Textur (nicht nur "zum dritten Mal"). Die Suche
+nach dem Erinnerungs-Objekt darf über ein bis zwei falsche Fährten laufen (ein Gegenstand,
+der fast, aber nicht passt), bevor der Korb gefunden wird — verstärkt "entdecken statt
+vortragen" (Qualitäts-Leitlinie). Das eigentliche Erinnern (Frau Winter, der Weg im Regen)
+langsamer entfalten, mit mehr Nora/Theo-Reaktion dazwischen.
+
+### K10 – „Sie geht" (582 → ~950)
+Der Abschied selbst mehr Raum: mehr visuelle Details, wie Grete heller wird. Schattens
+erste Entspannung ausführlicher (dieser Moment ist laut Outline explizit "zum ersten Mal im
+Buch" — verdient entsprechend Gewicht). Der High-Five-Moment darf einen weiteren Wortwechsel
+bekommen, bevor der Ton wieder ernster wird.
+
+### K11 – „Das Mädchen" (500 → ~1.200, größter Einzel-Ausbau nach K9)
+Friedas erster Auftritt ist der wichtigste Charaktermoment der ganzen Staffel bisher außer
+den Kindern selbst — verdient entsprechend Raum. Mehr physische Beschreibung (Kleidung,
+Haltung, was sie bei sich trägt). Der stumme Moment vor dem ersten Wort darf länger stehen.
+Der Verhör-artige Wortwechsel (Wer bist du/wohnst du hier) darf mehr Ausweich-Runden
+bekommen — **jede neue Zeile gegen Hinweisketten-Kalibrierung prüfen** (mehr Verhalten
+zeigen, nicht mehr über sie verraten).
+
+### K12 – „Nicht weiter" (477 → ~850)
+Der Wortwechsel vor dem Eingreifen darf länger laufen. Das körperliche Hinausdrängen selbst
+in mehr Einzelschritten zeigen (nicht nur zwei kurze Absätze) — bleibt humorfrei, wächst über
+Körperlichkeit und Spannung, wie geplant.
+
+### K13 – „Draußen" (453 → ~950)
+Mehr Verarbeitung: konkretere körperliche Beschreibung des Adrenalin-Abfalls, mehr Raum für
+den Theo/Nora-Wortwechsel über Grete als Trost.
+
+### K14 – „Was Frieda war" (427 → ~850)
+Eine vierte (weiterhin falsche) Theorie ergänzen, mehr Hin und Her beim Durchdenken der
+Möglichkeiten — bleibt strikt ergebnislos (Setup/Payoff-Regel #10). ⚠️ **Warnung aus der
+tatsächlichen Erstfassung:** Beim Schreiben von K14 musste bereits eine Theorie ("sie ist
+verwandt mit ihm") gestrichen werden, weil sie zu nah an die Wahrheit kam. Die vierte
+Theorie darf **keinerlei Bezug zu Besitz oder Verwandtschaft** haben. Sichere Kandidatin:
+z. B. „Sie hat Angst, für unbefugtes Wohnen dort Ärger zu bekommen" — betrifft nur sie
+selbst, keine Verbindung zu einer dritten Person.
+
+### K15 – „Was sie wissen" (435 → ~850 + Z4 ≈ ~1.050, inkl. größter Zuwachs durch Z4)
+**Z4** als neue Eröffnungsszene (siehe oben). Die Zettel-Szene selbst darf einen Ticken mehr
+Hin und Her zwischen Nora und Theo bekommen, ohne das S2-1-Echo (Schublade-Motiv) wieder
+aufzugreifen — das bleibt bewusst draußen (`Kontinuitaet_S2-2.md`).
+
+### K16 – „Nicht allein" (491 → ~900)
+Mehr Raum für die Reflexion vor dem Einschlafen, mehr sinnliche Verankerung im
+Schlafzimmer. Schattens Schlussgeste (aufs Bett springen, wachsam liegen bleiben) darf einen
+Moment länger beschrieben werden, bevor die letzten beiden Zeilen (wörtlich, im Präsens)
+stehen.
+
+## Rechnung
+
+Vertiefung bestehender Szenen (~5.300–5.700) + vier Zwischenszenen (~800–1.200) ≈
+**+6.100–6.900** auf 9.534 → **~15.600–16.400 Wörter**. Kein Kapitel bekommt eine erzwungene
+Zielzahl — die Werte oben sind Anhaltspunkte, kein Diktat (CLAUDE.md: "fertig, wenn es
+funktioniert, nicht bei einer Zahl").

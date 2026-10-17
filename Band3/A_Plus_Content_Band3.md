@@ -228,15 +228,23 @@ KOMPOSITION & TEXTZONE: place the lamp, closed book and dog compact on the LEFT.
 half (roughly 45–50%) as a calm, dark, almost empty area for the text — this module carries three
 short lines, so the text needs real room and must stay easily readable.
 
-TEXT (spell exactly, Wort für Wort; clean classic serif, warm cream, high contrast over the calm
-dark right area, fully inside, not touching edges, not overlapping the lamp or book; achte exakt
-auf Umlaute ä ö ü ß):
-Groß, oben:  Kribbeln statt Albträume
-Darunter, drei kurze gestapelte Zeilen, kleiner:
+TEXT (spell exactly, Wort für Wort; clean classic serif, fully inside, not touching edges, not
+overlapping the lamp or book; achte exakt auf Umlaute ä ö ü ß). TEXT COLOUR HIERARCHY (richer
+and warmer than plain white/cream — this is the module about warmth and safety, the colour
+should feel like it belongs to that same lamplight, not like a generic caption):
+Groß, oben, in warmem Honiggold (#e8c07d) — ein reicherer, wärmerer Ton als reines Creme,
+  spürbar mit der Lampe verwandt, aber heller und klarer als ihr Licht, damit er nicht mit dem
+  Lampenschein verschwimmt:  Kribbeln statt Albträume
+Darunter, drei kurze gestapelte Zeilen, kleiner, in einem helleren, kühleren Creme-Weiß
+  (#f2ead8) — bewusst ein Ton heller/ruhiger als die Überschrift, damit die Hierarchie klar
+  bleibt:
   Gänsehaut ja – ohne Gewalt, ohne Blut, ohne böse Monster.
   Nach jedem Schreck kommt Humor, und Schatten warnt immer vorher.
   Spannend genug zum Weiterlesen, sicher genug fürs Lichtausmachen.
-Unten, klein:  Sicherer Grusel – ab 10 Jahren.
+Unten, klein, wieder im Creme-Weiß der drei Zeilen:  Sicherer Grusel – ab 10 Jahren.
+Every line still needs clear, high-contrast separation from the dark background behind it — a
+richer colour is not an excuse for lower contrast; a soft dark halo/outline under each line is
+fine if needed to hold the edge.
 
 No modern objects (no phone), no cold/eerie glow, no visible ghosts, no neon, no cartoon or manga
 style. Mood: warm, safe, protective. Spell every German word correctly.

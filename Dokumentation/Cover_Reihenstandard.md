@@ -201,7 +201,7 @@ beantwortet, ob es mehr davon gibt — und bisher trägt sie **kein einziger** B
 | Rolle | Hex |
 |---|---|
 | **Haupttitel** | **`#dfb057` Gold** (Glanzkante `#f0cb80`, Schattenkante `#d4a44a`) |
-| Reihenzeile / Untertitel | `#9aa6b0` Stahlgrau — oder in Gold mitlaufend |
+| Reihenzeile / Untertitel | `#c8d0d8` helles Stahlgrau, fast weiß (vorher `#9aa6b0` — nach der S2-2-Ablehnung angehoben, siehe Block F) — oder in Gold mitlaufend |
 | Schattens Augen (Reihen-Akzent) | `#d4920b` Bernstein |
 | Noras Hoodie | `#2a8a7a` Teal |
 | Theos Bomberjacke | `#6b7a3a` Oliv |
@@ -229,9 +229,13 @@ Kinder braun, kein sichtbares Hundeauge); genau das wird beim Neubau behoben.
    nie zu sehen — auch nicht im Profil, auch nicht angeschnitten.
 2. Sie **blicken in eine Öffnung hinein**: Tür, Tor, Tunnel, Spiegel, Fenster.
 3. **Genau eine Lichtquelle** in der Bildmitte ist der Hingucker. Alles Licht im
-   Bild kommt von dort.
+   Bild kommt von dort. **Sie liegt im mittleren Drittel der Höhe (40–66 %) und
+   steigt nie über 40 %** — sonst wandert sie in die Textzone. Genau das ist der
+   S2-2-Fehler: die „hohen Oberfenster" landeten hinter dem Untertitel (Block F).
 4. **Schattens Auge** ist der einzige lebendige Punkt.
-5. **Oberes Drittel bleibt ruhig** — dort steht der Titel.
+5. **Oberes Drittel bleibt ruhig und nahezu schwarz** — dort steht der Titel, und
+   er ist nur lesbar, wenn dort kein Licht, kein Fenster, keine helle Wand und
+   keine beleuchtete Kante hinkommt (Block F).
 6. **Nie ein klar erkennbarer Geist.** Silhouette, Andeutung, Hand — kein
    Gesicht. (Band 2 zeigt zwei Geister mit Gesichtern; das ist der Ausreißer.)
 7. **Kein Blut, keine Fratze, keine Skelette.** „Kribbeln, kein Albtraum."
@@ -355,6 +359,121 @@ sits NEXT TO the real barcode position - that is the mistake this rule
 prevents.)
 ```
 
+### Block F — Lesbarkeit: Schrift gegen Hintergrund (der Block, der bei S2-2 fehlte)
+
+Der Grund: Die S2-2-Vorderseite wurde von KDP **dreimal** wegen unlesbarer Schrift
+abgelehnt (》Text verschwimmt mit dem Hintergrund《). Drei Ursachen, alle im Block
+adressiert:
+1. **1. Ablehnung:** Untertitel lag grau auf dem beleuchteten Fenster — die
+   Lichtquelle war in die Textzone hochgewandert (Regeln 2–3 unten).
+2. **2./3. Ablehnung:** die Schrift war **antikisiert** — rissige, abgeblätterte,
+   gehämmerte Buchstaben mit Lücken. KDPs Automatik liest gebrochene Konturen als
+   》verschwimmt《 (Regel 0). Und: der **Gold-Titel** ist für die Kontrast-Automatik
+   ein Mittelton, kein eindeutiges 》hell auf dunkel《 (Regel 4).
+
+KDP-Cover-Guideline (`kdp.amazon.com/help/topic/G201834260`): mind. **7 pt überall**,
+》Text doesn't blend into the background《, 》Other elements don't cut off or overlap
+text《. Dieser Block steht in **jedem** Band-Prompt, direkt **vor** der Layout-Karte,
+für Vorder- und Rückseite.
+
+```
+TEXT-BACKGROUND CONTRAST (CRITICAL - KDP rejected an S2 cover 3x for
+"text blends into the background"). These rules override any composition wish:
+
+0. ALL LETTERING IS CLEAN AND SOLID. Every letter is sharp-edged and evenly
+   filled, like fresh crisp printing or clean digital type. NO distressed,
+   weathered, antiqued, eroded, cracked, scratched, grungy, "vintage-worn" or
+   metal-hammered lettering. No broken strokes, no gaps inside letters, no
+   flaking, no crumbling edges. Plain, bold, instantly legible at thumbnail.
+
+1. EVERY line of text sits on a NEAR-BLACK background - the darkest tone in
+   the whole image, no brighter than a very deep charcoal. Imagine the
+   finished cover turned to greyscale: every letter must be obviously far
+   lighter than everything it touches.
+
+2. THE LIGHT SOURCE STAYS OUT OF THE TEXT ZONES. The one light source of the
+   scene (window, doorway gap, lamp, mirror glow) sits in the MIDDLE THIRD of
+   the height, roughly 44%-64%, and NEVER rises above 44%. The whole top 44%
+   of the image and the bottom 14% are the darkest parts of the picture:
+   plain, near-black, out of focus. No window, no lit edge, no glow, no
+   bright shelf rim, no reflection reaches into them.
+
+3. A DARKENING SCRIM UNDER THE TYPE. The illustration fades to almost solid
+   near-black across the top (0%-44%) and again across the bottom (82%-100%).
+   This is a smooth part of the painting - deep shadow that happens to sit
+   exactly where the text goes - NOT a drawn box, bar or rectangle.
+
+4. TEXT COLOUR IS CLEAN LIGHT-ON-DARK ONLY. Title = bright warm cream / bone
+   white (#efe7d3). Series line, subtitle, author = pale steel grey (#c8d0d8),
+   close to white. NO gold, NO amber, NO mid-tone in any text - KDP's contrast
+   check wants unambiguous light-on-dark. (The series' gold/amber survives
+   only as the dog's eye, never as type.) If the area behind any line is not
+   near-black, the BACKGROUND is wrong, not the text - darken it there.
+
+5. A THIN SAFETY OUTLINE. Every line of text carries a soft, narrow dark halo
+   (a subtle near-black drop shadow / thin outline), just enough to hold its
+   edge if a faint highlight ever drifts behind a letter. Keep it subtle -
+   the text must still look cleanly printed, not stickered and not glowing.
+
+6. NOTHING CROSSES THE TEXT. No letter overlaps a window, a lit edge, a
+   bright reflection, a shelf edge, a figure or a ghost. Between any
+   illustration detail and any letter there is clear near-black space.
+```
+
+> ⚠️ **Gold-Titel-Entscheidung 2026-08-05 (Abschnitt 3) hiermit für Staffel 2
+> überstimmt:** Band 3–5 sind mit Gold-Titel veröffentlicht und bleiben so. Für
+> S2-1 ff. gilt Creme-Weiß, bis eine gold-tragende Variante KDP nachweislich
+> passiert. Konsistenz verliert gegen "wird überhaupt veröffentlicht".
+
+> ⚠️ **Kein KI-Upscaler auf fertige Text-Cover.** Real-ESRGAN u. Ä. ziehen genau
+> die Buchstaben-Texturen hoch, die Regel 0 verbietet. Wenn hochskaliert werden
+> muss: nur sauberes LANCZOS (der Cover-Build macht danach ohnehin Unsharp), oder
+> das Bild gleich groß erzeugen.
+
+### Block G — Rückseite: Text zuerst, wörtlich (der Block, der bei S2-2 fehlte)
+
+Der Grund: Beim ersten S2-2-Rückseitenversuch (2026-09-03) stand der Klappentext
+erst in der Mitte eines ~230-Zeilen-Prompts, verteilt auf sieben Zonen. Das
+Modell hat ihn komplett ignoriert und einen **generischen Klappentext erfunden**
+(„Docklands von Whitby", „tödliche Folgen", „drei Freunde", „ab 10 Jahren") und
+dazu einen **Barcode mit Fantasie-ISBN** gemalt. Lehre: den vollständigen Text
+**vor** die Szene setzen, wörtlich, klar nummeriert, mit namentlicher
+Verbotsliste — dann kann das Modell nicht auf seine Priors ausweichen.
+
+```
+THE TEXT - THIS BLOCK IS THE ONLY SOURCE OF TRUTH (place it FIRST, before
+any scene description).
+
+Render blocks [A], [B], [C] ... in order, top to bottom, WORD FOR WORD. Do
+not translate, shorten, expand, summarise, rephrase, reorder or invent a
+single word. Every umlaut (ä ö ü) and ß exactly as printed.
+
+  [A]  <Reihenzeile>
+  [B]  <Bandzeile>
+  [C]  <Pull-Quote, mit deutschen Anführungszeichen „ ">
+  [D]..[H]  <Klappentext-Absätze, je einer pro Block>
+  [I]  <Alters-/Genre-Zeile>
+  [J]  <Reihen-Notiz>
+  [K]  Benjamin Krug
+
+There is NO other text on this cover.
+
+FORBIDDEN TEXT - never render:
+- any barcode, ISBN, EAN, price code, digit sequence or block of parallel
+  vertical lines, anywhere;
+- "ab 10 Jahren" / "Für Leserinnen und Leser ab ..." (the age is fixed by
+  block [I] only);
+- any generic keyword/theme row ("Freundschaft · Mut · Geheimnisse" o. ä.);
+- any second blurb the model might reach for instead of [D]-[H];
+- <hier bandspezifisch die konkreten Halluzinationen des letzten Versuchs
+  namentlich auflisten>.
+```
+
+Danach erst die (kurze) Szenenbeschreibung, dann Block F, dann die Prüfliste.
+Realistisch bleibt: Klappentext-Länge ist die schwerste KI-Aufgabe. Wenn nach
+3–4 Varianten keine fehlerfrei ist — Szene **ohne Text** erzeugen und die Texte
+im Layoutprogramm setzen.
+
 ---
 
 ## 6. Ablauf je Band
@@ -369,9 +488,15 @@ prevents.)
 6. `py Scripts/build_cover.py N` — bricht bei zu kleinen Bildern ab.
 7. **Kontrollbild ansehen:** liegt aller Text innerhalb der cyanen Linie? Ist das
    magentafarbene Barcode-Feld leer? Steht auf dem Rücken der richtige Titel?
-8. **Thumbnail bei 150 px ansehen:** Titel, Hingucker und Bernsteinauge noch
+8. **Lesbarkeitsprüfung (Block F):** Bild in Graustufen umrechnen (jedes
+   Bildprogramm, „Sättigung 0") — hebt sich **jede** Textzeile klar vom
+   Hintergrund ab? Liegt hinter jeder Zeile Nahezu-Schwarz? Berührt kein
+   Buchstabe Fenster, Lichtkante, Spiegelung, Regalkante, Figur oder Geist?
+   Wenn nein: **Hintergrund abdunkeln lassen, nicht die Schrift ändern** — neu
+   erzeugen.
+9. **Thumbnail bei 150 px ansehen:** Titel, Hingucker und Bernsteinauge noch
    erkennbar?
-9. Erst dann zu KDP.
+10. Erst dann zu KDP.
 
 > Schritt 7 ist nicht optional. Der falsch platzierte Barcode-Kasten in Band 4
 > und 5 war auf jedem Bildschirm unsichtbar und nur mit eingezeichneten Linien

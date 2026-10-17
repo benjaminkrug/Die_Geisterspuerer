@@ -80,7 +80,7 @@ Die Worte trafen ihn. Nora sah, wie sie ihn trafen — wie etwas, das er seit f�
 
 "Das kann ich nicht wissen", flüsterte Pawlik.
 
-"Doch." Nora deutete auf das Bild. "Steht da. *Ich bin nicht böse.* Nicht 'Mama ist schuld'. Nicht 'der Mann ist schuld'. *Ich bin nicht böse.* An niemanden gerichtet. An alle."
+"Doch." Nora deutete auf das Bild. "Steht da. *Ich bin nicht böse.* Nicht ‚Mama ist schuld‘. Nicht ‚der Mann ist schuld‘. *Ich bin nicht böse.* An niemanden gerichtet. An alle."
 
 Pawliks Hand zitterte, als er nach dem Handy griff.
 

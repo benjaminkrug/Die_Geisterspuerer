@@ -217,11 +217,19 @@ def randfarbe(panel, seite, tiefe=40):
     return tuple(int(c) for c in np.median(streifen.reshape(-1, 3), axis=0))
 
 
-def zeichne_ruecken(w, h, bg, band, titel, seiten):
+def zeichne_ruecken(w, h, bg, band, titel, seiten, erzwingen=False):
     """Setzt den Buchruecken: Bandnummer / Titel / Reihe / Autor.
 
     Aufbau waagerecht (Laenge = Buchhoehe), am Ende rotate(-90) -> der Text
     laeuft von OBEN NACH UNTEN. Nachgemessen an Band 2-5.
+
+    erzwingen=True: ueberspringt NUR die eigene 7-pt-Sicherheitsschwelle
+    (nutzbar < min_px) und setzt trotzdem Bandnummer + Titel, so klein wie
+    noetig -- bewusste Entscheidung des Autors nach Warnung (S2-2/S2-3, beide
+    zu kurz fuer einen KDP-konformen Ruecken, aber Autor will "wie bei S2-1"
+    lieber eine kleine Bandnummer als einen leeren Ruecken). Die haertere,
+    von KDP selbst erzwungene Grenze (seiten < MIN_SEITEN_RUECKENTEXT) bleibt
+    IMMER aktiv, die kann kein Flag umgehen.
     """
     strip = Image.new("RGB", (h, w), bg)
     d = ImageDraw.Draw(strip)
@@ -233,9 +241,27 @@ def zeichne_ruecken(w, h, bg, band, titel, seiten):
         print(f"  !! {seiten} Seiten -- KDP erlaubt unter {MIN_SEITEN_RUECKENTEXT} "
               f"Seiten KEINEN Rueckentext. Ruecken bleibt leer.")
         return strip.rotate(-90, expand=True), []
-    if nutzbar < 16:
-        print(f"  !! Ruecken zu schmal fuer Text ({nutzbar} px nutzbar) -- bleibt leer.")
+
+    # KDP-Cover-Guidelines: JEDER Text -- auch auf dem Ruecken -- muss mind.
+    # 7 pt gross sein ("Text is at least 7-point font"). 7 pt = 29 px @ 300 dpi.
+    # Passt das nicht in die nutzbare Rueckenbreite, wird der Ruecken TEXTFREI
+    # gesetzt -- lieber ein sauberer leerer Ruecken als ein grauer Schmierer,
+    # den KDP als "Text schwer lesbar" ablehnt.
+    #
+    # ★ Genau das war der Grund fuer die dreifache KDP-Cover-Ablehnung von
+    #   S2-2 (09/2026): 82 Seiten -> 16 px nutzbar -> Titel bei 2,9 pt.
+    #   Betrifft beim Neubau auch Band 4 (95 S., ~26 px) -- dessen gedruckter
+    #   Ruecken traegt aktuell 2,3-3,7-pt-"Text", der dieselbe Regel verletzt.
+    MIN_PT_KDP = 7
+    min_px = MIN_PT_KDP / 72 * DPI
+    if nutzbar < min_px and not erzwingen:
+        print(f"  !! Ruecken: nur {nutzbar} px nutzbar, 7-pt-Text braucht "
+              f"{min_px:.0f} px. KDP verlangt mind. 7 pt ueberall -- Ruecken "
+              f"bleibt TEXTFREI (leerer Ruecken statt unlesbarer Schmierer).")
         return strip.rotate(-90, expand=True), []
+    if nutzbar < min_px and erzwingen:
+        print(f"  !! Ruecken: nur {nutzbar} px nutzbar, 7-pt-Text braucht "
+              f"{min_px:.0f} px -- ERZWUNGEN trotz Unterschreitung (Autor-Entscheidung).")
 
     def setze(text, f, farbe, x_anteil):
         """Zeichnet mittig auf der Ruecken-BREITE, an x_anteil der Buchhoehe."""

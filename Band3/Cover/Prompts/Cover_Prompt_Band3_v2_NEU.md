@@ -6,6 +6,26 @@
 > **Format: 6 × 9 Zoll**, 106 Seiten, Buchrücken 6,1 mm.
 > Bild in **2:3** erzeugen — passt fast exakt (Panel 0,662), unter 1 % Beschnitt.
 
+> ⚠️ **Nachträglich korrigiert 2026-09-20** (dieser Prompt stammt vom 05.08.2026, also von
+> **vor** Block F in `Cover_Reihenstandard.md`, das erst am 03./04.09.2026 aus den drei
+> S2-2-KDP-Ablehnungen entstand — deshalb wurde hier gegengeprüft):
+> 1. **Rückseiten-Zitat war ein erfundener Zusammenschnitt.** „Unser Geisterhund freut sich.
+>    Das ist schlimmer, als wenn er knurren würde." stand als ein durchgehender Satz da. Im
+>    Manuskript (Zeile 732–736) liegt dazwischen eine ganze Nora-Zeile plus ein Theo-Halbsatz
+>    („in einen stockdunklen Tunnel zu gehen, in dem ein totes Kind ruft … Das ist das
+>    schlechteste Zeichen aller Zeiten") — exakt das Muster aus der Memory-Notiz
+>    „Verkaufstexte nie geprüft". Korrigiert mit „…" an der echten Auslassungsstelle, nach
+>    demselben Muster wie die Korrektur in `S2-2/KDP_S2-2.md`.
+> 2. **Titel-Typografie forderte einen gemeißelten Bevel-Effekt** („carved capitals … lighter
+>    gold highlight … darker gold along the bottom") — genau die Art von texturierter Schrift,
+>    die Block F Regel 0 seitdem verbietet. Gold selbst ist hier nicht das Problem (Band 2/3
+>    sind mit Gold-Titel bereits erfolgreich gedruckt), aber der neue Bevel-Effekt kam im
+>    bereits gedruckten Original-Cover nicht vor. Auf flaches, sauberes Gold ohne Relief
+>    reduziert.
+> 3. **Textzonen-Schwärze verschärft** (Block-F-Regel 3, „Scrim"): „almost black, calm,
+>    uncluttered" war vorhanden, aber weniger zwingend als in neueren Prompts — jetzt
+>    explizit als garantiert nahezu-schwarzer Verlauf beschrieben.
+
 ---
 
 ## Ausgangslage: Band 3 war der sauberste der fünf
@@ -163,9 +183,13 @@ FORWARD into the dark - and someone has recently drawn a fresh white chalk
 arrow on the wall pointing the same way.
 
 VERTICAL LAYOUT (top to bottom):
-- TOP ~30% : the dark vaulted tiled ceiling of the platform hall, almost
-  black, calm and uncluttered. There is NO sky in this picture. The SERIES
-  LINE, the MAIN TITLE and the SUBTITLE all sit inside this band.
+- TOP ~30% : the dark vaulted tiled ceiling of the platform hall. This band
+  fades to almost solid near-black - the darkest tone anywhere in the image -
+  as a smooth, deliberate part of the painting (deep shadow that happens to
+  sit exactly where the text goes, not a drawn box or bar). No sky, no torch
+  glow, no tile detail, no bright edge reaches up into this band. The SERIES
+  LINE, the MAIN TITLE and the SUBTITLE all sit inside this band, each on
+  near-black background so it reads clearly on a greyscale check.
 - MIDDLE ~34-64% : the tiled platform wall on the left with the fresh WHITE
   CHALK ARROW at eye height, and straight ahead the black mouth of the tunnel
   swallowing the torch beam.
@@ -268,11 +292,14 @@ SERIES LINE (small, at the very top, thin widely spaced capitals, steel-grey
 #9aa6b0):
 DIE GEISTERSPÜRER · BAND 3
 
-MAIN TITLE (large and dominant, but NEVER wider than 82% of the image - heavy
-carved capitals, slightly condensed, in warm GOLD (#dfb057, with a lighter
-gold highlight along the top edge of the letters and a darker gold along the
-bottom) with a hard dark shadow so it stays readable against the black
-ceiling). Set on TWO centred lines:
+MAIN TITLE (large and dominant, but NEVER wider than 82% of the image - bold,
+slightly condensed capitals, flat and evenly filled, in a single clean warm
+GOLD (#dfb057) - NO carved or embossed look, NO bevel, NO highlight/shadow
+gradient along the letter edges, no distressed or antiqued texture. The
+letters must look like fresh, crisp printing: sharp-edged, solid, instantly
+legible at thumbnail size. A soft, subtle near-black outline/drop shadow
+holds the edge against the dark ceiling - nothing more elaborate than that.
+Set on TWO centred lines:
     SCHATTEN
     SIEHT MEHR
 The whole title block stays in the top third and must not reach down into the
@@ -385,7 +412,7 @@ Die Geisterspürer
 Band 3
 
 QUOTE (italic, slightly larger, two lines, with a gap below):
-„Unser Geisterhund freut sich.
+„Unser Geisterhund freut sich, in einen stockdunklen Tunnel zu gehen …
 Das ist schlimmer, als wenn er knurren würde."
 — Theo, 10 Jahre
 
@@ -461,6 +488,8 @@ even and darkened so that text can be placed on top afterwards.
 - [ ] Nora **Teal**, Theo **Oliv**, nicht vertauscht
 - [ ] **Titel in Gold** (`#dfb057`) — Reihenstandard seit 2026-08-05, gemessen
       an Band 2 und 3. Band 1 bleibt als einziger kalkweiß (bereits veröffentlicht)
+- [ ] **Titel flach und sauber, kein Relief/Bevel** — nachträgliche Korrektur
+      2026-09-20, siehe Kopfhinweis
 - [ ] Kein gemalter Rahmen, kein Siegel
 
 **Technik:**

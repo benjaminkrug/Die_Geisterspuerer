@@ -78,7 +78,7 @@ Nora hätte ihn am liebsten getreten. Sie hatten eine Geschichte gehabt, eine ha
 
 "Was hast du gesagt?", fragte der Mann.
 
-"Da unten." Theo deutete Richtung Gitter. "Wir haben eine Stimme gehört. Ein Kind. Es hat — es hat 'Mama' gerufen."
+"Da unten." Theo deutete Richtung Gitter. "Wir haben eine Stimme gehört. Ein Kind. Es hat — es hat ‚Mama‘ gerufen."
 
 Etwas geschah mit dem Gesicht des alten Mannes.
 
