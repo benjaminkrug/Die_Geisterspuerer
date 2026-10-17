@@ -24,19 +24,24 @@ import cv2
 
 _ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-# ASINs der Taschenbuch-Ausgaben (vom Autor 2026-07-18)
+# ASINs der Taschenbuch-Ausgaben (vom Autor 2026-07-18, S2-1 ergaenzt 2026-08-26)
 ASIN = {
-    1: "B0GNZVXDDJ",   # Das Haus, das fluestert   (bereits gedruckt)
-    2: "B0GV8R8QJ6",   # Der Friedhof ohne Namen
-    3: "B0H4VQHBLX",   # Schatten sieht mehr
-    4: "B0H869XC17",   # Die zugemauerte Tuer
-    5: "B0H9DJF3T9",   # Der Schleier
+    1: "B0GNZVXDDJ",     # Das Haus, das fluestert   (bereits gedruckt)
+    2: "B0GV8R8QJ6",     # Der Friedhof ohne Namen
+    3: "B0H4VQHBLX",     # Schatten sieht mehr
+    4: "B0H869XC17",     # Die zugemauerte Tuer
+    5: "B0H9DJF3T9",     # Der Schleier
+    "S2-1": "B0HDP2CC93",  # Der Gast, der blieb (Die Gebundenen, Band 1)
+    "S2-2": "B0HHWD1XFL",  # Die Uhr, die rueckwaerts laeuft (Die Gebundenen, Band 2)
 }
 
 URL_MUSTER = "https://www.amazon.de/review/create-review?asin={asin}"
 
 
-def pfad(band: int) -> str:
+def pfad(band) -> str:
+    if isinstance(band, str) and band.startswith("S2-"):
+        dateiname = f"qr_rezension_s2_{band.split('-')[1]}.png"
+        return os.path.join(_ROOT, "Staffel2", band, "Cover", dateiname)
     return os.path.join(_ROOT, f"Band{band}", "Cover", f"qr_rezension_band{band}.png")
 
 
@@ -117,7 +122,7 @@ def main():
     print("Rezensions-QR-Codes — Die Geisterspuerer")
     print("=" * 70)
     ok = True
-    for band in sorted(ASIN):
+    for band in sorted(ASIN, key=str):
         if not erzeuge(band, ueberschreiben):
             ok = False
     if not erzeuge_weiter_band2():

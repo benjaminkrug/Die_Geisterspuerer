@@ -344,7 +344,15 @@ def add_back_matter(doc):
             first_line_indent=False,
         )
 
-    # --- 6. Andere Serien (gekuerzt) ---
+    add_blank_lines(doc, 1)
+    add_formatted_paragraph(
+        doc,
+        "Die Geisterspürer gibt es auch als Mitmach-Buch, in dem *du* entscheidest, "
+        "was Nora und Theo als Nächstes tun.",
+        first_line_indent=False,
+    )
+
+    # --- 6. Andere Serien (gekuerzt, wortgleich mit dem Taschenbuch) ---
     add_blank_lines(doc, 1)
     add_centered_text(doc, "* * *", font_size=11)
     add_blank_lines(doc, 1)
@@ -353,8 +361,9 @@ def add_back_matter(doc):
     add_centered_text(doc, "Die Herrenhaus-Detektive", font_size=12, bold=True)
     add_centered_text(doc, "Detektivabenteuer ab 8 Jahren", font_size=10, italic=True)
     add_blank_lines(doc, 1)
-    add_centered_text(doc, "Die Chrono-Agenten", font_size=12, bold=True)
-    add_centered_text(doc, "Zeitreise-Abenteuer", font_size=10, italic=True)
+    add_centered_text(doc, "Dein Fall – Du entscheidest!", font_size=12, bold=True)
+    add_centered_text(doc, "Das verbotene Herrenhaus", font_size=11, italic=True)
+    add_centered_text(doc, "Detektiv-Spielbuch ab 8 Jahren", font_size=10, italic=True)
 
 
 # --- Festes, verlinktes Inhaltsverzeichnis (2026-10-14) ---------------------------------------
