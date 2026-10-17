@@ -52,12 +52,13 @@ ist gröber geworden.
 
 ## 2. Zählung
 
-**110 Witze** geprüft: 19 aus A3 Teil A, 88 aus Teil B (89 Einträge; „Noch nicht" K15 ist zugleich W1-19 und wird nur einmal
-gezählt), 3 klare Witze im DE, die nicht auf der Liste stehen (X1–X3).
+**111 Witze** geprüft: 19 aus A3 Teil A, 89 aus Teil B (alle Einträge; „Noch nicht" K15 ist zugleich W1-19 und nur einmal
+gezählt, dafür steht die Wiederholung „Wütend Punkt Grab Punkt" K15 Z.39 als eigene Zeile), 3 klare Witze im DE, die nicht auf
+der Liste stehen (X1–X3).
 
 | Urteil (Frage 1) | Anzahl |
 |---|---|
-| funny | **95** |
+| funny | **96** |
 | kind of | **14** (W1-02, W1-06, W1-07, W1-10, W1-14, W1-18, K1-12, K3-02, K3-10, K4-04, K7-01, K9-02, K13-02, K16-05) — bei allen außer W1-06 und W1-18 landet schon das DE nur *kind of* (Wärme-Witze, trockener Erzählerwitz) oder das US-Wort ist so schwer wie das deutsche |
 | flat | **1** (W1-15 → Befund B1) |
 
