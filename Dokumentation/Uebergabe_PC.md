@@ -1,23 +1,16 @@
 # Übergabe: am PC weiterarbeiten (Stand 2026-10-17)
 
 ## 1. Wo der Stand liegt
-Alles ist gepusht, aber auf **zwei Branches**, noch nicht in `main`:
-
-| Branch | Inhalt |
-|---|---|
-| `ccr-15523105-z095g4` | Englische Ausgabe: Bibel, Skripte (`pruefe_en.py`, `build_ebook_en_band1.py`), Band 1 EN komplett, Prüfberichte, Nachanalyse D8, Rahmen, diese Übergabe |
-| `ccr-c33fc6fe-peyki0` | Deutsches Buch: alle Korrekturen an Band 1 (Fundliste) und Band 2 Kap. 1, Bauskripte DE (festes Inhaltsverzeichnis, Output-Ordner) |
-
-Beide gehen ohne Konflikt zusammen (getestet: zusammengeführt, alle Prüfungen und beide Bauskripte laufen, `DE_Basis` = deutsches Manuskript).
-**Empfehlung:** beide in `main` zusammenführen (zwei Pull Requests), dann am PC nur noch `main`.
+**Alles ist in `main`** (zusammengeführt 2026-10-17 aus `ccr-c33fc6fe-peyki0` = deutsches Buch und
+`ccr-15523105-z095g4` = englische Ausgabe; nach dem Zusammenführen geprüft: Selbsttest, K1–K16 0 Befunde,
+beide eBook-Bauskripte, `pruefe_band1_umbau.py`, `DE_Basis` = deutsches Manuskript). Die beiden Arbeits-Branches
+werden nicht mehr gebraucht.
 
 ## 2. Am PC holen
 ```
 git fetch origin
-git checkout main && git pull            # falls zusammengeführt
-# sonst:
-git checkout ccr-15523105-z095g4         # Englisch
-git checkout ccr-c33fc6fe-peyki0         # Deutsch (eigener Ordner: git worktree add ../GS_DE ccr-c33fc6fe-peyki0)
+git checkout main
+git pull
 ```
 
 ## 3. Was am PC installiert sein muss
