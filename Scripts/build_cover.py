@@ -111,7 +111,9 @@ FONT_FALLBACK = [
 # --------------------------------------------------------------------------
 BAENDE = {
     # ★ Band 1 bleibt 5 x 8 (Entscheidung 2026-08-04, s. FORMATE oben).
-    1: dict(titel="Das Haus, das flüstert",       seiten=186, bestaetigt=True,
+    # Seiten 186 -> 163: Umbau auf 16 Kapitel, Wert aus dem KDP-Previewer
+    # (Autor, 2026-10-17).
+    1: dict(titel="Das Haus, das flüstert",       seiten=163, bestaetigt=True,
             format="5x8", papier="weiss", ruecken_bg=None,
             # Der Titel sitzt in der Vorlage rechts der Mitte. Ohne Versatz:
             # links 12.2 mm, rechts 7.7 mm ab Schnittkante. Mit +26 px stehen
