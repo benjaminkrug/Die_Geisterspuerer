@@ -532,6 +532,7 @@ def main():
     add_back_matter(doc)
 
     # Save
+    os.makedirs(os.path.dirname(os.path.abspath(OUTPUT_FILE)), exist_ok=True)  # Output/ ist nicht in git (frischer Klon)
     doc.save(OUTPUT_FILE)
     print(f"{OUTPUT_FILE} erstellt!")
 

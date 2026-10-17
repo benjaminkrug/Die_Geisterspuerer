@@ -528,6 +528,7 @@ def main():
     parse_and_build(doc, content)
     add_back_matter(doc)
 
+    os.makedirs(os.path.dirname(os.path.abspath(OUTPUT_DOCX)), exist_ok=True)  # Output/ ist nicht in git (frischer Klon)
     doc.save(OUTPUT_DOCX)
     print(f"DOCX erstellt: {OUTPUT_DOCX}")
 
