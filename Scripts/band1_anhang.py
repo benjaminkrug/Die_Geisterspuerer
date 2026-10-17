@@ -31,6 +31,8 @@ BAND2_ASIN = "B0GV8R8QJ6"
 # --------------------------------------------------------------------------
 # Wohin fuehren QR-Code und Link "weiter zu Band 2"?
 # --------------------------------------------------------------------------
+# ★ ENTSCHIEDEN 2026-10-17 (Autor): KEINE eigene Domain, der Code fuehrt direkt zu
+#   Amazon. Nicht erneut vorschlagen. Die Scan-Zaehlung aus Plan Abschnitt 8 entfaellt.
 # Solange es die eigene Domain nicht gibt (Plan, Abschnitt 8), fuehrt der Code
 # direkt auf Amazon. Das funktioniert, aber die Scans lassen sich NICHT zaehlen.
 # Sobald die Weiterleitung steht: hier eintragen, z. B.
