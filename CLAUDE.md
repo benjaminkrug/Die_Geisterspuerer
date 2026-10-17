@@ -69,3 +69,26 @@ When generating manuscript text, these rules from the style guides are **non-neg
 | Supernatural | No (rational explanations) | Yes (ghosts are real) |
 | Team | 3 friends | 2 siblings + dog |
 | Tone | Cozy mystery | Grusel with humor |
+
+## Working with the author (standing instructions)
+
+- **Answer in German.** Justify every recommendation and question it critically; report **only real improvements**.
+- Open decisions go to the author as **decision questions with options and a recommendation** (AskUserQuestion).
+- Never "fix" logic of the German original inside a translation — collect it in `Dokumentation/EN_Bibel/Band1_Fundliste_DE.md`; the author decides.
+- Commit and push after each finished step; no model names in files or commits.
+
+## English edition (The Ghost Listeners) — where things are
+
+| What | Where |
+|---|---|
+| Plan, phases, current status | `Dokumentation/Internationalisierung_Vorgehensplan.md` (section "Stand …") |
+| Translation bible (glossary, voices, jokes, motifs, register, traps, scene intents, style brief) | `Dokumentation/EN_Bibel/A1–A8` |
+| **Prompt templates for every translation/review pass** | `Dokumentation/EN_Bibel/Vorlagen_Pruefdurchgaenge.md` |
+| Band 1 EN text, notes, reviews, word list, status | `Band1/Manuskript_EN/` (`README.md` = status table, `Wortliste_Band1.md` = fixed wording, read before translating) |
+| Frozen German source for the translation + change log | `Band1/Manuskript_EN/DE_Basis/`, `Band1/Manuskript_EN/Aenderungsliste_DE.md` |
+| Final cross-check against the German (D8) | `Band1/Manuskript_EN/Nachanalyse/` |
+| Front/back matter, Book 2 sneak peek | `Band1/Manuskript_EN/Rahmen/` |
+| Checks | `python3 Scripts/pruefe_en.py pruefen DE.md EN.md` · `konsistenz Band1/Manuskript_EN` · `selbsttest` |
+| Build EN eBook (+ regenerates the full text) | `python3 Scripts/build_ebook_en_band1.py` → `Output/Band1_EN/` |
+
+`Output/` is not in git — rebuild files with the scripts.
