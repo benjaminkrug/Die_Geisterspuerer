@@ -115,7 +115,7 @@ BEGLEITEND ab sofort: Schreibregeln für neue Texte (Staffel 2 und später)
 | A6 | Fallen-Liste | Abschnitt 2, für alle Bände |
 | A7 | Szenen-Absicht | pro Kapitel: was soll der Leser fühlen + Kapitelende. **Autor prüft.** |
 | A8 | Stil-Brief EN | „said"-Regel, Lesbarkeit statt Wortzahl, Absätze, Anführungszeichen, US-Schreibweise |
-| A9 | US-Zielwerte | Lesbarkeit, Satzlänge, Dialoganteil, Absatzlänge von 3–5 US-Middle-Grade-Grusel-Titeln (aus Leseproben gemessen) |
+| A9 | ~~US-Zielwerte~~ **gestrichen (9.7)** | Lesbarkeit, Satzlänge, Dialoganteil, Absatzlänge von 3–5 US-Middle-Grade-Grusel-Titeln (aus Leseproben gemessen) |
 | A10 | Titelprüfung + US-Marktanalyse | wie bisher |
 
 **Neu: A11 — Prüfskripte** (`Scripts/pruefe_en.py`). Weil kein Mensch nachliest, muss alles,
@@ -129,7 +129,7 @@ was messbar ist, **gemessen** werden:
 | **Falsche Freunde / Germanismen** | *become* für „bekommen", *eventually* für „eventuell", *also* am Satzanfang, *handy*, deutsche Satzstellung (Verb am Ende), „Frau" ohne Glossar-Freigabe |
 | **US-Schreibweise** | britische Formen (*colour, mum, pavement, torch*) |
 | Stockwerke, Maße, Zahlen | F8, F13 |
-| Lesbarkeit je Kapitel | Abweichung vom US-Korridor (A9) |
+| Lesbarkeit je Kapitel | ~~Abweichung vom US-Korridor (A9)~~ → nur DE↔EN-Vergleich (D8.1), A9 gestrichen |
 | Schatten je Kapitel, Kapitelende | Pflichtregeln der Reihe |
 | Reste | Umlaute, deutsche Anführungszeichen, unübersetzte Wörter |
 
@@ -252,7 +252,7 @@ eine englische Fassung erweitert.
 | Offene Sinnabweichungen (D3, D4) | **0** |
 | Prüfskript-Meldungen (D7) | **0** offen, Rest begründet |
 | US-Lektor-Markierungen (D5) | nach Umsetzung neuer Durchgang: **deutlich weniger als in Runde 1**, Rest begründet |
-| Lesbarkeit je Kapitel | im US-Korridor (A9) |
+| ~~Lesbarkeit je Kapitel~~ | ~~im US-Korridor (A9)~~ — gestrichen, s. 9.7 |
 | Kapitelenden | jedes mit Sog (Abgleich Szenen-Absicht, D8.4) |
 | Nachanalyse (D8) | **0** offene Befunde; jede Abweichung DE ↔ EN behoben oder begründet |
 
@@ -389,7 +389,8 @@ Alle Prüf-Durchgänge sind KI. Sie haben **gemeinsame blinde Flecken** mit dem 
 natürliches Englisch hält, hält sie auch beim Prüfen dafür. Getrennte Durchgänge verringern das, heben es
 aber nicht auf. Und der Autor kann das Englische selbst nicht abschließend beurteilen.
 
-**Was der Plan dagegen tut:** Messwerte gegen echte US-Bücher (A9), Germanismen-Skript, kostenlose Leser (E2),
+**Was der Plan dagegen tut:** ~~Messwerte gegen echte US-Bücher (A9)~~ (gestrichen, 9.7 — damit fehlt der einzige
+Maßstab von außerhalb der KI; E2 und E3 wiegen umso schwerer), Germanismen-Skript, kostenlose Leser (E2),
 Stiller Start (E3), Übersetzungs-Klagen als Signal an Prüfpunkt 2.
 
 **Was er nicht tun kann:** garantieren, dass ein amerikanisches Elternteil in der Leseprobe nichts
@@ -492,6 +493,7 @@ Leser (E2).
 | 9.3 | Kindle Unlimited? | **Ja, alle deutschen E-Books** | Englische E-Books **ebenfalls in KU**. Während des stillen Starts zeigen die gelesenen Seiten (KENP), **wie weit** englische Leser im Schnitt kommen — grob, aber ein Lesersignal ohne Testleser. (Die genaue Ausstiegsstelle zeigt KENP nicht.) |
 | 9.4 | Vorrang Staffel 2 oder Englisch? | **Beides parallel** | Staffel 2 läuft weiter; Phase A nebenher. Die Übersetzung startet nach Prüfpunkt 1. |
 | 9.5 | „Frau" oder „Mrs."? | **Mrs.** (Glossar E8) | — |
+| 9.7 | A9 US-Lesbarkeits-Korridor (2026-10-17) | **Streichen** | Abnahme Band 1 EN über Spannung (D8.2), Witz (D8.5) und Gleichwertigkeit mit dem Deutschen (D8.1). Folge: Ob die Lesestufe zum US-Markt passt, misst niemand — Signal dafür sind nur E2/E3 und Rezensionen („too hard/too easy"). |
 | 9.6 | Doppelter Satz B3 K15 / B4 K15 | zuerst „Band 4 ändern" | **Nicht geändert:** Der Satz ist laut Band-4-Planung ein gewolltes Echo (Murmel ↔ Medaillon). Meine Frage beruhte auf einer falschen Annahme. Jetzt Register R43. |
 
 ---
@@ -555,3 +557,8 @@ mit Selbstprüfung (`Scripts/build_ebook_en_band1.py`). Nebenbei im deutschen Ba
 (v. a. D8.3 Stimmen, D8.4 Kapitelenden, D8.5 Witze — vier Übersetzer-Durchgänge, Stimmen nie blockübergreifend geprüft).
 **Offen für Phase E:** A10 Titelprüfung → Cover EN → Taschenbuch EN, KDP-Texte (neu geschrieben), KI-Angabe im Dashboard,
 Rezensions-Link nach Veröffentlichung.
+
+**Stand 2026-10-17 — Band 1 EN abgenommen.** A9 gestrichen (9.7); alle übrigen Abnahmekriterien erfüllt
+(`Band1/Manuskript_EN/Nachanalyse/Nachanalyse_Band1.md`). Deutsches Band 1 (Umbau, 16 Kapitel, 163 Seiten) und
+Band 2 (Kap. 1 Zeitangaben) am selben Tag bei KDP hochgeladen; das hochgeladene Band 1 ist identisch mit `DE_Basis/`.
+**Nächster Schritt: A10** Titelprüfung (*The Whispering Window* gegen Amazon.com/USPTO) + US-Marktanalyse → Cover-Briefing.

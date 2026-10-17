@@ -22,13 +22,13 @@ git pull
 ## 4. Mit Claude Code weitermachen
 Claude liest beim Start `CLAUDE.md` (Arbeitsweise, wo was liegt). Guter Einstieg:
 > „Lies `Dokumentation/Internationalisierung_Vorgehensplan.md` (Stand), `Band1/Manuskript_EN/README.md` und
-> `Band1/Manuskript_EN/Nachanalyse/Nachanalyse_Band1.md`. Nächster Schritt ist A9. Arbeite nach
+> `Band1/Manuskript_EN/Nachanalyse/Nachanalyse_Band1.md`. Nächster Schritt ist A10. Arbeite nach
 > `Dokumentation/EN_Bibel/Vorlagen_Pruefdurchgaenge.md`."
 
 Am PC zusätzlich möglich, was hier nicht ging: **QR-Codes erzeugen** (`qrcode` installierbar), Kindle Previewer, KDP-Upload, Cover in Canva.
 
 ## 5. Nächste Schritte
-1. **A9** US-Lesbarkeitswerte → Abnahme Band 1 EN.
+1. ~~**A9** US-Lesbarkeitswerte → Abnahme Band 1 EN.~~ Gestrichen (Autor, 2026-10-17); Band 1 EN ist abgenommen.
 2. **A10** Titelprüfung + US-Marktanalyse → **Cover-Briefing** → Cover (Autor).
 3. Taschenbuch EN, KDP-Texte (US, neu geschrieben), KI-Angabe im Dashboard; nach Veröffentlichung ASIN in `BOOK1_ASIN_EN` eintragen, neu bauen, Datei ersetzen.
-4. Deutsch (Autor): eBook Band 1 neu hochladen (Korrekturen + festes Inhaltsverzeichnis), Band 2 neu hochladen (Zeitangaben), QR-Code Taschenbuch Band 1, Inhaltsverzeichnis Band 2–5 in der KDP-Vorschau prüfen.
+4. ~~Deutsch (Autor): eBook Band 1 neu hochladen (Korrekturen + festes Inhaltsverzeichnis), Band 2 neu hochladen (Zeitangaben), QR-Code Taschenbuch Band 1~~ ✅ 2026-10-17 hochgeladen (Band 1: 163 Seiten, Cover-Rücken neu). Offen: Inhaltsverzeichnis eBooks Band 3–5 in der KDP-Vorschau prüfen.

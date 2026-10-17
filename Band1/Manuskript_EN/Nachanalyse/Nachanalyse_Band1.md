@@ -28,8 +28,8 @@ Randnotiz sie erklärt (Plan 4, D8; 8.7). Einzelberichte in diesem Ordner.
 | Offene Sinnabweichungen (D3, D4) | 0 | ✅ 0 |
 | Prüfskript (D7) | 0 offen | ✅ K1–K16 je 0 |
 | US-Lektor | deutlich weniger als Runde 1, Rest begründet | ✅ 13/16 „nicht übersetzt", K2/K6/K10 mit Meldung |
-| Lesbarkeit je Kapitel im US-Korridor (A9) | im Korridor | ⏳ **offen** — A9 noch nicht erstellt |
+| ~~Lesbarkeit je Kapitel im US-Korridor (A9)~~ | ~~im Korridor~~ | **gestrichen** (Autor, 2026-10-17): Spannung (D8.2), Witz (D8.5) und Gleichwertigkeit mit dem Deutschen (D8.1) gelten als Abnahme. Plan 9.7 |
 | Kapitelenden mit Sog (D8.4) | jedes | ✅ |
 | Nachanalyse D8 | 0 offene Befunde | ✅ alle behoben oder begründet |
 
-**Damit fehlt zur Abnahme nur A9.**
+**✅ Band 1 EN abgenommen (2026-10-17).** Weiter mit Phase E: A10 Titel/US-Markt → Cover EN.

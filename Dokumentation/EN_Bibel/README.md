@@ -16,11 +16,11 @@ Plan: `Dokumentation/Internationalisierung_Vorgehensplan.md`, Phase A.
 | A6 | Fallen-Liste | [A6_Fallen_Liste.md](A6_Fallen_Liste.md) | ✅ vollständig B1–B5 (31 Fallen) |
 | A7 | Szenen-Absicht je Kapitel | [A7_Szenen_Absicht_Band1.md](A7_Szenen_Absicht_Band1.md) | ✅ Band 1 alle 16 Kapitel · mit Setups/Rückgriffen · 285 Zitate maschinell geprüft · **Autor prüft** |
 | A8 | Stil-Brief EN | [A8_Stil_Brief.md](A8_Stil_Brief.md) | ✅ Fassung 0 · wird im Pilot geschärft |
-| A9 | US-Zielwerte (Vergleichstitel) | – | ⏳ offen |
+| A9 | US-Zielwerte (Vergleichstitel) | – | **gestrichen** (Autor, 2026-10-17) · Lesbarkeit = Gleichwertigkeit mit dem Deutschen (D8.1) · Plan 9.7 |
 | A10 | US-Marktanalyse | – | ⏳ offen · Titelprüfung schon in A1, Gegenprobe (Amazon.com, USPTO) vor dem Cover |
 | A11 | Prüfskripte | `Scripts/en_bibel_extrakt.py` · `Scripts/pruefe_en.py` | ✅ Extraktion (register, fallen, stimmen, motive) · EN-Prüfung (Absätze, Ein-Satz-Absätze, Ausrufe, Flüche, britisch, Glossar, Motive, Dialogverben, Deutsch-Reste, Stockwerke, Temperaturen, Register) · D8.1-Bericht · beide mit Selbsttest |
 
-**Reihenfolge ab jetzt** (A0, Abschn. 5): ~~A2 + A4 → A8 → A11 → Pilot~~ ✅ → A7/A9 → A10.
+**Reihenfolge ab jetzt** (A0, Abschn. 5): ~~A2 + A4 → A8 → A11 → Pilot~~ ✅ → A7 ✅ → ~~A9~~ (gestrichen) → A10.
 
 **Pilot (Phase C) gelaufen:** [Pilot/Pilot_Auswertung.md](Pilot/Pilot_Auswertung.md) — K1 und K9, drei Runden,
 alle Berichte in `Pilot/`.

@@ -51,7 +51,7 @@
 | **Absätze 1 : 1.** Jeder deutsche Absatz wird genau ein englischer Absatz. Nie zwei zusammenlegen, nie einen teilen. | Die Absätze tragen das Tempo. Prüfskript A11 zählt sie. |
 | **Ein-Satz-Absätze sind heilig.** Schockmomente stehen allein: *„Genau aus Frau Silbers Wohnung."* | Der Weißraum ist der Schreck. Jeder verlorene Ein-Satz-Absatz ist ein Befund (D8.1). |
 | **Satzlänge:** Ziel 10–15 Wörter, höchstens 18 — wie im Original. Ein langer deutscher Satz darf im Englischen in zwei Sätze zerfallen, zwei kurze dürfen **nicht** zu einem werden. | Englisch braucht oft mehr Wörter für dasselbe. Die Grenze schützt das Tempo. |
-| **Lesbarkeit:** Messung in Silben, nicht Wörtern (D8.1). Der US-Zielkorridor kommt aus A9 — **nach** dem Pilot. Bis dahin gilt: Gleichwertigkeit mit dem Deutschen. | Ohne Vergleichstitel wäre jede Zahl hier geraten. |
+| **Lesbarkeit:** Messung in Silben, nicht Wörtern (D8.1). Es gilt: **Gleichwertigkeit mit dem Deutschen**. Ein US-Zielkorridor (A9) ist gestrichen (Autor, 2026-10-17). | Ohne Vergleichstitel wäre jede Zahl hier geraten; der feste Maßstab ist das Original. |
 
 ---
 
@@ -211,5 +211,5 @@ zuerst weg — und das Hintere ist auch das, was D4/D5 am ehesten noch auffangen
   statt *said Theo*, *muttered/murmured*. Sie sind begründet, aber kein Muttersprachler hat sie
   bestätigt. Prüfung: D5 (US-Lektor ohne Deutsch) markiert, was fremd klingt — wenn er *cellar* oder
   *hackles* markiert, wird umentschieden.
-- **Es fehlt der US-Zielkorridor (A9).** Bewusst: Erst messen, wie weit das Englische vom Deutschen
-  abweicht, dann entscheiden, ob es auch vom US-Markt abweicht.
+- **Kein US-Zielkorridor (A9 gestrichen, 2026-10-17).** Das Englische weicht laut D8.1 nicht vom Deutschen
+  ab; einen Abgleich mit dem US-Markt gibt es bewusst nicht.
