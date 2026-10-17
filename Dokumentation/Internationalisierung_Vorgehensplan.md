@@ -562,3 +562,9 @@ Rezensions-Link nach Veröffentlichung.
 (`Band1/Manuskript_EN/Nachanalyse/Nachanalyse_Band1.md`). Deutsches Band 1 (Umbau, 16 Kapitel, 163 Seiten) und
 Band 2 (Kap. 1 Zeitangaben) am selben Tag bei KDP hochgeladen; das hochgeladene Band 1 ist identisch mit `DE_Basis/`.
 **Nächster Schritt: A10** Titelprüfung (*The Whispering Window* gegen Amazon.com/USPTO) + US-Marktanalyse → Cover-Briefing.
+
+**A10 fertig (2026-10-17)** — `EN_Bibel/A10_Titel_Markt.md`. *The Whispering Window* ist schon Titel eines
+Erwachsenen-Krimis (1936, Neuauflagen auf Amazon.com; A1 hatte das übersehen). Titel sind in den USA nicht geschützt
+→ **Autor: behalten.** Reihenname *The Ghost Listeners* ohne Treffer (USPTO-Selbstcheck vor dem Druck). Recht-Checkliste
+R1–R6 (KI-Angabe, Metadaten, W-8BEN/-E, Urheberrecht KI-Text). Cover-Briefing Band 1 steht.
+**Nächster Schritt (Phase E1):** Format EN festlegen → Cover EN (Autor) → KDP-Texte EN neu schreiben → Taschenbuch-Bau EN.

@@ -149,7 +149,7 @@ Amazon.com in der Suche eingeben, Kategorie Books → Children's Books.]**
 | Titel | Ergebnis | Folge |
 |---|---|---|
 | *The House That Whispers* | 🔴 **besetzt** — Lin Thompson, Little, Brown 2023, Middle Grade 8–12, Geistergeschichte | nicht verwenden → E2 |
-| *The Whispering Window* | 🟢 kein Buch gefunden (ähnlich: *The Whispering*, Erwachsenen-Thriller 2026; *The Whispering Portrait*, Kinder-Geistergeschichte 2026) | verwendbar |
+| *The Whispering Window* | 🟡 **Korrektur A10 (2026-10-17):** besteht als Erwachsenen-Krimi (Cortland Fitzsimmons, 1936, Neuauflagen auf Amazon.com). Titel sind nicht geschützt → rechtlich frei; Autor entscheidet: **behalten** (A10_Titel_Markt.md). Ähnlich: *The Whispering*, *The Whispering Portrait* | verwendbar |
 | *The Ghost Listeners* | 🟢 kein Buch gefunden. Assoziation zu *Lockwood & Co* („Listener") — eher Vorteil | verwendbar |
 | *The Ghost Seekers* | 🟡 Erwachsenen-Romance-Reihe gleichen Namens | nur Alternative |
 | *Ghost Trackers* | 🔴 Kinder-TV-Serie + Begleitbuch (Tundra 2010) | nicht verwenden |
