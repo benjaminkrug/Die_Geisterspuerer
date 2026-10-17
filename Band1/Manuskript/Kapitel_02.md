@@ -6,11 +6,11 @@ Der Hund saß vor der Tür mit dem Klingelschild SILBER und rührte sich nicht. 
 
 Theo griff nach Noras Arm. Seine Finger waren kalt.
 
-„Können wir gehen?", flüsterte er. „Bitte?"
+„Können wir gehen?“, flüsterte er. „Bitte?“
 
-„Warte." Nora legte die Hand auf die Klinke. Das Metall war eisig. Viel kälter als es hätte sein dürfen. Im Juli.
+„Warte.“ Nora legte die Hand auf die Klinke. Das Metall war eisig. Viel kälter als es hätte sein dürfen. Im Juli.
 
-„Nora, nein."
+„Nora, nein.“
 
 Sie drückte die Klinke herunter.
 
@@ -26,11 +26,11 @@ Der Flur war lang und schmal. Tapete, einmal gelb, jetzt grau und fleckig. An de
 
 Nora schluckte. Ihre Kehle war trocken. Das sah nicht nach einem normalen Auszug aus. Das sah aus, als wäre jemand gerannt. Mitten in der Nacht. Ohne sich umzudrehen.
 
-„Gemütlich", sagte Theo hinter ihr. „Sehr einladend. Fünf Sterne."
+„Gemütlich“, sagte Theo hinter ihr. „Sehr einladend. Fünf Sterne.“
 
-„Sei still."
+„Sei still.“
 
-„Gern. Ich bin still. Ich bin der stillste Mensch der Welt. Können wir jetzt gehen?"
+„Gern. Ich bin still. Ich bin der stillste Mensch der Welt. Können wir jetzt gehen?“
 
 Der Hund war schon vorausgegangen. Nora sah seine Pfotenabdrücke im Staub neben ihren eigenen Fußspuren. Sonst keine Spuren. Niemand war hier seit Monaten gewesen. Vielleicht länger.
 
@@ -46,9 +46,9 @@ Sie schlug Nora entgegen wie eine Wand. Von einem Schritt zum nächsten sank die
 
 Die Luft im Flur war plötzlich so kalt, dass jeder Atemzug in der Lunge brannte. Wie im Winter. Wie draußen, bei Minusgraden. Nur dass es Juli war und die Sonne durch die Küchenfenster geschienen hatte.
 
-Der Hund, der ihnen durch die Wohnung gefolgt war, blieb stehen. Drei Schritte vor dem Raum. Er setzte sich quer in den Flur und blockierte den Weg. Sein Fell sträubte sich vom Nacken bis zum Schwanz.
+Der Hund, der vor ihnen durch die Wohnung gelaufen war, blieb stehen. Drei Schritte vor dem Raum. Er setzte sich quer in den Flur und blockierte den Weg. Sein Fell sträubte sich vom Nacken bis zum Schwanz.
 
-„Siehst du das?", flüsterte Theo.
+„Siehst du das?“, flüsterte Theo.
 
 Nora sah es. Der Hund weigerte sich. Er knurrte nicht. Er jaulte nicht. Er saß einfach da und ließ sie nicht vorbei. Sein ganzer Körper sagte: Nein.
 
@@ -58,29 +58,29 @@ Dann sah sie ihren Atem. Eine kleine weiße Wolke vor ihrem Gesicht.
 
 Im Juli. Im Hochsommer.
 
-„Okay", sagte Theo. „Okay, okay, okay. Wir gehen jetzt."
+„Okay“, sagte Theo. „Okay, okay, okay. Wir gehen jetzt.“
 
-„Da muss eine kalte Leitung unter dem Boden laufen. Oder –"
+„Da muss eine kalte Leitung unter dem Boden laufen. Oder –“
 
-„Nora. Dein Atem DAMPFT. Im Sommer. Der Hund weigert sich. Welche Erklärung brauchst du noch?"
+„Nora. Dein Atem DAMPFT. Im Sommer. Der Hund weigert sich. Welche Erklärung brauchst du noch?“
 
 Nora biss sich auf die Lippe. Sie wollte etwas Vernünftiges sagen. Kalte Leitungen. Bauliche Mängel. Zugluft durch unsichtbare Ritzen.
 
 Aber ihr Herz hämmerte, und ihre Hände zitterten. Und der Hund saß vor ihr wie eine Mauer aus dunklem Fell und einem Blick, der sagte: Nicht weiter.
 
-„Gut", sagte sie. „Wir gehen."
+„Gut“, sagte sie. „Wir gehen.“
 
-„Das Klügste, was du heute gesagt hast."
+„Das Klügste, was du heute gesagt hast.“
 
 Sie gingen nicht. Sie rannten. Theo zuerst, dann Nora, dann der Hund. Durch den staubigen Flur, über die umgeworfenen Möbel, durch die Tür ins Treppenhaus.
 
 Erst im ersten Stock blieben sie stehen. Nora stützte sich auf die Knie. Ihr Atem ging schnell und flach. Theo lehnte an der Wand, beide Hände auf der Brust, als müsste er sein Herz am Platzen hindern.
 
-„Das", sagte er zwischen zwei Atemzügen, „war der letzte Ausflug in fremde Wohnungen. Für immer. Für alle Zeiten. Bis ans Ende der Welt."
+„Das“, sagte er zwischen zwei Atemzügen, „war der letzte Ausflug in fremde Wohnungen. Für immer. Für alle Zeiten. Bis ans Ende der Welt.“
 
-„Drama Queen."
+„Drama Queen.“
 
-„Überlebenskünstler."
+„Überlebenskünstler.“
 
 Der Hund saß auf dem Treppenabsatz und schaute sie an. Entspannt. Schwanz auf dem Boden. Als wäre nichts passiert.
 
@@ -88,55 +88,55 @@ Nora musste fast lachen. Fast. Der Hund war das Ruhigste in diesem ganzen Haus. 
 
 ---
 
-Die Mutter kam um sechs. Müde, aber lächelnd. „Na? Alles klar bei euch?"
+Die Mutter kam um sechs. Müde, aber lächelnd. „Na? Alles klar bei euch? Unten hab ich übrigens die Nachbarin getroffen, Frau Held. Die hat geredet, als hätte sie seit Wochen niemanden gesehen.“
 
-Nora sagte: „Alles gut."
+Nora sagte: „Alles gut.“
 
-Theo sagte: „Wir haben einen Hund."
+Theo sagte: „Wir haben einen Hund.“
 
 Die Mutter stellte ihre Tasche ab. Langsam. Ihr Blick wanderte von Nora zu Theo und dann zu dem Hund, der mitten im Flur saß und seinen Schwanz über den Boden fegte. Das verfilzte Fell stand in alle Richtungen ab.
 
-„Was ist das?"
+„Was ist das?“
 
-„Ein Hund", sagte Theo.
+„Ein Hund“, sagte Theo.
 
-„Das sieht aus wie ein Wollteppich mit Beinen."
+„Das sieht aus wie ein Wollteppich mit Beinen.“
 
-„Mama, bitte."
+„Mama, bitte.“
 
-„Theo, wir sind gerade erst eingezogen."
+„Theo, wir sind gerade erst eingezogen.“
 
-„Er hat kein Zuhause." Theo ging in die Hocke und legte den Arm um den Hund. „Er war vor der Tür. Ganz allein. Dünn. Und er ist super lieb."
+„Er hat kein Zuhause.“ Theo ging in die Hocke und legte den Arm um den Hund. „Er war vor der Tür. Ganz allein. Dünn. Und er ist super lieb.“
 
-Die Mutter rieb sich die Stirn. „Hat er ein Halsband?"
+Die Mutter rieb sich die Stirn. „Hat er ein Halsband?“
 
-„Nein", sagte Nora.
+„Nein“, sagte Nora.
 
-„Flöhe?"
+„Flöhe?“
 
-Theo zuckte die Schultern. „Vielleicht ein paar."
+Theo zuckte die Schultern. „Vielleicht ein paar.“
 
-„Theo."
+„Theo.“
 
 Der Hund stand auf, trottete zu ihrer Mutter und legte seinen Kopf an ihr Knie. Sein Blick wanderte nach oben. Ruhig. Geduldig.
 
-Noras Mutter seufzte. „Vorläufig."
+Noras Mutter seufzte. „Vorläufig.“
 
-Theo riss die Faust in die Luft. „Ja!"
+Theo riss die Faust in die Luft. „Ja!“
 
-„Vorläufig, Theo. Wenn sich ein Besitzer meldet –"
+„Vorläufig, Theo. Wenn sich ein Besitzer meldet –“
 
-„Keiner wird sich melden. Er gehört zu uns."
+„Keiner wird sich melden. Er gehört zu uns.“
 
 Nora lehnte am Türrahmen und beobachtete den Hund. Er hatte sich neben Theo gelegt. Sein Schwanz schlug langsam auf den Boden. Eins. Zwei. Eins. Zwei.
 
 Irgendetwas an diesem Hund zog sie an. Es war ein fremder Streuner. Dreckig, dünn, voller Flöhe. Trotzdem hatte sie das Gefühl, er gehörte hierher. Zu ihnen. Und das machte ihr fast mehr Angst als die Kälte oben.
 
-„Wie nennen wir ihn?", sagte ihre Mutter.
+„Wie nennen wir ihn?“, sagte ihre Mutter.
 
 Theo legte den Kopf schief. Er schaute den Hund an. Das dunkle Fell, die hellen Augen, die Art, wie er sich bewegte. Leise. Lautlos.
 
-„Schatten", sagte Theo.
+„Schatten“, sagte Theo.
 
 Der Hund hob den Kopf. Seine Ohren zuckten. Kurz, schnell, als hätte er den Namen erkannt.
 
@@ -150,17 +150,17 @@ Nach dem dritten Stück fielen ihrer Mutter die Augen zu.
 
 Theo fütterte Schatten mit einer halben Scheibe Salami. Der Hund schluckte sie in einem Bissen.
 
-„Morgen kaufen wir Hundefutter", sagte Nora.
+„Morgen kaufen wir Hundefutter“, sagte Nora.
 
-„Und eine Leine. Und ein Körbchen. Und Leckerlis."
+„Und eine Leine. Und ein Körbchen. Und Leckerlis.“
 
-„Wir haben kein Geld für Leckerlis."
+„Wir haben kein Geld für Leckerlis.“
 
-„Schatten braucht Leckerlis. Das ist wissenschaftlich bewiesen."
+„Schatten braucht Leckerlis. Das ist wissenschaftlich bewiesen.“
 
-„Von wem?"
+„Von wem?“
 
-„Von mir. Gerade eben."
+„Von mir. Gerade eben.“
 
 Nora schüttelte den Kopf. Aber sie lächelte. Ein bisschen. Der erste echte Moment seit ihrer Ankunft, in dem sich etwas wie Zuhause anfühlte. Schatten lag zwischen ihnen auf dem Boden, den Kopf auf den Pfoten.
 

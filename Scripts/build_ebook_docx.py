@@ -6,12 +6,16 @@ italic/bold text, front matter, back matter.
 
 import os
 import re
+import sys
 from docx import Document
 from docx.shared import Pt, Cm, Emu
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
 from docx.enum.section import WD_ORIENT
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import band1_anhang as anhang   # Leseprobe, Links, Band-2-Cover (gemeinsam mit dem Taschenbuch)
 
 AUTHOR = "Benjamin Krug"
 INPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "Band1", "Manuskript", "Manuskript_Band1_Komplett.md")
@@ -167,7 +171,7 @@ def add_table_of_contents(doc):
     add_page_break(doc)
 
 
-def add_front_matter(doc):
+def add_front_matter(doc, titel_liste=None):
     """Add title page, half-title, and copyright page."""
     # --- Half title ---
     add_blank_lines(doc, 8)
@@ -209,17 +213,98 @@ def add_front_matter(doc):
     add_centered_text(doc, "Independently published", font_size=9)
     add_page_break(doc)
 
-    # --- Table of contents ---
-    add_table_of_contents(doc)
+    # --- Table of contents (fest, verlinkt; das Feld blieb ein Platzhalter) ---
+    add_static_toc(doc, titel_liste)
+
+
+def add_hyperlink(paragraph, url, text, font_size=11):
+    """Klickbarer Link (Kindle oeffnet ihn im Browser). python-docx kann das nicht direkt."""
+    r_id = paragraph.part.relate_to(
+        url, "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        is_external=True)
+    link = OxmlElement("w:hyperlink")
+    link.set(qn("r:id"), r_id)
+    run = OxmlElement("w:r")
+    rpr = OxmlElement("w:rPr")
+    for tag, val in (("w:rFonts", None), ("w:u", "single"), ("w:sz", str(font_size * 2))):
+        el = OxmlElement(tag)
+        if tag == "w:rFonts":
+            el.set(qn("w:ascii"), "Georgia")
+            el.set(qn("w:hAnsi"), "Georgia")
+        else:
+            el.set(qn("w:val"), val)
+        rpr.append(el)
+    run.append(rpr)
+    t = OxmlElement("w:t")
+    t.text = text
+    run.append(t)
+    link.append(run)
+    paragraph._p.append(link)
+    return link
+
+
+def add_centered_link(doc, url, text, font_size=12):
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p.paragraph_format.first_line_indent = Cm(0)
+    add_hyperlink(p, url, text, font_size)
+    return p
 
 
 def add_back_matter(doc):
-    """Add back matter: review request, Band 2 teaser, series list, cross-references."""
-    add_page_break(doc)
+    """Anhang (Schritt 1, Plan Band1/PLAN_Durchlesequote.md), gleiche Reihenfolge wie
+    das Taschenbuch: Band 2 -> Rezensionsbitte -> Bandliste -> andere Buecher.
+    Statt QR-Codes klickbare Links (auf dem Kindle ist ein QR-Code nutzlos).
+    Die erfundene Leseprobe ("Heinrich M. - 1847", "vor drei Wochen") und
+    "Erscheint 2026" sind ersetzt."""
 
-    # --- 1. Rezensions-Bitte ---
+    # --- 1. Bruecke zu Band 2 ---
+    add_page_break(doc)
+    add_blank_lines(doc, 2)
+    add_centered_text(doc, "Wie geht es weiter?", font_size=16, bold=True)
+    add_blank_lines(doc, 1)
+    add_centered_text(doc, "Elf Kreise auf Frau Silbers Karte.", font_size=11)
+    add_centered_text(doc, "Der nächste liegt am alten Friedhof.", font_size=11)
+    add_blank_lines(doc, 1)
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p.paragraph_format.first_line_indent = Cm(0)
+    p.add_run().add_picture(anhang.COVER_BAND2, width=Cm(6))
+    add_blank_lines(doc, 1)
+    add_centered_text(doc, "Die Geisterspürer · Band 2", font_size=11)
+    add_centered_text(doc, anhang.BAND2_TITEL, font_size=14, italic=True)
+
+    # --- 2. Leseprobe ---
+    absaetze, _ = anhang.pruefe_leseprobe()
+    add_page_break(doc)
+    add_centered_text(doc, "Leseprobe aus Band 2", font_size=10, italic=True)
+    p = add_centered_text(doc, anhang.BAND2_KAPITEL, font_size=16, bold=True)
+    p.paragraph_format.space_before = Pt(10)
+    p.paragraph_format.space_after = Pt(24)
+    erster = True
+    for a in absaetze:
+        if a == anhang.SZENENWECHSEL:
+            add_scene_break(doc)
+            erster = True
+            continue
+        add_formatted_paragraph(doc, a, first_line_indent=not erster)
+        erster = False
+
+    # --- 3. Weiter zu Band 2 ---
+    add_page_break(doc)
     add_blank_lines(doc, 3)
-    add_centered_text(doc, 'Hat dir \u201eDas Haus, das fl\u00fcstert\u201c gefallen?', font_size=14, bold=True)
+    add_centered_text(doc, "Wie es weitergeht, steht in", font_size=12)
+    add_centered_text(doc, "Die Geisterspürer · Band 2", font_size=14, bold=True)
+    add_centered_text(doc, anhang.BAND2_TITEL, font_size=14, italic=True)
+    add_blank_lines(doc, 2)
+    add_centered_link(doc, anhang.BAND2_URL, "Band 2 ansehen", font_size=14)
+    add_blank_lines(doc, 2)
+    add_centered_text(doc, "Für Eltern: Der Link führt zur Seite von Band 2 bei Amazon.", font_size=9, italic=True)
+
+    # --- 4. Rezensions-Bitte ---
+    add_page_break(doc)
+    add_blank_lines(doc, 3)
+    add_centered_text(doc, 'Hat dir „Das Haus, das flüstert“ gefallen?', font_size=14, bold=True)
     add_blank_lines(doc, 1)
     add_formatted_paragraph(
         doc,
@@ -235,74 +320,12 @@ def add_back_matter(doc):
         first_line_indent=False,
     )
     add_blank_lines(doc, 1)
+    add_centered_link(doc, anhang.REZENSION_URL, "Jetzt bewerten", font_size=12)
+    add_blank_lines(doc, 1)
     add_centered_text(doc, "Vielen Dank!", font_size=11)
     add_centered_text(doc, AUTHOR, font_size=11)
 
-    # --- 2. Teaser Band 2 ---
-    add_page_break(doc)
-    add_blank_lines(doc, 2)
-    add_centered_text(doc, "Weiterlesen? Hier kommt eine Vorschau auf Band 2:", font_size=11, italic=True)
-    add_blank_lines(doc, 2)
-    add_centered_text(doc, "Die Geisterspürer", font_size=18, bold=True)
-    add_centered_text(doc, "Der Friedhof ohne Namen", font_size=14, italic=True)
-    add_centered_text(doc, "Band 2", font_size=11)
-    add_blank_lines(doc, 2)
-
-    # Teaser text — written in the same style as Band 1
-    # German quotes: \u201e = opening „  \u201c = closing "
-    Q = "\u201e"  # „
-    E = "\u201c"  # "
-    teaser_paragraphs = [
-        # --- Sofort Spannung: Schatten reagiert ANDERS als sonst ---
-        "Schatten wollte nicht auf den Friedhof.",
-        f"Das war neu. Bei Lina hatte er sie nach oben gezerrt, in die verlassene Wohnung. Er hatte gekratzt und geknurrt und nicht aufgeh\u00f6rt, bis Nora ihm gefolgt war. Aber vor dem rostigen Eisentor des alten Friedhofs stand er still. Steif. Sein Fell ges\u00e4ubt, sein Blick starr \u2014 und zum ersten Mal wollte er zur\u00fcck.",
-        f"{Q}Er hat Angst{E}, fl\u00fcsterte Theo.",
-        f"Nora schluckte. Sie hatte Schatten knurren gesehen. Bellen. Sie hatte ihn vor sich und Theo stellen sehen wie einen Schild. Aber Angst? Noch nie.",
-        # --- Emotionaler Haken: warum sie trotzdem reingehen ---
-        f"{Q}Wir k\u00f6nnen umdrehen{E}, sagte Theo. Er meinte es ernst. Kein Witz diesmal.",
-        f"Nora schaute auf die Karte in ihrer Hand. Frau Silbers Handschrift. *Heinrich M. \u2014 1847. W\u00fctend. Grab.* Hundertachtzig Jahre. Allein zwischen den Grabsteinen. W\u00e4hrend die Stadt um ihn herum lebte und lachte und ihn vergessen hatte.",
-        f"{Q}Nein{E}, sagte sie. {Q}Wir gehen rein.{E}",
-        f"{Q}Das sagt das M\u00e4dchen, das vor drei Wochen nicht mal an Geister geglaubt hat.{E}",
-        f"{Q}Vor drei Wochen wusste ich auch nicht, dass unser Hund \u00fcbernat\u00fcrlich ist.{E}",
-        # --- Sie betreten den Friedhof: kurz, schnell, atmosphärisch ---
-        "Das Tor quietschte. Der Klang hallte zwischen den Grabsteinen.",
-        "Nora ging voraus. Kies unter ihren Schuhen. Moos an den Steinen. Stille, die sich anf\u00fchlte wie Watte in den Ohren.",
-        "Schatten folgte. Langsam. Jeder Schritt ein Kampf gegen seinen Instinkt.",
-        # --- Mystery-Element: der namenlose Grabstein ---
-        f"Dann blieb er stehen. Am Ende der dritten Reihe. Vor einem Grabstein, der anders war als alle anderen. Gr\u00f6\u00dfer. Dunkler. Schwarzer Stein, glatt poliert \u2014 als w\u00fcrde ihn jemand pflegen.",
-        "Aber es stand kein Name darauf. Kein Datum. Nichts.",
-        f"{Q}Ein Grabstein ohne Namen{E}, murmelte Theo. {Q}Wer liegt da?{E}",
-        # --- Eskalation: etwas stimmt hier nicht ---
-        "Nora kniete sich hin. Vor dem Stein lag etwas im Gras. Klein. Metallisch. Ein Schl\u00fcssel. Alt, verrostet, aber sorgf\u00e4ltig hingelegt. Als h\u00e4tte ihn jemand erst gestern dort platziert.",
-        f"Und das Gras vor dem Grabstein war niedergedr\u00fcckt. In einem Kreis. Genau so gro\u00df wie ein Mensch, der steht.",
-        f"{Q}Jemand steht hier{E}, fl\u00fcsterte sie. {Q}Jede Nacht. An genau dieser Stelle.{E}",
-        f"{Q}Seit hundertachtzig Jahren{E}, sagte Theo. Seine Stimme war kaum zu h\u00f6ren.",
-        # --- Schatten-Reaktion: der Hund weiß mehr ---
-        f"Schatten hob den Kopf. Sein Knurren kam so tief aus seiner Brust, dass Nora es in den F\u00fc\u00dfen sp\u00fcrte. Sein ganzer K\u00f6rper vibrierte.",
-        f"Dann tat er etwas, das er noch nie getan hatte. Er wich zur\u00fcck. Schritt f\u00fcr Schritt. Ohne den Blick von dem Grabstein zu nehmen.",
-        # --- Cliffhanger: der Geist ist DA ---
-        f"Die Temperatur fiel. Noras Atem wurde sichtbar. Wei\u00dfe W\u00f6lkchen vor ihrem Mund \u2014 mitten im Juli.",
-        f"Und auf dem schwarzen Grabstein erschienen Buchstaben. Langsam. Einer nach dem anderen. Wie von einer unsichtbaren Hand in den Stein geritzt.",
-        "G E H T.",
-        f"Theo griff nach Noras Arm. Seine Finger waren eiskalt.",
-        f"Die Buchstaben verschwanden. Neue kamen.",
-        f"O D E R.",
-        f"Stille. Schattens Knurren erstarb. Die Luft stand still. Sogar der Wind h\u00f6rte auf.",
-        f"Dann das letzte Wort. Gr\u00f6\u00dfer als die anderen. Tiefer in den Stein gedr\u00fcckt.",
-        "B L E I B T.",
-        # --- Letzter Satz: Kaufimpuls ---
-        f"Nora sp\u00fcrte ihr Herz bis in die Fingerspitzen. Hinter ihr wich Theo zur\u00fcck. Vor ihr leuchteten die Buchstaben im schwarzen Stein. Und neben ihr knurrte Schatten \u2014 nicht den Grabstein an.",
-        "Sondern etwas hinter ihnen.",
-    ]
-
-    for i, para in enumerate(teaser_paragraphs):
-        # First paragraph after heading: no indent
-        add_formatted_paragraph(doc, para, first_line_indent=(i > 0))
-
-    add_blank_lines(doc, 2)
-    add_centered_text(doc, "Erscheint 2026 auf Amazon.", font_size=11, italic=True)
-
-    # --- 3. Serien-Übersicht ---
+    # --- 5. Serien-Übersicht ---
     add_page_break(doc)
     add_blank_lines(doc, 2)
     add_centered_text(doc, "Die Geisterspürer — Alle Bände", font_size=14, bold=True)
@@ -321,52 +344,68 @@ def add_back_matter(doc):
             first_line_indent=False,
         )
 
-    # --- 4. Cross-Verweis andere Serien ---
+    # --- 6. Andere Serien (gekuerzt) ---
     add_blank_lines(doc, 1)
     add_centered_text(doc, "* * *", font_size=11)
     add_blank_lines(doc, 1)
-    add_centered_text(doc, "Mehr spannende Abenteuer von Benjamin Krug:", font_size=14, bold=True)
+    add_centered_text(doc, "Mehr von Benjamin Krug:", font_size=13, bold=True)
     add_blank_lines(doc, 1)
+    add_centered_text(doc, "Die Herrenhaus-Detektive", font_size=12, bold=True)
+    add_centered_text(doc, "Detektivabenteuer ab 8 Jahren", font_size=10, italic=True)
+    add_blank_lines(doc, 1)
+    add_centered_text(doc, "Die Chrono-Agenten", font_size=12, bold=True)
+    add_centered_text(doc, "Zeitreise-Abenteuer", font_size=10, italic=True)
 
-    # Herrenhaus-Detektive
-    add_centered_text(doc, "Die Herrenhaus-Detektive", font_size=13, bold=True)
-    add_blank_lines(doc, 1)
-    add_formatted_paragraph(
-        doc,
-        "Niemand darf das alte Herrenhaus betreten. Aber Jonas, Mila und Ben "
-        "finden einen Schl\u00fcssel \u2014 und hinter der verschlossenen "
-        "T\u00fcr wartet ein Geheimnis, das seit drei\u00dfig Jahren niemand "
-        "l\u00fcften durfte.",
-        first_line_indent=False,
-    )
-    add_blank_lines(doc, 1)
-    add_centered_text(doc, "Spannendes Detektivabenteuer ab 8 Jahren.", font_size=11, italic=True)
 
+# --- Festes, verlinktes Inhaltsverzeichnis (2026-10-14) ---------------------------------------
+# Das Word-Feld oben enthält bis zur Aktualisierung nur den Platzhalter "Inhaltsverzeichnis wird
+# beim Öffnen aktualisiert." Ob der KDP-Konverter Felder aktualisiert, ist nicht gesichert ->
+# feste Einträge mit internen Links auf Textmarken an den Kapitelüberschriften.
+_bm_id = [0]
+_kapitel_nr = [0]
+
+
+def add_bookmark(paragraph, name):
+    _bm_id[0] += 1
+    start = OxmlElement("w:bookmarkStart")
+    start.set(qn("w:id"), str(_bm_id[0]))
+    start.set(qn("w:name"), name)
+    end = OxmlElement("w:bookmarkEnd")
+    end.set(qn("w:id"), str(_bm_id[0]))
+    paragraph._p.insert(0, start)
+    paragraph._p.append(end)
+
+
+def add_internal_link(paragraph, anchor, text, font_size=11):
+    link = OxmlElement("w:hyperlink")
+    link.set(qn("w:anchor"), anchor)
+    run = OxmlElement("w:r")
+    rpr = OxmlElement("w:rPr")
+    fonts = OxmlElement("w:rFonts")
+    fonts.set(qn("w:ascii"), "Georgia")
+    fonts.set(qn("w:hAnsi"), "Georgia")
+    size = OxmlElement("w:sz")
+    size.set(qn("w:val"), str(font_size * 2))
+    rpr.append(fonts)
+    rpr.append(size)
+    run.append(rpr)
+    t = OxmlElement("w:t")
+    t.set(qn("xml:space"), "preserve")
+    t.text = text
+    run.append(t)
+    link.append(run)
+    paragraph._p.append(link)
+
+
+def add_static_toc(doc, titel_liste):
+    add_blank_lines(doc, 3)
+    add_centered_text(doc, "Inhalt", font_size=18, bold=True)
     add_blank_lines(doc, 2)
-
-    # Chrono-Agenten
-    add_centered_text(doc, "Die Chrono-Agenten", font_size=13, bold=True)
-    add_blank_lines(doc, 1)
-    add_formatted_paragraph(
-        doc,
-        "Drei Kinder. Ein Tablet, das die Zeit \u00f6ffnet. Und ein "
-        "Countdown, der nicht aufh\u00f6rt zu laufen.",
-        first_line_indent=False,
-    )
-    add_formatted_paragraph(
-        doc,
-        "Leo, Mila und Ben sind Agenten wider Willen \u2014 geschickt in die "
-        "gef\u00e4hrlichsten Momente der Geschichte, um zu retten, was jemand "
-        "zerst\u00f6ren will. Ihr Gegner hei\u00dft Codex. Und er kennt ihre Namen.",
-        first_line_indent=False,
-    )
-    add_blank_lines(doc, 1)
-    add_formatted_paragraph(
-        doc,
-        "F\u00fcr alle, die Geschichte spannend finden \u2014 und wissen wollen, "
-        "was passiert, wenn man sie ver\u00e4ndert.",
-        first_line_indent=False,
-    )
+    for i, titel in enumerate(titel_liste, 1):
+        p = doc.add_paragraph()
+        p.paragraph_format.first_line_indent = Cm(0)
+        p.alignment = WD_ALIGN_PARAGRAPH.LEFT
+        add_internal_link(p, f"kapitel_{i:02d}", titel)
 
 
 def add_chapter_heading(doc, title):
@@ -383,6 +422,8 @@ def add_chapter_heading(doc, title):
         run.font.name = "Georgia"
         run.font.size = Pt(16)
         run.bold = True
+    _kapitel_nr[0] += 1
+    add_bookmark(p, f"kapitel_{_kapitel_nr[0]:02d}")
     add_blank_lines(doc, 2)
 
 
@@ -404,6 +445,10 @@ def parse_and_build(doc, content):
     # Remove ENDE BAND 1 and trailing ---
     body = re.sub(r'\n---\n\n\*\*ENDE BAND 1\*\*\n\n---\n*', '', body)
     body = re.sub(r'\n\*\*ENDE BAND 1\*\*\n*', '', body)
+    # Schritt 1 (2026-10): Das Manuskript endet auf "---" + ENDE-Marker. Nach dem
+    # Entfernen des Markers blieb das "---" stehen -> Ornament hinter dem letzten
+    # Satz des Buches. Trenner am Textende immer entfernen.
+    body = re.sub(r'(\n\s*---\s*)+$', '\n', body.rstrip() + '\n')
 
     # Split into lines
     lines = body.split('\n')
@@ -483,12 +528,29 @@ def main():
     # Set up styles
     create_styles(doc)
 
+    cp = doc.core_properties
+    cp.title = "Die Geisterspürer – Das Haus, das flüstert (Band 1)"
+    cp.author = cp.last_modified_by = AUTHOR
+    cp.language = "de-DE"
+    for el in doc.styles.element.iter(qn("w:lang")):
+        el.set(qn("w:val"), "de-DE")
+        el.set(qn("w:eastAsia"), "de-DE")
+
     # Build document
-    add_front_matter(doc)
+    titel_liste = [l[2:].strip() for l in content.split("\n") if l.startswith("# Kapitel ")]
+    add_front_matter(doc, titel_liste)
     parse_and_build(doc, content)
     add_back_matter(doc)
 
+    xml = doc.element.xml
+    for i in range(1, len(titel_liste) + 1):
+        if f'w:anchor="kapitel_{i:02d}"' not in xml or f'w:name="kapitel_{i:02d}"' not in xml:
+            raise ValueError(f"Inhaltsverzeichnis: Link oder Textmarke für Kapitel {i} fehlt")
+    if _kapitel_nr[0] != len(titel_liste):
+        raise ValueError(f"{_kapitel_nr[0]} Überschriften, aber {len(titel_liste)} Einträge im Inhalt")
+
     # Save
+    os.makedirs(os.path.dirname(os.path.abspath(OUTPUT_FILE)), exist_ok=True)  # Output/ ist nicht in git (frischer Klon)
     doc.save(OUTPUT_FILE)
     print(f"{OUTPUT_FILE} erstellt!")
 

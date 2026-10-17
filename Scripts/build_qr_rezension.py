@@ -9,6 +9,9 @@ Jeder Code fuehrt DIREKT auf das Amazon-Bewertungsformular des jeweiligen Bandes
   fuehrt, waere nicht mehr korrigierbar — deshalb hier keine Annahme, sondern
   eine Messung.
 
+Zusaetzlich: der Code "weiter zu Band 2" am Ende von Band 1 (Ziel in
+Scripts/band1_anhang.py).
+
 Verwendung:
     py Scripts/build_qr_rezension.py
 """
@@ -49,6 +52,11 @@ def erzeuge(band: int, ueberschreiben: bool = False) -> bool:
         print(f"  Band {band}: existiert, enthaelt aber {ist!r} statt {soll_url!r}")
         return False
 
+    return schreibe(ziel, soll_url, f"Band {band}")
+
+
+def schreibe(ziel: str, soll_url: str, name: str) -> bool:
+    """Erzeugt den Code, liest ihn wieder ein und vergleicht mit der Soll-URL."""
     os.makedirs(os.path.dirname(ziel), exist_ok=True)
 
     qr = qrcode.QRCode(
@@ -65,15 +73,34 @@ def erzeuge(band: int, ueberschreiben: bool = False) -> bool:
     # ── Gegenprobe: Datei wieder einlesen und dekodieren ──────────────────
     ist = dekodiere(ziel)
     if ist != soll_url:
-        print(f"  Band {band}: !! GEGENPROBE FEHLGESCHLAGEN")
+        print(f"  {name}: !! GEGENPROBE FEHLGESCHLAGEN")
         print(f"             erwartet: {soll_url}")
         print(f"             gelesen : {ist!r}")
         return False
 
     from PIL import Image
     w, h = Image.open(ziel).size
-    print(f"  Band {band}: erzeugt + gegengelesen OK  ({w}x{h} px)  {soll_url}")
+    print(f"  {name}: erzeugt + gegengelesen OK  ({w}x{h} px)  {soll_url}")
     return True
+
+
+def erzeuge_weiter_band2() -> bool:
+    """QR-Code am Ende von Band 1: "weiter zu Band 2" (Schritt 1 des Plans
+    Band1/PLAN_Durchlesequote.md). Das Ziel steht in Scripts/band1_anhang.py
+    (eigene Domain, sonst direkt Amazon). Anders als die Rezensions-Codes wird
+    dieser Code NEU erzeugt, sobald das Ziel nicht mehr stimmt: Er ist noch nicht
+    gedruckt, und das Ziel wechselt, sobald die Domain steht."""
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import band1_anhang
+    ziel, soll_url = band1_anhang.QR_BAND2, band1_anhang.BAND2_URL
+    name = "Band 1 -> Band 2"
+    if os.path.exists(ziel) and dekodiere(ziel) == soll_url:
+        print(f"  {name}: existiert bereits und stimmt — unveraendert")
+        return True
+    if not band1_anhang.WEITERLEITUNG_BAND2:
+        print(f"  {name}: !! noch keine eigene Domain -> Code fuehrt direkt zu Amazon "
+              f"(Scans nicht zaehlbar)")
+    return schreibe(ziel, soll_url, name)
 
 
 def dekodiere(png_pfad: str):
@@ -93,6 +120,8 @@ def main():
     for band in sorted(ASIN):
         if not erzeuge(band, ueberschreiben):
             ok = False
+    if not erzeuge_weiter_band2():
+        ok = False
     print()
     if ok:
         print("Alle QR-Codes vorhanden und verifiziert.")

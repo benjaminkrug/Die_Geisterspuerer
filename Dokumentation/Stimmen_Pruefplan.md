@@ -45,6 +45,8 @@ Damit der Mensch seine begrenzte Aufmerksamkeit nicht an mechanischem Rauschen v
 
 ## 3. Das Prinzip: Benchmark, nicht Ideal
 
+> ⚠️ **Seit dem Umbau von Band 1 (2026-10):** Der Maßstab ist die Fassung **vor** dem Umbau, Git-Commit `4e983cf` (`git show 4e983cf:Band1/Manuskript/Manuskript_Band1_Komplett.md`). Die neue Fassung wurde gegen diesen Stand geprüft (K10 in `Scripts/pruefe_band1_umbau.py`, Korridor ±15 %, bestanden), ist aber nicht selbst der Maßstab.
+
 1. **Gemessen wird gegen Band 1** — nicht gegen eine ausgedachte Norm. Band 1 ist die bewiesene, verkaufte, gelesene Stimme der Serie.
    *Begründung: Die Stilregeln beschreiben die Praxis nachweislich nicht (sie fordern 10–15 W/Satz; die Serie schreibt 4,8–6,9). Ein Ideal aus dem Stilblatt wäre also der falsche Maßstab.*
 2. **★ NIEMALS auf null optimieren.** Band 1 hat 120 „Und"-Satzanfänge und 10× „Zum ersten Mal". Diese Formeln sind **Teil der Stimme**. Ein Buch mit null „Und"-Anfängen wäre genauso auffällig — nur anders. **Ziel ist Band-1-Dichte, nicht Ausrottung.**

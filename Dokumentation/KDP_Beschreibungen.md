@@ -55,7 +55,7 @@ Und dann fängt Schatten an, an einer Wand zu kratzen. Im Flur ihrer eigenen Woh
 <b>★ Kribbeln ja, Albträume nein</b> – Gänsehaut mit Sicherheitsnetz<br>
 <b>★ Gruselig UND lustig</b> – perfekt für Lesemuffel und Leseratten<br>
 <b>★ Mit Schatten, dem coolsten Hund der Kinderliteratur</b><br>
-<b>★ 18 Kapitel mit Cliffhangern</b> – unmöglich, nur eins zu lesen<br>
+<b>★ 16 Kapitel mit Cliffhangern</b> – unmöglich, nur eins zu lesen<br>
 <b>★ Band 1 von 5</b> – jeder Band ein neuer Geist, ein neues Abenteuer<br><br>
 
 <i>„Andere Kinder gehen nach Hause und spielen Videospiele. Wir ermitteln in Geisterfällen." – Theo, 10 Jahre, Überlebenskünstler</i><br><br>
