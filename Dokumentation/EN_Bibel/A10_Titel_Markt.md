@@ -69,7 +69,7 @@
 **Pflichtprüfungen wie bei jedem Reihencover:** Block F (Schrift lesbar, Graustufen-Prüfung), Sicherheitsränder (Block B), Barcode-Feld frei (Block E); Rücken mit `Scripts/build_cover.py` aus der echten KDP-Seitenzahl.
 
 **Offen für den Autor (vor dem Cover):**
-- **Format EN:** Band 1 DE ist 5×8″, Band 2–5 DE sind 6×9″. Für die englische Reihe einmal ein Format für alle fünf Bände festlegen. Vorschlag: **5,5×8,5″** (am nächsten am US-Middle-Grade-Taschenbuch). Das bestimmt Cover-Maße und Seitenzahl.
+- ✅ **Format EN entschieden (Autor, 2026-10-17): 5,5 × 8,5″ für alle fünf englischen Bände** (am nächsten am US-Middle-Grade-Taschenbuch; Band 1 DE ist 5×8″, Band 2–5 DE 6×9″). Cover-Maße: Panel 5,5×8,5″ + Beschnitt; `build_cover.py` braucht dafür ein neues Format.
 - **eBook-Cover:** aus dem Vollcover ableiten (das Skript erzeugt 1600×2560).
 
 ## Quellen
