@@ -29,6 +29,6 @@ Am PC zusätzlich möglich, was hier nicht ging: **QR-Codes erzeugen** (`qrcode`
 
 ## 5. Nächste Schritte
 1. ~~**A9** US-Lesbarkeitswerte → Abnahme Band 1 EN.~~ Gestrichen (Autor, 2026-10-17); Band 1 EN ist abgenommen.
-2. ~~**A10** Titelprüfung + US-Marktanalyse → **Cover-Briefing**~~ ✅ 2026-10-17 (`EN_Bibel/A10_Titel_Markt.md`) → Format EN: 5,5 × 8,5″ ✅ → KDP-Texte EN → Cover (Autor).
+2. ~~**A10** Titelprüfung + US-Marktanalyse → **Cover-Briefing**~~ ✅ 2026-10-17 (`EN_Bibel/A10_Titel_Markt.md`) → Format EN: 5,5 × 8,5″ ✅ → KDP-Texte EN ✅ (`Band1/Manuskript_EN/Rahmen/KDP_Texte_EN.md`) → Cover (Autor).
 3. Taschenbuch EN, KDP-Texte (US, neu geschrieben), KI-Angabe im Dashboard; nach Veröffentlichung ASIN in `BOOK1_ASIN_EN` eintragen, neu bauen, Datei ersetzen.
 4. ~~Deutsch (Autor): eBook Band 1 neu hochladen (Korrekturen + festes Inhaltsverzeichnis), Band 2 neu hochladen (Zeitangaben), QR-Code Taschenbuch Band 1~~ ✅ 2026-10-17 hochgeladen (Band 1: 163 Seiten, Cover-Rücken neu). Offen: Inhaltsverzeichnis eBooks Band 3–5 in der KDP-Vorschau prüfen.

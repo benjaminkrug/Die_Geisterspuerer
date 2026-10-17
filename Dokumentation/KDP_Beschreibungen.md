@@ -43,7 +43,7 @@ Und am nächsten Morgen steht ein Wort im Kondenswasser am Küchenfenster: <b>HI
 
 Nora glaubt an kalte Leitungen, Zugluft und logische Erklärungen. Aber Schatten – ihr neuer Hund – führt sie die Treppe hinauf in die leere Wohnung. Dort hängt eine Liste mit Namen an der Wand, neben jedem ein Datum, manche abgehakt. Ganz unten, in blauer Tinte und ohne Häkchen: <i>Lina Vogt? – 1974?</i><br><br>
 
-Und dann fängt Schatten an, an einer Wand zu kratzen. Im Flur ihrer eigenen Wohnung. Immer an derselben Stelle.<br><br>
+Und dann fängt Schatten an, an einer Wand zu kratzen. Im Wohnzimmer ihrer eigenen Wohnung. Immer an derselben Stelle.<br><br>
 
 <b>Vor fünfzig Jahren hat hier ein Mädchen gewohnt. Und niemand hat je erfahren, was mit ihr geschehen ist.</b><br><br>
 
