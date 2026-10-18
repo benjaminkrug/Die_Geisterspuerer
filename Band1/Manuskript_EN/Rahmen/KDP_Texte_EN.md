@@ -113,7 +113,7 @@ Bei KDP heißen die Pfade je nach Format etwas anders — im Dashboard die passe
 | Format | Preis | Begründung |
 |---|---|---|
 | eBook | **$3.99** | im 70-%-Korridor ($2.99–9.99); Einstiegsband, KU-Leser zählen ohnehin über KENP |
-| Taschenbuch | **$8.99** | üblich für Middle-Grade-Taschenbücher von Indie-Autoren; Druckkosten hängen an der Seitenzahl — KDP zeigt die Tantieme beim Eintragen |
+| Taschenbuch | **$11.99** (Entscheidung des Autors 2026-10-18) | Druckkosten $2.61 (134 S., S/W) → Tantieme **$4.58**; Werbung bleibt rentabel bis $4.58 Kosten je Verkauf (+35 % ggü. $9.99). Anker: neben Kindle $3.99 wirkt das eBook günstig. Obergrenze $12.99 (134 Seiten, Bestseller *Small Spaces* ~$9.99 bei 224+ S.). Prüfen nach Start der Werbung: Kosten je Verkauf dauerhaft > $4.58 → senken; gut → $12.99 testen |
 
 ---
 
