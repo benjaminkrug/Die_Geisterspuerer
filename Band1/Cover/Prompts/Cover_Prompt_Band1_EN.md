@@ -380,6 +380,6 @@ dunkler Schein; nichts in den äußeren 11 % der Breite und nichts in der Barcod
    Position im 1024×1536-Original: x 552–688, y 218–288 (mit dem Skalierungsfaktor umrechnen). Begründung: ein
    einzelner Farbakzent wird zuerst gesehen und verbindet Vorder- und Rückseite; Kontrast 11 : 1 (Creme 14,9 : 1).
 4. Taschenbuch-Innenteil EN 5,5 × 8,5″ bauen und bei KDP hochladen → **echte Seitenzahl** ablesen.
-5. `Scripts/build_cover.py` bekommt Format `5.5x8.5` und einen EN-Eintrag (Rückentext *The Whispering Window* /
+5. ✅ `Scripts/build_cover.py 1en` (Format 5.5x8.5, 2026-10-18). **Seitenzahl geschätzt: 132** (`bestaetigt=False`, Dateien heißen `…_ENTWURF_132S`). Echte Zahl aus dem KDP-Previewer in `BAENDE["1en"]` eintragen, `bestaetigt=True`, neu bauen. Rückentext *The Whispering Window* /
    *The Ghost Listeners*) — wird gebaut, sobald Bilder und Seitenzahl da sind.
 6. Kontrollbild, Thumbnail, KDP-Previewer.

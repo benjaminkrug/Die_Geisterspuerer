@@ -70,6 +70,7 @@ PAPIER = {"weiss": 0.002252, "creme": 0.0025}
 FORMATE = {
     "5x8": (5.0, 8.0),
     "6x9": (6.0, 9.0),
+    "5.5x8.5": (5.5, 8.5),   # englische Reihe (The Ghost Listeners), alle Baende
 }
 
 SAFE_TEXT = 0.25       # KDP: Textsicherheitsabstand zur Trimmkante, Zoll
@@ -132,6 +133,17 @@ BAENDE = {
             format="6x9", papier="weiss", ruecken_bg=None),
     5: dict(titel="Der Schleier",                 seiten=104, bestaetigt=True,
             format="6x9", papier="weiss", ruecken_bg=None),
+
+    # ── Englische Ausgabe (The Ghost Listeners) ──────────────────────────
+    # Seitenzahl GESCHAETZT (2026-10-18): 163 DE-Seiten x Zeichen EN/DE 0,958
+    # / Satzspiegel 5,5x8,5 statt 5x8 (x1,216) -> ~132. Ersetzen, sobald der
+    # KDP-Previewer die echte Zahl zeigt, dann bestaetigt=True.
+    "1en": dict(titel="The Whispering Window",    seiten=132, bestaetigt=False,
+                format="5.5x8.5", papier="weiss", ruecken_bg=None,
+                reihe="THE GHOST LISTENERS", bandnr="1",
+                bilder=("Band1", "Cover", "Bilder_EN"),
+                front_name="front_book1_en", back_name="back_book1_en",
+                out="Band1_EN", datei="Book1_EN"),
 }
 
 _ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -219,7 +231,7 @@ def randfarbe(panel, seite, tiefe=40):
     return tuple(int(c) for c in np.median(streifen.reshape(-1, 3), axis=0))
 
 
-def zeichne_ruecken(w, h, bg, band, titel, seiten, erzwingen=False):
+def zeichne_ruecken(w, h, bg, band, titel, seiten, erzwingen=False, reihe=None):
     """Setzt den Buchruecken: Bandnummer / Titel / Reihe / Autor.
 
     Aufbau waagerecht (Laenge = Buchhoehe), am Ende rotate(-90) -> der Text
@@ -235,6 +247,7 @@ def zeichne_ruecken(w, h, bg, band, titel, seiten, erzwingen=False):
     """
     strip = Image.new("RGB", (h, w), bg)
     d = ImageDraw.Draw(strip)
+    REIHE_TXT = reihe or REIHE
 
     safe = round(SPINE_SAFE * DPI)
     nutzbar = w - 2 * safe
@@ -300,7 +313,7 @@ def zeichne_ruecken(w, h, bg, band, titel, seiten, erzwingen=False):
     if nutzbar >= 60:                 # ab ~5 mm nutzbar (Band 1: 88 px)
         plan = [("Bandnummer", str(band), FONT_TITEL, GOLD,  0.80, 0.08, 0.08),
                 ("Titel",      titel,     FONT_TITEL, CREME, 0.62, 0.34, 0.42),
-                ("Reihe",      REIHE,     FONT_KLEIN, GOLD,  0.34, 0.66, 0.30),
+                ("Reihe",      REIHE_TXT, FONT_KLEIN, GOLD,  0.34, 0.66, 0.30),
                 ("Autor",      AUTOR,     FONT_KLEIN, CREME, 0.40, 0.90, 0.20)]
     elif nutzbar >= 36:               # ~3 bis 5 mm (Band 2: 39 px)
         plan = [("Bandnummer", str(band), FONT_TITEL, GOLD,  0.85, 0.09, 0.08),
@@ -317,6 +330,11 @@ def zeichne_ruecken(w, h, bg, band, titel, seiten, erzwingen=False):
         info.append(f"{name} {px2pt(f.size):.1f} pt")
         if px2pt(f.size) < MIN_PT:
             zu_klein.append(f"{name} ({px2pt(f.size):.1f} pt)")
+        elif px2pt(f.size) < MIN_PT_KDP:
+            # 7 pt steht NICHT in KDPs eigener Hilfe (Stand 2026-10-18), nur in
+            # Fremdquellen. Abgelehnt wurde S2-2 bei 2,9 pt. Daher nur melden.
+            print(f"  Hinweis: {name} {px2pt(f.size):.1f} pt -- unter der oft "
+                  f"genannten 7-pt-Empfehlung (keine offizielle KDP-Regel).")
 
     if len(plan) < 4:
         entfallen = {4: [], 3: ["Reihenzeile"], 2: ["Reihenzeile", "Autor"]}[len(plan)]
@@ -470,7 +488,8 @@ def kontrollbild(canvas, panel_w, spine_w, trim_w, trim_h, pfad):
 # --------------------------------------------------------------------------
 def main():
     ap = argparse.ArgumentParser(description="KDP-Vollcover fuer Die Geisterspuerer")
-    ap.add_argument("band", type=int, choices=sorted(BAENDE))
+    ap.add_argument("band", choices=[str(k) for k in BAENDE],
+                    help="1-5 (deutsch) oder 1en (englisch)")
     ap.add_argument("--front")
     ap.add_argument("--back")
     ap.add_argument("--seiten", type=int, help="Seitenzahl uebersteuern (Testlauf)")
@@ -486,9 +505,12 @@ def main():
                     help="Schattenanhebung fuer den Druck, 0 = aus (Vorgabe 0.10)")
     args = ap.parse_args()
 
-    band = args.band
+    band = int(args.band) if args.band.isdigit() else args.band
     cfg = BAENDE[band]
-    cover_dir = os.path.join(_ROOT, f"Band{band}", "Cover", "Bilder")
+    cover_dir = os.path.join(_ROOT, *cfg.get("bilder", (f"Band{band}", "Cover", "Bilder")))
+    bandnr = cfg.get("bandnr", band)          # Zahl auf dem Ruecken
+    out_name = cfg.get("out", f"Band{band}")  # Ordner unter Output/
+    datei = cfg.get("datei", f"Band{band}")   # Dateinamen-Kern
 
     def finde(name, vorgabe):
         """front_bandN.<png|jpg|jpeg|webp|tif> -- die Endung ist egal."""
@@ -500,8 +522,8 @@ def main():
                 return p
         return os.path.join(cover_dir, name + ".png")   # fuer die Fehlermeldung
 
-    front = finde(f"front_band{band}", args.front)
-    back = finde(f"back_band{band}", args.back)
+    front = finde(cfg.get("front_name", f"front_band{band}"), args.front)
+    back = finde(cfg.get("back_name", f"back_band{band}"), args.back)
 
     seiten = args.seiten or cfg["seiten"]
     if seiten is None:
@@ -529,7 +551,7 @@ def main():
     spine_w = TW - 2 * panel_w
 
     print("=" * 68)
-    print(f"KDP-Vollcover  --  Die Geisterspuerer, Band {band}: {cfg['titel']}")
+    print(f"KDP-Vollcover  --  {cfg.get('reihe', 'Die Geisterspuerer')}, Band {band}: {cfg['titel']}")
     print("=" * 68)
     print(f"  Format     : {cfg['format']} Zoll"
           + ("   (einziger Band der Reihe -- Absicht, s. Dateikopf)"
@@ -557,7 +579,8 @@ def main():
     else:
         print(f"  Rueckenfarbe fest vorgegeben: RGB{bg}")
 
-    strip, info = zeichne_ruecken(spine_w, TH, bg, band, cfg["titel"], seiten)
+    strip, info = zeichne_ruecken(spine_w, TH, bg, bandnr, cfg["titel"], seiten,
+                                  reihe=cfg.get("reihe"))
     if info:
         print("  Ruecken gesetzt: " + ", ".join(info))
         print(f"  (nutzbare Breite {spine_w - 2*round(SPINE_SAFE*DPI)} px "
@@ -584,13 +607,16 @@ def main():
     # Eigener Ordner: Output/BandN/ enthaelt die Dateien der VERKAUFTEN Auflage.
     # Die duerfen nicht ueberschrieben werden, solange die Neufassung nicht
     # freigegeben ist -- sonst ist die Vorlage des laufenden Produkts weg.
-    out_dir = os.path.join(_ROOT, "Output", f"Band{band}", "Cover_neu")
+    out_dir = os.path.join(_ROOT, "Output", out_name, "Cover_neu")
     os.makedirs(out_dir, exist_ok=True)
-    p_pdf = os.path.join(out_dir, f"KDP_Band{band}_Cover_Vollcover_300dpi.pdf")
-    p_jpg = os.path.join(out_dir, f"KDP_Band{band}_Cover_Vollcover_300dpi.jpg")
-    p_ctl = os.path.join(out_dir, f"KDP_Band{band}_Cover_KONTROLLE.jpg")
-    p_thm = os.path.join(out_dir, f"KDP_Band{band}_Cover_thumbnail_150.png")
-    p_ebk = os.path.join(out_dir, f"KDP_Band{band}_Cover_eBook_1600x2560.jpg")
+    # Testlauf mit ungeprueftet Seitenzahl -> Dateiname sagt es, damit nichts
+    # versehentlich zu KDP geht (Band 3 hatte eine Schaetzung, die blieb).
+    tag = "" if cfg["bestaetigt"] and not args.seiten else f"_ENTWURF_{seiten}S"
+    p_pdf = os.path.join(out_dir, f"KDP_{datei}_Cover_Vollcover_300dpi{tag}.pdf")
+    p_jpg = os.path.join(out_dir, f"KDP_{datei}_Cover_Vollcover_300dpi{tag}.jpg")
+    p_ctl = os.path.join(out_dir, f"KDP_{datei}_Cover_KONTROLLE{tag}.jpg")
+    p_thm = os.path.join(out_dir, f"KDP_{datei}_Cover_thumbnail_150.png")
+    p_ebk = os.path.join(out_dir, f"KDP_{datei}_Cover_eBook_1600x2560.jpg")
 
     druck.save(p_jpg, quality=95, dpi=(DPI, DPI))
     import img2pdf
