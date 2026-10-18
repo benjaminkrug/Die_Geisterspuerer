@@ -24,6 +24,17 @@
 | **AI-generated content** | **Yes.** KDP fragt je Bereich mit fünf Stufen (*None* · *Some sections, minimal/extensive editing* · *Entire work, minimal/extensive editing*): **Translations: Entire work, with minimal or no editing** — die Nachbearbeitung lief über KI-Durchgänge, nicht über einen Menschen. **Text:** dieselbe Angabe wie bei der deutschen Ausgabe. **Images:** je nach Cover (A10, R1) |
 | Format Taschenbuch | **5,5 × 8,5″**, weißes Papier, Schwarzweiß-Innenteil, matt oder glänzend wie DE |
 
+### Untertitel geprüft (2026-10-18): bleibt *A Spooky Ghost Mystery*
+
+Amazon-Suchvorschläge (Amazon.com, abgefragt 2026-10-18) — jedes der drei Wörter führt eine der häufigsten Suchen der Zielgruppe an:
+*spooky books for kids age 9-12* · *ghost stories for kids ages 9-12* · *mystery books for kids 9-12* (jeweils Vorschlag Nr. 1–2).
+„ghost mystery for kids" selbst hat keine Vorschläge — gesucht werden die Wörter einzeln, und Amazon kombiniert Wörter aus
+Titel, Untertitel und Keywords. *kids*, *9-12*, *books*, *story*, *scary*, *haunted house* stehen schon in den Keywords.
+Gegen einen längeren Untertitel (*… for Kids 9-12*): Cover müsste neu, Cover und Metadaten sollen übereinstimmen
+(Empfehlung, nicht offiziell belegt), „for kids" wirkt auf 11–12-Jährige jünger und erinnert an billige
+Geschichtensammlungen; Verlags-Bestseller der Sparte (*Small Spaces*, *Wait Till Helen Comes*, *Ghosts*) haben gar keinen
+Untertitel. KDP offiziell: Titel + Untertitel ≤ 200 Zeichen, keine wiederholten Gattungswörter, keine Werbewörter.
+
 ## 2. Description (Amazon-Produktseite, HTML)
 
 ```html
