@@ -105,10 +105,12 @@ def add_scene_break(doc):
 
 
 def add_chapter_heading(doc, title, erste=False):
-    """Wie im deutschen Taschenbuch: neue Seite, 14 pt fett, Luft davor und danach."""
-    if not erste:
-        eb.add_page_break(doc)
+    """Wie im deutschen Taschenbuch: neue Seite, 14 pt fett, Luft davor und danach.
+    Der Umbruch ist eine Eigenschaft der Ueberschrift, kein eigener Absatz: endet ein Kapitel
+    genau am Seitenende, rutschte der Umbruch-Absatz sonst auf eine neue Seite -> Leerseite
+    mitten im Buch (so geschehen vor Kapitel 5, 2026-10-18)."""
     p = doc.add_paragraph()
+    p.paragraph_format.page_break_before = not erste
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p.paragraph_format.first_line_indent = Cm(0)
     p.paragraph_format.space_before = Pt(50)
@@ -121,11 +123,14 @@ def add_chapter_heading(doc, title, erste=False):
 
 
 def front_matter(doc, r):
-    """Schmutztitel, Titelseite, Impressum — ohne Inhaltsverzeichnis (wie DE-Taschenbuch)."""
+    """Schmutztitel (S. 1, rechts) · Leerseite (S. 2) · Titelseite (S. 3, rechts) · Impressum
+    (S. 4, Rueckseite der Titelseite) -> Kapitel 1 beginnt auf S. 5, rechts. Buchkonvention;
+    ohne die Leerseite stand die Titelseite links. Kein Inhaltsverzeichnis (wie DE-Taschenbuch)."""
     eb.add_blank_lines(doc, 8)
     for z in r["Half title"]:
         eb.zeile(doc, z, 18, bold=True)
     eb.add_page_break(doc)
+    eb.add_page_break(doc)          # S. 2 bleibt leer
 
     eb.add_blank_lines(doc, 5)
     groessen = [14, 12, 24, 12]
@@ -247,9 +252,20 @@ def pruefe_pdf():
     for wort in ("Whispering", "Window", "Listeners"):
         if re.search(wort[:4] + r"\w*-\s*\n", gesamt) and wort not in gesamt.replace("-\n", ""):
             raise ValueError(f"{wort} ist getrennt")
-    seite1bis3 = "".join(d[i].get_text() for i in range(3))
-    if "-\n" in seite1bis3:
+    seite1bis4 = "".join(d[i].get_text() for i in range(4))
+    if "-\n" in seite1bis4:
         raise ValueError("Silbentrennung in der Titelei")
+    # Aufbau der Titelei und keine Leerseiten im Buchinneren
+    erwartet = {1: "The Whispering Window", 3: "Book One", 4: "Copyright", 5: "Chapter 1:"}
+    for s, t in erwartet.items():
+        if t not in d[s - 1].get_text():
+            raise ValueError(f"Seite {s} sollte '{t}' enthalten")
+    if d[1].get_text().strip():
+        raise ValueError("Seite 2 sollte leer sein")
+    leer = [i + 1 for i in range(2, d.page_count - 1)
+            if len(re.sub(r"[\s\d]", "", d[i].get_text())) < 5]
+    if leer:
+        raise ValueError(f"Leerseiten im Buchinneren: {leer}")
     for n in range(1, 17):
         if f"Chapter {n}:" not in gesamt:
             raise ValueError(f"Chapter {n} fehlt im PDF")

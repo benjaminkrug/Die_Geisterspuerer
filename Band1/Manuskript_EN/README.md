@@ -45,6 +45,6 @@ Am Ende: Gesamtdurchgang (Stimmen, Running Gags), Kinderleser am Stück, D8 Nach
 - Texte: `Rahmen/Rahmen_EN.md` (je Seite ein Abschnitt), Leseprobe Book 2: `Rahmen/EN_Leseprobe_Band2.md` (aus `DE_Leseprobe_Band2.md`, D4 + D5 + Gegenprobe).
 - Autor-Entscheidungen: Leseprobe übersetzt („Coming soon"); Impressum nur *Translated from the German.* (KI-Angabe im KDP-Dashboard); keine nur-deutschen Reihen; Rezensions-Link erst nach Veröffentlichung.
 - Bau: `python3 Scripts/build_ebook_en_band1.py` → `Output/Band1_EN/KDP_Book1_eBook_EN.docx` (prüft Abschnitte, Platzhalter, jeden Kapitelabsatz, 16 Kapitel).
-- **Taschenbuch (2026-10-18):** `python Scripts/build_taschenbuch_en_band1.py` → `Output/Band1_EN/KDP_Book1_Paperback_EN.pdf` (5,5 × 8,5″, 134 Seiten, Schriften eingebettet; prüft Absätze, Anführungszeichen, Seitengröße, Trennung in der Titelei). Cover: `python Scripts/build_cover.py 1en`.
+- **Taschenbuch (2026-10-18):** `python Scripts/build_taschenbuch_en_band1.py` → `Output/Band1_EN/KDP_Book1_Paperback_EN.pdf` (5,5 × 8,5″, 134 Seiten, Schriften eingebettet; Titelseite und Kapitel 1 rechts; prüft Absätze, Anführungszeichen, Seitengröße, Titelei-Aufbau, Leerseiten, Trennung in der Titelei). Cover: `python Scripts/build_cover.py 1en`.
 - **Nach Veröffentlichung:** ASIN in `BOOK1_ASIN_EN` eintragen, neu bauen, Datei bei KDP ersetzen.
 - Band 2 (DE) Kap. 1 angepasst (*diesen Sommer*, *seit Wochen*, Commit 8e40adc auf dem Band-1-Branch).
