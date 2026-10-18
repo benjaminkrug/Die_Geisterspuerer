@@ -56,14 +56,15 @@ Nora believes in cold pipes, drafts, and logical explanations. Theo believes in 
 > Wohnung" — Lina lebte unten, nicht in der leeren Wohnung oben).
 
 ```
-Nora and Theo move into an old building in Germany, at Kirchgasse 14. One floor up, an empty apartment is ice-cold — in July. And on the front step sits a thin dog with amber eyes, as if he has been waiting for them.
-
-At night, the knocking starts. Three times. Pause. Three times.
-
-In the morning, a word appears on the foggy kitchen window: HELP.
+Someone wrote HELP on the foggy kitchen window.
+Someone who isn't there.
 
 "That was condensation." — Nora
 "Condensation doesn't spell!" — Theo
+
+Nora and Theo have just moved into an old building in Germany, at Kirchgasse 14. One floor up, an empty apartment is ice-cold — in July. On the front step sits a thin dog with amber eyes, as if he has been waiting for them. Theo names him Shadow.
+
+At night, the knocking starts. Three times. Pause. Three times.
 
 Nora believes in cold pipes and drafts. Until Shadow leads them upstairs to the empty apartment, where a list of names hangs on the wall — and to the story of a girl who lived in this house fifty years ago.
 
@@ -125,6 +126,8 @@ Bei KDP heißen die Pfade je nach Format etwas anders — im Dashboard die passe
 | 16 chapters, cliffhangers | 16 Kapiteldateien; Kapitelenden D8.4 |
 | Theo-Zitat Description | K6 Z.69, wörtlich, Sprecher Theo |
 | Rückseite Wortwechsel Nora/Theo | K4 Z.41 *“That was condensation,” Nora said.* · Z.43 Theo *“…A real word! Condensation doesn’t spell!”* — zwei direkt aufeinanderfolgende Repliken derselben Szene, je ein wörtlicher Satz, Reihenfolge erhalten |
+| Rückseite Schlagzeile: HELP am Küchenfenster, „someone who isn't there" | K3 Z.169 (Küche) + Z.199 HELP · K4 Z.31 Theo *“Somebody’s writing on our window! SOMEBODY WHO ISN’T THERE!”* |
+| Theo names him Shadow | K2 Z.135–139 *“What should we call him?” Mom said. … “Shadow,” Theo said.* |
 | dog waiting for them (Rückseite) | K1 Z.161 *as if he had been waiting for exactly this moment* |
 | „wanted to be remembered" | K7/K12 Fensterwörter DON'T FORGET |
 | Book 1 of 5 | Reihe DE abgeschlossen (5 Bände); EN erscheint nach und nach — **nicht** „all five available" behaupten |

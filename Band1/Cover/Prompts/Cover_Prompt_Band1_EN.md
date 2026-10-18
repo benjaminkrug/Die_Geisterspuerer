@@ -19,6 +19,25 @@
 | Mindestgröße Bild | 1650 × 2475 px | **1750 × 2625 px** (2:3) — Panel-Sollmaß 1688 × 2625 px inkl. Beschnitt |
 | Stockwerke im Prompt | „first/second floor" | bewusst **„bottom/middle/top row of windows"** — vermeidet die Verwechslung deutsche/US-Zählung (Glossar E9) |
 
+### Überarbeitung 2026-10-18: auf den Klick hin geprüft (Psychologie)
+
+Gemessen am **echten deutschen Cover**, verkleinert auf Amazon-Vorschaugröße (100–320 px Höhe, dazu Graustufen):
+
+| Befund | Änderung | Warum es wirkt |
+|---|---|---|
+| Bei ≈ 220 px ist das Fenster ≈ 8 px breit — **das Wort ist im Vorschaubild unlesbar**. Ankommen tun nur Titel und Kinder. | Kaltes Fenster **größer (≈ 13 % der Breite)**, Wort füllt die Scheibe. Die anderen Fenster bleiben. | Der Klick fällt am Vorschaubild. **HELP** ist das stärkste Element: ein Notsignal, das Aufmerksamkeit von selbst bindet, und eine offene Frage (*Wer schreibt das — und warum ist niemand da?*). Eine Wissenslücke, die man schließen will, ist der zuverlässigste Klick-Auslöser. Unlesbar wirkt sie nicht. Die eigene Checkliste des deutschen Prompts sah genau das vor: *„Thumbnail-Test … wenn nicht: Fenster größer"*. |
+| In **Graustufen** (Kindle E-Ink, schwaches Handy-Display) ist das kalte Fenster von den warmen kaum zu unterscheiden. | Das kalte Fenster wird der **hellste Punkt der Fassade**, nicht nur andersfarbig. | Das Auge springt zuerst auf den größten Helligkeitskontrast, Farbe kommt danach. |
+| Rückseite begann mit einem sachlichen Satz („Nora and Theo move …"). | **Schlagzeile zuerst:** *Someone wrote HELP on the foggy kitchen window. / Someone who isn't there.* — direkt danach der Nora/Theo-Wortwechsel. | Gelesen wird von oben, und meist nur der Anfang. Die erste Zeile muss die Frage stellen. Schreck → Witz direkt hintereinander ist das Versprechen der Reihe in zwei Zeilen und beruhigt Eltern: gruselig, aber nicht zu sehr. |
+| Rückseite: „Shadow" tauchte auf, ohne dass klar war, dass das der Hund ist. | *Theo names him Shadow.* | Ein Name ohne Bezug kostet beim Überfliegen Verständnis. Nebenbei zeigt der Satz Theo und macht den Hund zur Figur. |
+
+**Bewusst NICHT geändert, nach Prüfung:**
+- **Kinder von hinten:** Gesichter ziehen Blicke an, aber von hinten kann sich jedes Kind selbst an diese Stelle denken. Außerdem ist das eine feste Reihenregel. Alle drei Figuren **schauen zum Fenster**, und der Blick des Betrachters folgt ihrem Blick zum Wort. Das ist ein starkes Mittel und bleibt.
+- **Warm gegen kalt im eigenen Zuhause:** Das Vertraute wird fremd, *unheimlich* im wörtlichen Sinn. Das trägt das ganze Bild.
+- **Gemalt-halbrealistisch, nicht niedlich:** 10- bis 12-Jährige greifen nach Büchern, die nicht „für Kleine" aussehen. Das alte Cover trifft das schon.
+- **Kein Werbespruch auf der Vorderseite:** Im Vorschaubild ist er unlesbar und macht das Bild unruhig. Die Reihe hat genau vier Texte.
+- **Untertitel *Spooky*:** Er signalisiert gruselig, aber sicher. Das passt zu dem, was die Reihe verspricht.
+- **Ehrliche Grenze:** Online zeigt Amazon fast nur die **Vorderseite**. Die Rückseite wirkt vor allem beim gedruckten Buch, also bei Geschenken, in Schulen und Büchereien. Die Vorderseite entscheidet den Klick.
+
 Unverändert und Pflicht: Kinder und Hund **von hinten, keine Gesichter** · Nora **Teal**, Theo **Oliv** · Schattens
 **Bernsteinauge** sichtbar · **kein Geist** am Fenster · Haustür **geschlossen** · Block F (Schrift lesbar, Graustufen-Test).
 Die bewusste Abweichung bleibt: Das Wort steht **lesbar**, nicht spiegelverkehrt.
@@ -55,6 +74,12 @@ Change ONLY these things:
    English word HELP - four capital letters H-E-L-P, drawn by a fingertip in
    the condensation, letters glowing brighter than the milky pane, small drips
    running down. Readable, not mirrored. Not "HELP ME".
+   MAKE THIS WINDOW CLEARLY BIGGER than in the attached image: about 13% of
+   the image width (all other windows stay as they are), and let the word fill
+   most of the pane, so that HELP can still be READ when the whole cover is
+   shrunk to a tiny online thumbnail. The cold window is the BRIGHTEST spot on
+   the whole facade - brighter than the warm windows, not just a different
+   colour.
 
 3. SAFE MARGINS (this image will be trimmed): every line of text stays inside
    the central 78% of the width - at least 11% empty background left and right
@@ -130,16 +155,20 @@ THE LIGHT ON THE FACADE - get this exactly right:
 - TOP row of windows: completely dark. Nobody lives there.
 - MIDDLE row: the windows glow WARM golden-amber (#d4920b) - EXCEPT ONE.
 - THAT ONE WINDOW, in the middle of the warm row, is FOGGED OVER on the inside
-  and glows COLD BLUE (#c8dff5): flat, milky, obviously wrong beside the warm
-  windows on either side. Do not move it to another row; do not make a second
-  one cold.
+  and glows COLD BLUE-WHITE (#c8dff5): milky, obviously wrong beside the warm
+  windows on either side - and it is the BRIGHTEST spot on the whole facade,
+  brighter than the warm windows, not just a different colour. It is also
+  noticeably LARGER than its neighbours (about 13% of the image width). Do not
+  move it to another row; do not make a second one cold.
 
-THE WORD: into the misted condensation of that one cold window, at eye height,
-the English word HELP has been drawn with a fingertip. Clumsy, dragging
-strokes; where the finger wiped the glass clear, the light shines through, so
-the LETTERS GLOW brighter than the milky pane. Small drips run down from each
-stroke. Four capital letters H-E-L-P, plainly legible, NOT mirrored, nothing
-added ("HELP" only, not "HELP ME"). Small in the frame but unmistakable.
+THE WORD: into the misted condensation of that one cold window, the English
+word HELP has been drawn with a fingertip. Clumsy, dragging strokes; where the
+finger wiped the glass clear, the light shines through, so the LETTERS GLOW
+brighter than the milky pane. Small drips run down from each stroke. Four
+capital letters H-E-L-P, NOT mirrored, nothing added ("HELP" only, not
+"HELP ME"). The letters fill most of the pane: the word must still be READABLE
+when the whole cover is shrunk to a tiny online thumbnail. After the title, it
+is the thing every viewer reads second.
 
 THE THREE FIGURES - ALL SEEN FROM DIRECTLY BEHIND, lower third, close together
 on the wet cobblestones, looking UP at the blue window. We see the BACKS of
@@ -209,6 +238,8 @@ nightmares.
 | Geist im Fenster | *„Remove the figure at the window. Only the blue glow and the written word — no person, no face, no silhouette."* |
 | Gesichter sichtbar | *„All three figures are seen from directly behind. Backs of their heads only — no faces, not even in profile."* |
 | Kinderfarben vertauscht | *„The GIRL on the left wears a dark TEAL hoodie. The BOY on the right wears an OLIVE-GREEN bomber jacket."* |
+| Fenster/Wort zu klein | *„Make the cold blue window much bigger — about 13% of the image width — and let HELP fill most of the pane. It must stay readable when the cover is shown as a tiny thumbnail. Keep everything else."* |
+| Kaltes Fenster nicht das hellste | *„The cold blue window must be the brightest spot on the facade, brighter than the warm windows."* |
 | Deutscher Text übrig | *„Remove every German word. Only the four English texts and HELP may appear."* |
 
 ---
@@ -259,21 +290,22 @@ SERIES LINE (two lines, title case, not all caps):
 The Ghost Listeners
 Book 1
 
-BODY (each paragraph separate, small gaps between them):
-Nora and Theo move into an old building in Germany, at Kirchgasse 14.
-One floor up, an empty apartment is ice-cold — in July. And on the
-front step sits a thin dog with amber eyes, as if he has been
-waiting for them.
+HEADLINE (the largest text on the back, two short lines, bold):
+Someone wrote HELP on the foggy kitchen window.
+Someone who isn’t there.
 
-At night, the knocking starts. Three times. Pause. Three times.
-
-In the morning, a word appears on the foggy kitchen window: HELP.
-
-DIALOGUE (italic, two lines):
+DIALOGUE (italic, two lines, directly below the headline):
 “That was condensation.” — Nora
 “Condensation doesn’t spell!” — Theo
 
-BODY (continued):
+BODY (normal size, each paragraph separate, small gaps between them):
+Nora and Theo have just moved into an old building in Germany, at
+Kirchgasse 14. One floor up, an empty apartment is ice-cold — in July.
+On the front step sits a thin dog with amber eyes, as if he has been
+waiting for them. Theo names him Shadow.
+
+At night, the knocking starts. Three times. Pause. Three times.
+
 Nora believes in cold pipes and drafts. Until Shadow leads them
 upstairs to the empty apartment, where a list of names hangs on the
 wall — and to the story of a girl who lived in this house fifty
@@ -320,7 +352,7 @@ dunkler Schein; nichts in den äußeren 11 % der Breite und nichts in der Barcod
 - [ ] Rückseite: „in this house" (nicht „in this apartment") — Lina lebte unten im Haus, nicht in der leeren Wohnung
 
 **Bild:**
-- [ ] Fensterwort `HELP` — vier Buchstaben, leuchtend, Tropfen, nicht gespiegelt
+- [ ] Fensterwort `HELP` — vier Buchstaben, leuchtend, Tropfen, nicht gespiegelt; kaltes Fenster sichtbar größer als die anderen
 - [ ] Untere und obere Fensterreihe dunkel, mittlere warm — genau **ein** kaltes blaues Fenster
 - [ ] Haustür geschlossen · kein Geist, keine Gestalt am Fenster
 - [ ] Alle drei Figuren von hinten · Nora Teal links, Theo Oliv rechts · Bernsteinauge sichtbar · Halsband
@@ -331,7 +363,8 @@ dunkler Schein; nichts in den äußeren 11 % der Breite und nichts in der Barcod
 - [ ] Barcode-Zone unten rechts leer, kein gemaltes helles Feld
 - [ ] Beide Bilder mindestens **1750 × 2625 px** (sonst hochskalieren)
 - [ ] **Block F:** Graustufen-Test — Titel und Rückseitentext klar lesbar
-- [ ] Thumbnail 150 px: Titel lesbar, blaues Fenster erkennbar, Bernsteinauge sichtbar
+- [ ] **Vorschaubild-Test (Pflicht):** auf **200 px Höhe** verkleinern → Titel lesbar **und das Wort HELP lesbar**. Wenn nicht: Nachfass-Satz „Fenster/Wort zu klein"
+- [ ] Graustufen: das kalte Fenster ist der **hellste** Punkt der Fassade
 
 ---
 
