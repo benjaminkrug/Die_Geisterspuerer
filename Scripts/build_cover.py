@@ -135,10 +135,10 @@ BAENDE = {
             format="6x9", papier="weiss", ruecken_bg=None),
 
     # ── Englische Ausgabe (The Ghost Listeners) ──────────────────────────
-    # Seitenzahl GESCHAETZT (2026-10-18): 163 DE-Seiten x Zeichen EN/DE 0,958
-    # / Satzspiegel 5,5x8,5 statt 5x8 (x1,216) -> ~132. Ersetzen, sobald der
-    # KDP-Previewer die echte Zahl zeigt, dann bestaetigt=True.
-    "1en": dict(titel="The Whispering Window",    seiten=132, bestaetigt=False,
+    # Seitenzahl GEZAEHLT (2026-10-18) am hochzuladenden PDF aus
+    # build_taschenbuch_en_band1.py: 134 (gerade gemacht, KDP zaehlt dasselbe).
+    # Die Schaetzung vorher lag bei 132. Aendert sich der Innenteil, neu zaehlen.
+    "1en": dict(titel="The Whispering Window",    seiten=134, bestaetigt=True,
                 format="5.5x8.5", papier="weiss", ruecken_bg=None,
                 reihe="THE GHOST LISTENERS", bandnr="1",
                 bilder=("Band1", "Cover", "Bilder_EN"),
