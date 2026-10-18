@@ -373,6 +373,12 @@ dunkler Schein; nichts in den äußeren 11 % der Breite und nichts in der Barcod
 1. Vorderseite (Weg A, sonst B) — 4–6 Varianten, Checkliste.
 2. Rückseite mit Front und deutscher Rückseite als Referenz — 4–6 Varianten, Text gegenlesen; sonst Variante B.
 3. Ablegen als `Band1/Cover/Bilder_EN/front_book1_en.png` und `back_book1_en.png`.
+   **Stand 2026-10-18:** Vorder- und Rückseite erzeugt und geprüft (Text fehlerfrei, Ränder und Barcode-Feld in
+   Ordnung); beide werden vom Autor hochskaliert.
+   **Entscheidung des Autors:** Auf der Rückseite wird **nur das Wort HELP in der Schlagzeile eisblau** gefärbt
+   (RGB 150/205/255, Farbe des Fensters vorne) — per Skript nach dem Hochskalieren, kein neuer Bilddurchlauf.
+   Position im 1024×1536-Original: x 552–688, y 218–288 (mit dem Skalierungsfaktor umrechnen). Begründung: ein
+   einzelner Farbakzent wird zuerst gesehen und verbindet Vorder- und Rückseite; Kontrast 11 : 1 (Creme 14,9 : 1).
 4. Taschenbuch-Innenteil EN 5,5 × 8,5″ bauen und bei KDP hochladen → **echte Seitenzahl** ablesen.
 5. `Scripts/build_cover.py` bekommt Format `5.5x8.5` und einen EN-Eintrag (Rückentext *The Whispering Window* /
    *The Ghost Listeners*) — wird gebaut, sobald Bilder und Seitenzahl da sind.
