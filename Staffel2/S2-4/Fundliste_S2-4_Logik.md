@@ -573,6 +573,43 @@ oder umformulieren.**
   weil falsche Passagen ersatzlos wegfielen. Bewusst **nicht aufgefüllt** (CLAUDE.md: kurze
   Kapitel besser als gepolsterte) — Entscheidung beim Autor.
 
+**Schritt 2 — F2 Rest + F17 (2026-10-25):**
+- ✅ **F2:** KDP-Beschreibung: Bullet „Der dunkelste Fall" → „diesmal gibt es kein Schloss,
+  das man finden könnte"; „Für sich lesbar" → „an dem es zum ersten Mal nichts mehr zu finden
+  gibt". Rückseitentext geprüft: wahr, bleibt (kein Cover-Neubau). **Falls die Beschreibung
+  live ist, bei KDP ersetzen.** K8:47 und K11:45 geprüft — wahr (es gab bisher immer einen
+  Weg), bleiben.
+- ✅ **F17:** K8 Dialog neu geordnet (die verwaiste Zeile beantwortet jetzt Theos „Das weißt
+  du nicht"), Grammatikfehler K8:39 behoben.
+
+**Schritt 3 — Einzelfunde (2026-10-25):**
+- ✅ **F7:** K11: Frieda hört nur, *dass* im Park einer ruft und die Kinder zwei Abende dort
+  waren — „Bei euch dauert so was sonst keine zwei Abende." Nora: „Es läuft nicht glatt."
+- ✅ **F8/F9/F19:** K8: Theo nennt Halder beim Namen, Nora schiebt den Gedanken weg. K16:
+  „Er ist schon wieder unterwegs" / Schlussgedanke an Clara und Theos zwei Warnungen statt
+  der kanonwidrigen zwölf Markierungen / letzter Satz „Er sucht schon wieder einen. Und wir
+  haben es gewusst. Und nicht hingesehen." Register, Outline und Build-Skript-Kommentar
+  nachgezogen.
+- ✅ **F10 (1)+(2):** K6 gibt das Motiv für K7: „zuerst hören wir ihr zu […] Wir müssen
+  wissen, wer Clara war, bevor wir ihr sagen, dass sie weg ist." K9 fasst den Entschluss
+  nicht neu, sondern findet das *Wie*: „Ich weiß jetzt, wie." **(3)+(4)** (Akt-2-Tempo,
+  Tiefpunkt nach dem Entschluss) bewusst **nicht** umgebaut — Strukturfrage, zuerst lesen.
+- ✅ **F11:** K16 auf Morgen umgestellt („Vor dem Frühstück? Ohne Zettel?", „im nassen Gras
+  gefrühstückt", „die ganze Zeit"); K13:103 „in diesen Tagen". K16:5 „durchwachte Nacht"
+  bleibt — meint Noras schlaflose Nacht zu Hause (K9:9).
+- ✅ **F13 Rest:** K6:17 „dreißig Jahre" → „Sie sucht seit über hundert Jahren nach ihr".
+- ✅ **F20/F21:** S2-5-Outline Mechanik 10 mit Nachtrag (Halder beschäftigt; Marie hält
+  Schuld, kein Schloss — darum berührt der Hauptschalter sie nicht). Eskalationsmarker als
+  überholt markiert.
+- **Messung (alle geänderten Kapitel gegen den Stand vor der Überarbeitung, Commit
+  4337fc1):** keine neuen Sätze > 18 W (die drei verbleibenden — K11, K14, K16 — standen
+  schon vorher so). Längster dialogfreier Block: K4 159→114, K5 196→177, K7 152→159,
+  K16 113→120, sonst unverändert. Dialoganteil gleich oder +1–2 Punkte.
+
+**Offen (Autor):** F10 (3)+(4) und die Grenzfälle (Humorplan, Grusel 8/10) — erst beim
+Lesen entscheiden. K4/K5 unter ~1.200 W (siehe oben). Kompilieren + Taschenbuch-Seitenzahl
+prüfen (Buchrücken!), bevor neu hochgeladen wird.
+
 ## Empfohlene Reihenfolge
 
 1. **F1 entscheiden** (Richtung a, b oder c). Davon hängen K7, K13 und K14 ab.

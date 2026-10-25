@@ -18,15 +18,15 @@ Sie stand auf und zog sich im Dunkeln an, ohne das Licht anzuschalten. Eine alte
 
 Sie klopfte an Theos Zimmertür, noch bevor sie sich richtig angezogen hatte.
 
-"Ich hab's", sagte sie, kaum dass er die Tür öffnete.
+"Ich weiß jetzt, wie", sagte sie, kaum dass er die Tür öffnete.
 
-Theo blinzelte verschlafen. "Was hast du?"
+Theo blinzelte verschlafen. "Wie was?"
 
-"Wir können sie nicht mit Clara zusammenbringen. Das geht nicht. Das wird nie gehen."
+"Wie wir's ihr sagen. Wir können sie nicht mit Clara zusammenbringen. Das wird nie gehen."
 
 "Das wussten wir schon gestern." Theo gähnte und stützte sich am Türrahmen ab, noch nicht ganz wach.
 
-"Ja, aber ich hab die ganze Nacht überlegt, was das bedeutet." Nora trat einen Schritt in sein Zimmer. "Wir können ihr trotzdem etwas geben. Nicht Clara. Aber die Wahrheit."
+"Ja. Und gestern dachte ich, die Wahrheit ist das Schlimmste, was wir ihr bringen können." Nora trat einen Schritt in sein Zimmer. "Ich hab die ganze Nacht überlegt. Vielleicht ist sie das Einzige, was wir ihr geben können. Nicht Clara. Aber die Wahrheit über Clara."
 
 Theo rieb sich die Augen. "Die Wahrheit, dass ihre Schwester weg ist? Das klingt nicht gerade nach einem Geschenk."
 

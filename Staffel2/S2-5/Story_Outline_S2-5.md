@@ -122,6 +122,13 @@ selbst erzählt hat, überhaupt stimmt.
     Sammelpunkt — dieselbe Grundsatzregel wie Punkt 9, nur mit umgekehrtem Ergebnis. Sie
     wird im gesamten Band **nicht erwähnt**, um jede Andeutung einer Mitbefreiung
     auszuschließen (Kontinuität, Marie-Sektion).
+    ⚠️ **Nachtrag 2026-10-25 (`S2-4/Fundliste_S2-4_Logik.md` F1/F20):** Die Regel oben
+    (Herkunft: `S2-2/Story_Outline_S2-2.md` Z. 46, nicht S2-3) sagt nur, *wohin* ein Geist
+    zieht — nicht, ob Halder ihn binden kann (Herbert hatte einen persönlichen Ort und wurde
+    trotzdem gebunden). Tragfähig ist: Halder war mit dem anderen Geist beschäftigt. Und
+    Marie ist nicht gebunden — was sie hält, ist **Schuld**, die nur Clara lösen könnte
+    (S2-4 K14, Autorentscheidung). Ein Hauptschalter in der Werkstatt berührt das nicht —
+    das ist der eigentliche Grund, warum sie in S2-5 unberührt bleibt.
 
 11. **Zeitlicher Abstand:** K1 unmittelbar nach S2-4 (Tage), dann Zeitsprung **~3 Wochen**
     bis K2 (Frieda kehrt zurück) — S2-5 spielt damit ab **Ende August/Anfang September**.

@@ -63,9 +63,9 @@ Pruefungen (brechen den Build ab, statt still Falsches zu bauen):
   3. den ENDE-Guard aus S2-1/Band 5 uebernehmen, der nach dem Strippen prueft,
      ob noch eine ENDE-Zeile uebrig ist, und dann abbricht.
 
-  4. ⚠️ S2-4-BESONDERHEIT: K16 endet auf den Season-Hook "'Er hat schon wieder
-     einen gefunden', sagte sie. 'Und wir haben nicht mal gemerkt, dass er da
-     war.'" (siehe Cliffhanger_Register_S2-4.md, ERKENNTNIS/Season-Hook, und
+  4. ⚠️ S2-4-BESONDERHEIT: K16 endet auf den Season-Hook "'Er sucht schon wieder
+     einen', sagte sie. 'Und wir haben es gewusst. Und nicht hingesehen.'"
+     (geaendert 2026-10-25, Fundliste F8; siehe Cliffhanger_Register_S2-4.md, ERKENNTNIS/Season-Hook, und
      Setup_Payoff_Tracker_S2-4.md) — bewusst offen als Staffel-Faden fuer S2-5,
      darf von KEINEM Downstream-Build-Schritt umformatiert oder mit einem
      Ornament versehen werden. Nach jedem Taschenbuch-/Ebook-Build diese Stelle

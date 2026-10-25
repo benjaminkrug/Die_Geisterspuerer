@@ -20,7 +20,7 @@ ERKENNTNIS, KOMPLIKATION, OBJEKT, SPANNUNG/UNSICHERHEIT.
 | K1 | Die Frau im Park | BILD | Durchscheinende Gestalt in der Dämmerung, ruft, sucht |
 | K2 | Clara? | DIALOG | Marie, ins Leere: „Clara? Bist du das?" |
 | K3 | Die Schleife | ERKENNTNIS | Der Name „Clara" — Nora hat ihn schon einmal gesehen |
-| K4 | Frei. | OBJEKT | Markierung am Stadtpark, bereits durchgestrichen: „Frei." |
+| K4 | Frei. | OBJEKT | Markierung am Stadtpark (Nora weiß, dass alle durch sind) — Name Clara, daneben „Frei." — „Nora kannte diese Schrift." *(präzisiert 2026-10-25, Fundliste F3)* |
 | K5 | Das ist unsere Schrift | ERKENNTNIS | Clara wurde vor Monaten befreit — für immer zu spät |
 | K6 | Wie sagt man das jemandem | GEDANKE/ENTSCHLUSS | Nora: Sie versuchen es trotzdem mit Zuhören |
 | K7 | Es reicht nicht | KOMPLIKATION | Zuhören verändert nichts an der Grundsituation |
@@ -32,7 +32,7 @@ ERKENNTNIS, KOMPLIKATION, OBJEKT, SPANNUNG/UNSICHERHEIT.
 | K13 | Was wir dir geben können | AKTION | Marie hält inne — hört zum ersten Mal auf zu rufen |
 | K14 | Ein anderes Ende | BILD | Marie, still zwischen den Bäumen — wartend, nicht suchend |
 | K15 | Was Frieda jetzt weiß | DIALOG | Frieda: „Ich weiß nicht mehr, was ich glauben soll." |
-| K16 | Und Halder? | ERKENNTNIS (Season-Hook) | „Er hat wieder einen. Und wir haben es nicht mal gemerkt." |
+| K16 | Und Halder? | ERKENNTNIS (Season-Hook) | „Er sucht schon wieder einen. Und wir haben es gewusst. Und nicht hingesehen." *(korrigiert 2026-10-25, Fundliste F8: „gefunden"/„nicht gemerkt" widersprach K16 selbst, K4/K8 und S2-5 Mechanik 3)* |
 
 ---
 

@@ -3,7 +3,7 @@
 **Die Gebundenen · Band 4**
 Ein Grusel-Abenteuer für Kinder ab 12 Jahren
 Autor: Benjamin Krug
-Stand: 2026-09-24
+Stand: 2026-10-25
 
 
 # Kapitel 1 – Die Frau im Park
@@ -188,11 +188,11 @@ Der Himmel war inzwischen fast ganz dunkel. Theo zog sein Handy aus der Tasche u
 
 Nora trat noch einen Schritt näher, langsam, die Hände sichtbar, so wie man sich einem verängstigten Tier näherte.
 
-"Wir wollen Ihnen helfen", sagte sie. "Wie heißen Sie?"
+"Wir wollen dir helfen", sagte sie. "Wie heißt du?"
 
 Nichts. Nicht einmal ein Zucken.
 
-"Können Sie uns sagen, wonach Sie suchen?"
+"Kannst du uns sagen, wonach du suchst?"
 
 Auch das ging ins Leere. Die Gestalt bewegte sich weiter in ihrem eigenen, stillen Kreis. Noras Worte schienen irgendwo auf halbem Weg zu verschwinden, lange bevor sie überhaupt ankamen.
 
@@ -274,7 +274,7 @@ Nora spürte, wie sich etwas in ihrer Brust zusammenzog. Nicht Angst, jedenfalls
 
 Nora trat einen Schritt näher. Diesmal wich die Gestalt nicht zurück. Sie schien es kaum zu bemerken. Ihre Hände tasteten weiter durch die Luft, aber langsamer jetzt, fast erschöpft.
 
-"Wir sind nicht Clara", sagte Nora leise. "Aber wir wollen Ihnen helfen, sie zu finden."
+"Wir sind nicht Clara", sagte Nora leise. "Aber wir wollen dir helfen, sie zu finden."
 
 Und die Gestalt hielt inne.
 
@@ -418,11 +418,11 @@ Frau Silber hatte diese Karte gezeichnet, lange bevor Nora überhaupt geboren wa
 
 "Was suchen wir genau?", fragte Theo.
 
-"Den Stadtpark. Wenn Clara wirklich schon lange tot ist, müsste sie hier irgendwo stehen."
+"Den Stadtpark. Da war eine Markierung, ganz sicher."
 
-"Und wenn nicht?"
+Theo sah sie von der Seite an. "Die sind alle durch, Nora. Alle zwölf. Seit November."
 
-"Dann steht sie eben nicht drauf, und wir wissen wenigstens, dass sie neu ist. Wie die anderen."
+"Ich weiß." Sie strich das Papier glatt. "Ich will trotzdem wissen, wer da stand."
 
 "Wo ist der Park?", fragte Theo und beugte sich über ihre Schulter.
 
@@ -454,21 +454,23 @@ Schatten kam nicht sofort. Er blieb noch einen Moment an der Tür stehen, die Na
 
 "Ach, übrigens." Theo sagte es beiläufig, während er sich wieder über die Karte beugte. "Auf dem Weg hab ich noch was gehört. Marvins großer Bruder hat erzählt, irgendein Fremder läuft seit ein paar Tagen am anderen Ende der Stadt rum. Stellt komische Fragen. Über alte Häuser oder so."
 
-Nora hörte nur mit halbem Ohr zu, ihr Blick noch auf der Karte. Aber ein kleiner Teil von ihr registrierte die Neuigkeit trotzdem und legte sie irgendwo ab, für später.
+Nora sah nicht von der Karte auf. Aber etwas in ihr wurde still und aufmerksam.
 
 "Was für komische Fragen?"
 
-"Weiß nicht. Marvin wusste es auch nicht genau." Er zuckte mit den Schultern. "Klang halt komisch. Dachte, sag ich's einfach."
+"Weiß nicht. Marvin wusste es auch nicht genau." Er zuckte mit den Schultern. "Alte Häuser, Nora. Wer fragt denn nach alten Häusern?"
 
-"Vielleicht bloß ein Vertreter."
+Nora wusste genau, wer. Ein Mann mit einer Brandnarbe an der Hand. Ein Schlosser, der in fremden Fluren stand und freundlich lächelte.
 
-"Vielleicht." Theo klang nicht besonders überzeugt, aber er ließ es dabei. "Ist wahrscheinlich nichts. Wollt's nur erwähnt haben."
+"Nicht jetzt", sagte sie. "Erst Marie."
 
-"Ist notiert."
+"Aber wenn das Halder ist …"
 
-Wichtiger war gerade ohnehin etwas anderes.
+"Dann ist er es morgen auch noch." Es klang härter, als sie wollte. "Bitte, Theo. Eins nach dem anderen."
 
-Nora hörte kaum hin. Ihr Finger lag immer noch auf derselben Stelle der Karte, direkt neben der grünen Fläche des Stadtparks.
+Theo klappte den Mund zu und nickte.
+
+Nora sah wieder auf die Karte. Ihr Finger lag immer noch auf derselben Stelle, direkt neben der grünen Fläche des Stadtparks.
 
 Dort stand, in Frau Silbers eigener, schmaler Handschrift: *Clara B. — 1889.*
 
@@ -476,41 +478,23 @@ Und quer über den Namen, dick und eindeutig, verlief ein einziger Strich.
 
 Für einen Moment saß Nora einfach nur da und starrte auf den Namen. Zwölf Markierungen auf dieser Karte, und ausgerechnet diese hier, ausgerechnet heute.
 
-"Das ist sie", flüsterte Nora. "Das muss sie sein."
+"Das ist sie", flüsterte Nora. "Clara. Das muss sie sein."
 
-Theo beugte sich noch näher. "Warte." Seine Stimme wurde leiser. "Ist der Name nicht … durchgestrichen?"
+Theo beugte sich noch näher. "Aber dann …" Seine Stimme wurde leiser. "Dann ist die doch schon weg."
 
-"Was?"
+"Ja."
 
-"Guck doch selbst."
+"Seit November?"
 
-Er hatte recht. Nora hatte es im ersten Moment kaum wahrgenommen, so sehr hatte sie nach dem Namen selbst gesucht. Aber jetzt, da sie genauer hinsah, war es unübersehbar.
-
-Ein Strich, klar und entschieden gezogen, quer über den ganzen Eintrag.
-
-Und daneben, kleiner, an den Rand gequetscht, standen zwei Worte. Die Handschrift kam Nora sofort bekannt vor. Sie hätte im Moment nicht sagen können, warum.
-
-*Frei.*
+"Seit November." Nora hörte selbst, wie leer das klang. "Marie sucht jemanden, den wir schon gehen lassen haben."
 
 Schatten winselte wieder, lauter diesmal. Er drückte sich an die geschlossene Zimmertür, als wollte er sie mit der Schnauze aufdrücken.
 
 Niemand von beiden achtete darauf.
 
-Nora starrte auf die zwei Wörter. Auf den Strich. Auf den Namen, der schon lange nicht mehr offen war. Ein kalter, langsamer Schreck breitete sich in ihr aus, lange bevor sie überhaupt verstand, warum.
-
-Schatten kam zu ihr herüber und legte den Kopf auf ihr Knie. So wie er es manchmal tat, wenn sie zu lange stillsaß. Sie legte automatisch die Hand auf sein Fell, ohne wirklich hinzusehen.
-
-"Das ergibt keinen Sinn", sagte sie leise. "Sie ist doch gerade erst gekommen. Vor unseren Augen. Heute Abend."
-
-"Vielleicht ist frei nicht dasselbe wie weg", sagte Theo langsam.
-
-"Was soll das heißen?"
-
-"Weiß nicht. Ich denk nur laut."
-
 "Vielleicht ist es eine andere Clara", sagte Theo, aber es klang nicht, als würde er selbst daran glauben.
 
-"Mit demselben Nachnamen-Anfangsbuchstaben? Demselben Jahr? Am selben Ort?"
+"Eine Clara im Stadtpark, die seit über hundert Jahren tot ist? Und dann kommt eine Schwester in einem uralten Kleid und sucht sie genau da?"
 
 "Okay, vergiss die andere Clara."
 
@@ -518,11 +502,15 @@ Schatten kam zu ihr herüber und legte den Kopf auf ihr Knie. So wie er es manch
 
 "War auch keine gute Idee."
 
-Nora fuhr noch einmal mit dem Finger über den Eintrag, langsam, fast vorsichtig. So prüft man eine Wunde, von der man hofft, dass sie sich anders anfühlt, wenn man genauer hinsieht. Es veränderte sich nichts. Der Strich blieb, wo er war. Das Wort blieb, was es war.
+Schatten kam zu ihr herüber und legte den Kopf auf ihr Knie. So wie er es manchmal tat, wenn sie zu lange stillsaß. Sie legte automatisch die Hand auf sein Fell, ohne wirklich hinzusehen.
 
-Theo sagte nichts mehr darauf.
+Nora fuhr noch einmal mit dem Finger über den Eintrag, langsam, fast vorsichtig. So prüft man eine Wunde, von der man hofft, dass sie sich anders anfühlt, wenn man genauer hinsieht. Es veränderte sich nichts. Der Strich blieb, wo er war.
 
-Er starrte nur auf die Karte. Auf den durchgestrichenen Namen. Auf die zwei kleinen Worte am Rand. Alles, was sie eben noch im Park gesehen hatten, rückte plötzlich in ein völlig anderes Licht.
+Und daneben, kleiner, an den Rand gequetscht, stand ein einziges Wort.
+
+*Frei.*
+
+Nora kannte diese Schrift. Das F mit dem kleinen Haken am Ende. Sie kannte sie besser als jede andere.
 
 # Kapitel 5 – Das ist unsere Schrift
 
@@ -530,27 +518,23 @@ Die Handschrift war ihre eigene.
 
 Nora starrte auf das Wort, bis die Buchstaben anfingen, sich aufzulösen. *Frei.* Ihr eigenes F, mit dem kleinen Haken am Ende. Eine Angewohnheit aus der dritten Klasse, die sie sich nie mehr abgewöhnt hatte.
 
-"Das kann nicht sein", sagte sie leise.
+"Ich hab das geschrieben", sagte sie leise.
 
-"Was kann nicht sein?"
+"Ich weiß", sagte Theo. "Du hast alle acht gemacht."
 
-"Das ist meine Schrift, Theo. Nicht Frau Silbers. Meine."
+"Nein. Ich meine: Ich hab *sie* abgehakt. Maries Schwester."
 
 Theo beugte sich noch näher über die Karte. Sein Gesicht wurde bleich im Licht der Schreibtischlampe, die zu grell wirkte für das, was sie gerade beleuchtete.
 
-"Wann sollst du das geschrieben haben?"
+Es gab nur einen Morgen, an dem Nora etwas auf diese Karte geschrieben hatte. Einen einzigen.
 
-"Ich weiß nicht."
-
-Aber sie wusste es, kaum dass sie es aussprach. Es gab nur eine Nacht, in der sie irgendetwas auf diese Karte geschrieben hatte. Eine einzige.
-
-"Graven", flüsterte sie.
+"Der Morgen nach Graven", flüsterte sie.
 
 Schatten kam zu ihr herüber und legte sich neben ihren Fuß, den Kopf auf ihre Zehen gedrückt. Er war ungewöhnlich still. Kein Winseln mehr. Nur dieses schwere, wartende Gewicht an ihrem Bein.
 
-"Die Nacht, in der alles aufgemacht wurde", sagte Theo langsam. "Als er alle Toten der Stadt gehen lassen musste."
+"Die Nacht, in der alles aufging", sagte Theo langsam. "Als er endlich losgelassen hat. Und alle auf einmal gehen durften."
 
-"Acht Markierungen auf einmal." Nora hörte sich selbst reden, als käme die Stimme von jemand anderem. "Wir haben sie am nächsten Morgen durchgestrichen. Alle acht. Ich weiß noch, dass es ewig gedauert hat."
+"Acht Markierungen auf einmal." Nora hörte sich selbst reden, als käme die Stimme von jemand anderem. "Ich hab sie am nächsten Morgen durchgestrichen. Alle acht. Ich weiß noch, dass es ewig gedauert hat."
 
 Sie erinnerte sich jetzt deutlicher. Der Küchentisch, am Morgen danach. Sie hatte kaum geschlafen. Draußen war es ein ganz gewöhnlicher, grauer November-Morgen gewesen. Nach einer Nacht, die alles andere als gewöhnlich gewesen war. Der Kugelschreiber, der ihr immer wieder aus der Hand rutschte, weil ihre Finger zitterten. Zwölf Kreuze auf der Karte, vier schon durchgestrichen von vorher. Acht neue.
 
@@ -558,23 +542,25 @@ Sie hatte für jedes einzelne innegehalten. Nicht lange. Aber lang genug, dass T
 
 Irgendwann, mitten in der Liste, hatte Theo ihr die Kugelschreibermine gewechselt, weil die alte leer geschrieben war. Er hatte dabei kein Wort gesagt. Er hatte es einfach getan. So, wie man einem Freund still hilft, ohne es groß zu benennen.
 
-Sie hatte bei jedem einzelnen kurz innehalten müssen. Nicht, weil sie sich erinnerte, wer es war. Sondern genau umgekehrt: weil sie es nicht tat.
+Aufgehalten hatten sie nicht die Namen. Es waren die Lichter gewesen, die sie dabei noch vor sich sah.
 
-"Ich hab sie nie einzeln kennengelernt", sagte Nora. "Keinen von den achten. Wir haben nur zugesehen, wie sie … angekommen sind. Am Ende. Alle auf einmal, im Licht."
+Theo setzte sich neben sie auf den Boden. "Weißt du noch, wo sie hergekommen sind?"
 
-Sie schloss die Augen und versuchte, sich das Bild zurückzuholen. Es war da, aber verschwommen, wie durch zu viele Schichten Nebel gesehen. Gestalten, die aus dem Dunkel traten. Andere Gestalten, die sie empfingen, mit einer Selbstverständlichkeit, als hätte man nur auf sie gewartet. Niemand hatte Namen gerufen. Niemand hatte sich vorgestellt. Es war einfach passiert, schnell und hell und überwältigend, und dann war es vorbei gewesen.
+"Aus der Fabrik. Von der Kirche. Von der Schule." Nora schluckte. "Und aus dem Park."
 
-Theo setzte sich neben sie auf den Boden. "Ich erinnere mich an eine Frau. Und einen alten Mann. Mürrisch, mit hängenden Schultern."
+"Und drüben stand Lina. Ganz vorn, mit ihrem Zopf." Theo verzog fast den Mund. "Hat geguckt, als wären wir zu spät."
 
-"Ich glaub, ich hab ein Mädchen gesehen. Mit einem altmodischen Zopf."
+"Und Brenner. Und Marlene. Und Faber, ganz hinten, mit gefalteten Händen."
 
-"Und einen in einem viel zu langen Rock. Der hat sich verbeugt, glaub ich. Oder irgendwas in der Art."
+"Die haben sie abgeholt. Alle acht."
 
-Sie sahen sich an. Es war seltsam, wie viel und wie wenig sie beide behalten hatten. Bilder ohne Zusammenhang, Gesichter ohne Geschichten, ein ganzer Abend voller Menschen, die sie nie richtig gesehen hatten.
+Nora schloss die Augen. Das Bild war sofort da, schärfer, als ihr lieb war. Kurz davor, auf dem Rückweg durch die Stadt: eine Gestalt am Park, zwischen den kahlen Bäumen. Sie hatte einfach dagestanden und gewartet. Und in jener Nacht ein Licht, das aus genau dieser Richtung kam. Ruhig, ohne Eile.
 
-"Aber keine Namen."
+"Ich hab sie gesehen, Theo", sagte sie. "Clara. Zweimal. Ich wusste nur nicht, wie sie heißt."
 
-"Keine Namen." Nora legte die Hand flach auf die Karte, über den Namen, der jetzt vor ihr lag. "Wir haben nur die Karte genommen und abgehakt, was aufgehört hatte, offen zu sein. Wie eine Liste."
+"Keiner von uns wusste das."
+
+"Ich hab auch nie gefragt." Nora legte die Hand flach auf die Karte, über den Namen, der jetzt vor ihr lag. "Ich hab die Karte genommen und abgehakt, was aufgehört hatte, offen zu sein. Wie eine Liste."
 
 Es klang furchtbar, sobald sie es aussprach. Aber es war genau das gewesen. Acht Namen, acht Kreuze, in einer einzigen, erschöpften Sitzung am Küchentisch. Die Uhr auf dem Herd hatte irgendwann aufgehört, für sie eine Bedeutung zu haben.
 
@@ -582,7 +568,7 @@ Es klang furchtbar, sobald sie es aussprach. Aber es war genau das gewesen. Acht
 
 Er sprach die Zahl langsam aus, Silbe für Silbe. Als könnte die Länge des Wortes noch etwas Zeit verschaffen, bevor sie beide begreifen mussten, was es bedeutete.
 
-"Ich hab das geschrieben, ohne zu wissen, wer sie war." Noras Stimme brach fast. "Ich hab 'frei' hingeschrieben und bin zum nächsten Namen weiter."
+"Ich hab 'frei' hingeschrieben und bin zum nächsten Namen weiter." Noras Stimme brach fast. "Ich hab nie gedacht, dass jemand nach ihr sucht."
 
 Und Schatten hob den Kopf und sah sie an, die Augen dunkel und aufmerksam.
 
@@ -594,9 +580,9 @@ Die Stille im Zimmer dehnte sich, dick und schwer. Draußen, im Flur, hörte man
 
 Nora fragte sich, wie oft das schon so gewesen war. Wie viele Abende die Wohnung außen herum einfach weiterlief, während in ihrem Zimmer etwas zerbrach.
 
-"Aber Marie ist doch gerade erst gekommen", sagte Theo schließlich. "Heute. Vor unseren Augen."
+"Und Marie ist gerade erst gekommen", sagte Theo schließlich. "Heute. Vor unseren Augen."
 
-Nora nickte langsam. Genau das war der Teil, den ihr Verstand nicht zusammenbekam. Zwei Tatsachen, die beide wahr waren und sich trotzdem nicht vertrugen.
+Nora nickte langsam. Neun Monate. So weit lagen die beiden Schwestern auseinander. Nach über hundert Jahren Suche waren es am Ende neun Monate.
 
 "Vielleicht gibt's ja noch einen Weg", sagte Theo, ohne besondere Überzeugung. "Irgendwas, das wir übersehen haben."
 
@@ -608,9 +594,9 @@ Nora nickte langsam. Genau das war der Teil, den ihr Verstand nicht zusammenbeka
 
 "Das heißt, sie sucht jemanden, den es hier gar nicht mehr gibt. Der nirgendwo mehr ist, wo Marie ihn finden könnte."
 
-Schatten winselte einmal, kurz, und drückte seine Nase fester gegen Noras Fuß, als könnte er sie damit festhalten. Sein Fell an den Ohren war inzwischen fast so grau wie an jenem Morgen. An den Morgen, an den sie sich gerade erst wieder erinnert hatte. Er war seitdem nur älter geworden, langsamer. Aber immer noch derselbe Hund. Derselbe, der neben ihr am Küchentisch gelegen hatte, während sie eine Karte voller fremder Namen durchstrich.
+Schatten winselte einmal, kurz, und drückte seine Nase fester gegen Noras Fuß, als könnte er sie damit festhalten. Sein Fell an den Ohren war inzwischen grauer als an jenem Morgen. Er war seitdem älter geworden, langsamer. Aber immer noch derselbe Hund. Derselbe, der neben ihr am Küchentisch gelegen hatte, während sie eine Karte voller fremder Namen durchstrich.
 
-Nora sah wieder auf den Namen. Auf ihre eigene, hastige Handschrift daneben. Geschrieben in einer Nacht, an die sie sich kaum noch erinnerte. Für eine Person, die sie nie kennengelernt hatte.
+Nora sah wieder auf den Namen. Auf ihre eigene, zittrige Handschrift daneben. Geschrieben an einem grauen Novembermorgen. Für einen Menschen, nach dessen Namen sie nie gefragt hatte.
 
 Clara war frei. Clara war fort, für immer, seit Monaten schon.
 
@@ -638,7 +624,7 @@ Ihre eigene Stimme klang fremd in der Stille des Zimmers. Theo saß immer noch n
 
 Nora sah ihn an. Theo wich ihrem Blick nicht aus, aber sie sah, dass er selbst nicht daran glaubte.
 
-"Sie hat dreißig Jahre gebraucht, um für ihre Schwester nicht mehr auf sie zu warten", sagte Nora leise. "So lange, bis Clara selbst befreit wurde. Glaubst du wirklich, sie hört einfach auf, wenn wir nichts sagen?"
+"Sie sucht seit über hundert Jahren nach ihr", sagte Nora leise. "Glaubst du wirklich, sie hört einfach auf, wenn wir nichts sagen?"
 
 Theo schwieg. Er zupfte an einem losen Faden am Saum seines Pullovers, immer wieder, ohne es zu merken. Es war eine Angewohnheit, die er sich nie abgewöhnt hatte, seit er klein war. Nora wusste inzwischen genau, was sie bedeutete. Er dachte nach, und es gefiel ihm nicht, was ihm dabei einfiel.
 
@@ -704,7 +690,7 @@ Nora drückte kurz seine Schulter. Es war kein besonders guter Witz gewesen, abe
 
 Draußen war es jetzt vollständig dunkel. Durch die Vorhänge fiel nur das gelbe Licht der Straßenlaterne vor ihrem Fenster. Dasselbe Licht, das jeden Abend dort brannte, ganz egal, was in ihrem Zimmer gerade geschah.
 
-"Morgen", sagte Nora. "Wir gehen morgen zu ihr zurück. Und wir hören ihr zu. Richtig zu, so wie bei den anderen. Vielleicht reicht es ja doch."
+"Morgen", sagte Nora. "Wir gehen morgen zu ihr zurück. Und zuerst hören wir ihr zu. Richtig zu, so wie bei den anderen. Wir müssen wissen, wer Clara war, bevor wir ihr sagen, dass sie weg ist. Und vielleicht reicht Zuhören ja doch."
 
 Sie sagte es fester, als sie sich fühlte. Es half trotzdem, es laut auszusprechen. Laute Worte fühlten sich fester an als bloße Gedanken, auch wenn sich am Plan selbst nichts änderte.
 
@@ -744,7 +730,7 @@ Jetzt, hier vor den Kastanien, fühlte sich dieser Plan plötzlich sehr viel kle
 
 Nora ließ sich vor Marie auf den Boden sinken, genau auf Augenhöhe. So wie Frau Silber es immer gesagt hatte. Immer zuerst zuhören. Egal, wie unmöglich der Fall aussah.
 
-"Ich bin wieder da", sagte Nora leise. "Ich möchte Ihnen zuhören. Ganz in Ruhe. Erzählen Sie mir von Clara."
+"Ich bin wieder da", sagte Nora leise. "Ich möchte dir zuhören. Ganz in Ruhe. Erzähl mir von Clara."
 
 Marie sah sie an, als müsste sie die Worte erst durch mehrere Schichten hindurch verstehen. "Zuhören?"
 
@@ -766,9 +752,13 @@ Theo setzte sich neben Nora, langsam, ohne ein Wort. Schatten legte sich vor ihn
 
 "Sie hat auf mich aufgepasst", sagte Marie. "Immer. Auch an dem Abend."
 
-Ihre Stimme wurde leiser, aber sie brach nicht ab, wie beim letzten Mal. Sie erzählte weiter, langsam, Wort für Wort. Jedes davon trug etwas von einem Gewicht ab, das sie schon viel zu lange getragen hatte.
+Ihre Stimme wurde leiser, aber sie brach nicht ab, wie beim letzten Mal.
 
-Nora hörte einfach zu. Sie unterbrach nicht, stellte keine Fragen, die nicht gefragt werden mussten. Genau wie bei Lina, damals, in einer Wohnung voller Uhren. Genau wie Frau Silber es ihr beigebracht hatte, lange bevor Nora sie je selbst getroffen hatte.
+"Ich war am Fluss. Viel zu lange. Und Clara ist mich suchen gegangen, im Dunkeln, quer durch den Park." Ihre Finger schlossen sich fester um die Schleife. "Ich war zuerst zu Hause. Sie nicht. Sie ist nie mehr heimgekommen."
+
+Sie erzählte weiter, langsam, Wort für Wort. Vom Winter danach, als die Mutter die Stadt nicht mehr aushielt. Vom Wegziehen, weit weg, an einen Ort ohne Park. Und davon, dass sie nie zurückgefunden hatte, so sehr sie auch suchte. Bis es hier auf einmal hell geworden war.
+
+Nora hörte einfach zu. Sie unterbrach nicht, stellte keine Fragen, die nicht gefragt werden mussten. Genau wie bei Lina, damals, im kalten Zimmer. Genau wie Frau Silber es ihr beigebracht hatte, lange bevor Nora sie je selbst getroffen hatte.
 
 Damals war es ihr schwergefallen, einfach nur still zu sitzen und nichts zu tun außer zuzuhören. Inzwischen kannte sie das Gefühl gut: den Drang, etwas zu sagen, etwas zu lösen. Und die Erkenntnis, dass genau das manchmal das Falscheste war, was man tun konnte.
 
@@ -776,7 +766,7 @@ Etwas veränderte sich in Maries Haltung. Ihre Schultern sanken ein Stück, als 
 
 "Niemand hat mir je einfach so zugehört", sagte sie. "Nicht seit … ich weiß nicht mehr, seit wann."
 
-"Wir hören Ihnen zu", sagte Nora. "So lange Sie wollen."
+"Wir hören dir zu", sagte Nora. "So lange du willst."
 
 "Warum?" Marie sah sie an, fast misstrauisch. "Ihr kennt mich nicht mal."
 
@@ -792,7 +782,7 @@ Sie stand auf, ganz ohne Übergang. Ihr Blick wanderte wieder zwischen die Bäum
 
 Nora spürte, wie sich etwas in ihr zusammenzog.
 
-"Marie." Sie stand ebenfalls auf, folgte ihr ein paar Schritte. "Wir sind noch hier. Wir hören Ihnen zu."
+"Marie." Sie stand ebenfalls auf, folgte ihr ein paar Schritte. "Wir sind noch hier. Wir hören dir zu."
 
 "Clara ist irgendwo hier", sagte Marie, als hätte sie die letzten Minuten gar nicht wirklich gehört. "Sie ist hier. Sie muss hier sein."
 
@@ -804,13 +794,13 @@ Theo sah Nora an, die Augen groß. "Aber es hat doch geholfen. Ich hab's gesehen
 
 Schatten winselte und drückte sich fest an Maries Bein. Er presste seine ganze Wärme gegen sie, aber es änderte nichts. Marie drehte sich weiter, suchte weiter, rief weiter denselben Namen in dieselbe Dunkelheit.
 
-Nora blieb stehen und sah zu. Zum ersten Mal, seit sie diese Arbeit machten, hatte Zuhören etwas verändert und trotzdem nichts gelöst. Marie fühlte sich gehört. Das war echt gewesen, kein Trick, keine Einbildung. Aber gehört zu werden brachte ihr Clara nicht zurück.
+Nora blieb stehen und sah zu. Zuhören hatte etwas verändert und trotzdem nichts gelöst. Marie fühlte sich gehört. Das war echt gewesen, kein Trick, keine Einbildung. Aber gehört zu werden brachte ihr Clara nicht zurück.
 
-Es war ein Unterschied, den Nora bisher nicht gekannt hatte. Bisher hatte Zuhören immer irgendwohin geführt, zu einer Tür, zu einem Ende. Diesmal führte es nur zurück an denselben Anfang.
+Bei Herbert hatte Zuhören auch nicht gereicht. Aber da hatte am Ende etwas gewartet, das man finden konnte. Ein Schloss, einen Grund. Diesmal führte es nur zurück an denselben Anfang.
 
-"Warum hört sie nicht auf?", fragte Theo. "Bei Lina hat's gereicht. Bei allen anderen hat's gereicht."
+"Warum hört sie nicht auf?", fragte Theo. "Bei Lina hat's gereicht. Und bei Herbert war wenigstens ein Schloss dran."
 
-"Weil Lina jemanden brauchte, der ihr zuhört. Marie braucht ihre Schwester." Nora hörte selbst, wie hart sich das anfühlte, ausgesprochen zu werden. "Das ist ein Unterschied, den ich vorher nicht verstanden hab."
+"Lina brauchte jemanden, der ihr zuhört. Herbert brauchte jemanden, der ihn losmacht. Marie braucht ihre Schwester." Nora hörte selbst, wie hart sich das anfühlte, ausgesprochen zu werden. "Und die kann ihr keiner bringen."
 
 "Aber das ist nicht fair."
 
@@ -822,7 +812,7 @@ Marie rief weiter, unbeirrt, als hätte das Gespräch von eben gar nicht stattge
 
 "Was meinst du?"
 
-"Zuhören. Es reicht nicht." Sie sah zu, wie Marie immer wieder dieselbe Stelle abschritt, immer wieder denselben Namen rief. "Es hat noch nie nicht gereicht. Bei niemandem. Und jetzt reicht es nicht."
+"Zuhören. Es reicht nicht." Sie sah zu, wie Marie immer wieder dieselbe Stelle abschritt, immer wieder denselben Namen rief. "Und diesmal gibt es nichts, was wir dazutun können. Kein Schloss. Gar nichts."
 
 Schatten kam zu ihnen zurück, den Kopf gesenkt, und lehnte sich schwer gegen Noras Bein.
 
@@ -872,15 +862,15 @@ Und zu Hause ging Nora direkt in ihr Zimmer. Sie ließ sich aufs Bett fallen, da
 
 Theo setzte sich neben sie aufs Bett, ohne ein Wort. Schatten sprang hinterher und legte sich quer über ihre Füße, sein ganzes Gewicht wie ein Anker. Seine Ohren zuckten bei jedem Geräusch aus dem Flur. Aber er blieb liegen, als hätte er entschieden, dass sein Platz jetzt hier war.
 
-"Was, wenn das öfter passiert?", fragte Nora leise. "Was, wenn es Marie nicht die Einzige ist, die wir nicht retten können?"
+"Was, wenn das öfter passiert?", fragte Nora leise. "Was, wenn Marie nicht die Einzige ist, die wir nicht retten können?"
 
 "Das weißt du nicht." Theo klang, als wollte er selbst daran glauben. "Vielleicht ist das hier einfach die Ausnahme."
 
-"Und wenn nicht?"
+"Nein. Weiß ich nicht. Und wenn es keine ist?"
 
 Darauf hatte er keine Antwort. Er sah zu Schatten hinunter, stumm, fast erwartungsvoll. Schatten sah nur zurück, die Ohren leicht gesenkt, und sagte natürlich gar nichts.
 
-"Nein. Aber ich hab's auch vorher nicht gewusst. Bis heute dachte ich, es gibt für jeden einen Weg. Für jeden."
+"Bis heute dachte ich, es gibt für jeden einen Weg", sagte Nora. "Für jeden."
 
 Sie zog die Knie an die Brust und starrte auf die Wand. Zum ersten Mal, seit sie diese Arbeit machten, hatte sie wirklich Angst vor der nächsten Tür. Nicht vor dem, was dahinter wartete. Sondern davor, dass sie am Ende einfach nicht genug sein könnte.
 
@@ -890,7 +880,7 @@ Bisher war jede Angst, die sie gehabt hatte, eine Angst vor etwas gewesen. Vor e
 
 Vor einem Geist konnte man wegrennen, sich verstecken, notfalls kämpfen. Vor sich selbst gab es das alles nicht. Diese Erkenntnis fühlte sich schwerer an als jede Begegnung im Park. Schwerer als jedes Knurren, das Schatten je von sich gegeben hatte.
 
-"Ich hab noch was gehört", sagte Theo nach einer Weile, vorsichtig. Es klang, als teste er, ob das Thema überhaupt willkommen war. "Über den Fremden. Marvins Bruder hat mit jemandem geredet, der ihn gesehen hat."
+"Ich hab noch was gehört", sagte Theo nach einer Weile, vorsichtig. Es klang, als teste er, ob das Thema überhaupt willkommen war. "Über den Fremden. Über Halder, mein ich. Marvins Bruder hat mit jemandem geredet, der ihn gesehen hat."
 
 "Und?"
 
@@ -898,13 +888,13 @@ Vor einem Geist konnte man wegrennen, sich verstecken, notfalls kämpfen. Vor si
 
 Nora hörte kaum hin. Aber ein Teil von ihr registrierte es trotzdem. Sie legte es beiseite, für später, für wenn sie wieder klar denken konnte. Die Lagerhallen lagen weit weg von allem, was sie sonst kannten. Weit weg von Marie, von Clara, von der Karte in ihrer Schublade.
 
-"Vielleicht ist das gar nichts", sagte Theo. "Vielleicht ist er einfach nur ein komischer Typ, der gern in alten Gebäuden rumläuft."
+"Vielleicht ist das gar nichts", sagte Theo. "Vielleicht ist es gar nicht Halder. Nur ein komischer Typ, der gern in alten Gebäuden rumläuft."
 
 "Vielleicht."
 
 Keiner von beiden glaubte das wirklich, aber es half, es trotzdem auszusprechen. Manchmal war eine Vermutung leichter zu ertragen als die Stille, die entstand, wenn niemand etwas sagte.
 
-Nora dachte an die Lagerhallen am anderen Ende der Stadt. Ein Ort, an dem sie noch nie gewesen war. Sie hatte keine Ahnung, was der Fremde dort wollte. Im Moment fehlte ihr die Kraft, sich das auch nur vorzustellen.
+Nora dachte an die Lagerhallen am anderen Ende der Stadt. Ein Ort, an dem sie noch nie gewesen war. Was Halder dort wollte, konnte sie sich denken. Genau deshalb schob sie den Gedanken weg.
 
 Ein Teil von ihr wusste, dass sie sich damit irgendwann beschäftigen musste. Aber heute Abend reichte die Kraft nicht einmal für diesen einen Gedanken zu Ende.
 
@@ -960,15 +950,15 @@ Sie stand auf und zog sich im Dunkeln an, ohne das Licht anzuschalten. Eine alte
 
 Sie klopfte an Theos Zimmertür, noch bevor sie sich richtig angezogen hatte.
 
-"Ich hab's", sagte sie, kaum dass er die Tür öffnete.
+"Ich weiß jetzt, wie", sagte sie, kaum dass er die Tür öffnete.
 
-Theo blinzelte verschlafen. "Was hast du?"
+Theo blinzelte verschlafen. "Wie was?"
 
-"Wir können sie nicht mit Clara zusammenbringen. Das geht nicht. Das wird nie gehen."
+"Wie wir's ihr sagen. Wir können sie nicht mit Clara zusammenbringen. Das wird nie gehen."
 
 "Das wussten wir schon gestern." Theo gähnte und stützte sich am Türrahmen ab, noch nicht ganz wach.
 
-"Ja, aber ich hab die ganze Nacht überlegt, was das bedeutet." Nora trat einen Schritt in sein Zimmer. "Wir können ihr trotzdem etwas geben. Nicht Clara. Aber die Wahrheit."
+"Ja. Und gestern dachte ich, die Wahrheit ist das Schlimmste, was wir ihr bringen können." Nora trat einen Schritt in sein Zimmer. "Ich hab die ganze Nacht überlegt. Vielleicht ist sie das Einzige, was wir ihr geben können. Nicht Clara. Aber die Wahrheit über Clara."
 
 Theo rieb sich die Augen. "Die Wahrheit, dass ihre Schwester weg ist? Das klingt nicht gerade nach einem Geschenk."
 
@@ -988,7 +978,7 @@ Der Gedanke traf Nora härter, als sie erwartet hatte. "Das will ich nicht."
 
 Schatten war ihnen gefolgt und setzte sich jetzt zwischen sie, den Kopf hoch erhoben, die Ohren locker. Er wirkte ruhiger als am Abend zuvor, fast so, als hätte er selbst auf genau diesen Moment gewartet.
 
-"Wie sagen wir's ihr?", fragte Theo. Er setzte sich auf die Bettkante und zog sich langsam einen Socken an. Es half ihm offenbar beim Nachdenken. "Wir können nicht einfach reingehen und sagen: übrigens, Ihre Schwester ist tot. Und frei. Und Sie sehen sie nie wieder."
+"Wie sagen wir's ihr?", fragte Theo. Er setzte sich auf die Bettkante und zog sich langsam einen Socken an. Es half ihm offenbar beim Nachdenken. "Wir können nicht einfach reingehen und sagen: übrigens, deine Schwester ist tot. Und frei. Und du siehst sie nie wieder."
 
 "Natürlich nicht so."
 
@@ -1186,7 +1176,7 @@ Frieda stand immer noch auf demselben Fleck Kies, unbeweglich. Ein einziger Schr
 
 Ihre Jacke war an den Ärmeln noch feucht vom Gras, an dem sie unterwegs entlanggelaufen sein musste. Ein kleines Zeichen, wie hastig sie aufgebrochen war.
 
-"Ich hab von einem Fall gehört", sagte sie schließlich. "Einem, der nicht glatt gelaufen ist."
+"Ich hab gehört, dass im Park einer ruft", sagte sie schließlich. "Seit über einer Woche. Und dass ihr hier wart, vorgestern und gestern."
 
 Nora und Theo tauschten einen Blick. Keiner von beiden hatte eine gute Antwort darauf, warum Frieda ausgerechnet heute, ausgerechnet hier, aufgetaucht war.
 
@@ -1194,7 +1184,7 @@ Es war kein Zufall, so viel stand fest. Frieda tauchte nie zufällig irgendwo au
 
 "Woher weißt du das?", fragte Nora.
 
-"Man hört Dinge. In dieser Stadt hört man immer irgendwas." Frieda zuckte mit den Schultern. Ihre Stimme klang angespannter, als die Geste vermuten ließ. "Ich wollte selbst sehen, bevor ich's glaube."
+"Man hört Dinge. In dieser Stadt hört man immer irgendwas." Frieda zuckte mit den Schultern. Ihre Stimme klang angespannter, als die Geste vermuten ließ. "Bei euch dauert so was sonst keine zwei Abende. Ich wollte selbst sehen, was los ist."
 
 Hinter ihnen rief Marie wieder, leise, unbeirrt, immer denselben Namen in dieselbe Richtung. Der Klang trug über die ganze Wiese. Ein trauriges, sich wiederholendes Echo, das keiner der drei einfach überhören konnte.
 
@@ -1202,7 +1192,7 @@ Nora hatte sich schon fast daran gewöhnt, aber für Frieda war es offensichtlic
 
 Frieda warf einen kurzen Blick zu ihr hinüber, aber sie fragte nicht, wer das war. Vielleicht wusste sie es schon. Vielleicht wollte sie es einfach nicht laut aussprechen. Ihre Finger verschränkten sich ineinander, lösten sich wieder. Ein kleines, ruheloses Auf und Ab.
 
-"Es stimmt", sagte Nora schließlich. "Es ist nicht glattgelaufen."
+"Du hast recht", sagte Nora schließlich. "Es läuft nicht glatt."
 
 "Was ist passiert?"
 
@@ -1212,7 +1202,7 @@ Bis jetzt war das alles nur zwischen ihr und Theo gewesen, eingeschlossen im eig
 
 Aber Frieda hatte gefragt, und irgendetwas an ihrer Art zu fragen ließ keinen Raum für Ausweichen.
 
-"Sie sucht ihre Schwester", sagte sie. "Aber ihre Schwester ist schon frei. Seit Monaten. Wir haben sie selbst befreit, ohne es zu merken, in derselben Nacht wie sieben andere."
+"Sie sucht ihre Schwester", sagte sie. "Aber ihre Schwester ist schon frei. Seit Monaten. Wir haben sie selbst gehen sehen, zusammen mit sieben anderen. Wir wussten nur nicht, dass jemand nach ihr sucht."
 
 Frieda runzelte die Stirn. Sie wog die Worte ab, gründlich, auf der Suche nach einem Ausweg, den es vielleicht doch noch gab. "Und jetzt?"
 
@@ -1308,7 +1298,7 @@ Sein Fell war warm unter ihren Fingern, vertraut, echt. Es war das Einzige gerad
 
 "Das ist doch nicht deine Schuld", sagte Theo.
 
-"Ist es nicht?" Sie sah zu ihm auf. "Ich hab die Karte durchgestrichen, Theo. Meine eigene Handschrift. Ich hab nicht mal nachgeschaut, wer da drunter steht. Ich hab einfach ein Kreuz gemacht und bin weitergegangen."
+"Ist es nicht?" Sie sah zu ihm auf. "Ich hab sie gesehen, Theo. Zweimal. Und am nächsten Morgen hab ich ein Kreuz gemacht und bin weitergegangen. Ich hab nie gefragt, wer sie war. Oder ob jemand nach ihr sucht."
 
 "Du warst zwölf. Es war die schlimmste Nacht deines Lebens."
 
@@ -1316,7 +1306,7 @@ Sein Fell war warm unter ihren Fingern, vertraut, echt. Es war das Einzige gerad
 
 Frieda sah zu Boden, ihre Finger wieder ineinander verschränkt. "Bei mir ist es genauso. Ich war klein, als er mir das zum ersten Mal erzählt hat. Ich konnte gar nicht anders, als es zu glauben."
 
-"Und trotzdem", sagte Nora, "hättest du irgendwann fragen können. So wie ich hätte nachschauen können, wer auf der Karte steht."
+"Und trotzdem", sagte Nora, "hättest du irgendwann fragen können. So wie ich hätte fragen können, wer sie war."
 
 "Ja. Hätte ich."
 
@@ -1416,7 +1406,7 @@ Es war nur ein kurzer Moment. Aber Nora sah ihn deutlich: ein Zögern, das es vo
 
 Marie sah ihn an, zum ersten Mal wirklich, als hätte sie ihn bis jetzt kaum wahrgenommen.
 
-"Vielleicht warst du zu weit weg", sagte Nora sanft. "Vielleicht ist es einfach passiert, während du unterwegs warst."
+"Du warst zu weit weg", sagte Nora sanft. "Es ist passiert, während du noch unterwegs warst."
 
 Sie zeigte auf die Karte, auf die durchgestrichene Markierung, auf das Wort daneben.
 
@@ -1426,7 +1416,7 @@ Marie beugte sich vor, so weit es ging, ohne die Karte tatsächlich zu berühren
 
 "Woher wisst ihr, dass das echt ist?", fragte sie schließlich. "Woher wisst ihr, dass das nicht nur … Trost ist?"
 
-"Es ist meine eigene Handschrift", sagte Nora. "Ich hab es selbst geschrieben, in der Nacht, in der es passiert ist. Ich hätte es mir nicht ausgedacht."
+"Weil ich dabei war", sagte Nora. "Ich hab sie gesehen, im November. Sie kam aus dem Park, als Licht. Ganz ruhig, ohne Eile. Am nächsten Morgen hab ich das hier geschrieben."
 
 Maries Blick fiel auf das Papier. Ihre durchscheinenden Finger näherten sich vorsichtig, berührten es fast. Fassen konnte sie es sowieso nicht, das wusste sie.
 
@@ -1448,7 +1438,7 @@ Theo lächelte nicht, aber etwas in seinem Gesicht wurde weicher. "Klingt, als h
 
 "Woher weißt du das?"
 
-"Wissen wir nicht genau", gab Nora zu. "Aber wir wissen, dass die anderen sie aufgenommen haben. Ganz selbstverständlich, so, als hätten sie nur auf sie gewartet."
+"Weil auf der anderen Seite jemand gewartet hat", sagte Nora. "Ein Mädchen mit einem Zopf. Ein alter Mann. Noch zwei andere. Wir kennen sie alle." Sie schluckte. "Sie haben Clara abgeholt. Ganz selbstverständlich, so, als hätten sie nur auf sie gewartet."
 
 Marie schluckte schwer, ein Laut, der fast wie ein Schluchzen klang. Kaum etwas an ihr war noch fest genug, um wirklich zu weinen.
 
@@ -1470,7 +1460,7 @@ Marie sah zwischen der Karte, Nora und Schatten hin und her. So viel auf einmal,
 
 "Nein", sagte Nora. "Ist es nicht."
 
-Sie sagte es, ohne zu zögern, ohne den Satz weicher zu machen, als er war. Manchmal, das hatte sie in dieser Nacht gelernt, half es niemandem, etwas schönzureden.
+Sie sagte es, ohne zu zögern, ohne den Satz weicher zu machen, als er war. Manchmal, das hatte sie in diesen Tagen gelernt, half es niemandem, etwas schönzureden.
 
 Marie sah sie lange an. Sie drehte und wendete den einen Satz, bis er sich irgendwie in ihr festsetzte.
 
@@ -1514,7 +1504,19 @@ Marie blieb, wo sie war. Ihre Gestalt flackerte nicht mehr wild, sondern ruhig, 
 
 Marie hob langsam den Kopf. Ihre Augen waren noch müde, aber der rastlose Zug darin war verschwunden.
 
-"Ich kann nirgendwohin", sagte sie. Ihre Stimme klang anders als beim Rufen, leiser, fester. "Das spür ich jetzt. Es gibt keinen Weg mehr zu ihr."
+"Ich kann nicht gehen", sagte sie. Ihre Stimme klang anders als beim Rufen, leiser, fester. "Das spür ich jetzt. Da ist noch was, das mich festhält."
+
+"Was denn?", fragte Nora.
+
+Marie sah auf die Schleife in ihren Fingern. "Sie ist wegen mir rausgegangen. In die Dunkelheit. Und ich hab ihr nie gesagt, dass es mir leid tut."
+
+"Sie war dir nicht böse", sagte Theo schnell. "Ganz bestimmt nicht."
+
+"Das kannst du nicht wissen." Es klang nicht hart. Nur müde. "Das kann nur sie sagen."
+
+Nora dachte an eine Tunnelwand unter der Stadt. An Buchstaben, die ein Junge vor über fünfzig Jahren in den Stein geritzt hatte. *FÜR MAMA. ICH BIN NICHT BÖSE.* Marlene hatte genau diesen einen Satz gebraucht. Nicht von Nora. Von Jonas.
+
+Clara hatte keinen Satz hinterlassen. Keine Wand, keinen Brief, nichts. Sie war losgegangen, um ihre Schwester zu suchen, und nie zurückgekommen. Und wer gegangen war, kam nicht wieder.
 
 "Es tut mir leid", sagte Nora. Mehr fiel ihr nicht ein.
 
@@ -1522,7 +1524,7 @@ Marie hob langsam den Kopf. Ihre Augen waren noch müde, aber der rastlose Zug d
 
 "Clara hätte das verstanden", sagte sie nach einer Weile. "Sie hat immer gewusst, wann man aufhören muss zu kämpfen. Ich war die, die nie loslassen konnte."
 
-"Vielleicht ist Loslassen auch kein Weggehen", sagte Nora vorsichtig. "Vielleicht ist es nur, aufzuhören, sich dagegenzustemmen."
+"Vielleicht musst du nicht mehr suchen", sagte Nora vorsichtig. "Auch wenn du nicht gehen kannst."
 
 Marie sagte darauf nichts mehr. Aber ihr Blick wurde für einen Moment klarer, wacher. Irgendwo in ihr hatte der Satz angeklopft.
 
@@ -1712,13 +1714,13 @@ Mama stand in der Küche, eine Scheibe in der Hand, die sie gerade aus dem Toast
 
 "Wir waren nur spazieren", sagte Theo. Diesmal klang es noch weniger überzeugend als sonst.
 
-"Die halbe Nacht?"
+"Vor dem Frühstück? Ohne Zettel?"
 
 "Wir haben die Zeit vergessen."
 
 Mama sah die beiden einen Moment lang an, mit dem Blick, den sie immer hatte, wenn sie genau wusste, dass sie nicht die ganze Geschichte bekam, aber auch keine Lust hatte, sie einzufordern.
 
-"Ihr seht aus, als hättet ihr die Nacht im Garten verbracht", sagte sie und musterte Noras verschmutzte Hose.
+"Ihr seht aus, als hättet ihr im nassen Gras gefrühstückt", sagte sie und musterte Noras verschmutzte Hose.
 
 "So ungefähr", murmelte Theo.
 
@@ -1784,7 +1786,7 @@ Theo lehnte sich zurück, die Arme vor der Brust verschränkt. "Ich meine, ehrli
 
 Nora starrte auf ihr Frühstück, ohne es wirklich zu sehen. Das angebrannte Brot lag noch halb auf ihrem Teller, kalt geworden, während sie geredet hatten. Ein kalter Gedanke setzte sich langsam in ihr fest, klarer mit jeder Sekunde. Wie ein Fleck, der sich in Stoff hineinfrisst, egal wie sehr man dagegen rubbelt.
 
-"Er sucht schon wieder jemanden", sagte sie leise. "Einen neuen. Während wir die ganze Nacht mit Marie beschäftigt waren."
+"Er ist schon wieder unterwegs", sagte sie leise. "Für einen neuen. Während wir die ganze Zeit mit Marie beschäftigt waren."
 
 "Woher weißt du das so sicher?"
 
@@ -1794,9 +1796,9 @@ Theo sagte darauf nichts. Er sah nur zu Schatten hinunter. Der Hund saß jetzt v
 
 Draußen fuhr ein Auto vorbei, langsam, ohne Eile. Ohne die geringste Ahnung von dem, was sich gerade am Küchentisch zusammenbraute. Nora hätte sich gewünscht, diese Unbekümmertheit für einen Moment zu teilen. Stattdessen saß ihr der Gedanke wie ein Stein im Magen.
 
-Nora dachte an die Karte in ihrer Schublade. An zwölf Markierungen, von denen jede einzelne irgendwann so angefangen hatte. Mit jemandem, der zu spät kam. Und jemandem, der ihn schon vorher gefunden hatte.
+Nora dachte an die Karte in ihrer Schublade. An einen Namen, den sie abgehakt hatte, ohne zu fragen, wer nach ihm suchte. Und an Theo, der ihr zweimal von einem Fremden erzählt hatte. Zweimal hatte sie es weggeschoben, auf später.
 
-"Er hat schon wieder einen gefunden", sagte sie. "Und wir haben nicht mal gemerkt, dass er da war."
+"Er sucht schon wieder einen", sagte sie. "Und wir haben es gewusst. Und nicht hingesehen."
 
 ---
 

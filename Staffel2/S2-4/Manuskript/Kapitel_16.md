@@ -10,13 +10,13 @@ Mama stand in der Küche, eine Scheibe in der Hand, die sie gerade aus dem Toast
 
 "Wir waren nur spazieren", sagte Theo. Diesmal klang es noch weniger überzeugend als sonst.
 
-"Die halbe Nacht?"
+"Vor dem Frühstück? Ohne Zettel?"
 
 "Wir haben die Zeit vergessen."
 
 Mama sah die beiden einen Moment lang an, mit dem Blick, den sie immer hatte, wenn sie genau wusste, dass sie nicht die ganze Geschichte bekam, aber auch keine Lust hatte, sie einzufordern.
 
-"Ihr seht aus, als hättet ihr die Nacht im Garten verbracht", sagte sie und musterte Noras verschmutzte Hose.
+"Ihr seht aus, als hättet ihr im nassen Gras gefrühstückt", sagte sie und musterte Noras verschmutzte Hose.
 
 "So ungefähr", murmelte Theo.
 
@@ -82,7 +82,7 @@ Theo lehnte sich zurück, die Arme vor der Brust verschränkt. "Ich meine, ehrli
 
 Nora starrte auf ihr Frühstück, ohne es wirklich zu sehen. Das angebrannte Brot lag noch halb auf ihrem Teller, kalt geworden, während sie geredet hatten. Ein kalter Gedanke setzte sich langsam in ihr fest, klarer mit jeder Sekunde. Wie ein Fleck, der sich in Stoff hineinfrisst, egal wie sehr man dagegen rubbelt.
 
-"Er sucht schon wieder jemanden", sagte sie leise. "Einen neuen. Während wir die ganze Nacht mit Marie beschäftigt waren."
+"Er ist schon wieder unterwegs", sagte sie leise. "Für einen neuen. Während wir die ganze Zeit mit Marie beschäftigt waren."
 
 "Woher weißt du das so sicher?"
 
@@ -92,6 +92,6 @@ Theo sagte darauf nichts. Er sah nur zu Schatten hinunter. Der Hund saß jetzt v
 
 Draußen fuhr ein Auto vorbei, langsam, ohne Eile. Ohne die geringste Ahnung von dem, was sich gerade am Küchentisch zusammenbraute. Nora hätte sich gewünscht, diese Unbekümmertheit für einen Moment zu teilen. Stattdessen saß ihr der Gedanke wie ein Stein im Magen.
 
-Nora dachte an die Karte in ihrer Schublade. An zwölf Markierungen, von denen jede einzelne irgendwann so angefangen hatte. Mit jemandem, der zu spät kam. Und jemandem, der ihn schon vorher gefunden hatte.
+Nora dachte an die Karte in ihrer Schublade. An einen Namen, den sie abgehakt hatte, ohne zu fragen, wer nach ihm suchte. Und an Theo, der ihr zweimal von einem Fremden erzählt hatte. Zweimal hatte sie es weggeschoben, auf später.
 
-"Er hat schon wieder einen gefunden", sagte sie. "Und wir haben nicht mal gemerkt, dass er da war."
+"Er sucht schon wieder einen", sagte sie. "Und wir haben es gewusst. Und nicht hingesehen."

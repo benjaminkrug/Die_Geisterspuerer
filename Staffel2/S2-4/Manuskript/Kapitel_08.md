@@ -54,7 +54,7 @@ Bisher war jede Angst, die sie gehabt hatte, eine Angst vor etwas gewesen. Vor e
 
 Vor einem Geist konnte man wegrennen, sich verstecken, notfalls kämpfen. Vor sich selbst gab es das alles nicht. Diese Erkenntnis fühlte sich schwerer an als jede Begegnung im Park. Schwerer als jedes Knurren, das Schatten je von sich gegeben hatte.
 
-"Ich hab noch was gehört", sagte Theo nach einer Weile, vorsichtig. Es klang, als teste er, ob das Thema überhaupt willkommen war. "Über den Fremden. Marvins Bruder hat mit jemandem geredet, der ihn gesehen hat."
+"Ich hab noch was gehört", sagte Theo nach einer Weile, vorsichtig. Es klang, als teste er, ob das Thema überhaupt willkommen war. "Über den Fremden. Über Halder, mein ich. Marvins Bruder hat mit jemandem geredet, der ihn gesehen hat."
 
 "Und?"
 
@@ -62,13 +62,13 @@ Vor einem Geist konnte man wegrennen, sich verstecken, notfalls kämpfen. Vor si
 
 Nora hörte kaum hin. Aber ein Teil von ihr registrierte es trotzdem. Sie legte es beiseite, für später, für wenn sie wieder klar denken konnte. Die Lagerhallen lagen weit weg von allem, was sie sonst kannten. Weit weg von Marie, von Clara, von der Karte in ihrer Schublade.
 
-"Vielleicht ist das gar nichts", sagte Theo. "Vielleicht ist er einfach nur ein komischer Typ, der gern in alten Gebäuden rumläuft."
+"Vielleicht ist das gar nichts", sagte Theo. "Vielleicht ist es gar nicht Halder. Nur ein komischer Typ, der gern in alten Gebäuden rumläuft."
 
 "Vielleicht."
 
 Keiner von beiden glaubte das wirklich, aber es half, es trotzdem auszusprechen. Manchmal war eine Vermutung leichter zu ertragen als die Stille, die entstand, wenn niemand etwas sagte.
 
-Nora dachte an die Lagerhallen am anderen Ende der Stadt. Ein Ort, an dem sie noch nie gewesen war. Sie hatte keine Ahnung, was der Fremde dort wollte. Im Moment fehlte ihr die Kraft, sich das auch nur vorzustellen.
+Nora dachte an die Lagerhallen am anderen Ende der Stadt. Ein Ort, an dem sie noch nie gewesen war. Was Halder dort wollte, konnte sie sich denken. Genau deshalb schob sie den Gedanken weg.
 
 Ein Teil von ihr wusste, dass sie sich damit irgendwann beschäftigen musste. Aber heute Abend reichte die Kraft nicht einmal für diesen einen Gedanken zu Ende.
 

@@ -14,7 +14,7 @@ Ihre eigene Stimme klang fremd in der Stille des Zimmers. Theo saß immer noch n
 
 Nora sah ihn an. Theo wich ihrem Blick nicht aus, aber sie sah, dass er selbst nicht daran glaubte.
 
-"Sie hat dreißig Jahre gebraucht, um für ihre Schwester nicht mehr auf sie zu warten", sagte Nora leise. "So lange, bis Clara selbst befreit wurde. Glaubst du wirklich, sie hört einfach auf, wenn wir nichts sagen?"
+"Sie sucht seit über hundert Jahren nach ihr", sagte Nora leise. "Glaubst du wirklich, sie hört einfach auf, wenn wir nichts sagen?"
 
 Theo schwieg. Er zupfte an einem losen Faden am Saum seines Pullovers, immer wieder, ohne es zu merken. Es war eine Angewohnheit, die er sich nie abgewöhnt hatte, seit er klein war. Nora wusste inzwischen genau, was sie bedeutete. Er dachte nach, und es gefiel ihm nicht, was ihm dabei einfiel.
 
@@ -80,7 +80,7 @@ Nora drückte kurz seine Schulter. Es war kein besonders guter Witz gewesen, abe
 
 Draußen war es jetzt vollständig dunkel. Durch die Vorhänge fiel nur das gelbe Licht der Straßenlaterne vor ihrem Fenster. Dasselbe Licht, das jeden Abend dort brannte, ganz egal, was in ihrem Zimmer gerade geschah.
 
-"Morgen", sagte Nora. "Wir gehen morgen zu ihr zurück. Und wir hören ihr zu. Richtig zu, so wie bei den anderen. Vielleicht reicht es ja doch."
+"Morgen", sagte Nora. "Wir gehen morgen zu ihr zurück. Und zuerst hören wir ihr zu. Richtig zu, so wie bei den anderen. Wir müssen wissen, wer Clara war, bevor wir ihr sagen, dass sie weg ist. Und vielleicht reicht Zuhören ja doch."
 
 Sie sagte es fester, als sie sich fühlte. Es half trotzdem, es laut auszusprechen. Laute Worte fühlten sich fester an als bloße Gedanken, auch wenn sich am Plan selbst nichts änderte.
 

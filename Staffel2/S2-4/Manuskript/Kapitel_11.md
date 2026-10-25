@@ -4,7 +4,7 @@ Frieda stand immer noch auf demselben Fleck Kies, unbeweglich. Ein einziger Schr
 
 Ihre Jacke war an den Ärmeln noch feucht vom Gras, an dem sie unterwegs entlanggelaufen sein musste. Ein kleines Zeichen, wie hastig sie aufgebrochen war.
 
-"Ich hab von einem Fall gehört", sagte sie schließlich. "Einem, der nicht glatt gelaufen ist."
+"Ich hab gehört, dass im Park einer ruft", sagte sie schließlich. "Seit über einer Woche. Und dass ihr hier wart, vorgestern und gestern."
 
 Nora und Theo tauschten einen Blick. Keiner von beiden hatte eine gute Antwort darauf, warum Frieda ausgerechnet heute, ausgerechnet hier, aufgetaucht war.
 
@@ -12,7 +12,7 @@ Es war kein Zufall, so viel stand fest. Frieda tauchte nie zufällig irgendwo au
 
 "Woher weißt du das?", fragte Nora.
 
-"Man hört Dinge. In dieser Stadt hört man immer irgendwas." Frieda zuckte mit den Schultern. Ihre Stimme klang angespannter, als die Geste vermuten ließ. "Ich wollte selbst sehen, bevor ich's glaube."
+"Man hört Dinge. In dieser Stadt hört man immer irgendwas." Frieda zuckte mit den Schultern. Ihre Stimme klang angespannter, als die Geste vermuten ließ. "Bei euch dauert so was sonst keine zwei Abende. Ich wollte selbst sehen, was los ist."
 
 Hinter ihnen rief Marie wieder, leise, unbeirrt, immer denselben Namen in dieselbe Richtung. Der Klang trug über die ganze Wiese. Ein trauriges, sich wiederholendes Echo, das keiner der drei einfach überhören konnte.
 
@@ -20,7 +20,7 @@ Nora hatte sich schon fast daran gewöhnt, aber für Frieda war es offensichtlic
 
 Frieda warf einen kurzen Blick zu ihr hinüber, aber sie fragte nicht, wer das war. Vielleicht wusste sie es schon. Vielleicht wollte sie es einfach nicht laut aussprechen. Ihre Finger verschränkten sich ineinander, lösten sich wieder. Ein kleines, ruheloses Auf und Ab.
 
-"Es stimmt", sagte Nora schließlich. "Es ist nicht glattgelaufen."
+"Du hast recht", sagte Nora schließlich. "Es läuft nicht glatt."
 
 "Was ist passiert?"
 

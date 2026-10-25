@@ -93,9 +93,9 @@ Anlauf mit noch mehr Text) — genau die Lehre aus S2-3 Iteration 5.
 | | Wert |
 |---|---|
 | Format | **6 × 9 Zoll**, weißes Papier (Staffel-2-Standard) |
-| Seitenzahl | **96** — real gemessen am gebauten `Output/S2-4/KDP_S2-4_Manuskript.pdf` (zwei unabhängige Zählmethoden, beide 96; Stand 2026-09-27, **ohne** Widmung/Epigraph) |
-| Buchrücken bei 96 S. | 96 × 0,002252 Zoll = 0,2162 Zoll = **5,49 mm** |
-| Vollcover bei 96 S. | ≈ 12,466 × 9,250 Zoll ≈ **3740 × 2775 px** @ 300 dpi |
+| Seitenzahl | **97** — real gemessen am gebauten `Output/S2-4/KDP_S2-4_Manuskript.pdf` (zwei Zählmethoden, beide 97; Stand **2026-10-25** nach der Logik-Überarbeitung, `Fundliste_S2-4_Logik.md`; vorher 96, Stand 2026-09-27; **ohne** Widmung/Epigraph) |
+| Buchrücken bei 97 S. | 97 × 0,002252 Zoll = 0,2184 Zoll = **5,55 mm** (65 px, wie zuvor) |
+| Vollcover bei 97 S. | 12,468 × 9,250 Zoll = **3741 × 2775 px** @ 300 dpi — neu gebaut 2026-10-25 (`build_cover_s2_4.py --seiten 97 --final`), Selbstprüfung ok, Kontrollbild angesehen |
 | Vorderseite allein | mindestens **1838 × 2775 px** |
 
 > ⚠️ **Dieselbe Warnung wie bei S2-2/S2-3:** Ändert sich die Seitenzahl (Widmung/Epigraph-

@@ -30,7 +30,8 @@ from PIL import Image
 import build_cover as bc  # geprueftes Basisskript, Funktionen wiederverwendet (wrappt stdout selbst)
 
 TITEL = "Der Park, der nicht vergisst"
-GEMESSENE_SEITEN = 96  # aus Output/S2-4/KDP_S2-4_Manuskript.pdf, OHNE Widmung/Epigraph
+GEMESSENE_SEITEN = 97  # aus Output/S2-4/KDP_S2-4_Manuskript.pdf, OHNE Widmung/Epigraph
+                       # (2026-10-25: 96 -> 97 nach der Logik-Ueberarbeitung, Fundliste F1-F21)
 COVER_DIR = os.path.join(_ROOT, "Staffel2", "S2-4", "Cover")
 
 

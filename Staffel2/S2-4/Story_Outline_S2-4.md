@@ -137,6 +137,10 @@ Sache, die scheitern kann.
    wie Punkt 1: Die Stadt redet, auch über einen Fall, der (zum ersten Mal) nicht glatt
    gelöst wurde. Frieda kommt **aus eigenem Antrieb**, heimlich, ohne ihren Vater
    einzuweihen — konsistent mit ihrer bereits in S2-2/S2-3 gezeigten Eigenständigkeit.
+   ⚠️ **Korrigiert 2026-10-25 (Fundliste F7):** Vom *Scheitern* konnte niemand reden — nur
+   Nora und Theo waren in K7 dabei (K11:29 sagt es selbst). Frieda hört nur, was andere
+   sehen konnten: dass im Park einer ruft und die Kinder zwei Abende dort waren. „Bei euch
+   dauert so was sonst keine zwei Abende" — Schluss, kein Wissen.
 
 8. **Schattens neue Reaktionsnuance auf Marie:** Kein Knurren, keine Warnung — er
    winselt, weicht nicht von ihrer Seite, wirkt aber selbst hilflos (Kontinuität, Figuren).
@@ -175,6 +179,10 @@ Sache, die scheitern kann.
 ---
 
 # Eskalations-Marker (vorläufig)
+
+> ⚠️ **Überholt durch den Kapitelplan (Fundliste F21, 2026-10-25):** Die Karte liefert die
+> Antwort in K4 (Akt 1, nicht Akt 2); Zuhören scheitert in K7 (Akt 2, nicht Akt 3), Frieda
+> ist dabei nicht Zeugin (sie kommt erst in K10). Verbindlich ist der Kapitelplan unten.
 
 - **Akt 1:** Ein neuer Ruf, wie immer — aber die erste Begegnung mit Marie fühlt sich
   anders an: keine Bedrohung, nur reine, ungefilterte Verzweiflung. *Angst: kein Gegner,
@@ -345,8 +353,13 @@ Frieda Zeitfenster für die Schublade. Zuhause, Verarbeitung. Ein letztes Gerüc
 sie: Der Fremde ist zuletzt am anderen Stadtende gesehen worden, weiterhin auf der Suche —
 sein neuer Fall ist noch **nicht** abgeschlossen. **Schatten:** wachsam, spürt die Unruhe der
 Kinder. **Humor:** ein leiser, müder Theo-Kommentar, der die Season-Spannung nicht auflöst.
-**Cliffhanger [ERKENNTNIS, Season-Hook]:** Nora: „Er hat schon wieder einen gefunden. Und
-wir haben nicht mal gemerkt, dass er da war." **ENDE S2-4.**
+**Cliffhanger [ERKENNTNIS, Season-Hook]:** ~~Nora: „Er hat schon wieder einen gefunden. Und
+wir haben nicht mal gemerkt, dass er da war."~~ ⚠️ **Korrigiert 2026-10-25 (Fundliste F8/F9):**
+Der alte Satz widersprach der Warnung direkt darüber („nicht abgeschlossen") und K4/K8 (Theo
+hatte zweimal berichtet). **Jetzt:** Theo erkennt schon in K4 „Klingt nach Halder", Nora
+schiebt es bewusst weg („Nicht jetzt. Erst Marie."); K16: „Er sucht schon wieder einen. Und
+wir haben es gewusst. Und nicht hingesehen." — spiegelt Noras Band-Thema (nicht
+nachgefragt). **ENDE S2-4.**
 
 ---
 

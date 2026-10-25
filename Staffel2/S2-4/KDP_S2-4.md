@@ -21,7 +21,7 @@
 | **Serientitel** | Die Geisterspürer – Die Gebundenen |
 | **Serienband** | 4 |
 | **Preis** | Taschenbuch 12,99 € · eBook 4,99 € |
-| **Umfang** | 96 Seiten · 16 Kapitel · **ca. 18.460 Wörter** |
+| **Umfang** | 97 Seiten · 16 Kapitel · **ca. 18.540 Wörter** *(neu gemessen 2026-10-25 nach der Logik-Überarbeitung; vorher 96 S. / 18.462 W.)* |
 | **Format** | 6 × 9 Zoll, weißes Papier |
 
 Preis unverändert vom Staffel-2-Standard übernommen (`S2-3/KDP_S2-3.md` Abschnitt 1) — 12,99 €/
