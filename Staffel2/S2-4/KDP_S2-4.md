@@ -89,14 +89,14 @@ Die Antwort finden Nora und Theo nicht im Park, sondern in ihrer eigenen Schubla
 
 <b>★ Für mutige Leser ab 12 Jahren</b><br>
 <b>★ Kribbeln ja, Albträume nein</b> – Gänsehaut mit Sicherheitsnetz<br>
-<b>★ Der dunkelste Fall der Reihe</b> – zum ersten Mal reicht Zuhören allein nicht aus<br>
+<b>★ Der dunkelste Fall der Reihe</b> – diesmal gibt es kein Schloss, das man finden könnte<br>
 <b>★ 16 Kapitel mit Cliffhangern</b> – unmöglich, nur eins zu lesen<br>
 <b>★ Gruselig UND lustig</b> – Theo verteilt Codenamen, sobald ein Fall anfängt<br>
 <b>★ Schatten reagiert wie nie zuvor</b> – nicht mit Knurren, nicht mit Ruhe, sondern mit etwas ganz Neuem<br><br>
 
 <i>„Geister-Kundendienst. Wir sollten uns Namensschilder machen: Nora und Theo – wir hören zu, wenn sonst keiner hinhört. Und du kriegst ein eigenes Schild, Schatten – riecht, was ihr nicht seht." – Theo, 11 Jahre, selbsternannter Marketing-Chef eines Zwei-Personen-Geheimdienstes</i><br><br>
 
-<b>Für sich lesbar</b> – wer neu einsteigt, bekommt alles Wichtige erklärt. Wer die ersten drei Bände kennt, trifft Nora und Theo an einem Punkt, an dem ihre bisherige Methode zum ersten Mal nicht funktioniert.<br><br>
+<b>Für sich lesbar</b> – wer neu einsteigt, bekommt alles Wichtige erklärt. Wer die ersten drei Bände kennt, trifft Nora und Theo an einem Punkt, an dem es zum ersten Mal nichts mehr zu finden gibt.<br><br>
 
 <b>Perfekt für Fans von Cornelia Funkes Gespensterjäger, Gänsehaut und Lockwood &amp; Co.</b>
 ```
@@ -105,6 +105,13 @@ Die Antwort finden Nora und Theo nicht im Park, sondern in ihrer eigenen Schubla
 Eskalation). S2-4 dreht die Schraube anders: Es gibt hier gar keinen Gegner. Der Hook baut
 deshalb nicht auf Angst vor einer Person auf, sondern auf der wachsenden Erkenntnis, dass das
 bisherige Werkzeug der Kinder – Zuhören, Erinnern, Vergeben – zum ersten Mal ins Leere läuft.
+⚠️ **Korrigiert 2026-10-25 (`Fundliste_S2-4_Logik.md` F2):** „zum ersten Mal reicht Zuhören
+nicht" war falsch — S2-1 (Herbert, K7 „Was Zuhören nicht lösen kann") und Band 4 (Faber).
+Der wahre Unterschied: Bisher gab es immer etwas zu finden (Schloss, Botschaft), diesmal
+nicht. Bullet „Der dunkelste Fall" und Absatz „Für sich lesbar" entsprechend umformuliert.
+**Falls die Beschreibung schon live ist: dort ebenfalls ersetzen.** Der Rückseitentext
+(Abschnitt 6, „Zum ersten Mal müssen Nora und Theo einen Weg finden, ohne dass es am Ende eine
+Lösung gibt") ist **wahr** und bleibt — kein Cover-Neubau nötig.
 Das Nora-Zitat „Sie ist frei. Sie ist gegangen. Vor Monaten." sitzt bewusst an der Stelle, an
 der ein normaler Fall seine Lösung anbieten würde – hier ist es der Moment, an dem klar wird,
 dass es keine gibt. Der zweite Bold-Satz „Nora hat noch nie an sich selbst gezweifelt. Bis

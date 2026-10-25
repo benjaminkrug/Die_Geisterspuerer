@@ -36,15 +36,15 @@ Und zu Hause ging Nora direkt in ihr Zimmer. Sie ließ sich aufs Bett fallen, da
 
 Theo setzte sich neben sie aufs Bett, ohne ein Wort. Schatten sprang hinterher und legte sich quer über ihre Füße, sein ganzes Gewicht wie ein Anker. Seine Ohren zuckten bei jedem Geräusch aus dem Flur. Aber er blieb liegen, als hätte er entschieden, dass sein Platz jetzt hier war.
 
-"Was, wenn das öfter passiert?", fragte Nora leise. "Was, wenn es Marie nicht die Einzige ist, die wir nicht retten können?"
+"Was, wenn das öfter passiert?", fragte Nora leise. "Was, wenn Marie nicht die Einzige ist, die wir nicht retten können?"
 
 "Das weißt du nicht." Theo klang, als wollte er selbst daran glauben. "Vielleicht ist das hier einfach die Ausnahme."
 
-"Und wenn nicht?"
+"Nein. Weiß ich nicht. Und wenn es keine ist?"
 
 Darauf hatte er keine Antwort. Er sah zu Schatten hinunter, stumm, fast erwartungsvoll. Schatten sah nur zurück, die Ohren leicht gesenkt, und sagte natürlich gar nichts.
 
-"Nein. Aber ich hab's auch vorher nicht gewusst. Bis heute dachte ich, es gibt für jeden einen Weg. Für jeden."
+"Bis heute dachte ich, es gibt für jeden einen Weg", sagte Nora. "Für jeden."
 
 Sie zog die Knie an die Brust und starrte auf die Wand. Zum ersten Mal, seit sie diese Arbeit machten, hatte sie wirklich Angst vor der nächsten Tür. Nicht vor dem, was dahinter wartete. Sondern davor, dass sie am Ende einfach nicht genug sein könnte.
 
