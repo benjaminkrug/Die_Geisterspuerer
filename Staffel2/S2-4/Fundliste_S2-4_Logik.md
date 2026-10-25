@@ -537,6 +537,42 @@ oder umformulieren.**
 
 ---
 
+## Umsetzungsstand
+
+**Schritt 1 — Kernfaden (2026-10-25), Autorentscheidung F1 = „Schuld als Halt":**
+- ✅ **F1/F12:** K7 erzählt den Abend (Marie am Fluss, Clara sucht sie im dunklen Park, kommt
+  nie heim). K14: „Da ist noch was, das mich festhält" → Schuld; nur Clara könnte lossprechen,
+  Nora denkt an Jonas' Ritzung (Band 3); Clara hat nichts hinterlassen. Noras alter Satz
+  „Vielleicht ist Loslassen auch kein Weggehen" (widersprach der Logik) ersetzt durch
+  „Vielleicht musst du nicht mehr suchen. Auch wenn du nicht gehen kannst." — bewusst ohne
+  „noch", damit keine spätere Befreiung versprochen wird (Kontinuität).
+- ✅ **F3:** K4: Nora weiß, dass alle zwölf durch sind; der Stich ist der Name. Neuer
+  K4-Schluss (OBJEKT bleibt): „Frei." — „Nora kannte diese Schrift." K5: Morgen statt Nacht,
+  „langsam und bewusst" wie in Band 5; K12:37 und K13:59 angepasst.
+- ✅ **F4:** Scheinparadox gestrichen (K4, K5) — ersetzt durch „Neun Monate. So weit lagen
+  die beiden Schwestern auseinander."
+- ✅ **F5/F6:** K5: Lina, Brenner, Marlene, Faber als die Abholenden; Nora hat Clara
+  zweimal gesehen (Band 5 K7, K17). K13: „Weil ich dabei war" statt „eigene Handschrift",
+  „Weil auf der anderen Seite jemand gewartet hat" statt „Wissen wir nicht genau". K11:33.
+- ✅ **F13 (Herkunft):** K7: weggezogen „an einen Ort ohne Park", nie zurückgefunden, „bis es
+  hier auf einmal hell geworden war" (Leuchtturm). K13:49 präzisiert. *Offen: K6:17
+  „dreißig Jahre" → Schritt 3.*
+- ✅ **F2 (K7):** Herbert als Gegenbeispiel genannt, „noch nie nicht gereicht" ersetzt.
+  *Offen: K8, K11, KDP → Schritt 2.* Nebenwirkung: Die Stimmen-Pass-Steigerungsfigur „Zum
+  ersten Mal, seit sie diese Arbeit machten" (K07/K08/K14) verliert ihr K07-Glied, weil genau
+  das die falsche Behauptung war; K08 und K14 bleiben.
+- ✅ **F9 (K4):** Theo: „Aber wenn das Halder ist …" — Nora: „Nicht jetzt. Erst Marie."
+  *Offen: K8, K16 → Schritt 3.*
+- ✅ **F14, F15, F16, F18** in den ohnehin berührten Kapiteln miterledigt (du statt Sie in
+  K2/K3/K7/K9; „im kalten Zimmer"; ein Wort; „grauer als").
+- ✅ **F21 (Falk)** in der Kontinuität verworfen. Outline (Buchkonzept, Mechanik 4/5) und
+  Kontinuität nachgezogen.
+- **Messung (Teil A, geänderte Kapitel):** keine neuen Sätze > 18 W; längster dialogfreier
+  Block K4 159→114, K5 196→177, K7 152→159, sonst unverändert; Dialoganteil gleich oder +1.
+  ⚠️ **K4 (1.094 W) und K5 (1.062 W)** liegen jetzt deutlicher unter dem ~1.200-W-Richtwert,
+  weil falsche Passagen ersatzlos wegfielen. Bewusst **nicht aufgefüllt** (CLAUDE.md: kurze
+  Kapitel besser als gepolsterte) — Entscheidung beim Autor.
+
 ## Empfohlene Reihenfolge
 
 1. **F1 entscheiden** (Richtung a, b oder c). Davon hängen K7, K13 und K14 ab.

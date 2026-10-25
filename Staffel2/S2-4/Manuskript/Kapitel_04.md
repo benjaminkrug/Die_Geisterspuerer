@@ -40,11 +40,11 @@ Frau Silber hatte diese Karte gezeichnet, lange bevor Nora überhaupt geboren wa
 
 "Was suchen wir genau?", fragte Theo.
 
-"Den Stadtpark. Wenn Clara wirklich schon lange tot ist, müsste sie hier irgendwo stehen."
+"Den Stadtpark. Da war eine Markierung, ganz sicher."
 
-"Und wenn nicht?"
+Theo sah sie von der Seite an. "Die sind alle durch, Nora. Alle zwölf. Seit November."
 
-"Dann steht sie eben nicht drauf, und wir wissen wenigstens, dass sie neu ist. Wie die anderen."
+"Ich weiß." Sie strich das Papier glatt. "Ich will trotzdem wissen, wer da stand."
 
 "Wo ist der Park?", fragte Theo und beugte sich über ihre Schulter.
 
@@ -76,21 +76,23 @@ Schatten kam nicht sofort. Er blieb noch einen Moment an der Tür stehen, die Na
 
 "Ach, übrigens." Theo sagte es beiläufig, während er sich wieder über die Karte beugte. "Auf dem Weg hab ich noch was gehört. Marvins großer Bruder hat erzählt, irgendein Fremder läuft seit ein paar Tagen am anderen Ende der Stadt rum. Stellt komische Fragen. Über alte Häuser oder so."
 
-Nora hörte nur mit halbem Ohr zu, ihr Blick noch auf der Karte. Aber ein kleiner Teil von ihr registrierte die Neuigkeit trotzdem und legte sie irgendwo ab, für später.
+Nora sah nicht von der Karte auf. Aber etwas in ihr wurde still und aufmerksam.
 
 "Was für komische Fragen?"
 
-"Weiß nicht. Marvin wusste es auch nicht genau." Er zuckte mit den Schultern. "Klang halt komisch. Dachte, sag ich's einfach."
+"Weiß nicht. Marvin wusste es auch nicht genau." Er zuckte mit den Schultern. "Alte Häuser, Nora. Wer fragt denn nach alten Häusern?"
 
-"Vielleicht bloß ein Vertreter."
+Nora wusste genau, wer. Ein Mann mit einer Brandnarbe an der Hand. Ein Schlosser, der in fremden Fluren stand und freundlich lächelte.
 
-"Vielleicht." Theo klang nicht besonders überzeugt, aber er ließ es dabei. "Ist wahrscheinlich nichts. Wollt's nur erwähnt haben."
+"Nicht jetzt", sagte sie. "Erst Marie."
 
-"Ist notiert."
+"Aber wenn das Halder ist …"
 
-Wichtiger war gerade ohnehin etwas anderes.
+"Dann ist er es morgen auch noch." Es klang härter, als sie wollte. "Bitte, Theo. Eins nach dem anderen."
 
-Nora hörte kaum hin. Ihr Finger lag immer noch auf derselben Stelle der Karte, direkt neben der grünen Fläche des Stadtparks.
+Theo klappte den Mund zu und nickte.
+
+Nora sah wieder auf die Karte. Ihr Finger lag immer noch auf derselben Stelle, direkt neben der grünen Fläche des Stadtparks.
 
 Dort stand, in Frau Silbers eigener, schmaler Handschrift: *Clara B. — 1889.*
 
@@ -98,41 +100,23 @@ Und quer über den Namen, dick und eindeutig, verlief ein einziger Strich.
 
 Für einen Moment saß Nora einfach nur da und starrte auf den Namen. Zwölf Markierungen auf dieser Karte, und ausgerechnet diese hier, ausgerechnet heute.
 
-"Das ist sie", flüsterte Nora. "Das muss sie sein."
+"Das ist sie", flüsterte Nora. "Clara. Das muss sie sein."
 
-Theo beugte sich noch näher. "Warte." Seine Stimme wurde leiser. "Ist der Name nicht … durchgestrichen?"
+Theo beugte sich noch näher. "Aber dann …" Seine Stimme wurde leiser. "Dann ist die doch schon weg."
 
-"Was?"
+"Ja."
 
-"Guck doch selbst."
+"Seit November?"
 
-Er hatte recht. Nora hatte es im ersten Moment kaum wahrgenommen, so sehr hatte sie nach dem Namen selbst gesucht. Aber jetzt, da sie genauer hinsah, war es unübersehbar.
-
-Ein Strich, klar und entschieden gezogen, quer über den ganzen Eintrag.
-
-Und daneben, kleiner, an den Rand gequetscht, standen zwei Worte. Die Handschrift kam Nora sofort bekannt vor. Sie hätte im Moment nicht sagen können, warum.
-
-*Frei.*
+"Seit November." Nora hörte selbst, wie leer das klang. "Marie sucht jemanden, den wir schon gehen lassen haben."
 
 Schatten winselte wieder, lauter diesmal. Er drückte sich an die geschlossene Zimmertür, als wollte er sie mit der Schnauze aufdrücken.
 
 Niemand von beiden achtete darauf.
 
-Nora starrte auf die zwei Wörter. Auf den Strich. Auf den Namen, der schon lange nicht mehr offen war. Ein kalter, langsamer Schreck breitete sich in ihr aus, lange bevor sie überhaupt verstand, warum.
-
-Schatten kam zu ihr herüber und legte den Kopf auf ihr Knie. So wie er es manchmal tat, wenn sie zu lange stillsaß. Sie legte automatisch die Hand auf sein Fell, ohne wirklich hinzusehen.
-
-"Das ergibt keinen Sinn", sagte sie leise. "Sie ist doch gerade erst gekommen. Vor unseren Augen. Heute Abend."
-
-"Vielleicht ist frei nicht dasselbe wie weg", sagte Theo langsam.
-
-"Was soll das heißen?"
-
-"Weiß nicht. Ich denk nur laut."
-
 "Vielleicht ist es eine andere Clara", sagte Theo, aber es klang nicht, als würde er selbst daran glauben.
 
-"Mit demselben Nachnamen-Anfangsbuchstaben? Demselben Jahr? Am selben Ort?"
+"Eine Clara im Stadtpark, die seit über hundert Jahren tot ist? Und dann kommt eine Schwester in einem uralten Kleid und sucht sie genau da?"
 
 "Okay, vergiss die andere Clara."
 
@@ -140,8 +124,12 @@ Schatten kam zu ihr herüber und legte den Kopf auf ihr Knie. So wie er es manch
 
 "War auch keine gute Idee."
 
-Nora fuhr noch einmal mit dem Finger über den Eintrag, langsam, fast vorsichtig. So prüft man eine Wunde, von der man hofft, dass sie sich anders anfühlt, wenn man genauer hinsieht. Es veränderte sich nichts. Der Strich blieb, wo er war. Das Wort blieb, was es war.
+Schatten kam zu ihr herüber und legte den Kopf auf ihr Knie. So wie er es manchmal tat, wenn sie zu lange stillsaß. Sie legte automatisch die Hand auf sein Fell, ohne wirklich hinzusehen.
 
-Theo sagte nichts mehr darauf.
+Nora fuhr noch einmal mit dem Finger über den Eintrag, langsam, fast vorsichtig. So prüft man eine Wunde, von der man hofft, dass sie sich anders anfühlt, wenn man genauer hinsieht. Es veränderte sich nichts. Der Strich blieb, wo er war.
 
-Er starrte nur auf die Karte. Auf den durchgestrichenen Namen. Auf die zwei kleinen Worte am Rand. Alles, was sie eben noch im Park gesehen hatten, rückte plötzlich in ein völlig anderes Licht.
+Und daneben, kleiner, an den Rand gequetscht, stand ein einziges Wort.
+
+*Frei.*
+
+Nora kannte diese Schrift. Das F mit dem kleinen Haken am Ende. Sie kannte sie besser als jede andere.

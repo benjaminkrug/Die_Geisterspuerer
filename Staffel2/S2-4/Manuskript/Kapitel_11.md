@@ -30,7 +30,7 @@ Bis jetzt war das alles nur zwischen ihr und Theo gewesen, eingeschlossen im eig
 
 Aber Frieda hatte gefragt, und irgendetwas an ihrer Art zu fragen ließ keinen Raum für Ausweichen.
 
-"Sie sucht ihre Schwester", sagte sie. "Aber ihre Schwester ist schon frei. Seit Monaten. Wir haben sie selbst befreit, ohne es zu merken, in derselben Nacht wie sieben andere."
+"Sie sucht ihre Schwester", sagte sie. "Aber ihre Schwester ist schon frei. Seit Monaten. Wir haben sie selbst gehen sehen, zusammen mit sieben anderen. Wir wussten nur nicht, dass jemand nach ihr sucht."
 
 Frieda runzelte die Stirn. Sie wog die Worte ab, gründlich, auf der Suche nach einem Ausweg, den es vielleicht doch noch gab. "Und jetzt?"
 

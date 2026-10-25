@@ -46,7 +46,7 @@ Es war nur ein kurzer Moment. Aber Nora sah ihn deutlich: ein Zögern, das es vo
 
 Marie sah ihn an, zum ersten Mal wirklich, als hätte sie ihn bis jetzt kaum wahrgenommen.
 
-"Vielleicht warst du zu weit weg", sagte Nora sanft. "Vielleicht ist es einfach passiert, während du unterwegs warst."
+"Du warst zu weit weg", sagte Nora sanft. "Es ist passiert, während du noch unterwegs warst."
 
 Sie zeigte auf die Karte, auf die durchgestrichene Markierung, auf das Wort daneben.
 
@@ -56,7 +56,7 @@ Marie beugte sich vor, so weit es ging, ohne die Karte tatsächlich zu berühren
 
 "Woher wisst ihr, dass das echt ist?", fragte sie schließlich. "Woher wisst ihr, dass das nicht nur … Trost ist?"
 
-"Es ist meine eigene Handschrift", sagte Nora. "Ich hab es selbst geschrieben, in der Nacht, in der es passiert ist. Ich hätte es mir nicht ausgedacht."
+"Weil ich dabei war", sagte Nora. "Ich hab sie gesehen, im November. Sie kam aus dem Park, als Licht. Ganz ruhig, ohne Eile. Am nächsten Morgen hab ich das hier geschrieben."
 
 Maries Blick fiel auf das Papier. Ihre durchscheinenden Finger näherten sich vorsichtig, berührten es fast. Fassen konnte sie es sowieso nicht, das wusste sie.
 
@@ -78,7 +78,7 @@ Theo lächelte nicht, aber etwas in seinem Gesicht wurde weicher. "Klingt, als h
 
 "Woher weißt du das?"
 
-"Wissen wir nicht genau", gab Nora zu. "Aber wir wissen, dass die anderen sie aufgenommen haben. Ganz selbstverständlich, so, als hätten sie nur auf sie gewartet."
+"Weil auf der anderen Seite jemand gewartet hat", sagte Nora. "Ein Mädchen mit einem Zopf. Ein alter Mann. Noch zwei andere. Wir kennen sie alle." Sie schluckte. "Sie haben Clara abgeholt. Ganz selbstverständlich, so, als hätten sie nur auf sie gewartet."
 
 Marie schluckte schwer, ein Laut, der fast wie ein Schluchzen klang. Kaum etwas an ihr war noch fest genug, um wirklich zu weinen.
 
@@ -100,7 +100,7 @@ Marie sah zwischen der Karte, Nora und Schatten hin und her. So viel auf einmal,
 
 "Nein", sagte Nora. "Ist es nicht."
 
-Sie sagte es, ohne zu zögern, ohne den Satz weicher zu machen, als er war. Manchmal, das hatte sie in dieser Nacht gelernt, half es niemandem, etwas schönzureden.
+Sie sagte es, ohne zu zögern, ohne den Satz weicher zu machen, als er war. Manchmal, das hatte sie in diesen Tagen gelernt, half es niemandem, etwas schönzureden.
 
 Marie sah sie lange an. Sie drehte und wendete den einen Satz, bis er sich irgendwie in ihr festsetzte.
 

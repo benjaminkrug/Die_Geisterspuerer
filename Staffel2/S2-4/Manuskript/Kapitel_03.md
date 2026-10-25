@@ -14,7 +14,7 @@ Nora spürte, wie sich etwas in ihrer Brust zusammenzog. Nicht Angst, jedenfalls
 
 Nora trat einen Schritt näher. Diesmal wich die Gestalt nicht zurück. Sie schien es kaum zu bemerken. Ihre Hände tasteten weiter durch die Luft, aber langsamer jetzt, fast erschöpft.
 
-"Wir sind nicht Clara", sagte Nora leise. "Aber wir wollen Ihnen helfen, sie zu finden."
+"Wir sind nicht Clara", sagte Nora leise. "Aber wir wollen dir helfen, sie zu finden."
 
 Und die Gestalt hielt inne.
 

@@ -60,11 +60,11 @@ Der Himmel war inzwischen fast ganz dunkel. Theo zog sein Handy aus der Tasche u
 
 Nora trat noch einen Schritt näher, langsam, die Hände sichtbar, so wie man sich einem verängstigten Tier näherte.
 
-"Wir wollen Ihnen helfen", sagte sie. "Wie heißen Sie?"
+"Wir wollen dir helfen", sagte sie. "Wie heißt du?"
 
 Nichts. Nicht einmal ein Zucken.
 
-"Können Sie uns sagen, wonach Sie suchen?"
+"Kannst du uns sagen, wonach du suchst?"
 
 Auch das ging ins Leere. Die Gestalt bewegte sich weiter in ihrem eigenen, stillen Kreis. Noras Worte schienen irgendwo auf halbem Weg zu verschwinden, lange bevor sie überhaupt ankamen.
 

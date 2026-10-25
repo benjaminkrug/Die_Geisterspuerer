@@ -11,13 +11,18 @@
 # Buchkonzept (Ein-Absatz)
 
 Ein Ruf erreicht die Kinder, wie all die anderen zuvor — aber diesmal führt er in eine
-Sackgasse. Marie, gerade erst nach Gravenstedt gezogen, sucht ihre Schwester Clara, die vor
-Jahrzehnten im Stadtpark verschwand. Die Kinder tun alles richtig: Sie hören zu, sie
-recherchieren, sie finden die Wahrheit. Genau die Wahrheit ist das Problem — Clara wurde
-schon vor Monaten befreit, in Band 5s großem Finale, für immer gegangen. Es gibt niemanden
-mehr, zu dem Marie zurückkehren könnte. Zum ersten Mal reicht die richtige Methode nicht.
-Was bleibt, ist keine Befreiung, sondern die Wahrheit selbst — ein karger, aber echter
-Trost. Parallel dazu fängt Halder anderswo einen weiteren neuen Geist ab, und Frieda, die
+Sackgasse. Marie, ein Geist von außerhalb, erst jetzt vom Leuchtturm nach Gravenstedt
+gezogen, sucht ihre Schwester Clara, die 1889 im Stadtpark verschwand — auf der Suche nach
+Marie. Die Kinder tun alles richtig: Sie hören zu, sie recherchieren, sie finden die
+Wahrheit. Genau die Wahrheit ist das Problem — Clara wurde schon vor Monaten befreit, in
+Band 5s großem Finale, für immer gegangen. Was Marie festhält, ist die Schuld; lossprechen
+könnte sie nur Clara, und Clara hat keine Botschaft hinterlassen (anders als Jonas, Band 3).
+Diesmal gibt es nichts zu finden, kein Schloss, keinen Grund. Was bleibt, ist keine
+Befreiung, sondern die Wahrheit selbst — ein karger, aber echter Trost.
+⚠️ **Korrigiert 2026-10-25** (`Fundliste_S2-4_Logik.md` F1/F2/F13): Die frühere Fassung
+begründete den Grenzfall mit „befreite Geister kehren nicht zurück" — das verhindert nur
+Claras Rückkehr, nicht Maries Hinübergehen (Band 5 K17, Band 3). Und „zum ersten Mal reicht
+die Methode nicht" war falsch (S2-1, Band 4). Parallel dazu fängt Halder anderswo einen weiteren neuen Geist ab, und Frieda, die
 heimlich von Maries Fall erfährt, muss zum ersten Mal zugeben: Binden ist nicht die einzige
 Sache, die scheitern kann.
 
@@ -70,7 +75,16 @@ Sache, die scheitern kann.
    „Lina V. — 1974"); befreite Geister werden **durchgestrichen** (`Serien_Kanon.md`,
    „acht offenen Markierungen. Von zwölf sind vier durchgestrichen."). **Richtig:** Aktive
    Recherche, kein Zufall — sie suchen auf Silbers Karte die Markierung am Stadtpark und
-   finden sie **bereits durchgestrichen**: „Clara B. — 1889". ⚠️ **Der eigentliche Stich:**
+   finden sie **bereits durchgestrichen**: „Clara B. — 1889".
+   ⚠️ **Korrigiert 2026-10-25 (Fundliste F3/F5/F6) — der Rest dieses Punkts ist überholt:**
+   Band 5 K18 legt fest, dass Nora die acht Kreuze **am Morgen danach langsam und bewusst**
+   gemacht hat, die Karte danach „fertig" in die Schublade legte (sie wird nicht
+   weitergeführt), und K17, dass sie „bei jedem einzelnen genau wusste, wer er gewesen war".
+   Ein „vergessen in der Hektik" ist damit ausgeschlossen. **Jetzt:** Nora *weiß*, dass der
+   Stadtpark-Eintrag erledigt ist; der Stich ist der **Name** (Maries Schwester), das
+   eigene „Frei." und dass sie Clara **selbst gesehen** hat — am Park (Band 5 K7) und als
+   Licht, abgeholt von Lina, Brenner, Marlene, Faber (K17). Diese Augenzeugenschaft ist
+   der wahre Trost in K13. ~~Alter Text:~~ ⚠️ **Der eigentliche Stich:**
    Der Strich und der knappe Rand-Vermerk „Frei." tragen **ihre eigene Handschrift** — sie
    haben die Markierung selbst durchgestrichen, in der Hektik von Band 5s
    Massen-Befreiung, und es seither vergessen, weil an jenem Abend alle acht verbliebenen
@@ -98,6 +112,15 @@ Sache, die scheitern kann.
    richtigen Trick hätte es geklappt" — genau das Gegenteil der Aussage dieses Bandes.
    Zuhören, die Gründungsmethode aus Band 1, macht am klarsten sichtbar, dass selbst die
    erprobteste, richtig ausgeführte Methode hier an eine Wand stößt.
+   ⚠️ **Präzisiert 2026-10-25 (Fundliste F1/F2/F12):** (a) Nicht „zum ersten Mal reicht
+   Zuhören nicht" — das geschah schon in S2-1 (Herbert, K7/K12) und Band 4 (Faber). Der
+   echte Unterschied: **bisher gab es immer etwas zu finden** (Schloss, Botschaft, Grund) —
+   diesmal nicht. (b) Was Marie hält, ist **Schuld**: Clara ging 1889 in den dunklen Park,
+   um Marie zu suchen, und kam nie heim (K3, K7). Lossprechen kann nur Clara. Band 3 zeigt
+   den Mechanismus (Marlene brauchte Jonas' eigenen Satz, nicht Noras Trost); Clara hat
+   keinen hinterlassen, und befreite Geister kehren nicht zurück → **kanonbegründete
+   Grenze** (Autorentscheidung 2026-10-25, Option „Schuld als Halt"). Marie hört auf zu
+   suchen, kann aber nicht gehen (K14).
 
 6. **Warum begegnet Halder den Kindern in diesem Band nicht direkt**, obwohl er seit S2-3
    weiß, dass sie ihn kennen? ⚠️ Löst, zusammen mit Punkt 3 oben, Kontinuität-Widerspruch 3

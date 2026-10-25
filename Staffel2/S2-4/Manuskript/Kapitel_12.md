@@ -34,7 +34,7 @@ Sein Fell war warm unter ihren Fingern, vertraut, echt. Es war das Einzige gerad
 
 "Das ist doch nicht deine Schuld", sagte Theo.
 
-"Ist es nicht?" Sie sah zu ihm auf. "Ich hab die Karte durchgestrichen, Theo. Meine eigene Handschrift. Ich hab nicht mal nachgeschaut, wer da drunter steht. Ich hab einfach ein Kreuz gemacht und bin weitergegangen."
+"Ist es nicht?" Sie sah zu ihm auf. "Ich hab sie gesehen, Theo. Zweimal. Und am nächsten Morgen hab ich ein Kreuz gemacht und bin weitergegangen. Ich hab nie gefragt, wer sie war. Oder ob jemand nach ihr sucht."
 
 "Du warst zwölf. Es war die schlimmste Nacht deines Lebens."
 
@@ -42,7 +42,7 @@ Sein Fell war warm unter ihren Fingern, vertraut, echt. Es war das Einzige gerad
 
 Frieda sah zu Boden, ihre Finger wieder ineinander verschränkt. "Bei mir ist es genauso. Ich war klein, als er mir das zum ersten Mal erzählt hat. Ich konnte gar nicht anders, als es zu glauben."
 
-"Und trotzdem", sagte Nora, "hättest du irgendwann fragen können. So wie ich hätte nachschauen können, wer auf der Karte steht."
+"Und trotzdem", sagte Nora, "hättest du irgendwann fragen können. So wie ich hätte fragen können, wer sie war."
 
 "Ja. Hätte ich."
 

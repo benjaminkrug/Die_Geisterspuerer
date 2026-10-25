@@ -22,7 +22,7 @@ Jetzt, hier vor den Kastanien, fühlte sich dieser Plan plötzlich sehr viel kle
 
 Nora ließ sich vor Marie auf den Boden sinken, genau auf Augenhöhe. So wie Frau Silber es immer gesagt hatte. Immer zuerst zuhören. Egal, wie unmöglich der Fall aussah.
 
-"Ich bin wieder da", sagte Nora leise. "Ich möchte Ihnen zuhören. Ganz in Ruhe. Erzählen Sie mir von Clara."
+"Ich bin wieder da", sagte Nora leise. "Ich möchte dir zuhören. Ganz in Ruhe. Erzähl mir von Clara."
 
 Marie sah sie an, als müsste sie die Worte erst durch mehrere Schichten hindurch verstehen. "Zuhören?"
 
@@ -44,9 +44,13 @@ Theo setzte sich neben Nora, langsam, ohne ein Wort. Schatten legte sich vor ihn
 
 "Sie hat auf mich aufgepasst", sagte Marie. "Immer. Auch an dem Abend."
 
-Ihre Stimme wurde leiser, aber sie brach nicht ab, wie beim letzten Mal. Sie erzählte weiter, langsam, Wort für Wort. Jedes davon trug etwas von einem Gewicht ab, das sie schon viel zu lange getragen hatte.
+Ihre Stimme wurde leiser, aber sie brach nicht ab, wie beim letzten Mal.
 
-Nora hörte einfach zu. Sie unterbrach nicht, stellte keine Fragen, die nicht gefragt werden mussten. Genau wie bei Lina, damals, in einer Wohnung voller Uhren. Genau wie Frau Silber es ihr beigebracht hatte, lange bevor Nora sie je selbst getroffen hatte.
+"Ich war am Fluss. Viel zu lange. Und Clara ist mich suchen gegangen, im Dunkeln, quer durch den Park." Ihre Finger schlossen sich fester um die Schleife. "Ich war zuerst zu Hause. Sie nicht. Sie ist nie mehr heimgekommen."
+
+Sie erzählte weiter, langsam, Wort für Wort. Vom Winter danach, als die Mutter die Stadt nicht mehr aushielt. Vom Wegziehen, weit weg, an einen Ort ohne Park. Und davon, dass sie nie zurückgefunden hatte, so sehr sie auch suchte. Bis es hier auf einmal hell geworden war.
+
+Nora hörte einfach zu. Sie unterbrach nicht, stellte keine Fragen, die nicht gefragt werden mussten. Genau wie bei Lina, damals, im kalten Zimmer. Genau wie Frau Silber es ihr beigebracht hatte, lange bevor Nora sie je selbst getroffen hatte.
 
 Damals war es ihr schwergefallen, einfach nur still zu sitzen und nichts zu tun außer zuzuhören. Inzwischen kannte sie das Gefühl gut: den Drang, etwas zu sagen, etwas zu lösen. Und die Erkenntnis, dass genau das manchmal das Falscheste war, was man tun konnte.
 
@@ -54,7 +58,7 @@ Etwas veränderte sich in Maries Haltung. Ihre Schultern sanken ein Stück, als 
 
 "Niemand hat mir je einfach so zugehört", sagte sie. "Nicht seit … ich weiß nicht mehr, seit wann."
 
-"Wir hören Ihnen zu", sagte Nora. "So lange Sie wollen."
+"Wir hören dir zu", sagte Nora. "So lange du willst."
 
 "Warum?" Marie sah sie an, fast misstrauisch. "Ihr kennt mich nicht mal."
 
@@ -70,7 +74,7 @@ Sie stand auf, ganz ohne Übergang. Ihr Blick wanderte wieder zwischen die Bäum
 
 Nora spürte, wie sich etwas in ihr zusammenzog.
 
-"Marie." Sie stand ebenfalls auf, folgte ihr ein paar Schritte. "Wir sind noch hier. Wir hören Ihnen zu."
+"Marie." Sie stand ebenfalls auf, folgte ihr ein paar Schritte. "Wir sind noch hier. Wir hören dir zu."
 
 "Clara ist irgendwo hier", sagte Marie, als hätte sie die letzten Minuten gar nicht wirklich gehört. "Sie ist hier. Sie muss hier sein."
 
@@ -82,13 +86,13 @@ Theo sah Nora an, die Augen groß. "Aber es hat doch geholfen. Ich hab's gesehen
 
 Schatten winselte und drückte sich fest an Maries Bein. Er presste seine ganze Wärme gegen sie, aber es änderte nichts. Marie drehte sich weiter, suchte weiter, rief weiter denselben Namen in dieselbe Dunkelheit.
 
-Nora blieb stehen und sah zu. Zum ersten Mal, seit sie diese Arbeit machten, hatte Zuhören etwas verändert und trotzdem nichts gelöst. Marie fühlte sich gehört. Das war echt gewesen, kein Trick, keine Einbildung. Aber gehört zu werden brachte ihr Clara nicht zurück.
+Nora blieb stehen und sah zu. Zuhören hatte etwas verändert und trotzdem nichts gelöst. Marie fühlte sich gehört. Das war echt gewesen, kein Trick, keine Einbildung. Aber gehört zu werden brachte ihr Clara nicht zurück.
 
-Es war ein Unterschied, den Nora bisher nicht gekannt hatte. Bisher hatte Zuhören immer irgendwohin geführt, zu einer Tür, zu einem Ende. Diesmal führte es nur zurück an denselben Anfang.
+Bei Herbert hatte Zuhören auch nicht gereicht. Aber da hatte am Ende etwas gewartet, das man finden konnte. Ein Schloss, einen Grund. Diesmal führte es nur zurück an denselben Anfang.
 
-"Warum hört sie nicht auf?", fragte Theo. "Bei Lina hat's gereicht. Bei allen anderen hat's gereicht."
+"Warum hört sie nicht auf?", fragte Theo. "Bei Lina hat's gereicht. Und bei Herbert war wenigstens ein Schloss dran."
 
-"Weil Lina jemanden brauchte, der ihr zuhört. Marie braucht ihre Schwester." Nora hörte selbst, wie hart sich das anfühlte, ausgesprochen zu werden. "Das ist ein Unterschied, den ich vorher nicht verstanden hab."
+"Lina brauchte jemanden, der ihr zuhört. Herbert brauchte jemanden, der ihn losmacht. Marie braucht ihre Schwester." Nora hörte selbst, wie hart sich das anfühlte, ausgesprochen zu werden. "Und die kann ihr keiner bringen."
 
 "Aber das ist nicht fair."
 
@@ -100,7 +104,7 @@ Marie rief weiter, unbeirrt, als hätte das Gespräch von eben gar nicht stattge
 
 "Was meinst du?"
 
-"Zuhören. Es reicht nicht." Sie sah zu, wie Marie immer wieder dieselbe Stelle abschritt, immer wieder denselben Namen rief. "Es hat noch nie nicht gereicht. Bei niemandem. Und jetzt reicht es nicht."
+"Zuhören. Es reicht nicht." Sie sah zu, wie Marie immer wieder dieselbe Stelle abschritt, immer wieder denselben Namen rief. "Und diesmal gibt es nichts, was wir dazutun können. Kein Schloss. Gar nichts."
 
 Schatten kam zu ihnen zurück, den Kopf gesenkt, und lehnte sich schwer gegen Noras Bein.
 

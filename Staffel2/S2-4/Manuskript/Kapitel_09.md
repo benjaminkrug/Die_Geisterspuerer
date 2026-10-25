@@ -46,7 +46,7 @@ Der Gedanke traf Nora härter, als sie erwartet hatte. "Das will ich nicht."
 
 Schatten war ihnen gefolgt und setzte sich jetzt zwischen sie, den Kopf hoch erhoben, die Ohren locker. Er wirkte ruhiger als am Abend zuvor, fast so, als hätte er selbst auf genau diesen Moment gewartet.
 
-"Wie sagen wir's ihr?", fragte Theo. Er setzte sich auf die Bettkante und zog sich langsam einen Socken an. Es half ihm offenbar beim Nachdenken. "Wir können nicht einfach reingehen und sagen: übrigens, Ihre Schwester ist tot. Und frei. Und Sie sehen sie nie wieder."
+"Wie sagen wir's ihr?", fragte Theo. Er setzte sich auf die Bettkante und zog sich langsam einen Socken an. Es half ihm offenbar beim Nachdenken. "Wir können nicht einfach reingehen und sagen: übrigens, deine Schwester ist tot. Und frei. Und du siehst sie nie wieder."
 
 "Natürlich nicht so."
 

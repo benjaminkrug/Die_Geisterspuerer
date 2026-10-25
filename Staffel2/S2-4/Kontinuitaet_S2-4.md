@@ -98,6 +98,17 @@ nie hoffnungslos wirken, auch wenn er der dunkelste der Staffel ist.
   Verzweiflung** — aus rastloser Suche wird stilles, trauriges Warten. Kein Trostpreis, der
   wie eine versteckte Befreiung wirkt (das wäre ein Etikettenschwindel gegenüber der
   eigenen Prämisse) — ein echter, begrenzter Trost, mehr nicht.
+- ⚠️ **Begründung korrigiert 2026-10-25 (`Fundliste_S2-4_Logik.md` F1, Autorentscheidung
+  „Schuld als Halt"):** „Befreite Geister kehren nicht zurück" erklärt nur, warum Clara
+  nicht kommt — nicht, warum Marie nicht zu ihr geht (Band 5 K17: drüben wird abgeholt;
+  Band 3: Marlene geht mit dem längst gegangenen Jonas). **Was Marie hält, ist Schuld:**
+  Clara ging 1889 in den dunklen Park, um die zu spät heimkommende Marie zu suchen, und kam
+  nie zurück. Lossprechen kann nur Clara; sie hat keine Botschaft hinterlassen (Gegenbild
+  zu Jonas' Ritzung „FÜR MAMA. ICH BIN NICHT BÖSE."). **Herkunft:** Die Familie zog nach
+  dem Winter weit weg; Marie fand nie zurück, bis der Leuchtturm sie zog (K7) — deshalb
+  steckte sie nicht 130 Jahre in Gravenstedt fest. Sie erscheint als Mädchen; wann und wie
+  sie starb, bleibt bewusst ungesagt. **Trost (K13):** Nora war Augenzeugin (Band 5 K7 +
+  K17) und kann wahrheitsgemäß sagen, dass Clara ruhig ging und abgeholt wurde.
 - **Warum das die Serien-Ethik nicht bricht, sondern vertieft:** Nora tut alles richtig
   (Zuhören, Wahrheit sagen, Mitgefühl) — es reicht nicht, **weil das, was Marie wirklich
   braucht, kanonisch unerreichbar ist**, nicht weil ihr Werkzeug fehlerhaft wäre. Genau das
@@ -107,7 +118,10 @@ nie hoffnungslos wirken, auch wenn er der dunkelste der Staffel ist.
 
 ## EIGENNAMEN & FAKTEN (Schreibweise fixieren)
 
-- **Marie Falk** (Nachname in Phase 3 nachgetragen — in Phase 2 offengeblieben, hier
+- ⚠️ **Nachname „Falk" verworfen 2026-10-25 (Fundliste F21):** Schwestern 1889 tragen
+  denselben Nachnamen, und die Karte sagt „Clara **B.**" (Kanon: „Die Karte ist exakt").
+  Maries Nachname bleibt **ungenannt**; falls je nötig, mit **B** beginnen.
+- ~~**Marie Falk**~~ (Nachname in Phase 3 nachgetragen — in Phase 2 offengeblieben, hier
   geschlossen, um kein loses Ende in die Szenenplanung zu tragen; kein Konflikt mit
   bestehenden Namen der Reihe geprüft) — der neue, ungebundene Fall dieses Bandes (nicht
   Halders Werk). ⚠️ **Geprüft (2026-09-23):** Der Nachname „Falk" steht bislang nur hier,

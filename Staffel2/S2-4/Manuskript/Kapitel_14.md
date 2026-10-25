@@ -24,7 +24,19 @@ Marie blieb, wo sie war. Ihre Gestalt flackerte nicht mehr wild, sondern ruhig, 
 
 Marie hob langsam den Kopf. Ihre Augen waren noch müde, aber der rastlose Zug darin war verschwunden.
 
-"Ich kann nirgendwohin", sagte sie. Ihre Stimme klang anders als beim Rufen, leiser, fester. "Das spür ich jetzt. Es gibt keinen Weg mehr zu ihr."
+"Ich kann nicht gehen", sagte sie. Ihre Stimme klang anders als beim Rufen, leiser, fester. "Das spür ich jetzt. Da ist noch was, das mich festhält."
+
+"Was denn?", fragte Nora.
+
+Marie sah auf die Schleife in ihren Fingern. "Sie ist wegen mir rausgegangen. In die Dunkelheit. Und ich hab ihr nie gesagt, dass es mir leid tut."
+
+"Sie war dir nicht böse", sagte Theo schnell. "Ganz bestimmt nicht."
+
+"Das kannst du nicht wissen." Es klang nicht hart. Nur müde. "Das kann nur sie sagen."
+
+Nora dachte an eine Tunnelwand unter der Stadt. An Buchstaben, die ein Junge vor über fünfzig Jahren in den Stein geritzt hatte. *FÜR MAMA. ICH BIN NICHT BÖSE.* Marlene hatte genau diesen einen Satz gebraucht. Nicht von Nora. Von Jonas.
+
+Clara hatte keinen Satz hinterlassen. Keine Wand, keinen Brief, nichts. Sie war losgegangen, um ihre Schwester zu suchen, und nie zurückgekommen. Und wer gegangen war, kam nicht wieder.
 
 "Es tut mir leid", sagte Nora. Mehr fiel ihr nicht ein.
 
@@ -32,7 +44,7 @@ Marie hob langsam den Kopf. Ihre Augen waren noch müde, aber der rastlose Zug d
 
 "Clara hätte das verstanden", sagte sie nach einer Weile. "Sie hat immer gewusst, wann man aufhören muss zu kämpfen. Ich war die, die nie loslassen konnte."
 
-"Vielleicht ist Loslassen auch kein Weggehen", sagte Nora vorsichtig. "Vielleicht ist es nur, aufzuhören, sich dagegenzustemmen."
+"Vielleicht musst du nicht mehr suchen", sagte Nora vorsichtig. "Auch wenn du nicht gehen kannst."
 
 Marie sagte darauf nichts mehr. Aber ihr Blick wurde für einen Moment klarer, wacher. Irgendwo in ihr hatte der Satz angeklopft.
 
