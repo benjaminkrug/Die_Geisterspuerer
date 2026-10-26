@@ -48,7 +48,7 @@ Nora kannte diesen Blick nicht, aber sie kannte das Gefühl dahinter. So sah jem
 
 Das war eine faire Frage. Nora hatte trotzdem keine Lust, sie laut zu beantworten.
 
-Das stimmte, aber es fühlte sich trotzdem falsch an. Diese Gestalt wirkte nicht wie jemand, der taub war. Sie wirkte wie jemand, der so weit weg war, dass Lautstärke gar nichts mehr ausmachte.
+Sie wusste es trotzdem. Diese Gestalt wirkte nicht wie jemand, der taub war. Sie wirkte wie jemand, der so weit weg war, dass Lautstärke gar nichts mehr ausmachte.
 
 Der Himmel war inzwischen fast ganz dunkel. Theo zog sein Handy aus der Tasche und ließ das Display an, ohne es wirklich zu brauchen. Es war eher ein Reflex, so wie andere Leute die Arme verschränkten, wenn ihnen nicht wohl war.
 

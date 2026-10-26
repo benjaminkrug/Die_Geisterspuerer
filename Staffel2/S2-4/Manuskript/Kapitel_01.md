@@ -8,7 +8,7 @@ Nora zog sanft an der Leine. Er rührte sich nicht. Sein Kopf war gesenkt. Seine
 
 "Keine Ahnung." Nora sah auf den Hund hinunter. Das Fell an seinen Schultern stand leicht ab. Kein richtiges Sträuben. Nur eine Ahnung davon.
 
-Seit drei Wochen war es ruhig gewesen. Kein Ruf, kein Fall, kein Flüstern hinter einer fremden Tür. Nora hatte sich fast schon daran gewöhnt, dass der August ein ganz normaler Ferienmonat sein könnte. Die Sommerferien liefen seit zwei Wochen. Bisher hatte nichts von ihnen mehr verlangt als Eis essen und lange aufbleiben. Und Schatten dreimal am Tag um den Block führen.
+Seit zwei Wochen war es ruhig gewesen. Kein Ruf, kein Fall, kein Flüstern hinter einer fremden Tür. Nora hatte sich fast schon daran gewöhnt, dass der August ein ganz normaler Ferienmonat sein könnte. Zwei Wochen Sommerferien waren noch übrig. Bisher hatte nichts von ihnen mehr verlangt als Eis essen und lange aufbleiben. Und Schatten dreimal am Tag um den Block führen.
 
 Theo hatte behauptet, ihm sei die Ruhe unheimlich. Nora hatte ihm nicht geglaubt. Nach Ilse hatte sie selbst gedacht, eine Pause würde guttun. Zeit, in der niemand etwas von ihnen brauchte, das größer war als Hausaufgaben.
 

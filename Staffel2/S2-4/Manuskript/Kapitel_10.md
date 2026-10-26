@@ -76,7 +76,7 @@ Schatten fuhr herum, kurz alarmiert, das Fell an den Schultern angehoben. Dann e
 
 Frieda stand mitten auf dem Kiesweg, keine zwanzig Schritte entfernt, und kam direkt auf sie zu. Kein Versteck hinter einem Baum. Kein Abwarten aus der Distanz. Sie ging einfach, mit festen Schritten, als hätte sie sich längst entschieden, gesehen zu werden.
 
-Nora hatte Frieda bisher immer nur aus der Ferne erlebt, am Rand von etwas, hinter einer Ecke. Nie einfach mittendrin. Dieses Bild hier, Frieda im offenen Morgenlicht, ohne jede Deckung. Es passte zu nichts, was Nora über sie zu wissen glaubte.
+Nora kannte Frieda nur aus dem Halbdunkel, zwischen Regalen oder hinter einer staubigen Autoscheibe. Nie so, im offenen Licht. Dieses Bild hier, Frieda im offenen Morgenlicht, ohne jede Deckung. Es passte zu nichts, was Nora über sie zu wissen glaubte.
 
 "Wer ist das?" Theo kniff die Augen zusammen, dann weiteten sie sich. "Warte. Ist das Frieda?"
 
@@ -90,7 +90,7 @@ Sonst hatte Frieda sich immer im Hintergrund gehalten, beobachtet, abgewartet, b
 
 "Vielleicht folgt sie uns", flüsterte Theo. "Vielleicht hat ihr Vater sie geschickt."
 
-"Sie hätte sich dann eher versteckt. So wie beim letzten Mal."
+"Sie hätte sich dann eher versteckt. So wie in der Werkstatt."
 
 "Stimmt auch wieder."
 

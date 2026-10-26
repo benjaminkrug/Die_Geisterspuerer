@@ -364,8 +364,12 @@ B3, B4 (bis auf den Geist von Weißenbrück, s. u.), B5–B9, C1–C3, C5.
 5. Geist von den Lagerhallen: **der Wächter** (braucht seine Ablösung) — Outline Abschnitt B.
 6. Geist von Weißenbrück: **ging damals wirklich** — ein Satz von Halder in K12 (B4 damit erledigt).
 
+**Erledigt 2026-10-26 (Schritt 1):** B10 und alle Restbefunde aus Abschnitt 3 in den S2-4-Kapiteln
+behoben (K1 Ferien + „seit zwei Wochen ruhig", K2, K3, K5 ×2, K6, K10 ×2, K11). Teil-A-Messung alt
+gegen neu: keine neuen Sätze > 18 W, dialogfreie Blöcke gleich oder kürzer (K6 119→114).
+Neu kompiliert (18.535 W), Taschenbuch weiterhin **97 Seiten** → Cover gültig, eBook neu gebaut.
+
 **Offen:**
-- B10: S2-4 K1 Z. 19 korrigieren (Ferien) — Voraussetzung für die S2-5-Zeitlinie.
 - B11: Phase-3-Dateien neu bauen (jetzt als überholt markiert), Hinweisketten-Tracker gegen die
   Texte nachziehen, `PLAN_Staffel2.md`-Stand und `Serien_Kanon.md` 7c aktualisieren.
 - Restbefunde S2-4 (Abschnitt 3) — vor dem Upload.

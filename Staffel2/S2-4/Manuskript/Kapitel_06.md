@@ -28,7 +28,7 @@ Schatten lag zwischen ihnen, den Kopf auf den Pfoten. Seine Ohren blieben in Ric
 
 Nora wollte widersprechen, aber die Worte blieben ihr im Hals stecken. Denn genau in diesem Moment fühlte es sich für sie auch nicht wie ein Unterschied an.
 
-Nora hatte darauf keine Antwort. Sie zog die Beine an und stützte das Kinn auf die Knie, genau wie Theo. Von hier aus konnte sie den Rand der Karte sehen, die noch auf dem Boden lag. Nur ein Stück Papier. Und doch wog es plötzlich schwerer als alles andere im Zimmer.
+Sie zog die Beine an und stützte das Kinn auf die Knie, genau wie Theo. Von hier aus konnte sie den Rand der Karte sehen, die noch auf dem Boden lag. Nur ein Stück Papier. Und doch wog es plötzlich schwerer als alles andere im Zimmer.
 
 Sie dachte an all die anderen Male, in denen sie genau hier gesessen hatten. Auf diesem Teppich, mit genau dieser Karte zwischen sich. Damals hatte es sich wie ein Anfang angefühlt, jedes Mal. Diesmal fühlte es sich an wie das Gegenteil.
 

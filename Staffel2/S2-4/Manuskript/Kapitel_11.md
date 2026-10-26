@@ -86,6 +86,6 @@ Nora warf ihm einen kurzen Blick zu. Auch sie wusste nicht, was sie sagen sollte
 
 Frieda sah zu Marie hinüber, dann wieder zurück, die Augen plötzlich glänzend. Sie blinzelte schnell, als könnte sie damit verhindern, dass die Tränen wirklich fielen.
 
-Nora hatte Frieda noch nie weinen sehen. Nicht einmal, wenn ihr Vater sie zurechtwies, nicht einmal in den angespanntesten Momenten zwischen ihnen. Dieser Anblick jetzt traf Nora unerwartet hart.
+Nora hatte Frieda noch nie weinen sehen. Nicht einmal in der Werkstatt, als sie Nora und Theo hinausgeschoben hatte. Dieser Anblick jetzt traf Nora unerwartet hart.
 
 "Ich habe ihn nie gefragt, ob es stimmt", sagte sie. "Ich habe es einfach geglaubt."

@@ -16,7 +16,7 @@ Nora zog sanft an der Leine. Er rührte sich nicht. Sein Kopf war gesenkt. Seine
 
 "Keine Ahnung." Nora sah auf den Hund hinunter. Das Fell an seinen Schultern stand leicht ab. Kein richtiges Sträuben. Nur eine Ahnung davon.
 
-Seit drei Wochen war es ruhig gewesen. Kein Ruf, kein Fall, kein Flüstern hinter einer fremden Tür. Nora hatte sich fast schon daran gewöhnt, dass der August ein ganz normaler Ferienmonat sein könnte. Die Sommerferien liefen seit zwei Wochen. Bisher hatte nichts von ihnen mehr verlangt als Eis essen und lange aufbleiben. Und Schatten dreimal am Tag um den Block führen.
+Seit zwei Wochen war es ruhig gewesen. Kein Ruf, kein Fall, kein Flüstern hinter einer fremden Tür. Nora hatte sich fast schon daran gewöhnt, dass der August ein ganz normaler Ferienmonat sein könnte. Zwei Wochen Sommerferien waren noch übrig. Bisher hatte nichts von ihnen mehr verlangt als Eis essen und lange aufbleiben. Und Schatten dreimal am Tag um den Block führen.
 
 Theo hatte behauptet, ihm sei die Ruhe unheimlich. Nora hatte ihm nicht geglaubt. Nach Ilse hatte sie selbst gedacht, eine Pause würde guttun. Zeit, in der niemand etwas von ihnen brauchte, das größer war als Hausaufgaben.
 
@@ -176,7 +176,7 @@ Nora kannte diesen Blick nicht, aber sie kannte das Gefühl dahinter. So sah jem
 
 Das war eine faire Frage. Nora hatte trotzdem keine Lust, sie laut zu beantworten.
 
-Das stimmte, aber es fühlte sich trotzdem falsch an. Diese Gestalt wirkte nicht wie jemand, der taub war. Sie wirkte wie jemand, der so weit weg war, dass Lautstärke gar nichts mehr ausmachte.
+Sie wusste es trotzdem. Diese Gestalt wirkte nicht wie jemand, der taub war. Sie wirkte wie jemand, der so weit weg war, dass Lautstärke gar nichts mehr ausmachte.
 
 Der Himmel war inzwischen fast ganz dunkel. Theo zog sein Handy aus der Tasche und ließ das Display an, ohne es wirklich zu brauchen. Es war eher ein Reflex, so wie andere Leute die Arme verschränkten, wenn ihnen nicht wohl war.
 
@@ -308,7 +308,7 @@ Kein Knurren. Keine Distanz. Nur ein leises, hilfloses Winseln, während er den 
 
 Seine Augen blieben dabei die ganze Zeit auf die Gestalt gerichtet, aufmerksam, fast andächtig. Ein reines Dableiben, ohne jede Forderung. Nora hatte ihn schon oft beobachtet, wie er auf einen Geist reagierte. Das hier sah anders aus als alles, was sie kannte, sanfter, und irgendwie auch trauriger.
 
-"Das macht er noch nie", flüsterte Theo. "Er legt sich doch nie einfach so hin. Bei irgendwas."
+"Das macht er sonst nicht", flüsterte Theo. "Nicht gleich beim ersten Mal."
 
 "Ich weiß."
 
@@ -514,7 +514,7 @@ Theo sah es auch. "Aber dann …" Seine Stimme wurde leiser. "Dann ist die ja sc
 
 "Ja." Nora hörte selbst, wie leer das klang. "Marie sucht jemanden, den wir schon gehen lassen haben."
 
-"Ich hab das geschrieben", sagte sie leise.
+Sie legte den Finger auf das Wort. "Ich hab das geschrieben", sagte sie leise.
 
 "Ich weiß", sagte Theo. "Du hast alle acht gemacht."
 
@@ -584,8 +584,6 @@ Nora nickte langsam. Neun Monate. So weit lagen die beiden Schwestern auseinande
 
 "Sie hat uns die Schleife beschrieben, Theo. Denselben Fleck von der Marmelade, den ihre Schwester nie zugegeben hat. Das erfindet man nicht." Nora spürte, wie ihr die Worte schwer im Mund lagen. "Es gibt keinen Weg. Es gibt nur die Wahrheit."
 
-"Marie ist gerade angekommen", sagte sie. "Aber Clara war schon weg, bevor Marie überhaupt hier war."
-
 "Das heißt …"
 
 "Das heißt, sie sucht jemanden, den es hier gar nicht mehr gibt. Der nirgendwo mehr ist, wo Marie ihn finden könnte."
@@ -634,7 +632,7 @@ Schatten lag zwischen ihnen, den Kopf auf den Pfoten. Seine Ohren blieben in Ric
 
 Nora wollte widersprechen, aber die Worte blieben ihr im Hals stecken. Denn genau in diesem Moment fühlte es sich für sie auch nicht wie ein Unterschied an.
 
-Nora hatte darauf keine Antwort. Sie zog die Beine an und stützte das Kinn auf die Knie, genau wie Theo. Von hier aus konnte sie den Rand der Karte sehen, die noch auf dem Boden lag. Nur ein Stück Papier. Und doch wog es plötzlich schwerer als alles andere im Zimmer.
+Sie zog die Beine an und stützte das Kinn auf die Knie, genau wie Theo. Von hier aus konnte sie den Rand der Karte sehen, die noch auf dem Boden lag. Nur ein Stück Papier. Und doch wog es plötzlich schwerer als alles andere im Zimmer.
 
 Sie dachte an all die anderen Male, in denen sie genau hier gesessen hatten. Auf diesem Teppich, mit genau dieser Karte zwischen sich. Damals hatte es sich wie ein Anfang angefühlt, jedes Mal. Diesmal fühlte es sich an wie das Gegenteil.
 
@@ -1120,7 +1118,7 @@ Schatten fuhr herum, kurz alarmiert, das Fell an den Schultern angehoben. Dann e
 
 Frieda stand mitten auf dem Kiesweg, keine zwanzig Schritte entfernt, und kam direkt auf sie zu. Kein Versteck hinter einem Baum. Kein Abwarten aus der Distanz. Sie ging einfach, mit festen Schritten, als hätte sie sich längst entschieden, gesehen zu werden.
 
-Nora hatte Frieda bisher immer nur aus der Ferne erlebt, am Rand von etwas, hinter einer Ecke. Nie einfach mittendrin. Dieses Bild hier, Frieda im offenen Morgenlicht, ohne jede Deckung. Es passte zu nichts, was Nora über sie zu wissen glaubte.
+Nora kannte Frieda nur aus dem Halbdunkel, zwischen Regalen oder hinter einer staubigen Autoscheibe. Nie so, im offenen Licht. Dieses Bild hier, Frieda im offenen Morgenlicht, ohne jede Deckung. Es passte zu nichts, was Nora über sie zu wissen glaubte.
 
 "Wer ist das?" Theo kniff die Augen zusammen, dann weiteten sie sich. "Warte. Ist das Frieda?"
 
@@ -1134,7 +1132,7 @@ Sonst hatte Frieda sich immer im Hintergrund gehalten, beobachtet, abgewartet, b
 
 "Vielleicht folgt sie uns", flüsterte Theo. "Vielleicht hat ihr Vater sie geschickt."
 
-"Sie hätte sich dann eher versteckt. So wie beim letzten Mal."
+"Sie hätte sich dann eher versteckt. So wie in der Werkstatt."
 
 "Stimmt auch wieder."
 
@@ -1254,7 +1252,7 @@ Nora warf ihm einen kurzen Blick zu. Auch sie wusste nicht, was sie sagen sollte
 
 Frieda sah zu Marie hinüber, dann wieder zurück, die Augen plötzlich glänzend. Sie blinzelte schnell, als könnte sie damit verhindern, dass die Tränen wirklich fielen.
 
-Nora hatte Frieda noch nie weinen sehen. Nicht einmal, wenn ihr Vater sie zurechtwies, nicht einmal in den angespanntesten Momenten zwischen ihnen. Dieser Anblick jetzt traf Nora unerwartet hart.
+Nora hatte Frieda noch nie weinen sehen. Nicht einmal in der Werkstatt, als sie Nora und Theo hinausgeschoben hatte. Dieser Anblick jetzt traf Nora unerwartet hart.
 
 "Ich habe ihn nie gefragt, ob es stimmt", sagte sie. "Ich habe es einfach geglaubt."
 

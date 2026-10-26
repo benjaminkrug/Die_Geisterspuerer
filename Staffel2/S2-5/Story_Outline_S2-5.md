@@ -67,11 +67,12 @@ Entscheidung** sein, kein neues Wegsehen. Die Begründung liegt im S2-4-Text ber
 Nachmittag an einem unbekannten Ort liefert keinen eigenen Grund). „Drei Wochen später" (alte
 Outline): bricht den Schlusssatz von S2-4.
 
-**Folgen für die Zeitlinie:** Tag 0 = Ende S2-4. S2-5 = Tag 1 bis Tag 3, letzte Ferientage
-(Tag 2 = letzter Ferientag, Mias Freibad). Der Epilog spielt ein paar Tage später am **ersten
-Schultag**. ⚠️ **Voraussetzung:** S2-4 K1 Z. 19 korrigieren
-(„Die Sommerferien liefen seit zwei Wochen" widerspricht S2-3, wo drei Wochen vorher schon zwei
-Ferienwochen vorbei sind) — sonst stimmt das Ferienende nicht.
+**Folgen für die Zeitlinie:** Tag 0 = Ende S2-4. S2-5 = Tag 1 bis Tag 3, letzte Ferienwoche
+(Tag 2 = Mias Freibad-Tag). Der Epilog spielt ein paar Tage später am **ersten Schultag**.
+✅ **S2-4 K1 korrigiert (2026-10-26):** „Seit zwei Wochen war es ruhig gewesen … Zwei Wochen
+Sommerferien waren noch übrig." Rechnung: S2-3 beginnt nach zwei Ferienwochen und dauert etwa
+eine Woche → S2-4 beginnt zwei Wochen später mit zwei Restwochen → S2-4 (4 Tage) + S2-5 (3 Tage)
+lassen etwa eine Woche bis Schulbeginn.
 
 ---
 
@@ -228,8 +229,8 @@ Erinnern).
 # Rollen im Finale
 
 - **Nora:** sieht hin (Akt 1), hält beim gebundenen Geist aus, setzt in Gang, dass Halder fragt
-  (K13), steht beim Erlebnis neben ihm. **Kosten-Entscheidung (Risiko 5):** sagt Mia den letzten
-  Ferientag ab — bewusst, mit Preis; Epilog am ersten Schultag.
+  (K13), steht beim Erlebnis neben ihm. **Kosten-Entscheidung (Risiko 5):** sagt Mia den
+  Freibad-Tag ab — bewusst, mit Preis; Epilog am ersten Schultag.
 - **Theo:** setzt den Zeitpunkt (Anschluss A), sitzt bei Frieda, als sie den Umschlag öffnet (K6),
   steht in der Werkstatt an ihrer Seite (K10–K12) — sein eigener Platz, nicht neben Nora. Hält
   Schatten nur in K10 und K15 kurz. Ventil der Staffel.
@@ -298,8 +299,8 @@ leise.
 
 ### Kapitel 7 – „Wer es ihm sagt"
 Plan: Frieda sagt es ihm selbst, morgen Abend in der Werkstatt. Theo: „Ich geh mit dir." Nora
-lässt ihn (Geschwisterbogen). Nora will morgens zum Geist zurück. Mia schreibt: letzter
-Ferientag, Freibad — Nora sagt ab, diesmal bewusst, und weiß, was es kostet (Risiko 5).
+lässt ihn (Geschwisterbogen). Nora will morgens zum Geist zurück. Mia schreibt: morgen
+Freibad, die halbe Klasse kommt — Nora sagt ab, diesmal bewusst, und weiß, was es kostet (Risiko 5).
 **Schatten:** weiß nicht, wem er folgen soll, legt sich zwischen alle drei. **Humor:** Theo.
 **Cliffhanger [KOMPLIKATION]:** Frieda: Wenn er heute Nacht die Schublade aufmacht, weiß er es
 sowieso.

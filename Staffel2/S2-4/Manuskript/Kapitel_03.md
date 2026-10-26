@@ -48,7 +48,7 @@ Kein Knurren. Keine Distanz. Nur ein leises, hilfloses Winseln, während er den 
 
 Seine Augen blieben dabei die ganze Zeit auf die Gestalt gerichtet, aufmerksam, fast andächtig. Ein reines Dableiben, ohne jede Forderung. Nora hatte ihn schon oft beobachtet, wie er auf einen Geist reagierte. Das hier sah anders aus als alles, was sie kannte, sanfter, und irgendwie auch trauriger.
 
-"Das macht er noch nie", flüsterte Theo. "Er legt sich doch nie einfach so hin. Bei irgendwas."
+"Das macht er sonst nicht", flüsterte Theo. "Nicht gleich beim ersten Mal."
 
 "Ich weiß."
 

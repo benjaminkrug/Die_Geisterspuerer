@@ -6,7 +6,7 @@ Theo sah es auch. "Aber dann …" Seine Stimme wurde leiser. "Dann ist die ja sc
 
 "Ja." Nora hörte selbst, wie leer das klang. "Marie sucht jemanden, den wir schon gehen lassen haben."
 
-"Ich hab das geschrieben", sagte sie leise.
+Sie legte den Finger auf das Wort. "Ich hab das geschrieben", sagte sie leise.
 
 "Ich weiß", sagte Theo. "Du hast alle acht gemacht."
 
@@ -75,8 +75,6 @@ Nora nickte langsam. Neun Monate. So weit lagen die beiden Schwestern auseinande
 "Vielleicht gibt's ja noch einen Weg", sagte Theo, ohne besondere Überzeugung. "Irgendwas, das wir übersehen haben."
 
 "Sie hat uns die Schleife beschrieben, Theo. Denselben Fleck von der Marmelade, den ihre Schwester nie zugegeben hat. Das erfindet man nicht." Nora spürte, wie ihr die Worte schwer im Mund lagen. "Es gibt keinen Weg. Es gibt nur die Wahrheit."
-
-"Marie ist gerade angekommen", sagte sie. "Aber Clara war schon weg, bevor Marie überhaupt hier war."
 
 "Das heißt …"
 
