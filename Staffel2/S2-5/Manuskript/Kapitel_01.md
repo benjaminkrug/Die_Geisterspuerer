@@ -20,7 +20,11 @@ Theo sah zu ihr hoch, den Mund voller Rührei, und kaute in aller Ruhe zu Ende.
 
 "Nein. Aber Marie hat auch nachts gerufen und nicht um zehn Uhr vormittags." Er schob ihr den Teller hin. "Morgen früh. Bevor es richtig hell ist. Dann sehen wir ihn. Und den Geist vielleicht auch."
 
-Nora wollte widersprechen. Ihre Beine entschieden anders, und sie setzte sich wieder hin. Ihr Kopf war schwer wie ein nasser Sandsack.
+"Und wenn er ihn heute findet? Heute, während wir warten?"
+
+Theo sah auf seinen Teller. "Dann wissen wir es morgen. Aber dann sind wir wenigstens wach."
+
+Nora wollte widersprechen. Ihre Beine entschieden anders, und sie setzte sich wieder hin.
 
 "Seit wann bist du der Vernünftige?", fragte sie.
 
@@ -32,11 +36,11 @@ Unter dem Tisch hob Schatten den Kopf. Er sah zur Küchentür, als käme gleich 
 
 Sie wollte sich nur kurz hinlegen. Eine halbe Stunde, mehr nicht.
 
-Als sie die Augen aufschlug, war es dunkel im Zimmer. Jemand hatte ihr eine Decke übergelegt. Auf dem Handy stand eine Uhrzeit kurz vor Mitternacht.
+Als sie aufwachte, war es dunkel. Jemand hatte ihr eine Decke übergelegt. Auf dem Handy: kurz vor Mitternacht.
 
 Ein ganzer Tag. Weg.
 
-Irgendwo da draußen ging Halder seine Häuser ab. Vielleicht hatte er längst gefunden, was er suchte. Und sie hatte geschlafen wie ein Stein.
+Irgendwo da draußen ging Halder seine Häuser ab. Ein freundlicher Mann mit einer Werkzeugtasche, der Geister in Schlösser sperrte. Vielleicht hatte er längst gefunden, was er suchte. Und sie hatte geschlafen wie ein Stein.
 
 "Schatten?", flüsterte sie.
 
@@ -60,13 +64,23 @@ Theo stand in der Tür, das Muster vom Kissen noch auf der Wange.
 
 Nora legte Schatten die Hand auf den Rücken. Unter dem Fell war er gespannt wie eine Saite.
 
-"Morgen", sagte sie leise. Zu ihm, und auch ein bisschen zu sich selbst.
+Dann brach der Laut ab. Mitten im Atemzug.
+
+Schatten nahm die Pfoten von der Fensterbank. Er drehte sich nicht zu ihnen um. Er ging zur Zimmertür, legte sich quer davor und blieb liegen, die Augen offen.
+
+"Was war das jetzt?", flüsterte Theo. "Ist da draußen wer?"
+
+Nora sah hinaus. "Nein. Nur Dächer."
+
+"Und warum hört er dann auf?"
+
+"Ich weiß nicht", sagte Nora. Ihre Hände waren auf einmal kalt. "Als wäre da draußen gerade etwas fertig geworden."
 
 ---
 
-Um halb sechs stand sie in der Küche und schrieb einen Zettel.
+Um halb sechs schrieb sie einen Zettel, obwohl Mama längst zur Frühschicht war.
 
-Mama hatte Frühschicht und war schon weg. Vor dem Nachmittag würde niemand den Zettel lesen. Nora schrieb ihn trotzdem: *Sind mit Schatten unterwegs. Handy ist an. Nora.*
+*Sind mit Schatten unterwegs. Handy ist an. Nora.*
 
 Theo erschien in der Tür, die Kapuze schon auf, die Augen noch halb zu.
 
@@ -78,23 +92,19 @@ Theo erschien in der Tür, die Kapuze schon auf, die Augen noch halb zu.
 
 "Seit gestern. Mama hatte recht."
 
-"Mama wird denken, du bist krank."
+"Mama wird denken, du bist krank." Er sah sie genauer an. "Hast du überhaupt geschlafen? Danach, mein ich."
 
-Draußen war der Himmel grau, mit einem hellen Streifen im Osten. Die Straßen lagen leer da, als wäre die Stadt heute einfach liegen geblieben. Schatten trabte neben Noras Vorderrad her.
+"Nein."
 
-"Codewort ist wieder Kuchen", sagte Theo, als sie losfuhren.
+"Dann sind wir schon zwei."
 
-"Wir haben ein Codewort für etwas, das wir gar nicht planen."
+Draußen war der Himmel grau und die Straßen leer. Schatten trabte neben Noras Vorderrad her.
 
-"Genau deshalb. Wenn einer Kuchen sagt, drehen wir um. Ohne Diskussion."
+"Codewort ist wieder Kuchen", sagte Theo, als sie losfuhren. "Wenn einer Kuchen sagt, drehen wir um. Ohne Diskussion."
 
 "Dann sagst du es in fünf Minuten."
 
-"Wahrscheinlich. Ich will ja auch ständig umdrehen. Ist ein gutes Codewort. Es passt zu mir."
-
-"Weißt du überhaupt, wo genau wir hinmüssen?"
-
-"Marvin sagt: immer nach Norden, über die Brücke, dann hinter dem alten Gleis." Theo zuckte mit den Schultern, ohne den Lenker loszulassen. "Er sagt, man kann's nicht verfehlen. Das sagen Leute immer, bevor man es verfehlt."
+"Wahrscheinlich. Ist ein gutes Codewort. Es passt zu mir." Er bog vor ihr in die nächste Straße. "Marvin sagt: immer nach Norden, über die Brücke, dann hinter dem alten Gleis. Man kann's nicht verfehlen, sagt er."
 
 Eine Weile hörte man nur die Reifen.
 
@@ -106,15 +116,23 @@ Eine Weile hörte man nur die Reifen.
 
 "Diesmal reicht mir der Satz."
 
+"Und wenn er schon einen hat?"
+
+"Dann sehen wir da auch hin."
+
 Theo sah sie von der Seite an und trat ein bisschen fester in die Pedale.
 
-Sie fuhren durch Straßen, die Nora nur vom Namen kannte. Die Häuser wurden niedriger, die Lücken breiter. Eine Tankstelle ohne Licht, ein Spielplatz hinter einem Bauzaun. Dann wuchs das Gras bis an den Asphalt.
+Die Häuser wurden niedriger und die Lücken breiter, bis das Gras an den Asphalt wuchs. Schatten wurde langsamer. Er hechelte, und das graue Fell an seiner Schnauze schimmerte im ersten Licht. Im Frühjahr wäre er diese Strecke noch gerannt.
 
-Schatten wurde langsamer. Er hechelte, und das graue Fell an seiner Schnauze schimmerte im ersten Licht. Im Frühjahr wäre er diese Strecke noch gerannt.
+Hinter der Brücke hielten sie an, und Theo goss ihm Wasser in die hohle Hand. Schatten trank zwei, drei Züge. Dann hob er den Kopf.
 
-Sie hielten an, damit er aus Theos Trinkflasche trinken konnte.
+Er sah nach Norden. Das Wasser tropfte ihm von der Schnauze, und er merkte es nicht. Seine Ohren standen steil.
 
-"Er wird alt", sagte Theo leise.
+"Was hat er?", fragte Theo.
+
+"Dasselbe wie heute Nacht."
+
+Theo goss den Rest Wasser auf die Straße, langsamer als nötig. "Er wird alt", sagte er leise. Es klang, als wollte er lieber darüber reden als über das andere.
 
 "Er ist alt."
 
@@ -124,31 +142,21 @@ Sie hielten an, damit er aus Theos Trinkflasche trinken konnte.
 
 "Ich weiß." Theo schraubte die Flasche zu. "Ich wollte es nur trotzdem gesagt haben."
 
-Nora kraulte Schatten hinter den Ohren, bis er von selbst weiterwollte.
+Schatten wartete nicht, bis sie aufgestiegen waren. Er lief los, nach Norden, und zog Nora fast vom Sattel.
 
 ---
 
 Die Lagerhallen lagen hinter einem alten Gleis.
 
-"Man kann's nicht verfehlen", murmelte Theo. "Marvin hatte recht. Ausnahmsweise."
-
 Zwischen den Schienen wuchs Unkraut, so hoch wie ein Kind. Dahinter lagen drei lange, flache Hallen mit Rolltoren, braun vor Rost. Über dem mittleren Tor hingen die Reste einer Schrift, von einer Firma, die es nicht mehr gab.
-
-"Siehst du ihn irgendwo?", flüsterte Nora.
-
-"Nein. Und ich guck auch nicht besonders genau."
 
 Links davon begann eine Reihe kleiner Häuser, oder was davon übrig war. Haufen aus Ziegeln und Holz, dazwischen ein gelber Bagger mit gesenkter Schaufel. Nur am Ende der Reihe stand ein Häuschen noch fast ganz. Eine Tür, ein Fenster, ein schiefes Dach.
 
-"Da ist dein Bagger", sagte Theo.
+"Da ist dein Bagger", flüsterte Theo.
 
 "Sehr witzig."
 
 "Ich mein ja nur. Du hast ihn bestellt."
-
-Nora sah zu dem letzten Häuschen hinüber. "Wer da früher gewohnt hat", sagte sie leise. "Danach hat er gefragt."
-
-"In so was?" Theo kniff die Augen zusammen. "Das ist ja kleiner als unser Bad."
 
 Vor dem Bauzaun parkte ein dunkler Kastenwagen.
 
@@ -158,19 +166,29 @@ Ihr Magen zog sich zusammen.
 
 "Der wäscht sein Auto bestimmt jeden Tag", flüsterte Theo. "Wer macht so was?"
 
-"Er ist hier. Irgendwo da drüben."
+"Er ist hier."
 
-"Ja. Das hab ich auch verstanden. Ich wollte nur was Normales sagen."
+"Wo?"
 
-Schatten blieb stehen. Das Fell an seinen Schultern hob sich, Haar für Haar. Dann zog er los, nicht zum Wagen, sondern zum letzten Häuschen. Nora musste sich mit beiden Füßen gegen den Boden stemmen.
+"Weiß ich nicht."
 
-"Natürlich will er da hin", flüsterte Theo. "Er will immer genau dahin, wo man nicht hinwill."
+Sie sahen sich um. Kein Mensch, keine Bewegung. Nur ein Vogel, der von einem Dach aufflog.
 
-"Was sind das für Kästen?", fragte er dann.
+Schatten blieb stehen. Das Fell an seinen Schultern hob sich, Haar für Haar. Dann zog er los, nicht zum Wagen, sondern zum letzten Häuschen.
 
-Neben jedem Rolltor hing ein kleiner, verrosteter Metallkasten. Auf jedem stand eine weiße Nummer. Eins, zwei, drei, die ganze Reihe entlang.
+"Schatten! Hier!" Nora musste sich mit beiden Füßen gegen den Boden stemmen. "Bleib!"
 
-"Briefkästen", sagte Theo. "Für Lagerhallen. Damit sie Post von anderen Lagerhallen kriegen."
+Er blieb. Aber sein Blick klebte an dem Häuschen, und seine Flanken zitterten.
+
+"Wer da früher gewohnt hat", flüsterte Nora. "Danach hat er gefragt."
+
+Theo antwortete nicht. Er starrte auf die Wand der nächsten Halle.
+
+"Was sind das für Kästen?", fragte er schließlich.
+
+Neben jedem Rolltor hing ein kleiner, verrosteter Metallkasten mit einer weißen Nummer.
+
+"Eins, zwei, drei", murmelte Theo. "Die gehen die ganze Reihe lang. Bis zu uns." Seine Stimme klang dünner als sonst. "Briefkästen bestimmt. Für Lagerhallen. Damit sie Post von anderen Lagerhallen kriegen."
 
 "Theo."
 
@@ -181,6 +199,10 @@ Es wurde kalt.
 Nicht langsam, wie wenn eine Wolke vor die Sonne zieht. Von einem Atemzug zum nächsten. Vor Noras Gesicht stand plötzlich eine kleine weiße Wolke.
 
 "Das ist dein Atem", flüsterte Theo. "Wir haben August."
+
+"Bleib bei mir."
+
+"Wo soll ich denn sonst hin?"
 
 Ganz hinten, am ersten Tor, klirrte etwas.
 

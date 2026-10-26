@@ -295,12 +295,22 @@ Schriftreste einer Firma; neben jedem Tor ein verrosteter Metallkasten mit weiß
 Tore in der Reihe, an der die Kinder stehen; das sechste ist das letzte); links die abgerissene
 Häuschen-Reihe mit gelbem Bagger; das letzte Häuschen steht noch (Tür, ein Fenster, schiefes Dach);
 Halders Wagen vor dem Bauzaun. Nora hat im Traum von einem Bagger geredet (Theo-Witz, kein Omen).
+In der Nacht Tag 0→1 bricht Schattens Laut kurz nach Mitternacht ab, er legt sich quer vor die
+Tür — **im Text nicht erklärt; gemeint: Halder stellt in dieser Stunde die Falle im Häuschen fertig.**
+In K3/K4 nicht widersprechen (z. B. Halder sagt nie, er habe das Schloss erst am Morgen eingebaut).
+Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 
 ## DIALOG-BILANZ
 
 | Kap. | Wörter | Dialog | Sätze > 18 W | längster dialogfreier Block | Und-Erzähler /1000 | Kurzabsätze |
 |---|---|---|---|---|---|---|
-| K1 | 1.374 | 34,7 % | 0 | 83 | 2,2 | 4,0 % |
+| K1 | 1.470 | 33,9 % | 0 | 105 | 2,1 | 3,6 % |
+
+**K1 überarbeitet 2026-10-26 (Spannungs-Prüfplan Teil B):** Theo-Witze in der Ankunft von neun auf
+vier gesenkt (Humor nach dem Schreck, nicht davor), Theo verstummt sichtbar; Nachtszene endet mit
+Haken (Schattens Laut bricht ab, „Als wäre da draußen gerade etwas fertig geworden"); Fahrt
+gestrafft, dazu Schatten beim Trinken: Blick nach Norden („Dasselbe wie heute Nacht"); Einsatz
+benannt („Und wenn er ihn heute findet?"); ein Halbsatz zu Halder für Leser mit Pause.
 
 ## STIMMEN-PASS (Phase 4b)
 
