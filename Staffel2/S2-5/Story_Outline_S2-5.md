@@ -251,19 +251,34 @@ Erinnern).
 
 ## AKT 1 — Hinsehen (K1–K4) · Tag 1, Morgengrauen bis Vormittag
 
-### Kapitel 1 – „Am anderen Ende"
-Kurze Brücke zu Tag 0: Theos Entscheidung („Er war heute früh da. Morgen früh ist er wieder da."),
-Nora schläft am Nachmittag ein und wacht mit dem Gefühl auf, schon wieder etwas verpasst zu haben;
-nachts steht Schatten am Fenster. Morgengrauen, Räder, ein Weg durch Stadtteile, die Nora nicht
-kennt. Die Lagerhallen: Rolltore, Rost, daneben eine Reihe halb abgerissener Häuser. Halders
-Kastenwagen steht da, gewienert, leer. **Schatten:** bleibt stehen, Nackenhaare hoch, zieht zu einer
-Ruine. **Humor:** Theos Plan mit Codewort (Echo S2-3), zerfällt an Ort und Stelle.
-**Cliffhanger [BILD]:** Die Rolltore rütteln, eines nach dem anderen, die ganze Reihe entlang auf sie
-zu — und hören direkt vor ihnen auf.
+### Kapitel 1 – „Am anderen Ende" ✅ geschrieben (2026-10-26)
+Setzt eine Sekunde nach dem letzten Satz von S2-4 ein: Nora will sofort los; Theo setzt den Zeitpunkt
+(„Der sucht morgens"), Nora nennt den Einsatz („Und wenn er ihn heute findet?"). Nora schläft bis kurz
+vor Mitternacht (jemand hat ihr eine Decke übergelegt). Schatten am Fenster, Blick nach Norden; **kurz
+nach Mitternacht bricht sein Laut ab, er legt sich quer vor die Tür** — Nora: „Als wäre da draußen
+gerade etwas fertig geworden." (= Halder stellt die Falle fertig; nie ausgesprochen, nie widersprechen.)
+Halb sechs: Zettel für Mama („Seit gestern. Mama hatte recht."). Fahrt nach Norden: Codewort Kuchen;
+**Leitzeile „Dann sehen wir hin." — „Das ist kein Plan. Das ist ein Satz."** (in K8 und K14 aufgreifen);
+hinter der Brücke starrt Schatten beim Trinken nach Norden („Dasselbe wie heute Nacht"), Schatten wird
+alt. Lagerhallen: drei Hallen, Rolltore; halb abgerissene Häuschen-Reihe mit gelbem Bagger (Noras
+Traum — Theo-Witz); das letzte Häuschen steht; Halders Wagen, Halder unsichtbar. **Nummerierte Kästen
+neben den Toren** (fairer Hinweis, „Briefkästen für Lagerhallen"). Theo wird stiller. Kälte, sichtbarer
+Atem. **Cliffhanger [BILD]:** Die Tore rütteln genau nach den Nummern auf sie zu, das sechste direkt
+neben ihnen — es zittert nach, „als hätte es jemand gerade erst losgelassen".
 
-### Kapitel 2 – „Hier hat keiner was verloren"
+### Kapitel 2 – „Hier hat keiner was verloren" ✅ geschrieben (2026-10-26)
+*Ist-Stand:* wie unten, dazu: Wächter sagt „Ich schließ jeden Abend selbst ab", „Dann bewach ich eben
+das Nichts. Irgendwer muss ja.", „Um halb sieben ist Rundgang"; Nora ruft „Auf wen warten Sie?" — keine
+Antwort. Schatten knurrt das Häuschen an. Theo sagt ernsthaft „Kuchen", Nora dreht nicht um („Vor drei
+Tagen hab ich gesagt: Nicht jetzt. Erst Marie."), Theo stellt sich neben sie: „Du schuldest mir einen
+Kuchen. Einen echten." (→ K18).
+*Plan:*
 Der Geist erscheint: laut, abweisend, scheucht sie weg. Nora versucht zuzuhören, er hört nicht.
-Erste Spuren zu seinem alten Haus. Nora prüft nach der Regel aus Band 3: Er antwortet, wenn auch
+Erste Spuren zu seinem alten Haus. **Faire Hinweise auf den Wächter (neu):** Am sechsten Kasten macht
+er eine Handbewegung, als stecke er etwas hinein und drehe es um — er „stempelt" seinen Rundgang ab
+(Theo: „Wie Mama im Krankenhaus"); er spricht von „Schicht", „Tor" und „dem Chef"; an der Häuschentür
+bleibt er stehen und sieht den Weg hinunter, als käme gleich jemand (Ablösung). Er nennt seinen Namen
+**nicht** (der gehört Halder in K14). Nora prüft nach der Regel aus Band 3: Er antwortet, wenn auch
 grob — also kein Echo, ein Geist. **Schatten:** knurrt nicht, winselt — nach Theos System aus S2-4
 („Knurren heißt böse, Winseln heißt traurig") ein erster fairer Hinweis. **Humor:** Theo will sich
 „ordnungsgemäß anmelden".

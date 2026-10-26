@@ -230,6 +230,7 @@ weiß, was wahr ist."
 2. Die Standuhr schlägt — im Juli fand Nora sie „zu genau", heute stimmt sie einfach.
 3. Mia an der Schule; ein kleiner, echter Satz.
 4. Schatten in einem Sonnenfleck. Ein letzter Theo-Satz.
+4a. **Pflicht (aus K2):** Nora löst die Kuchen-Schuld ein — ein echter Kuchen für Theo.
 5. Kein Cliffhanger, kein Staffel-3-Versprechen. **ENDE STAFFEL 2.**
 
 ---

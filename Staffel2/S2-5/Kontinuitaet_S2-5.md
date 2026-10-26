@@ -279,7 +279,7 @@ Marie, Staffel 3.
 
 ## AKT-FORTSCHRITT
 
-- 🔶 Akt 1 — Hinsehen (K1–K4): K1 geschrieben (2026-10-26)
+- 🔶 Akt 1 — Hinsehen (K1–K4): K1, K2 geschrieben (2026-10-26)
 - ⬜ Akt 2 — Fragen (K5–K9)
 - ⬜ Akt 3 — Was er nie gefragt hat (K10–K13)
 - ⬜ Akt 4 — Der letzte Schlüssel (K14–K18)
@@ -289,6 +289,20 @@ Marie, Staffel 3.
 | Kap. | Tag/Zeit | Was im Text steht |
 |---|---|---|
 | K1 | Tag 0, Frühstück → Nachmittag → kurz vor Mitternacht; Tag 1, halb sechs → Morgengrauen bei den Lagerhallen | Theo: „Morgen früh"; Nora schläft bis kurz vor Mitternacht (jemand hat ihr eine Decke übergelegt); Schatten am Fenster nach Norden, Theo sagt „seit einer Stunde"; Zettel um halb sechs (Mama Frühschicht, schon weg); Weg: nach Norden, über die Brücke, hinter dem alten Gleis (Marvin); Kälte, Atem sichtbar „Wir haben August" |
+
+| K2 | Tag 1, ~6.10 Uhr | Der Wächter erscheint durch Tor 6, „stempelt" am Kasten; „Zehn nach sechs. Um halb sieben ist Rundgang."; geht zum letzten Häuschen, wartet an der Tür, verblasst; Halders Stimme hinter den Kindern |
+
+**Neu festgelegt in K2 (ab hier Kanon):** Der Wächter: Arbeitsjacke mit großen Taschen, Mütze tief in
+der Stirn, **runder Lederbehälter an einem Riemen** (seine Kontrolluhr — im Text nie benannt), eine
+Taschenlampe mit vorgeschobenem Schalter, die kein Licht gibt; wo er hinzielt, wird es eiskalt. Seine
+Sätze: „Hier hat keiner was verloren!", „Ab sechs ist abgeschlossen", „Ich schließ jeden Abend selbst
+ab", „Reden könnt ihr mit dem Chef. Tagsüber. Am Haupttor.", „Dann bewach ich eben das Nichts.
+Irgendwer muss ja.", „Es kommt gleich einer. Es kommt immer einer.", „Und morgen will ich euch hier
+nicht sehen." Er nennt **keinen Namen**. Er geht **nicht** ins Häuschen (die Falle!), verblasst vor
+der Tür. **Schatten winselt beim Wächter, knurrt das Häuschen an** („Da drin ist was." — „Aber er
+hasst es."). Nora hat die Echo-Probe gemacht (Uhrzeit). **Theo sagt zum ersten Mal ernsthaft
+„Kuchen", Nora dreht nicht um; Theo stellt sich neben sie: „Du schuldest mir einen Kuchen. Einen
+echten."** → Einlösung im Epilog. Noras Zitat aus S2-4 K4: „Nicht jetzt. Erst Marie." (vor drei Tagen).
 
 **Neu festgelegt in K1 (ab hier Kanon):** drei Hallen mit Rolltoren; über dem mittleren Tor
 Schriftreste einer Firma; neben jedem Tor ein verrosteter Metallkasten mit weißer Nummer (sechs
@@ -305,6 +319,8 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 | Kap. | Wörter | Dialog | Sätze > 18 W | längster dialogfreier Block | Und-Erzähler /1000 | Kurzabsätze |
 |---|---|---|---|---|---|---|
 | K1 | 1.470 | 33,9 % | 0 | 105 | 2,1 | 3,6 % |
+
+| K2 | 1.118 | 32,3 % | 0 | 77 | 0,0 | 4,7 % |
 
 **K1 überarbeitet 2026-10-26 (Spannungs-Prüfplan Teil B):** Theo-Witze in der Ankunft von neun auf
 vier gesenkt (Humor nach dem Schreck, nicht davor), Theo verstummt sichtbar; Nachtszene endet mit

@@ -38,7 +38,7 @@
 | A25 | Mama kennt Halder und hat Frieda gesehen (S2-3 K2, K7) | K5: Mama erkennt Frieda | geplant |
 | A26 | Mia, abgesagt; Angst, wie leicht die nächste Absage fällt (S2-2 K2, K13) | K7 bewusste Absage mit Preis; K18 erster Schultag | geplant |
 | A27 | „Bis es hier auf einmal hell geworden war." (S2-4 K7) · Schlösser schon im August vor der Heilung (S2-1 K8, K16) | K3: Halder erklärt, warum er geblieben ist | geplant |
-| A28 | Theos System: „Knurren heißt böse, Winseln heißt traurig." (S2-4 K3) | K2: Schatten winselt beim wütenden Wächter | geplant |
+| A28 | Theos System: „Knurren heißt böse, Winseln heißt traurig." (S2-4 K3) | K2: Schatten winselt beim wütenden Wächter | ✅ K2 („Er schreit uns an, Theo." — „Ja. Aber traurig."; Schatten knurrt das Häuschen an) |
 | A29 | Halders Wagen, gewienert (S2-3 K5) | K1 an den Lagerhallen | ✅ K1 („das einzige saubere Ding weit und breit") |
 | A30 | Herbert blieb nach dem Öffnen, bis sein Knoten gelöst war (S2-1 K13–K14) | K16: drei bleiben | geplant |
 | A31 | Schatten altert (S2-3 K1, S2-4 K5) | K14–K17: er wird müde | 🔶 K1: hechelt, Pause, „Er wird alt." — „Er ist alt." |
@@ -54,7 +54,9 @@ Clara); Frau Brandt/Jule; Kubiak; die zwölf Markierungen.
 | # | Setup | Payoff | Status |
 |---|---|---|---|
 | B1 | Rolltore rütteln der Reihe nach, wie auf einem Rundgang (K1); „Hier hat keiner was verloren" (K2); optional Kontrollkästen an den Toren | K14: Er ist der Wächter, er braucht seine Ablösung (faires Rätsel, siehe D2) | 🔶 K1 gesetzt: nummerierte Kästen („Briefkästen. Für Lagerhallen."), Tore rütteln „genau nach den Nummern. Ohne Eile. Gründlich." |
-| B2 | Der Wächter „antwortet" (K2, Band-3-Probe: kein Echo) | K9/K14: Man kann mit ihm reden — wenn der Richtige fragt | geplant |
+| B2 | Der Wächter „antwortet" (K2, Band-3-Probe: kein Echo) | K9/K14: Man kann mit ihm reden — wenn der Richtige fragt | 🔶 K2 gesetzt („Wie spät ist es?" — „Zehn nach sechs.") |
+| B15 | **Theos Kuchen-Schuld:** „Du schuldest mir einen Kuchen. Einen echten." (K2), nachdem Nora das Codewort ignoriert | K18: Nora löst sie ein (erster Schultag) — Pflicht, sonst unbezahlt | geplant |
+| B16 | Schatten knurrt das Häuschen an, nicht den Wächter (K2) | K4: die Falle darin, der Rückriss | geplant |
 | B3 | Halder: „Ich weiß, was er braucht." (K3) | K14: Er wusste es nicht; er fragt | geplant |
 | B4 | Der erste Faden, nur weil Halder danebensteht (K4) | K9 kein Faden (Halder fehlt); K10 neunundneunzig; K16 erlöschen | geplant |
 | B5 | Der Wächter: Er redet nur mit dem, der ihn festgemacht hat (K4, K9) | K14 | geplant |
@@ -110,7 +112,8 @@ in Schritt 3 korrigieren.
 | Kap. | Hinweis | Wer kann es erkennen |
 |---|---|---|
 | K1 | Die Tore rütteln **der Reihe nach**, eins nach dem anderen — wie ein Rundgang | Leser |
-| K2 | „Hier hat keiner was verloren!"; Taschenlampe; Arbeitsjacke; er antwortet | Leser, Nora halb |
+| K1 ✅ | Nummerierte Kästen neben jedem Tor; Rütteln „genau nach den Nummern" | Leser |
+| K2 | „Hier hat keiner was verloren!"; Taschenlampe; Arbeitsjacke; er antwortet; **„stempelt" am Kasten** (Theo: „Wie Mama im Krankenhaus"); „Schicht", „Chef"; **sieht an der Häuschentür den Weg hinunter, als käme jemand** | Leser, Nora halb |
 | K3 | Halder: „Wer da früher gewohnt hat" → das Wächterhäuschen | Leser |
 | K4 | Er redet nur mit dem, der ihn festgemacht hat | Nora |
 | K9 | Bruchstücke: die Nacht, in der er starb, kam niemand; er kann nicht weg „ohne dass einer kommt" | Leser kann lösen |
