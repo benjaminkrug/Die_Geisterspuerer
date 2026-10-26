@@ -279,18 +279,28 @@ Marie, Staffel 3.
 
 ## AKT-FORTSCHRITT
 
-- ⬜ Akt 1 — Hinsehen (K1–K4)
+- 🔶 Akt 1 — Hinsehen (K1–K4): K1 geschrieben (2026-10-26)
 - ⬜ Akt 2 — Fragen (K5–K9)
 - ⬜ Akt 3 — Was er nie gefragt hat (K10–K13)
 - ⬜ Akt 4 — Der letzte Schlüssel (K14–K18)
 
 ## ZEITLINIE (Ist)
 
-> Wird beim Schreiben gefüllt.
+| Kap. | Tag/Zeit | Was im Text steht |
+|---|---|---|
+| K1 | Tag 0, Frühstück → Nachmittag → kurz vor Mitternacht; Tag 1, halb sechs → Morgengrauen bei den Lagerhallen | Theo: „Morgen früh"; Nora schläft bis kurz vor Mitternacht (jemand hat ihr eine Decke übergelegt); Schatten am Fenster nach Norden, Theo sagt „seit einer Stunde"; Zettel um halb sechs (Mama Frühschicht, schon weg); Weg: nach Norden, über die Brücke, hinter dem alten Gleis (Marvin); Kälte, Atem sichtbar „Wir haben August" |
+
+**Neu festgelegt in K1 (ab hier Kanon):** drei Hallen mit Rolltoren; über dem mittleren Tor
+Schriftreste einer Firma; neben jedem Tor ein verrosteter Metallkasten mit weißer Nummer (sechs
+Tore in der Reihe, an der die Kinder stehen; das sechste ist das letzte); links die abgerissene
+Häuschen-Reihe mit gelbem Bagger; das letzte Häuschen steht noch (Tür, ein Fenster, schiefes Dach);
+Halders Wagen vor dem Bauzaun. Nora hat im Traum von einem Bagger geredet (Theo-Witz, kein Omen).
 
 ## DIALOG-BILANZ
 
-> Wird beim Schreiben gefüllt (Teil-A-Messung je Kapitel).
+| Kap. | Wörter | Dialog | Sätze > 18 W | längster dialogfreier Block | Und-Erzähler /1000 | Kurzabsätze |
+|---|---|---|---|---|---|---|
+| K1 | 1.374 | 34,7 % | 0 | 83 | 2,2 | 4,0 % |
 
 ## STIMMEN-PASS (Phase 4b)
 

@@ -15,7 +15,7 @@
 | A2 | Halder bei den Lagerhallen, „gehetzt", fragt „wer da früher gewohnt hat", „noch nicht gefunden" (S2-4 K16) | K1–K3: die Häuschen-Reihe, die Falle im Wächterhäuschen | geplant |
 | A3 | Frieda: „Ob's stimmt. Das mit dem Feuer." / „Ich will es wissen." (S2-4 K15) | K5: Sie hat gesucht und gefunden | geplant |
 | A4 | Marie: „Kommt ihr wirklich wieder?" — „Versprochen." (S2-4 K14, K15) | K8: Besuch, nichts verändert sich | geplant |
-| A5 | Mama: „Vor dem Frühstück? Ohne Zettel?" (S2-4 K16) | Nora lässt jedes Mal einen Zettel da; K17 Mama findet ihn | geplant |
+| A5 | Mama: „Vor dem Frühstück? Ohne Zettel?" (S2-4 K16) | Nora lässt jedes Mal einen Zettel da; K17 Mama findet ihn | 🔶 K1: Zettel („Seit gestern. Mama hatte recht.") |
 | A6 | Neunundneunzig in der Werkstatt, „Eine von hundert. Neunundneunzig übrig." (S2-2 K10); nie wieder dort gewesen | K8 ausgesprochen; K10 gesehen; K16 befreit, Theo zählt | geplant |
 | A7 | Frieda: „Kommt nicht wieder." (S2-2 K12; Echo S2-3 K1) | K10: Frieda öffnet ihnen selbst die Tür | geplant |
 | A8 | Frieda: „Das haben andere auch schon gedacht." (S2-2 K12) | K11 oder K17: Sie meinte ihren Vater mit achtzehn | geplant |
@@ -39,9 +39,9 @@
 | A26 | Mia, abgesagt; Angst, wie leicht die nächste Absage fällt (S2-2 K2, K13) | K7 bewusste Absage mit Preis; K18 erster Schultag | geplant |
 | A27 | „Bis es hier auf einmal hell geworden war." (S2-4 K7) · Schlösser schon im August vor der Heilung (S2-1 K8, K16) | K3: Halder erklärt, warum er geblieben ist | geplant |
 | A28 | Theos System: „Knurren heißt böse, Winseln heißt traurig." (S2-4 K3) | K2: Schatten winselt beim wütenden Wächter | geplant |
-| A29 | Halders Wagen, gewienert (S2-3 K5) | K1 an den Lagerhallen | geplant |
+| A29 | Halders Wagen, gewienert (S2-3 K5) | K1 an den Lagerhallen | ✅ K1 („das einzige saubere Ding weit und breit") |
 | A30 | Herbert blieb nach dem Öffnen, bis sein Knoten gelöst war (S2-1 K13–K14) | K16: drei bleiben | geplant |
-| A31 | Schatten altert (S2-3 K1, S2-4 K5) | K14–K17: er wird müde | geplant |
+| A31 | Schatten altert (S2-3 K1, S2-4 K5) | K14–K17: er wird müde | 🔶 K1: hechelt, Pause, „Er wird alt." — „Er ist alt." |
 | A32 | Ende Band 5: „Narben sind dünner als Haut", die Stadt „leuchtet" (Serien_Kanon) | K3 Halders Satz; K18 bleibt offen | geplant |
 
 **Bewusst nicht wieder aufgegriffen:** alle befreiten Geister (Staffel 1, Herbert, Grete, Ilse,
@@ -53,7 +53,7 @@ Clara); Frau Brandt/Jule; Kubiak; die zwölf Markierungen.
 
 | # | Setup | Payoff | Status |
 |---|---|---|---|
-| B1 | Rolltore rütteln der Reihe nach, wie auf einem Rundgang (K1); „Hier hat keiner was verloren" (K2); optional Kontrollkästen an den Toren | K14: Er ist der Wächter, er braucht seine Ablösung (faires Rätsel, siehe D2) | geplant |
+| B1 | Rolltore rütteln der Reihe nach, wie auf einem Rundgang (K1); „Hier hat keiner was verloren" (K2); optional Kontrollkästen an den Toren | K14: Er ist der Wächter, er braucht seine Ablösung (faires Rätsel, siehe D2) | 🔶 K1 gesetzt: nummerierte Kästen („Briefkästen. Für Lagerhallen."), Tore rütteln „genau nach den Nummern. Ohne Eile. Gründlich." |
 | B2 | Der Wächter „antwortet" (K2, Band-3-Probe: kein Echo) | K9/K14: Man kann mit ihm reden — wenn der Richtige fragt | geplant |
 | B3 | Halder: „Ich weiß, was er braucht." (K3) | K14: Er wusste es nicht; er fragt | geplant |
 | B4 | Der erste Faden, nur weil Halder danebensteht (K4) | K9 kein Faden (Halder fehlt); K10 neunundneunzig; K16 erlöschen | geplant |
