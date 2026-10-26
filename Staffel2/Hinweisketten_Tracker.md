@@ -1,157 +1,139 @@
 # Hinweisketten-Tracker — Staffel 2 (staffelweit)
 
-> Angelegt 2026-08-07, vor Beginn der S2-2-Planung (`PLAN_Staffel2.md` Abschnitt 15,
-> Entscheidung #24). Prüft **bandübergreifende** faire Hinweise — anders als die
-> Band-Tracker (`Setup_Payoff_Tracker_S2-N.md`), die nur innerhalb eines Bandes prüfen.
-> Vor jeder neuen S2-Band-Planung lesen UND ergänzen, sobald ein Hinweis gesät wird.
+> Angelegt 2026-08-07 (`PLAN_Staffel2.md` Abschnitt 15, Entscheidung #24). **Neu gefasst
+> 2026-10-26:** Die alte Fassung stammte aus Planungszeiten — sie führte geschriebene Hinweise noch
+> als „geplant" und den noch nicht geschriebenen S2-5 als „umgesetzt", und ihr „Rückwärtsdurchgang
+> vor S2-5" lief gegen Pläne. **Jetzt ist jede Zeile gegen die Bücher geprüft** (Komplett-
+> Manuskripte S2-1 bis S2-4, Zitate wörtlich). Alte Fassung in der Git-Historie.
+>
+> **Status:** ✅ geschrieben (mit Zitat) · 🔶 geplant (S2-5, Verweis auf Outline/Szenenplanung).
 
 ---
 
 ## Zweck
 
-Zwei Enthüllungen der Staffel spannen sich über mehrere Bände (`PLAN_Staffel2.md`
-Abschnitt 6, 9, 12 #24):
-
-1. **Frieda ist Halders Tochter** — unerkannt ab S2-2, enthüllt in S2-3.
-2. **Das Feuer in Halders alter Stadt hatte einen banalen, unabhängigen Grund** — er selbst
-   weiß es nicht, die Kinder/Frieda finden es erst in S2-5.
-
-Beide brauchen wie Band 5s Twists eine **faire Hinweiskette**: genug Spur, dass ein
-aufmerksamer Leser mitgehen kann, ohne dass die Enthüllung vorweggenommen wird. Der
-Unterschied zu Band 5: Die Kette läuft hier über **mehrere Bücher**, nicht über ein Buch —
-deshalb ein eigenes Dokument statt eines Abschnitts im Band-Tracker.
+Prüft **bandübergreifende** faire Hinweise. Die Band-Tracker (`Setup_Payoff_Tracker_S2-N.md`) prüfen
+nur innerhalb eines Bandes. Regel aus Band 5: lieber zu wenig als zu viel andeuten — eine Spur, die
+beim zweiten Lesen auffällt, reicht.
 
 ---
 
-## Kette 1: Frieda ist Halders Tochter
+## Kette 1: Frieda ist Halders Tochter — ✅ abgeschlossen in S2-3
 
-| Band/Kapitel | Hinweis | Status |
+| Band/Kap. | Hinweis | Status |
 |---|---|---|
-| S2-1 | — (Frieda kommt in S2-1 nicht vor, absichtlich, siehe `Setup_Payoff_Tracker_S2-1.md` Abschnitt C) | ✅ bestätigt: kein verfrühter Hinweis |
-| S2-2 K11 | Frieda taucht unerkannt in der Werkstatt auf — Startpunkt der Kette. Nennt nur ihren Vornamen ("Nur Frieda"), weicht bei Nachname/Wohnort/Besitzer/Alter/Inhalt ihrer Tasche aus; Schatten reagiert nicht alarmiert auf sie (Mechanik-Regel S2-2 Punkt 5, im Text durch Noras Beobachtung explizit erklärt, im 2. Durchgang um ein physisches Detail — entspannter Schwanz — verstärkt, ohne die Spur zu vervielfachen). Zusatz-Spur: sie kennt den Ort auffällig gut ("als würde sie jeden einzelnen Gang auswendig kennen") und zeigt einen Anflug von Sorge um die Kinder, bevor sie ihn wegdrückt — fairer früher Hinweis auf ihren späteren Charakter, ohne Verbindung zu Halder zu verraten. ⚠️ Im 2. Durchgang geprüft und bewusst korrigiert: ein ursprünglich zusätzlicher Hinweis über abgenutzte Stiefelsohlen ("als würde sie diesen Boden jeden Tag berühren") hätte dieselbe "kennt den Ort"-Spur verdoppelt — laut Regel reicht eine einzige Spur, deshalb zu einer neutralen Beschreibung ohne Vertrautheits-Implikation geändert. Neue Beschreibungsdetails (Zopf, Stofftasche, schwielige Hände) zeigen Handwerks-Vertrautheit allgemein, ohne werkstattspezifisches Wissen zu verraten | ✅ **geschrieben** |
-| S2-2 K8–K11 | ⚠️ **Präzisiert (2. Durchgang):** Frieda beobachtet die **gesamte** Grete-Befreiung von Anfang an (K8s Cliffhanger „beobachtet, ohne es zu merken" ist sie), ohne einzugreifen — kein bloßes Zuspätkommen, ein bewusster, starker erster Riss in ihrer Überzeugung. Erst beim ZWEITEN Schloss (K12) greift sie ein. Wirkt wie reines Wegscheuchen, ist rückblickend (ab S2-3) ihre erste gezeigte „Schutz"-Handlung, dieselbe verquere Logik wie ihr Vater — aber eben auch die erste Andeutung, dass sie nicht gefühllos zusieht. Fair, weil zum Zeitpunkt des Lesens nicht erkennbar, wessen Logik das ist | geplant (`S2-2/Story_Outline_S2-2.md`) |
-| S2-2 K14 | Theo: „Sie hat nicht gesagt, dass es falsch ist, was wir tun. Nur dass wir nicht verstehen." — deutet ihre Überzeugungslogik an, ohne sie zu erklären. Drei Theorien geprüft und verworfen (Geist, Bewohnerin, Geheimversteck) — eine ursprünglich angedachte vierte ("verwandt mit dem Besitzer") beim Schreiben gestrichen, weil sie der Wahrheit zu nah gekommen wäre | ✅ **geschrieben** |
-| S2-3 K6–K7 | Enthüllung: Theo sieht Frieda vertraut mit Halder (K6), Nora verbindet unabhängig Halders Namen mit den S2-2-Notizen (K3) — beide Fäden laufen in K7 zusammen: „Sie ist seine Tochter." | geplant (`S2-3/Story_Outline_S2-3.md`) |
+| S2-1 | Frieda kommt nicht vor (kein verfrühter Hinweis) | ✅ |
+| S2-2 K11 | Erster Auftritt zwischen den Regalen; „Frieda." — „Frieda und weiter?" — „Nur Frieda."; weicht bei Alter, Wohnort, Besitzer, Tasche aus; „als würde sie jeden einzelnen Gang auswendig kennen"; schwielige Hände, Zopf, Stofftasche; Schatten zeigt keinen Alarm | ✅ |
+| S2-2 K11 | „Wie lange stehst du da schon?" — **keine Antwort**; ihr Blick geht zum Schloss und zur Stelle, wo Grete stand | ✅ ⚠️ siehe Anmerkung |
+| S2-2 K12 | Greift erst beim zweiten Schloss ein (Hand ums Handgelenk); „Weil ihr dann nicht mehr gehen würdet. Und dann müsste ich mich um euch genauso sorgen wie um alle anderen hier drin."; „Kommt nicht wieder." | ✅ |
+| S2-2 K14 | Theo: „Sie hat nicht gesagt, dass es falsch ist, was wir tun. Nur dass wir nicht verstehen." | ✅ |
+| S2-3 K3–K4 | Nora findet den Namen Halder im Gewerberegister und hört ihn von Mama | ✅ |
+| S2-3 K6 | Theo sieht Frieda im Wagen: „Der Zopf. Die Stofftasche … Und die Hände." — „So guckt man jemanden an, den man nicht loswird." | ✅ |
+| S2-3 K7 | Mama: „Eine Tochter." — Theo: „Sie ist seine Tochter." | ✅ Auflösung |
 
-**Noch offen (bei der S2-2-Planung zu entscheiden):** Wie genau Frieda in S2-2 auftritt,
-ohne dass ihre Verbindung zu Halder schon zu erkennbar ist — z. B. darf sie keine
-Details über die Werkstatt wissen, die nur ein Familienmitglied wüsste, aber genug
-Vertrautheit mit dem Ort zeigen, dass ein Altleser/aufmerksamer Neuleser es bei der
-Enthüllung in S2-3 im Rückblick erkennt. **Faire-Hinweis-Regel aus Band 5 übernehmen:**
-lieber zu wenig als zu viel andeuten — eine einzige Spur, die beim zweiten Lesen auffällt,
-reicht.
+⚠️ **Anmerkung:** Die alte Fassung behauptete, S2-2 zeige Frieda „die gesamte Grete-Befreiung von
+Anfang an" beobachtend (geplanter K8-Cliffhanger „beobachtet, ohne es zu merken"). **Geschrieben
+wurde das nicht** — K8 endet mit „Und setzte sie an." Im Buch steht nur die unbeantwortete Frage in
+K11. In S2-3 K7 behauptet Theo: „Sie hat die ganze Zeit zugesehen und nichts gemacht." Das ist als
+**Theos Vermutung** vertretbar (er sah sie gleich danach dastehen), sollte in S2-5 aber nicht als
+Tatsache weiterverwendet werden.
 
 ---
 
-## Kette 2: Das Feuer hatte einen banalen Grund
+## Kette 2: Das Feuer war nicht seine Schuld — 🔶 Auflösung in S2-5
 
-| Band/Kapitel | Hinweis | Status |
+**Die Enthüllung:** Das Feuer brannte schon, bevor Halder anfing, und begann woanders. Die
+**Ursache** bleibt unbenannt (Serien-Entscheidung).
+
+| Band/Kap. | Hinweis (wörtlich) | Wirkung | Status |
+|---|---|---|---|
+| S2-1, S2-2 | — | kein verfrühter Hinweis | ✅ |
+| S2-3 K1 | Brandnarbe auf Halders rechtem Handrücken, „als hätte einmal etwas sehr Heißes dort gelegen" | Rätsel gesetzt | ✅ |
+| S2-3 K11 | Ilse: „In der Nacht, als es gebrannt hat, da —" / Halder unterbricht. Nora verbindet Narbe und Feuer | Feuer eingeführt, Halder lenkt ab | ✅ |
+| S2-3 K12 | „Ich war nicht dort, als es anfing. Ich habe die Straße erst am Morgen gesehen." | **Fairster Hinweis:** Er kann nicht wissen, wann und wo es anfing | ✅ |
+| S2-3 K12 | „Zuerst in seinem Haus, dann in den Häusern daneben." | Halders Version der Reihenfolge — genau die wird widerlegt | ✅ |
+| S2-3 K12 | „Man hat mir gesagt, es sei Zufall gewesen. Ein alter Ofen. Ein Kurzschluss. Irgendetwas Banales." | Ursachen-Erklärungen kennt er, hat sie verworfen → der Beweis in S2-5 muss die **Reihenfolge** betreffen, nicht die Ursache | ✅ |
+| S2-3 K12 | „Für andere ist das vielleicht kein Beweis. Für mich war es dreißig Jahre lang genug." | Er weiß, dass es kein Beweis ist | ✅ |
+| S2-3 K12 | Nora: „Ein Beweis schlägt keine Überzeugung, Theo." | Thesensatz — S2-5 muss ihn beantworten (Beweis **und** Erlebnis) | ✅ |
+| S2-3 K13 | Ilse: „Dasselbe Feuer, ja. Aber nicht dieselbe Geschichte. Seine ist seine." | Zweifel an seiner Sicht, nicht an der Tatsache | ✅ |
+| S2-3 K13/K15 | Ilse: „Er hat mich nie gefragt, ob ich bleiben will." | Zweifel an seinem Recht zu binden | ✅ |
+| S2-4 K11 | Frieda: „Der Geist, den er zu früh gehen ließ. Das Feuer, das direkt danach ausbrach." — „Ich habe ihn nie gefragt, ob es stimmt. Ich habe es einfach geglaubt." | Erster Zweifel an der Prüfung, nur bei Frieda | ✅ |
+| S2-4 K15 | Frieda: „Ob's stimmt. Das mit dem Feuer. Ob er wirklich keine andere Wahl hatte, oder ob er's sich nur so zurechtgelegt hat …" — „Ich will es wissen." | Entschluss zu prüfen | ✅ |
+| S2-5 K5–K6 | Der ungeöffnete Brief der Feuerwehr Weißenbrück: Alarm 23.20 Uhr, Ausbruch mehrere Straßen entfernt; „als es zwölf schlug" | harter Beleg | 🔶 |
+| S2-5 K11–K12 | Halders Reiseuhr auf zwölf; er rechnet nach: vierzig Minuten | Auflösung | 🔶 |
+| S2-5 K12 | Narbe: die heiße Klinke am Morgen danach | Kette 4 schließt mit | 🔶 |
+
+**Rückwärtsdurchgang vor S2-5 — gegen die Texte (2026-10-26):** Die Kette hält. Ab S2-3 K12 kann ein
+aufmerksamer Leser ahnen, dass Halder die Reihenfolge nie kennen konnte; keine Stufe nimmt die
+Auflösung vorweg. Ilses „nicht dieselbe Geschichte" berührt die Sicht, nicht die Tatsache — die
+Trennung „Zweifel am Recht" / „Zweifel an der Tatsache" ist eingehalten.
+**Neu erkannt:** Halders eigenes Wissen um die banalen Erklärungen (S2-3 K12) schließt einen
+Ursachen-Beweis als Wende aus — darum zeigt S2-5 Zeit und Ort. Die alte Fassung kannte diesen
+Satz nicht.
+
+---
+
+## Kette 3: Die Schlosser-Spur — ✅ abgeschlossen in S2-3
+
+| Band/Kap. | Hinweis | Status |
 |---|---|---|
-| S2-1 bis S2-2 | — (Halders Vergangenheit ist noch kein Thema) | ✅ bestätigt: kein verfrühter Hinweis |
-| S2-3 K12 | ✅ **Umgesetzt:** Halder erzählt vom Feuer als gefestigte, nie hinterfragte Überzeugung (Mechanik-Prüfung S2-3, Punkt 6) — Nora erkennt in K12: „Er lügt nicht. Er glaubt das wirklich." Kein Zweifel von ihm selbst gesät, wie gefordert | geplant (`S2-3/Story_Outline_S2-3.md`) |
-| S2-3 K13 | Ilses eigene, abweichende Version der Geschichte ("Er hat mich nie gefragt, ob ich bleiben will") — erster, indirekter Riss in Halders Version, ohne dass die Wahrheit übers Feuer selbst schon infrage steht | geplant (`S2-3/Story_Outline_S2-3.md`) |
-| S2-4 K11 | ✅ **Umgesetzt:** Frieda, nachdem Nora ihr knapp erzählt hat, dass Clara längst befreit ist und Marie zu spät kam (nicht durch eigenes Miterleben der Wahrheits-Szene — die findet erst in K13 statt, danach): „Ich habe ihn nie gefragt, ob es stimmt. Ich habe es einfach geglaubt." Erster Zweifel-Hinweis der Kette, explizit nur bei Frieda — kein Zweifel an der Tatsachenbehauptung übers Feuer selbst, nur daran, dass sie sie nie geprüft hat (hält die S2-3-Präzisierung oben ein). ⚠️ **Korrigiert (2026-09-23):** Diese Zeile beschrieb den Auslöser bisher falsch als „nachdem sie Maries Wahrheits-Szene mit ansieht" — das ist K13, chronologisch NACH K11, kann also nicht der Auslöser für K11 sein. Tatsächlicher Auslöser laut `S2-4/Manuskript/Kapitel_11.md`: Noras mündlicher Bericht plus die allgemeine Erkenntnis, dass selbst die Kinder nicht jeden Fall lösen können | fertig (`S2-4/Manuskript/Kapitel_11.md`) |
-| S2-5 K3–K4 | ✅ **Umgesetzt:** Frieda verschafft sich mit ihrem eigenen Werkstatt-Schlüssel Zugang zu einer bisher tabuisierten Schublade und findet Zeitungsausschnitte/Feuerwehrbericht. ⚠️ **Wichtige Leitplanke:** Die konkrete Brandursache bleibt bewusst unbenannt (`PLAN_Staffel2.md` Abschnitt 6, „absichtlich unklar") — gezeigt wird nur, dass Ort und Zeitpunkt nicht zu Halders eigener Erinnerung passen, nicht was stattdessen geschah | geplant (`S2-5/Story_Outline_S2-5.md`) |
-
-**Wichtig (Lehre aus Band 5, Abschnitt „Faire-Hinweis-Ketten"):** Die Kette darf nicht zu
-früh zu viel Zweifel an Halders Version säen — sonst wirkt S2-5s Enthüllung nicht wie ein
-Fund, sondern wie eine erwartete Bestätigung. Der Zweifel sollte fast ausschließlich bei
-**Frieda** liegen (sie hat nie nachgeprüft), nicht bei Nora/Theo, die die Geschichte gar
-nicht kennen, bis Halder sie erzählt.
-
-⚠️ **Präzisierung nach Rückwärtslesen der Kette (2026-08-07):** Ilses Dissens in S2-3 K13
-("Er hat mich nie gefragt, ob ich bleiben will") ist **Zweifel an seinem Recht, zu binden**
-— nicht Zweifel an der **Tatsachenbehauptung** über das Feuer selbst. Diese zwei Ebenen beim
-Schreiben von S2-3/S2-4 sauber auseinanderhalten: Ilse darf sein Handeln infrage stellen,
-aber niemand außer Frieda (ab S2-4/S2-5) darf andeuten, dass die Geschichte vom Feuer selbst
-möglicherweise falsch/unvollständig ist. Sonst würde K13 versehentlich schon einen Hinweis
-Richtung Kette-2-Auflösung setzen, den nur Frieda setzen soll.
+| S2-1 K6 | Der Schrank: kein sichtbares Schloss, kein Griff, kein Schlüsselloch | ✅ |
+| S2-1 K8 | Kubiak: „Im August. Letztes Jahr im August." Ein Schlosser baute im ganzen Haus Schlösser ein, auch in leeren Wohnungen — ohne Namen, ohne Beschreibung | ✅ |
+| S2-1 K10 | „Und der eine, der passt?" — „Der ist bei dem, der das gebaut hat." | ✅ (lebt in Kette 4 weiter) |
+| S2-1 K15 | Prägung im Schloss = Zeichen in der Schranktür: „Einmal geritzt, damit man es findet. Einmal geprägt, damit man weiß, von wem es ist." | ✅ |
+| S2-1 K16 | Theos Liste: August Schlosser → November Brandts → Januar es fängt an. „Wie eine Falle im Wald." | ✅ |
+| S2-2 K1–K2 | Das Zeichen ist von Hand gemacht; Gewerberegister: Uhrmacher- und Schlosserwerkstatt, „Betrieb eingestellt" | ✅ |
+| S2-2 K4–K6 | Dutzende gleicher Schlösser in der Werkstatt | ✅ |
+| S2-3 K3–K5 | Der Name aus dem Register = der Handwerker in der Wohnung; das halbfertige Schloss auf seinem Tuch; der Wagen mit der Aufschrift | ✅ |
+| S2-3 K4 | Theo: „Der Schlosser aus dem ersten Fall. Die Hand hinter der Werkstatt. Der Mann, der bei uns den Flurschrank repariert hat. Alles derselbe." | ✅ Auflösung |
 
 ---
 
-## Vollständiger Rückwärtsdurchgang — nachgeholt (2026-08-07)
+## Kette 4: Halders Uhr und der letzte Schlüssel — 🔶 Auflösung in S2-5 (neu 2026-10-26)
 
-> Die eigene Regel unten verlangt einen Rückwärts-Durchgang „vor S2-3" — das war beim
-> eigentlichen Planen von S2-3 nicht als eigener, expliziter Schritt durchgeführt worden,
-> nur implizit mitgedacht. Hier nachgeholt, im Rahmen der Gesamt-Konsistenzprüfung über
-> Staffel 2: Beide Ketten von vorn nach hinten gelesen (Kette 1: S2-1 → S2-2 K11 → K8–K11 →
-> K14 → S2-3 K6–K7; Kette 2: S2-1/S2-2 → S2-3 K12 → K13). **Ergebnis: beide Ketten halten,
-> kein Hinweis nimmt seine Enthüllung vorweg.** Einzige gefundene Unschärfe: die Ilse/K13-
-> Präzisierung oben. Kein weiterer Befund.
+**Die Enthüllung:** Die Reiseuhr auf zwölf ist Halders eigene; er hat sie in der Minute angehalten,
+in der er in Weißenbrück anfing. Ihr Aufzugsschlüssel ist der letzte Schlüssel.
 
----
-
-## Vollständiger Rückwärtsdurchgang vor S2-5 — durchgeführt (2026-08-07)
-
-> Kette 2 löst sich in S2-5 auf — Pflicht-Check laut „Regeln für die Pflege" unten. Kette von
-> vorn nach hinten gelesen: S2-1/S2-2 (kein Hinweis) → S2-3 K12 (Überzeugung etabliert) →
-> S2-3 K13 (Ilses Dissens, nur sein Recht zu binden) → S2-4 K11 (Friedas erster Zweifel an
-> der Prüfung, nicht der Tatsache) → S2-5 K3–K4 (Beleg gefunden) → S2-5 K10–K14
-> (Konfrontation, Auflösung). Vollständige Tabelle in
-> `S2-5/Setup_Payoff_Tracker_S2-5.md` Abschnitt D. **Ergebnis: Kette hält lückenlos über
-> drei Bände, jede Eskalationsstufe plausibel bei der jeweiligen Figur, keine Stufe nimmt
-> die nächste vorweg.** Kein weiterer Befund. **Kette 2 damit vollständig abgeschlossen.**
-
----
-
-## Kette 3: Halders Handwerk — die Schlosser-Spur
-
-> ⚠️ **Nachgetragen 2026-08-07, nach dem Schreiben von S2-1 K8.** Diese Kette fehlte hier,
-> obwohl `Setup_Payoff_Tracker_S2-1.md` Abschnitt C sie ausdrücklich als staffelweiten Faden
-> auswies („gehören in den staffelweiten Tracker, sobald der angelegt ist"). Der Tracker war
-> inzwischen angelegt, der Übertrag aber nie erfolgt — **erster tatsächlich geschriebener
-> Staffel-Hinweis wäre so ungetrackt geblieben.**
-
-**Die Enthüllung, die vorbereitet wird:** Der Mensch, der Geister bindet, ist von Beruf
-Schlosser/Handwerker — das ist seine Tarnung und zugleich der Grund, warum er überall
-legalen Zugang hat. Volle Zuordnung zu Halder erst S2-3.
-
-| Band/Kapitel | Hinweis | Status |
+| Band/Kap. | Hinweis (wörtlich) | Status |
 |---|---|---|
-| S2-1 K6 | Der Schrank hat kein sichtbares Schloss, keinen Griff, kein Schlüsselloch — handwerklich auffällig, aber noch ohne Deutung | ✅ **geschrieben** |
-| S2-1 K8 | Hausmeister Kubiak erinnert sich an **„einen Schlosser"**, der im August zwei Tage lang im ganzen Haus Sicherheitsschlösser einbaute, auch in leerstehenden Wohnungen. ⚠️ **Bewusst ohne Name und ohne Beschreibung** (Kanon-Regel: Halder darf in S2-1 nirgends auftauchen). Schatten reagiert auf Stichwort + Werkstattheft — zeigt: ein *Mensch* ist im Spiel, kein Geist | ✅ **geschrieben** |
-| S2-1 K15 | Das geöffnete Schloss ist erkennbar **gefertigt**, kein Zufallsprodukt — Beweisstück, das die Kinder behalten | ✅ **geschrieben** — dazu neu: das Schloss trägt eine **Prägung** desselben Zeichens, das in die Schranktür geritzt war. Macht die Handschrift des Täters greifbar, **ohne** zu verraten, dass es viele gibt |
-| S2-1 K16 | Season-Hook: „Jemand hat das gebaut … Und wenn er das einmal gemacht hat —" / „Warum sollte er dann aufhören?" Die Frage bleibt **unbeantwortet** | ✅ **geschrieben** |
-| S2-2 | Dutzende **identischer** Schlösser in der Werkstatt — dieselbe Hand, industrielle Menge | ✅ **geschrieben** (K4–K9) |
-| S2-3 | Rückblick-Erkenntnis: Der „Schlosser" aus S2-1 K8 war Halder. Der Beruf war nie eine Tarnung *für* die Tat — er ist die Tat | geplant (`S2-3/Story_Outline_S2-3.md`) |
+| S2-1 K10 | „Der ist bei dem, der das gebaut hat." | ✅ |
+| S2-2 K5 | Etikett mit dreistelliger Zahl, „daneben ein winziges Häkchen, mit Bleistift nachgezogen, als hätte jemand es immer wieder aufgefrischt" | ✅ |
+| S2-2 K6 | „Ganz am Rand der Wand hing eine winzige Reiseuhr … Die Zeiger standen exakt auf zwölf, beide übereinander, reglos wie festgefroren. Darunter ein winziges, kaum lesbares Etikett" | ✅ |
+| S2-2 K6 | „Ich glaube, jede Uhr gehört zu einem bestimmten Schloss." | ✅ |
+| S2-3 K2 | Halder: „Solche Uhren vergessen nichts. Man muss ihnen nur zuhören." | ✅ |
+| S2-3 K12 | Halder „wie jemand, der eine Rechnung zum hundertsten Mal nachprüft" | ✅ |
+| S2-5 K6 | „Er sagt immer: als es zwölf schlug." — Frieda: „Seine. Die darf keiner anfassen." | 🔶 |
+| S2-5 K13 | Die dünne Kette am Hals — „Nichts." | 🔶 |
+| S2-5 K14–K15 | Der Schlüssel; Aufziehen | 🔶 Auflösung |
 
-**Fairness-Prüfung (tatsächlich durchgeführt, nicht behauptet):** Ein Leser bekommt in
-S2-1 genau zwei Bausteine — *jemand mit legalem Zugang hat vorher an allen Schlössern
-gearbeitet* und *der Zeitpunkt liegt vor jedem denkbaren Anlass*. Beides reicht für die
-S2-1-Schlusserkenntnis („jemand tut das absichtlich"), aber **nicht**, um auf eine konkrete
-Person zu schließen — es gibt keine. Das ist die richtige Dosis: die Spur trägt, ohne S2-3
-vorwegzunehmen.
-
-⚠️ **Leitplanke für S2-2/S2-3:** Der Begriff „Schlosser" darf bis zur Enthüllung **nicht**
-mit einem Namen oder einer Personenbeschreibung zusammengebracht werden. Sobald eine Figur
-den Beruf und eine Person im selben Satz nennt, ist die Pointe verbraucht.
+**Fairness:** Die Uhr ist seit S2-2 sichtbar und unerklärt; ein Leser kann sie mit „zwölf" erst ab
+S2-5 K6 verbinden. Das ist gewollt: Die Uhrzeit fällt in S2-3 nicht, damit die Verbindung nicht zu
+früh möglich ist. ⚠️ S2-5 darf die Uhr vor K6 nicht erwähnen (sonst verbraucht).
 
 ---
+
+## Kette 5: Die Brandnarbe — 🔶 Auflösung in S2-5 (neu 2026-10-26)
+
+| Band/Kap. | Hinweis | Status |
+|---|---|---|
+| S2-3 K1 | Narbe auf dem rechten Handrücken; „Nora sagte nichts dazu. Sie wusste selbst nicht, warum nicht." | ✅ |
+| S2-3 K11 | Nora verbindet Narbe und „eine Nacht, in der es gebrannt hat"; Halder zieht den Ärmel nicht herunter | ✅ |
+| S2-3 K12 | „Ich war nicht dort, als es anfing." (Die Narbe kann also nicht vom Ausbruch stammen) | ✅ |
+| S2-4 K4 | Nora denkt: „Ein Mann mit einer Brandnarbe an der Hand." | ✅ |
+| S2-5 K4 | Halders Hand unruhig, als er geht | 🔶 |
+| S2-5 K12 | Die heiße Klinke am Haus des Geistes, am Morgen danach (Autorentscheidung 26.10.) | 🔶 Auflösung |
+
+---
+
+## Geltungsbereich
+
+Diese Ketten verfolgen nur den **Staffel-Bogen**. Das Rätsel innerhalb eines Bandes steht im
+jeweiligen Band-Tracker — für S2-5: `S2-5/Setup_Payoff_Tracker_S2-5.md` Abschnitt D2 (was braucht
+der Wächter?). Wer nur diese Datei prüft, hat den Band nicht fair geprüft.
 
 ## Regeln für die Pflege
 
-- Jede S2-Band-Planung (ab S2-2) prüft diese Datei **vor** der eigenen Mechanik-Prüfung.
-- Jeder neu gepflanzte Hinweis wird hier sofort ergänzt, mit Band/Kapitel-Referenz.
-- Vor S2-3 und vor S2-5 (den beiden Enthüllungs-Bänden): **vollständige Kette rückwärts
-  lesen**, wie bei Band 5s eigener Vorab-Kontrolle — prüfen, ob genug Spur liegt, ohne dass
-  ein Hinweis die Pointe vorwegnimmt.
-- Kein Eintrag als „geprüft" markieren, ohne die Prüfung tatsächlich durchzuführen (Regel
-  aus `Serien_Kanon.md` Abschnitt 6 — siehe auch die Korrektur in
-  `Setup_Payoff_Tracker_S2-1.md` Abschnitt D).
-
----
-
-## ⚠️ Geltungsbereich — was dieser Tracker NICHT abdeckt (2026-08-08)
-
-Die Ketten 1–3 verfolgen ausschließlich den **Staffel-Bogen** (Halder / die Schlosser-Spur
-/ Frieda). Das **Rätsel innerhalb eines einzelnen Bandes** — warum Zuhören bei diesem
-Geist nicht reicht und wie die Kinder es lösen — steht hier nicht.
-
-Für **S2-1** ist dieser bandinterne Fair-Play-Durchgang nachgeholt und dokumentiert in
-[`S2-1/Kontinuitaet_S2-1.md`](S2-1/Kontinuitaet_S2-1.md), Abschnitt
-„LOGIK-PRÜFPLAN DURCHGANG C — FAIR PLAY": sechs Auflösungen, alle Hinweise mit
-Kapitelnummer, Ergebnis 0 🔴 · 0 🟠 · 1 🟡.
-
-**Regel für S2-2 bis S2-5:** Durchgang C zweimal fahren — einmal hier für den
-Staffel-Bogen, einmal in der Kontinuitäts-Datei des Bandes für dessen eigenes Rätsel.
-Wer nur diesen Tracker prüft, hält den Band für fair geprüft, ohne dass er es ist.
+- Jeder neu geschriebene Hinweis wird hier **mit Zitat** eingetragen, sobald das Kapitel steht.
+- Status ✅ nur mit Zitat aus dem Buch, nie aus einem Plan (Lehre aus der alten Fassung).
+- Nach S2-5: die 🔶-Zeilen gegen den Text prüfen und auf ✅ setzen; abweichende Formulierungen
+  übernehmen.

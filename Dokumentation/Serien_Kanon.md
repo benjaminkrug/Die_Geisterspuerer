@@ -401,10 +401,13 @@ sondern nur die Aussage: Was Muster finden können, ist gefunden.
 | Was | Wo es steht |
 |---|---|
 | S2-1-Figuren, -Daten, -Eigennamen (Herbert Lenz, Frau Brandt, Herr Kubiak, Schrankzimmer, Zeitangaben) | `Staffel2/S2-1/Kontinuitaet_S2-1.md`, Abschnitt „EIGENNAMEN & FAKTEN" |
-| Staffel-Bogen, Antagonist, Figurenentwicklung | `Staffel2/PLAN_Staffel2.md` |
-| Bandübergreifende Hinweisketten | `Staffel2/Hinweisketten_Tracker.md` |
+| S2-2 bis S2-4 (Grete, Werkstatt, Frieda; Halder, Ilse, Weißenbrück; Marie, Clara) | `Staffel2/S2-2/` bis `S2-4/Kontinuitaet_S2-N.md` |
+| **Stand Ende S2-4, gegen die Bücher geprüft** (Figuren, Orte, Regeln der Bindung, Zeitlinie) | `Staffel2/S2-5/Kontinuitaet_S2-5.md` — die aktuellste Zusammenfassung der Staffel |
+| Staffel-Bogen, Antagonist, Figurenentwicklung | `Staffel2/PLAN_Staffel2.md` (Stand oben im Dokument) |
+| Bandübergreifende Hinweisketten | `Staffel2/Hinweisketten_Tracker.md` (am 26.10. gegen die Bücher neu gefasst) |
 
-**Stand:** S2-1 „Der Gast, der blieb" — Kapitel 1–8 geschrieben (Akt 1 + Akt 2).
+**Stand (2026-10-26):** S2-1 bis S2-4 geschrieben (S2-1 und S2-2 live). S2-5 in Planung, Phase 1–3
+neu gefasst.
 
 **Was Staffel 2 am Band-1–5-Kanon tatsächlich verändert hat:**
 
@@ -416,6 +419,20 @@ sondern nur die Aussage: Was Muster finden können, ist gefunden.
 3. **Nichts widerrufen.** Kein Band-1–5-Fakt wurde umgeschrieben. Schatten bleibt der
    normale, alternde Hund aus Band 5; die Karte bleibt fertig in der Schublade; befreite
    Geister bleiben befreit.
+4. **Die Leuchtturm-Narbe wirkt:** Nach der Heilung können Tote von außerhalb die Stadt
+   erreichen — im Text bisher nur einmal ausgesprochen: „Bis es hier auf einmal hell geworden
+   war." (S2-4 K7, Marie). S2-5 lässt Halder es erklären.
+5. **Neue Bindungsregeln** (S2-1 bis S2-3): Schlösser als vorab gestellte Falle; ein Schloss geht
+   auf, wenn der Knoten des Geistes sich löst; ein geöffneter Geist kann trotzdem bleiben
+   (Herbert); Bindung auch ohne Schloss durch Festhalten (Ilse). Übersicht:
+   `Staffel2/S2-5/Kontinuitaet_S2-5.md`, „Die Regeln der Bindung".
+6. **Erster Fall ohne Lösung:** Marie (S2-4) — was sie hält, ist Schuld, die nur die längst
+   gegangene Clara lösen könnte.
+7. ⚠️ **Kanonfalle für jeden neuen Geist ab Staffel 2:** Wer **vor** dem Ende von Band 5 in
+   Gravenstedt starb und noch als Geist da wäre, müsste auf Silbers Karte stehen (die Karte ist
+   exakt) oder wäre in Band 5 mitgegangen. Neue Gravenstedter Geister also **nach** Band 5
+   sterben lassen (so der Wächter Konrad, S2-5) oder von außerhalb kommen lassen. Offener
+   Altfall: Grete (S2-2) starb am Lagerhaus — Todeszeit im Buch ungenannt, nicht aufrühren.
 
 ---
 

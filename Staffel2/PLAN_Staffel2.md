@@ -28,6 +28,24 @@
 > — Kapitel 1–8, ~7.900 Wörter. Beide Akte haben zusätzlich eine kritische Stimmen-/
 > Strukturprüfung durchlaufen (Befunde und Korrekturen: `S2-1/Kontinuitaet_S2-1.md`,
 > `S2-1/Cliffhanger_Register_S2-1.md`). Nächster Schreibschritt ist Akt 3 (K9–K12).
+>
+> ### ★★ STAND 2026-10-26 — gilt vor allem darüber
+>
+> | Band | Text | Markt |
+> |---|---|---|
+> | S2-1 Der Gast, der blieb | fertig, 16 Kap., ~16.900 W | live |
+> | S2-2 Die Uhr, die rückwärts läuft | fertig, 16 Kap., ~13.450 W, 82 S. | live |
+> | S2-3 Die Frau, die niemand gehen ließ | fertig, 16 Kap., ~17.300 W | keine ASIN |
+> | S2-4 Der Park, der nicht vergisst | fertig, logisch überarbeitet 25./26.10. (`S2-4/Fundliste_S2-4_Logik.md`), 18.535 W, 97 S. | noch nicht hochgeladen; Widmung/Epigraph fehlen (Autor) |
+> | S2-5 Der letzte Schlüssel | **Planung neu gefasst 26.10.**, Phase 1–3 fertig, Phase 4 (Schreiben) kann starten | — |
+>
+> **S2-5:** Die Planung vom 07.08. entstand vor S2-2–S2-4 und widersprach den Büchern an sechs
+> tragenden Stellen (`S2-5/Fundliste_S2-5_Planung.md`). Neufassung nach Autorentscheidungen vom
+> 26.10.: Anfang am Morgen nach S2-4 · eigener Fall (der Wächter Konrad bei den Lagerhallen) ·
+> Halders Wende = Beweis (ungeöffneter Feuerwehr-Brief) **und** Erlebnis (er fragt Konrad) · **kein
+> Hauptschlüssel**: der letzte Schlüssel zieht Halders eigene Reiseuhr auf · Marie: kurzer Besuch ·
+> der Geist von Weißenbrück ging damals wirklich · Narbe = heiße Klinke. **Gültig sind die Dateien in
+> `S2-5/`, nicht die S2-5-Abschnitte weiter unten in diesem Dokument.**
 
 ---
 
@@ -303,7 +321,7 @@ verschwand – jemand arbeitete gegen sie".)
 | **S2-2** | „Die Uhr, die rückwärts läuft" | Die Spur führt zu einer alten Uhrmacher-/Schlosserwerkstatt — ein „Sammel-Knoten" mit *vielen* gebundenen Geistern. Schatten reagiert erstmals überwältigt (mehrere Präsenzen zugleich). Die Kinder begreifen: Es gibt einen Gegen-Hüter, und Schloss-für-Schloss-Befreien skaliert nicht. Ein unbekanntes Mädchen (Frieda, unerkannt) taucht am Ort auf. | 6–7/10 |
 | **S2-3** | „Die Frau, die niemand gehen ließ" | Der Antagonist wird persönlich — nutzt seine Handwerker-Tarnung für legitimen Zugang zur Familie (Dread durch Nähe, nicht Gewalt). Zeigt den Kindern einen gebundenen Geist als „Beweis" seiner Überzeugung. Doppel-Enthüllung: wer er ist (Anton Halder) — **und** dass Frieda seine Tochter ist. | 7–8/10 |
 | **S2-4** | „Der Park, der nicht vergisst" | Der dunkelste Band, aus zwei unabhängigen Quellen: (1) ein Geist, den die Kinder mit der *richtigen* Methode trotzdem nicht retten können — ein echter, kanonbegründeter Grenzfall, bewusst **nicht** Halders Werk, damit „Empathie reicht nicht immer" nicht zur Ausrede wird; (2) Halder fängt parallel einen weiteren Geist ab. Nora zweifelt an der Rolle, Friedas Loyalität gerät ins Wanken. | 8/10 |
-| **S2-5** (Finale) | „Der letzte Schlüssel" | Rückkehr zur Werkstatt aus S2-2. Frieda findet in Halders eigenen, jahrzehntelang gehorteten Unterlagen den Beweis, dass das Feuer einen banalen, unabhängigen Grund hatte — sie, nicht die Kinder, bringt ihn zur Konfrontation mit der Wahrheit. Er öffnet die Werkstatt selbst; alle dort gebundenen Geister werden frei. Sein weiteres Schicksal bleibt bewusst offen (möglicher Staffel-3-Faden). | 8–9/10 |
+| **S2-5** (Finale) | „Der letzte Schlüssel" | ⚠️ *Neu gefasst 26.10., siehe Stand oben.* Rückkehr zur Werkstatt aus S2-2. Frieda findet in Halders eigenen, jahrzehntelang gehorteten Unterlagen den Beweis, dass das Feuer einen banalen, unabhängigen Grund hatte — sie, nicht die Kinder, bringt ihn zur Konfrontation mit der Wahrheit. Er öffnet die Werkstatt selbst; alle dort gebundenen Geister werden frei. Sein weiteres Schicksal bleibt bewusst offen (möglicher Staffel-3-Faden). | 8–9/10 |
 
 ### ★ S2-1 — Konzept bestätigt (2026-08-07)
 
@@ -443,6 +461,10 @@ angezogenen Geist ab. Friedas Loyalität gerät ins Wanken (noch keine endgülti
 Entscheidung, das ist S2-5).
 
 ### ★ S2-5 — Konzept bestätigt (2026-08-07)
+
+> ⚠️ **Überholt am 2026-10-26** — Mechanik (Hauptschlüssel, Zeitsprung, „er hat sich die Fakten 30
+> Jahre nicht angesehen", Marie unerwähnt) widerspricht S2-1 bis S2-4. Gültig:
+> `S2-5/Story_Outline_S2-5.md` (Neufassung). Dieser Abschnitt bleibt als Entstehungsgeschichte.
 
 **Arbeitstitel: „Der letzte Schlüssel"**
 Passt doppelt: wörtlich (der Schlüssel zur Werkstatt aus S2-2) und übertragen (der letzte
@@ -723,7 +745,8 @@ die Staffel 2 später abholt.
 | 12 | Wie S2-1 endet | **Physischer Anker (ein Schloss)**, den die Kinder finden und öffnen — Geist wird befreit, größere Erkenntnis bleibt offen | Bewahrt das Staffel-1-Muster „jeder Band schließt seinen Fall" gerade im wichtigsten (freien) Einstiegsband; erklärt zugleich, warum die Lösung nicht auf die ganze Staffel skaliert |
 | 13 | Titel-Zuordnung S2-2 bis S2-5 | „Die Uhr, die rückwärts läuft" (S2-2) · „Die Frau, die niemand gehen ließ" (S2-3) · ~~„Das Zimmer, das sich erinnert"~~ „Der Park, der nicht vergisst" (S2-4, revidiert — s. #26) · „Der letzte Schlüssel" (S2-5) | Details je Band in Abschnitt 6; Tabelle in Abschnitt 10 |
 | 14 | Tiefpunkt in S2-4 | **Bewusst nicht Halders Werk** — ein echter, kanonbegründeter Grenzfall | Verhindert, dass „Empathie reicht nicht immer" zur Ausrede wird; Nora zweifelt an sich selbst, nicht am Gegner |
-| 15 | Auflösung in S2-5 | **Frieda** legt Halder Beweise vor (nicht Nora/Theo, nicht Kampf) | Zahltag von Friedas Bogen; hält „Empathie schlägt Kampf" ein, ohne dass die Kinder ihn „besiegen" |
+| 15 | Auflösung in S2-5 | **Frieda** legt Halder Beweise vor (nicht Nora/Theo, nicht Kampf) — ⚠️ **ergänzt 26.10.:** Beweis allein reicht nicht (S2-3 K12: „Ein Beweis schlägt keine Überzeugung"); dazu das Erlebnis, dass Halder selbst einen Geist richtig gehen lässt | Zahltag von Friedas Bogen; hält „Empathie schlägt Kampf" ein, ohne dass die Kinder ihn „besiegen" |
+| 27 | S2-5 neu gefasst (2026-10-26) | Anfang am Morgen nach S2-4; eigener Fall: der Wächter **Konrad** (gestorben im Frühjahr nach Band 5); Halders Reiseuhr + Aufzugsschlüssel statt Hauptschlüssel; Regel „ein Schloss hat zwei Enden"; Marie kurzer Besuch; Weißenbrück-Geist ging damals wirklich; Narbe = heiße Klinke | Planung vom 07.08. widersprach den inzwischen geschriebenen Bänden (`S2-5/Fundliste_S2-5_Planung.md`) |
 
 ### Fortsetzung — Cover-Konzept (2026-08-07, dritte Sitzung)
 
