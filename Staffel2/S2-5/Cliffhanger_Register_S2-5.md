@@ -1,5 +1,10 @@
 # Cliffhanger-Register — S2-5 "Der letzte Schlüssel" (FINALE)
 
+> **⚠️ ÜBERHOLT seit 2026-10-26.** Diese Datei passt zur alten Outline vom 07.08. Gültig ist die
+> Neufassung von `Story_Outline_S2-5.md` (Funde in `Fundliste_S2-5_Planung.md`). Wird nach Freigabe der
+> neuen Outline neu gebaut — bis dahin nicht als Schreibgrundlage benutzen.
+
+
 > Phase 3 von 6 (`PLAN_Staffel2.md` Abschnitt 15). Format wie
 > `S2-4/Cliffhanger_Register_S2-4.md`. Übernimmt die in `Story_Outline_S2-5.md` bereits
 > korrigierte Typenfolge (K6: BILD → ERKENNTNIS) — hier vollständig gegengeprüft.

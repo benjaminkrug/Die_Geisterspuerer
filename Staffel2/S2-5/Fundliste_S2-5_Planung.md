@@ -344,3 +344,28 @@ jetzige Stoff nicht (K2, K3, K6, K7 sind dünn). Mit dem Fall aus A2 sind 18 Kap
 4. **Marie:** kurzer Besuch ja/nein (A6).
 5. Danach: B-Funde einzeln, Doku-Drift (B11) in einem Durchgang, dann Outline neu prüfen
    (Mechanik-Selbstprüfung, Übergänge, Cliffhanger-Register).
+
+---
+
+## 6. Umsetzungsstand
+
+**Autorentscheidungen 2026-10-26:**
+1. Anfang am Morgen nach S2-4 — *wenn es passt*. Geprüft: passt, wenn Theo den Zeitpunkt begründet
+   („Er war heute früh da"). Analyse: Outline Abschnitt A.
+2. Halders Wende = **Beweis + Erlebnis**.
+3. Schlüssel/Uhr: *erst prüfen, dann einbauen*. Ergebnis: Eine zentrale Uhr als Mechanik
+   (Mutteruhr oder Regulator) widerspricht S2-2 bzw. wäre ohne Setup. Eingebaut stattdessen:
+   **Halders eigene Reiseuhr** (S2-2 Z. 691, steht auf zwölf), der letzte Schlüssel ist ihr
+   Aufzugsschlüssel; Regel „ein Schloss hat zwei Enden". Analyse: Outline Abschnitt C.
+4. Marie: **kurzer Besuch** (K8).
+
+**Umgesetzt in `Story_Outline_S2-5.md` (Neufassung):** A1–A6, B1 (Fäden als Signaturform), B2,
+B3, B4 (bis auf den Geist von Weißenbrück, s. u.), B5–B9, C1–C3, C5.
+**Offen:**
+- **Profil des Geistes von den Lagerhallen** (Outline Abschnitt B) — Autor.
+- B4: Was aus dem Geist von Weißenbrück wurde — Autor (Vorschlag: Halder sagt in K12 einen Satz
+  dazu; er ging damals wirklich, das war ja nie das Problem).
+- B10: S2-4 K1 Z. 19 korrigieren (Ferien) — Voraussetzung für die S2-5-Zeitlinie.
+- B11: Phase-3-Dateien neu bauen (jetzt als überholt markiert), Hinweisketten-Tracker gegen die
+  Texte nachziehen, `PLAN_Staffel2.md`-Stand und `Serien_Kanon.md` 7c aktualisieren.
+- Restbefunde S2-4 (Abschnitt 3) — vor dem Upload.

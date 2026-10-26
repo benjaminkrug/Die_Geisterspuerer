@@ -1,381 +1,409 @@
 # Story-Outline — S2-5 "Der letzte Schlüssel" (FINALE)
 
-> **Vor dem Schreiben:** [../PLAN_Staffel2.md](../PLAN_Staffel2.md) (Abschnitt 6, 10, 14) +
-> [Kontinuitaet_S2-5.md](Kontinuitaet_S2-5.md) +
-> [../Hinweisketten_Tracker.md](../Hinweisketten_Tracker.md) (Kette 2 löst sich hier auf).
-> Grusel **9/10**, Perspektive 3. Person nah an Nora. **Phase 2 von 6**
-> (`PLAN_Staffel2.md` Abschnitt 15).
+> **Neufassung 2026-10-26.** Ersetzt die Outline vom 07.08.2026 (in der Git-Historie), die vor
+> dem Schreiben von S2-2 bis S2-4 entstanden war. Grundlage: `Fundliste_S2-5_Planung.md` und
+> vier Autorentscheidungen vom 26.10.: **(1)** Anfang am Morgen nach S2-4, wenn es passt (geprüft:
+> passt, siehe Abschnitt A) · **(2)** Halders Wende = Beweis **und** Erlebnis · **(3)** Schlüssel/Uhr
+> erst prüfen, dann einbauen (geprüft, Abschnitt C) · **(4)** Marie: kurzer Besuch.
+> **Offen beim Autor:** das Profil des Geistes von den Lagerhallen (Abschnitt B).
+>
+> Grusel **8–9/10**, Perspektive 3. Person nah an Nora. Phase 2 von 6. Die Phase-3-Dateien
+> (Kontinuität, Tracker, Register, Szenenplanung) werden **nach Freigabe dieser Outline** neu
+> gebaut — die alten Fassungen sind überholt.
 
 ---
 
 # Buchkonzept (Ein-Absatz)
 
-Drei Wochen nach Marie kommt Frieda zu den Kindern — nicht mit einer Entscheidung, nur mit
-ihrem Zweifel. Nora hört ihr einfach zu, ohne zu drängen. Wochen später kehrt Frieda zurück:
-Sie hat sich selbst Zugang zu ihres Vaters gehorteten Unterlagen über das Feuer verschafft
-und Belege gefunden, dass es mit seiner hastigen Freilassung damals nichts zu tun hatte.
-Gemeinsam gehen sie zur Werkstatt — Halders eigenes Terrain, zum ersten Mal in dieser
-Staffel. Dort stellt Frieda ihren Vater zur Rede, nicht die Kinder. Er wehrt sich, bevor er
-zusammenbricht. Am Ende öffnet er die Werkstatt selbst: Dutzende gebundene Geister werden
-frei. Sein weiteres Schicksal bleibt offen. Was bleibt, ist eine Staffel, die nicht mit einem
-Kampf endet, sondern damit, dass jemand endlich gefragt wurde, ob die Geschichte, die er sich
-selbst erzählt hat, überhaupt stimmt.
+Am Morgen nach Marie fährt Nora dorthin, wo sie gestern nicht hingesehen hat: zu den alten
+Lagerhallen am anderen Ende der Stadt. Dort tobt ein Geist, vor dem selbst Halder Angst hat —
+er erinnert ihn an die Nacht in Weißenbrück. Nora kommt zu spät: Vor ihren Augen schnappt
+Halders Falle zu. Am Abend steht Frieda vor der Tür, mit einem Umschlag, den ihr Vater vor
+dreißig Jahren selbst angefordert und nie geöffnet hat. Darin steht, wann und wo das Feuer
+anfing — vierzig Minuten, bevor er überhaupt begann. In der Werkstatt hält Frieda ihm den
+Beweis hin, und an der Wand hängt seine eigene Uhr, stehen geblieben auf zwölf. Der Beweis
+nimmt ihm den Grund. Die Angst nimmt ihm erst der Geist von den Lagerhallen: Zum ersten Mal in
+seinem Leben fragt Halder einen Toten, was er braucht — und sein eigenes Schloss geht auf. Dann
+zieht er die Uhr wieder auf, die er dreißig Jahre lang angehalten hat.
 
 ---
 
 # Zielumfang
 
-- **18 Kapitel, 4 Akte (Split 4/5/4/5)** — Finale-Format wie Band 5, nicht die
-  Staffel-2-Norm von 16 (Kontinuität, Akt-Fortschritt-Vorschlag, hier bestätigt): S2-5 muss
-  vier Fäden zugleich schließen (Frieda, Halder, die Werkstatt, die Bindungssignatur), mehr
-  als jeder reguläre Band.
-- ~21.000–23.000 Wörter, ~1.150–1.300 Wörter/Kapitel (wie Band 5).
-- Schatten-Reaktion in JEDEM Kapitel, inklusive der finalen „überwältigt, aber freudig"-Nuance.
-- Perspektive: 3. Person nah an Nora.
-- Keine Neuleser-Einführung nötig (nur S2-1, Entscheidung #25).
+- **18 Kapitel, 4 Akte (4/5/4/5)** wie Band 5. Jetzt gedeckt: ein eigener Fall (Akt 1),
+  Beweis (Akt 2), Konfrontation (Akt 3), Erlebnis + Befreiung + Abschluss (Akt 4).
+- Richtwert ~1.100 W/Kapitel → ~19–21 Tsd. W (S2-4: 18,7 Tsd.). Nicht auffüllen.
+- Schatten-Reaktion in jedem Kapitel. Humor-Ausnahmen höchstens drei (geplant: K4, K12).
+
+---
+
+# A. Anschluss an S2-4 — geprüft (Entscheidung 1)
+
+**Wo S2-4 endet (S2-4 K14–K16):**
+- **Zeit:** Tag 4 des Falls, August, Ferien. Kirchturm schlägt halb neun (K15), danach Frühstück
+  zu Hause (K16). Nora hat die Nacht kaum geschlafen (K9, K16).
+- **Mama:** gereizt, aber nachgiebig: „Ich hab schon überlegt, ob ich euch suchen soll" —
+  „Vor dem Frühstück? Ohne Zettel?" (K16).
+- **Halder:** laut Marvins Bruder „heute früh" bei den **alten Lagerhallen am anderen Ende der
+  Stadt**, „gehetzt", fragt nach „alten Häusern am Stadtrand" und „wer da früher gewohnt hat",
+  hat „noch nicht gefunden" (K16). Nora war dort noch nie (K8).
+- **Frieda:** trennt sich gegen 8.45 Uhr an einer Kreuzung. „Ob's stimmt. Das mit dem Feuer."
+  — „Ich will es wissen." (K15). Ihr Vater ist zu dem Zeitpunkt unterwegs → ihr Zeitfenster.
+- **Marie:** sitzt im Park und wartet; zweimal „Versprochen", dass sie wiederkommen (K14, K15).
+- **Schatten:** letztes Bild hellwach unter dem Tisch, Blick zur Küchentür (K16).
+- **Letzter Satz:** „Er sucht schon wieder einen. Und wir haben es gewusst. Und nicht hingesehen."
+
+**Ergebnis: „Morgen danach" passt — mit einer Bedingung.** Der Leser hat gerade gelesen, dass
+Nora nicht hingesehen hat. Lässt das Buch sie einen ganzen Tag warten, muss das **eine
+Entscheidung** sein, kein neues Wegsehen. Die Begründung liegt im S2-4-Text bereit:
+- Halder wurde „heute **früh**" gesehen → er sucht im Morgengrauen → morgen früh ist er wieder
+  dort. **Theo** sagt das (kleiner Schritt in seinem Bogen „selbst führen"), nicht Nora.
+- Nora schläft nach der durchwachten Nacht am Nachmittag ein, ohne es zu wollen — und wacht mit
+  dem Gefühl auf, schon wieder etwas verpasst zu haben. Das trägt Spannung in K1, statt sie zu
+  verlieren: **Hat Halder ihn inzwischen gefunden?**
+
+**Verworfen:** „noch am selben Tag" (Mama hat gerade nachgefragt, beide sind am Ende, und ein
+Nachmittag an einem unbekannten Ort liefert keinen eigenen Grund). „Drei Wochen später" (alte
+Outline): bricht den Schlusssatz von S2-4.
+
+**Folgen für die Zeitlinie:** Tag 0 = Ende S2-4. S2-5 = Tag 1 bis Tag 3, letzte Ferientage
+(Tag 2 = letzter Ferientag, Mias Freibad). Der Epilog spielt ein paar Tage später am **ersten
+Schultag**. ⚠️ **Voraussetzung:** S2-4 K1 Z. 19 korrigieren
+(„Die Sommerferien liefen seit zwei Wochen" widerspricht S2-3, wo drei Wochen vorher schon zwei
+Ferienwochen vorbei sind) — sonst stimmt das Ferienende nicht.
+
+---
+
+# B. Der Geist von den Lagerhallen — ⚠️ Profil offen (Autor)
+
+**Was er leisten muss (fest):**
+1. **Wütend, nicht böse** — laut, abweisend, rüttelt an Toren. Halder hält ihn für „so einen wie
+   damals" (S2-3: der „unruhige, ältere, wütendere" Geist von Weißenbrück) → Halders Angst.
+2. **Gehört zu einem alten Haus bei den Lagerhallen** — darum fragt Halder in S2-4, „wer da früher
+   gewohnt hat". Halder stellt dort seine Falle (Methode S2-1: Schloss vorher einbauen, der Geist
+   gerät hinein).
+3. **Sein wahres Bedürfnis ist ein anderes, als alle denken** (Halder, Nora und Theo) und lässt
+   sich **nur durch Fragen** erfahren. Er will mit dem reden, der ihn festgemacht hat.
+4. **Abgegrenzt** von Herbert (ungesagter Satz an die Tochter), Grete (vergessener Gang), Ilse
+   (Schuld an der Tür), Marie (Schwester).
+5. Tod off-page, kein Blut, kein Unfall-Detail.
+
+**Vorschlag (Empfehlung): der Wächter.** Ein Mann, der jahrzehntelang nachts die Lagerhallen
+bewacht hat und im Wächterhäuschen daneben wohnte (längst abgerissen). Was wie Wut aussieht, ist
+sein Rundgang: Er rüttelt jede Nacht an jedem Tor und schreit jeden an, der hier nichts verloren
+hat. Er kann nicht aufhören zu bewachen, obwohl nichts mehr da ist. Was er braucht: **seine
+Ablösung.** Ein Wächter verlässt seinen Posten erst, wenn ihn jemand ablöst — und in der Nacht,
+in der er starb, kam niemand. Seit Halders Schloss ist Halder der, der ihn auf dem Posten hält.
+Darum will er nur mit ihm reden, und nur Halder kann ihn ablösen. Das ist zugleich das faire
+Rätsel des Bandes: Hinweise auf den Wächter (Rundgang, Tore, „Hier hat keiner was verloren"),
+die Auflösung („Sie sind abgelöst") erst in K14. **Warum das trägt:** Er ist Halders Spiegel — ein Beschützer,
+der nicht aufhören kann. Wenn Halder ihn fragt und ihm „Du darfst aufhören" sagt, sagt er es
+sich selbst. Das macht das Erlebnis (Entscheidung 2) zu Halders eigenem Loslassen.
+Alternativen: siehe Frage an den Autor.
+
+---
+
+# C. Der letzte Schlüssel — geprüft (Entscheidung 3)
+
+**Frage des Autors:** Funktioniert eine zentrale Uhr wirklich?
+
+**Prüfung:**
+1. **Eine echte Mutteruhr** (Hauptuhr, die Nebenuhren per Impuls steuert — gab es in Schulen,
+   Bahnhöfen, Fabriken) lässt alle Nebenuhren **dieselbe** Zeit zeigen. In S2-2 zeigt aber jede
+   Uhr eine andere Zeit, eine läuft rückwärts, eine schlägt falsche Stunden (S2-2 Z. 547, 601,
+   733). → **Widerspricht dem Kanon.**
+2. **Ein Werkstatt-Regulator** (Präzisions-Pendeluhr, nach der ein Uhrmacher alle anderen Uhren
+   stellt) gibt es in jeder echten Uhrmacherwerkstatt — aber er **treibt nichts an**, er ist nur
+   die Vergleichszeit. Als Hauptschalter wäre er eine neue Erfindung im letzten Band, ohne jedes
+   Setup. → **Als Schalter verworfen.**
+3. **Was die Bücher schon haben:**
+   - S2-2 K6: Eine **winzige Reiseuhr** in einem abgewetzten Stoff-Etui, „Die Zeiger standen
+     exakt auf zwölf, beide übereinander, reglos wie festgefroren", darunter dasselbe Etikett
+     mit nachgezogenem Häkchen wie bei den Gebundenen (Z. 691). **Nie erklärt.**
+   - S2-2 K6: „jede Uhr gehört zu einem bestimmten Schloss" (Nora, Z. 695).
+   - S2-2 K5: Die Häkchen sind „immer wieder aufgefrischt" (Z. 605) → jemand prüft täglich.
+     S2-3: Halder ist einer, der „eine Rechnung zum hundertsten Mal nachprüft" (Z. 1165).
+   - S2-3 K2: Halder: „Solche Uhren vergessen nichts. Man muss ihnen nur zuhören." (Z. 139)
+   - S2-3 K15: Ilse ging, als Halder aufhörte festzuhalten (Z. 1445).
+   - S2-1 K10: Der passende Schlüssel ist „bei dem, der das gebaut hat" (Z. 1235–1237).
+   - Band 5: Einer lässt los (Graven), und viele gehen auf einmal → Vorbild für die
+     Massenbefreiung in der Reihe.
+
+**Ergebnis: keine zentrale Uhr als Mechanik, sondern Halders eigene Uhr.**
+- Die Reiseuhr auf zwölf ist **Halders Uhr**. Am Morgen nach Weißenbrück hat er sie auf zwölf
+  gestellt und angehalten — die Minute, in der er anfing („als es zwölf schlug"). Sie hängt mit
+  Etikett zwischen den Gebundenen, weil er **sich selbst** dazuzählt. Das Häkchen darunter frischt
+  er jedes Mal auf, wenn er in der Werkstatt ist: Er prüft seine eigene Rechnung, seit dreißig
+  Jahren.
+- **Der letzte Schlüssel** ist ihr Aufzugsschlüssel. Er trägt ihn an einer Kette unter dem Hemd.
+  Ältere Reiseuhren wurden mit einem kleinen, losen Schlüssel aufgezogen — handwerklich stimmig.
+- **Die Regel (muss einmal im Text stehen, in Halders Worten):** Er kann nicht überall sein,
+  also hat er sein Festhalten in Schlösser gegossen und jedes nach dieser einen Nacht
+  „gestellt". Ein Schloss hat **zwei Enden**: sein Festhalten und den eigenen Knoten des Geistes.
+  Löst sich eines, geht es auf. Darum konnten Nora (Herbert) und Grete einzelne Schlösser öffnen —
+  vom Ende des Geistes aus. Und darum öffnen sich alle, wenn **er** loslässt.
+- **Die Uhr tut nichts von selbst.** Probe: Hätte Frieda sie aufgezogen, wäre nichts passiert.
+  Das Aufziehen ist die Handlung, mit der Halder loslässt. Das muss der Text spüren lassen,
+  sonst wirkt es wie ein Schalter.
+
+**Kritisch hinterfragt:**
+- *„Billiger Hauptschalter?"* Nur, wenn die innere Wende nicht verdient ist. Darum kommt vorher
+  beides: Beweis (Akt 3) und Erlebnis (K14).
+- *„Widerspricht S2-3 (‚nie an ein Schloss gebunden … an Halders Festhalten gebunden')?"* Nein. Dort
+  steht, Ilse habe kein Schloss gebraucht, weil er sie bei sich hatte. Die Schlösser sind
+  dasselbe Festhalten in Metall, für die, die er nicht bei sich haben kann.
+- *„Warum hat er die Zeit nie aus der Zeitung erfahren?"* Zeitungen schreiben „in der Nacht". Die
+  genaue Alarmzeit steht nur im Einsatzbericht — im ungeöffneten Umschlag.
+- *„Warum eine Reiseuhr?"* Er ist seit dreißig Jahren unterwegs (S2-3 K5). Und sie ist schon da:
+  Ein Leser von S2-2 hat sie gesehen.
+- **Zahltag S2-2:** Wenn sie läuft, findet jede Uhr in der Werkstatt dieselbe, richtige Zeit, und
+  die **rückwärts laufende Uhr an der Tür** (Titel S2-2, nie eingelöst, Z. 547) dreht vorwärts.
 
 ---
 
 # ⚠️ DIE MECHANIK / PHYSIK (Anti-Story-Fehler-Rückgrat)
 
-1. **Wer kommt zu wem?** ⚠️ Löst Kontinuität-Widerspruch 1. Frieda sucht die Kinder auf,
-   zweimal: einmal kurz nach S2-4, unentschlossen (K1) — und Wochen später, mit dem Fund
-   (K2). **Nicht umgekehrt** — konsistent mit ihrer seit S2-2 gezeigten Eigenständigkeit,
-   und es hält die Serien-Ethik ein: Sie handelt aus eigenem Antrieb, nicht auf Druck der
-   Kinder.
+1. **Orte — drei, nicht vermischen:** Werkstatt (Westen, ehem. Lagerhaus, Hof, schiefer
+   Schornstein, Seitentür hinter Brennnesseln, ~15 km Rad, S2-2) · Halders Haus (Osten,
+   aufgegebene Reihenhäuser, S2-3) · **alte Lagerhallen** (am anderen Ende, Nora war nie dort,
+   S2-4). Himmelsrichtung der Lagerhallen in der Kontinuität festlegen (nicht Westen).
+2. **Halders Falle:** wie S2-1 — Schloss vorab im alten Haus versteckt, der Geist zieht dorthin und
+   gerät hinein. Rückriss erst, als er gehen will (Signatur S2-1, hier ein einziges Mal live).
+3. **Die Fäden — Signaturform von S2-5:** Ein dünner, kalter Faden zwischen Schloss und Geist ist
+   **nur sichtbar, wenn der, der festhält, in der Nähe ist** (Halder). Erklärt, warum ihn in
+   S2-1/S2-2 niemand sah (Halder war nie da) und in S2-3 nicht (Ilse hatte kein Schloss). Erstmals
+   K4 (ein Faden), voll K10 (neunundneunzig), erlischt K16. Verbindet den Text endlich mit dem
+   Cover-Motiv aus S2-1 bis S2-4.
+4. **Friedas Zugang:** eigener Werkstattschlüssel (Helferin seit Jahren); die Seitentür hat einen
+   neuen Riegel (Halder ist vorsichtiger seit S2-3) — ihr Schlüssel passt. Sie sucht an Tag 0/1,
+   während er bei den Lagerhallen ist (S2-4 K16).
+5. **Der Umschlag:** ein Brief der Feuerwehr Weißenbrück — **Antwort auf Halders eigene
+   Anfrage**, kurz nach dem Feuer, mit den Zeiten aus dem Einsatzbericht. Er hat einmal gefragt und die Antwort nie
+   geöffnet. Grund (Frieda vermutet, Halder bestätigt in K12): Er wollte nicht lesen, wer in
+   dieser Nacht gestorben ist. Alle Zeitungsausschnitte daneben sind zerlesen.
+6. **Der Beweis — nur Zeit und Ort:** Alarm 23.20 Uhr; Brandausbruch mehrere Straßen vom Haus
+   des Geistes entfernt, von dort griff es über. Halder begann „als es zwölf schlug" → vierzig
+   Minuten. Ursache wird nicht genannt, die Szene verweilt nicht. Fairer Hinweis steht schon im
+   Buch: „Ich war nicht dort, als es anfing" (S2-3 Z. 1153).
+   ⚠️ **Wo Halder um Mitternacht war:** nicht im Viertel des Geistes — sonst hätte er das Feuer
+   gesehen, und S2-3 sagt, er sah die Straße „erst am Morgen". Sein Versuch fand dort statt, wo
+   der Geist ihm erschienen war (anderswo in der Stadt). Er glaubt seitdem, der Geist sei in
+   seiner Unruhe „nach Hause" gegangen, und dort habe es angefangen („Zuerst in seinem Haus",
+   S2-3). Der Bericht widerlegt genau diese Reihenfolge.
+7. **Warum der Beweis jetzt wirkt, obwohl Nora in S2-3 sagte „Ein Beweis schlägt keine
+   Überzeugung":** Er wirkt **nicht allein**. Nora denkt den Satz in K11 und sieht, dass er stimmt
+   — Halder wehrt ab. Was ihn kippt: (a) es ist seine Tochter, (b) es ist seine eigene Uhr, die er
+   täglich prüft, (c) danach das Erlebnis (K14). Ilses Befreiung allein hat ihn in S2-3 auch nicht
+   umgestimmt — beides zusammen tut es.
+8. **Halders Reaktion in Stufen:** Verletzung (seine Tochter mit „denen" in der Werkstatt) →
+   Abwehr („ein Blatt Papier") → Nachrechnen an der eigenen Uhr → Bruch → **Rest-Angst** („und
+   der von den Lagerhallen?"). Nie körperlich bedrohlich.
+9. **Das Erlebnis:** Halder fragt den Geist von den Lagerhallen, was er braucht — zum ersten Mal in
+   seinem Leben. Das Schloss geht **von der Seite des Geistes aus** auf (Regel C), bevor Halder
+   seinen Schlüssel benutzt. Nora steht neben ihm, sagt fast nichts.
+10. **Wer geht, wer bleibt:** Die meisten Werkstatt-Geister hatten außer der Bindung nichts
+    Unerledigtes — sie gehen sofort. **Drei bleiben** (S2-1: Herbert blieb nach dem Öffnen, bis
+    sein Knoten gelöst war). Halder setzt sich zu ihnen → sein Schicksal bleibt offen, aber
+    nicht trostlos.
+11. **Marie:** ein kurzer Besuch (K8). Sie wartet, unverändert. Kein Satz, der eine spätere
+    Befreiung andeutet; der Hauptschalter berührt sie nicht (Schuld ist kein Schloss).
+12. **Mama:** kennt Halder und hat Frieda vom Balkon gesehen (S2-3 K7). Erkennt sie in K5 —
+    arglos-freundlich, das ist der Grusel.
+13. **Warum Gravenstedt:** Halder sagt es in K3, passend zur Zeitlinie (S2-1: Schlösser schon im
+    August vor der Heilung): Im Sommer war er hier wie überall; seit November ist die Stadt
+    „hell", sie kommen von überall; darum ist er geblieben.
+14. **Kinder steigen nicht zu Halder ins Auto,** auch nicht im Finale. Wege mit dem Rad oder zu
+    Fuß, Treffpunkte im Morgengrauen statt nachts.
+15. **Neunundneunzig:** Theos Zahl aus S2-2 („Neunundneunzig übrig") gilt als Bestand der
+    Werkstatt, ohne Herkunftsbehauptung (Grete starb am Lagerhaus selbst).
 
-2. **Was genau geschieht in K1, und warum reicht das als Noras aktiver Beitrag
-   (Ausführungsrisiko 3)?** ⚠️ **Korrigiert (Phase 3, Faktencheck):** Ein früherer Entwurf
-   verortete die „Zuhören ist das Schloss"-Ausnahme fälschlich bei Marlene Weber (Band 3) —
-   sie gehört im Kanon zu **Cornelius Faber (Band 4)**: „Bei allen anderen war Zuhören der
-   Schlüssel. Hier ist Zuhören das Schloss" (`Serien_Kanon.md`). Nora stellt keine Fragen,
-   drängt nicht auf eine Entscheidung — sie hört zu, wie sie es sonst bei Geistern tut,
-   jetzt bei einem lebenden, ringenden Menschen (bewusster Spiegel zu Fabers Ausnahme — dort
-   schadete die Methode einem Geist, hier wird sie zum ersten Mal auf einen Lebenden
-   übertragen und wirkt genau richtig). **Das ist der Moment, der Frieda den Mut gibt, selbst
-   zu suchen** — auf der Seite sichtbar, nicht behauptet.
-
-3. **Wie kommt Frieda an Halders gehortete Unterlagen?** ⚠️ Löst Kontinuität-Widerspruch 2.
-   Die Unterlagen liegen in einer verschlossenen Schublade **in der Werkstatt selbst**
-   (spart einen zweiten neuen Ort, Regel „keine unnötigen neuen Schauplätze im Finale").
-   Frieda hat als seine Tochter/Helferin **seit jeher einen eigenen Schlüssel** zur
-   Werkstatt (unauffällig, keine neue Fähigkeit) — nur diese eine Schublade war ihr
-   untersagt. Sie nutzt ein Zeitfenster, in dem er unterwegs ist (um den neuen, in S2-4
-   erwähnten Geist zu sichern, siehe Punkt 9), um sie zum ersten Mal zu öffnen.
-
-4. **Was genau zeigen die Belege — ohne eine konkrete Ursache zu benennen?** ⚠️ Löst
-   Kontinuität-Widerspruch 3, **kritischster Punkt der Mechanik.** `PLAN_Staffel2.md`
-   Abschnitt 6 legt fest: Der tatsächliche Grund bleibt **absichtlich unklar**. Die
-   Unterlagen — vergilbte Zeitungsausschnitte und ein Feuerwehrbericht, die er selbst über
-   Jahrzehnte gesammelt hat — dokumentieren **Ausbruchsort und -zeitpunkt** des Feuers.
-   Beides passt nicht zu seiner eigenen Erinnerung: Der Brand begann **mehrere Straßen vom
-   Haus des Geistes entfernt**, bereits **eine gute halbe Stunde**, bevor er die Freilassung
-   überhaupt versucht hat. **Die Kinder/Frieda erfahren dadurch, dass es nicht mit ihm
-   zusammenhing — nicht, was es stattdessen war.** Der Bericht selbst nennt vermutlich eine
-   Ursache (jeder echte Feuerwehrbericht würde das), aber **die Szene verweilt nie darauf**
-   — sie zeigt nur Ort und Zeit, dann schneidet sie weiter. Damit bleibt die Leerstelle
-   textlich sauber, keine vergessene Auflösung.
-
-5. **Wie reagiert Halder zuerst?** ⚠️ Löst Kontinuität-Widerspruch 4. **Erst Unglaube, dann
-   Abwehr, erst danach Zusammenbruch** — dreißig Jahre Gewissheit kippen nicht in einem
-   Satz. Sein erster Reflex: die Unterlagen seien unvollständig, es gebe andere Erklärungen.
-   Erst als er die Zeiten selbst noch einmal nachrechnet (er ist Uhrmacher — Zahlen und
-   Zeiten sind sein ureigenes Metier, das macht seinen eigenen Rechenfehler von damals
-   doppelt bitter) bricht der Widerstand.
-
-6. **Wie öffnet er die Werkstatt — ein Ritual, viele einzelne Akte?** ⚠️ Löst
-   Kontinuität-Widerspruch 5. **Ein einziger, symbolischer Akt:** Ein letzter, besonderer
-   Schlüssel (titelgebend), der alle Bindungen der Werkstatt zugleich löst — technisch
-   ungefähr wie ein Hauptschalter, thematisch der Gegenpol zu Dutzenden Einzelschlössern
-   (Serien-Bild: ein Schlüssel statt vieler, Band-5-Analogie zum Loslassen-Moment). Kein
-   Kampf, eine bewusste Übergabe.
-
-7. **Wie werden „Dutzende" Geister sichtbar, ohne unübersichtlich zu wirken?** Lehre aus
-   Band 5 (K1/K3: „alle acht" wachen zusammen auf, aber die Szene fokussiert auf wenige
-   konkrete Bilder statt auf eine Aufzählung). Gleiches Prinzip: **zwei, drei kurze,
-   konkrete Einzelbilder** (nie benannt, nie zu Nebenfiguren ausgebaut) tragen die Szene,
-   der Rest bleibt Ausmaß im Hintergrund.
-
-8. **Theos konkrete aktive Rolle im Klimax** (Ausführungsrisiko 3). ⚠️ Löst
-   Kontinuität-Widerspruch 6. ⚠️ **Präzisiert (Phase 3):** Theo hält Schatten **zweimal**,
-   nicht durchgehend über neun Kapitel — einmal beim Eintreten (K8–K9, das erste
-   Überwältigt-Sein durch die schiere Zahl der Präsenzen), dann lässt die Anspannung nach
-   (Schatten gewöhnt sich an die Umgebung, wie schon in S2-3 etabliert, und kann sich
-   zwischen K10–K13 frei bewegen, u. a. tröstend zu Halder). Ein zweites Mal hält Theo ihn
-   kurz vor dem eigentlichen Öffnen (K14), wenn die bevorstehende Freisetzung erneut spürbar
-   wird — das ist der Halt, den er in K15 tatsächlich löst. Schatten ist von der schieren
-   Zahl der Präsenzen überwältigt (Echo zu S2-2, jetzt freudig statt bedrohlich) — **Theo
-   hält ihn**, buchstäblich und ruhig, während Nora bei Frieda/Halder ist. Nutzt die
-   etablierte Theo-Schatten-Bindung
-   der ganzen Reihe, statt eine neue Fähigkeit zu erfinden — eine konkrete, notwendige aber
-   nicht kämpferische Aufgabe.
-
-9. **Was wird aus dem neuen, off-page gebundenen Geist aus S2-4 K16?** Er hat **keine
-   persönliche Bindung an einen Ort** (anders als Herbert/Ilse/Marie) — nach der in S2-3
-   etablierten Grundsatzregel (Geister ohne persönliche Verbindung driften zu Halders
-   Sammelpunkt) ist er inzwischen ebenfalls in der Werkstatt. ~~**Er wird stillschweigend Teil
-   der Dutzenden, kein eigener benannter Faden** — sauberer Payoff, kein offenes Ende, ohne
-   eine eigene Szene zu brauchen.~~
-   ⚠️ **Umgeplant 2026-10-26 (Autorentscheidung, `S2-4/Fundliste_S2-4_Logik.md` Nachprüfung
-   Fund 3):** S2-4 endet jetzt mit Noras bewusstem Wegsehen — Theo erkennt Halder schon in
-   S2-4 K4, Nora sagt zweimal „nicht jetzt", Schlusssatz: „Er sucht schon wieder einen. Und
-   wir haben es gewusst. Und nicht hingesehen." Das ist ein **ausdrückliches Versprechen** an
-   den Leser; „stillschweigend" würde es brechen (unbezahltes Setup). **Neu:**
-   (a) Dieser Geist bekommt **einen kleinen, benannten Moment**: Er ist der erste, den Nora in
-   der geöffneten Werkstatt bewusst ansieht — sinngemäß „Diesmal sehe ich hin." Kein eigener
-   Fall, keine Nebenfigur, eine Einstellung (passt zu Punkt 7: zwei, drei Einzelbilder).
-   (b) Noras Schuld aus S2-4 ist ihr **Antrieb, Frieda in S2-5 zu helfen**, statt wieder
-   „erst das andere" zu sagen — Echo, kein Monolog.
-   Beides bei der Szenenplanung von S2-5 verbindlich einplanen.
-
-10. **Warum bleibt Marie unberührt?** ⚠️ Kontinuität-Widerspruch 8, aktiv gegenprüfen: Sie
-    hat eine persönliche Bindung an den Stadtpark (Claras letzten Ort), nicht an Halders
-    Sammelpunkt — dieselbe Grundsatzregel wie Punkt 9, nur mit umgekehrtem Ergebnis. Sie
-    wird im gesamten Band **nicht erwähnt**, um jede Andeutung einer Mitbefreiung
-    auszuschließen (Kontinuität, Marie-Sektion).
-    ⚠️ **Nachtrag 2026-10-25 (`S2-4/Fundliste_S2-4_Logik.md` F1/F20):** Die Regel oben
-    (Herkunft: `S2-2/Story_Outline_S2-2.md` Z. 46, nicht S2-3) sagt nur, *wohin* ein Geist
-    zieht — nicht, ob Halder ihn binden kann (Herbert hatte einen persönlichen Ort und wurde
-    trotzdem gebunden). Tragfähig ist: Halder war mit dem anderen Geist beschäftigt. Und
-    Marie ist nicht gebunden — was sie hält, ist **Schuld**, die nur Clara lösen könnte
-    (S2-4 K14, Autorentscheidung). Ein Hauptschalter in der Werkstatt berührt das nicht —
-    das ist der eigentliche Grund, warum sie in S2-5 unberührt bleibt.
-
-11. **Zeitlicher Abstand:** K1 unmittelbar nach S2-4 (Tage), dann Zeitsprung **~3 Wochen**
-    bis K2 (Frieda kehrt zurück) — S2-5 spielt damit ab **Ende August/Anfang September**.
-
-12. **Content-Grenze:** Halders Zusammenbruch bleibt emotional, nie körperlich bedrohlich —
-    er wird nicht handgreiflich, auch nicht in der Verzweiflung (Serien-Ethik durchgehalten
-    bis zum letzten Band).
-
-> **Keine „fünfte Methode":** Dieser Band zeigt keine neue Technik, mit der die Kinder einen
-> Geist befreien — wie Band 5s „Loslassen vormachen" ist die Auflösung ein **Vorbild-Akt**,
-> hier doppelt gestaffelt: Nora macht Frieda vor, was Zuhören bedeutet; Frieda macht Halder
-> vor, was Wahrheit-Ansehen bedeutet. Konsequent mit dem Staffel-Thema, dass die Kinder nicht
-> jede Situation selbst lösen (S2-4), sondern ermöglichen, dass andere es tun.
+> **Keine neue Methode.** Der Band wiederholt bewusst die älteste: fragen und zuhören — nur macht
+> es diesmal der, der dreißig Jahre lang für die Toten entschieden hat.
 
 ---
 
-# Qualitäts-Leitlinien (zugespitzt auf S2-5)
+# Rollen im Finale
 
-1. **Nora/Theo dürfen nicht zu Zuschauern werden** (Ausführungsrisiko 3) — K1 (Nora) und
-   K8/K15 (Theo) sind Pflichtszenen, keine optionalen Beats.
-2. **Halder bleibt nachvollziehbar bis zum Schluss** — sein Zusammenbruch ist eine
-   Erschütterung, keine Entlarvung als Lügner. Er hat nie gelogen, er hat sich geirrt.
-3. **Die Feuer-Leerstelle sauber halten** (Mechanik Punkt 4) — keine Formulierung, die
-   versehentlich doch eine Ursache benennt.
-4. **Marie bleibt unerwähnt** — keine Versuchung, ihr im letzten Band doch noch ein Ende zu
-   geben, das ihr nicht zusteht.
-5. **Der Ton darf sich in Akt 4 öffnen** — nach vier Bänden zunehmender Schwere ist ein
-   warmes, großes Finale verdient (Stil-Merkblatt, Cover bereits „warmes Kupfer,
-   aufbrechend zu Licht").
-
----
-
-# Eskalations-Marker (vorläufig)
-
-- **Akt 1:** Ein leiser Anfang — kein neuer Fall, sondern ein Gespräch. *Angst: nicht
-  äußerlich, sondern die Sorge, dass Zuhören diesmal nicht reicht, um jemanden zu erreichen.*
-- **Akt 2:** Der Weg zu Halders eigenem Terrain — zum ersten Mal betreten sie es. *Angst:
-  sie sind zu Gast beim Gegner, nicht umgekehrt wie in S2-3.*
-- **Akt 3:** Die Konfrontation — sein Widerstand ist glaubwürdig, nicht spielerisch
-  overacted. *Angst: dass er nicht bricht, dass dreißig Jahre stärker sind als ein Beleg.*
-- **Akt 4:** Öffnung, Befreiung, Wärme. *Der größte Sieg der Staffel — aber einer ohne
-  Gegner, der besiegt wird, nur einer, der sieht.*
-
----
-
-# Outline-Entscheidungen — fixiert
-
-1. **18 Kapitel, 4 Akte (4/5/4/5)** — Finale-Format wie Band 5 (Mechanik-Präambel).
-2. **Zeitsprung innerhalb des Bandes:** K1 (Tage nach S2-4) → Zeitsprung → K2 (~3 Wochen
-   später) — einziger interner Zeitsprung der Staffel innerhalb eines Bandes, gerechtfertigt
-   durch Friedas notwendig off-page ablaufende Recherche.
-3. **Der letzte Schlüssel:** ein einziger, symbolischer Hauptschlüssel löst alle Bindungen
-   der Werkstatt (Mechanik Punkt 6).
-4. **Theo hält Schatten** im Klimax — konkrete, notwendige, undramatische Aufgabe.
-5. ~~**Der S2-4-Geist wird stillschweigend Teil der Dutzenden**~~ → **Der S2-4-Geist bekommt
-   einen kleinen benannten Moment („Diesmal sehe ich hin"), Noras Schuld treibt ihre Hilfe
-   für Frieda** (Mechanik Punkt 9, umgeplant 2026-10-26).
-6. **Marie bleibt im gesamten Band unerwähnt** (Mechanik Punkt 10).
+- **Nora:** sieht hin (Akt 1), hält beim gebundenen Geist aus, setzt in Gang, dass Halder fragt
+  (K13), steht beim Erlebnis neben ihm. **Kosten-Entscheidung (Risiko 5):** sagt Mia den letzten
+  Ferientag ab — bewusst, mit Preis; Epilog am ersten Schultag.
+- **Theo:** setzt den Zeitpunkt (Anschluss A), sitzt bei Frieda, als sie den Umschlag öffnet (K6),
+  steht in der Werkstatt an ihrer Seite (K10–K12) — sein eigener Platz, nicht neben Nora. Hält
+  Schatten nur in K10 und K15 kurz. Ventil der Staffel.
+- **Frieda:** bringt die Wahrheit und trägt die Konfrontation (Entscheidung #15).
+- **Halder:** fragt zum ersten Mal und lässt los.
+- **Schatten:** Frühwarnsystem bei den Lagerhallen, überwältigt in der Werkstatt, freudig bei
+  der Befreiung, legt sich in K12 zu Halder.
 
 ---
 
 # 4-Akt-Struktur — 18 Kapitel
 
-## AKT 1 — Was Nora tut (K1–4)
+## AKT 1 — Hinsehen (K1–K4) · Tag 1, Morgengrauen bis Vormittag
 
-### Kapitel 1 – „Ohne eine Antwort"
-Tage nach S2-4. Frieda sucht die Kinder auf — unentschlossen, aufgewühlt, ohne klaren Plan.
-Nora stellt keine Fragen, drängt nicht — sie hört einfach zu. **Schatten:** legt sich ruhig
-zu Friedas Füßen, zum ersten Mal ganz ohne Vorbehalt gegen sie. **Humor:** Theo hält sich
-bewusst zurück, ein seltener, stiller Moment für ihn. **Cliffhanger [DIALOG]:** Frieda, beim
-Gehen, ohne sich umzudrehen: „Ich weiß noch nicht, was ich tue. Aber danke, dass du nicht
-gefragt hast."
+### Kapitel 1 – „Am anderen Ende"
+Kurze Brücke zu Tag 0: Theos Entscheidung („Er war heute früh da. Morgen früh ist er wieder da."),
+Nora schläft am Nachmittag ein und wacht mit dem Gefühl auf, schon wieder etwas verpasst zu haben;
+nachts steht Schatten am Fenster. Morgengrauen, Räder, ein Weg durch Stadtteile, die Nora nicht
+kennt. Die Lagerhallen: Rolltore, Rost, daneben eine Reihe halb abgerissener Häuser. Halders
+Kastenwagen steht da, gewienert, leer. **Schatten:** bleibt stehen, Nackenhaare hoch, zieht zu einer
+Ruine. **Humor:** Theos Plan mit Codewort (Echo S2-3), zerfällt an Ort und Stelle.
+**Cliffhanger [BILD]:** Die Rolltore rütteln, eines nach dem anderen, die ganze Reihe entlang auf sie
+zu — und hören direkt vor ihnen auf.
 
-### Kapitel 2 – „Drei Wochen später"
-Zeitsprung markiert (~3 Wochen, Ende August/Anfang September). Stille von Frieda — die
-Kinder wissen nicht, ob das Gespräch etwas bewirkt hat. Dann taucht sie plötzlich wieder auf,
-sichtlich erschöpft, aber entschlossen. **Schatten:** springt auf, bevor sie an der Tür ist —
-spürt sie kommen. **Humor:** Theos erleichterter, überdrehter Kommentar über das Warten.
-**Cliffhanger [BILD]:** Frieda vor der Tür, eine abgegriffene Mappe fest an sich gedrückt.
+### Kapitel 2 – „Hier hat keiner was verloren"
+Der Geist erscheint: laut, abweisend, scheucht sie weg. Nora versucht zuzuhören, er hört nicht.
+Erste Spuren zu seinem alten Haus. **Schatten:** knurrt nicht, winselt — nach Theos System aus S2-4
+(„Knurren heißt böse, Winseln heißt traurig") ein erster fairer Hinweis. **Humor:** Theo will sich
+„ordnungsgemäß anmelden".
+**Cliffhanger [STIMME]:** Hinter ihnen, ruhig: „Geht nach Hause." Halder.
 
-### Kapitel 3 – „Die Schublade, die sie nie öffnen durfte"
-Frieda erklärt, wie sie an die Unterlagen kam — ihr eigener Schlüssel zur Werkstatt, eine
-Schublade, die immer tabu war, ein Zeitfenster, während er unterwegs war. **Schatten:**
-unruhig bei der Erwähnung der Werkstatt — alte, vertraute Anspannung. **Humor:** knapp,
-Theos nervöses „Und wenn er's merkt?". **Cliffhanger [OBJEKT]:** Sie legt die Mappe auf den
-Tisch, öffnet sie aber noch nicht.
+### Kapitel 3 – „Nicht noch einmal"
+Das erste echte Gespräch seit S2-3. Halder müde, gehetzt, höflich. Warum er hier ist (Mechanik 13).
+Warum dieser Geist: „So einer wie damals." Nora: „Haben Sie ihn gefragt?" Halder: „Ich weiß, was er
+braucht." (Echo seines Fehlers aus S2-3: „Ich dachte, ich hätte verstanden.") Die Falle steht
+schon. **Schatten:** Nackenhaare gegen Halder wie in S2-3, bleibt aber an Noras Bein. **Humor:**
+knapp, Theo, angespannt.
+**Cliffhanger [DIALOG]:** Halder: „Diesen lasse ich nicht los. Nicht noch einmal."
 
-### Kapitel 4 – „Was in den Unterlagen steht" (ABSCHLUSS AKT 1)
-Gemeinsam lesen sie die Zeitungsausschnitte und den Feuerwehrbericht. Ort und Zeitpunkt des
-Feuers passen nicht zu Halders eigener Erinnerung. **Schatten:** legt den Kopf auf Friedas
-Knie, als spüre er, was das für sie bedeutet. **Humor:** keiner, bewusst ernster Akt-Schluss.
-**Cliffhanger [ERKENNTNIS]:** Es war nicht seine Schuld. Und er weiß es seit dreißig Jahren
-nicht.
+### Kapitel 4 – „Der Faden" (ABSCHLUSS AKT 1)
+Der Geist zieht in die Ruine seines Hauses, will vor ihnen fliehen — **Rückriss**, live. Zum ersten
+Mal sieht Nora den Faden (Mechanik 3), weil Halder danebensteht. Halder geht, die Hand unruhig.
+Nora sieht nicht weg: Sie bleibt, kniet, spricht mit dem Geist, der jetzt Schmerzen hat.
+**Schatten:** Theo hält ihn fest, als er zum Geist will. **Humor:** keiner (Ausnahme 1).
+**Cliffhanger [ERKENNTNIS]:** Der Geist, zum ersten Mal leise: Er redet nur mit dem, der ihn
+festgemacht hat. Nora begreift: Halder hat nicht gefragt — und sie selbst auch nicht.
 
-## AKT 2 — Der Weg zur Werkstatt (K5–9)
+## AKT 2 — Fragen (K5–K9) · Tag 1 Abend bis Tag 2
 
-### Kapitel 5 – „Was jetzt damit?"
-Diskussion: Wie sagt man das jemandem, der sein ganzes Leben darauf gebaut hat? Direkt
-konfrontieren oder erst vorbereiten? **Schatten:** bleibt nah bei Frieda, nicht bei Nora —
-neue, bewusste Positionierung. **Humor:** Theo schlägt einen zu vorsichtigen Plan vor, wird
-verworfen. **Cliffhanger [GEDANKE/ENTSCHLUSS]:** Frieda: Sie muss es ihm selbst sagen, heute,
-in der Werkstatt.
+### Kapitel 5 – „Herrn Halders Tochter"
+Abend, es klingelt. Mama öffnet und erkennt Frieda: „Du bist doch die Tochter von Herrn Halder!
+Grüß ihn, die Standuhr geht wie eine Eins." In Noras Zimmer: Frieda war in der Werkstatt, mit
+ihrem eigenen Schlüssel. Zeitungsausschnitte, zerlesen. Und ein Umschlag, nie geöffnet.
+**Schatten:** legt sich vor Frieda, den Kopf Richtung Umschlag. **Humor:** Mama, Theo.
+**Cliffhanger [OBJEKT]:** Der Umschlag auf Noras Bett. „Er hat alles hundertmal gelesen. Nur das
+nicht."
 
-### Kapitel 6 – „Er ist zurück"
-⚠️ **Präzisiert (Phase 3):** Halder war für die Suche im Zeitfenster seiner Abwesenheit
-(Mechanik Punkt 3) mehrere Tage fort; Frieda kam direkt danach zu den Kindern. Ein kurzer
-Zwischenstopp bei einer vertrauten Quelle (z. B. Frau Held oder ein Gerücht von der Straße)
-bestätigt: Er ist bereits wieder zurück, mit dem neuen, gebundenen Fall — was die Dringlichkeit
-erklärt, es ihm **heute** zu sagen, bevor er die durchsuchte Schublade selbst bemerkt.
-**Schatten:** knurrt kurz in Richtung Werkstatt, dann still. **Humor:** ein angespannter,
-kurzer Scherz von Theo, der nicht ganz zündet. **Cliffhanger [ERKENNTNIS]:** Er ist schon
-zurück — sie haben weniger Zeit, als sie dachten.
+### Kapitel 6 – „Vierzig Minuten"
+Frieda kann ihn allein nicht öffnen. Theo setzt sich zu ihr. Nora denkt an Herberts Karten
+(„Weil Abschicken heißt, dass man sich irren könnte"). Frieda öffnet. Einsatzbericht: Alarm kurz
+nach elf, Brandausbruch mehrere Straßen entfernt (Mechanik 6). Frieda: „Er sagt immer: als es
+zwölf schlug." Nora erinnert sich an die kleine Uhr auf zwölf in der Werkstatt. Frieda: „Seine.
+Die darf keiner anfassen." **Schatten:** steht auf, als Frieda zu zittern anfängt. **Humor:** Theo,
+leise.
+**Cliffhanger [ERKENNTNIS]:** Es hat schon gebrannt, als er angefangen hat.
 
-### Kapitel 7 – „Der Weg zur Werkstatt"
-⚠️ **Reise-Übergang (Serienmuster, `PLAN_Staffel2.md` Abschnitt 15, Abweichung 5):** Der
-Weg zum Stadtrand, zu dritt, angespannt, wenig Worte. **Schatten:** unruhig während des
-gesamten Wegs. **Humor:** keiner. **Cliffhanger [STIMME/GERÄUSCH]:** Von drinnen, durch die
-Werkstatt-Tür, das leise, vielstimmige Ticken zahlloser Uhren.
+### Kapitel 7 – „Wer es ihm sagt"
+Plan: Frieda sagt es ihm selbst, morgen Abend in der Werkstatt. Theo: „Ich geh mit dir." Nora
+lässt ihn (Geschwisterbogen). Nora will morgens zum Geist zurück. Mia schreibt: letzter
+Ferientag, Freibad — Nora sagt ab, diesmal bewusst, und weiß, was es kostet (Risiko 5).
+**Schatten:** weiß nicht, wem er folgen soll, legt sich zwischen alle drei. **Humor:** Theo.
+**Cliffhanger [KOMPLIKATION]:** Frieda: Wenn er heute Nacht die Schublade aufmacht, weiß er es
+sowieso.
 
-### Kapitel 8 – „Vor der Tür"
-Sie zögern vor dem Eingang. Frieda mit der Mappe in der Hand. **Schatten:** das erste
-Anzeichen der Überwältigung — viele Präsenzen zugleich, wie in S2-2, aber diesmal spürbar
-anders. Theo hält ihn fest, beruhigt ihn (Ausführungsrisiko 3, Pflichtszene). **Humor:**
-keiner, Anspannung trägt das Kapitel. **Cliffhanger [SPANNUNG/UNSICHERHEIT]:** Frieda öffnet
-die Tür, bevor jemand sie aufhalten kann.
+### Kapitel 8 – „Versprochen"
+Tag 2, früh. Erst der Park: Marie sitzt da und wartet. Sie halten ihr Versprechen. Wenige Sätze,
+nichts verändert sich, nichts wird versprochen. **Schatten:** legt sich zu ihr wie in S2-4. Auf dem
+Weiterweg rechnet Nora nach: Neunundneunzig warten seit Mai, und sie waren nie wieder dort
+(Fundliste B3). **Humor:** Theo, sanft.
+**Cliffhanger [GEDANKE/ENTSCHLUSS]:** Drei Monate. Heute nicht mehr.
 
-### Kapitel 9 – „Drinnen" (ABSCHLUSS AKT 2)
-⚠️ **Ton bewusst abgegrenzt von S2-2 Akt 2 „Das Ausmaß" (Uniqueness-Pass):** Dort war das
-Ausmaß ein **Schock der Entdeckung** — die Kinder ahnten nichts, das Bild löste Furcht aus.
-Hier ist es ein **Wiedersehen mit Entschlossenheit**: Sie wissen bereits, was sie erwartet
-(aus eigener Erinnerung an S2-2), der Anblick bestätigt nur, wie viel auf dem Spiel steht,
-statt sie zu überraschen. Nora registriert nüchtern, nicht erschrocken: *So viele. Immer noch
-so viele.* Der volle Anblick: Dutzende Uhren, Dutzende Schlösser, Dutzende schemenhafte,
-gebundene Gestalten — seit S2-2 nicht kleiner geworden. Halder dreht sich um, sieht Frieda
-mit der Mappe. **Schatten:** von Theo gehalten, winselt, aber bleibt. **Humor:** keiner.
-**Cliffhanger [BILD]:** Das ganze Ausmaß der Werkstatt — nicht neu, aber diesmal mit dem
-festen Vorsatz, dass es das letzte Mal ist.
+### Kapitel 9 – „Bring ihn her" (ABSCHLUSS AKT 2)
+Lagerhallen. Der gebundene Geist, schwächer, in Schmerzen. Nora hört zu, so weit er sie lässt —
+Bruchstücke seiner Geschichte, nicht die Lösung (die bekommt nur, wer fragt, und er will Halder).
+**Schatten:** liegt vor der Ruine, steht nicht auf. **Humor:** ein trockener Theo-Satz.
+**Cliffhanger [DIALOG]:** Der Geist: „Bring mir den, der mich festgemacht hat."
 
-## AKT 3 — Was er nie gefragt hat (K10–13)
+## AKT 3 — Was er nie gefragt hat (K10–K13) · Tag 2 Abend
 
-### Kapitel 10 – „Was du nie gefragt hast"
-⚠️ **Präzisiert (Phase 3, Konsistenz mit Mechanik Punkt 8):** Die erste Überwältigung klingt
-ab — Theo kann ihn jetzt loslassen, ohne dass das schon der K15-Zahltag ist (Schatten bleibt
-im Raum, gewöhnt an die Umgebung). Frieda tritt vor, hält ihm die Mappe hin — nicht als
-Anklage geschrien, sondern ruhig, bestimmt. **Schatten:** ruhiger jetzt, nicht mehr
-gehalten, an Noras Seite. **Humor:** keiner, ideologischer Kern des Bandes. **Cliffhanger
-[AKTION]:** Sie legt die Unterlagen in seine Hände.
+### Kapitel 10 – „Neunundneunzig Fäden"
+Überleitungszeile für den Weg (Serienmuster). Seitentür, neuer Riegel, Friedas Schlüssel. Drinnen:
+Regale, Uhren, die rückwärts laufende an der Tür, die Reiseuhr auf zwölf. Halder ist da — und
+darum sind die Fäden sichtbar, alle. Er hat heute früh die leere Schublade gefunden und wartet
+seitdem (löst die Komplikation aus K7 ein). **Schatten:** überwältigt wie in S2-2; Theo hält ihn kurz,
+dann stellt er sich zu Frieda. **Humor:** keiner nötig, ein Atemzug von Theo.
+**Cliffhanger [BILD]:** Halder dreht sich um und sieht seine Tochter zwischen denen stehen.
 
-### Kapitel 11 – „Das kann nicht sein"
-Er liest, weist es zunächst zurück — die Berichte seien unvollständig, es gebe andere
-Erklärungen, er kenne diese Nacht besser als ein Blatt Papier. **Schatten:** wachsam,
-zwischen den Kindern und Halder. **Humor:** keiner. **Cliffhanger [DIALOG]:** Halder: „Ihr
-versteht nicht, was ich in dieser Nacht gesehen habe."
+### Kapitel 11 – „Ein Blatt Papier"
+Halders Verletzung, leise. Frieda gibt ihm den geöffneten Umschlag: „Du hast ihn nie aufgemacht."
+Er erkennt ihn. Abwehr: „Ihr versteht nicht, was ich in dieser Nacht gesehen habe." Nora denkt an
+ihren eigenen Satz aus S2-3 — und sieht, dass er stimmt. **Schatten:** zwischen Kindern und Halder,
+wachsam, ohne zu knurren. **Humor:** ein einziger Theo-Satz zur Entlastung.
+**Cliffhanger [AKTION]:** Frieda nimmt seine Hand und dreht ihn zur kleinen Uhr.
 
-### Kapitel 12 – „Dreißig Jahre"
-Er rechnet die Zeiten selbst nach — als Uhrmacher kann er es nicht anders. Die Zahlen stimmen
-nicht mit seiner eigenen Erinnerung überein. **Schatten:** legt sich, ausnahmsweise, zu
-seinen Füßen — dieselbe tröstende Reaktion wie einst bei Ilse. **Humor:** keiner, der
-emotionale Tiefpunkt des Bandes für ihn. **Cliffhanger [ERKENNTNIS]:** Nora sieht es zuerst:
-Der genaue Moment, in dem dreißig Jahre Gewissheit brechen.
+### Kapitel 12 – „Zwölf"
+Der Uhrmacher kann nicht anders, er rechnet: Alarm kurz nach elf, die Uhr auf zwölf. Vierzig
+Minuten. Er bestätigt, warum er nie geöffnet hat. Der Bruch, nicht laut. **Schatten:** legt sich zu
+seinen Füßen (vgl. Ilse, S2-3 K13). **Humor:** keiner (Ausnahme 2).
+**Cliffhanger [ERKENNTNIS]:** Halder: „Und der von den Lagerhallen?" Nora sieht: Der Beweis hat ihm
+den Grund genommen, nicht die Angst.
 
-### Kapitel 13 – „Der letzte Weg" (ABSCHLUSS AKT 3)
-⚠️ **Bewusst anders inszeniert als S2-3 K10 (Konsistenz-Check, Uniqueness-Pass):** S2-3 K10
-ließ Halder wortlos aufstehen und zu einer Tür quer durch den Raum gehen — dieselbe Geste
-hier zu wiederholen (wortlos umdrehen, zu einem Schrank laufen) hätte sich wie eine
-Zweitverwertung angefühlt. **Stattdessen:** Er bewegt sich gar nicht durch den Raum. Er
-spricht zuerst — leise, resigniert: „Es gibt einen Schlüssel, den ich nie benutzt habe."
-Dann greift er sich an den Hemdkragen und zieht eine dünne Kette hervor, die er die ganze
-Zeit unter der Kleidung getragen hat — daran der Schlüssel. Er hat den Zweifel, dass er sich
-irren könnte, buchstäblich am eigenen Körper getragen, dreißig Jahre lang, ohne es sich
-einzugestehen. **Schatten:** ruhig, dicht bei ihm, nicht mehr alarmiert. **Humor:** keiner.
-**Cliffhanger [OBJEKT]:** Der Schlüssel, an einer Kette um seinen Hals — die ganze Zeit bei
-ihm, nie benutzt.
+### Kapitel 13 – „Fragen Sie ihn" (ABSCHLUSS AKT 3)
+Nora: „Er will mit Ihnen reden. Nur mit Ihnen." Frieda: „Du hast nie einen gefragt. Keinen." (Echo
+Ilse.) Halder willigt ein: morgen bei Sonnenaufgang. Als er seinen Schlüsselbund nimmt, sieht Nora
+die dünne Kette an seinem Hals. **Schatten:** begleitet Halder bis zur Tür, das erste Mal ohne
+Abstand. **Humor:** Theo auf dem Heimweg.
+**Cliffhanger [OBJEKT]:** „Was ist das?" — „Nichts." Er schiebt die Kette unter den Kragen.
 
-## AKT 4 — Der letzte Schlüssel (K14–18)
+## AKT 4 — Der letzte Schlüssel (K14–K18) · Tag 3
 
-### Kapitel 14 – „Der letzte Schlüssel"
-Er zieht die Kette über den Kopf, hält den Schlüssel einen Moment in der offenen Hand, bevor
-er zum zentralen Schloss der Werkstatt geht — die einzige Bewegung durch den Raum in dieser
-Szene, jetzt mit Ziel, nicht als wortloser Rückzug. Er erklärt knapp, was der Schlüssel ist
-— immer für den Fall gemacht, dass er selbst einmal falsch gelegen haben könnte (ein
-stiller, bereits vorher vorhandener Zweifel, den er nie zugegeben hat). ⚠️ **Zweiter Halt
-(Phase 3, Mechanik Punkt 8):** Schatten spürt die bevorstehende Freisetzung, wird erneut
-unruhig — Theo hält ihn ein zweites Mal, jetzt bewusst, in Erwartung dessen, was gleich
-kommt. Er setzt den Schlüssel an. **Schatten:** von Theo gehalten, vollkommen still,
-gespannt. **Humor:** keiner, emotionaler Höhepunkt. **Cliffhanger [OBJEKT]:** Der Schlüssel
-dreht sich.
+### Kapitel 14 – „Was brauchst du?"
+Sonnenaufgang bei den Lagerhallen. Halder kniet vor dem Geist. Er fragt. Der Geist antwortet —
+sein wahres Bedürfnis (Abschnitt B). Nora sagt nur: „Nicht entscheiden. Fragen." Das Schloss
+öffnet sich von selbst, bevor Halder den Schlüssel ansetzt. Der Geist geht. Nichts brennt.
+**Schatten:** setzt sich in die Morgensonne, wo der Geist stand (Echo S2-1). **Humor:** Theo, müde.
+**Cliffhanger [DIALOG]:** Halder zieht die Kette hervor, daran ein winziger Schlüssel: „Es gibt
+noch eine Uhr, die ich aufziehen muss."
 
-### Kapitel 15 – „Dutzende"
-Alle Bindungen der Werkstatt lösen sich zugleich. Zwei, drei konkrete, kurze Bilder befreiter
-Gestalten (nie benannt) tragen die Szene, dahinter das volle Ausmaß. **Schatten:**
-überwältigt, aber zum ersten Mal freudig statt bedrohlich — Theo lässt ihn los, er läuft
-aufgeregt, nicht ängstlich, durch den Raum. **Humor:** ein warmer, erleichterter Theo-Moment,
-passend zur Größe der Szene. **Cliffhanger [BILD]:** Der letzte kalte Leine-Lichtfaden
-erlischt, einer nach dem anderen.
+### Kapitel 15 – „Der letzte Schlüssel"
+Werkstatt. Halder erklärt in wenigen Sätzen die Regel (Abschnitt C). Er nimmt die Reiseuhr vom
+Nagel, steckt den Schlüssel ein. Zögert. Frieda wartet, sagt nichts. **Schatten:** spürt, was kommt;
+Theo hält ihn, das zweite und letzte Mal. **Humor:** ein kleiner, nervöser Theo-Satz.
+**Cliffhanger [STIMME/GERÄUSCH]:** Das erste Ticken nach dreißig Jahren.
 
-### Kapitel 16 – „Was bleibt von ihm"
-Halder, allein zwischen den leeren Schlössern, sagt nicht viel. Sein weiteres Schicksal
-bleibt bewusst offen — kein Urteil, keine Rettung, nur ein Mensch, der neu anfangen muss.
-**Schatten:** ruhig, hält Abstand zu ihm, aber nicht mehr abwehrend. **Humor:** keiner.
-**Cliffhanger [SPANNUNG/UNSICHERHEIT]:** Nora weiß nicht, was jetzt aus ihm wird — und merkt,
-dass sie es nicht wissen muss.
+### Kapitel 16 – „Neunundneunzig"
+Alle Uhren finden dieselbe Zeit; die rückwärts laufende an der Tür dreht vorwärts. Die Schlösser
+klicken, die Fäden verlöschen einer nach dem anderen. Zwei, drei kurze Bilder von Gehenden.
+**Schatten:** überwältigt, diesmal vor Freude, läuft durch die Gänge. **Humor:** Theo zählt rückwärts
+mit und hört auf („Ich hör auf zu zählen" — Echo S2-2).
+**Cliffhanger [BILD]:** In der stillen Werkstatt stehen noch drei. Halder sieht Nora an. „Und die?"
+— „Die müssen Sie fragen."
 
 ### Kapitel 17 – „Frieda"
-Abschied vor der Werkstatt. Friedas eigener Weg bleibt offen, aber sie ist zum ersten Mal
-nicht mehr zwischen zwei Seiten gefangen. **Schatten:** an ihrer Seite, ein letztes Mal in
-diesem Band. **Humor:** ein leiser, warmer Theo-Kommentar. **Cliffhanger [DIALOG]:** Frieda:
-„Ich weiß immer noch nicht, was als Nächstes kommt. Aber jetzt weiß ich wenigstens, was
-wahr ist."
+Morgen im Werkstatthof. Halder sitzt beim Ersten der drei, ein Notizbuch auf dem Knie, und hört
+zu. Was danach aus ihm wird, weiß niemand — er auch nicht. Frieda bleibt bei ihm, vorerst. Abschied
+Theo–Frieda. **Schatten:** an Friedas Seite bis zum Tor. **Humor:** warm, Theo.
+**Cliffhanger [DIALOG]:** Frieda: „Ich weiß nicht, was jetzt kommt. Aber ich weiß, was wahr ist."
 
-### Kapitel 18 – „Was bleibt" (EPILOG, ABSCHLUSS AKT 4 UND DER STAFFEL)
-Rückkehr nach Hause, ruhiger Abschluss der ganzen Staffel — kein neuer Cliffhanger, sondern
-ein warmes, offenes Bild (wie Band 5s Schlusskapitel). **Schatten:** entspannt, zu Hause.
-**Humor:** ein letzter, liebevoller Theo-Moment. **Kein klassischer Cliffhanger** — bewusster
-Staffel-Abschluss, analog zu Band 5 K18. Bewusst kein Staffel-3-Versprechen und kein
-Staffel-3-Ausschluss — Halders offenes Schicksal bleibt die einzige unbeantwortete Tür.
+### Kapitel 18 – „Was bleibt" (EPILOG, ENDE STAFFEL 2)
+Ein paar Tage später, erster Schultag. Mia. Mama in der Küche, die Standuhr schlägt — „zu genau" fand Nora sie im
+Juli, heute stimmt sie einfach. Schatten in einem Sonnenfleck. Ein letzter Theo-Satz. Kein
+Cliffhanger, kein Staffel-3-Versprechen, kein Ausschluss — Halders Weg bleibt die offene Tür.
 **ENDE STAFFEL 2.**
 
 ---
 
-# Übergangs-Gesamtprüfung (vorläufig — vollständige Prüfung folgt in Phase 3)
+# Cliffhanger-Typenfolge (vorläufig — Register wird in Phase 3 neu gebaut)
 
-Ein bewusster interner Zeitsprung (K1→K2, ~3 Wochen) — einziger echter Zeitsprung
-*innerhalb* eines Bandes in der ganzen Staffel, ausdrücklich markiert, kein Fehler. Ein
-Reise-Übergang wie erwartet (K6→K7, Serienmuster). Alle übrigen Übergänge scheinen direkt
-aufzulösen. **Vollständige Prüfung folgt in Phase 3.**
+BILD · STIMME · DIALOG · ERKENNTNIS · OBJEKT · ERKENNTNIS · KOMPLIKATION · GEDANKE ·
+DIALOG · BILD · AKTION · ERKENNTNIS · OBJEKT · DIALOG · STIMME · BILD · DIALOG · BILD (Abschluss)
 
----
+Keine zwei gleichen Typen hintereinander (geprüft). ERKENNTNIS 3× (K4, K6, K12), DIALOG 4×
+(K3, K9, K14, K17), BILD 4× (K1, K10, K16, K18).
 
-# Cliffhanger-Typenfolge (vorläufig, volle Prüfung in Phase 3)
+# Übergänge (vorläufig)
 
-⚠️ **Korrigiert in Phase 3:** K6 war ursprünglich BILD (fünftes Mal in der Folge) — beim
-Gegenzählen inhaltlich präziser als ERKENNTNIS erkannt (der Kern des Beats ist die
-Information „er ist zurück", nicht das Bild des Wagens selbst). Vollständige Prüfung in
-`Cliffhanger_Register_S2-5.md`.
+- Tag 0 → K1: Brücke im ersten Absatz (Abschnitt A).
+- K4 → K5: Zeitsprung Vormittag → Abend, eine Zeile.
+- K7 → K8: Nacht → Morgen.
+- K9 → K10: **Weg zur Werkstatt** (Serienmuster, Überleitungszeile).
+- K13 → K14: Nacht → Sonnenaufgang.
+- K14 → K15: **Weg Lagerhallen → Werkstatt** (zweiter Reiseübergang, Überleitungszeile).
 
-DIALOG · BILD · OBJEKT · ERKENNTNIS · GEDANKE/ENTSCHLUSS · ERKENNTNIS · STIMME/GERÄUSCH ·
-SPANNUNG/UNSICHERHEIT · BILD · AKTION · DIALOG · ERKENNTNIS · AKTION · OBJEKT · BILD ·
-SPANNUNG/UNSICHERHEIT · DIALOG · BILD (Staffel-Abschluss, kein echter Cliffhanger)
+# Was gegenüber der alten Outline wegfällt
+
+- K1 als Wiederholung von S2-4 K10–K15 (Fundliste A1), der Drei-Wochen-Sprung (A2).
+- „Marie bleibt unerwähnt" (A6). „Der S2-4-Geist wird stillschweigend Teil der Dutzenden".
+- Der Hauptschlüssel, der alle Schlösser aufsperrt (A5), und der Satz, Halder habe die Fakten
+  dreißig Jahre nicht angesehen (A4).
+- Frau Held als Quelle (Marvins Bruder ist etabliert).
