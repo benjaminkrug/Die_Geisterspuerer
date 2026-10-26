@@ -5,7 +5,8 @@
 > vier Autorentscheidungen vom 26.10.: **(1)** Anfang am Morgen nach S2-4, wenn es passt (geprüft:
 > passt, siehe Abschnitt A) · **(2)** Halders Wende = Beweis **und** Erlebnis · **(3)** Schlüssel/Uhr
 > erst prüfen, dann einbauen (geprüft, Abschnitt C) · **(4)** Marie: kurzer Besuch.
-> **Offen beim Autor:** das Profil des Geistes von den Lagerhallen (Abschnitt B).
+> Dazu (26.10., zweite Runde): **(5)** Geist von den Lagerhallen = der Wächter · **(6)** der Geist
+> von Weißenbrück ging damals wirklich (K12).
 >
 > Grusel **8–9/10**, Perspektive 3. Person nah an Nora. Phase 2 von 6. Die Phase-3-Dateien
 > (Kontinuität, Tracker, Register, Szenenplanung) werden **nach Freigabe dieser Outline** neu
@@ -74,7 +75,7 @@ Ferienwochen vorbei sind) — sonst stimmt das Ferienende nicht.
 
 ---
 
-# B. Der Geist von den Lagerhallen — ⚠️ Profil offen (Autor)
+# B. Der Geist von den Lagerhallen — ✅ entschieden: der Wächter (Autor, 2026-10-26)
 
 **Was er leisten muss (fest):**
 1. **Wütend, nicht böse** — laut, abweisend, rüttelt an Toren. Halder hält ihn für „so einen wie
@@ -88,7 +89,8 @@ Ferienwochen vorbei sind) — sonst stimmt das Ferienende nicht.
    (Schuld an der Tür), Marie (Schwester).
 5. Tod off-page, kein Blut, kein Unfall-Detail.
 
-**Vorschlag (Empfehlung): der Wächter.** Ein Mann, der jahrzehntelang nachts die Lagerhallen
+**Entscheidung: der Wächter.** (Name und Todesjahr in der neuen Kontinuität festlegen; Tod
+off-page, ruhig — z. B. in einer Winternacht im Wächterhäuschen eingeschlafen, kein Unfall.) Ein Mann, der jahrzehntelang nachts die Lagerhallen
 bewacht hat und im Wächterhäuschen daneben wohnte (längst abgerissen). Was wie Wut aussieht, ist
 sein Rundgang: Er rüttelt jede Nacht an jedem Tor und schreit jeden an, der hier nichts verloren
 hat. Er kann nicht aufhören zu bewachen, obwohl nichts mehr da ist. Was er braucht: **seine
@@ -99,7 +101,8 @@ Rätsel des Bandes: Hinweise auf den Wächter (Rundgang, Tore, „Hier hat keine
 die Auflösung („Sie sind abgelöst") erst in K14. **Warum das trägt:** Er ist Halders Spiegel — ein Beschützer,
 der nicht aufhören kann. Wenn Halder ihn fragt und ihm „Du darfst aufhören" sagt, sagt er es
 sich selbst. Das macht das Erlebnis (Entscheidung 2) zu Halders eigenem Loslassen.
-Alternativen: siehe Frage an den Autor.
+Verworfen: der Lehrling (drittes Kind nach Marie), die Frau ohne Haus (zu nah an Gretes
+Erinnern).
 
 ---
 
@@ -333,7 +336,10 @@ wachsam, ohne zu knurren. **Humor:** ein einziger Theo-Satz zur Entlastung.
 
 ### Kapitel 12 – „Zwölf"
 Der Uhrmacher kann nicht anders, er rechnet: Alarm kurz nach elf, die Uhr auf zwölf. Vierzig
-Minuten. Er bestätigt, warum er nie geöffnet hat. Der Bruch, nicht laut. **Schatten:** legt sich zu
+Minuten. Er bestätigt, warum er nie geöffnet hat. Und er sagt, was er nie jemandem gesagt hat:
+Der Geist von Weißenbrück ist in jener Nacht wirklich gegangen. Er hat es geschafft — und konnte
+es dreißig Jahre lang nicht als Erfolg sehen (Autorentscheidung 2026-10-26; schließt S2-3 Z. 1145).
+Der Bruch, nicht laut. **Schatten:** legt sich zu
 seinen Füßen (vgl. Ilse, S2-3 K13). **Humor:** keiner (Ausnahme 2).
 **Cliffhanger [ERKENNTNIS]:** Halder: „Und der von den Lagerhallen?" Nora sieht: Der Beweis hat ihm
 den Grund genommen, nicht die Angst.

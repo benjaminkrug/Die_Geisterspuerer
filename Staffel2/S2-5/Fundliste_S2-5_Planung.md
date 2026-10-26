@@ -361,10 +361,10 @@ jetzige Stoff nicht (K2, K3, K6, K7 sind dünn). Mit dem Fall aus A2 sind 18 Kap
 
 **Umgesetzt in `Story_Outline_S2-5.md` (Neufassung):** A1–A6, B1 (Fäden als Signaturform), B2,
 B3, B4 (bis auf den Geist von Weißenbrück, s. u.), B5–B9, C1–C3, C5.
+5. Geist von den Lagerhallen: **der Wächter** (braucht seine Ablösung) — Outline Abschnitt B.
+6. Geist von Weißenbrück: **ging damals wirklich** — ein Satz von Halder in K12 (B4 damit erledigt).
+
 **Offen:**
-- **Profil des Geistes von den Lagerhallen** (Outline Abschnitt B) — Autor.
-- B4: Was aus dem Geist von Weißenbrück wurde — Autor (Vorschlag: Halder sagt in K12 einen Satz
-  dazu; er ging damals wirklich, das war ja nie das Problem).
 - B10: S2-4 K1 Z. 19 korrigieren (Ferien) — Voraussetzung für die S2-5-Zeitlinie.
 - B11: Phase-3-Dateien neu bauen (jetzt als überholt markiert), Hinweisketten-Tracker gegen die
   Texte nachziehen, `PLAN_Staffel2.md`-Stand und `Serien_Kanon.md` 7c aktualisieren.
