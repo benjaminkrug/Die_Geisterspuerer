@@ -369,7 +369,13 @@ behoben (K1 Ferien + „seit zwei Wochen ruhig", K2, K3, K5 ×2, K6, K10 ×2, K1
 gegen neu: keine neuen Sätze > 18 W, dialogfreie Blöcke gleich oder kürzer (K6 119→114).
 Neu kompiliert (18.535 W), Taschenbuch weiterhin **97 Seiten** → Cover gültig, eBook neu gebaut.
 
+**Erledigt 2026-10-26 (Schritt 2):** Phase-3-Dateien neu gebaut — `Kontinuitaet_S2-5.md`,
+`Setup_Payoff_Tracker_S2-5.md` (32 geerbte Fäden, gegen die Bücher belegt), `Cliffhanger_Register_S2-5.md`
+(mit Leser-Absicht, Regel S6), `Detaillierte_Szenenplanung_S2-5.md`. Dabei zwei neue Kanonpunkte
+gefunden und in die Outline übernommen: Der Wächter muss **nach** Band 5 gestorben sein (Silbers
+Karte ist exakt); die **Brandnarbe** (S2-3 K1) war nie eingelöst → Vorschlag in K12.
+
 **Offen:**
-- B11: Phase-3-Dateien neu bauen (jetzt als überholt markiert), Hinweisketten-Tracker gegen die
-  Texte nachziehen, `PLAN_Staffel2.md`-Stand und `Serien_Kanon.md` 7c aktualisieren.
+- Autor: Name des Wächters; Brandnarbe (Vorschlag heiße Klinke).
+- B11: Hinweisketten-Tracker gegen die Texte nachziehen, `PLAN_Staffel2.md`-Stand und `Serien_Kanon.md` 7c aktualisieren.
 - Restbefunde S2-4 (Abschnitt 3) — vor dem Upload.

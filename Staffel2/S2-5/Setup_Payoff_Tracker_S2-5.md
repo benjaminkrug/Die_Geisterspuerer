@@ -1,99 +1,129 @@
 # Setup & Payoff Tracker — S2-5 "Der letzte Schlüssel" (FINALE)
 
-> **⚠️ ÜBERHOLT seit 2026-10-26.** Diese Datei passt zur alten Outline vom 07.08. Gültig ist die
-> Neufassung von `Story_Outline_S2-5.md` (Funde in `Fundliste_S2-5_Planung.md`). Wird nach Freigabe der
-> neuen Outline neu gebaut — bis dahin nicht als Schreibgrundlage benutzen.
-
-
-> Phase 3 von 6 (`PLAN_Staffel2.md` Abschnitt 15). Format wie
-> `S2-4/Setup_Payoff_Tracker_S2-4.md`. **Letzter Band der Staffel — Pflicht zur Auflösung
-> gilt strenger als sonst:** Jeder Staffel-Faden aus S2-1–S2-4 muss hier entweder
-> geschlossen oder ausdrücklich als bewusst offen markiert sein.
+> Neu gebaut 2026-10-26 zur Outline-Neufassung (alte Fassung in der Git-Historie). **Letzter Band:**
+> Jeder Staffel-Faden muss hier geschlossen oder ausdrücklich als offen markiert sein.
+> Abschnitt A ist **gegen die Bücher** geprüft (Belege), nicht gegen Pläne.
+> Nach jedem geschriebenen Kapitel: Status setzen, Belegzeile aus dem neuen Kapitel eintragen.
 
 ---
 
-## A. Aus S2-1–S2-4 geerbte Fäden — Pflicht zur Auflösung
+## A. Aus S2-1 bis S2-4 geerbte Fäden
 
-| Geerbter Faden | Pflicht? | Wo in S2-5 |
-|---|---|---|
-| Die Bindungssignatur/„Leine-Lichtfaden" (S2-1, durchgehend bis S2-4) | **Ja** | K15 — erlischt mit der Werkstatt-Öffnung |
-| „Dutzende" gebundene Geister in der Werkstatt (S2-2 K12, seither offen) | **Ja** | K15 — Massenbefreiung |
-| Halders feste Feuer-Überzeugung (S2-3 K12) | **Ja** | K4 (Beleg gefunden), K10–K14 (Konfrontation) |
-| Ilses Dissens „Er hat mich nie gefragt" (S2-3 K13) | **Nein, bereits eigenständig abgeschlossen** | Betraf sein Recht zu binden, nicht die Feuer-Wahrheit — kein offener Rest (`../Hinweisketten_Tracker.md`, Präzisierung) |
-| „Jetzt weiß er, dass wir es wissen" (S2-3 K16) → „vorsichtiger, nicht aggressiver" (S2-4, korrigiert) | **Ja** | K6 — seine Vorsicht/Konsolidierung erklärt, warum er ausgerechnet jetzt mit einem neuen Fall unterwegs war, als Frieda die Schublade öffnen konnte |
-| Friedas Wanken (S2-4, durchgehend) | **Ja** | K1–K17, gesamter Band |
-| Der off-page gebundene Geist aus S2-4 K16 | **Ja** | K9/K15 — stillschweigend Teil der Dutzenden (Mechanik Punkt 9) |
-| Maries ungelöster Zustand (S2-4) | **Ja, durch bewusstes Nicht-Erwähnen** | Gesamter Band — kein Auftritt, keine Andeutung (Mechanik Punkt 10) |
-| Noras S2-4-Selbstzweifel („bin ich nicht genug") | **Ja** | K1 — löst sich auf, indem sie erkennt, dass ihr Beitrag woanders lag als erwartet |
-
-**Ergebnis:** Alle acht geerbten Fäden sind entweder aufgelöst oder — im Fall von Halders
-Schicksal (siehe Abschnitt C) — bewusst und ausdrücklich offengelassen. Kein Faden bleibt
-stillschweigend unbeantwortet.
-
----
-
-## B. Neue Setups in S2-5 → Payoffs (innerhalb des Bandes)
-
-| # | Setup (Kapitel) | Payoff (Kapitel) | Status |
+| # | Setup (Beleg) | Payoff in S2-5 | Status |
 |---|---|---|---|
-| 1 | Nora hört Frieda zu, ohne zu drängen (K1) | Gibt ihr den Mut, selbst zu suchen — sichtbar am Zeitsprung/ihrer Rückkehr (K2) | geplant |
-| 2 | Friedas eigener Werkstatt-Schlüssel erwähnt (K3) | Erklärt ihren Zugang zur sonst tabuisierten Schublade, keine neue Fähigkeit | geplant |
-| 3 | Die Mappe, ungeöffnet (K3) | Gemeinsam gelesen — Ort/Zeit passen nicht zu Halders Erinnerung (K4) | geplant |
-| 4 | Gerücht: Halder ist zurück (K6) | Erklärt die Dringlichkeit, ihn noch am selben Tag zu konfrontieren | geplant |
-| 5 | Das vielstimmige Ticken hinter der Tür (K7) | Der volle Anblick der Werkstatt (K9) | geplant |
-| 6 | Schatten überwältigt, Theo hält ihn (K8) | ⚠️ **Präzisiert (Phase 3):** Zwei Beats, kein durchgehendes Halten über neun Kapitel — Theo lässt ihn nach dem ersten Überwältigt-Sein los (K10), hält ihn ein zweites Mal kurz vor der Freisetzung (K14), lässt ihn dann endgültig los, er läuft freudig durch den Raum (K15) | geplant |
-| 7 | Die Mappe wird Halder übergeben (K10) | Sein Widerstand (K11), sein eigenes Nachrechnen (K12) | geplant |
-| 8 | „Ein Schlüssel, den er nie benutzt hat, gemacht für den Fall, dass er selbst falsch lag" (K14) | ⚠️ **Setup und Payoff im selben Kapitel** — kein Fehler: Es ist ein rückblickender Charakter-Reveal (ein seit Jahrzehnten unterdrückter Zweifel), kein Objekt, das schon früher hätte gezeigt werden müssen. Konsistent mit Band 5s Spiegel-Objekt, das ebenfalls in seiner vollen Bedeutung erst im Finale erklärt wird | geplant |
-| 9 | Der Leine-Lichtfaden (staffelweit, K1–K4 aller Vorbände) | Erlischt sichtbar, einer nach dem anderen (K15) | geplant |
-| 10 | Halders offenes Schicksal (K16) | ⚠️ **Bewusst NICHT aufgelöst** — siehe Abschnitt C | bewusst offen |
-| 11 | Friedas „Ich weiß immer noch nicht, was als Nächstes kommt" (K17) | ⚠️ **Bewusst NICHT vollständig aufgelöst** — ihr emotionaler Kernkonflikt (Wahrheit vs. Vater) ist gelöst, ihr konkreter Lebensweg absichtlich offen, wie es einer Nebenfigur am Ende einer Kinderbuch-Staffel zusteht (kein Erwachsenen-Epilog nötig) | bewusst offen, aber emotional abgeschlossen |
+| A1 | „Er sucht schon wieder einen. Und wir haben es gewusst. Und nicht hingesehen." (S2-4 K16, letzter Satz) | K1–K4: Nora fährt hin, sieht zu, bleibt beim Gebundenen | geplant |
+| A2 | Halder bei den Lagerhallen, „gehetzt", fragt „wer da früher gewohnt hat", „noch nicht gefunden" (S2-4 K16) | K1–K3: die Häuschen-Reihe, die Falle im Wächterhäuschen | geplant |
+| A3 | Frieda: „Ob's stimmt. Das mit dem Feuer." / „Ich will es wissen." (S2-4 K15) | K5: Sie hat gesucht und gefunden | geplant |
+| A4 | Marie: „Kommt ihr wirklich wieder?" — „Versprochen." (S2-4 K14, K15) | K8: Besuch, nichts verändert sich | geplant |
+| A5 | Mama: „Vor dem Frühstück? Ohne Zettel?" (S2-4 K16) | Nora lässt jedes Mal einen Zettel da; K17 Mama findet ihn | geplant |
+| A6 | Neunundneunzig in der Werkstatt, „Eine von hundert. Neunundneunzig übrig." (S2-2 K10); nie wieder dort gewesen | K8 ausgesprochen; K10 gesehen; K16 befreit, Theo zählt | geplant |
+| A7 | Frieda: „Kommt nicht wieder." (S2-2 K12; Echo S2-3 K1) | K10: Frieda öffnet ihnen selbst die Tür | geplant |
+| A8 | Frieda: „Das haben andere auch schon gedacht." (S2-2 K12) | K11 oder K17: Sie meinte ihren Vater mit achtzehn | geplant |
+| A9 | Die rückwärts laufende Uhr nahe der Tür (S2-2 K4) — **Titel von S2-2, nie eingelöst** | K10 gesehen; K16 dreht vorwärts | geplant |
+| A10 | Reiseuhr auf zwölf, Etikett mit Häkchen (S2-2 K6) — nie erklärt | K6 Nora erinnert sich; K11–K15 Halders Uhr | geplant |
+| A11 | Etiketten mit dreistelliger Zahl, „immer wieder aufgefrischt" (S2-2 K5) | K10/K12: Halders Buchführung; sein eigenes Häkchen | geplant |
+| A12 | „Ich glaube, jede Uhr gehört zu einem bestimmten Schloss" (S2-2 K6, Vermutung) | K10: neue Uhr für den Wächter; K15 Halder bestätigt | geplant |
+| A13 | „Und der eine, der passt?" — „Der ist bei dem, der das gebaut hat." (S2-1 K10) | K13 Schlüsselbund; K14 nicht nötig (Schloss geht von selbst auf); K15 der letzte Schlüssel | geplant |
+| A14 | „Man macht nichts auf, indem man einen Menschen fester zieht." (S2-1 K12) | K14: „Nicht entscheiden. Fragen." | geplant |
+| A15 | Herberts Karten: „Weil Abschicken heißt, dass man sich irren könnte" (S2-1 K11) | K6: Echo beim ungeöffneten Brief | geplant |
+| A16 | „Ich war nicht dort, als es anfing." / „Man hat mir gesagt, es sei Zufall gewesen." (S2-3 K12) | K6, K11: der Brief zeigt Zeit und Ort; Halder kennt die Ursachen-Erklärungen, nicht die Reihenfolge | geplant |
+| A17 | Der Geist von Weißenbrück, „älter … wütender" (S2-3 K12) — Schicksal nie genannt | K3 (der Wächter erinnert Halder daran); K12: er ging damals wirklich | geplant |
+| A18 | „Ich wollte auch so jemand sein." (S2-3 K12) | K14: Halder tut es zum ersten Mal; K17 er bleibt bei den drei | geplant |
+| A19 | Nora: „Ein Beweis schlägt keine Überzeugung, Theo." (S2-3 K12) | K11 Nora erinnert sich, es stimmt; K14 das Erlebnis | geplant |
+| A20 | Ilse: „Er hat mich nie gefragt, ob ich bleiben will." (S2-3 K13/K15) · Frieda: „Ich habe ihn nie gefragt, ob es stimmt." (S2-4 K11) | K13 Frieda: „Du hast nie einen gefragt."; K14 er fragt | geplant |
+| A21 | Halder: „Solche Uhren vergessen nichts. Man muss ihnen nur zuhören." (S2-3 K2) | K15: Nora oder Halder selbst erinnert daran | geplant |
+| A22 | Die Standuhr „geht jetzt zu genau" (S2-3 K2) | K18: heute stimmt sie einfach | geplant |
+| A23 | **Brandnarbe auf Halders rechtem Handrücken** (S2-3 K1, Nora verbindet sie mit dem Feuer, S2-3 K11) — nie erklärt | K12: ⚠️ Vorschlag heiße Klinke am Morgen danach (Autor) | offen (Autor) |
+| A24 | „Jetzt weiß er, dass wir es wissen." (S2-3 K16) | K3 erstes Gespräch; K10 neuer Riegel | geplant |
+| A25 | Mama kennt Halder und hat Frieda gesehen (S2-3 K2, K7) | K5: Mama erkennt Frieda | geplant |
+| A26 | Mia, abgesagt; Angst, wie leicht die nächste Absage fällt (S2-2 K2, K13) | K7 bewusste Absage mit Preis; K18 erster Schultag | geplant |
+| A27 | „Bis es hier auf einmal hell geworden war." (S2-4 K7) · Schlösser schon im August vor der Heilung (S2-1 K8, K16) | K3: Halder erklärt, warum er geblieben ist | geplant |
+| A28 | Theos System: „Knurren heißt böse, Winseln heißt traurig." (S2-4 K3) | K2: Schatten winselt beim wütenden Wächter | geplant |
+| A29 | Halders Wagen, gewienert (S2-3 K5) | K1 an den Lagerhallen | geplant |
+| A30 | Herbert blieb nach dem Öffnen, bis sein Knoten gelöst war (S2-1 K13–K14) | K16: drei bleiben | geplant |
+| A31 | Schatten altert (S2-3 K1, S2-4 K5) | K14–K17: er wird müde | geplant |
+| A32 | Ende Band 5: „Narben sind dünner als Haut", die Stadt „leuchtet" (Serien_Kanon) | K3 Halders Satz; K18 bleibt offen | geplant |
+
+**Bewusst nicht wieder aufgegriffen:** alle befreiten Geister (Staffel 1, Herbert, Grete, Ilse,
+Clara); Frau Brandt/Jule; Kubiak; die zwölf Markierungen.
 
 ---
 
-## C. Bewusst offene Fäden über das Staffel-Ende hinaus
+## B. Neue Setups in S2-5 → Payoff im Band
 
-| Offener Faden | Warum bewusst offen |
+| # | Setup | Payoff | Status |
+|---|---|---|---|
+| B1 | Rolltore rütteln der Reihe nach, wie auf einem Rundgang (K1); „Hier hat keiner was verloren" (K2); optional Kontrollkästen an den Toren | K14: Er ist der Wächter, er braucht seine Ablösung (faires Rätsel, siehe D2) | geplant |
+| B2 | Der Wächter „antwortet" (K2, Band-3-Probe: kein Echo) | K9/K14: Man kann mit ihm reden — wenn der Richtige fragt | geplant |
+| B3 | Halder: „Ich weiß, was er braucht." (K3) | K14: Er wusste es nicht; er fragt | geplant |
+| B4 | Der erste Faden, nur weil Halder danebensteht (K4) | K9 kein Faden (Halder fehlt); K10 neunundneunzig; K16 erlöschen | geplant |
+| B5 | Der Wächter: Er redet nur mit dem, der ihn festgemacht hat (K4, K9) | K14 | geplant |
+| B6 | Der ungeöffnete Brief (K5) | K6 geöffnet; K11 Halder erkennt ihn; K12 er sagt, warum | geplant |
+| B7 | „Als es zwölf schlug" + die Reiseuhr (K6) | K11–K12 Nachrechnen; K15 aufziehen | geplant |
+| B8 | Theo: „Ich geh mit dir." (K7) | K10–K12: Theo an Friedas Seite | geplant |
+| B9 | Komplikation: Schublade (K7) | K10: Halder hat sie heute früh gefunden und wartet | geplant |
+| B10 | Nora sagt Mia ab (K7) | K18 | geplant |
+| B11 | Neue Uhr an der Wand (K10) | K16: auch sie findet die richtige Zeit | geplant |
+| B12 | Die Kette am Hals: „Nichts." (K13) | K14: der Schlüssel; K15: aufziehen | geplant |
+| B13 | Halders Rest-Angst: „Und der von den Lagerhallen?" (K12) | K14: nichts brennt | geplant |
+| B14 | Drei bleiben (K16) | K17: Halder setzt sich zu ihnen — **bewusst offen**, wie es ausgeht | bewusst offen |
+
+---
+
+## C. Bewusst offen über das Staffel-Ende hinaus
+
+| Faden | Warum offen |
 |---|---|
-| Halders weiteres Schicksal (K16) | `PLAN_Staffel2.md` Abschnitt 6: möglicher Staffel-3-Faden — S2-5 darf ihn weder eindeutig „retten" noch endgültig verstoßen |
-| Friedas konkreter nächster Weg (K17) | Ihr emotionaler Bogen ist fertig; ein vollständiger Lebensweg-Epilog wäre unnötiges Gewicht für eine Nebenfigur |
-| Die genaue Brandursache | Serien-Entscheidung, bleibt für immer unklar (`PLAN_Staffel2.md` Abschnitt 6) — kein Setup, kein zukünftiger Payoff geplant oder nötig |
+| Halders weiterer Weg | Staffelplan: weder retten noch verstoßen; er bleibt bei den drei, mehr nicht |
+| Die drei, die bleiben | Ihr Ausgang gehört Halder, nicht den Kindern |
+| Friedas Zukunft | Emotional fertig (sie weiß, was wahr ist), konkreter Weg offen |
+| Die Brandursache | Serien-Entscheidung, nie benannt |
+| Marie | Was sie hält, ist Schuld; nur Clara könnte lösen (S2-4) |
+
+Keine Zeile darf diese Fäden versehentlich schließen (siehe Kontinuität, „Beim Schreiben aktiv
+prüfen").
 
 ---
 
-## D. Faire-Hinweis-Ketten — tatsächlich geprüft
+## D. Faire Hinweise
 
-**Vollständiger Rückwärtsdurchgang für Kette 2 (Pflicht vor S2-5,
-`../Hinweisketten_Tracker.md`, Regeln für die Pflege):**
+### D1 · Kette 2 (das Feuer), gegen die Texte geprüft
 
-| Band/Kapitel | Hinweis | Eskalationsstufe |
+| Band/Kap. | Hinweis (wörtlich) | Stufe |
 |---|---|---|
-| S2-1/S2-2 | — | kein verfrühter Hinweis (bestätigt) |
-| S2-3 K12 | Halder erzählt die Feuer-Geschichte als gefestigte, nie hinterfragte Überzeugung | Überzeugung etabliert, kein Zweifel gesät |
-| S2-3 K13 | Ilses „Er hat mich nie gefragt, ob ich bleiben will" | Zweifel an seinem **Recht zu binden** — ausdrücklich NICHT an der Tatsachenbehauptung (Präzisierung bereits im Tracker) |
-| S2-4 K11 | Friedas „Ich habe ihn nie gefragt, ob es stimmt" | Erster Zweifel an der **Prüfung**, nicht an der Tatsache selbst — liegt exklusiv bei Frieda |
-| S2-5 K3–K4 | Frieda findet Ort-/Zeit-Diskrepanz in Halders eigenen Unterlagen | Erste harte, objektive Spur |
-| S2-5 K10–K14 | Konfrontation, sein Widerstand, sein eigenes Nachrechnen, Zusammenbruch | Vollständige Auflösung |
+| S2-3 K12 | „Ich war nicht dort, als es anfing. Ich habe die Straße erst am Morgen gesehen." | **Fairster Hinweis:** Er kann nicht wissen, wann und wo es anfing |
+| S2-3 K12 | „Man hat mir gesagt, es sei Zufall gewesen. Ein alter Ofen. Ein Kurzschluss." | Es gab andere Erklärungen; er hat sie verworfen |
+| S2-3 K12 | „Für andere ist das vielleicht kein Beweis. Für mich war es dreißig Jahre lang genug." | Er weiß selbst, dass es kein Beweis ist |
+| S2-3 K13 | Ilse: „Dasselbe Feuer, ja. Aber nicht dieselbe Geschichte." | Es gibt mehr als eine Sicht auf die Nacht |
+| S2-4 K11 | Frieda: „Ich habe ihn nie gefragt, ob es stimmt. Ich habe es einfach geglaubt." | Zweifel an der Prüfung |
+| S2-4 K15 | Frieda: „Ob's stimmt. Das mit dem Feuer. Ob er wirklich keine andere Wahl hatte …" | Entschluss zu prüfen |
+| S2-5 K6 | Der Brief: 23.20 Uhr, mehrere Straßen entfernt | Harter Beleg |
+| S2-5 K11–K12 | Seine eigene Uhr auf zwölf | Er rechnet selbst nach |
 
-**Ergebnis:** Kette hält lückenlos über drei Bände. Jede Eskalationsstufe liegt bei einer
-anderen, plausiblen Figur (Ilse → Frieda → Frieda erneut, jetzt aktiv) und keine Stufe nimmt
-die nächste vorweg. Die in S2-3/S2-4 sorgfältig gepflegte Trennung „Zweifel am Recht" vs.
-„Zweifel an der Tatsache" trägt bis zum Schluss, ohne dass eine Figur versehentlich zu früh
-zu viel weiß.
+**Ergebnis:** Die Kette hält. Ein aufmerksamer Leser kann ab S2-3 K12 ahnen, dass Halder die
+Reihenfolge nie kennen konnte. Keine Stufe nimmt die Auflösung vorweg. ⚠️ Der
+`Hinweisketten_Tracker.md` führt die S2-3-Zeilen noch als „geplant" und S2-5 als „umgesetzt" —
+in Schritt 3 korrigieren.
 
-**Bandinterner Hinweis-Check (S2-5 selbst):** Kein separater interner Twist zu prüfen — S2-5
-liefert die bereits über drei Bände vorbereitete Auflösung, kein neues, verborgenes Geheimnis
-vor dem Leser. Die einzige echte Spannung liegt darin, *wie* Halder reagiert, nicht *ob* die
-Belege echt sind — dafür braucht es keine Hinweiskette, sondern glaubwürdige
-Charakterführung (Mechanik Punkt 5).
+### D2 · Bandinternes Rätsel: Was braucht der Wächter?
+
+| Kap. | Hinweis | Wer kann es erkennen |
+|---|---|---|
+| K1 | Die Tore rütteln **der Reihe nach**, eins nach dem anderen — wie ein Rundgang | Leser |
+| K2 | „Hier hat keiner was verloren!"; Taschenlampe; Arbeitsjacke; er antwortet | Leser, Nora halb |
+| K3 | Halder: „Wer da früher gewohnt hat" → das Wächterhäuschen | Leser |
+| K4 | Er redet nur mit dem, der ihn festgemacht hat | Nora |
+| K9 | Bruchstücke: die Nacht, in der er starb, kam niemand; er kann nicht weg „ohne dass einer kommt" | Leser kann lösen |
+| K14 | Halder fragt; „Sie sind abgelöst." | Auflösung |
+
+**Fairness:** Ab K9 hat der Leser alles, was er zum Lösen braucht. Nora löst es **nicht** selbst —
+nicht weil ihr ein Hinweis fehlt, sondern weil nur Halder ablösen kann. Gefahr: Wenn Nora in K9 das
+Wort „Ablösung" denkt, ist K14 verbraucht. Sie darf ahnen, nicht aussprechen.
 
 ---
 
 ## E. Regeln für die Pflege
 
-- Nach jedem geschriebenen Kapitel: Tabelle prüfen, Status aktualisieren.
-- ⚠️ **Letzter Band — besondere Pflicht:** Vor Abschluss von Phase 6 (Abschluss-Prüfung)
-  muss Abschnitt A dieser Datei noch einmal gegen alle fünf Bände der Staffel geprüft
-  werden — kein Faden darf beim Schreiben unbemerkt unter den Tisch fallen.
-- Die drei in Abschnitt C gelisteten Fäden dürfen **nicht** versehentlich im Manuskript doch
-  geschlossen werden (z. B. eine beiläufige Zeile, die Halders Zukunft andeutet) — jede
-  solche Formulierung beim Schreiben streichen.
+- Nach jedem Kapitel: Status setzen, neue Belegzeile.
+- Vor Phase 6: Abschnitt A noch einmal gegen alle fünf Staffel-Bände prüfen.
+- Abschnitt C darf nicht versehentlich geschlossen werden — jede solche Formulierung streichen.

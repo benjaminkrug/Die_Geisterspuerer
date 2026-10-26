@@ -1,84 +1,62 @@
 # Cliffhanger-Register — S2-5 "Der letzte Schlüssel" (FINALE)
 
-> **⚠️ ÜBERHOLT seit 2026-10-26.** Diese Datei passt zur alten Outline vom 07.08. Gültig ist die
-> Neufassung von `Story_Outline_S2-5.md` (Funde in `Fundliste_S2-5_Planung.md`). Wird nach Freigabe der
-> neuen Outline neu gebaut — bis dahin nicht als Schreibgrundlage benutzen.
-
-
-> Phase 3 von 6 (`PLAN_Staffel2.md` Abschnitt 15). Format wie
-> `S2-4/Cliffhanger_Register_S2-4.md`. Übernimmt die in `Story_Outline_S2-5.md` bereits
-> korrigierte Typenfolge (K6: BILD → ERKENNTNIS) — hier vollständig gegengeprüft.
+> Neu gebaut 2026-10-26 zur Outline-Neufassung (alte Fassung in der Git-Historie).
+> Typen wie in den Vorbänden: BILD, DIALOG, AKTION, STIMME/GERÄUSCH, GEDANKE/ENTSCHLUSS,
+> ERKENNTNIS, KOMPLIKATION, OBJEKT, SPANNUNG/UNSICHERHEIT.
+> Spalte „Leser soll fühlen" nach Regel S6 (`Schreibstil_Ergaenzung_Staffel2.md`).
+> Nach dem Schreiben: Spalte „Ist" mit dem tatsächlichen letzten Satz füllen und den Typ neu prüfen.
 
 ---
 
-## Cliffhanger-Typen
+## Register (geplant)
 
-Identisch zu den Vorbänden — BILD, DIALOG, AKTION, STIMME/GERÄUSCH, GEDANKE/ENTSCHLUSS,
-ERKENNTNIS, KOMPLIKATION, OBJEKT, SPANNUNG/UNSICHERHEIT.
-
----
-
-## Register (geplant — vor dem Schreiben, bereits korrigierter Stand)
-
-| Kapitel | Titel | Cliffhanger-Typ | Inhalt (kurz) |
-|---|---|---|---|
-| K1 | Ohne eine Antwort | DIALOG | Frieda: „Danke, dass du nicht gefragt hast." |
-| K2 | Drei Wochen später | BILD | Frieda vor der Tür, eine Mappe fest an sich gedrückt |
-| K3 | Die Schublade, die sie nie öffnen durfte | OBJEKT | Die Mappe auf dem Tisch, noch ungeöffnet |
-| K4 | Was in den Unterlagen steht | ERKENNTNIS | Es war nicht seine Schuld — und er weiß es seit 30 Jahren nicht |
-| K5 | Was jetzt damit? | GEDANKE/ENTSCHLUSS | Frieda: Sie muss es ihm heute selbst sagen |
-| K6 | Er ist zurück | ERKENNTNIS | Er ist schon zurück — weniger Zeit als gedacht |
-| K7 | Der Weg zur Werkstatt | STIMME/GERÄUSCH | Vielstimmiges Ticken hinter der Tür |
-| K8 | Vor der Tür | SPANNUNG/UNSICHERHEIT | Frieda öffnet die Tür, bevor jemand sie aufhalten kann |
-| K9 | Drinnen | BILD | Das ganze Ausmaß der Werkstatt, erstmals vollständig gesehen |
-| K10 | Was du nie gefragt hast | AKTION | Sie legt die Unterlagen in seine Hände |
-| K11 | Das kann nicht sein | DIALOG | Halder: „Ihr versteht nicht, was ich gesehen habe." |
-| K12 | Dreißig Jahre | ERKENNTNIS | Nora sieht den Moment, in dem seine Gewissheit bricht |
-| K13 | Der letzte Weg | AKTION | Er zieht eine Kette unterm Hemd hervor — der Schlüssel war die ganze Zeit bei ihm |
-| K14 | Der letzte Schlüssel | OBJEKT | Der Schlüssel dreht sich |
-| K15 | Dutzende | BILD | Der letzte Leine-Lichtfaden erlischt |
-| K16 | Was bleibt von ihm | SPANNUNG/UNSICHERHEIT | Nora weiß nicht, was aus ihm wird — und muss es nicht wissen |
-| K17 | Frieda | DIALOG | Frieda: „Jetzt weiß ich wenigstens, was wahr ist." |
-| K18 | Was bleibt (Epilog) | BILD (Staffel-Abschluss) | Kein echter Cliffhanger — warmes, offenes Schlussbild |
+| Kap. | Titel | Typ | Inhalt | Leser soll fühlen | Ist |
+|---|---|---|---|---|---|
+| K1 | Am anderen Ende | BILD | Die Rolltore rütteln der Reihe nach auf sie zu und hören direkt vor ihnen auf | Gänsehaut: Etwas weiß, dass sie da sind | — |
+| K2 | Hier hat keiner was verloren | STIMME/GERÄUSCH | Hinter ihnen, ruhig: „Geht nach Hause." (Halder) | Schreck, dann kalt: Er war die ganze Zeit da | — |
+| K3 | Nicht noch einmal | DIALOG | Halder: „Diesen lasse ich nicht los. Nicht noch einmal." | Angst *um* den Geist — und Verständnis für Halders Angst | — |
+| K4 | Der Faden | ERKENNTNIS | Der Wächter redet nur mit dem, der ihn festgemacht hat; Nora: Keiner hat ihn gefragt, auch sie nicht | Schuld und ein erster Faden Hoffnung | — |
+| K5 | Herrn Halders Tochter | OBJEKT | Der ungeöffnete Brief: „Er hat alles hundertmal gelesen. Nur das nicht." | Neugier, die man fast nicht aushält | — |
+| K6 | Vierzig Minuten | ERKENNTNIS | Es hat schon gebrannt, als er angefangen hat | Atem anhalten: Dreißig Jahre für nichts | — |
+| K7 | Wer es ihm sagt | KOMPLIKATION | Wenn er heute Nacht die Schublade aufmacht, weiß er es sowieso | Zeitdruck | — |
+| K8 | Versprochen | GEDANKE/ENTSCHLUSS | Drei Monate. Heute nicht mehr. | Entschlossenheit, die man teilt | — |
+| K9 | Bring ihn her | DIALOG | Der Wächter: „Bring mir den, der mich festgemacht hat." | Ein Auftrag, der unmöglich klingt | — |
+| K10 | Neunundneunzig Fäden | BILD | Halder dreht sich um und sieht seine Tochter zwischen „denen" | Mitleid mit beiden, und Angst vor dem, was er sagt | — |
+| K11 | Ein Blatt Papier | AKTION | Frieda nimmt seine Hand und dreht ihn zur kleinen Uhr | Jetzt kommt es | — |
+| K12 | Zwölf | ERKENNTNIS | „Und der von den Lagerhallen?" — der Beweis hat ihm den Grund genommen, nicht die Angst | Erleichterung, sofort wieder gebremst | — |
+| K13 | Fragen Sie ihn | OBJEKT | Die Kette am Hals: „Was ist das?" — „Nichts." | Ahnung: Da ist noch etwas | — |
+| K14 | Was brauchst du? | DIALOG | „Es gibt noch eine Uhr, die ich aufziehen muss." | Wärme und Spannung zugleich | — |
+| K15 | Der letzte Schlüssel | STIMME/GERÄUSCH | Das erste Ticken nach dreißig Jahren | Gänsehaut, diesmal die gute | — |
+| K16 | Neunundneunzig | BILD | Drei bleiben. „Und die?" — „Die müssen Sie fragen." | Lächeln, offen | — |
+| K17 | Frieda | DIALOG | „Ich weiß nicht, was jetzt kommt. Aber ich weiß, was wahr ist." | Abschied ohne Traurigkeit | — |
+| K18 | Was bleibt | Abschlussbild | Kein Cliffhanger; warmes, offenes Schlussbild | Zufriedenheit, ein bisschen Wehmut | — |
 
 ---
 
-## Muster-Wächter (Vorab-Kontrolle)
+## Muster-Wächter
 
-**Typenfolge (korrigiert):** DIALOG · BILD · OBJEKT · ERKENNTNIS · GEDANKE/ENTSCHLUSS ·
-ERKENNTNIS · STIMME/GERÄUSCH · SPANNUNG/UNSICHERHEIT · BILD · AKTION · DIALOG · ERKENNTNIS ·
-AKTION · OBJEKT · BILD · SPANNUNG/UNSICHERHEIT · DIALOG · BILD
+**Typenfolge:** BILD · STIMME · DIALOG · ERKENNTNIS · OBJEKT · ERKENNTNIS · KOMPLIKATION · GEDANKE ·
+DIALOG · BILD · AKTION · ERKENNTNIS · OBJEKT · DIALOG · STIMME · BILD · DIALOG · Abschluss
 
-- ✅ **Keine zwei gleichen Typen direkt hintereinander** — geprüft, Paar für Paar:
-  DIALOG/BILD · BILD/OBJEKT · OBJEKT/ERKENNTNIS · ERKENNTNIS/GEDANKE · GEDANKE/ERKENNTNIS ·
-  ERKENNTNIS/STIMME · STIMME/SPANNUNG · SPANNUNG/BILD · BILD/AKTION · AKTION/DIALOG ·
-  DIALOG/ERKENNTNIS · ERKENNTNIS/AKTION · AKTION/OBJEKT · OBJEKT/BILD · BILD/SPANNUNG ·
-  SPANNUNG/DIALOG · DIALOG/BILD — alle 17 Paare verschieden.
-- **Nachgezählt (nicht aus dem Entwurf übernommen):** ERKENNTNIS 4× (K4, K6, K12 —
-  ⚠️ **Korrektur: nur 3×**, nicht 4×; K4/K6/K12 sind die einzigen drei Stellen — siehe
-  Gegenprobe unten), BILD 4× (K2, K9, K15, K18), DIALOG 3× (K1, K11, K17), AKTION 2× (K10,
-  K13), SPANNUNG/UNSICHERHEIT 2× (K8, K16), OBJEKT 2× (K3, K14), GEDANKE/ENTSCHLUSS 1×
-  (K5), STIMME/GERÄUSCH 1× (K7). Summe: 3+4+3+2+2+2+1+1 = 18. ✅ stimmt.
-- ⚠️ **Selbstkorrektur beim Gegenzählen:** Der erste Zählversuch dieser Zeile behauptete
-  „ERKENNTNIS 4×", zählte dann aber nur drei Kapitel (K4, K6, K12) auf — ein Zählfehler im
-  eigenen Entwurf, direkt beim Verfassen dieser Kontrolle gefunden und korrigiert (dieselbe
-  Disziplin, die `Serien_Kanon.md` Abschnitt 6 und schon `S2-3/Cliffhanger_Register_S2-3.md`
-  einfordern: genau nachzählen statt aus dem Kopf schätzen). **Richtig: ERKENNTNIS 3×.**
-- **K4/K6/K12 (ERKENNTNIS, Abstände 2/6)** — passend verteilt: K4 (die Wahrheit gefunden),
-  K6 (die Dringlichkeit erkannt), K12 (Halders eigener Bruch) sind drei unterschiedliche,
-  klar getrennte Verstehens-Momente, keine echte Häufung.
-- **BILD 4× (K2, K9, K15, K18), Abstände 7/6/3** — nach der K6-Korrektur (BILD → ERKENNTNIS)
-  gut verteilt, keine Häufung mehr. Die vier verbleibenden BILD-Momente sind zudem die vier
-  visuell wichtigsten Beats des Bandes (Friedas Rückkehr, das volle Ausmaß, die Befreiung,
-  der Schlussrahmen) — inhaltlich gerechtfertigt, nicht nur zahlenmäßig plausibel.
-- **K10 (AKTION) und K13 (AKTION)**, nur zwei Kapitel Abstand mit K11/K12 dazwischen — kein
-  Regelverstoß, beide Beats sind inhaltlich klar unterschieden (Übergabe der Beweise vs.
-  Griff zum Schlüssel), ähnlich zu vergleichbaren Fällen in S2-1/S2-2/S2-3.
-- **K18 bewusst kein klassischer Cliffhanger**, sondern Staffel-Abschluss — konsistent mit
-  K16 in S2-3/S2-4 (Season-Hook-Konvention), hier jedoch als echtes Ende statt Hook, analog
-  zu Band 5 K18.
+- **Keine zwei gleichen Typen hintereinander** — Paar für Paar geprüft (17 Paare).
+- **Gezählt:** DIALOG 4× (K3, K9, K14, K17) · ERKENNTNIS 3× (K4, K6, K12) · BILD 3× (K1, K10, K16)
+  · OBJEKT 2× (K5, K13) · STIMME/GERÄUSCH 2× (K2, K15) · AKTION 1× · KOMPLIKATION 1× · GEDANKE 1× ·
+  dazu K18 als Abschluss = 18.
+- **Beat-Ebene statt Typ-Name prüfen** (Lehre aus S2-1): Risikopaare mit ähnlichem Kern:
+  - **K4 / K9** — beide: „Der Wächter will Halder". K4 muss bei Noras Erkenntnis über *sich selbst*
+    enden (auch sie hat nicht gefragt), K9 beim ausgesprochenen Auftrag. Nicht beide Male dieselbe
+    Zeile des Wächters.
+  - **K14 / K15** — beide drehen sich um die Uhr. K14 endet beim Satz, K15 beim Geräusch. Nicht in
+    K14 schon das Aufziehen andeuten.
+  - **K5 / K13** — beide OBJEKT mit „verborgen getragen" (Brief / Kette). Abstand groß genug, aber
+    sprachlich unterscheiden: der Brief liegt offen da, die Kette wird versteckt.
+- **K18** ist ein bewusster Staffel-Abschluss, kein Hook (wie Band 5 K18).
 
-**Ergebnis:** Register ist tragfähig. Eine echte Typenkorrektur aus der Story-Outline-Phase
-übernommen (K6), ein Zählfehler im eigenen Entwurf beim Verfassen dieser Kontrolle selbst
-gefunden und korrigiert (ERKENNTNIS 3× statt der zunächst behaupteten 4×). Keine weiteren
-Kollisionen.
+---
+
+## Vergleich mit den Vorbänden (Kapitelenden, die nicht wiederkehren sollen)
+
+- „Er weiß es jetzt / Jetzt weiß er, dass wir es wissen" (S2-3 K15/K16) — nicht wiederholen.
+- „… und nicht hingesehen" (S2-4 K16) — nur in K8 als bewusstes Echo im Fließtext, nicht als Ende.
+- Eine Gestalt zwischen Bäumen, die einen Namen ruft (S2-4 K1) — K1 endet deshalb mit den Toren,
+  nicht mit der Gestalt.

@@ -1,249 +1,294 @@
 # Kontinuitäts-Tracker — S2-5 "Der letzte Schlüssel" (FINALE)
 
-> **⚠️ ÜBERHOLT seit 2026-10-26.** Diese Datei passt zur alten Outline vom 07.08. Gültig ist die
-> Neufassung von `Story_Outline_S2-5.md` (Funde in `Fundliste_S2-5_Planung.md`). Wird nach Freigabe der
-> neuen Outline neu gebaut — bis dahin nicht als Schreibgrundlage benutzen.
-
-
-> **Vor JEDEM Kapitel lesen.** Sichert Stil + Kanon-Konsistenz über die ganze Reihe.
-> Konzept-Grundlage: [../PLAN_Staffel2.md](../PLAN_Staffel2.md) (Abschnitt 6 = Bogen,
-> Abschnitt 10 = Cover, Abschnitt 14 = Ausführungsrisiken — **Punkt 3 vor jedem Kapitel
-> lesen: Nora/Theo dürfen im eigenen Finale nicht zu Zuschauern werden**) +
-> [../Hinweisketten_Tracker.md](../Hinweisketten_Tracker.md) (Kette 2 löst sich hier auf).
-> Ausgangslage aus [../S2-4/Kontinuitaet_S2-4.md](../S2-4/Kontinuitaet_S2-4.md) +
-> S2-4-Finale (K16, „Er hat wieder einen. Und wir haben es nicht mal gemerkt").
-> Zeitlinie/Akt-Fortschritt/Dialog-Bilanz sind leere Gerüste.
-> **Phase 1 von 6** (`PLAN_Staffel2.md` Abschnitt 15). Nächster Schritt: Phase 2 —
-> Story-Outline mit Mechanik-/Physik-Selbstprüfung.
+> **Vor JEDEM Kapitel lesen.** Neu gebaut 2026-10-26 zur Outline-Neufassung (die alte Fassung vom
+> 10.08. steht in der Git-Historie). **Jede Faktenzeile hier ist gegen die Bücher geprüft**, nicht
+> gegen Pläne — Belege als `S2-x Kn`.
+> Grundlagen: [Story_Outline_S2-5.md](Story_Outline_S2-5.md) ·
+> [Fundliste_S2-5_Planung.md](Fundliste_S2-5_Planung.md) · [../PLAN_Staffel2.md](../PLAN_Staffel2.md)
+> Abschnitt 14 (Ausführungsrisiken) · `Dokumentation/Serien_Kanon.md`.
+> Zeitlinie-Ist, Akt-Fortschritt, Dialog-Bilanz und Stimmen-Pass werden beim Schreiben gefüllt.
 
 ---
 
-## STIL-MERKBLATT (übernommen — unverändert gültig)
+## STIL-MERKBLATT
 
-Identisch zu den Vorbänden. **Finale-Register wie Band 5:** höhere Intensität über weite
-Strecken erlaubt, aber Theo bleibt zwingend das Ventil (`PLAN_Staffel2.md` Abschnitt 14,
-Punkt 1, gilt sinngemäß weiter). Anders als S2-4 endet dieser Band **nicht** offen oder
-karg, sondern mit dem größten, wärmsten Sieg der Staffel — der Ton darf sich in Akt 4
-entsprechend öffnen (Vorbild: Band 5s Schlusskapitel).
+- Alle Regeln aus CLAUDE.md und `Schreibstil_Regeln_10_Jahre_Die_Geisterspuerer.md` unverändert:
+  Satz ≤ 18 W, kein Passiv, Dialog 35–45 %, Emotion körperlich, Schatten-Reaktion pro Kapitel,
+  Cliffhanger pro Kapitel (außer K18), Perspektive nur Nora.
+- **Humor:** Theo ist das Ventil. Ausnahmen ohne Humor **nur K4 und K12**. Nach jedem
+  Schreckmoment innerhalb von 1–2 Absätzen ein Theo-Moment.
+- **Übersetzungsfreundlich (S1–S6, `Schreibstil_Ergaenzung_Staffel2.md`):** Wortwitze und
+  Kulturbezüge nicht als Kommentar im Text, sondern als Zeile in `Manuskript/EN_Hinweise.md`;
+  bewusst wiederholte Sätze („Sie sind abgelöst", „Nicht entscheiden. Fragen.",
+  „Neunundneunzig") ins Satz-Register `Dokumentation/EN_Bibel/A5_Satz_Register.md`; keine
+  Rätsel an deutsche Buchstaben binden.
+- **Lehren aus S2-4 (Pflicht):** Nach jeder Überarbeitung die Kapitelenden einzeln gegenlesen
+  (eine Reparatur kann den Cliffhanger entwerten). Jede Runde, die Text ändert, endet mit der
+  vollen Teil-A-Messung (`Spannungs_Pruefplan.md`), inklusive längstem dialogfreiem Block.
+- **Dialoganteil im Blick behalten:** S2-4 lag in K1–K11 bei nur 19–29 %. S2-5 hat mit Halder,
+  Frieda und dem Wächter mehr Sprechende — Ziel 35–45 % ernst nehmen.
 
 ---
 
 ## GRUSEL-LEVEL & ESKALATION S2-5
 
-- **Grusel-Level 9/10** (`PLAN_Staffel2.md` Abschnitt 8, obere Grenze der Spanne 8–9/10) —
-  Staffel-Höchstwert, aus drei Quellen zugleich:
-  1. Die direkte Konfrontation mit Halder ist riskanter als in S2-3 — er verliert diesmal
-     nicht nur einen einzelnen Fall, sondern die Grundlage seiner gesamten Lebensüberzeugung.
-     Unvorhersehbarer als je zuvor, gerade weil er kein klischeehafter Bösewicht ist.
-  2. Das schiere Ausmaß der Werkstatt — Dutzende gebundene Geister zugleich (Serien-Muster:
-     Eskalation über Ausmaß, wie S2-2 → S2-5 dieselbe Steigerung, die auch Band 2 → Band 5
-     trug).
-  3. Friedas persönliches Risiko — sie konfrontiert ihren eigenen Vater mit einer Wahrheit,
-     die sein Lebenswerk erschüttert.
-- **„Kribbeln, kein Albtraum" bleibt Auftrag** — aber anders als S2-4 kippt die Angst hier
-  am Ende bewusst in **Erleichterung und Wärme**, nicht in stillen Trost. Das Cover-Konzept
-  hat dies bereits vorweggenommen (`PLAN_Staffel2.md` Abschnitt 10: „warmes Kupfer,
-  aufbrechend zu Licht … kein Leine-Faden mehr").
+- **8–9/10.** Quellen: der wütende Wächter und der **Rückriss live** (Akt 1); Halder ganz nah, ruhig,
+  überzeugt (K3, K10); neunundneunzig sichtbare Fäden (K10).
+- **Signaturform S2-5: der sichtbare Faden** — dünn, kalt, zwischen Schloss und Geist; nur sichtbar,
+  wenn der Festhaltende in der Nähe ist (Halder). Erstmals K4 (einer), voll K10, erlischt K16.
+  Daneben sparsam: Tore rütteln (Gegenstände bewegen), Kälte als Grundrauschen.
+- **Kribbeln, kein Albtraum:** Der Rückriss wird gezeigt wie in S2-1 K3 (Ruck, Schmerz, danach
+  dichter sichtbar), nicht ausgedehnt. Akt 4 öffnet sich in Wärme.
+- **Kein Psychothriller-Register** (Risiko 2): Halder droht nie, fasst niemanden an, die Kinder
+  steigen nie zu ihm ins Auto, kein nächtliches Treffen allein mit ihm.
 
 ---
 
-## FIGUREN (fest, Stand S2-5)
+## FIGUREN (Stand Anfang S2-5 = Ende S2-4)
 
-### Lebende
+### Nora, 13
+- POV. Ende S2-4: „Er sucht schon wieder einen. Und wir haben es gewusst. Und nicht hingesehen."
+- **Bogen S2-5:** hinsehen (Akt 1) → aushalten beim gebundenen Geist → Halder zum Fragen bringen
+  → beim Erlebnis daneben stehen, fast ohne Worte. **Kosten:** sagt Mias Freibad ab (K7).
+- Hat Clara zweimal gesehen (Band 5; S2-4 K5, K13). Sagte in S2-3 K12: „Ein Beweis schlägt keine
+  Überzeugung" — **in K11 erinnert sie sich daran, und es stimmt.**
+- Kanon-Makel: hält alles zu fest (Serien_Kanon). Passt: Sie bringt Halder etwas bei, das sie
+  selbst gerade lernt.
 
-- **Nora**, ~13. POV. **Ihr Season-Bogen schließt sich, aber nicht durch eigenes Handeln im
-  Klimax:** Nach S2-4s Selbstzweifel (sie kann nicht jeden retten) begreift sie hier, dass
-  ihr eigentlicher, entscheidender Beitrag längst geleistet ist — nicht eine Tat im
-  Showdown, sondern **wie sie Frieda seit S2-2 behandelt hat.** ⚠️ **Konkreter Mechanismus
-  (Ausführungsrisiko 3, Pflicht):** Nora hört Frieda nach S2-4 wirklich zu — dieselbe
-  Methode, die sonst Geistern gilt, jetzt auf einen lebenden, ringenden Menschen angewendet
-  (bewusster Spiegel zu Band 3s „Zuhören auf einen anderen Träger angewendet" —
-  `Serien_Kanon.md`, Marlene-Weber-Ausnahme). Kein Drängen, keine Forderung, nachzuprüfen —
-  nur echtes Zuhören. **Das, nicht ein Kampf, ist es, was Frieda den Mut gibt, selbst zu
-  suchen.** Nora-POV bleibt gewahrt: Wir sehen Friedas Suche nicht direkt (sie passiert
-  zwischen S2-4 und S2-5, off-page), aber Nora erlebt das Gespräch, das sie auslöst.
-- **Theo**, ~11. Bleibt das Ventil, bekommt aber eine **aktive, notwendige Rolle im
-  Klimax** (Ausführungsrisiko 3): Er begleitet Frieda in die Werkstatt, als praktische,
-  konkrete Unterstützung (Details: Phase 2) — nicht nur komische Entlastung.
-- **Schatten.** Normaler, alternder Hund. Bei der Massen-Befreiung: **überwältigt wie in
-  S2-2** (viele Präsenzen zugleich), aber diesmal **freudig statt bedrohlich** — bewusster
-  Spiegel zu seiner S2-2-Reaktion, jetzt mit umgekehrtem Vorzeichen (Details: Phase 2).
-- **Die Mutter.** Keine aktive Rolle vorgesehen (Rückkehr zum Staffel-1-Muster).
+### Theo, 11
+- Ventil. Bogen: aus Noras Schatten treten. **S2-5:** setzt den Zeitpunkt (Brücke K1), sitzt bei
+  Frieda, als sie öffnet (K6), steht in der Werkstatt an Friedas Seite (K10–K12). Hält Schatten
+  nur kurz in K4, K10, K15.
+- Etablierte Züge: Codewort-Pläne („Kuchen", S2-3 K8), Zählen („Neunundneunzig übrig", S2-2 K10),
+  System „Knurren heißt böse, Winseln heißt traurig" (S2-4 K3), Marvin als Quelle.
+- Mit Frieda: sprach sie in S2-2 als Erster an, erkannte sie in S2-3 im Wagen, brachte sie in S2-4
+  zum Lachen; „Wir sind nicht dein Vater." (S2-4 K15).
 
-### Halder — Reckoning durch Wahrheit, nicht durch Niederlage
+### Schatten
+- Normaler, alternder Hund (seit Band 5): grau an Schnauze und Ohren, steht steif auf, Pausen auf
+  der Treppe (S2-3 K1, S2-4 K5). **Lange Radstrecken machen ihn müde — nicht verschweigen**
+  (Tag 3: Lagerhallen, danach Werkstatt).
+- Hat Frieda angenommen (S2-4 K15) → **kein „zum ersten Mal ohne Vorbehalt" mehr schreiben.**
+- Gegen Halder: Knurren, verweigert den Raum, Hungerstreik (S2-3 K1–K2). In S2-5 schrittweise
+  ruhiger: K3 Nackenhaare, K11 wachsam ohne Knurren, K12 legt sich zu seinen Füßen, K13 begleitet
+  ihn zur Tür.
+- Legt sich zu traurigen Geistern, aber „nicht gleich beim ersten Mal" (S2-4 K3, korrigiert).
 
-- Konfrontiert mit Friedas Beweisen bricht seine dreißigjährige Gewissheit nicht sofort
-  zusammen — ⚠️ **Phase-2-Entscheidung:** Ein echter Moment des Widerstands/Unglaubens ist
-  nötig, bevor er annimmt; sonst wirkt dreißig Jahre Überzeugung zu leicht erschütterbar
-  (Konsistenz zu seiner in S2-3 etablierten, aufrichtigen Gewissheit).
-- **Öffnet die Werkstatt selbst** — kein Kampf, keine Niederlage, sondern eine eigene
-  Entscheidung, sobald er die Wahrheit wirklich sieht (`PLAN_Staffel2.md` Abschnitt 6:
-  „Empathie schlägt Kampf … sie ermöglichen nur, dass er die Wahrheit sieht").
-- **Sein weiteres Schicksal bleibt bewusst offen** (möglicher Staffel-3-Faden,
-  `PLAN_Staffel2.md` Abschnitt 6) — S2-5 darf ihn weder eindeutig „retten" noch endgültig
-  verstoßen. Kein Epilog-Satz, der diese Tür schließt.
+### Mama
+- Namenlos. Krankenhaus, Schichtdienst, alleinerziehend, weiß nichts vom Übernatürlichen.
+- Kennt **Halder** (eine Woche Kaffee, „Netter Mann, dieser Herr Halder", S2-3 K2) und hat
+  **Frieda** vom Balkon gesehen („Er hat erzählt, sie hilft ihm in den Ferien", S2-3 K7).
+- Ende S2-4 gereizt: „Vor dem Frühstück? Ohne Zettel?" → **In S2-5 lässt Nora jedes Mal einen
+  Zettel da** (kleine, stille Konsequenz).
+- **Schichtplan S2-5 (Festlegung):** Tag 1 Frühschicht (abends zu Hause, öffnet Frieda in K5) ·
+  Tag 2 Nachtschicht, zwölf Stunden (geht am Abend, kommt an Tag 3 gegen halb neun) → deckt die
+  Werkstatt am Abend und die Lagerhallen bei Sonnenaufgang.
 
-### Frieda — trägt die entscheidende Konfrontation
+### Frieda Halder, 12
+- Ende S2-4: „Ob's stimmt. Das mit dem Feuer." — „Ich will es wissen." (K15). **Sie kommt
+  entschieden, nicht schwankend.**
+- Äußeres (S2-2 K11): fester Zopf, Arbeitsjacke eine Nummer zu groß, schwielige Hände, Stofftasche
+  am Gürtel, robuste Stiefel. Spricht knapp.
+- Eigener Werkstattschlüssel (S2-5 neu). Wohnt mit dem Vater im Haus im Osten.
+- S2-2 K12, offen: „Das haben andere auch schon gedacht." → in S2-5 einlösen (sie meinte ihren
+  Vater mit 18).
+- Hat in S2-4 K11 zum ersten Mal vor Nora geweint.
 
-- Von „Wanken" (S2-4) zu **aktivem Handeln**: Sie durchsucht Halders gehortete Unterlagen
-  selbst, findet die entscheidenden Belege (Details unten, EIGENNAMEN & FAKTEN).
-- **Der Zahltag ihres ganzen Bogens** (S2-2 unerkannt → S2-3 enthüllt → S2-4 zweifelnd →
-  S2-5 entscheidet) — sie konfrontiert ihren Vater, nicht die Kinder.
+### Anton Halder, ~48
+- Ruhig, freundlich, höflich, wischt sich die Schuhe ab, ordnet Werkzeug in Schlaufen (S2-3).
+  **Brandnarbe auf dem rechten Handrücken**, silbrig (S2-3 K1). Summt eine Melodie seiner Mutter.
+- Kastenwagen, dunkel, gewienert, Aufschrift „Uhrmacher und Schlosser" + Name + Werkstatt
+  (S2-3 K5). Schlüsselbund mit vielen Schlüsseln (S2-3 K9).
+- Feuer-Geschichte (S2-3 K12, wörtlich festhalten): Weißenbrück, mit achtzehn; ein Geist „älter
+  als die anderen. Wütender."; „Nach zwei Tagen, nicht nach Wochen."; „Ich war nicht dort, als es
+  anfing. Ich habe die Straße erst am Morgen gesehen."; „Man hat mir gesagt, es sei Zufall
+  gewesen. Ein alter Ofen. Ein Kurzschluss."; „Für mich war es dreißig Jahre lang genug." Wollte
+  „auch so jemand sein" wie die Zuhörer von Weißenbrück.
+- **Neu in S2-5 (Outline):** begann „als es zwölf schlug"; seine Reiseuhr in der Werkstatt steht auf
+  zwölf; der Aufzugsschlüssel hängt an einer Kette unter dem Hemd; hat kurz nach dem Feuer bei der
+  Feuerwehr Weißenbrück angefragt und die Antwort nie geöffnet; der Geist von Weißenbrück **ging
+  damals wirklich** (K12). Vorschlag Narbe: heiße Klinke am Morgen danach (K12, Autor).
+- Ende S2-4: bei den Lagerhallen, „gehetzt", fragt nach alten Häusern und „wer da früher gewohnt
+  hat" (S2-4 K16).
+- Weiß seit S2-3 K15/K16, dass die Kinder es können. „Vorsichtiger, nicht aggressiver."
+- **Sprechweise:** kurze, ruhige Sätze, nie laut. Erst in K11/K12 bekommt die Ruhe Risse.
 
-### Ilse — bleibt weg (Kanon-Pflicht)
+### Der Wächter (Geist von den Lagerhallen) — NEU
+- **Name:** ⚠️ offen (Autor). Bis dahin im Text „der Wächter".
+- War jahrzehntelang Nachtwächter und Hausmeister der Lagerhallen einer längst aufgelösten
+  Spedition; wohnte im Wächterhäuschen am Rand des Geländes. Blieb, als die Firma weg war, bis das
+  Gelände verkauft wurde.
+- **Gestorben im Frühjahr dieses Jahres** (nach Band 5 — Kanonpflicht, siehe Outline B), ruhig, im
+  Häuschen eingeschlafen. Im Frühsommer wurde die Häuschen-Reihe abgerissen; seitdem nachts sein
+  Rundgang.
+- **Erscheinung:** grauer, durchscheinender Mann in Arbeitsjacke, eine Taschenlampe, die kein Licht
+  gibt. Laut, barsch, scheucht („Hier hat keiner was verloren") — **antwortet**, also kein Echo
+  (Regel aus Band 3).
+- **Was er braucht:** seine **Ablösung**. Ein Wächter verlässt den Posten erst, wenn ihn jemand
+  ablöst; in der Nacht, in der er starb, kam niemand. Seit Halders Schloss hält Halder ihn auf dem
+  Posten — nur Halder kann ihn ablösen. Auflösung: „Sie sind abgelöst." (K14).
+- **Wirkt auf Halder wie Weißenbrück:** wütend, älter. Darum Halders Angst.
 
-- ⚠️ **Nicht auf der Seite präsent.** Sie wurde in S2-3 befreit und ist „für immer
-  gegangen" (`Serien_Kanon.md`, „Befreite Geister kehren nicht zurück"). Ihr S2-3-Dissens
-  („Er hat mich nie gefragt, ob ich bleiben will") betraf sein **Recht zu binden**, nicht
-  die Feuer-Wahrheit selbst (`../Hinweisketten_Tracker.md`, Präzisierung) — beide Fäden
-  bleiben sauber getrennt, auch hier. Ein knapper, stiller Gedanke Noras an sie ist erlaubt,
-  keine Szene.
-
-### Marie — bleibt ausdrücklich ungelöst (Kanon-Pflicht)
-
-- ⚠️ **Kein Teil der Werkstatt-Massenbefreiung.** Sie ist nicht in Halders Werkstatt
-  gebunden, sondern eine eigene, kanonbegründet unlösbare Grenzfall-Situation im Stadtpark
-  (`../S2-4/Kontinuitaet_S2-4.md`). S2-4s eigene Regel gilt unverändert: **kein Setup für
-  ihre spätere Befreiung** — S2-5 darf sie nicht beiläufig „mitbefreien" oder auch nur
-  andeuten, dass die Werkstatt-Öffnung sie einschließt. Falls sie überhaupt erwähnt wird
-  (nicht zwingend), dann nur als weiterhin wartend, unverändert.
-
----
-
-## EIGENNAMEN & FAKTEN (Schreibweise fixieren)
-
-- **Die Werkstatt** — Schauplatz aus S2-2, „halb verlassenes Gebäude am Stadtrand"
-  (`S2-2/Story_Outline_S2-2.md`), jetzt Rückkehr-Ort. Enthält weiterhin „Dutzende" gebundene
-  Geister (S2-2, Setup unaufgelöst seit S2-2 K12).
-- **Halders gehortete Unterlagen** — Zeitungsausschnitte, Berichte über das Feuer, seit
-  dreißig Jahren gesammelt (`PLAN_Staffel2.md` Abschnitt 6, S2-5-Konzept). Vermutlich in
-  der Werkstatt selbst aufbewahrt (spart einen zweiten neuen Ort, Regel „keine unnötigen
-  neuen Schauplätze im Finale").
-- ⚠️ **Die Feuer-Wahrheit — WAS GEZEIGT WERDEN DARF UND WAS NICHT (kritische Leitplanke):**
-  `PLAN_Staffel2.md` Abschnitt 6 legt fest: „Der tatsächliche Grund war vermutlich banal —
-  das bleibt **absichtlich unklar**." Das ist eine bewusste, bereits getroffene
-  Serien-Entscheidung, keine offene Frage. **Frieda findet daher NICHT eine konkrete,
-  benannte Ursache** (kein Öllämpchen, kein Kabelbrand, nichts Explizites) — sie findet
-  **Belege, dass das Feuer nichts mit seiner hastigen Freilassung zu tun hatte**: z. B.
-  Berichte, die Ausbruchsort und/oder Zeitpunkt dokumentieren, die nicht zum Haus des
-  Geistes bzw. zu seiner Tat passen (genauer Mechanismus: Phase 2). **Die Wirkung zählt
-  („es war nicht deine Schuld"), nicht eine explizite Ursache** — hält die bestehende
-  Regel ein, statt ihr in Phase 2 versehentlich zu widersprechen.
-- Übernommen: Gravenstedt, Kirchgasse 14, Anton Halder, Frieda (Vorname, jetzt vollständig
-  bekannt), Ilse (bereits gegangen, nicht präsent), Marie (bewusst ungelöst, s. o.).
-
----
-
-## WAS DIE KINDER WISSEN (Stand Anfang S2-5 = Ende S2-4)
-
-- Wer Halder ist, dass Frieda seine Tochter ist, seine feste (nie selbst hinterfragte)
-  Überzeugung übers Feuer.
-- Dass sie ihn einmal widerlegt haben (Ilse), dass Marie ein Fall war, den sie nicht lösen
-  konnten.
-- Dass Frieda selbst zu zweifeln begonnen hat (S2-4 K11, K15).
-- Dass Halder „wieder einen" gefunden hat — einen weiteren, off-page Geist, den er zu
-  S2-4s Ende noch nicht gesichert hatte (S2-4 K16, korrigiert in Phase 3: nicht „schon
-  gebunden" — er ist zu Beginn von S2-5 deshalb noch unterwegs, s. u.).
-
-### Was die Kinder NOCH NICHT wissen (S2-5)
-
-- Ob/wann Frieda sich entscheidet, das Feuer selbst zu prüfen (passiert off-page,
-  zwischen den Bänden).
-- Was genau in Halders Unterlagen liegt.
-- Wie Halder auf die Wahrheit reagieren wird.
+### Nicht auftretend
+- **Marie:** nur K8. Sitzt im Park und wartet. Nichts verändert sich, nichts wird versprochen, kein
+  Satz deutet eine Befreiung an. Was sie hält, ist Schuld (S2-4 K14), kein Schloss.
+- **Ilse, Grete, Herbert, Clara und alle aus Staffel 1:** befreit, kehren nicht zurück. Ein kurzer
+  Gedanke an Ilse ist erlaubt (K13, Friedas „Du hast nie einen gefragt").
+- **Frau Held:** nicht als Quelle nutzen (Marvins Bruder ist etabliert).
+- **Mia:** nur als Nachricht (K7) und im Epilog (K18).
 
 ---
 
-## GEGENSTÄNDE/HINWEISE IM BESITZ DER KINDER (Anfang S2-5)
+## ORTE (Lage und Schreibweise fixieren)
 
-- Alles Wissen aus S2-1–S2-4.
-- Keine neuen Objekte — die entscheidenden Beweise liegen bei Halder/Frieda, nicht bei
-  Nora/Theo (Phase 2 legt fest, wie/wann die Kinder sie zu sehen bekommen).
+| Ort | Lage | Fakten aus den Büchern / Festlegung |
+|---|---|---|
+| Kirchgasse 14 | Mitte | Wohnung der Familie; Noras Zimmer mit Schublade (Karte) und Schreibtisch (Herberts Schloss als Briefbeschwerer, S2-3 K3); Standuhr im Wohnzimmer, von Halder repariert, „Sie geht jetzt zu genau" (S2-3 K2) |
+| Stadtpark | fünf Minuten von zu Hause | Kastanien am Rand der großen Wiese, Baumstumpf (S2-4) |
+| **Die Werkstatt** | **Westen**, Stadtrand; mit dem Rad etwa eine halbe Stunde (S2-2: „fünfzehn Kilometer" hin und zurück) | Ehemaliges Lagerhaus, zurückgesetzt, Hof aus festgetretener Erde, schiefer Schornstein, schiefe Fensterläden; Vordertür verriegelt, **Seitentür hinter Brennnesseln**, innen ein Riegel (S2-2 K4, K12). Langer, hoher Raum, Regale bis zur Decke; Schlösser in allen Größen (rostiges Eisen, Messing, grauer Stein, eins wie ein Reiskorn); Uhren an den Wänden, jede anders; **rückwärts laufende Uhr nahe der Tür**; **Reiseuhr auf zwölf**; Etiketten mit dreistelliger Zahl und nachgezogenem Häkchen; sauberer Werkzeugtisch (S2-2 K4–K6). Weg: alte Fabrik, grüne Garagen, Supermarkt, schiefes Verkehrsschild, Bahnschranke (S2-2 K3). **Neu S2-5:** neuer Riegel an der Seitentür; Friedas Schlüssel passt. |
+| Halders Haus | **Osten**, aufgegebene Reihenhäuser hinter dem Ring | Trampelpfad, klemmende Tür, leerer Flur, Ilses Zimmer oben (S2-3 K9–K11). In S2-5 nicht betreten. |
+| **Alte Lagerhallen** | **Norden** (Festlegung, nicht Westen) | Nora war nie dort (S2-4 K8). Neu: Rolltore, Rost, alter Gleisanschluss; daneben die halb abgerissene Häuschen-Reihe, im letzten Rest das Wächterhäuschen = Halders Falle. Optional als fairer Hinweis: verrostete Kontrollkästen an den Toren (Stationen eines Wächterrundgangs). |
 
----
-
-## ⚠️ ZU PRÜFENDE WIDERSPRÜCHE (vor/bei Kap. 1 entscheiden)
-
-1. **Wie beginnt der Band — wer kommt zu wem?** Vermutlich sucht Frieda die Kinder auf
-   (nicht umgekehrt), nachdem sie selbst zu graben begonnen hat — konsistent mit ihrer seit
-   S2-2 gezeigten Eigenständigkeit. **Phase 2.**
-2. **Genauer Mechanismus, wie Frieda an Halders Unterlagen kommt, ohne dass er es zunächst
-   bemerkt.** **Phase 2.**
-3. **Wie genau demonstrieren die Belege „nicht seine Schuld", ohne eine konkrete Ursache zu
-   benennen** (siehe EIGENNAMEN & FAKTEN oben) — muss so gebaut sein, dass die Leerstelle
-   nicht wie eine vergessene Auflösung wirkt, sondern wie eine bewusste. **Phase 2, mit
-   besonderer Sorgfalt.**
-4. **Wie reagiert Halder zuerst — Widerstand, dann Annahme?** Muss seine dreißigjährige
-   Überzeugung ernst nehmen, darf nicht zu leicht kippen. **Phase 2.**
-5. **Wie genau öffnet er die Werkstatt — ein Akt, viele kleine, ein Ritual?** Und wie
-   werden „Dutzende" Geister dramaturgisch sichtbar, ohne unübersichtlich zu wirken (Lehre
-   aus Band 5s „acht Geister zugleich")? **Phase 2.**
-6. **Theos konkrete aktive Rolle im Klimax** (Ausführungsrisiko 3) — Begleitung, praktische
-   Hilfe, Details offen. **Phase 2.**
-7. **Zeitlicher Abstand zu S2-4:** Vorschlag **~3 Wochen** (S2-4 endet Anfang August, S2-5
-   beginnt Anfang September) — genug Zeit für Friedas off-page Recherche, ohne die
-   Staffel-Dringlichkeit zu verlieren. **Endgültig: Phase 2.**
-8. **Marie darf unter keinen Umständen versehentlich in die Werkstatt-Befreiung
-   hineingezogen werden** (siehe FIGUREN oben) — beim Schreiben aktiv gegenprüfen.
-9. **Content-Grenze:** Die Konfrontation mit Halder bleibt gewaltfrei (Serien-Ethik,
-   `PLAN_Staffel2.md` Abschnitt 6); seine Erschütterung wird emotional, nicht körperlich
-   bedrohlich gezeigt.
+⚠️ **Nicht verwechseln:** Werkstatt (ein ehemaliges Lagerhaus, S2-2) ≠ alte Lagerhallen
+(S2-4/S2-5). Im Text die Werkstatt immer „die Werkstatt" nennen.
 
 ---
 
-## OFFENE FÄDEN (Stand Anfang S2-5)
+## EIGENNAMEN & FAKTEN
 
-### In S2-5 aufzulösen
-
-- Kette 2 (`../Hinweisketten_Tracker.md`): Die Feuer-Wahrheit — abgeschlossen (im Rahmen
-  der oben festgelegten Leerstellen-Regel).
-- Friedas gesamter Bogen — Entscheidung getroffen.
-- Die „Dutzende" Geister aus der Werkstatt (offen seit S2-2) — befreit.
-- Die Bindungssignatur/der „Leine-Lichtfaden" (`PLAN_Staffel2.md` Abschnitt 10) — visuell
-  aufgelöst, verschwindet mit der Werkstatt-Öffnung.
-
-### Bewusst offen lassen (Staffel-Ende / möglicher Staffel-3-Faden)
-
-- Halders persönliches weiteres Schicksal (`PLAN_Staffel2.md` Abschnitt 6).
-- Maries Zustand — bleibt unverändert ungelöst (siehe FIGUREN oben).
-- Der neue, off-page verfolgte Geist aus S2-4 K16 (zu S2-4s Ende noch nicht gesichert) —
-  ⚠️ **Phase-2-Entscheidung, ob er Teil der Werkstatt-Befreiung wird oder ein eigener,
-  offener Faden bleibt.** Beides ist mit dem Konzept vereinbar; Phase 2 entscheidet mit
-  Begründung. **Nachtrag:** In Phase 2 entschieden — er wird stillschweigend Teil der
-  Dutzenden (`Story_Outline_S2-5.md` Mechanik Punkt 9).
-
-### Serie / separat
-
-- CYOA/Codewort: weiterhin nicht relevant.
+- **Weißenbrück** — Halders Heimatstadt (S2-3 K11/K12). **Frau Reinke** — Ilses Dienstherrin, starb
+  im selben Feuer (S2-3 K13).
+- **Das Feuer:** vor dreißig Jahren, nachts. **Neu S2-5 (Brief):** Alarm **23.20 Uhr**, Ausbruch
+  mehrere Straßen vom Haus des Geistes entfernt, griff von dort über. Halder begann um zwölf →
+  **vierzig Minuten**. **Ursache wird nie genannt**; die Szene verweilt nicht. Halders Versuch fand
+  **nicht** im Viertel statt (sonst hätte er das Feuer gesehen).
+- **Der Brief:** Absender Feuerwehr Weißenbrück, Antwort auf Halders Anfrage, ungeöffnet; lag in der
+  Werkstatt-Schublade zwischen zerlesenen Zeitungsausschnitten.
+- **Die Reiseuhr:** winzig, abgewetztes Stoff-Etui, beide Zeiger übereinander auf zwölf, Etikett
+  darunter (S2-2 K6). Alt, mit losem Aufzugsschlüssel. **Halders eigene.**
+- **Neunundneunzig** — Bestand der Werkstatt (Theo, S2-2 K10: „Eine von hundert. Neunundneunzig
+  übrig."). Plus die neue Uhr des Wächters (K10). Keine Herkunftsbehauptung für alle (Grete starb
+  am Lagerhaus selbst, S2-2 K9).
+- **Marvin** und **Marvins großer Bruder** — Theos Quelle (S2-4 K4, K8, K16).
+- **Mia** — Noras Freundin aus der Klasse (S2-2 K2, K13).
+- **Herberts Schloss** — Loch „zu klein für jeden Schlüssel"; bleibt kalt (S2-2 K1, S2-3 K3).
 
 ---
 
-## ZEITLINIE S2-5 (wird beim Schreiben fortgeschrieben)
+## DIE REGELN DER BINDUNG (Kanon + S2-5)
 
-> Leeres Gerüst.
+| Regel | Beleg |
+|---|---|
+| Schlösser werden vorab an Orten eingebaut; ein Geist gerät hinein („Wie eine Falle im Wald") | S2-1 K16 |
+| Das Schloss ist „an mir dran", eiskalt; Gewalt tut dem Geist weh, das Metall bleibt heil | S2-1 K10 |
+| Rückriss: Wer gehen will, wird zurückgerissen, danach dichter sichtbar und mit Schmerzen | S2-1 K3, Serien_Kanon |
+| Ein Schloss öffnet sich, wenn der Knoten des Geistes sich löst (Halten statt Ziehen; Erinnern) | S2-1 K12–K13, S2-2 K9–K10 |
+| Nach dem Öffnen kann ein Geist trotzdem bleiben, bis sein eigener Knoten gelöst ist | S2-1 K13–K14 (Herbert) |
+| Der passende Schlüssel ist „bei dem, der das gebaut hat" | S2-1 K10 |
+| Jede Uhr in der Werkstatt gehört zu einem Schloss (Noras Vermutung) | S2-2 K6 |
+| Ilse war ohne Schloss an Halders Festhalten gebunden und ging, als er aufhörte | S2-3 K15 |
+| **S2-5:** Ein Schloss hat zwei Enden — Halders Festhalten und den Knoten des Geistes | Outline C |
+| **S2-5:** Die Schlösser sind sein Festhalten in Metall, für die, die er nicht bei sich haben kann | Outline C |
+| **S2-5:** Alles ist nach seiner angehaltenen Uhr „gestellt"; zieht **er** sie auf, lässt er los | Outline C |
+| **S2-5:** Die Fäden sind nur sichtbar, wenn der Festhaltende nah ist | Outline Mechanik 3 |
+| **S2-5:** Die Uhr tut nichts von selbst — Frieda könnte damit nichts lösen | Outline C |
+
+⚠️ **Bewusstes Echo, keine Wiederholung:** Faber (Band 4) handelte mit Uhren, in seinem Raum stand
+die Zeit still, ein Pendel mitten im Schwung. Halder hält **eine** Uhr an, keinen Raum. In der
+Werkstatt läuft die Zeit normal; kein Raum, der sich verändert.
+
+---
+
+## WAS DIE KINDER WISSEN (Anfang S2-5)
+
+- Halder bindet Geister mit Schlössern; die Werkstatt im Westen ist sein Sammelort; dort hängen
+  neunundneunzig. Seit Mai waren sie nie wieder dort.
+- Halders Feuer-Geschichte (S2-3 K12) und dass er nicht lügt.
+- Frieda ist seine Tochter; sie zweifelt und will die Wahrheit über das Feuer wissen (S2-4 K15).
+- Halder sucht bei den Lagerhallen nach einem neuen Geist (S2-4 K16).
+- Ilse ging, als er aufhörte festzuhalten (S2-3 K15).
+- Nora hat die Reiseuhr auf zwölf gesehen (S2-2 K6) — **bewusst wird sie ihr erst in K6.**
+
+### Was sie noch NICHT wissen
+- Wer der Geist bei den Lagerhallen ist; dass Halders Falle schon steht.
+- Dass es den Brief gibt; die Zeiten; dass die Reiseuhr Halders ist.
+- Was aus dem Geist von Weißenbrück wurde; woher die Narbe stammt.
+- Die Regel der zwei Enden und dass Halder alles lösen kann.
+
+---
+
+## GEGENSTÄNDE IM BESITZ DER KINDER
+
+- Herberts geöffnetes Schloss, Silbers Karte, Schattens Leine, die Räder, Noras Handy (Fotos aus
+  dem Archiv, S2-3 K3).
+- **Keine Zange mehr mitnehmen** — sie wissen seit S2-1/S2-2, dass Kraft nichts öffnet. (Nora trug
+  „seit Herbert" eine kleine Zange im Rucksack, S2-2 K8 — falls sie sie dabeihat: sie bleibt drin.)
+
+---
+
+## ZEITLINIE S2-5 (geplant — Ist wird beim Schreiben ergänzt)
+
+| Tag | Zeit | Ereignis | Kap. |
+|---|---|---|---|
+| 0 | ~9 Uhr | Ende S2-4 (Frühstück, Marvins Nachricht) | S2-4 K16 |
+| 0 | Nachmittag/Nacht | Theo: „Morgen früh"; Nora schläft ein; Schatten nachts am Fenster. Halder stellt die Falle im Häuschen | K1 (Brücke) |
+| 1 | Morgengrauen–Vormittag | Lagerhallen, Wächter, Halder, Rückriss. Frieda zur selben Zeit in der Werkstatt | K1–K4 |
+| 1 | Abend | Frieda in der Kirchgasse, Mama öffnet; der Brief | K5–K7 |
+| 2 | Morgen | Halder hängt die Wächter-Uhr auf, findet die leere Schublade (off-page). Kinder: Park, Marie | K8 |
+| 2 | Vormittag | Lagerhallen, Wächter allein (kein Faden sichtbar — Halder fehlt) | K9 |
+| 2 | Abend | Mama zur Nachtschicht; Werkstatt, Konfrontation | K10–K13 |
+| 3 | Sonnenaufgang (~6 Uhr) | Lagerhallen: Halder fragt, der Wächter geht | K14 |
+| 3 | ~8 Uhr | Werkstatt: die Uhr, die Befreiung, drei bleiben | K15–K16 |
+| 3 | Vormittag | Werkstatthof, Abschied; Mama findet den Zettel | K17 |
+| ~+5 | Morgen | Erster Schultag | K18 |
+
+Ferien: Zu Beginn von S2-4 „Zwei Wochen Sommerferien waren noch übrig" (S2-4 K1, korrigiert
+26.10.).
+
+---
+
+## ⚠️ BEIM SCHREIBEN AKTIV PRÜFEN
+
+1. Kein Satz, der eine **Brandursache** nennt oder andeutet.
+2. Kein Satz über Marie, der eine spätere Befreiung verspricht („noch", „irgendwann").
+3. Kein Satz, der **Halders Zukunft** schließt (weder Rettung noch Urteil).
+4. Die Uhr wirkt nie wie ein Schalter: vorher Beweis **und** Erlebnis; beim Aufziehen ist es seine
+   Entscheidung (Zögern, Frieda sagt nichts).
+5. Die Fäden nur, wenn Halder nah ist (K4, K10–K16), nicht in K9.
+6. Theo hält Schatten höchstens dreimal kurz (K4, K10, K15) — nie als seine eigentliche Aufgabe.
+7. Die Kinder fahren nicht mit Halder; Wege mit dem Rad.
+8. Die Uhrzeit „als es zwölf schlug" steht in K6 **zum ersten Mal** (S2-3 nennt keine).
+9. Werkstatt und Lagerhallen nie verwechseln (Wortwahl).
+10. „Zum ersten Mal" nur, wenn es wirklich das erste Mal ist (Lehre aus S2-4 F2) — gegen S2-1 bis
+    S2-4 prüfen.
+
+---
+
+## OFFENE FÄDEN
+
+**In S2-5 aufzulösen:** `Setup_Payoff_Tracker_S2-5.md` Abschnitt A (alle aus S2-1 bis S2-4
+geerbten Fäden mit Kapitel).
+**Bewusst offen:** Halders weiterer Weg (bleibt bei den drei), Friedas Zukunft, die Brandursache,
+Marie, Staffel 3.
+**Offene Autorentscheidungen:** Name des Wächters · Brandnarbe (Vorschlag: heiße Klinke am Morgen).
 
 ---
 
 ## AKT-FORTSCHRITT
 
-> Leeres Gerüst. **Vorschlag (Phase 2 bestätigt):** 18 Kapitel statt der Staffel-2-Norm von
-> 16 — Finale-Format wie Band 5 (18 Kapitel, Split 4/5/4/5), weil S2-5 mehr Fäden zugleich
-> schließen muss (Frieda, Halder, die Werkstatt, die Bindungssignatur) als jeder reguläre
-> Band.
+- ⬜ Akt 1 — Hinsehen (K1–K4)
+- ⬜ Akt 2 — Fragen (K5–K9)
+- ⬜ Akt 3 — Was er nie gefragt hat (K10–K13)
+- ⬜ Akt 4 — Der letzte Schlüssel (K14–K18)
 
-- ⬜ Akt 1 — noch nicht geplant
-- ⬜ Akt 2 — noch nicht geplant
-- ⬜ Akt 3 — noch nicht geplant
-- ⬜ Akt 4 — noch nicht geplant
+## ZEITLINIE (Ist)
 
----
+> Wird beim Schreiben gefüllt.
 
 ## DIALOG-BILANZ
 
-> Leeres Gerüst.
-
----
+> Wird beim Schreiben gefüllt (Teil-A-Messung je Kapitel).
 
 ## STIMMEN-PASS (Phase 4b)
 
-> Leeres Gerüst.
+> Nach allen Kapiteln, vor dem Kompilieren. Benchmark Band 1.

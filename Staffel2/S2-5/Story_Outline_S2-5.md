@@ -90,8 +90,14 @@ lassen etwa eine Woche bis Schulbeginn.
    (Schuld an der Tür), Marie (Schwester).
 5. Tod off-page, kein Blut, kein Unfall-Detail.
 
-**Entscheidung: der Wächter.** (Name und Todesjahr in der neuen Kontinuität festlegen; Tod
-off-page, ruhig — z. B. in einer Winternacht im Wächterhäuschen eingeschlafen, kein Unfall.) Ein Mann, der jahrzehntelang nachts die Lagerhallen
+**Entscheidung: der Wächter.** Name in der Kontinuität. Tod off-page, ruhig, im Wächterhäuschen
+eingeschlafen.
+⚠️ **Todeszeitpunkt = Frühjahr dieses Jahres, also nach Band 5 — Kanonpflicht.** Silbers Karte „ist
+exakt", und vor der Heilung konnte kein Toter Gravenstedt verlassen (`Serien_Kanon.md` Abschnitt
+1/3). Ein früher gestorbener Gravenstedter Geist stünde auf der Karte oder wäre in Band 5
+mitgegangen. Hintergrund: Die Speditionsfirma gab es seit Jahren nicht mehr; er blieb als Wächter
+und Hausmeister der leeren Hallen, bis das Gelände verkauft wurde. Im Frühjahr starb er; im
+Frühsommer riss man die Häuschen-Reihe ab — seitdem macht er nachts seinen Rundgang an den Toren. Ein Mann, der jahrzehntelang nachts die Lagerhallen
 bewacht hat und im Wächterhäuschen daneben wohnte (längst abgerissen). Was wie Wut aussieht, ist
 sein Rundgang: Er rüttelt jede Nacht an jedem Tor und schreit jeden an, der hier nichts verloren
 hat. Er kann nicht aufhören zu bewachen, obwohl nichts mehr da ist. Was er braucht: **seine
@@ -257,7 +263,8 @@ zu — und hören direkt vor ihnen auf.
 
 ### Kapitel 2 – „Hier hat keiner was verloren"
 Der Geist erscheint: laut, abweisend, scheucht sie weg. Nora versucht zuzuhören, er hört nicht.
-Erste Spuren zu seinem alten Haus. **Schatten:** knurrt nicht, winselt — nach Theos System aus S2-4
+Erste Spuren zu seinem alten Haus. Nora prüft nach der Regel aus Band 3: Er antwortet, wenn auch
+grob — also kein Echo, ein Geist. **Schatten:** knurrt nicht, winselt — nach Theos System aus S2-4
 („Knurren heißt böse, Winseln heißt traurig") ein erster fairer Hinweis. **Humor:** Theo will sich
 „ordnungsgemäß anmelden".
 **Cliffhanger [STIMME]:** Hinter ihnen, ruhig: „Geht nach Hause." Halder.
@@ -323,8 +330,10 @@ Bruchstücke seiner Geschichte, nicht die Lösung (die bekommt nur, wer fragt, u
 ### Kapitel 10 – „Neunundneunzig Fäden"
 Überleitungszeile für den Weg (Serienmuster). Seitentür, neuer Riegel, Friedas Schlüssel. Drinnen:
 Regale, Uhren, die rückwärts laufende an der Tür, die Reiseuhr auf zwölf. Halder ist da — und
-darum sind die Fäden sichtbar, alle. Er hat heute früh die leere Schublade gefunden und wartet
-seitdem (löst die Komplikation aus K7 ein). **Schatten:** überwältigt wie in S2-2; Theo hält ihn kurz,
+darum sind die Fäden sichtbar, alle. Neu an der Wand: eine Uhr, die gestern noch nicht da war —
+die des Wächters (jede Uhr gehört zu einem Schloss, S2-2 K6). Halder hat sie heute früh
+aufgehängt, dabei die leere Schublade gefunden und wartet seitdem (löst die Komplikation aus K7
+ein). **Schatten:** überwältigt wie in S2-2; Theo hält ihn kurz,
 dann stellt er sich zu Frieda. **Humor:** keiner nötig, ein Atemzug von Theo.
 **Cliffhanger [BILD]:** Halder dreht sich um und sieht seine Tochter zwischen denen stehen.
 
@@ -340,6 +349,10 @@ Der Uhrmacher kann nicht anders, er rechnet: Alarm kurz nach elf, die Uhr auf zw
 Minuten. Er bestätigt, warum er nie geöffnet hat. Und er sagt, was er nie jemandem gesagt hat:
 Der Geist von Weißenbrück ist in jener Nacht wirklich gegangen. Er hat es geschafft — und konnte
 es dreißig Jahre lang nicht als Erfolg sehen (Autorentscheidung 2026-10-26; schließt S2-3 Z. 1145).
+Dazu, ⚠️ **Vorschlag (Autor):** ein Satz zur **Brandnarbe** — seit S2-3 K1 als Rätsel gesetzt
+(Staffelplan: „nie erklärt, bis die Kinder verstehen, was sie bedeutet"), bisher nirgends
+eingelöst. Er war beim Ausbruch nicht da (S2-3); also stammt sie vom Morgen danach: Er hat die
+noch heiße Klinke am Haus des Geistes angefasst. Echo zu Ilses Tür.
 Der Bruch, nicht laut. **Schatten:** legt sich zu
 seinen Füßen (vgl. Ilse, S2-3 K13). **Humor:** keiner (Ausnahme 2).
 **Cliffhanger [ERKENNTNIS]:** Halder: „Und der von den Lagerhallen?" Nora sieht: Der Beweis hat ihm
@@ -396,7 +409,8 @@ BILD · STIMME · DIALOG · ERKENNTNIS · OBJEKT · ERKENNTNIS · KOMPLIKATION �
 DIALOG · BILD · AKTION · ERKENNTNIS · OBJEKT · DIALOG · STIMME · BILD · DIALOG · BILD (Abschluss)
 
 Keine zwei gleichen Typen hintereinander (geprüft). ERKENNTNIS 3× (K4, K6, K12), DIALOG 4×
-(K3, K9, K14, K17), BILD 4× (K1, K10, K16, K18).
+(K3, K9, K14, K17), BILD 3× (K1, K10, K16) plus K18 als Abschlussbild. Volles Register mit
+Leser-Absicht: `Cliffhanger_Register_S2-5.md`.
 
 # Übergänge (vorläufig)
 
