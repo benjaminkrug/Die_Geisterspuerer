@@ -33,7 +33,7 @@
 | A20 | Ilse: „Er hat mich nie gefragt, ob ich bleiben will." (S2-3 K13/K15) · Frieda: „Ich habe ihn nie gefragt, ob es stimmt." (S2-4 K11) | K13 Frieda: „Du hast nie einen gefragt."; K14 er fragt | geplant |
 | A21 | Halder: „Solche Uhren vergessen nichts. Man muss ihnen nur zuhören." (S2-3 K2) | K15: Nora oder Halder selbst erinnert daran | geplant |
 | A22 | Die Standuhr „geht jetzt zu genau" (S2-3 K2) | K18: heute stimmt sie einfach | geplant |
-| A23 | **Brandnarbe auf Halders rechtem Handrücken** (S2-3 K1, Nora verbindet sie mit dem Feuer, S2-3 K11) — nie erklärt | K12: ⚠️ Vorschlag heiße Klinke am Morgen danach (Autor) | offen (Autor) |
+| A23 | **Brandnarbe auf Halders rechtem Handrücken** (S2-3 K1, Nora verbindet sie mit dem Feuer, S2-3 K11) — nie erklärt | K12: die heiße Türklinke am Morgen danach (Autor, 26.10.) | geplant |
 | A24 | „Jetzt weiß er, dass wir es wissen." (S2-3 K16) | K3 erstes Gespräch; K10 neuer Riegel | geplant |
 | A25 | Mama kennt Halder und hat Frieda gesehen (S2-3 K2, K7) | K5: Mama erkennt Frieda | geplant |
 | A26 | Mia, abgesagt; Angst, wie leicht die nächste Absage fällt (S2-2 K2, K13) | K7 bewusste Absage mit Preis; K18 erster Schultag | geplant |

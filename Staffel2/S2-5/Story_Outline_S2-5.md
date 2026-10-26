@@ -90,7 +90,7 @@ lassen etwa eine Woche bis Schulbeginn.
    (Schuld an der Tür), Marie (Schwester).
 5. Tod off-page, kein Blut, kein Unfall-Detail.
 
-**Entscheidung: der Wächter.** Name in der Kontinuität. Tod off-page, ruhig, im Wächterhäuschen
+**Entscheidung: der Wächter, Konrad.** Tod off-page, ruhig, im Wächterhäuschen
 eingeschlafen.
 ⚠️ **Todeszeitpunkt = Frühjahr dieses Jahres, also nach Band 5 — Kanonpflicht.** Silbers Karte „ist
 exakt", und vor der Heilung konnte kein Toter Gravenstedt verlassen (`Serien_Kanon.md` Abschnitt
@@ -349,7 +349,7 @@ Der Uhrmacher kann nicht anders, er rechnet: Alarm kurz nach elf, die Uhr auf zw
 Minuten. Er bestätigt, warum er nie geöffnet hat. Und er sagt, was er nie jemandem gesagt hat:
 Der Geist von Weißenbrück ist in jener Nacht wirklich gegangen. Er hat es geschafft — und konnte
 es dreißig Jahre lang nicht als Erfolg sehen (Autorentscheidung 2026-10-26; schließt S2-3 Z. 1145).
-Dazu, ⚠️ **Vorschlag (Autor):** ein Satz zur **Brandnarbe** — seit S2-3 K1 als Rätsel gesetzt
+Dazu, ✅ **entschieden (Autor, 26.10.):** ein Satz zur **Brandnarbe** — seit S2-3 K1 als Rätsel gesetzt
 (Staffelplan: „nie erklärt, bis die Kinder verstehen, was sie bedeutet"), bisher nirgends
 eingelöst. Er war beim Ausbruch nicht da (S2-3); also stammt sie vom Morgen danach: Er hat die
 noch heiße Klinke am Haus des Geistes angefasst. Echo zu Ilses Tür.

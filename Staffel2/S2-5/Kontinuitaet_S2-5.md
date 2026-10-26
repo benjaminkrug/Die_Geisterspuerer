@@ -107,14 +107,17 @@
 - **Neu in S2-5 (Outline):** begann „als es zwölf schlug"; seine Reiseuhr in der Werkstatt steht auf
   zwölf; der Aufzugsschlüssel hängt an einer Kette unter dem Hemd; hat kurz nach dem Feuer bei der
   Feuerwehr Weißenbrück angefragt und die Antwort nie geöffnet; der Geist von Weißenbrück **ging
-  damals wirklich** (K12). Vorschlag Narbe: heiße Klinke am Morgen danach (K12, Autor).
+  damals wirklich** (K12). **Die Narbe** (Autor, 2026-10-26): am Morgen danach die noch heiße
+  Türklinke am Haus des Geistes angefasst, weil er hineinwollte (K12, ein Satz).
 - Ende S2-4: bei den Lagerhallen, „gehetzt", fragt nach alten Häusern und „wer da früher gewohnt
   hat" (S2-4 K16).
 - Weiß seit S2-3 K15/K16, dass die Kinder es können. „Vorsichtiger, nicht aggressiver."
 - **Sprechweise:** kurze, ruhige Sätze, nie laut. Erst in K11/K12 bekommt die Ruhe Risse.
 
 ### Der Wächter (Geist von den Lagerhallen) — NEU
-- **Name:** ⚠️ offen (Autor). Bis dahin im Text „der Wächter".
+- **Name: Konrad** (Autor, 2026-10-26). Nachname nur, wenn die Handlung ihn braucht. Im Text
+  meist „der Wächter"; den Namen erfährt Nora erst, wenn er ihn sagt (frühestens K9, sicher K14 —
+  er sagt ihn Halder, nicht den Kindern).
 - War jahrzehntelang Nachtwächter und Hausmeister der Lagerhallen einer längst aufgelösten
   Spedition; wohnte im Wächterhäuschen am Rand des Geländes. Blieb, als die Firma weg war, bis das
   Gelände verkauft wurde.
@@ -270,7 +273,7 @@ Ferien: Zu Beginn von S2-4 „Zwei Wochen Sommerferien waren noch übrig" (S2-4 
 geerbten Fäden mit Kapitel).
 **Bewusst offen:** Halders weiterer Weg (bleibt bei den drei), Friedas Zukunft, die Brandursache,
 Marie, Staffel 3.
-**Offene Autorentscheidungen:** Name des Wächters · Brandnarbe (Vorschlag: heiße Klinke am Morgen).
+**Offene Autorentscheidungen:** keine (Name Konrad und Narbe entschieden am 26.10.).
 
 ---
 

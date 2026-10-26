@@ -376,6 +376,7 @@ gefunden und in die Outline übernommen: Der Wächter muss **nach** Band 5 gesto
 Karte ist exakt); die **Brandnarbe** (S2-3 K1) war nie eingelöst → Vorschlag in K12.
 
 **Offen:**
-- Autor: Name des Wächters; Brandnarbe (Vorschlag heiße Klinke).
+- ~~Autor: Name des Wächters; Brandnarbe~~ → entschieden 26.10.: **Konrad**; **heiße Klinke** am
+  Morgen danach (K12).
 - B11: Hinweisketten-Tracker gegen die Texte nachziehen, `PLAN_Staffel2.md`-Stand und `Serien_Kanon.md` 7c aktualisieren.
 - Restbefunde S2-4 (Abschnitt 3) — vor dem Upload.

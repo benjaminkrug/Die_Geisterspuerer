@@ -158,7 +158,8 @@ kleinen Uhr.
 2. Der Uhrmacher rechnet, laut, langsam: 23.20 Uhr. Zwölf. Vierzig Minuten.
 3. Warum er nie geöffnet hat: Er wollte nicht lesen, wer in dieser Nacht gestorben ist.
 4. Der Geist von Weißenbrück ging damals wirklich — er hat es nie als Erfolg sehen können.
-5. ⚠️ Narbe (Autorentscheidung offen): die heiße Klinke am Morgen danach.
+5. Die Narbe, ein Satz: Am Morgen danach fasste er die noch heiße Klinke am Haus des Geistes an.
+   Nora sieht dabei auf seine Hand (Echo S2-3 K1/K11).
 6. Schatten legt sich zu seinen Füßen. Der Bruch, ohne Lautstärke.
 **Humor:** keiner (Ausnahme 2).
 **Dialog-Träger:** Halder (mehr als sonst), Frieda. **Ende:** ERKENNTNIS — „Und der von den
@@ -181,8 +182,8 @@ Lagerhallen?"
 **Ort/Zeit:** Lagerhallen, Sonnenaufgang.
 1. Theo müde (Humor). Halder steht schon an der Ruine. Der Faden ist wieder sichtbar.
 2. Halder kniet. Er fragt. Lange nichts.
-3. Der Wächter antwortet: die Hallen, die Jahre, die Nacht, in der keiner kam. Er wartet auf seine
-   Ablösung.
+3. Der Wächter antwortet und sagt Halder seinen Namen: Konrad. Die Hallen, die Jahre, die Nacht, in
+   der keiner kam. Er wartet auf seine Ablösung.
 4. Nora, nur: „Nicht entscheiden. Fragen." Halder fragt weiter, statt zu erklären.
 5. „Sie sind abgelöst." — Das Schloss öffnet sich von selbst, bevor Halder den Schlüssel ansetzt.
    Der Faden erlischt. Der Wächter geht (eigene Form, nicht wie Grete oder Ilse).
