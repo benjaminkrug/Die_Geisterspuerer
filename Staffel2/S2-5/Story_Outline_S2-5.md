@@ -113,9 +113,20 @@ selbst erzählt hat, überhaupt stimmt.
 9. **Was wird aus dem neuen, off-page gebundenen Geist aus S2-4 K16?** Er hat **keine
    persönliche Bindung an einen Ort** (anders als Herbert/Ilse/Marie) — nach der in S2-3
    etablierten Grundsatzregel (Geister ohne persönliche Verbindung driften zu Halders
-   Sammelpunkt) ist er inzwischen ebenfalls in der Werkstatt. **Er wird stillschweigend Teil
+   Sammelpunkt) ist er inzwischen ebenfalls in der Werkstatt. ~~**Er wird stillschweigend Teil
    der Dutzenden, kein eigener benannter Faden** — sauberer Payoff, kein offenes Ende, ohne
-   eine eigene Szene zu brauchen.
+   eine eigene Szene zu brauchen.~~
+   ⚠️ **Umgeplant 2026-10-26 (Autorentscheidung, `S2-4/Fundliste_S2-4_Logik.md` Nachprüfung
+   Fund 3):** S2-4 endet jetzt mit Noras bewusstem Wegsehen — Theo erkennt Halder schon in
+   S2-4 K4, Nora sagt zweimal „nicht jetzt", Schlusssatz: „Er sucht schon wieder einen. Und
+   wir haben es gewusst. Und nicht hingesehen." Das ist ein **ausdrückliches Versprechen** an
+   den Leser; „stillschweigend" würde es brechen (unbezahltes Setup). **Neu:**
+   (a) Dieser Geist bekommt **einen kleinen, benannten Moment**: Er ist der erste, den Nora in
+   der geöffneten Werkstatt bewusst ansieht — sinngemäß „Diesmal sehe ich hin." Kein eigener
+   Fall, keine Nebenfigur, eine Einstellung (passt zu Punkt 7: zwei, drei Einzelbilder).
+   (b) Noras Schuld aus S2-4 ist ihr **Antrieb, Frieda in S2-5 zu helfen**, statt wieder
+   „erst das andere" zu sagen — Echo, kein Monolog.
+   Beides bei der Szenenplanung von S2-5 verbindlich einplanen.
 
 10. **Warum bleibt Marie unberührt?** ⚠️ Kontinuität-Widerspruch 8, aktiv gegenprüfen: Sie
     hat eine persönliche Bindung an den Stadtpark (Claras letzten Ort), nicht an Halders
@@ -183,7 +194,9 @@ selbst erzählt hat, überhaupt stimmt.
 3. **Der letzte Schlüssel:** ein einziger, symbolischer Hauptschlüssel löst alle Bindungen
    der Werkstatt (Mechanik Punkt 6).
 4. **Theo hält Schatten** im Klimax — konkrete, notwendige, undramatische Aufgabe.
-5. **Der S2-4-Geist wird stillschweigend Teil der Dutzenden** (Mechanik Punkt 9).
+5. ~~**Der S2-4-Geist wird stillschweigend Teil der Dutzenden**~~ → **Der S2-4-Geist bekommt
+   einen kleinen benannten Moment („Diesmal sehe ich hin"), Noras Schuld treibt ihre Hilfe
+   für Frieda** (Mechanik Punkt 9, umgeplant 2026-10-26).
 6. **Marie bleibt im gesamten Band unerwähnt** (Mechanik Punkt 10).
 
 ---

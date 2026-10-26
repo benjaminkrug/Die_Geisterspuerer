@@ -102,14 +102,6 @@ Für einen Moment saß Nora einfach nur da und starrte auf den Namen. Zwölf Mar
 
 "Das ist sie", flüsterte Nora. "Clara. Das muss sie sein."
 
-Theo beugte sich noch näher. "Aber dann …" Seine Stimme wurde leiser. "Dann ist die doch schon weg."
-
-"Ja."
-
-"Seit November?"
-
-"Seit November." Nora hörte selbst, wie leer das klang. "Marie sucht jemanden, den wir schon gehen lassen haben."
-
 Schatten winselte wieder, lauter diesmal. Er drückte sich an die geschlossene Zimmertür, als wollte er sie mit der Schnauze aufdrücken.
 
 Niemand von beiden achtete darauf.
@@ -132,4 +124,6 @@ Und daneben, kleiner, an den Rand gequetscht, stand ein einziges Wort.
 
 *Frei.*
 
-Nora kannte diese Schrift. Das F mit dem kleinen Haken am Ende. Sie kannte sie besser als jede andere.
+In ihrer eigenen Schrift. Sie hatte es selbst hingeschrieben, an einem grauen Novembermorgen.
+
+Neben dem Namen von Maries Schwester.

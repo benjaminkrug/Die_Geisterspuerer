@@ -610,6 +610,28 @@ oder umformulieren.**
 Lesen entscheiden. K4/K5 unter ~1.200 W (siehe oben). Kompilieren + Taschenbuch-Seitenzahl
 prüfen (Buchrücken!), bevor neu hochgeladen wird.
 
+**Nachprüfung aller Änderungen (2026-10-25) — drei schwere Funde, umgesetzt 2026-10-26
+(Autorentscheidung: „genau so einbauen"):**
+- ✅ **N1 — K13 widersprach sich selbst:** K13:81 (neu: „drüben wurde gewartet, abgeholt")
+  gegen K13:93 („Sie musste nicht mehr warten") — der Leser schließt: Clara wartet drüben
+  auf Marie, also ist sie nicht böse, also löst sich die Schuld. **Jetzt:** K13 „Hier nicht
+  mehr." K14: Theo stellt die Kinderfrage „Dann geh doch rüber zu ihr. Und frag sie." —
+  Marie: „Rüber komm ich erst, wenn ich's von ihr gehört hab. Und sie kann nicht mehr her."
+  Der Zirkel ist ausgesprochen, keine spätere Befreiung versprochen.
+- ✅ **N2 — Akt-1-Ende entschärft:** Die ausgesprochene Erkenntnis stand mitten in K4,
+  der Cliffhanger („Nora kannte diese Schrift") enthüllte etwas, das Nora wusste.
+  **Jetzt:** K4 endet beim Objekt — „*Frei.* In ihrer eigenen Schrift. […] Neben dem Namen
+  von Maries Schwester." (OBJEKT bleibt, keine ERKENNTNIS-Kollision mit K3/K5). Theos
+  „Dann ist die ja schon weg. Seit November." und Noras „den wir schon gehen lassen haben"
+  stehen jetzt am Anfang von K5; Theos doppeltes „Seit November?" entfällt.
+- ✅ **N3 — Setup ohne Payoff über die Bandgrenze:** S2-4 endet mit Noras bewusstem
+  Wegsehen; S2-5 plante den Geist „stillschweigend". **Jetzt:** S2-5-Outline Mechanik 9 +
+  Entscheidung 5 umgeplant — der Geist bekommt einen benannten Moment („Diesmal sehe ich
+  hin"), Noras Schuld treibt ihre Hilfe für Frieda. Kein Text in S2-4 geändert.
+- **Messung:** K4 1.092→1.053 W, K5 1.062→1.093, K13 1.211→1.208, K14 1.231→1.264; keine
+  neuen Sätze > 18 W, Blöcke ohne Dialog unverändert. Kompiliert 18.563 W, Taschenbuch
+  **weiterhin 97 Seiten** → Cover bleibt gültig. eBook neu gebaut.
+
 ## Empfohlene Reihenfolge
 
 1. **F1 entscheiden** (Richtung a, b oder c). Davon hängen K7, K13 und K14 ab.

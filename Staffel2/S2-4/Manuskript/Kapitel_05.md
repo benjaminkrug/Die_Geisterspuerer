@@ -1,8 +1,10 @@
 # Kapitel 5 – Das ist unsere Schrift
 
-Die Handschrift war ihre eigene.
-
 Nora starrte auf das Wort, bis die Buchstaben anfingen, sich aufzulösen. *Frei.* Ihr eigenes F, mit dem kleinen Haken am Ende. Eine Angewohnheit aus der dritten Klasse, die sie sich nie mehr abgewöhnt hatte.
+
+Theo sah es auch. "Aber dann …" Seine Stimme wurde leiser. "Dann ist die ja schon weg. Seit November."
+
+"Ja." Nora hörte selbst, wie leer das klang. "Marie sucht jemanden, den wir schon gehen lassen haben."
 
 "Ich hab das geschrieben", sagte sie leise.
 

@@ -90,7 +90,7 @@ Marie sah zwischen der Karte, Nora und Schatten hin und her. So viel auf einmal,
 
 "Sie hat nicht mehr auf mich gewartet?"
 
-"Nein", sagte Nora. "Sie musste nicht mehr warten."
+"Hier nicht mehr", sagte Nora.
 
 "Aber ich hab noch auf sie gewartet. Die ganze Zeit."
 

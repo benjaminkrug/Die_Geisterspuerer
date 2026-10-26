@@ -20,7 +20,7 @@ ERKENNTNIS, KOMPLIKATION, OBJEKT, SPANNUNG/UNSICHERHEIT.
 | K1 | Die Frau im Park | BILD | Durchscheinende Gestalt in der Dämmerung, ruft, sucht |
 | K2 | Clara? | DIALOG | Marie, ins Leere: „Clara? Bist du das?" |
 | K3 | Die Schleife | ERKENNTNIS | Der Name „Clara" — Nora hat ihn schon einmal gesehen |
-| K4 | Frei. | OBJEKT | Markierung am Stadtpark (Nora weiß, dass alle durch sind) — Name Clara, daneben „Frei." — „Nora kannte diese Schrift." *(präzisiert 2026-10-25, Fundliste F3)* |
+| K4 | Frei. | OBJEKT | Markierung am Stadtpark (Nora weiß, dass alle durch sind) — Name Clara, daneben Noras eigenes „Frei." — „Neben dem Namen von Maries Schwester." Die ausgesprochene Bedeutung („den wir schon gehen lassen haben") steht erst in K5. *(2026-10-25 F3; 2026-10-26 Nachprüfung Fund 2: alter Schein-Cliffhanger „Nora kannte diese Schrift" ersetzt)* |
 | K5 | Das ist unsere Schrift | ERKENNTNIS | Clara wurde vor Monaten befreit — für immer zu spät |
 | K6 | Wie sagt man das jemandem | GEDANKE/ENTSCHLUSS | Nora: Sie versuchen es trotzdem mit Zuhören |
 | K7 | Es reicht nicht | KOMPLIKATION | Zuhören verändert nichts an der Grundsituation |

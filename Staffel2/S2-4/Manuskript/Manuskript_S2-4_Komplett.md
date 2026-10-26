@@ -3,7 +3,7 @@
 **Die Gebundenen · Band 4**
 Ein Grusel-Abenteuer für Kinder ab 12 Jahren
 Autor: Benjamin Krug
-Stand: 2026-10-25
+Stand: 2026-10-26
 
 
 # Kapitel 1 – Die Frau im Park
@@ -480,14 +480,6 @@ Für einen Moment saß Nora einfach nur da und starrte auf den Namen. Zwölf Mar
 
 "Das ist sie", flüsterte Nora. "Clara. Das muss sie sein."
 
-Theo beugte sich noch näher. "Aber dann …" Seine Stimme wurde leiser. "Dann ist die doch schon weg."
-
-"Ja."
-
-"Seit November?"
-
-"Seit November." Nora hörte selbst, wie leer das klang. "Marie sucht jemanden, den wir schon gehen lassen haben."
-
 Schatten winselte wieder, lauter diesmal. Er drückte sich an die geschlossene Zimmertür, als wollte er sie mit der Schnauze aufdrücken.
 
 Niemand von beiden achtete darauf.
@@ -510,13 +502,17 @@ Und daneben, kleiner, an den Rand gequetscht, stand ein einziges Wort.
 
 *Frei.*
 
-Nora kannte diese Schrift. Das F mit dem kleinen Haken am Ende. Sie kannte sie besser als jede andere.
+In ihrer eigenen Schrift. Sie hatte es selbst hingeschrieben, an einem grauen Novembermorgen.
+
+Neben dem Namen von Maries Schwester.
 
 # Kapitel 5 – Das ist unsere Schrift
 
-Die Handschrift war ihre eigene.
-
 Nora starrte auf das Wort, bis die Buchstaben anfingen, sich aufzulösen. *Frei.* Ihr eigenes F, mit dem kleinen Haken am Ende. Eine Angewohnheit aus der dritten Klasse, die sie sich nie mehr abgewöhnt hatte.
+
+Theo sah es auch. "Aber dann …" Seine Stimme wurde leiser. "Dann ist die ja schon weg. Seit November."
+
+"Ja." Nora hörte selbst, wie leer das klang. "Marie sucht jemanden, den wir schon gehen lassen haben."
 
 "Ich hab das geschrieben", sagte sie leise.
 
@@ -1450,7 +1446,7 @@ Marie sah zwischen der Karte, Nora und Schatten hin und her. So viel auf einmal,
 
 "Sie hat nicht mehr auf mich gewartet?"
 
-"Nein", sagte Nora. "Sie musste nicht mehr warten."
+"Hier nicht mehr", sagte Nora.
 
 "Aber ich hab noch auf sie gewartet. Die ganze Zeit."
 
@@ -1513,6 +1509,10 @@ Marie sah auf die Schleife in ihren Fingern. "Sie ist wegen mir rausgegangen. In
 "Sie war dir nicht böse", sagte Theo schnell. "Ganz bestimmt nicht."
 
 "Das kannst du nicht wissen." Es klang nicht hart. Nur müde. "Das kann nur sie sagen."
+
+"Dann geh doch rüber zu ihr", sagte Theo leise. "Und frag sie."
+
+"Rüber komm ich erst, wenn ich's von ihr gehört hab." Marie sah zu den Kastanien. "Und sie kann nicht mehr her."
 
 Nora dachte an eine Tunnelwand unter der Stadt. An Buchstaben, die ein Junge vor über fünfzig Jahren in den Stein geritzt hatte. *FÜR MAMA. ICH BIN NICHT BÖSE.* Marlene hatte genau diesen einen Satz gebraucht. Nicht von Nora. Von Jonas.
 

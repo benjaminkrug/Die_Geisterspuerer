@@ -34,6 +34,10 @@ Marie sah auf die Schleife in ihren Fingern. "Sie ist wegen mir rausgegangen. In
 
 "Das kannst du nicht wissen." Es klang nicht hart. Nur müde. "Das kann nur sie sagen."
 
+"Dann geh doch rüber zu ihr", sagte Theo leise. "Und frag sie."
+
+"Rüber komm ich erst, wenn ich's von ihr gehört hab." Marie sah zu den Kastanien. "Und sie kann nicht mehr her."
+
 Nora dachte an eine Tunnelwand unter der Stadt. An Buchstaben, die ein Junge vor über fünfzig Jahren in den Stein geritzt hatte. *FÜR MAMA. ICH BIN NICHT BÖSE.* Marlene hatte genau diesen einen Satz gebraucht. Nicht von Nora. Von Jonas.
 
 Clara hatte keinen Satz hinterlassen. Keine Wand, keinen Brief, nichts. Sie war losgegangen, um ihre Schwester zu suchen, und nie zurückgekommen. Und wer gegangen war, kam nicht wieder.
