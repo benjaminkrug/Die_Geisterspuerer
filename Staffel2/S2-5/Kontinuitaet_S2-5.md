@@ -185,6 +185,7 @@
 | Schlösser werden vorab an Orten eingebaut; ein Geist gerät hinein („Wie eine Falle im Wald") | S2-1 K16 |
 | Das Schloss ist „an mir dran", eiskalt; Gewalt tut dem Geist weh, das Metall bleibt heil | S2-1 K10 |
 | Rückriss: Wer gehen will, wird zurückgerissen, danach dichter sichtbar und mit Schmerzen | S2-1 K3, Serien_Kanon |
+| **S2-5:** Rückriss auch, wer **den Ort verlassen** will (Wächter über die Schwelle) | S2-5 K4 |
 | Ein Schloss öffnet sich, wenn der Knoten des Geistes sich löst (Halten statt Ziehen; Erinnern) | S2-1 K12–K13, S2-2 K9–K10 |
 | Nach dem Öffnen kann ein Geist trotzdem bleiben, bis sein eigener Knoten gelöst ist | S2-1 K13–K14 (Herbert) |
 | Der passende Schlüssel ist „bei dem, der das gebaut hat" | S2-1 K10 |
@@ -279,7 +280,7 @@ Marie, Staffel 3.
 
 ## AKT-FORTSCHRITT
 
-- 🔶 Akt 1 — Hinsehen (K1–K4): K1, K2 (26.10.), K3 (27.10.) geschrieben
+- ✅ Akt 1 — Hinsehen (K1–K4): K1, K2 (26.10.), K3, K4 (27.10.) geschrieben
 - ⬜ Akt 2 — Fragen (K5–K9)
 - ⬜ Akt 3 — Was er nie gefragt hat (K10–K13)
 - ⬜ Akt 4 — Der letzte Schlüssel (K14–K18)
@@ -293,6 +294,21 @@ Marie, Staffel 3.
 | K2 | Tag 1, ~6.10 Uhr | Der Wächter erscheint durch Tor 6, „stempelt" am Kasten; „Zehn nach sechs. Um halb sieben ist Rundgang."; geht zum letzten Häuschen, wartet an der Tür, verblasst; Halders Stimme hinter den Kindern |
 
 | K3 | Tag 1, ~6.15 Uhr | Gespräch mit Halder am Bauzaun, ~10 m Abstand; er hat den Wächter „heute schon zweimal gehen sehen" |
+
+| K4 | Tag 1, 6.30 Uhr → ~6.45 | Rundgang um halb sieben, Wächter geht ins Häuschen → Rückriss; Halder fährt weg; Nora kniet bei ihm |
+
+**Neu festgelegt in K4 (ab hier Kanon):** Halder: „Ich sehe ihm seit einer Woche zu. Er ist sehr
+pünktlich." **Die Falle sitzt in einer Ritze der Türschwelle** des Wächterhäuschens. Der Wächter: „Die hab
+ich selbst gemacht. Vor vierzig Jahren. Eiche." **Rückriss, als er das Häuschen verlassen will** (Erweiterung
+der Regel aus S2-1 — dort beim Hinübergehen; hier beim Verlassen des Ortes; passt zu Grete/Ilse, die ihren
+Ort nie verließen). Danach dichter, Nähte und Falten sichtbar, Hand auf der Brust (wie Herbert). Die Mütze ist
+weg. **Der erste sichtbare Faden:** dünn wie ein Haar, blass wie Frost, aus der Ritze zum Rücken; sichtbar,
+solange Halder da ist; Halder sieht ihn auch („vielleicht immer"); **nach Halders Abfahrt unsichtbar**, aber
+noch da. Halder: „Am Anfang. Dann wird es ruhiger. Das wird es immer." Seine Narbenhand zittert beim Aufheben
+der Tasche (Nora sieht es). Der Wächter kennt jetzt **Halders Namen** (von Nora) und fragt Nora: „Gehörst du zu
+dem?" — „Nein." Er redet nicht mit „euch Kindern", nur mit „dem, der das gemacht hat. Der soll herkommen und
+mir das ins Gesicht sagen." Noras Erkenntnis: Sie hat ihn mit der Uhrzeit geprüft, nicht gefragt — „Genau wie
+Halder."
 
 **Neu festgelegt in K3 (ab hier Kanon):** Halder unrasiert, Schatten unter den Augen, **roter
 Ziegelstaub an Hose und Fingern, frischer Kratzer am Daumen, Ölfleck** (= Nachtarbeit an der Falle;
@@ -337,6 +353,9 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 
 | K2 | 1.118 | 32,3 % | 0 | 77 | 0,0 | 4,7 % |
 | K3 | 1.056 | 34,8 % | 0 | 114 | 0,9 | 3,2 % |
+
+¹ K4 = Akt-1-Höhepunkt (Rückriss); der Spannungs-Prüfplan erlaubt bei Action-Höhepunkten unter 20 %.
+Akt 1 gesamt (K1–K4): ~4.760 W, Dialog ~31 %.
 
 **K1 überarbeitet 2026-10-26 (Spannungs-Prüfplan Teil B):** Theo-Witze in der Ankunft von neun auf
 vier gesenkt (Humor nach dem Schreck, nicht davor), Theo verstummt sichtbar; Nachtszene endet mit

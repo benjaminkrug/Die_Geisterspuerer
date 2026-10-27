@@ -298,7 +298,14 @@ schon. **Schatten:** Nackenhaare gegen Halder wie in S2-3, bleibt aber an Noras 
 knapp, Theo, angespannt.
 **Cliffhanger [DIALOG]:** Halder: „Diesen lasse ich nicht los. Nicht noch einmal."
 
-### Kapitel 4 – „Der Faden" (ABSCHLUSS AKT 1)
+### Kapitel 4 – „Der Faden" (ABSCHLUSS AKT 1) ✅ geschrieben (2026-10-27)
+*Ist-Stand:* wie unten, dazu: Halder „Ich sehe ihm seit einer Woche zu. Er ist sehr pünktlich."; Falle in
+der Ritze der selbstgemachten Eichenschwelle („Vor vierzig Jahren"); Rückriss beim Verlassen des Ortes; Faden
+nach Halders Abfahrt unsichtbar; Halder sagt „Am Anfang. Dann wird es ruhiger." und fährt weg; der Wächter
+kennt jetzt Halders Namen; Ende: „Sie hatte ihn geprüft. Gefragt, was er braucht, hatte sie ihn nicht. Genau
+wie Halder." Kein Humor (Ausnahme 1). **Für K9 merken:** „Bring mir den, der mich festgemacht hat" darf
+nicht wie K4 klingen — dort ist es ein Befehl mit Ungeduld/Schmerz, kein Wiederholen.
+*Plan:*
 ⚠️ **Präzisiert 27.10. (Zwischenanalyse F8):** K4 beginnt mit dem **Rundgang um halb sieben**, den der
 Wächter in K2 angekündigt hat (Zeit stimmt: K2 6.10 Uhr, K3 ~10 Minuten). Die Tore rütteln wieder Nummer
 für Nummer; am Ende der Runde geht er zu seinem Häuschen und diesmal **hinein** → die Falle. Der Rückriss

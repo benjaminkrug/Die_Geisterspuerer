@@ -11,7 +11,7 @@
 
 | # | Setup (Beleg) | Payoff in S2-5 | Status |
 |---|---|---|---|
-| A1 | „Er sucht schon wieder einen. Und wir haben es gewusst. Und nicht hingesehen." (S2-4 K16, letzter Satz) | K1–K4: Nora fährt hin, sieht zu, bleibt beim Gebundenen | geplant |
+| A1 | „Er sucht schon wieder einen. Und wir haben es gewusst. Und nicht hingesehen." (S2-4 K16, letzter Satz) | K1–K4: Nora fährt hin, sieht zu, bleibt beim Gebundenen | ✅ K1–K4 (Nora kniet beim Wächter; „Genau wie Halder" öffnet den nächsten Schritt: fragen) |
 | A2 | Halder bei den Lagerhallen, „gehetzt", fragt „wer da früher gewohnt hat", „noch nicht gefunden" (S2-4 K16) | K1–K3: die Häuschen-Reihe, die Falle im Wächterhäuschen | geplant |
 | A3 | Frieda: „Ob's stimmt. Das mit dem Feuer." / „Ich will es wissen." (S2-4 K15) | K5: Sie hat gesucht und gefunden | geplant |
 | A4 | Marie: „Kommt ihr wirklich wieder?" — „Versprochen." (S2-4 K14, K15) | K8: Besuch, nichts verändert sich | geplant |
@@ -56,10 +56,11 @@ Clara); Frau Brandt/Jule; Kubiak; die zwölf Markierungen.
 | B1 | Rolltore rütteln der Reihe nach, wie auf einem Rundgang (K1); „Hier hat keiner was verloren" (K2); optional Kontrollkästen an den Toren | K14: Er ist der Wächter, er braucht seine Ablösung (faires Rätsel, siehe D2) | 🔶 K1 gesetzt: nummerierte Kästen („Briefkästen. Für Lagerhallen."), Tore rütteln „genau nach den Nummern. Ohne Eile. Gründlich." |
 | B2 | Der Wächter „antwortet" (K2, Band-3-Probe: kein Echo) | K9/K14: Man kann mit ihm reden — wenn der Richtige fragt | 🔶 K2 gesetzt („Wie spät ist es?" — „Zehn nach sechs.") |
 | B15 | **Theos Kuchen-Schuld:** „Du schuldest mir einen Kuchen. Einen echten." (K2), nachdem Nora das Codewort ignoriert | K18: Nora löst sie ein (erster Schultag) — Pflicht, sonst unbezahlt | geplant |
-| B16 | Schatten knurrt das Häuschen an, nicht den Wächter (K2) | K4: die Falle darin, der Rückriss | geplant |
+| B16 | Schatten knurrt das Häuschen an, nicht den Wächter (K2) | K4: die Falle darin, der Rückriss | ✅ K4 (Falle in der Ritze der Schwelle) |
 | B3 | ~~Halder: „Ich weiß, was er braucht."~~ **korrigiert 27.10.** (widersprach S2-3 K12: „Man darf nie sicher sein, dass man weiß, was ein Geist braucht"). Jetzt K3: „Man kann nie sicher sein, was einer braucht … Also hält man fest. Bis man sicher ist." — „Und wann sind Sie sicher?" — „Nie." | K14: Er fragt — und wird dadurch sicher. Die Schleife „nie sicher → nie fragen → nie sicher" bricht | 🔶 K3 gesetzt |
-| B4 | Der erste Faden, nur weil Halder danebensteht (K4) | K9 kein Faden (Halder fehlt); K10 neunundneunzig; K16 erlöschen | geplant |
-| B5 | Der Wächter: Er redet nur mit dem, der ihn festgemacht hat (K4, K9) | K14 | geplant |
+| B4 | Der erste Faden, nur weil Halder danebensteht (K4) | K9 kein Faden (Halder fehlt); K10 neunundneunzig; K16 erlöschen | 🔶 K4 gesetzt (sichtbar mit Halder, verschwindet nach seiner Abfahrt) |
+| B5 | Der Wächter: Er redet nur mit dem, der ihn festgemacht hat (K4, K9) | K14 | 🔶 K4 („Mit euch Kindern nicht … Der soll herkommen und mir das ins Gesicht sagen.") — K9 darf das nicht wörtlich wiederholen |
+| B17 | Der Wächter kennt Halders Namen (K4, von Nora) | K14: er spricht ihn an | geplant |
 | B6 | Der ungeöffnete Brief (K5) | K6 geöffnet; K11 Halder erkennt ihn; K12 er sagt, warum | geplant |
 | B7 | „Als es zwölf schlug" + die Reiseuhr (K6) | K11–K12 Nachrechnen; K15 aufziehen | geplant |
 | B8 | Theo: „Ich geh mit dir." (K7) | K10–K12: Theo an Friedas Seite | geplant |
