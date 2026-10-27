@@ -349,10 +349,11 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 
 | Kap. | Wörter | Dialog | Sätze > 18 W | längster dialogfreier Block | Und-Erzähler /1000 | Kurzabsätze |
 |---|---|---|---|---|---|---|
-| K1 | 1.470 | 33,9 % | 0 | 105 | 2,1 | 3,6 % |
+| K1 | 1.472 | 33,9 % | 0 | 105 | 2,0 | 3,6 % |
 
-| K2 | 1.118 | 32,3 % | 0 | 77 | 0,0 | 4,7 % |
-| K3 | 1.056 | 34,8 % | 0 | 114 | 0,9 | 3,2 % |
+| K2 | 1.120 | 32,3 % | 0 | 75 | 0,0 | 4,7 % |
+| K3 | 1.061 | 34,8 % | 0 | 114 | 0,9 | 3,2 % |
+| K4 | 1.105 | 21,9 % ¹ | 0 | 118 | 0,0 | 6,9 % |
 
 ¹ K4 = Akt-1-Höhepunkt (Rückriss); der Spannungs-Prüfplan erlaubt bei Action-Höhepunkten unter 20 %.
 Akt 1 gesamt (K1–K4): ~4.760 W, Dialog ~31 %.
