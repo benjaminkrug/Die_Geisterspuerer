@@ -14,7 +14,7 @@
 |---|---|---|---|---|---|
 | K1 | Am anderen Ende | BILD | Die Rolltore rütteln der Reihe nach auf sie zu und hören direkt vor ihnen auf | Gänsehaut: Etwas weiß, dass sie da sind | „Und das Tor, das noch einmal leise nachzitterte. Als hätte es jemand gerade erst losgelassen." — BILD ✅ |
 | K2 | Hier hat keiner was verloren | STIMME/GERÄUSCH | Hinter ihnen, ruhig: „Geht nach Hause." (Halder) | Schreck, dann kalt: Er war die ganze Zeit da | „Da sagte jemand hinter ihnen, ganz ruhig und ohne jede Eile: ‚Geht nach Hause.'" — STIMME ✅ |
-| K3 | Nicht noch einmal | DIALOG | Halder: „Diesen lasse ich nicht los. Nicht noch einmal." | Angst *um* den Geist — und Verständnis für Halders Angst | — |
+| K3 | Nicht noch einmal | DIALOG | Halder: „Diesen lasse ich nicht los. Nicht noch einmal." | Angst *um* den Geist — und Verständnis für Halders Angst | „Diesen lasse ich nicht los", sagte er. „Nicht noch einmal." — DIALOG ✅ |
 | K4 | Der Faden | ERKENNTNIS | Der Wächter redet nur mit dem, der ihn festgemacht hat; Nora: Keiner hat ihn gefragt, auch sie nicht | Schuld und ein erster Faden Hoffnung | — |
 | K5 | Herrn Halders Tochter | OBJEKT | Der ungeöffnete Brief: „Er hat alles hundertmal gelesen. Nur das nicht." | Neugier, die man fast nicht aushält | — |
 | K6 | Vierzig Minuten | ERKENNTNIS | Es hat schon gebrannt, als er angefangen hat | Atem anhalten: Dreißig Jahre für nichts | — |

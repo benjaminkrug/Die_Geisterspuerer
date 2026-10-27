@@ -279,7 +279,7 @@ Marie, Staffel 3.
 
 ## AKT-FORTSCHRITT
 
-- 🔶 Akt 1 — Hinsehen (K1–K4): K1, K2 geschrieben (2026-10-26)
+- 🔶 Akt 1 — Hinsehen (K1–K4): K1, K2 (26.10.), K3 (27.10.) geschrieben
 - ⬜ Akt 2 — Fragen (K5–K9)
 - ⬜ Akt 3 — Was er nie gefragt hat (K10–K13)
 - ⬜ Akt 4 — Der letzte Schlüssel (K14–K18)
@@ -291,6 +291,20 @@ Marie, Staffel 3.
 | K1 | Tag 0, Frühstück → Nachmittag → kurz vor Mitternacht; Tag 1, halb sechs → Morgengrauen bei den Lagerhallen | Theo: „Morgen früh"; Nora schläft bis kurz vor Mitternacht (jemand hat ihr eine Decke übergelegt); Schatten am Fenster nach Norden, Theo sagt „seit einer Stunde"; Zettel um halb sechs (Mama Frühschicht, schon weg); Weg: nach Norden, über die Brücke, hinter dem alten Gleis (Marvin); Kälte, Atem sichtbar „Wir haben August" |
 
 | K2 | Tag 1, ~6.10 Uhr | Der Wächter erscheint durch Tor 6, „stempelt" am Kasten; „Zehn nach sechs. Um halb sieben ist Rundgang."; geht zum letzten Häuschen, wartet an der Tür, verblasst; Halders Stimme hinter den Kindern |
+
+| K3 | Tag 1, ~6.15 Uhr | Gespräch mit Halder am Bauzaun, ~10 m Abstand; er hat den Wächter „heute schon zweimal gehen sehen" |
+
+**Neu festgelegt in K3 (ab hier Kanon):** Halder unrasiert, Schatten unter den Augen, **roter
+Ziegelstaub an Hose und Fingern, frischer Kratzer am Daumen, Ölfleck** (= Nachtarbeit an der Falle;
+Nora: „Sie waren heute Nacht schon hier." — „Ich bin oft nachts unterwegs."). Er sagt „Guten Morgen,
+Nora. Theo." **Warum er blieb:** „Im Sommer war ich hier wie in jeder anderen Stadt … Dann wurde es
+hell. Im November. Seitdem leuchtet diese Stadt … Für die, die keinen Ort mehr haben … Also bin ich
+geblieben." Über den Wächter: **„Der hat hier gewohnt. Sein Leben lang."** — „So einer wie damals."
+**Halders Logik (wie S2-3):** „Man kann nie sicher sein, was einer braucht … Also hält man fest. Bis
+man sicher ist." — „Und wann sind Sie sicher?" — „Nie." Nora: „Ilse haben Sie auch nicht gefragt."
+Halder: „Ihr seht sie gehen und freut euch. Ich sehe sie gehen und frage mich, was danach brennt."
+Er stellt die Tasche ab „wie jemand, der bleiben will". Schatten knurrt leise, sieht von Halders Händen
+zum Häuschen, hört bei „Ilse" auf zu knurren.
 
 **Neu festgelegt in K2 (ab hier Kanon):** Der Wächter: Arbeitsjacke mit großen Taschen, Mütze tief in
 der Stirn, **runder Lederbehälter an einem Riemen** (seine Kontrolluhr — im Text nie benannt), eine
@@ -321,6 +335,7 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 | K1 | 1.470 | 33,9 % | 0 | 105 | 2,1 | 3,6 % |
 
 | K2 | 1.118 | 32,3 % | 0 | 77 | 0,0 | 4,7 % |
+| K3 | 1.056 | 34,8 % | 0 | 114 | 0,9 | 3,2 % |
 
 **K1 überarbeitet 2026-10-26 (Spannungs-Prüfplan Teil B):** Theo-Witze in der Ankunft von neun auf
 vier gesenkt (Humor nach dem Schreck, nicht davor), Theo verstummt sichtbar; Nachtszene endet mit

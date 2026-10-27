@@ -37,7 +37,7 @@
 | A24 | „Jetzt weiß er, dass wir es wissen." (S2-3 K16) | K3 erstes Gespräch; K10 neuer Riegel | geplant |
 | A25 | Mama kennt Halder und hat Frieda gesehen (S2-3 K2, K7) | K5: Mama erkennt Frieda | geplant |
 | A26 | Mia, abgesagt; Angst, wie leicht die nächste Absage fällt (S2-2 K2, K13) | K7 bewusste Absage mit Preis; K18 erster Schultag | geplant |
-| A27 | „Bis es hier auf einmal hell geworden war." (S2-4 K7) · Schlösser schon im August vor der Heilung (S2-1 K8, K16) | K3: Halder erklärt, warum er geblieben ist | geplant |
+| A27 | „Bis es hier auf einmal hell geworden war." (S2-4 K7) · Schlösser schon im August vor der Heilung (S2-1 K8, K16) | K3: Halder erklärt, warum er geblieben ist | ✅ K3 („Dann wurde es hell. Im November … Also bin ich geblieben.") |
 | A28 | Theos System: „Knurren heißt böse, Winseln heißt traurig." (S2-4 K3) | K2: Schatten winselt beim wütenden Wächter | ✅ K2 („Er schreit uns an, Theo." — „Ja. Aber traurig."; Schatten knurrt das Häuschen an) |
 | A29 | Halders Wagen, gewienert (S2-3 K5) | K1 an den Lagerhallen | ✅ K1 („das einzige saubere Ding weit und breit") |
 | A30 | Herbert blieb nach dem Öffnen, bis sein Knoten gelöst war (S2-1 K13–K14) | K16: drei bleiben | geplant |
@@ -57,7 +57,7 @@ Clara); Frau Brandt/Jule; Kubiak; die zwölf Markierungen.
 | B2 | Der Wächter „antwortet" (K2, Band-3-Probe: kein Echo) | K9/K14: Man kann mit ihm reden — wenn der Richtige fragt | 🔶 K2 gesetzt („Wie spät ist es?" — „Zehn nach sechs.") |
 | B15 | **Theos Kuchen-Schuld:** „Du schuldest mir einen Kuchen. Einen echten." (K2), nachdem Nora das Codewort ignoriert | K18: Nora löst sie ein (erster Schultag) — Pflicht, sonst unbezahlt | geplant |
 | B16 | Schatten knurrt das Häuschen an, nicht den Wächter (K2) | K4: die Falle darin, der Rückriss | geplant |
-| B3 | Halder: „Ich weiß, was er braucht." (K3) | K14: Er wusste es nicht; er fragt | geplant |
+| B3 | ~~Halder: „Ich weiß, was er braucht."~~ **korrigiert 27.10.** (widersprach S2-3 K12: „Man darf nie sicher sein, dass man weiß, was ein Geist braucht"). Jetzt K3: „Man kann nie sicher sein, was einer braucht … Also hält man fest. Bis man sicher ist." — „Und wann sind Sie sicher?" — „Nie." | K14: Er fragt — und wird dadurch sicher. Die Schleife „nie sicher → nie fragen → nie sicher" bricht | 🔶 K3 gesetzt |
 | B4 | Der erste Faden, nur weil Halder danebensteht (K4) | K9 kein Faden (Halder fehlt); K10 neunundneunzig; K16 erlöschen | geplant |
 | B5 | Der Wächter: Er redet nur mit dem, der ihn festgemacht hat (K4, K9) | K14 | geplant |
 | B6 | Der ungeöffnete Brief (K5) | K6 geöffnet; K11 Halder erkennt ihn; K12 er sagt, warum | geplant |

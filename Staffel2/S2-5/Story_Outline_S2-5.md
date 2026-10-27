@@ -284,7 +284,13 @@ grob — also kein Echo, ein Geist. **Schatten:** knurrt nicht, winselt — nach
 „ordnungsgemäß anmelden".
 **Cliffhanger [STIMME]:** Hinter ihnen, ruhig: „Geht nach Hause." Halder.
 
-### Kapitel 3 – „Nicht noch einmal"
+### Kapitel 3 – „Nicht noch einmal" ✅ geschrieben (2026-10-27)
+*Ist-Stand:* wie unten, mit einer **Korrektur:** Halder sagt nicht „Ich weiß, was er braucht" — das
+widersprach S2-3 K12. Er sagt: „Man kann nie sicher sein, was einer braucht … Also hält man fest. Bis
+man sicher ist." — „Und wann sind Sie sicher?" — „Nie." (Seine Schleife; K14 bricht sie durch Fragen.)
+Dazu: Ziegelstaub/Ölfleck an Halders Händen (Nachtarbeit), „Ilse haben Sie auch nicht gefragt", Halder:
+„Ich sehe sie gehen und frage mich, was danach brennt." Wächter: „Der hat hier gewohnt. Sein Leben lang."
+*Plan:*
 Das erste echte Gespräch seit S2-3. Halder müde, gehetzt, höflich. Warum er hier ist (Mechanik 13).
 Warum dieser Geist: „So einer wie damals." Nora: „Haben Sie ihn gefragt?" Halder: „Ich weiß, was er
 braucht." (Echo seines Fehlers aus S2-3: „Ich dachte, ich hätte verstanden.") Die Falle steht
