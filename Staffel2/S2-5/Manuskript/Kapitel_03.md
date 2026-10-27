@@ -52,7 +52,7 @@ Schatten folgte dem Blick. Er sah zu Halders Händen, dann zum Häuschen, dann w
 
 Der Name veränderte etwas in seinem Gesicht. Es war nur eine Kleinigkeit, ein Zucken um die Augen. Nora hätte es nicht bemerkt, wenn sie nicht genau hingesehen hätte.
 
-"Im Sommer war ich hier wie in jeder anderen Stadt", sagte er. "Ein paar Wochen Arbeit, dann weiter. So mache ich das seit Jahren."
+"Hier steht meine Werkstatt", sagte er. "Ich komme seit Jahren immer wieder her. Ein paar Wochen, dann weiter. So war das auch diesen Sommer."
 
 "Und dann?"
 
@@ -76,11 +76,11 @@ Theo klappte den Mund zu.
 
 Halder sah wieder auf seine eigene Hand, auf die Narbe. Er rieb mit dem Daumen darüber, ohne es zu merken.
 
-"Ich kenne so einen", sagte er leise. "Älter als die anderen. Wütender. So einer wie damals."
+"Ich kenne so einen." Er sprach jetzt fast nur noch zu sich selbst. "Älter als die anderen. Wütender. So einer wie damals."
 
 Niemand fragte, was damals war. Nora wusste es. Theo wusste es auch. Eine Stadt namens Weißenbrück. Ein Feuer in derselben Nacht. Dreißig Jahre, in denen Halder sich sicher gewesen war.
 
-"Wie bei dem Feuer?", fragte Theo trotzdem. Seine Stimme war ganz klein.
+"Wie bei dem Feuer?", fragte Theo trotzdem. Es klang ganz klein.
 
 Halder antwortete nicht. Das war Antwort genug.
 

@@ -10,7 +10,7 @@ Durch das geschlossene Blech trat ein Mann.
 
 Er ging einfach hindurch. Erst ein Stiefel, dann ein Arm, dann der Rest. Grau und durchscheinend, wie Nebel vor einer Laterne. Eine Arbeitsjacke mit großen Taschen, eine Mütze tief in der Stirn. Über der Schulter hing ein runder Lederbehälter an einem Riemen.
 
-"Er hat eine Taschenlampe", hauchte Theo. "Die ist an. Guck, der Schalter. Aber sie leuchtet nicht."
+"Er hat eine Taschenlampe." Theos Stimme war kaum zu hören. "Die ist an. Guck, der Schalter. Aber sie leuchtet nicht."
 
 "Sei still."
 
@@ -18,7 +18,7 @@ Der Mann drehte sich zu dem Kasten mit der Sechs. Er hob die Hand und machte ein
 
 Es klickte. Leise und trocken. Wie eine Uhr, die einen Zahn weiterspringt.
 
-"Hat der gerade gestempelt?", flüsterte Theo. "Wie Mama im Krankenhaus, wenn sie kommt?"
+"Hat der gerade gestempelt?", fragte Theo. "Wie Mama im Krankenhaus, wenn sie kommt?"
 
 Der Mann drehte den Kopf.
 
@@ -44,7 +44,7 @@ Seine Stimme hallte von den Blechwänden zurück.
 
 Schatten winselte. Ein hoher, dünner Laut. Er stand halb vor Nora, den Kopf zu dem Mann gestreckt, und wedelte einmal ganz kurz.
 
-"Er winselt", flüsterte Theo. "Nicht knurren. Winseln heißt traurig. Das ist mein System."
+"Er winselt", sagte Theo. "Nicht knurren. Winseln heißt traurig. Das ist mein System."
 
 "Er schreit uns an, Theo."
 
@@ -118,7 +118,7 @@ Dann drehte er sich um.
 
 "Und morgen will ich euch hier nicht sehen", sagte er über die Schulter.
 
-Er ging die Reihe der Häuschen entlang und durch den Bauzaun hindurch, als gäbe es ihn nicht. Ohne Eile, wie einer, der diesen Weg schon tausendmal gegangen ist. Vor dem letzten Häuschen blieb er stehen.
+Er ging die Reihe der Häuschen entlang und durch den Bauzaun hindurch, als gäbe es ihn nicht. Wie einer, der diesen Weg schon tausendmal gegangen ist. Vor dem letzten Häuschen blieb er stehen.
 
 Er ging nicht hinein. Er stand vor der Tür und sah den Weg hinunter. Zurück zu den Hallen, zur Straße. Als käme gleich jemand um die Ecke.
 
@@ -132,7 +132,7 @@ Der Mann antwortete nicht. Er sah nur weiter den Weg hinunter.
 
 Zehn Meter vor dem Häuschen knurrte Schatten. Es war ein tiefes, böses Grollen, das Nora durch die Leine spürte. Das Fell auf seinem Rücken stand in einer Linie vom Nacken bis zum Schwanz.
 
-"Jetzt knurrt er", flüsterte Theo. "Knurren heißt böse. Auch mein System."
+"Jetzt knurrt er", sagte Theo. "Knurren heißt böse. Auch mein System."
 
 "Nicht den Mann", sagte Nora. "Guck doch hin."
 

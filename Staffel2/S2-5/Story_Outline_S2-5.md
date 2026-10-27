@@ -299,6 +299,11 @@ knapp, Theo, angespannt.
 **Cliffhanger [DIALOG]:** Halder: „Diesen lasse ich nicht los. Nicht noch einmal."
 
 ### Kapitel 4 – „Der Faden" (ABSCHLUSS AKT 1)
+⚠️ **Präzisiert 27.10. (Zwischenanalyse F8):** K4 beginnt mit dem **Rundgang um halb sieben**, den der
+Wächter in K2 angekündigt hat (Zeit stimmt: K2 6.10 Uhr, K3 ~10 Minuten). Die Tore rütteln wieder Nummer
+für Nummer; am Ende der Runde geht er zu seinem Häuschen und diesmal **hinein** → die Falle. Der Rückriss
+entsteht so aus der Mechanik. Ein-Satz-Absätze hier bewusst einsetzen (F9). Keine weiteren
+Ablösungs-Hinweise (F7).
 Der Geist zieht in die Ruine seines Hauses, will vor ihnen fliehen — **Rückriss**, live. Zum ersten
 Mal sieht Nora den Faden (Mechanik 3), weil Halder danebensteht. Halder geht, die Hand unruhig.
 Nora sieht nicht weg: Sie bleibt, kniet, spricht mit dem Geist, der jetzt Schmerzen hat.

@@ -297,8 +297,9 @@ Marie, Staffel 3.
 **Neu festgelegt in K3 (ab hier Kanon):** Halder unrasiert, Schatten unter den Augen, **roter
 Ziegelstaub an Hose und Fingern, frischer Kratzer am Daumen, Ölfleck** (= Nachtarbeit an der Falle;
 Nora: „Sie waren heute Nacht schon hier." — „Ich bin oft nachts unterwegs."). Er sagt „Guten Morgen,
-Nora. Theo." **Warum er blieb:** „Im Sommer war ich hier wie in jeder anderen Stadt … Dann wurde es
-hell. Im November. Seitdem leuchtet diese Stadt … Für die, die keinen Ort mehr haben … Also bin ich
+Nora. Theo." **Warum er blieb:** „Hier steht meine Werkstatt. Ich komme seit Jahren immer wieder her. Ein paar
+Wochen, dann weiter. So war das auch diesen Sommer." (korrigiert 27.10., Zwischenanalyse F2 — die
+Werkstatt ist seit Jahrzehnten auf Halder eingetragen, S2-2/S2-3) „… Dann wurde es hell. Im November. Seitdem leuchtet diese Stadt … Für die, die keinen Ort mehr haben … Also bin ich
 geblieben." Über den Wächter: **„Der hat hier gewohnt. Sein Leben lang."** — „So einer wie damals."
 **Halders Logik (wie S2-3):** „Man kann nie sicher sein, was einer braucht … Also hält man fest. Bis
 man sicher ist." — „Und wann sind Sie sicher?" — „Nie." Nora: „Ilse haben Sie auch nicht gefragt."

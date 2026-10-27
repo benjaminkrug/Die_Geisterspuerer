@@ -152,7 +152,7 @@ Zwischen den Schienen wuchs Unkraut, so hoch wie ein Kind. Dahinter lagen drei l
 
 Links davon begann eine Reihe kleiner Häuser, oder was davon übrig war. Haufen aus Ziegeln und Holz, dazwischen ein gelber Bagger mit gesenkter Schaufel. Nur am Ende der Reihe stand ein Häuschen noch fast ganz. Eine Tür, ein Fenster, ein schiefes Dach.
 
-"Da ist dein Bagger", flüsterte Theo.
+"Da ist dein Bagger", sagte Theo.
 
 "Sehr witzig."
 
@@ -164,7 +164,7 @@ Nora erkannte ihn sofort. Er war das einzige saubere Ding weit und breit. Auf de
 
 Ihr Magen zog sich zusammen.
 
-"Der wäscht sein Auto bestimmt jeden Tag", flüsterte Theo. "Wer macht so was?"
+"Der wäscht sein Auto bestimmt jeden Tag." Theo schüttelte den Kopf. "Wer macht so was?"
 
 "Er ist hier."
 

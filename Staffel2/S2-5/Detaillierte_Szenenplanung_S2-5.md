@@ -51,7 +51,9 @@
 
 ### K4 – „Der Faden" (Akt-1-Ende)
 **Ort/Zeit:** Ruine des Wächterhäuschens, Vormittag.
-1. Der Wächter geht in die Ruine — sein Posten, sein Häuschen.
+0. **Halb sieben:** Ganz hinten rüttelt das erste Tor — der Rundgang aus K2 („Um halb sieben ist
+   Rundgang"). Halder sieht auf die Uhr, er kennt den Takt. Nummer für Nummer bis sechs.
+1. Der Wächter geht am Ende seiner Runde zum Häuschen — und diesmal hinein.
 2. Er sieht die Kinder, will hinaus — **Rückriss**. Ruck, Schmerz, er wird dichter.
 3. Zum ersten Mal ein Faden: dünn, kalt, vom Boden zur Gestalt. Halder steht daneben.
 4. Theo hält Schatten fest, der zum Wächter will (Halt 1 von 3).
