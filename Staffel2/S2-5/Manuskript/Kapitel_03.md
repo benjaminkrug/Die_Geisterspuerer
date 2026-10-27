@@ -24,7 +24,7 @@ Theo sagte nichts. Er hatte die Hand am Lenker seines Fahrrads, und Nora sah, da
 
 Halder sah ihn an, und für einen Moment zuckte etwas in seinem Mundwinkel. Fast ein Lächeln. Dann war es wieder weg.
 
-"Geht nach Hause", sagte er noch einmal. "Das hier ist nichts für euch."
+"Das hier ist nichts für euch", sagte er.
 
 "Für Sie schon?", fragte Nora.
 
@@ -104,7 +104,7 @@ Halder sah sie lange an. Es war derselbe Blick wie in seiner kargen Küche, bei 
 
 "Wenn es sein muss."
 
-Nora spürte, wie ihr die Hände kalt wurden. Nicht vor Angst. Vor etwas anderem, das sich wie Wut anfühlte und zugleich wie Mitleid.
+Nora spürte, wie ihr das Gesicht heiß wurde. Nicht vor Angst. Vor etwas, das sich wie Wut anfühlte und zugleich wie Mitleid.
 
 "Ilse haben Sie auch nicht gefragt", sagte sie.
 

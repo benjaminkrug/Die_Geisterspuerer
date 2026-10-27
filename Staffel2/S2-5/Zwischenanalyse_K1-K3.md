@@ -103,6 +103,26 @@ unverändert 97 → Innenteil neu hochladen genügt. **Offen (Autor).**
 
 ---
 
+## 3a. Nachanalyse Akt 1 (K1–K4), 2026-10-27
+
+Akt 1 am Stück gelesen, jeder Verdacht gegen den Text geprüft. **Nur Änderungen, die das Buch besser machen.**
+
+| Nr | Fund | Änderung | Begründung |
+|---|---|---|---|
+| N1 | **K4-Schluss widersprach dem Kapitel:** „Gefragt, was er braucht, hatte sie ihn nicht" — zwölf Zeilen vorher fragte Nora „Kann ich Ihnen helfen?", in K2 „Auf wen warten Sie?" | Nora verspricht statt zu fragen („Ich hol Sie da raus … Aber ich krieg das hin."); Schluss angepasst; K2-Frage gestrichen | Die Erkenntnis am Akt-Ende ist jetzt wahr; schärferer Spiegel zu Halder (er hält fest, weil nie sicher — sie befreit, weil zu sicher); zugleich ein Ablösungs-Hinweis weniger (Zwischenanalyse F7) |
+| N2 | „Geht/Fahrt nach Hause" 3× auf zwei Seiten | Mittleres in K3 gestrichen | Cliffhanger K2 und flehendes „Bitte" in K3 behalten ihre Wirkung |
+| N3 | K3: Wut als „kalte Hände" (= Angst; schon in K1 benutzt) | „das Gesicht heiß" | Körperliche Emotion stimmt jetzt zur Wut |
+| N4 | K4: „schlimmer" 2× | „Das machte es schlimmer" gestrichen | Das Arzt-Bild zeigt es schon |
+| N5 | K4: „Bei Herbert hatte sie nur gespürt, dass etwas zog" | „… nur gewusst. Er hatte gesagt, dass es zieht." | Stimmt mit S2-1 überein (Herbert sagte es) und bereitet das „Es zieht" des Wächters vor |
+| N6 | K4: „ihre Frage, ob er ein Echo sei" — diese Frage stellte sie nie | „ihre Probe" | Präzision |
+
+**Geprüft, bleibt:** Schattens Fernspüren (S2-4 K1 eingeführt, trägt den Nachthaken) · Theos „seit Jahren
+keiner" (Theos Irrtum) · K4-Dialog 23 % (Action-Höhepunkt, erlaubt) · Witzdichte K2 (Entlastungskapitel) ·
+K1-Länge (im Zielbereich) · „Mit euch Kindern red ich nicht" (gewollte Ironie).
+**Messung nach den Änderungen:** keine neuen Sätze > 18 W, keine Formeln, Akt 1 4.750 W, Dialog 31,0 %.
+
+---
+
 ## 4. Spannung — Teil B (je Kapitel)
 
 | | Haken | Vorwärts | kein zäher Block | Schatten | Subtext | Rhythmus | Cliffhanger | Score |

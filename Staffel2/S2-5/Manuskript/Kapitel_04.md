@@ -68,7 +68,7 @@ Ein Faden. Dünn wie ein Haar und blass wie Frost. Er kam aus einer Ritze in der
 
 "Woran er hängt."
 
-Bei Herbert hatte sie nur gespürt, dass etwas zog. In der Werkstatt auch. Jetzt sah sie es.
+Bei Herbert hatte sie es nur gewusst. Er hatte gesagt, dass es zieht. Jetzt sah sie es.
 
 Sie drehte sich zu Halder um. Er stand noch immer am Bauzaun und sah auf den Faden. Er sah ihn auch. Vielleicht sah er ihn immer.
 
@@ -80,7 +80,7 @@ Sie drehte sich zu Halder um. Er stand noch immer am Bauzaun und sah auf den Fad
 
 "Am Anfang", sagte Halder. "Dann wird es ruhiger. Das wird es immer."
 
-Er sagte es nicht grausam. Er sagte es wie ein Arzt, der weiß, dass eine Spritze wehtut. Das machte es schlimmer.
+Er sagte es nicht grausam. Er sagte es wie ein Arzt, der weiß, dass eine Spritze wehtut.
 
 Halder bückte sich und hob seine Werkzeugtasche auf. Dann drehte er sich um und ging zu seinem Wagen. Nora sah ihm nach, bis der Kastenwagen über das Gleis holperte und hinter den Hallen verschwand.
 
@@ -128,7 +128,7 @@ Er strich mit der Hand darüber. Seine Finger gingen nicht hindurch, aber sie f�
 
 "Halder." Er sagte den Namen langsam, als wollte er ihn sich merken. "Und du? Gehörst du zu dem?"
 
-"Nein." Nora schluckte. "Kann ich Ihnen helfen?"
+"Nein." Nora schluckte. "Ich hol Sie da raus. Ich weiß noch nicht, wie. Aber ich krieg das hin."
 
 Er sah sie lange an. Dann sah er an ihr vorbei, zum Bauzaun. Zu der Stelle, wo Halder gestanden hatte.
 
@@ -140,10 +140,12 @@ Er sah sie lange an. Dann sah er an ihr vorbei, zum Bauzaun. Zu der Stelle, wo H
 
 Nora blieb knien. Das nasse Unkraut drückte durch ihre Jeans. Hinter ihr winselte Schatten, ein langer, dünner Ton. Theo flüsterte ihm etwas zu, das sie nicht verstand.
 
-Sie dachte an heute Morgen. An die Tore, die Kästen, den Mann mit der Taschenlampe ohne Licht. An ihre Frage, ob er ein Echo sei.
+Sie dachte an heute Morgen. An die Tore, die Kästen, den Mann mit der Taschenlampe ohne Licht. An ihre Probe, ob er ein Echo sei.
 
 *Wie spät ist es?*
 
 Das hatte sie ihn gefragt. Um zu prüfen, ob er echt war. Wie man eine Taschenlampe prüft, ob sie noch geht.
 
-Sie hatte ihn geprüft. Gefragt, was er braucht, hatte sie ihn nicht. Genau wie Halder.
+Sie hatte ihn geprüft. Dann hatte sie ihm versprochen, ihn da rauszuholen. Gefragt, was er braucht, hatte sie ihn nicht.
+
+Genau wie Halder.

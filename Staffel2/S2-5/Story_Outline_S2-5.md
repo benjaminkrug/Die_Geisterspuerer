@@ -268,8 +268,8 @@ neben ihnen — es zittert nach, „als hätte es jemand gerade erst losgelassen
 
 ### Kapitel 2 – „Hier hat keiner was verloren" ✅ geschrieben (2026-10-26)
 *Ist-Stand:* wie unten, dazu: Wächter sagt „Ich schließ jeden Abend selbst ab", „Dann bewach ich eben
-das Nichts. Irgendwer muss ja.", „Um halb sieben ist Rundgang"; Nora ruft „Auf wen warten Sie?" — keine
-Antwort. Schatten knurrt das Häuschen an. Theo sagt ernsthaft „Kuchen", Nora dreht nicht um („Vor drei
+das Nichts. Irgendwer muss ja.", „Um halb sieben ist Rundgang". Schatten knurrt das Häuschen an. (Noras Ruf „Auf wen warten
+Sie?" am 27.10. gestrichen — widersprach dem K4-Schluss und verriet die Ablösung zu früh.) Theo sagt ernsthaft „Kuchen", Nora dreht nicht um („Vor drei
 Tagen hab ich gesagt: Nicht jetzt. Erst Marie."), Theo stellt sich neben sie: „Du schuldest mir einen
 Kuchen. Einen echten." (→ K18).
 *Plan:*
@@ -302,8 +302,12 @@ knapp, Theo, angespannt.
 *Ist-Stand:* wie unten, dazu: Halder „Ich sehe ihm seit einer Woche zu. Er ist sehr pünktlich."; Falle in
 der Ritze der selbstgemachten Eichenschwelle („Vor vierzig Jahren"); Rückriss beim Verlassen des Ortes; Faden
 nach Halders Abfahrt unsichtbar; Halder sagt „Am Anfang. Dann wird es ruhiger." und fährt weg; der Wächter
-kennt jetzt Halders Namen; Ende: „Sie hatte ihn geprüft. Gefragt, was er braucht, hatte sie ihn nicht. Genau
-wie Halder." Kein Humor (Ausnahme 1). **Für K9 merken:** „Bring mir den, der mich festgemacht hat" darf
+kennt jetzt Halders Namen; **Nora fragt nicht, sie verspricht:** „Ich hol Sie da raus. Ich weiß noch
+nicht, wie. Aber ich krieg das hin." Ende: „Sie hatte ihn geprüft. Dann hatte sie ihm versprochen, ihn da
+rauszuholen. Gefragt, was er braucht, hatte sie ihn nicht. / Genau wie Halder." (Spiegel: Halder hält fest,
+weil er nie sicher ist; Nora will befreien, weil sie zu sicher ist — beide fragen nicht.) **Für K9:** Nora
+muss dort zum ersten Mal *fragen* statt versprechen — der Wächter weist sie trotzdem ab, weil nur Halder ihn
+ablösen kann. Kein Humor (Ausnahme 1). **Für K9 merken:** „Bring mir den, der mich festgemacht hat" darf
 nicht wie K4 klingen — dort ist es ein Befehl mit Ungeduld/Schmerz, kein Wiederholen.
 *Plan:*
 ⚠️ **Präzisiert 27.10. (Zwischenanalyse F8):** K4 beginnt mit dem **Rundgang um halb sieben**, den der

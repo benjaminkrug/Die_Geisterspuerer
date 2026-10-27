@@ -124,13 +124,7 @@ Er ging nicht hinein. Er stand vor der Tür und sah den Weg hinunter. Zurück zu
 
 Niemand kam.
 
-Nora ging ihm nach. Schatten zog nicht mehr, er lief dicht neben ihr.
-
-"Auf wen warten Sie?", rief Nora.
-
-Der Mann antwortete nicht. Er sah nur weiter den Weg hinunter.
-
-Zehn Meter vor dem Häuschen knurrte Schatten. Es war ein tiefes, böses Grollen, das Nora durch die Leine spürte. Das Fell auf seinem Rücken stand in einer Linie vom Nacken bis zum Schwanz.
+Nora ging ihm nach. Schatten zog nicht mehr, er lief dicht neben ihr. Zehn Meter vor dem Häuschen knurrte er. Es war ein tiefes, böses Grollen, das Nora durch die Leine spürte. Das Fell auf seinem Rücken stand in einer Linie vom Nacken bis zum Schwanz.
 
 "Jetzt knurrt er", sagte Theo. "Knurren heißt böse. Auch mein System."
 
