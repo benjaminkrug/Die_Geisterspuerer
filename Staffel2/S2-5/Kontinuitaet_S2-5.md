@@ -281,7 +281,7 @@ Marie, Staffel 3.
 ## AKT-FORTSCHRITT
 
 - ✅ Akt 1 — Hinsehen (K1–K4): K1, K2 (26.10.), K3, K4 (27.10.) geschrieben
-- ⬜ Akt 2 — Fragen (K5–K9)
+- 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.)
 - ⬜ Akt 3 — Was er nie gefragt hat (K10–K13)
 - ⬜ Akt 4 — Der letzte Schlüssel (K14–K18)
 
@@ -296,6 +296,24 @@ Marie, Staffel 3.
 | K3 | Tag 1, ~6.15 Uhr | Gespräch mit Halder am Bauzaun, ~10 m Abstand; er hat den Wächter „heute schon zweimal gehen sehen" |
 
 | K4 | Tag 1, 6.30 Uhr → ~6.45 | Rundgang um halb sieben, Wächter geht ins Häuschen → Rückriss; Halder fährt weg; Nora kniet bei ihm |
+
+| K5 | Tag 1, Abend | Mama seit drei Uhr zu Hause (Frühschicht), gute Laune wegen des Zettels; Frieda klingelt |
+
+**Neu festgelegt in K5 (ab hier Kanon):** Mama hat den Zettel gefunden („Ich hab kurz überlegt, ob sie
+Fieber hat") und erkennt Frieda: „Ich hab dich im Juli unten im Wagen gesehen. Vom Balkon aus." — „Grüß
+deinen Vater ganz herzlich. Die Standuhr geht seitdem wie eine Eins." **Theos Ausrede:** Frieda sei aus einer
+anderen Schule, Projekt „über Uhren. Und Schlösser." Mama: „In den Ferien? Schon wieder?" — „Wir sind halt sehr
+vorbereitend." (bewusster Rückgriff S2-4 K4). Mama bietet Nudeln an. **Frieda:** Vater denkt, sie fegt in der
+Werkstatt; sie war heute früh dort, als er „bei den Lagerhallen" war („einen Auftrag"); **die unterste Schublade
+am Werktisch war immer abgeschlossen — Frieda hat sie selbst geöffnet: „Er hat mir beigebracht, wie man
+Schlösser aufmacht. Da war ich sechs."** Halder hat mittags nichts gegessen und auf seine Narbenhand geguckt.
+Friedas Mundwinkel-Zucken = Halders Geste aus K3 (Nora bemerkt es). **Die Zeitungsausschnitte:** mit Gummiband,
+gelb, zerlesen, Bleistift-Unterstreichungen; Überschriften „Großbrand in der Weißenbrücker Altstadt", „Feuer
+zerstört sechs Häuser", „Zwei Tote in der Nacht" (= Ilse und Frau Reinke, S2-3); **keine Uhrzeit, in keinem**
+(„In der Nacht", „In den späten Abendstunden", „Nachts"). **Der Umschlag:** grau, glatt, gedruckte Adresse
+„Herrn Anton Halder", Absender „Freiwillige Feuerwehr Weißenbrück", zugeklebt, lag ganz unten. Schatten
+schnüffelt an der Tasche und legt sich mit Blick auf sie hin. Nora weiß: Frieda und Theo kennen jetzt beide
+den Wächter (Nora hat ihn kurz beschrieben).
 
 **Neu festgelegt in K4 (ab hier Kanon):** Halder: „Ich sehe ihm seit einer Woche zu. Er ist sehr
 pünktlich." **Die Falle sitzt in einer Ritze der Türschwelle** des Wächterhäuschens. Der Wächter: „Die hab
@@ -353,7 +371,8 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 
 | K2 | 1.120 | 32,3 % | 0 | 75 | 0,0 | 4,7 % |
 | K3 | 1.061 | 34,8 % | 0 | 114 | 0,9 | 3,2 % |
-| K4 | 1.105 | 21,9 % ¹ | 0 | 118 | 0,0 | 6,9 % |
+| K4 | 1.120 | 22,6 % ¹ | 0 | 118 | 0,0 | 8,2 % |
+| K5 | 1.108 | 32,3 % | 0 | 93 | 2,7 | 3,1 % |
 
 ¹ K4 = Akt-1-Höhepunkt (Rückriss); der Spannungs-Prüfplan erlaubt bei Action-Höhepunkten unter 20 %.
 Akt 1 gesamt (K1–K4): ~4.760 W, Dialog ~31 %.

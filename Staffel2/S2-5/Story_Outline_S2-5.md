@@ -324,7 +324,12 @@ festgemacht hat. Nora begreift: Halder hat nicht gefragt — und sie selbst auch
 
 ## AKT 2 — Fragen (K5–K9) · Tag 1 Abend bis Tag 2
 
-### Kapitel 5 – „Herrn Halders Tochter"
+### Kapitel 5 – „Herrn Halders Tochter" ✅ geschrieben (2026-10-27)
+*Ist-Stand:* wie unten, dazu: Mama hat den Zettel gefunden („ob sie Fieber hat"); Theos Ausrede „Projekt über
+Uhren und Schlösser"; Frieda hat die Schublade selbst geknackt („Er hat mir beigebracht, wie man Schlösser
+aufmacht. Da war ich sechs."); Halder aß mittags nichts, sah auf seine Hand; Friedas Mundwinkel = Halders
+Geste; Zeitungsüberschriften ohne Uhrzeit; Umschlag „Freiwillige Feuerwehr Weißenbrück".
+*Plan:*
 Abend, es klingelt. Mama öffnet und erkennt Frieda: „Du bist doch die Tochter von Herrn Halder!
 Grüß ihn, die Standuhr geht wie eine Eins." In Noras Zimmer: Frieda war in der Werkstatt, mit
 ihrem eigenen Schlüssel. Zeitungsausschnitte, zerlesen. Und ein Umschlag, nie geöffnet.

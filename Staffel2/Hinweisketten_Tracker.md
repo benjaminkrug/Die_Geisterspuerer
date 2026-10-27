@@ -59,7 +59,8 @@ Tatsache weiterverwendet werden.
 | S2-3 K13/K15 | Ilse: „Er hat mich nie gefragt, ob ich bleiben will." | Zweifel an seinem Recht zu binden | ✅ |
 | S2-4 K11 | Frieda: „Der Geist, den er zu früh gehen ließ. Das Feuer, das direkt danach ausbrach." — „Ich habe ihn nie gefragt, ob es stimmt. Ich habe es einfach geglaubt." | Erster Zweifel an der Prüfung, nur bei Frieda | ✅ |
 | S2-4 K15 | Frieda: „Ob's stimmt. Das mit dem Feuer. Ob er wirklich keine andere Wahl hatte, oder ob er's sich nur so zurechtgelegt hat …" — „Ich will es wissen." | Entschluss zu prüfen | ✅ |
-| S2-5 K5–K6 | Der ungeöffnete Brief der Feuerwehr Weißenbrück: Alarm 23.20 Uhr, Ausbruch mehrere Straßen entfernt; „als es zwölf schlug" | harter Beleg | 🔶 |
+| S2-5 K5 | Zerlesene Zeitungsausschnitte: „Großbrand in der Weißenbrücker Altstadt", „Feuer zerstört sechs Häuser", „Zwei Tote in der Nacht" — **in keinem eine Uhrzeit** („In der Nacht", „In den späten Abendstunden", „Nachts"); darunter ein ungeöffneter Umschlag der Freiwilligen Feuerwehr Weißenbrück | Die Lücke wird sichtbar: Er kannte nie die Zeit | ✅ |
+| S2-5 K6 | Der Brief: Alarm 23.20 Uhr, Ausbruch mehrere Straßen entfernt; „als es zwölf schlug" | harter Beleg | 🔶 |
 | S2-5 K11–K12 | Halders Reiseuhr auf zwölf; er rechnet nach: vierzig Minuten | Auflösung | 🔶 |
 | S2-5 K12 | Narbe: die heiße Klinke am Morgen danach | Kette 4 schließt mit | 🔶 |
 

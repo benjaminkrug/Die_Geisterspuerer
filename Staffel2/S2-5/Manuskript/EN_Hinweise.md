@@ -14,4 +14,7 @@
 | K2 | „Wir möchten uns ordnungsgemäß anmelden." / „Am Haupttor. Beim Pförtner." | Behörden-Humor | Steifes Amtsdeutsch nachbilden (*report in properly*), Pförtner = *gatekeeper* |
 | K2 | „Das Codewort hat keine Verhandlungsphase." / „Du schuldest mir einen Kuchen. Einen echten." | Theo-Witz, Rückgriff Kuchen | Kuchen-Schuld wird im Epilog eingelöst — dort gleich übersetzen |
 | K2 | „Hier hat keiner was verloren!" (2×) | Leitsatz des Wächters | Wörtlich gleich halten (*Nobody's got business here!*) — Kapiteltitel |
+| K5 | „Die Standuhr geht seitdem wie eine Eins." | Redewendung | EN: *runs like clockwork* — Uhren-Bild, passt sogar besser (Halder = Uhrmacher) |
+| K5 | „In den Ferien? Schon wieder?" — „Wir sind halt sehr vorbereitend." | Running Gag, Rückgriff S2-4 K4 („In den Ferien?" — „Vorbereitend.") | Wortlaut an die EN-Fassung von S2-4 K4 anlehnen |
+| K5 | „wie einen Igel im Kühlschrank" | Theo-Bild | Wörtlich übertragbar |
 | K1 | „Briefkästen. Für Lagerhallen. Damit sie Post von anderen Lagerhallen kriegen." | Theo-Witz, zugleich fairer Hinweis (Kontrollkästen eines Wächterrundgangs) | Den Hinweis auf nummerierte Kästen erhalten |

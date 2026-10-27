@@ -13,7 +13,7 @@
 |---|---|---|---|
 | A1 | „Er sucht schon wieder einen. Und wir haben es gewusst. Und nicht hingesehen." (S2-4 K16, letzter Satz) | K1–K4: Nora fährt hin, sieht zu, bleibt beim Gebundenen | ✅ K1–K4 (Nora kniet beim Wächter; „Genau wie Halder" öffnet den nächsten Schritt: fragen) |
 | A2 | Halder bei den Lagerhallen, „gehetzt", fragt „wer da früher gewohnt hat", „noch nicht gefunden" (S2-4 K16) | K1–K3: die Häuschen-Reihe, die Falle im Wächterhäuschen | geplant |
-| A3 | Frieda: „Ob's stimmt. Das mit dem Feuer." / „Ich will es wissen." (S2-4 K15) | K5: Sie hat gesucht und gefunden | geplant |
+| A3 | Frieda: „Ob's stimmt. Das mit dem Feuer." / „Ich will es wissen." (S2-4 K15) | K5: Sie hat gesucht und gefunden | ✅ K5 (Schublade selbst geöffnet, Zeitungen, Umschlag) |
 | A4 | Marie: „Kommt ihr wirklich wieder?" — „Versprochen." (S2-4 K14, K15) | K8: Besuch, nichts verändert sich | geplant |
 | A5 | Mama: „Vor dem Frühstück? Ohne Zettel?" (S2-4 K16) | Nora lässt jedes Mal einen Zettel da; K17 Mama findet ihn | 🔶 K1: Zettel („Seit gestern. Mama hatte recht.") |
 | A6 | Neunundneunzig in der Werkstatt, „Eine von hundert. Neunundneunzig übrig." (S2-2 K10); nie wieder dort gewesen | K8 ausgesprochen; K10 gesehen; K16 befreit, Theo zählt | geplant |
@@ -35,7 +35,7 @@
 | A22 | Die Standuhr „geht jetzt zu genau" (S2-3 K2) | K18: heute stimmt sie einfach | geplant |
 | A23 | **Brandnarbe auf Halders rechtem Handrücken** (S2-3 K1, Nora verbindet sie mit dem Feuer, S2-3 K11) — nie erklärt | K12: die heiße Türklinke am Morgen danach (Autor, 26.10.) | geplant |
 | A24 | „Jetzt weiß er, dass wir es wissen." (S2-3 K16) | K3 erstes Gespräch; K10 neuer Riegel | geplant |
-| A25 | Mama kennt Halder und hat Frieda gesehen (S2-3 K2, K7) | K5: Mama erkennt Frieda | geplant |
+| A25 | Mama kennt Halder und hat Frieda gesehen (S2-3 K2, K7) | K5: Mama erkennt Frieda | ✅ K5 („Dich kenn ich doch! … Grüß deinen Vater ganz herzlich.") |
 | A26 | Mia, abgesagt; Angst, wie leicht die nächste Absage fällt (S2-2 K2, K13) | K7 bewusste Absage mit Preis; K18 erster Schultag | geplant |
 | A27 | „Bis es hier auf einmal hell geworden war." (S2-4 K7) · Schlösser schon im August vor der Heilung (S2-1 K8, K16) | K3: Halder erklärt, warum er geblieben ist | ✅ K3 („Dann wurde es hell. Im November … Also bin ich geblieben.") |
 | A28 | Theos System: „Knurren heißt böse, Winseln heißt traurig." (S2-4 K3) | K2: Schatten winselt beim wütenden Wächter | ✅ K2 („Er schreit uns an, Theo." — „Ja. Aber traurig."; Schatten knurrt das Häuschen an) |
@@ -61,7 +61,8 @@ Clara); Frau Brandt/Jule; Kubiak; die zwölf Markierungen.
 | B4 | Der erste Faden, nur weil Halder danebensteht (K4) | K9 kein Faden (Halder fehlt); K10 neunundneunzig; K16 erlöschen | 🔶 K4 gesetzt (sichtbar mit Halder, verschwindet nach seiner Abfahrt) |
 | B5 | Der Wächter: Er redet nur mit dem, der ihn festgemacht hat (K4, K9) | K14 | 🔶 K4 („Mit euch Kindern nicht … Der soll herkommen und mir das ins Gesicht sagen.") — K9 darf das nicht wörtlich wiederholen |
 | B17 | Der Wächter kennt Halders Namen (K4, von Nora) | K14: er spricht ihn an | geplant |
-| B6 | Der ungeöffnete Brief (K5) | K6 geöffnet; K11 Halder erkennt ihn; K12 er sagt, warum | geplant |
+| B6 | Der ungeöffnete Brief (K5) | K6 geöffnet; K11 Halder erkennt ihn; K12 er sagt, warum | 🔶 K5 gesetzt (zugeklebt, unter zerlesenen Zeitungen) |
+| B18 | Frieda knackt Schlösser seit sie sechs ist (K5) | später nutzbar: z. B. Seitentür/Riegel K10 ohne Schlüssel, oder bewusst *nicht* nutzen, wenn es um die Reiseuhr geht (sie könnte, tut es aber nicht — die Uhr ist seine) | geplant |
 | B7 | „Als es zwölf schlug" + die Reiseuhr (K6) | K11–K12 Nachrechnen; K15 aufziehen | geplant |
 | B8 | Theo: „Ich geh mit dir." (K7) | K10–K12: Theo an Friedas Seite | geplant |
 | B9 | Komplikation: Schublade (K7) | K10: Halder hat sie heute früh gefunden und wartet | geplant |
