@@ -166,7 +166,10 @@
   **vierzig Minuten**. **Ursache wird nie genannt**; die Szene verweilt nicht. Halders Versuch fand
   **nicht** im Viertel statt (sonst hätte er das Feuer gesehen).
 - **Der Brief:** Absender Feuerwehr Weißenbrück, Antwort auf Halders Anfrage, ungeöffnet; lag in der
-  Werkstatt-Schublade zwischen zerlesenen Zeitungsausschnitten.
+  Werkstatt-Schublade zwischen zerlesenen Zeitungsausschnitten. **Geöffnet in K6** (Wortlaut dort).
+- **Weißenbrücker Orte (K6):** **Färbergasse** (Hinterhof, Brandausbruch) · **Mühlgraben** (Haus des
+  Geistes, zuletzt erfasst) · **alte Bahnbrücke**, am anderen Ende der Stadt (wo der Geist stand und Halder
+  um zwölf anfing).
 - **Die Reiseuhr:** winzig, abgewetztes Stoff-Etui, beide Zeiger übereinander auf zwölf, Etikett
   darunter (S2-2 K6). Alt, mit losem Aufzugsschlüssel. **Halders eigene.**
 - **Neunundneunzig** — Bestand der Werkstatt (Theo, S2-2 K10: „Eine von hundert. Neunundneunzig
@@ -281,7 +284,7 @@ Marie, Staffel 3.
 ## AKT-FORTSCHRITT
 
 - ✅ Akt 1 — Hinsehen (K1–K4): K1, K2 (26.10.), K3, K4 (27.10.) geschrieben
-- 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.)
+- 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.), K6 (28.10.)
 - ⬜ Akt 3 — Was er nie gefragt hat (K10–K13)
 - ⬜ Akt 4 — Der letzte Schlüssel (K14–K18)
 
@@ -298,6 +301,29 @@ Marie, Staffel 3.
 | K4 | Tag 1, 6.30 Uhr → ~6.45 | Rundgang um halb sieben, Wächter geht ins Häuschen → Rückriss; Halder fährt weg; Nora kniet bei ihm |
 
 | K5 | Tag 1, Abend | Mama seit drei Uhr zu Hause (Frühschicht), gute Laune wegen des Zettels; Frieda klingelt |
+
+| K6 | Tag 1, Abend (direkt im Anschluss) | Noras Zimmer, alle drei auf dem Boden; Mama kocht in der Küche (Töpfe, summt) |
+
+**Neu festgelegt in K6 (ab hier Kanon):** Frieda hat heute dreimal versucht, den Umschlag zu öffnen
+(„In der Werkstatt. Auf dem Klo. Im Bus hierher."). **Friedas Vermutung, warum er nie geöffnet wurde:**
+„Da steht: zwei Tote. Vielleicht steht da drin, wer." (→ Halder bestätigt in K12). **Noras Echo auf Herbert
+(S2-1 K11):** „Oder weil Aufmachen heißt, dass man sich irren könnte." — Frieda: „Mein Vater irrt sich nicht.
+… Sagt er." **Theo:** „Du kannst ihn auch zurücklegen." — „Dann wär ich wie er." — „Ja. Wahrscheinlich."; er
+hält den Umschlag und starrt an die Decke („ein Fleck, der aussieht wie Italien"). **Der Brief (wörtlich):**
+„Sie haben uns nach dem Brand in der Altstadt gefragt. Aus unserem Einsatzbericht können wir Ihnen Folgendes
+mitteilen: Der Alarm ging um 23.20 Uhr ein. Das Feuer brach in einem Hinterhof in der **Färbergasse** aus. Von
+dort griff es auf die umliegenden Straßen über, zuletzt auf die Häuser am **Mühlgraben**." Ein Blatt, Stempel
+in der Ecke, **keine Namen** (Frieda erleichtert). **Haus des Geistes von Weißenbrück: am Mühlgraben.**
+**Halders Version (Frieda kann sie auswendig, „immer gleich"):** Der Geist stand immer an der **alten
+Bahnbrücke, am anderen Ende der Stadt**; dort begann Halder, „als es zwölf schlug"; danach sei der Geist „nach
+Hause" gegangen, „zuerst in seinem Haus, am Mühlgraben" habe es gebrannt. **Die Zeitungen nennen nur
+„Altstadt", keinen Ausbruchsort** — „Das hat er sich selbst gesagt." **Die Reiseuhr:** Nora erinnert sich
+(Etikett mit Zahl und Häkchen „wie bei allen anderen" — nicht gedeutet); Frieda: „Seine. Die darf keiner
+anfassen. Nicht mal ich. Die hängt da, solange ich denken kann." — „Er hat gesagt, sie ist nicht kaputt."
+**Theo rechnet:** zwanzig nach elf bis zwölf = vierzig Minuten. Frieda zittert, Schatten drückt sich an sie,
+Kopf auf ihrem Knie. Schluss: „Als er angefangen hat, hat es schon gebrannt." ⚠️ Ilses Straße bleibt
+ungenannt (S2-3 K13: sie holte Nachbarn raus) — nicht nachträglich auf Färbergasse/Mühlgraben festlegen,
+ohne S2-3 zu prüfen.
 
 **Neu festgelegt in K5 (ab hier Kanon):** Mama hat den Zettel gefunden („Ich hab kurz überlegt, ob sie
 Fieber hat") und erkennt Frieda: „Ich hab dich im Juli unten im Wagen gesehen. Vom Balkon aus." — „Grüß
@@ -373,9 +399,13 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 | K3 | 1.061 | 34,8 % | 0 | 114 | 0,9 | 3,2 % |
 | K4 | 1.120 | 22,6 % ¹ | 0 | 118 | 0,0 | 8,2 % |
 | K5 | 1.108 | 32,3 % | 0 | 93 | 2,7 | 3,1 % |
+| K6 | 986 | 34,6 % | 0 | 159 ² | 1,0 | 5,2 % |
 
 ¹ K4 = Akt-1-Höhepunkt (Rückriss); der Spannungs-Prüfplan erlaubt bei Action-Höhepunkten unter 20 %.
 Akt 1 gesamt (K1–K4): ~4.760 W, Dialog ~31 %.
+² K6: Der längste dialogfreie Block ist der Brief plus Noras Erinnerung an die Reiseuhr — beides Dokument/
+Bild, kein Erzählfluss. K6 ist das bisher kürzeste Kapitel (986 W); bewusst nicht aufgefüllt — die Szene ist
+eine einzige Erkenntnis und endet, wo sie trägt.
 
 **K1 überarbeitet 2026-10-26 (Spannungs-Prüfplan Teil B):** Theo-Witze in der Ankunft von neun auf
 vier gesenkt (Humor nach dem Schreck, nicht davor), Theo verstummt sichtbar; Nachtszene endet mit

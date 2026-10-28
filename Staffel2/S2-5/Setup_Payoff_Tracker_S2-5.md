@@ -20,13 +20,13 @@
 | A7 | Frieda: „Kommt nicht wieder." (S2-2 K12; Echo S2-3 K1) | K10: Frieda öffnet ihnen selbst die Tür | geplant |
 | A8 | Frieda: „Das haben andere auch schon gedacht." (S2-2 K12) | K11 oder K17: Sie meinte ihren Vater mit achtzehn | geplant |
 | A9 | Die rückwärts laufende Uhr nahe der Tür (S2-2 K4) — **Titel von S2-2, nie eingelöst** | K10 gesehen; K16 dreht vorwärts | geplant |
-| A10 | Reiseuhr auf zwölf, Etikett mit Häkchen (S2-2 K6) — nie erklärt | K6 Nora erinnert sich; K11–K15 Halders Uhr | geplant |
+| A10 | Reiseuhr auf zwölf, Etikett mit Häkchen (S2-2 K6) — nie erklärt | K6 Nora erinnert sich; K11–K15 Halders Uhr | 🔶 K6 (Nora erinnert sich an Uhr **und** Etikett „wie bei allen anderen" — bewusst nicht gedeutet; Frieda: „Seine. Die darf keiner anfassen.") |
 | A11 | Etiketten mit dreistelliger Zahl, „immer wieder aufgefrischt" (S2-2 K5) | K10/K12: Halders Buchführung; sein eigenes Häkchen | geplant |
 | A12 | „Ich glaube, jede Uhr gehört zu einem bestimmten Schloss" (S2-2 K6, Vermutung) | K10: neue Uhr für den Wächter; K15 Halder bestätigt | geplant |
 | A13 | „Und der eine, der passt?" — „Der ist bei dem, der das gebaut hat." (S2-1 K10) | K13 Schlüsselbund; K14 nicht nötig (Schloss geht von selbst auf); K15 der letzte Schlüssel | geplant |
 | A14 | „Man macht nichts auf, indem man einen Menschen fester zieht." (S2-1 K12) | K14: „Nicht entscheiden. Fragen." | geplant |
-| A15 | Herberts Karten: „Weil Abschicken heißt, dass man sich irren könnte" (S2-1 K11) | K6: Echo beim ungeöffneten Brief | geplant |
-| A16 | „Ich war nicht dort, als es anfing." / „Man hat mir gesagt, es sei Zufall gewesen." (S2-3 K12) | K6, K11: der Brief zeigt Zeit und Ort; Halder kennt die Ursachen-Erklärungen, nicht die Reihenfolge | geplant |
+| A15 | Herberts Karten: „Weil Abschicken heißt, dass man sich irren könnte" (S2-1 K11) | K6: Echo beim ungeöffneten Brief | ✅ K6 („Oder weil Aufmachen heißt, dass man sich irren könnte." — Nora erklärt mit den zwölf Karten; Frieda: „Mein Vater irrt sich nicht. … Sagt er.") |
+| A16 | „Ich war nicht dort, als es anfing." / „Man hat mir gesagt, es sei Zufall gewesen." (S2-3 K12) | K6, K11: der Brief zeigt Zeit und Ort; Halder kennt die Ursachen-Erklärungen, nicht die Reihenfolge | 🔶 K6 (Brief: Färbergasse → zuletzt Mühlgraben; Zeitungen nur „Altstadt": „Das hat er sich selbst gesagt.") |
 | A17 | Der Geist von Weißenbrück, „älter … wütender" (S2-3 K12) — Schicksal nie genannt | K3 (der Wächter erinnert Halder daran); K12: er ging damals wirklich | geplant |
 | A18 | „Ich wollte auch so jemand sein." (S2-3 K12) | K14: Halder tut es zum ersten Mal; K17 er bleibt bei den drei | geplant |
 | A19 | Nora: „Ein Beweis schlägt keine Überzeugung, Theo." (S2-3 K12) | K11 Nora erinnert sich, es stimmt; K14 das Erlebnis | geplant |
@@ -61,9 +61,11 @@ Clara); Frau Brandt/Jule; Kubiak; die zwölf Markierungen.
 | B4 | Der erste Faden, nur weil Halder danebensteht (K4) | K9 kein Faden (Halder fehlt); K10 neunundneunzig; K16 erlöschen | 🔶 K4 gesetzt (sichtbar mit Halder, verschwindet nach seiner Abfahrt) |
 | B5 | Der Wächter: Er redet nur mit dem, der ihn festgemacht hat (K4, K9) | K14 | 🔶 K4 („Mit euch Kindern nicht … Der soll herkommen und mir das ins Gesicht sagen.") — K9 darf das nicht wörtlich wiederholen |
 | B17 | Der Wächter kennt Halders Namen (K4, von Nora) | K14: er spricht ihn an | geplant |
-| B6 | Der ungeöffnete Brief (K5) | K6 geöffnet; K11 Halder erkennt ihn; K12 er sagt, warum | 🔶 K5 gesetzt (zugeklebt, unter zerlesenen Zeitungen) |
+| B6 | Der ungeöffnete Brief (K5) | K6 geöffnet; K11 Halder erkennt ihn; K12 er sagt, warum | 🔶 K5 gesetzt; K6 geöffnet ✅ |
 | B18 | Frieda knackt Schlösser seit sie sechs ist (K5) | später nutzbar: z. B. Seitentür/Riegel K10 ohne Schlüssel, oder bewusst *nicht* nutzen, wenn es um die Reiseuhr geht (sie könnte, tut es aber nicht — die Uhr ist seine) | geplant |
-| B7 | „Als es zwölf schlug" + die Reiseuhr (K6) | K11–K12 Nachrechnen; K15 aufziehen | geplant |
+| B7 | „Als es zwölf schlug" + die Reiseuhr (K6) | K11–K12 Nachrechnen; K15 aufziehen | 🔶 K6 gesetzt (Frieda zitiert „als es zwölf schlug"; Theo rechnet die vierzig Minuten) — in K11 rechnet **Halder** selbst, nicht noch einmal Theo |
+| B19 | Friedas Vermutung: „Vielleicht steht da drin, wer." — der Brief nennt **keine Namen** (K6) | K12: Halder bestätigt, er wollte nicht lesen, wer gestorben ist — dreißig Jahre Angst vor einem Satz, der nicht drinsteht (Frieda oder Nora sagt es, nicht der Erzähler) | 🔶 K6 gesetzt |
+| B20 | Halders Version laut Frieda: Bahnbrücke am anderen Ende der Stadt, der Geist ging „nach Hause", „zuerst in seinem Haus" (K6) | K12: der Geist ging damals wirklich — er ist nicht „nach Hause" gegangen, um zu brennen | 🔶 K6 gesetzt |
 | B8 | Theo: „Ich geh mit dir." (K7) | K10–K12: Theo an Friedas Seite | geplant |
 | B9 | Komplikation: Schublade (K7) | K10: Halder hat sie heute früh gefunden und wartet | geplant |
 | B10 | Nora sagt Mia ab (K7) | K18 | geplant |

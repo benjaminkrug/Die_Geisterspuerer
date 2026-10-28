@@ -337,7 +337,13 @@ ihrem eigenen Schlüssel. Zeitungsausschnitte, zerlesen. Und ein Umschlag, nie g
 **Cliffhanger [OBJEKT]:** Der Umschlag auf Noras Bett. „Er hat alles hundertmal gelesen. Nur das
 nicht."
 
-### Kapitel 6 – „Vierzig Minuten"
+### Kapitel 6 – „Vierzig Minuten" ✅ geschrieben (2026-10-28)
+*Ist-Stand:* wie unten, dazu: Friedas Vermutung („Vielleicht steht da drin, wer") neben Noras Herbert-Echo
+(„Oder weil Aufmachen heißt, dass man sich irren könnte"); Brief wörtlich mit Färbergasse (Ausbruch) und
+Mühlgraben (Haus des Geistes, „zuletzt"); keine Namen; Halders Version laut Frieda: Bahnbrücke am anderen
+Ende der Stadt → Geist „nach Hause" → „zuerst in seinem Haus"; Zeitungen nennen nur „Altstadt"; Theo rechnet
+die vierzig Minuten aus. Reiseuhr-Etikett erinnert, nicht gedeutet (bleibt für K11–K15).
+*Plan:*
 Frieda kann ihn allein nicht öffnen. Theo setzt sich zu ihr. Nora denkt an Herberts Karten
 („Weil Abschicken heißt, dass man sich irren könnte"). Frieda öffnet. Einsatzbericht: Alarm kurz
 nach elf, Brandausbruch mehrere Straßen entfernt (Mechanik 6). Frieda: „Er sagt immer: als es

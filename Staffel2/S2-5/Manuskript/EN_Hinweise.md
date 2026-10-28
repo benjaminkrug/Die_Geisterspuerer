@@ -17,4 +17,8 @@
 | K5 | „Die Standuhr geht seitdem wie eine Eins." | Redewendung | EN: *runs like clockwork* — Uhren-Bild, passt sogar besser (Halder = Uhrmacher) |
 | K5 | „In den Ferien? Schon wieder?" — „Wir sind halt sehr vorbereitend." | Running Gag, Rückgriff S2-4 K4 („In den Ferien?" — „Vorbereitend.") | Wortlaut an die EN-Fassung von S2-4 K4 anlehnen |
 | K5 | „wie einen Igel im Kühlschrank" | Theo-Bild | Wörtlich übertragbar |
+| K6 | „Oder weil Aufmachen heißt, dass man sich irren könnte." | Rückgriff (S2-1 K11: „Weil Abschicken heißt, dass man sich irren könnte") | Satzbau der EN-Fassung von S2-1 übernehmen, nur das Verb tauschen (*sending* → *opening*) |
+| K6 | „Ein Fleck, der aussieht wie Italien." / „Italien wird langsam langweilig." | Theo-Witz mit Rückgriff im Kapitel | Wörtlich übertragbar (Stiefelform kennt jeder) |
+| K6 | „als es zwölf schlug" | Leitsatz Halders, kehrt in K11/K12 wieder | Überall gleich (*when the clock struck twelve*) |
+| K6 | Brief der Feuerwehr | Amtsdeutsch | Nüchterner Behördenton (*With kind regards, Weissenbrück Volunteer Fire Brigade*); Uhrzeit als 11:20 p.m. — Theos Rechnung „Zwanzig nach elf … vierzig Minuten" muss stimmen |
 | K1 | „Briefkästen. Für Lagerhallen. Damit sie Post von anderen Lagerhallen kriegen." | Theo-Witz, zugleich fairer Hinweis (Kontrollkästen eines Wächterrundgangs) | Den Hinweis auf nummerierte Kästen erhalten |

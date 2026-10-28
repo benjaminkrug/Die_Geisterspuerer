@@ -60,7 +60,7 @@ Tatsache weiterverwendet werden.
 | S2-4 K11 | Frieda: „Der Geist, den er zu früh gehen ließ. Das Feuer, das direkt danach ausbrach." — „Ich habe ihn nie gefragt, ob es stimmt. Ich habe es einfach geglaubt." | Erster Zweifel an der Prüfung, nur bei Frieda | ✅ |
 | S2-4 K15 | Frieda: „Ob's stimmt. Das mit dem Feuer. Ob er wirklich keine andere Wahl hatte, oder ob er's sich nur so zurechtgelegt hat …" — „Ich will es wissen." | Entschluss zu prüfen | ✅ |
 | S2-5 K5 | Zerlesene Zeitungsausschnitte: „Großbrand in der Weißenbrücker Altstadt", „Feuer zerstört sechs Häuser", „Zwei Tote in der Nacht" — **in keinem eine Uhrzeit** („In der Nacht", „In den späten Abendstunden", „Nachts"); darunter ein ungeöffneter Umschlag der Freiwilligen Feuerwehr Weißenbrück | Die Lücke wird sichtbar: Er kannte nie die Zeit | ✅ |
-| S2-5 K6 | Der Brief: Alarm 23.20 Uhr, Ausbruch mehrere Straßen entfernt; „als es zwölf schlug" | harter Beleg | 🔶 |
+| S2-5 K6 | Der Brief: „Der Alarm ging um 23.20 Uhr ein. Das Feuer brach in einem Hinterhof in der Färbergasse aus. Von dort griff es auf die umliegenden Straßen über, zuletzt auf die Häuser am Mühlgraben." — Frieda: „Er hat angefangen, als es zwölf schlug." — Theo: „Das sind vierzig Minuten." | harter Beleg | ✅ |
 | S2-5 K11–K12 | Halders Reiseuhr auf zwölf; er rechnet nach: vierzig Minuten | Auflösung | 🔶 |
 | S2-5 K12 | Narbe: die heiße Klinke am Morgen danach | Kette 4 schließt mit | 🔶 |
 
@@ -103,7 +103,7 @@ in der er in Weißenbrück anfing. Ihr Aufzugsschlüssel ist der letzte Schlüss
 | S2-2 K6 | „Ich glaube, jede Uhr gehört zu einem bestimmten Schloss." | ✅ |
 | S2-3 K2 | Halder: „Solche Uhren vergessen nichts. Man muss ihnen nur zuhören." | ✅ |
 | S2-3 K12 | Halder „wie jemand, der eine Rechnung zum hundertsten Mal nachprüft" | ✅ |
-| S2-5 K6 | „Er sagt immer: als es zwölf schlug." — Frieda: „Seine. Die darf keiner anfassen." | 🔶 |
+| S2-5 K6 | Frieda: „Er hat angefangen, als es zwölf schlug." — Nora erinnert die Reiseuhr samt Etikett — Frieda: „Seine. Die darf keiner anfassen. … Er hat gesagt, sie ist nicht kaputt." | ✅ |
 | S2-5 K13 | Die dünne Kette am Hals — „Nichts." | 🔶 |
 | S2-5 K14–K15 | Der Schlüssel; Aufziehen | 🔶 Auflösung |
 
