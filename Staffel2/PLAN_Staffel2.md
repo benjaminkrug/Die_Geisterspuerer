@@ -37,7 +37,7 @@
 > | S2-2 Die Uhr, die rückwärts läuft | fertig, 16 Kap., ~13.450 W, 82 S. | live |
 > | S2-3 Die Frau, die niemand gehen ließ | fertig, 16 Kap., ~17.300 W | keine ASIN |
 > | S2-4 Der Park, der nicht vergisst | fertig, logisch überarbeitet 25./26.10. (`S2-4/Fundliste_S2-4_Logik.md`), 18.535 W, 97 S. | noch nicht hochgeladen; Widmung/Epigraph fehlen (Autor) |
-> | S2-5 Der letzte Schlüssel | **Rohfassung komplett 02.11.** (18 Kapitel, 19.076 W, Dialog 28 %); Nachanalysen Akt 1–2 + K12–K14 gemacht; offen: Nachanalyse Akt 3–4, Stimmen-Pass (4b), Logik-/Qualitätsprüfung, Bau | — |
+> | S2-5 Der letzte Schlüssel | **fertig und gebaut 02.11.** (18 Kap., 18.975 W; Stimmen-Pass, Logik-/Qualitäts-Prüfplan inkl. Selbstprüfung); Taschenbuch **109 Seiten**, eBook-DOCX; ohne Widmung/Epigraph (Autor: später), ohne QR (keine ASIN) | noch nicht hochgeladen; offen: Cover, KDP-Texte |
 >
 > **S2-5:** Die Planung vom 07.08. entstand vor S2-2–S2-4 und widersprach den Büchern an sechs
 > tragenden Stellen (`S2-5/Fundliste_S2-5_Planung.md`). Neufassung nach Autorentscheidungen vom
