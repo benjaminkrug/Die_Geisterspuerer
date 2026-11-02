@@ -411,6 +411,8 @@ Bruchstücke seiner Geschichte, nicht die Lösung (die bekommt nur, wer fragt, u
 | O8 | K12 | **Halders Version korrigieren:** Er glaubte, der Geist sei „nach Hause" gegangen und dort habe es „zuerst" gebrannt. Wahrheit: Der Geist ging damals wirklich; das Feuer kam aus der Färbergasse und erreichte den Mühlgraben zuletzt. Die Narbe (heiße Klinke am Morgen) passt: das zuletzt erfasste Haus. | K6 (B20) |
 | O9 | K12 | Reiseuhr-Etikett „wie bei allen anderen" (K6 erinnert, nicht gedeutet) → Halder zählt sich selbst zu den Gebundenen; das Häkchen frischt er jedes Mal auf. | K6 (A10) |
 | O10 | K11–K12 | Ortsnamen festhalten: Färbergasse (Ausbruch), Mühlgraben (Haus des Geistes), alte Bahnbrücke am anderen Ende der Stadt (Halders Versuch). Ilses Straße bleibt ungenannt. | K6 |
+| O12 | K14 | **Übergabesatz einlösen:** „Keine besonderen Vorkommnisse" (K9) — Nora kennt ihn „irgendwoher" = Mamas Schichtübergabe im Krankenhaus (Echo K2 „Wie Mama im Krankenhaus"). Erst in K14 klickt es; das Wort „Ablösung" fällt erst dort. | K9 (D2) |
+| O13 | K14 | Der Wächter sagt Nora nicht, wer kommen soll („Weil du's nicht bist"). In K14 muss Halder **ihn** fragen — nicht Nora übersetzen lassen. Seinen Namen (Konrad) sagt er Halder, nicht den Kindern. | K9 (B5, B17) |
 | O11 | K18 | **Mia:** „Du hilfst immer irgendwem." (K7) — im Epilog ein kleiner, echter Satz, der darauf antwortet; gleich formulieren. **Kuchen-Schuld** einlösen (B15). | K2, K7 (B10, B15) |
 
 ## AKT 3 — Was er nie gefragt hat (K10–K13) · Tag 2 Abend
