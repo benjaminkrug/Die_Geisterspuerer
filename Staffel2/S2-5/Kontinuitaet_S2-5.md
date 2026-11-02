@@ -291,7 +291,7 @@ Marie, Staffel 3.
 - ✅ Akt 1 — Hinsehen (K1–K4): K1, K2 (26.10.), K3, K4 (27.10.) geschrieben
 - 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.), K6 (28.10.), K7, K8, K9 (02.11.) → **Akt 2 abgeschlossen**
 - ✅ Akt 3 — Was er nie gefragt hat (K10–K13): K10, K11, K12, K13 (02.11.) → **Akt 3 abgeschlossen**
-- 🔶 Akt 4 — Der letzte Schlüssel (K14–K18): K14 (02.11.)
+- 🔶 Akt 4 — Der letzte Schlüssel (K14–K18): K14, K15 (02.11.)
 
 ## ZEITLINIE (Ist)
 
@@ -310,6 +310,21 @@ Marie, Staffel 3.
 | K6 | Tag 1, Abend (direkt im Anschluss) | Noras Zimmer, alle drei auf dem Boden; Mama kocht in der Küche (Töpfe, summt) |
 
 | K7 | Tag 1, Abend → Frieda fährt mit dem Bus „um halb" | Abendessen in der Küche (Nudeln mit Tomaten), dann Noras Zimmer |
+
+| K15 | Tag 3, ~6.15 → ~8 Uhr | Rad Lagerhallen → Werkstatt (Schatten im Kastenwagen); Mama kommt „in einer halben Stunde" heim |
+
+**Neu festgelegt in K15 (ab hier Kanon):** **Schatten fährt in Halders Kastenwagen mit** (hinten, springt beim zweiten
+Versuch; Halder ruft nicht, wartet) — die Kinder weiter mit dem Rad. Nora hat zu Hause einen Zettel hinterlassen.
+In der Werkstatt wartet Schatten neben Halders Schuhen vor der Seitentür. Halder trägt die Kontrolluhr an der Seite.
+**Die Reiseuhr** passt in seine Handfläche; das Etikett bleibt allein am Nagel; hinten ein Aufzugsloch „kaum größer
+als ein Stecknadelkopf". **Die Regel (wörtlich):** „Ich kann nicht überall sein. Also hab ich Schlösser gebaut. Jedes
+hält fest, wenn ich nicht da bin. Und jedes hab ich nach dieser einen Nacht gestellt. Nach der hier." / „Ein Schloss
+hat zwei Enden. An einem halte ich fest. Am anderen hält er sich selbst fest, mit dem, was er noch nicht loslassen
+kann. Wenn sich ein Ende löst, geht es auf." / „Darum konntet ihr manche aufmachen. Von ihrem Ende aus." / „Dann
+geht mein Ende auf. Bei allen. Wer so weit ist, kann gehen. Wer noch nicht so weit ist, bleibt. Bis er so weit ist."
+/ „Ich entscheide nicht mehr für sie." Halder bietet Frieda das Aufziehen an („Willst du?"), sie schüttelt den Kopf.
+**Theo hält Schatten (Halt 3 von 3, der letzte).** Kuchen-Schuld erinnert. **Die Fäden bewegen sich vor dem
+Aufziehen nicht.** Drei Umdrehungen, „ein leises, trockenes Knirschen", Schlüssel heraus, Stille, *Tick.*
 
 | K14 | Tag 3, 5.40 → ~6.05 (Sonnenaufgang) | Lagerhallen; Halder und Frieda schon da (Wagen am Bauzaun) |
 
@@ -553,6 +568,7 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 | K12 | 997 | 30,0 % ⁵ | 0 | 89 | 1,0 | 8,2 % |
 | K13 | 895 | 29,3 % | 0 | 118 | 1,1 | 3,4 % |
 | K14 | 1.184 | 18,8 % ⁶ | 0 | 125 | 0,9 | 8,8 % |
+| K15 | 885 | 20,2 % ⁷ | 0 | 130 | 1,1 | 6,0 % |
 
 Akt 2 gesamt (K5–K9, nach Nachanalyse 02.11.): 5.232 W, Dialog 32,1 %.
 ⁴ K10 = Bild-Höhepunkt (Akt-3-Auftakt): Der Inhalt ist, was Nora **sieht** — das Netz, die Uhrenwand, die
@@ -564,6 +580,8 @@ Körper (Hand, Boden, Schatten) und Noras zwei Erkenntnisse (Etikett, Schluss). 
 ⁶ K14 = Höhepunkt des Bandes (Ritual der Ablösung). Viel gesprochen, aber in sehr kurzen Zeilen („Du." — „Ja.",
 „Übernommen."); der Rest ist Handlung, die man sehen muss. Wie K4 unter 20 % erlaubt. **Akt 3 + K14 liegen
 zusammen unter 30 % — die Akt-3-Nachanalyse soll prüfen, wo echter Dialog fehlt.**
+⁷ K15 = zweites Ritual in Folge (Aufziehen). Dialog trägt die Regel; der Rest ist Zögern und Stille vor dem
+Ticken. Dialog in Akt 4 wird erst in K16–K18 (Abschied, Epilog) wieder steigen — dort bewusst mehr Gespräch.
 
 ¹ K4 = Akt-1-Höhepunkt (Rückriss); der Spannungs-Prüfplan erlaubt bei Action-Höhepunkten unter 20 %.
 Akt 1 gesamt (K1–K4): ~4.760 W, Dialog ~31 %.

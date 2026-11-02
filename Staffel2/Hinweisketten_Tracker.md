@@ -106,7 +106,7 @@ in der er in Weißenbrück anfing. Ihr Aufzugsschlüssel ist der letzte Schlüss
 | S2-3 K12 | Halder „wie jemand, der eine Rechnung zum hundertsten Mal nachprüft" | ✅ |
 | S2-5 K6 | Frieda: „Er hat angefangen, als es zwölf schlug." — Nora erinnert die Reiseuhr samt Etikett — Frieda: „Seine. Die darf keiner anfassen. … Er hat gesagt, sie ist nicht kaputt." | ✅ |
 | S2-5 K13 | Die dünne Kette am Hals — „Nichts." | 🔶 |
-| S2-5 K14–K15 | Der Schlüssel; Aufziehen | 🔶 Auflösung |
+| S2-5 K13–K15 | Die Kette (K13 „Nichts."), der winzige goldene Schlüssel (K14), das Aufziehen: drei Umdrehungen, „Tick." (K15) | ✅ Auflösung |
 
 **Fairness:** Die Uhr ist seit S2-2 sichtbar und unerklärt; ein Leser kann sie mit „zwölf" erst ab
 S2-5 K6 verbinden. Das ist gewollt: Die Uhrzeit fällt in S2-3 nicht, damit die Verbindung nicht zu

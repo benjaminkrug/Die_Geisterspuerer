@@ -526,10 +526,21 @@ sein wahres Bedürfnis (Abschnitt B). Nora sagt nur: „Nicht entscheiden. Frage
 **Cliffhanger [DIALOG]:** Halder zieht die Kette hervor, daran ein winziger Schlüssel: „Es gibt
 noch eine Uhr, die ich aufziehen muss."
 
-### Kapitel 15 – „Der letzte Schlüssel"
+### Kapitel 15 – „Der letzte Schlüssel" ✅ geschrieben (2026-11-02)
+*Ist-Stand:* Schatten kommt nicht mehr hoch; Halder: „Er kann bei mir mitfahren." — Schatten springt in den
+Kastenwagen (Theo: „Verräter. Für einen Kastenwagen."), Kinder mit dem Rad; Nora denkt an den Zettel, Mama in einer
+halben Stunde zu Hause. Werkstatt: Schatten wartet neben Halders Schuhen. Halder nimmt die Reiseuhr vom Nagel, das
+Etikett bleibt allein zurück. **Die Regel in Halders Worten:** „Ich kann nicht überall sein. Also hab ich Schlösser
+gebaut … jedes hab ich nach dieser einen Nacht gestellt. Nach der hier." / „Ein Schloss hat zwei Enden. An einem
+halte ich fest. Am anderen hält er sich selbst fest …" — Nora: „Wie bei Herbert. Und bei Grete." — „Und heute früh
+bei Konrad." / „Wer so weit ist, kann gehen. Wer noch nicht so weit ist, bleibt." / **„Ich entscheide nicht mehr
+für sie."** Nora erinnert „Solche Uhren vergessen nichts" (A21). Schlüssel steckt — Halder zögert: „Dreißig Jahre."
+— „Willst du?" — Frieda schüttelt den Kopf, sagt nichts. Schatten will zu den Fäden; **Theo hält ihn (Halt 3, der
+letzte)**: „Du schuldest mir immer noch einen Kuchen." Fäden bewegen sich bis zuletzt nicht. Drei Umdrehungen. *Tick.*
+*Plan:*
 Werkstatt. Halder erklärt in wenigen Sätzen die Regel (Abschnitt C). Er nimmt die Reiseuhr vom
 Nagel, steckt den Schlüssel ein. Zögert. Frieda wartet, sagt nichts. **Schatten:** spürt, was kommt;
-Theo hält ihn, das zweite und letzte Mal. **Humor:** ein kleiner, nervöser Theo-Satz.
+Theo hält ihn, das dritte und letzte Mal (K4, K10, K15 — korrigiert 02.11.). **Humor:** ein kleiner, nervöser Theo-Satz.
 **Cliffhanger [STIMME/GERÄUSCH]:** Das erste Ticken nach dreißig Jahren.
 
 ### Kapitel 16 – „Neunundneunzig"
