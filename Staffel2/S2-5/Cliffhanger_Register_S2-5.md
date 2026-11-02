@@ -22,7 +22,7 @@
 | K8 | Versprochen | GEDANKE/ENTSCHLUSS | Drei Monate. Heute nicht mehr. | Entschlossenheit, die man teilt | „Drei Monate. / Heute nicht mehr." — GEDANKE/ENTSCHLUSS ✅ (Kontrast Marie: zwei Tage gewartet, jemand kam — die Neunundneunzig: drei Monate, niemand) |
 | K9 | Bring ihn her | DIALOG | Der Wächter: „Bring mir den, der mich festgemacht hat." | Ein Auftrag, der unmöglich klingt | „‚Bring mir den, der mich festgemacht hat.'" — DIALOG ✅ (vorbereitet durch „Weil du's nicht bist"; er steht „an der Schwelle wie an einem Tor") |
 | K10 | Neunundneunzig Fäden | BILD | Halder dreht sich um und sieht seine Tochter zwischen „denen" | Mitleid mit beiden, und Angst vor dem, was er sagt | „Und sah seine Tochter, mitten zwischen denen, die er festhielt." — BILD ✅ (davor nur ein Wort von ihm: „Frieda." — „Ja. Ich bin's.") |
-| K11 | Ein Blatt Papier | AKTION | Frieda nimmt seine Hand und dreht ihn zur kleinen Uhr | Jetzt kommt es | — |
+| K11 | Ein Blatt Papier | AKTION | Frieda nimmt seine Hand und dreht ihn zur kleinen Uhr | Jetzt kommt es | „Dann nahm sie die Hand ihres Vaters. Die rechte, mit der silbrigen Narbe. / Und drehte ihn um, zur Wand, zu der kleinen Uhr im Stoff-Etui." — AKTION ✅ (Antwort auf seine Uhrmacher-Abwehr: die eine Uhr, der er selbst traut) |
 | K12 | Zwölf | ERKENNTNIS | „Und der von den Lagerhallen?" — der Beweis hat ihm den Grund genommen, nicht die Angst | Erleichterung, sofort wieder gebremst | — |
 | K13 | Fragen Sie ihn | OBJEKT | Die Kette am Hals: „Was ist das?" — „Nichts." | Ahnung: Da ist noch etwas | — |
 | K14 | Was brauchst du? | DIALOG | „Es gibt noch eine Uhr, die ich aufziehen muss." | Wärme und Spannung zugleich | — |

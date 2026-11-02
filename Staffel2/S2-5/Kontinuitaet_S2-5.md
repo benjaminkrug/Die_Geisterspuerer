@@ -289,7 +289,7 @@ Marie, Staffel 3.
 
 - ✅ Akt 1 — Hinsehen (K1–K4): K1, K2 (26.10.), K3, K4 (27.10.) geschrieben
 - 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.), K6 (28.10.), K7, K8, K9 (02.11.) → **Akt 2 abgeschlossen**
-- 🔶 Akt 3 — Was er nie gefragt hat (K10–K13): K10 (02.11.)
+- 🔶 Akt 3 — Was er nie gefragt hat (K10–K13): K10, K11 (02.11.)
 - ⬜ Akt 4 — Der letzte Schlüssel (K14–K18)
 
 ## ZEITLINIE (Ist)
@@ -309,6 +309,24 @@ Marie, Staffel 3.
 | K6 | Tag 1, Abend (direkt im Anschluss) | Noras Zimmer, alle drei auf dem Boden; Mama kocht in der Küche (Töpfe, summt) |
 
 | K7 | Tag 1, Abend → Frieda fährt mit dem Bus „um halb" | Abendessen in der Küche (Nudeln mit Tomaten), dann Noras Zimmer |
+
+| K11 | Tag 2, ~19.45 (direkt im Anschluss) | Werkstatt; Fäden sichtbar (Halder da) |
+
+**Neu festgelegt in K11 (ab hier Kanon):** Halder: „Du hast sie hergebracht." (leise) — Frieda: „Ich wollte nicht
+allein kommen." **Schatten** steht mitten im Gang zwischen Kindern und Halder, Ohren auf, kein Knurren; später zwei
+Schritte bis dicht vor Halder, sieht zu ihm hoch. Halder weiß, dass Frieda das Schloss geöffnet hat („Du hast mir
+gezeigt, wie das geht. Da war ich sechs."); **Halders Mundwinkel-Zucken = Friedas** (Nora sieht es). Frieda legt die
+Zeitungen auf den Werktisch neben die leere Schublade („Die gehören dir"), später den Brief obendrauf. Halders
+Narbenhand hebt sich nach dem Umschlag, bleibt in der Luft. „Er war dreißig Jahre zu." / „Ich weiß, was
+drinsteht." — „Nein. Weißt du nicht." **Frieda liest den Brief laut vor**, Pause bei *zuletzt*. **Halders Abwehr:**
+„Ein Blatt Papier." / „Von einem Mann in einer Wachstube, mitten in der Nacht … Wer hat draufgesehen, mit dem
+Telefon in der Hand und den Sirenen im Ohr?" / „Ich bin Uhrmacher, Frieda. Ich weiß, wie wenig eine Uhrzeit
+beweist." / „Ein Feuer läuft nicht in einer Linie. Es springt." / „Ihr versteht nicht, was ich in dieser Nacht
+gesehen habe … Wie er war, als es zwölf schlug." **Nora schweigt** (an der Tür) und erinnert ihren S2-3-Satz.
+**Theo:** die Standuhr „wie eine Eins" — „Das ist etwas anderes." — „Warum?" (keine Antwort). **Frieda:** S2-2-Satz
+aufgelöst („Ich hab dich gemeint. Mit achtzehn."); „Bei allen anderen weißt du's nicht. Nur bei dir weißt du's
+genau. Wie geht das?" Sie nimmt seine rechte Hand (Narbe) und dreht ihn zur Reiseuhr. **Halder hat noch nicht
+gerechnet.**
 
 | K10 | Tag 2, 19 Uhr → ~19.40 | Mama zur Nachtschicht; Rad nach Westen; Werkstatt, noch hell |
 
@@ -472,6 +490,7 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 | K8 | 954 | 31,9 % | 0 | 80 | 0,0 | 4,4 % |
 | K9 | 1.054 | 31,1 % | 0 | 105 | 1,9 | 4,3 % |
 | K10 | 1.255 | 16,9 % ⁴ | 0 | 149 | 2,4 | 1,2 % |
+| K11 | 938 | 31,7 % | 0 | 101 | 2,2 | 3,2 % |
 
 Akt 2 gesamt (K5–K9, nach Nachanalyse 02.11.): 5.232 W, Dialog 32,1 %.
 ⁴ K10 = Bild-Höhepunkt (Akt-3-Auftakt): Der Inhalt ist, was Nora **sieht** — das Netz, die Uhrenwand, die

@@ -405,7 +405,7 @@ Bruchstücke seiner Geschichte, nicht die Lösung (die bekommt nur, wer fragt, u
 | O2 ✅ K10 | K10 oder K11 | **Ein Satz, warum Frieda es ihm nicht noch in der Nacht gesagt hat**, obwohl sie fürchtete, er öffnet die Schublade „heute Nacht" (z. B. er kam erst spät heim und ging vor Tagesanbruch wieder). | K7 (B9) |
 | O3 ✅ K10 | K10 | **Halders Ritual einlösen:** Er hat die Wächter-Uhr aufgehängt, sich an den Werktisch gesetzt, um die Zeitungen zu lesen — und die Schublade leer gefunden. Als Bild zeigen (Stuhl am Werktisch, offene leere Schublade), nicht erklären. | K7 (B22) |
 | O4 | K10–K12 | **Theo steht bei Frieda, Nora hinten.** Nora hält sich sichtbar zurück und tritt erst vor, wenn es um den Wächter geht (K13). | K7 (B8, B21) |
-| O5 | K11 | Frieda hat das Schublade-Schloss selbst geknackt — Halder hat es ihr mit sechs beigebracht. Möglicher Halder-Satz; nicht Pflicht, aber naheliegend. | K5 (B18) |
+| O5 ✅ K11 | K11 | Frieda hat das Schublade-Schloss selbst geknackt — Halder hat es ihr mit sechs beigebracht. Möglicher Halder-Satz; nicht Pflicht, aber naheliegend. | K5 (B18) |
 | O6 | K12 | **Halder rechnet selbst** (23.20 → zwölf → vierzig Minuten). Theo hat es in K6 schon ausgerechnet — er schweigt jetzt; die Wiederholung wirkt nur, weil es diesmal der Uhrmacher tut. | K6 (B7) |
 | O7 | K12 | **Der Brief nennt keine Namen.** Halder wollte nicht lesen, wer gestorben ist — dreißig Jahre Angst vor einem Satz, der gar nicht drinsteht. Frieda oder Nora sagt es, nicht der Erzähler. | K6 (B19) |
 | O8 | K12 | **Halders Version korrigieren:** Er glaubte, der Geist sei „nach Hause" gegangen und dort habe es „zuerst" gebrannt. Wahrheit: Der Geist ging damals wirklich; das Feuer kam aus der Färbergasse und erreichte den Mühlgraben zuletzt. Die Narbe (heiße Klinke am Morgen) passt: das zuletzt erfasste Haus. | K6 (B20) |
@@ -440,7 +440,20 @@ ein). **Schatten:** überwältigt wie in S2-2; Theo hält ihn kurz,
 dann stellt er sich zu Frieda. **Humor:** keiner nötig, ein Atemzug von Theo.
 **Cliffhanger [BILD]:** Halder dreht sich um und sieht seine Tochter zwischen denen stehen.
 
-### Kapitel 11 – „Ein Blatt Papier"
+### Kapitel 11 – „Ein Blatt Papier" ✅ geschrieben (2026-11-02)
+*Ist-Stand:* „Du hast sie hergebracht." — „Ich wollte nicht allein kommen." Schatten steht zwischen Kindern und
+Halder, ohne Knurren. **O5:** „Du hast sie aufgemacht." — „Du hast mir gezeigt, wie das geht. Da war ich sechs."
+(Halders Mundwinkel = Friedas). Zeitungen zurück auf den Werktisch; Halder erkennt den Umschlag („Er war dreißig
+Jahre zu."; „Ich weiß, was drinsteht." — „Nein. Weißt du nicht."). Frieda liest vor. **Halders Abwehr als
+Uhrmacher:** „Weißt du, wie viele Uhren in einer Wachstube falsch gehen? … Ich weiß, wie wenig eine Uhrzeit
+beweist." / „Ein Feuer läuft nicht in einer Linie. Es springt." Nora (an der Tür, schweigt): „Ein Beweis schlägt
+keine Überzeugung" — „Sie hatte recht gehabt, und sie hasste es." **Theo:** „Unsere Standuhr … geht seitdem wie
+eine Eins. Wenn Uhren immer falsch gehen, warum haben Sie die dann so gut gemacht?" — „Das ist etwas anderes." —
+„Warum?" „Ihr versteht nicht, was ich in dieser Nacht gesehen habe … Wie er war, als es zwölf schlug." Frieda:
+„Das haben andere auch schon gedacht … Ich hab dich gemeint. Mit achtzehn." **Friedas Kernargument:** „Bei allen
+anderen weißt du's nicht. Nur bei dir weißt du's genau. Wie geht das?" Hand mit der Narbe → zur Reiseuhr.
+⚠️ **Für K12:** Halder hat die 23.20 Uhr gehört, aber nicht gerechnet. Er rechnet erst vor **seiner** Uhr (O6).
+*Plan:*
 Halders Verletzung, leise. Frieda gibt ihm den geöffneten Umschlag: „Du hast ihn nie aufgemacht."
 Er erkennt ihn. Abwehr: „Ihr versteht nicht, was ich in dieser Nacht gesehen habe." Nora denkt an
 ihren eigenen Satz aus S2-3 — und sieht, dass er stimmt. **Schatten:** zwischen Kindern und Halder,
