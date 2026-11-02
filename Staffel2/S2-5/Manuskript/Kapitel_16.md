@@ -80,7 +80,7 @@ Mitten im Lauf rannte er gegen ein Regal und nieste in eine Staubwolke.
 
 "Heuschnupfen", sagte Theo. Seine Stimme war ganz kratzig. "Vor Glück."
 
-Der alte Mann mit den Hosenträgern bückte sich zu Schatten hinunter und strich ihm über den Kopf. Schatten hielt still. Danach richtete sich der Mann auf und sah zu Halder hinüber. Er sah nicht böse aus. Auch nicht dankbar. Eher wie jemand, der nach einer langen Reise am Bahnhof steht und nicht weiß, wohin mit seinem Koffer.
+Der alte Mann mit den Hosenträgern bückte sich zu Schatten hinunter und strich ihm über den Kopf. Schatten hielt still. Danach richtete sich der Mann auf und sah zu Halder hinüber. Er sah nicht böse aus. Auch nicht dankbar. Eher wie ein Reisender, der vor seiner eigenen Haustür steht und den Schlüssel nicht findet.
 
 "Spät", sagte er schließlich. Seine Stimme klang wie trockenes Laub. "Aber nicht zu spät."
 
@@ -140,6 +140,6 @@ Halder sah auf die drei. Danach sah er zu Nora. Die kleine Uhr tickte in seiner 
 
 "Und die?", fragte er.
 
-Nora dachte an Herbert, der geblieben war, bis er so weit war. An Marie zwischen den Kastanien.
+Nora dachte an Herbert, der geblieben war, bis er so weit war.
 
 "Die müssen Sie fragen", sagte sie.

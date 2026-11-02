@@ -28,7 +28,7 @@ Als sie auf den Hof der Werkstatt bogen, saß Schatten schon vor der Seitentür.
 
 Drinnen war es still. Die Fäden hingen im Raum, kalt und straff, alle neunundneunzig. Sie endeten in der Luft, an Stellen, wo niemand zu sehen war. Durch die schmutzigen Fenster fiel Morgenlicht, und die Fäden glänzten trotzdem nicht.
 
-Halder ging zur Wand mit den Uhren. Er blieb vor der kleinen Reiseuhr stehen. Die Kontrolluhr hing noch an seiner Seite, schwer und schwarz.
+Halder ging zur Uhrenwand. Er blieb vor der kleinen Reiseuhr stehen. Die Kontrolluhr hing noch an seiner Seite, schwer und schwarz.
 
 Er nahm die Reiseuhr vom Nagel.
 
@@ -56,7 +56,7 @@ Er drehte die Uhr um. Hinten im Gehäuse war ein winziges Loch, kaum größer al
 
 Nora dachte an den Juli. An Halder in ihrem Wohnzimmer, vor der alten Standuhr. *Solche Uhren vergessen nichts. Man muss ihnen nur zuhören.*
 
-Dreißig Jahre lang hatte diese hier nicht getickt. Er hatte ihr trotzdem jeden Tag zugehört.
+Dreißig Jahre lang hatte diese hier nicht getickt. Er hatte ihr trotzdem zugehört, jedes Mal, wenn er hier war.
 
 Halder setzte den Schlüssel an. Er steckte. Er passte genau.
 
@@ -94,7 +94,7 @@ Nora konnte nicht lachen. Aber ihr Mund verzog sich, ganz von allein.
 
 "Ich weiß", sagte sie.
 
-Halder hatte sich nicht umgedreht. Er stand vor der Wand mit den Uhren, die kleine Reiseuhr in der Hand. Die Fäden hingen still um ihn herum. Keiner von ihnen bewegte sich.
+Halder hatte sich nicht umgedreht. Er stand vor den Uhren, die kleine Reiseuhr in der Hand. Die Fäden hingen still um ihn herum. Keiner von ihnen bewegte sich.
 
 Er holte Luft.
 

@@ -26,7 +26,7 @@ Der Mann sah auf die Zeitung unter seinem Arm. Er schwieg lange. Halder wartete.
 
 "Lass ihn", sagte Nora.
 
-"Ich lass ihn ja. Ich find's gut." Theo gähnte. "Nur ein bisschen unheimlich. Gestern hat er noch Schlösser gebaut."
+"Ich lass ihn ja. Ich find's gut." Theo gähnte. "Nur ein bisschen unheimlich. Vor ein paar Tagen hat er noch Schlösser gebaut."
 
 ---
 
@@ -105,8 +105,6 @@ Nora las es zweimal. Es war die normalste Nachricht der Welt. Ihr wurde trotzdem
 "Was schreibt sie?", fragte Theo.
 
 "Sie hat den Zettel gefunden. Sie legt sich hin, wir sollen sie nicht vor zwei wecken." Nora schluckte. "Und wir sollen unsere Uhren grüßen."
-
-"Nicht vor zwei", sagte Theo. "Das ist auch mein Plan."
 
 Theo drehte sich zur Werkstatt um. Durch die offene Seitentür hörte man das Ticken, Dutzende Uhren im selben Takt. Er hob die Hand und winkte.
 

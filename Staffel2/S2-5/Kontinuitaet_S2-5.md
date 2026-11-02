@@ -487,7 +487,8 @@ einer weiß, dass ich hier sitze."; sieht den Kindern ihre Unruhe an („Ihr seh
 hab."); „Ihr müsst nichts versprechen. Ihr wart da. Das reicht für heute."; Clara „wusste nie, wie es
 weitergeht". **Nichts wird versprochen, nichts verändert sich.** Schatten legt sich mit Seufzer neben sie, steht
 langsam auf, dreht sich zweimal um. **Neunundneunzig:** Theo und Nora sprechen es aus — seit Mai, „nie wieder da",
-„Und wir haben gehorcht. Weil es leichter war." ⚠️ Marie taucht im Band nicht mehr auf (höchstens ein Gedanke).
+„Und wir haben gehorcht. Weil es leichter war." ⚠️ Marie taucht im Band nicht mehr auf (höchstens ein Gedanke). **Umgesetzt:** einziger späterer Auftritt ist der stumme Gruß
+in K18 (heller Fleck, beide heben die Hand; nichts versprochen) — K16-Gedanke an Marie in der Nachanalyse 3d gestrichen.
 
 **Neu festgelegt in K7 (ab hier Kanon):** Mama: „Na, ihr Uhrenforscher"; **„Morgen hab ich Nachtschicht.
 Zwölf Stunden."** — Theo: „Wir haben eine Uhrzeit gefunden." Frieda isst nicht (schiebt Nudeln hin und her),

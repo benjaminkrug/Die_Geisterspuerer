@@ -62,7 +62,7 @@ Er sah seine Tochter an. Sein Blick wanderte über die Regale. Über die Schlös
 
 ---
 
-Er ging zur Wand mit den Uhren. Vor der runden Lederuhr blieb er stehen. Er nahm sie vom Haken und hielt sie eine Weile in beiden Händen, als wöge er sie. Dann legte er sie in seine Werkzeugtasche.
+Er ging zur Uhrenwand. Vor der runden Lederuhr blieb er stehen. Er nahm sie vom Haken und hielt sie eine Weile in beiden Händen, als wöge er sie. Dann legte er sie in seine Werkzeugtasche.
 
 "Morgen früh", sagte er. "Um sechs."
 
@@ -80,7 +80,7 @@ Sie hatte das Gefühl, als hätte jemand ein Puzzleteil umgedreht. Nur eins. Sie
 
 "Doch", sagten Nora und Frieda gleichzeitig.
 
-Sie sahen sich an. Frieda verzog den Mundwinkel, nur ein kleines Stück.
+Sie sahen sich an. Frieda nickte, kaum merklich.
 
 "Wir kommen mit dem Rad", sagte Nora. "Wir treffen uns da."
 

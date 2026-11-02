@@ -208,6 +208,40 @@ Die Ersatzformulierungen erzeugten zwei neue „Dann"-Anfänge; sofort wieder en
 **Messung danach:** K12 997 W / 30,0 % · K13 895 W / 29,3 % · K14 1.184 W / 18,8 % · keine Sätze > 18 W · „Dann"
 je 3 · keine Formeln.
 
+## 3d. Nachanalyse Akt 3 und 4 (K10–K18), 2026-11-02
+
+Auf Wunsch des Autors **ohne Dialoganteil** geprüft. K10–K18 am Stück gelesen; dazu eine Suche nach
+Wortfolgen, die in mehreren Kapiteln wiederkehren. **Nur Änderungen, die das Buch besser machen.**
+
+### Gefunden und geändert
+
+| Nr | Kap. | Fund | Änderung | Begründung |
+|---|---|---|---|---|
+| N1 | K17 | **Logik:** Theo: „Gestern hat er noch Schlösser gebaut." Konrads Schloss entstand in der Nacht Tag 0→1, K17 spielt an Tag 3 | „Vor ein paar Tagen hat er noch Schlösser gebaut." | Zeitlinie |
+| N2 | K15 | **Präzision:** Halder habe der Reiseuhr „jeden Tag zugehört". Er war dreißig Jahre unterwegs (S2-3) und sagt in K12 selbst: „Jedes Mal, wenn ich hier bin" | „… zugehört, jedes Mal, wenn er hier war." | Stimmt jetzt mit K12 und S2-3 überein |
+| N3 | K14/K16 | **Konrads eigene Form des Gehens verwischt:** K14 „Dann war da nur noch Licht." — K16 bei den 96 fast wortgleich „Danach war da nur noch Licht". Die Planung verlangt für Konrad eine **eigene** Form (er geht nach Schichtende nach Hause, er wird nicht von innen hell) | K14: „Das Licht fiel ihm über die Schultern, und hinter dem Tor war nur noch die Sonne." | Konrad geht in den Morgen hinaus, die anderen leuchten von innen. Der Unterschied ist jetzt sichtbar, und K16 („So war es damals") bleibt allein Halders Erkennungsbild |
+| N4 | K13/K17 | **Friedas Mundwinkel:** K13 „verzog den Mundwinkel, nur ein kleines Stück", K17 „verzog den Mundwinkel. Nur ein Stück. Aber diesmal blieb er oben." K13 nahm die Einlösung fast wortgleich vorweg | K13: „Frieda nickte, kaum merklich." | Das Motiv (K5 Frieda = K11 Halder) endet jetzt ungestört in K17 |
+| N5 | K16 | **Marie** kam nach K8 noch zweimal vor (Gedanke K16 + Gruß K18). Der K16-Gedanke stellt sie neben die drei, die **an Halders Schloss** hingen; Marie hält Schuld, kein Schloss | K16-Gedanke gestrichen; K18-Gruß bleibt | Die Kanonregel „Schuld ist kein Schloss" bleibt sauber. Der K18-Gruß ist „was bleibt" und verspricht nichts |
+| N6 | K17 | **Müdigkeitswitze:** K13 Sonnenaufgänge, K14 Weihnachten/Pferd, K17 Weihnachten (Rückgriff) **und** „Nicht vor zwei. Das ist auch mein Plan." — der fünfte in fünf Kapiteln | „Nicht vor zwei"-Zeile gestrichen | Der Running Gag ermüdet; der Rückgriff „bis Weihnachten" in K17 trägt, der Zusatz nicht |
+| N7 | K16/K17 | **Bahnhof doppelt:** K16 vergleicht den alten Mann mit jemandem „am Bahnhof", eine Seite später wartet der Erste der drei **wirklich** am Bahnhof. Der Vergleich nimmt das Bild vorweg und lässt die beiden Männer verschwimmen | K16: „Eher wie ein Reisender, der vor seiner eigenen Haustür steht und den Schlüssel nicht findet." | Schlüssel-Motiv des Bandes statt Doppelung; trennt die Figuren |
+| N8 | K11, K18 | Stil: K11 „… und blieb … und sah …" (Doppel-und); K18 „mit vollem Mund" zweimal | K11 in zwei Sätze geteilt; K18 „die Backen voller Kuchen" | — |
+| N9 | K13, K15 | „Wand mit den Uhren" **sechsmal** in fünf Kapiteln | K13, K15 (2×): „Uhrenwand" / „vor den Uhren" | Ortsbezeichnung bleibt, wirkt nicht mehr formelhaft |
+
+### Geprüft, bleibt (mit Begründung)
+
+- **„Wurde hell. Von innen, wie eine Lampe, die jemand langsam aufdreht"** in K12 (Halders Erinnerung) und K16 (der alte
+  Mann): **gewollte Wiederholung**, Halder erkennt es („So war es damals. An der Brücke. Genau so.").
+- **„Nur damit's gesagt ist"** K15 → K18: gewolltes Echo (Theos Kuchen-Bogen).
+- **Drei Werkstatt-Kapitel an einem Abend (K11–K13):** Die Spannung trägt die Enthüllung (Brief → Rechnung → Verabredung),
+  jedes Kapitel endet mit einer neuen Frage. Bleibt.
+- **Halder entschuldigt sich nur bei dem alten Mann (K16), nicht bei Frieda oder den Kindern:** gewollt. Die Kanonregel
+  „Halders Zukunft nicht schließen" gilt, und Noras „Er sagte nicht Danke. Nora war froh darüber" (K17) trägt das.
+- **Zeitlinie Tag 3:** Wächter ~6.05 → Fahrt (Schatten im Wagen) → Werkstatt → *Tick* 8.07 → Hof ~8.30 (Mamas Nachricht)
+  → K18 Montag. Stimmt.
+- **Alle Fäden aus C bleiben offen** (Halders Weg, die drei, Friedas Zukunft, Brandursache, Marie). Kein Satz schließt sie.
+- **Leitplanken:** Uhr kein Schalter (Fäden reglos bis *Tick*) ✅ · Theo hält Schatten genau dreimal ✅ · Kinder nie im
+  Wagen (nur Schatten) ✅ · Schatten in jedem Kapitel ✅ · Humor-Ausnahmen nur K4, K12 ✅.
+
 ---
 
 ## 4. Spannung — Teil B (je Kapitel)

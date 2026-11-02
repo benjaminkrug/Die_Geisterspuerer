@@ -122,7 +122,7 @@ Halder zuckte. Nicht viel. Nur mit den Schultern, als hätte ihn etwas Kaltes im
 
 Halder öffnete die Hände, als hielte er eine Antwort darin. Es war keine da.
 
-Schatten machte zwei Schritte nach vorn und blieb dicht vor Halder stehen und sah zu ihm hoch. Kein Knurren. Nur dieser Blick.
+Schatten machte zwei Schritte nach vorn. Er blieb dicht vor Halder stehen und sah zu ihm hoch. Kein Knurren. Nur dieser Blick.
 
 Frieda faltete das Blatt zusammen und legte es auf den Werktisch, auf die Zeitungen.
 

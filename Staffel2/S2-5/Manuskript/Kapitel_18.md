@@ -64,7 +64,7 @@ Nora sah auf ihr Handy. Sieben Uhr. Auf die Minute.
 
 Mama sah sie an, mit diesem Blick, mit dem sie manchmal Patienten ansah. Sie fragte nicht nach.
 
-Theo lauschte mit vollem Mund. "Klingt wieder gemütlich", sagte er.
+Theo lauschte, die Backen voller Kuchen. "Klingt wieder gemütlich", sagte er.
 
 ---
 

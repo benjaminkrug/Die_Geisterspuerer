@@ -144,7 +144,7 @@ Am Tor blieb er noch einmal stehen und drehte sich um.
 
 Halder antwortete nicht.
 
-Konrad nickte, als hätte er das erwartet. Er ging durch das Tor, in die Sonne, die gerade über den Bauzaun stieg. Das Licht fiel ihm über die Schultern. Dann war da nur noch Licht.
+Konrad nickte, als hätte er das erwartet. Er ging durch das Tor, in die Sonne, die gerade über den Bauzaun stieg. Das Licht fiel ihm über die Schultern, und hinter dem Tor war nur noch die Sonne.
 
 ---
 
