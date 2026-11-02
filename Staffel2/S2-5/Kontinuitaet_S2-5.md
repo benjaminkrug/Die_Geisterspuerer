@@ -289,9 +289,14 @@ Marie, Staffel 3.
 ## AKT-FORTSCHRITT
 
 - ✅ Akt 1 — Hinsehen (K1–K4): K1, K2 (26.10.), K3, K4 (27.10.) geschrieben
-- 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.), K6 (28.10.), K7, K8, K9 (02.11.) → **Akt 2 abgeschlossen**
+- ✅ Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.), K6 (28.10.), K7, K8, K9 (02.11.) → **Akt 2 abgeschlossen**
 - ✅ Akt 3 — Was er nie gefragt hat (K10–K13): K10, K11, K12, K13 (02.11.) → **Akt 3 abgeschlossen**
 - ✅ Akt 4 — Der letzte Schlüssel (K14–K18): K14–K18 (02.11.) → **Rohfassung des Bandes komplett (19.076 W)**
+- ✅ Überarbeitung (02.11.): Stimmen-Pass, Logik-/Qualitäts-Prüfplan, Selbstprüfung V1–V3 + V5 → 18.975 W
+- ✅ Bau (02.11., Commit d1f2f62): Taschenbuch **109 Seiten**, eBook-DOCX; ohne Widmung/Epigraph (Autor: später nachtragen),
+  ohne QR (keine ASIN), kein Teaser (Staffelfinale), Serienübersicht Staffel 2 Band 1–4. Am PDF geprüft: 18 Kapitelköpfe,
+  keine Sternchen/geraden Anführungszeichen/„ENDE", K16-Kopf „Tick." sauber, Brief K6 (S. 37–38) korrekt umbrochen
+- ⬜ Offen: Cover (Rückenbreite aus 109 S., Pflichtblock F + Graustufen-Prüfung) → KDP-Texte (jede Aussage gegen das Buch)
 
 ## ZEITLINIE (Ist)
 
