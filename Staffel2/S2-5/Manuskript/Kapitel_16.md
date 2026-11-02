@@ -1,4 +1,4 @@
-# Kapitel 16 – Neunundneunzig
+# Kapitel 16 – Acht Uhr sieben
 
 *Tick.*
 
@@ -72,7 +72,7 @@ Neben ihm stand eine Frau mit einem Hut voller Stoffblumen. Unter dem Dach hing 
 
 Theo ließ Schatten los.
 
-Er hatte es nicht vorgehabt. Seine Arme gingen einfach auf, und Schatten schoss davon.
+Seine Arme gingen einfach auf, und Schatten schoss davon.
 
 Er rannte durch die Gänge, als wäre er wieder jung. Er sprang an dem alten Mann hoch und rannte weiter, zu der Frau mit dem Hut. Er bellte. Es war das Bellen, mit dem er Nora früher an der Haustür begrüßt hatte.
 

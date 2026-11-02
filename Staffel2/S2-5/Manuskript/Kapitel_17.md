@@ -78,7 +78,7 @@ Halder sah auf die Seite in seinem Notizbuch. Ein Name stand darauf. Sonst nicht
 
 "Und Sie?"
 
-Halder sah sie an. Er hatte die Frage verstanden. Dieselbe Frage hatte ihm Konrad am Tor zugerufen.
+Halder sah sie an. Dieselbe Frage hatte ihm Konrad am Tor zugerufen.
 
 "Das weiß ich auch nicht", sagte er. "Noch nicht."
 

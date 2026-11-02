@@ -543,7 +543,7 @@ Nagel, steckt den Schlüssel ein. Zögert. Frieda wartet, sagt nichts. **Schatte
 Theo hält ihn, das dritte und letzte Mal (K4, K10, K15 — korrigiert 02.11.). **Humor:** ein kleiner, nervöser Theo-Satz.
 **Cliffhanger [STIMME/GERÄUSCH]:** Das erste Ticken nach dreißig Jahren.
 
-### Kapitel 16 – „Neunundneunzig" ✅ geschrieben (2026-11-02)
+### Kapitel 16 – „Acht Uhr sieben" (bis 02.11. „Neunundneunzig" — zu nah an K10 „Neunundneunzig Fäden") ✅ geschrieben (2026-11-02)
 *Ist-Stand:* Die Reiseuhr läuft, ihre Zeiger holen „dreißig Jahre in einer Minute" nach, stehen auf **acht Uhr
 sieben** — Halder: „Wie spät ist es?" (Echo Noras Probe K2) — Theo: „Acht Uhr sieben." Alle Uhren im selben Takt:
 Standuhr verkehrt herum, aber dieselbe Zeit; Küchenuhr „Jetzt kommt sie an" (Echo S2-2 K6); die rückwärts laufende

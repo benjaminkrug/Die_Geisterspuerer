@@ -111,7 +111,7 @@ Theo sah von dem Blatt hoch. Er zählte etwas an den Fingern ab, ganz langsam. W
 
 Frieda begann zu zittern.
 
-Es fing in den Händen an und ging in die Schultern. Sie merkte es selbst nicht. Sie saß nur da, die Arme um die Knie, und zitterte, als wäre es Winter.
+Es fing in den Händen an und ging in die Schultern. Sie schien es selbst nicht zu merken. Sie saß nur da, die Arme um die Knie, und zitterte, als wäre es Winter.
 
 Schatten stand auf. Er ging zu ihr und drückte sich mit der ganzen Seite gegen sie, schwer und warm. Er legte den Kopf auf ihr Knie. Frieda vergrub die Finger in seinem Fell, ohne hinzusehen.
 

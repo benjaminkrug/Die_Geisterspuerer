@@ -142,4 +142,4 @@ Frieda faltete das Blatt zusammen und legte es auf den Werktisch, auf die Zeitun
 
 Dann nahm sie die Hand ihres Vaters. Die rechte, mit der silbrigen Narbe.
 
-Und drehte ihn um, zur Wand, zu der kleinen Uhr im Stoff-Etui.
+Sie drehte ihn um, zur Wand, zu der kleinen Uhr im Stoff-Etui.

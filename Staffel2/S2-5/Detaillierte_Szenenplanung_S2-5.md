@@ -216,7 +216,7 @@ Lagerhallen?"
 **Dialog-Träger:** Halder (kurz), Theo. **Ende:** STIMME — das erste Ticken nach dreißig Jahren.
 **Übergang → K16:** direkt.
 
-### K16 – „Neunundneunzig"
+### K16 – „Acht Uhr sieben" (bis 02.11. „Neunundneunzig" — zu nah an K10)
 1. Die Uhren finden dieselbe Zeit. Die rückwärts laufende an der Tür dreht vorwärts. Die neue auch.
 2. Die Schlösser klicken. Die Fäden erlöschen einer nach dem anderen.
 3. Zwei, drei kurze Bilder von Gehenden (nie benannt).

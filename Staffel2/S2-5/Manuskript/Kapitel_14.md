@@ -66,7 +66,7 @@ Er blieb knien und sah zu dem Wächter hoch.
 
 "Wie heißen Sie?", fragte er.
 
-Der Wächter blinzelte. Damit hatte er nicht gerechnet.
+Der Wächter blinzelte.
 
 "Konrad", sagte er nach einer Weile.
 

@@ -171,3 +171,27 @@ Tore). Kürzen hieße eine der beiden schwächen. Qualitätsregel: im Zweifel st
 ### A3 — Leseprobe auf den nächsten Band (Q4)
 S2-5 ist das Staffelfinale, ein nächster Band existiert nicht. **Keine Leseprobe ins Buch** — in Band 1–4 waren sie
 erfunden. Falls der Rahmen-Text einen „Ausblick" bekommt, nur mit echtem Text.
+
+---
+
+## Nachtrag 2026-11-02 — Selbstprüfung des Prüfschritts (V1–V3, vom Autor freigegeben)
+
+Die Selbstprüfung ergab: **„Kein 🔴" war falsch.** Vier Sätze behaupteten das Innenleben einer anderen Figur als
+Nora (Serienregel „nur was Nora wahrnimmt" = Regelbruch). Zwei davon hatte der **Stimmen-Pass selbst erzeugt**: Er
+strich „Nora sah es an seinem Gesicht" als Formel — und damit den Wahrnehmungsanker. Außerdem: Die F1-Werte für S2-5
+beruhen auf 9 Regex-Treffern, davon 5 Fehltreffer (Verneinungen, Erinnerungen) — kein belastbarer „Bestwert"; die
+Angabe „4 von 9 = K4/K12" war ungeprüft und falsch (K12 kommt nicht vor). Durchgang B (Blocking, Wissen, Stimme)
+stützte sich auf frühere Lesedurchgänge statt auf einen frischen Kapitel-für-Kapitel-Durchgang.
+
+| Nr | Kap. | vorher | nachher | Begründung |
+|---|---|---|---|---|
+| V1 | K14 | „Der Wächter blinzelte. Damit hatte er nicht gerechnet." | „Der Wächter blinzelte." | Blinzeln + „nach einer Weile" zeigen die Überraschung; Streichen statt Ersatz (Minimal-Regel) |
+| V1 | K17 | „Halder sah sie an. Er hatte die Frage verstanden. Dieselbe Frage …" | „Halder sah sie an. Dieselbe Frage …" | Seine Antwort („Noch nicht.") beweist das Verstehen |
+| V1 | K6 | „Sie merkte es selbst nicht." | „Sie schien es selbst nicht zu merken." | Hier trägt der Satz Information (Frieda zittert, ohne es zu wissen) → Wahrnehmung statt Streichen |
+| V1 | K16 | „Er hatte es nicht vorgehabt. Seine Arme gingen einfach auf …" | „Seine Arme gingen einfach auf …" | „einfach" sagt schon, dass es ungewollt war |
+| V2 | K11 | Schluss „Und drehte ihn um, zur Wand, …" | „Sie drehte ihn um, zur Wand, …" | K10 und K11 endeten beide mit Umdrehen **und** „Und"-Fragment (Falle 10). Der inhaltliche Spiegel (er dreht sich zu ihr / sie dreht ihn zur Uhr) bleibt, die gleiche Satzform verschwindet. Cliffhanger-Zeile — vom Autor ausdrücklich freigegeben |
+| V3 | K16 | Titel „Neunundneunzig" | „Acht Uhr sieben" | Fast gleich mit K10 „Neunundneunzig Fäden" (exakter Titel-Check sieht das nicht). Der neue Titel ist der Moment, in dem die Zeit wieder läuft; einmalig in der Reihe |
+
+Regel 2–4 geprüft: Absätze um jede Änderung neu gelesen; „schien" kommt im Buch sonst nur einmal vor (K13); Titel-
+Check ohne neue Treffer; Register-Zitate (K11, K16) nachgezogen. **Offen (nicht freigegeben):** V4 Raumaufteilung
+Werkstatt, V6 Prüfwerkzeuge erweitern, V7 Spannungs-Prüfplan, V8 Altlast „Was jetzt?" in S2-3/S2-4 K8.
