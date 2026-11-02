@@ -498,7 +498,7 @@ above all NO barcode and NO digits.
 | Bilder | ✅ `vorderseite.jpg` (2047 × 3072), `rueckseite.png` (2048 × 3072), erste Runde |
 | Seitenzahl endgültig | 109 ohne Widmung/Epigraph — kommen sie dazu: Rücken neu rechnen |
 | `build_cover_s2_5.py` | ✅ Vollcover gebaut 02.11. (`Output/S2-5/KDP_S2-5_Cover_*`), 3749 × 2775 px, Rücken 6,2 mm |
-| Abführungszeichen Rückseite | 🟡 [C] und [G] tragen gerade `"` statt `“` — Fehler stammte aus dem eigenen Prompt (jetzt korrigiert); Bild noch nicht geändert, Autorentscheidung |
+| Abführungszeichen Rückseite | ⚪ [C] und [G] tragen gerade `"` statt `“` (wie die gedruckte S2-4-Rückseite) — Fehler stammte aus dem eigenen Prompt, Quelltexte korrigiert. **Autor 02.11.: so lassen.** |
 
 ### Prüfung der ersten Bildrunde (02.11.)
 
