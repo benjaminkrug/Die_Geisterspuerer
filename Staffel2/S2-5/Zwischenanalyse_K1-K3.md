@@ -171,6 +171,43 @@ hintereinander. Akt 2: **5.232 W, Dialog 32,1 %** (K5 32,3 · K6 34,5 · K7 30,9
 „Er sagte es nicht X. Er sagte es wie Y." höchstens noch einmal im Band · Mund-auf-zu-Geste nicht mehr ·
 „Schatten stand auf." nicht als Absatzanfang · „Nur müde" nicht wieder · „Dann" am Satzanfang im Blick.
 
+## 3c. Zweite Überarbeitung K12–K14 (2026-11-02, Auftrag des Autors)
+
+Die drei Kapitel am Stück gegen Kanon, gegeneinander und gegen K10–K11 gelesen. **Nur echte Verbesserungen.**
+
+### Inhalt und Logik
+
+| Nr | Kap. | Fund | Änderung | Begründung |
+|---|---|---|---|---|
+| R2 | K12 | **Kanonfehler:** „Am Morgen hat die ganze Straße gebrannt." — S2-3 K12: „Ich habe die Straße erst am Morgen gesehen. **Noch rauchend, die Fenster schwarz**" | Frieda: „Und am Morgen war sein Haus abgebrannt." — Halder: „Am Morgen war die ganze Straße schwarz. Es hat noch geraucht." | Halders eigene Worte aus S2-3; außerdem passt nur so die Klinke: noch heiß, aber kein offenes Feuer mehr |
+| R5 | K13/K14 | Halders Hand bleibt **zum vierten Mal in vier Kapiteln** in der Luft stehen (K11 Umschlag, K12 Schatten, K13 Kontrolluhr, K14 Schlüssel) | K13: Er **nimmt die Kontrolluhr vom Haken**, wiegt sie in den Händen, legt sie in die Werkzeugtasche. K14 holt sie „die runde Uhr" heraus | Aus einer wiederholten Zögergeste wird die erste Handlung nach dem Bruch. Sie zeigt, dass er die Rückgabe schon plant, ohne zu verraten, wie. In K12 bleibt die Geste erhalten, dort wird sie zu Ende geführt (er legt die Hand auf Schatten) |
+| R6 | K14 | Theos Witz „Wir dürfen nicht ins Auto" bezieht sich auf eine Regel, die **nur in der Planung** steht (Mechanik 14), nie im Buch. Der Leser stolpert. Außerdem „diese Woche gelernt" direkt nach K13 („diese Woche mehr Sonnenaufgänge") | „Dann fang schon mal an. Im Stehen." — „Kann ich. Ich bin inzwischen praktisch ein Pferd." | Witz ohne Voraussetzung, kein Doppel zu K13 |
+| R7 | K14 | Halder hält den Schlüsselbund durch die ganze Szene in der Hand, auch während er die Uhr auspackt und sich den Riemen umhängt. Unpraktisch und unklar | Er legt den Bund **auf die Schwelle**. Beim Klicken: „Der Schlüsselbund lag daneben auf dem Holz … Niemand hatte ihn angerührt." Am Ende hebt er ihn auf | Das Bild beweist sichtbar, dass sich das Schloss **ohne Werkzeug** öffnet (Regel „zwei Enden"), statt es nur zu behaupten |
+
+### Stimme (erst am Stück sichtbar)
+
+| Nr | Fund | Änderung |
+|---|---|---|
+| R3 | **„X sah auf Y. Lange."** in **fünf Kapiteln hintereinander** (K10–K14) | in K12, K13, K14 gestrichen (K10, K11 bleiben) |
+| R1 | K12: Das Rechnen wird zweimal erklärt („So sah jemand aus, der eine Zahl hört und sie prüfen muss" + „Nora wusste, was er tat. Er rechnete.") und „prüfen" dreimal | Erste Erklärung gestrichen; „als traute er seiner eigenen Rechnung nicht" |
+| R4 | K12-Schluss „Seine Stimme war ganz ruhig. Aber …" und zwei Seiten später K13 „Seine Stimme war ruhig, aber …" | K13: „Seine Stimme hatte einen Riss bekommen, irgendwo in der Mitte." |
+| R8 | „wie ein Junge" für Halder in K12 und K14 | K14: „Er blieb knien und sah zu dem Wächter hoch." (K12 behält das Bild — dort trägt es „Wie achtzehn") |
+| R9 | „Nora hielt die Luft an" in K12 und K14 | K14: „Nora wagte nicht zu atmen." |
+| R10 | Der Schlüssel an der Kette wortgleich in K13 und K14 „kaum größer als ein Fingerglied" | K14: „golden und abgegriffen" (neue Information statt Wiederholung) |
+
+Die Ersatzformulierungen erzeugten zwei neue „Dann"-Anfänge; sofort wieder entfernt (je Kapitel jetzt 3).
+
+### Geprüft, bleibt
+- **K14-Dialog 18,8 %:** Ritual mit sehr kurzen Zeilen. Eine zusätzliche Frieda-Zeile nach „Nichts brannte" verworfen: Der
+  Satz allein trägt, eine Bestätigung im Dialog würde ihn schwächen.
+- Konrads „Ab sechs ist abgeschlossen" (K2, morgens) gegen „Um sechs kam der Nächste" (K14): kein Widerspruch, den
+  ein Kind bemerkt; der Wächter lebt in seiner Nacht. Bleibt.
+- Halder weiß, dass Konrad „im Frühjahr" starb: Er hat nach den Bewohnern gefragt (S2-4 K16). Bleibt.
+- „So wie Grete. So wie Ilse." (K12): Frieda hat Gretes Gehen gesehen (S2-2 K11), Ilse lebte in ihrem Haus. Bleibt.
+
+**Messung danach:** K12 997 W / 30,0 % · K13 895 W / 29,3 % · K14 1.184 W / 18,8 % · keine Sätze > 18 W · „Dann"
+je 3 · keine Formeln.
+
 ---
 
 ## 4. Spannung — Teil B (je Kapitel)

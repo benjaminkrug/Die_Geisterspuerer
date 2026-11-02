@@ -271,7 +271,8 @@ Ferien: Zu Beginn von S2-4 „Zwei Wochen Sommerferien waren noch übrig" (S2-4 
 11. **Erzähler-Tics aus der Nachanalyse Akt 2** (`Zwischenanalyse_K1-K3.md` 3b): „Er sagte es nicht X. Er
     sagte es wie Y." höchstens noch einmal im ganzen Band · „öffnete den Mund … wieder zu" nicht mehr ·
     „Schatten stand auf." nicht als Absatzanfang · „Nur müde" nicht wieder · „Nora spürte, wie …" sparsam ·
-    „Dann" am Satzanfang (Erzähler) höchstens ~3 pro Kapitel.
+    „Dann" am Satzanfang (Erzähler) höchstens ~3 pro Kapitel · **„X sah auf Y. Lange."** nicht mehr (stand in K10–K14
+    hintereinander; Überarbeitung 3c) · Halders Hand, die „in der Luft stehen bleibt", nicht mehr.
 
 ---
 
@@ -317,7 +318,8 @@ hat die Kontrolluhr in der Werkzeugtasche mitgebracht.** Konrad duzt Halder („
 Konrad** (sagt er Halder; die Kinder hören es). Vierzig Jahre Nachtschicht; um sechs kam „der Nächste. Meistens der
 Kalle, mit zwei Brötchen, eins für mich." **„Keiner geht vom Posten, bevor er abgelöst ist."** Nora erinnert Mama
 nach einer Nachtschicht: „Bei der Übergabe sagst du: Keine besonderen Vorkommnisse. Dann darfst du endlich heim."
-(**neue Mama-Erinnerung, Kanon**). **Die Ablösung:** Halder hängt sich die Kontrolluhr um, steht „wie einer, der zum
+(**neue Mama-Erinnerung, Kanon**). **Die Ablösung:** Halder legt den Schlüsselbund auf die Schwelle (er liegt dort unberührt, als das Schloss klickt), hängt sich die
+Kontrolluhr um, steht „wie einer, der zum
 Dienst antritt": „Sie sind abgelöst, Konrad." — Konrad grüßt an die fehlende Mütze — „Rundgang sechs Uhr. Tore eins
 bis sechs. Keine besonderen Vorkommnisse." — „Übernommen." **Das Schloss klickt von selbst**, der Schlüssel war
 nicht angesetzt. Faden erlischt von der Schwelle her „wie Raureif in der Sonne". Konrad tritt über die Schwelle, kein
@@ -330,7 +332,8 @@ an der dünnen Silberkette.
 
 | K13 | Tag 2, ~20.30 → dunkel | Werkstatt, dann Seitentür; Mond über dem Hof |
 
-**Neu festgelegt in K13 (ab hier Kanon):** **Nora tritt vor** (ein Faden streift ihr Haar, „so kalt, dass ihre
+**Neu festgelegt in K13 (ab hier Kanon):** **Halder nimmt die Kontrolluhr vom Haken und legt sie in seine Werkzeugtasche** (Überarbeitung 3c) — sie hängt ab
+jetzt nicht mehr an der Uhrenwand (wichtig für K16). **Nora tritt vor** (ein Faden streift ihr Haar, „so kalt, dass ihre
 Kopfhaut kribbelte") und richtet aus: „Er will mit Ihnen reden. Nur mit Ihnen." / sechs Schritte, er wird blasser,
 „Wie die hier." / „Das hat mich noch keiner gefragt." / „Bring mir den, der mich festgemacht hat." **Halder:**
 „Und wenn er es mir sagt, und ich verstehe es falsch? … Wie damals?" — „Damals war es nicht das Falsche." — „Das
@@ -354,7 +357,7 @@ auf zwölf angehalten; die Zwölf schlug „von der Kirche am Markt" (Weißenbr�
 „Dreiundzwanzig Uhr zwanzig. Bis vierundzwanzig Uhr. … Vierzig Minuten." (zweimal); Theo schweigt. **Was er um
 zwölf sah:** Der Geist, zwei Tage wütend, wurde an der Bahnbrücke „hell. Von innen, wie eine Lampe, die jemand
 langsam aufdreht" und war weg — Halder hielt es dreißig Jahre für Flucht „nach Hause. Mit seiner ganzen Wut".
-**Die Narbe:** am Morgen zum Mühlgraben gelaufen, die Tür des Geisterhauses war noch zu, er fasste die Klinke an
+**Der Morgen danach:** „Am Morgen war die ganze Straße schwarz. Es hat noch geraucht." (= S2-3 K12). **Die Narbe:** am Morgen zum Mühlgraben gelaufen, die Tür des Geisterhauses war noch zu, er fasste die Klinke an
 („Ich wollte nachsehen, ob er da drin ist"), „Die Klinke war noch heiß." Frieda: „Er ist gegangen. Richtig
 gegangen. So wie Grete. So wie Ilse." **Halder sitzt auf dem Holzboden**, Rücken am Werktisch: „Ich hab's
 geschafft. Mit achtzehn. Beim ersten Mal." / „Und ich hab dreißig Jahre gedacht, ich hätte ein Viertel
@@ -547,9 +550,9 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 | K9 | 1.054 | 31,1 % | 0 | 105 | 1,9 | 4,3 % |
 | K10 | 1.255 | 16,9 % ⁴ | 0 | 149 | 2,4 | 1,2 % |
 | K11 | 938 | 31,7 % | 0 | 101 | 2,2 | 3,2 % |
-| K12 | 1.013 | 29,1 % ⁵ | 0 | 89 | 1,0 | 8,2 % |
-| K13 | 894 | 29,3 % | 0 | 118 | 1,1 | 3,4 % |
-| K14 | 1.195 | 19,1 % ⁶ | 0 | 125 | 0,9 | 8,5 % |
+| K12 | 997 | 30,0 % ⁵ | 0 | 89 | 1,0 | 8,2 % |
+| K13 | 895 | 29,3 % | 0 | 118 | 1,1 | 3,4 % |
+| K14 | 1.184 | 18,8 % ⁶ | 0 | 125 | 0,9 | 8,8 % |
 
 Akt 2 gesamt (K5–K9, nach Nachanalyse 02.11.): 5.232 W, Dialog 32,1 %.
 ⁴ K10 = Bild-Höhepunkt (Akt-3-Auftakt): Der Inhalt ist, was Nora **sieht** — das Netz, die Uhrenwand, die

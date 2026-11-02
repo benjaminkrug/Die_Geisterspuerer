@@ -6,13 +6,9 @@ Theo stieg vom Rad und gähnte so lange, dass Nora schon dachte, er würde nie w
 
 "Wenn das hier vorbei ist", sagte er, "schlaf ich bis Weihnachten. Danach noch mal bis Ostern."
 
-"Du kannst im Auto schlafen."
+"Dann fang schon mal an", sagte Nora. "Im Stehen."
 
-"Wir dürfen nicht ins Auto."
-
-"Dann im Stehen."
-
-"Kann ich", sagte Theo düster. "Hab ich diese Woche gelernt."
+"Kann ich", sagte Theo düster. "Ich bin inzwischen praktisch ein Pferd."
 
 Schatten lag neben dem Vorderrad und hechelte. Die dritte lange Fahrt in zwei Tagen. Er stand auf, als Nora die Leine nahm, aber es dauerte.
 
@@ -62,11 +58,11 @@ Halder erstarrte. Der Schlüssel blieb in der Luft, einen Fingerbreit vor dem Ho
 
 Er sah zu ihr hoch. Nora hielt den Blick aus. Ihr Herz schlug bis in die Ohren.
 
-Langsam ließ Halder die Hand sinken.
+Langsam ließ Halder die Hand sinken. Er legte den Schlüsselbund neben sich auf die Schwelle.
 
 ---
 
-Er blieb knien. Er sah den Wächter an, von unten, wie ein Junge einen Erwachsenen ansieht.
+Er blieb knien und sah zu dem Wächter hoch.
 
 "Wie heißen Sie?", fragte er.
 
@@ -82,7 +78,7 @@ Es war still. Irgendwo auf dem Dach der mittleren Halle schlug eine Krähe mit d
 
 "Ich frage Sie jetzt", sagte Halder.
 
-Konrad sah auf ihn herunter. Lange. Sein Blick ging an ihm vorbei, den Weg hinunter, zum Tor. Genau wie jeden Morgen.
+Konrad sah auf ihn herunter. Sein Blick ging an ihm vorbei, den Weg hinunter, zum Tor. Genau wie jeden Morgen.
 
 "Vierzig Jahre hab ich hier Nachtschicht gemacht", sagte er. "Um sechs kam der Nächste. Meistens der Kalle, mit zwei Brötchen, eins für mich. Dem hab ich gesagt, was war. Dann durft ich nach Hause." Er schluckte. "So ist das. Keiner geht vom Posten, bevor er abgelöst ist."
 
@@ -100,7 +96,7 @@ Die Kästen an den Toren. Das Stempeln. Der Blick den Weg hinunter. *Es kommt im
 
 Halder stand auf.
 
-Er bückte sich zu seiner Tasche und nahm noch etwas heraus. Etwas Rundes, Schweres, in schwarzem Leder, mit einem abgewetzten Riemen.
+Er bückte sich zu seiner Tasche und nahm die runde Uhr heraus. Das schwarze Leder, den abgewetzten Riemen.
 
 Konrad starrte darauf.
 
@@ -110,7 +106,7 @@ Konrad starrte darauf.
 
 Er hängte sich den Riemen über die Schulter. So, wie Konrad ihn getragen hatte, an der Seite. Er stellte sich vor die Schwelle, gerade, die Hände an der Hosennaht. Wie einer, der zum Dienst antritt.
 
-Nora hielt die Luft an. Neben ihr stand Theo ganz still. Frieda hatte die Hand vor dem Mund.
+Nora wagte nicht zu atmen. Neben ihr rührte Theo sich nicht. Frieda hatte die Hand vor dem Mund.
 
 "Sie sind abgelöst, Konrad", sagte Halder.
 
@@ -124,7 +120,7 @@ Dann richtete er sich auf. Die Hand ging an die Stirn, an eine Mütze, die nicht
 
 Es klickte.
 
-Leise und trocken, unten in der Ritze der Schwelle. Halder hatte den Schlüssel noch in der Hand. Er hatte ihn nicht angesetzt.
+Leise und trocken, unten in der Ritze der Schwelle. Der Schlüsselbund lag daneben auf dem Holz, wo Halder ihn hingelegt hatte. Niemand hatte ihn angerührt.
 
 Der Faden erlosch. Nicht auf einmal. Er wurde blasser, von der Schwelle her, wie Raureif in der Sonne, bis da nichts mehr war.
 
@@ -148,7 +144,7 @@ Am Tor blieb er noch einmal stehen und drehte sich um.
 
 Halder antwortete nicht.
 
-Konrad nickte, als hätte er das erwartet. Dann ging er durch das Tor, in die Sonne, die gerade über den Bauzaun stieg. Das Licht fiel ihm über die Schultern. Dann war da nur noch Licht.
+Konrad nickte, als hätte er das erwartet. Er ging durch das Tor, in die Sonne, die gerade über den Bauzaun stieg. Das Licht fiel ihm über die Schultern. Dann war da nur noch Licht.
 
 ---
 
@@ -166,9 +162,9 @@ Schatten löste sich aus Noras Hand. Er trottete zu der Stelle vor der Schwelle,
 
 Frieda lachte. Es war ein komisches, nasses Lachen, aber es war echt.
 
-Halder lachte nicht. Er stand da, die fremde Uhr an der Seite, den Schlüsselbund in der Hand. Er steckte den Bund in die Tasche.
+Halder lachte nicht. Er hob den Schlüsselbund von der Schwelle auf und steckte ihn ein, die fremde Uhr an der Seite.
 
-Seine Hand ging an seinen Hals. Er zog die dünne Kette unter dem Kragen hervor. Daran hing ein winziger Schlüssel, golden und abgegriffen, kaum größer als ein Fingerglied.
+Seine Hand ging an seinen Hals. Er zog die dünne Kette unter dem Kragen hervor. Daran hing ein winziger Schlüssel, golden und abgegriffen.
 
 Er sah ihn lange an.
 

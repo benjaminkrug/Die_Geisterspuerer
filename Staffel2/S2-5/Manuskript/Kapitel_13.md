@@ -40,7 +40,7 @@ Halder stand auf. Langsam, mit einer Hand an der Tischkante. Schatten stand mit 
 
 "Ja."
 
-"Und wenn er es mir sagt, und ich verstehe es falsch?" Seine Stimme war ruhig, aber sie hatte einen Riss bekommen, irgendwo in der Mitte. "Wenn ich etwas tue, und es ist das Falsche? Wie damals?"
+"Und wenn er es mir sagt, und ich verstehe es falsch?" Seine Stimme hatte einen Riss bekommen, irgendwo in der Mitte. "Wenn ich etwas tue, und es ist das Falsche? Wie damals?"
 
 "Damals war es nicht das Falsche", sagte Nora.
 
@@ -56,21 +56,21 @@ Nora dachte an Ilse. An ihre ruhige Stimme, ganz am Ende. *Du hast mich nie gefr
 
 Ilse hatte es ihm ins Gesicht gesagt. Er hatte es gehört. Er hatte trotzdem weitergemacht.
 
-Er sah seine Tochter an. Lange. Sein Blick wanderte über die Regale. Über die Schlösser, die Fäden, die Etiketten mit ihren Häkchen. Über neunundneunzig, die er nie gefragt hatte.
+Er sah seine Tochter an. Sein Blick wanderte über die Regale. Über die Schlösser, die Fäden, die Etiketten mit ihren Häkchen. Über neunundneunzig, die er nie gefragt hatte.
 
 "Nein", sagte er leise. "Keinen."
 
 ---
 
-Er ging zur Wand mit den Uhren. Vor der runden Lederuhr blieb er stehen. Er hob die Hand, als wollte er sie berühren. Er ließ sie wieder sinken.
+Er ging zur Wand mit den Uhren. Vor der runden Lederuhr blieb er stehen. Er nahm sie vom Haken und hielt sie eine Weile in beiden Händen, als wöge er sie. Dann legte er sie in seine Werkzeugtasche.
 
 "Morgen früh", sagte er. "Um sechs."
 
 "Warum um sechs?", fragte Theo.
 
-"Weil er um sechs am ruhigsten ist." Halder sah nicht von der Uhr weg. "Ich habe ihm eine Woche zugesehen. Kurz vor sechs steht er immer an der Tür und sieht den Weg hinunter. Als würde er auf etwas warten."
+"Weil er um sechs am ruhigsten ist." Halder sah auf die Tasche. "Ich habe ihm eine Woche zugesehen. Kurz vor sechs steht er immer an der Tür und sieht den Weg hinunter. Als würde er auf etwas warten."
 
-Nora sah auf die Uhr. Kurz vor sechs. Die Zeiger standen genau dort, wo sie stehen geblieben waren.
+Nora hatte die Zeiger noch gesehen, bevor die Uhr in der Tasche verschwand. Kurz vor sechs.
 
 Sie hatte das Gefühl, als hätte jemand ein Puzzleteil umgedreht. Nur eins. Sie sah die bunte Seite, aber sie wusste noch nicht, wohin es gehörte.
 

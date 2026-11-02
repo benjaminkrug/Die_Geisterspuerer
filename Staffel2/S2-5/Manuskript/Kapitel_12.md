@@ -20,7 +20,7 @@ Nora stand an der Tür und hielt die Luft an. Neunundneunzig Etiketten, neunundn
 
 "Und der Alarm war um zwanzig nach elf", sagte Frieda.
 
-Halder schwieg. Nora sah, wie sich etwas in seinem Gesicht veränderte. Nicht viel. Ein Zucken um die Augen. So sah jemand aus, der eine Zahl hört und sie prüfen muss.
+Halder schwieg. Nora sah, wie sich etwas in seinem Gesicht veränderte. Nicht viel. Ein Zucken um die Augen.
 
 "Dreiundzwanzig Uhr zwanzig", sagte er langsam.
 
@@ -28,13 +28,13 @@ Er sah auf das Zifferblatt.
 
 "Bis vierundzwanzig Uhr."
 
-Seine Lippen bewegten sich. Nora wusste, was er tat. Er rechnete. Er war Uhrmacher. Er konnte nicht anders.
+Seine Lippen bewegten sich. Er rechnete. Er war Uhrmacher, er konnte nicht anders.
 
 Theo stand einen halben Schritt hinter Frieda und sagte nichts. Er hatte es gestern Abend an den Fingern abgezählt, auf Noras Zimmerboden. Jetzt hielt er still, als hätte er Angst, die Zahl zu verscheuchen.
 
 "Vierzig Minuten", sagte Halder.
 
-Er sagte es sehr leise. Dann noch einmal, als hätte er sich verrechnet und müsste es prüfen.
+Er sagte es sehr leise. Dann noch einmal, als traute er seiner eigenen Rechnung nicht.
 
 "Vierzig Minuten."
 
@@ -48,9 +48,9 @@ Niemand rührte sich. Halder sah weiter auf die Uhr.
 
 "Er war so wütend gewesen. Zwei Tage lang. Als es zwölf schlug, wurde er hell. Von innen, wie eine Lampe, die jemand langsam aufdreht. Dann war er weg." Er schluckte. "Ich hab gedacht, er läuft davon. Nach Hause. Mit seiner ganzen Wut."
 
-"Und am Morgen hat sein Haus gebrannt", sagte Frieda.
+"Und am Morgen war sein Haus abgebrannt", sagte Frieda.
 
-"Am Morgen hat die ganze Straße gebrannt." Halder sah auf seine rechte Hand. Auf die silbrige Haut, die sich über die Knöchel zog. "Ich bin hingelaufen, zum Mühlgraben. Seine Tür war noch zu. Ich hab die Klinke angefasst. Ich wollte nachsehen, ob er da drin ist."
+"Am Morgen war die ganze Straße schwarz. Es hat noch geraucht." Halder sah auf seine rechte Hand. Auf die silbrige Haut, die sich über die Knöchel zog. "Ich bin hingelaufen, zum Mühlgraben. Seine Tür war noch zu. Ich hab die Klinke angefasst. Ich wollte nachsehen, ob er da drin ist."
 
 Nora sah auf die Narbe. Seit dem ersten Tag hatte sie sich gefragt, woher sie kam. Jetzt wusste sie es, und es war schlimmer und einfacher, als sie gedacht hatte.
 
@@ -86,7 +86,7 @@ Schatten ging zu ihm.
 
 Er tat es ohne Zögern. Er ging an Frieda vorbei, unter einem Faden hindurch, und legte sich neben Halder auf den Boden. Ganz dicht, den Kopf auf den Pfoten, so nah, dass sein Rücken Halders Schuh berührte.
 
-Halder sah auf den Hund hinunter. Lange. Seine Hand hob sich und blieb über Schattens Fell in der Luft hängen.
+Halder sah auf den Hund hinunter. Seine Hand hob sich und blieb über Schattens Fell in der Luft hängen.
 
 Dann legte er sie ab.
 
