@@ -34,6 +34,10 @@ ROOT = os.path.dirname(_HIER)
 
 STAFFEL2 = {
     "S2-1": "Der Gast, der blieb",
+    "S2-2": "Die Uhr, die rückwärts läuft",
+    "S2-3": "Die Frau, die niemand gehen ließ",
+    "S2-4": "Der Park, der nicht vergisst",
+    "S2-5": "Der letzte Schlüssel",
 }
 
 
