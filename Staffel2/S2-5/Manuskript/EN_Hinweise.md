@@ -26,4 +26,9 @@
 | K7 | „Gerecht verteilt. Jeder kriegt ein Drittel Hund." | Theo-Witz | Wörtlich übertragbar |
 | K7 | „Er sagte nicht *wir*. Er sagte *ich*." | Kursiv-Betonung | *we* / *I* — Kursiv beibehalten |
 | K7 | „Du hilfst immer irgendwem." | Mias Satz, kehrt in K18 wieder | Gleich übersetzen wie im Epilog (*You're always helping someone.*) |
+| K9/K14 | „Rundgang acht/sechs Uhr. Tore eins bis sechs. Keine besonderen Vorkommnisse." | Leitsatz, Übergabeformel (K9 ins Leere, K14 angenommen) | Echte Wachdienst-Formel wählen (*Rounds at six. Gates one to six. Nothing to report.*) — muss in K9, K14 und Mamas Erinnerung gleich lauten |
+| K14 | „Sie sind abgelöst, Konrad." — „Übernommen." | Schlüsselsatz der Auflösung | *You're relieved, Konrad.* — *I have the watch.* (Wachdienst-Register; „relieved" trägt die Doppelbedeutung „erleichtert" — gewollt) |
+| K14 | „Keiner geht vom Posten, bevor er abgelöst ist." | Regel des Wächters | *Nobody leaves his post till he's relieved.* |
+| K14 | „Sonnenfleck schlägt alles." | Rückgriff S2-1 K15 (Theo) | Wortlaut der EN-Fassung von S2-1 übernehmen |
+| K14 | „schlaf ich bis Weihnachten. Danach noch mal bis Ostern." | Theo-Witz | *till Christmas. And then till Easter.* |
 | K1 | „Briefkästen. Für Lagerhallen. Damit sie Post von anderen Lagerhallen kriegen." | Theo-Witz, zugleich fairer Hinweis (Kontrollkästen eines Wächterrundgangs) | Den Hinweis auf nummerierte Kästen erhalten |

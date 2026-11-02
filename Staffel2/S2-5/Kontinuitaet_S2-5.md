@@ -290,7 +290,7 @@ Marie, Staffel 3.
 - ✅ Akt 1 — Hinsehen (K1–K4): K1, K2 (26.10.), K3, K4 (27.10.) geschrieben
 - 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.), K6 (28.10.), K7, K8, K9 (02.11.) → **Akt 2 abgeschlossen**
 - ✅ Akt 3 — Was er nie gefragt hat (K10–K13): K10, K11, K12, K13 (02.11.) → **Akt 3 abgeschlossen**
-- ⬜ Akt 4 — Der letzte Schlüssel (K14–K18)
+- 🔶 Akt 4 — Der letzte Schlüssel (K14–K18): K14 (02.11.)
 
 ## ZEITLINIE (Ist)
 
@@ -309,6 +309,24 @@ Marie, Staffel 3.
 | K6 | Tag 1, Abend (direkt im Anschluss) | Noras Zimmer, alle drei auf dem Boden; Mama kocht in der Küche (Töpfe, summt) |
 
 | K7 | Tag 1, Abend → Frieda fährt mit dem Bus „um halb" | Abendessen in der Küche (Nudeln mit Tomaten), dann Noras Zimmer |
+
+| K14 | Tag 3, 5.40 → ~6.05 (Sonnenaufgang) | Lagerhallen; Halder und Frieda schon da (Wagen am Bauzaun) |
+
+**Neu festgelegt in K14 (ab hier Kanon):** Halder hat die Nacht am Werktisch gesessen, Frieda daneben. **Halder
+hat die Kontrolluhr in der Werkzeugtasche mitgebracht.** Konrad duzt Halder („Du. … Halder."). **Sein Name:
+Konrad** (sagt er Halder; die Kinder hören es). Vierzig Jahre Nachtschicht; um sechs kam „der Nächste. Meistens der
+Kalle, mit zwei Brötchen, eins für mich." **„Keiner geht vom Posten, bevor er abgelöst ist."** Nora erinnert Mama
+nach einer Nachtschicht: „Bei der Übergabe sagst du: Keine besonderen Vorkommnisse. Dann darfst du endlich heim."
+(**neue Mama-Erinnerung, Kanon**). **Die Ablösung:** Halder hängt sich die Kontrolluhr um, steht „wie einer, der zum
+Dienst antritt": „Sie sind abgelöst, Konrad." — Konrad grüßt an die fehlende Mütze — „Rundgang sechs Uhr. Tore eins
+bis sechs. Keine besonderen Vorkommnisse." — „Übernommen." **Das Schloss klickt von selbst**, der Schlüssel war
+nicht angesetzt. Faden erlischt von der Schwelle her „wie Raureif in der Sonne". Konrad tritt über die Schwelle, kein
+Rückriss, wieder dicht, **die Mütze wieder auf dem Kopf**. „Pass gut auf die Hallen auf." — „Mach ich." **Seine
+eigene Form des Gehens:** zu Fuß den Weg hinunter, durchs Tor in die aufgehende Sonne, „Dann war da nur noch Licht."
+Am Tor: **„Und du? Was brauchst du?"** — Halder antwortet nicht. **Nichts brennt** (Halder sucht den Himmel nach
+Rauch ab). Schatten legt sich in den Sonnenfleck vor der Schwelle; Theo: „Sonnenfleck schlägt alles." Frieda lacht
+(nass, echt). **Halder behält die Kontrolluhr** (an der Seite). **Der letzte Schlüssel:** winzig, golden, abgegriffen,
+an der dünnen Silberkette.
 
 | K13 | Tag 2, ~20.30 → dunkel | Werkstatt, dann Seitentür; Mond über dem Hof |
 
@@ -531,6 +549,7 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 | K11 | 938 | 31,7 % | 0 | 101 | 2,2 | 3,2 % |
 | K12 | 1.013 | 29,1 % ⁵ | 0 | 89 | 1,0 | 8,2 % |
 | K13 | 894 | 29,3 % | 0 | 118 | 1,1 | 3,4 % |
+| K14 | 1.195 | 19,1 % ⁶ | 0 | 125 | 0,9 | 8,5 % |
 
 Akt 2 gesamt (K5–K9, nach Nachanalyse 02.11.): 5.232 W, Dialog 32,1 %.
 ⁴ K10 = Bild-Höhepunkt (Akt-3-Auftakt): Der Inhalt ist, was Nora **sieht** — das Netz, die Uhrenwand, die
@@ -539,6 +558,9 @@ der Uhrenwand); Halder sagt ein Wort. K11 muss das ausgleichen (Frieda/Halder-Di
 ⁵ K12: knapp unter 30 % — Emotionshöhepunkt ohne Humor (Ausnahme 2). Der Text, der kein Dialog ist, sind Halders
 Körper (Hand, Boden, Schatten) und Noras zwei Erkenntnisse (Etikett, Schluss). Zwei echte Zeilen ergänzt („Papa?",
 „Ich hätte ihn nur aufmachen müssen"), mehr wäre Gerede in der Stille.
+⁶ K14 = Höhepunkt des Bandes (Ritual der Ablösung). Viel gesprochen, aber in sehr kurzen Zeilen („Du." — „Ja.",
+„Übernommen."); der Rest ist Handlung, die man sehen muss. Wie K4 unter 20 % erlaubt. **Akt 3 + K14 liegen
+zusammen unter 30 % — die Akt-3-Nachanalyse soll prüfen, wo echter Dialog fehlt.**
 
 ¹ K4 = Akt-1-Höhepunkt (Rückriss); der Spannungs-Prüfplan erlaubt bei Action-Höhepunkten unter 20 %.
 Akt 1 gesamt (K1–K4): ~4.760 W, Dialog ~31 %.

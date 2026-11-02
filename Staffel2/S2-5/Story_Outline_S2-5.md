@@ -411,11 +411,11 @@ Bruchstücke seiner Geschichte, nicht die Lösung (die bekommt nur, wer fragt, u
 | O8 ✅ K12 | K12 | **Halders Version korrigieren:** Er glaubte, der Geist sei „nach Hause" gegangen und dort habe es „zuerst" gebrannt. Wahrheit: Der Geist ging damals wirklich; das Feuer kam aus der Färbergasse und erreichte den Mühlgraben zuletzt. Die Narbe (heiße Klinke am Morgen) passt: das zuletzt erfasste Haus. | K6 (B20) |
 | O9 ✅ K12 | K12 | Reiseuhr-Etikett „wie bei allen anderen" (K6 erinnert, nicht gedeutet) → Halder zählt sich selbst zu den Gebundenen; das Häkchen frischt er jedes Mal auf. | K6 (A10) |
 | O10 ✅ K11–K12 | K11–K12 | Ortsnamen festhalten: Färbergasse (Ausbruch), Mühlgraben (Haus des Geistes), alte Bahnbrücke am anderen Ende der Stadt (Halders Versuch). Ilses Straße bleibt ungenannt. | K6 |
-| O12 | K14 | **Übergabesatz einlösen:** „Keine besonderen Vorkommnisse" (K9) — Nora kennt ihn „irgendwoher" = Mamas Schichtübergabe im Krankenhaus (Echo K2 „Wie Mama im Krankenhaus"). Erst in K14 klickt es; das Wort „Ablösung" fällt erst dort. | K9 (D2) |
+| O12 ✅ K14 | K14 | **Übergabesatz einlösen:** „Keine besonderen Vorkommnisse" (K9) — Nora kennt ihn „irgendwoher" = Mamas Schichtübergabe im Krankenhaus (Echo K2 „Wie Mama im Krankenhaus"). Erst in K14 klickt es; das Wort „Ablösung" fällt erst dort. | K9 (D2) |
 | O14 | K16 | **Die Neunundneunzig sind in der Werkstatt, aber verblasst** (K10: Fäden enden in der Luft; „Weil sie schon so lange hier sind"). Beim Lösen müssen sie **wieder sichtbar werden**, bevor sie gehen — das trägt die „Bilder von Gehenden" und die drei, die bleiben. Nicht widersprechen: Grete war in S2-2 erst nach langem Hinsehen fest. | K10 |
-| O15 | K14 | **Die Kontrolluhr des Wächters hängt in der Werkstatt** (steht auf kurz vor sechs = er wartete auf die Sechs-Uhr-Ablösung). Möglich und stark: Halder bringt sie in K14 mit. Mindestens muss klar sein, was mit ihr nach der Ablösung geschieht. | K10 |
+| O15 ✅ K14 | K14 | **Die Kontrolluhr des Wächters hängt in der Werkstatt** (steht auf kurz vor sechs = er wartete auf die Sechs-Uhr-Ablösung). Möglich und stark: Halder bringt sie in K14 mit. Mindestens muss klar sein, was mit ihr nach der Ablösung geschieht. | K10 |
 | O16 | K11–K15 | **Nicht verallgemeinern:** Dass Halder zu jedem Schloss einen Gegenstand des Geistes holt, ist nur für den Wächter belegt. Andere Uhren nicht nachträglich als „Uhren der Geister" erklären, ohne S2-2 K4–K6 zu prüfen. | K10 |
-| O13 | K14 | Der Wächter sagt Nora nicht, wer kommen soll („Weil du's nicht bist"). In K14 muss Halder **ihn** fragen — nicht Nora übersetzen lassen. Seinen Namen (Konrad) sagt er Halder, nicht den Kindern. | K9 (B5, B17) |
+| O13 ✅ K14 | K14 | Der Wächter sagt Nora nicht, wer kommen soll („Weil du's nicht bist"). In K14 muss Halder **ihn** fragen — nicht Nora übersetzen lassen. Seinen Namen (Konrad) sagt er Halder, nicht den Kindern. | K9 (B5, B17) |
 | O11 | K18 | **Mia:** „Du hilfst immer irgendwem." (K7) — im Epilog ein kleiner, echter Satz, der darauf antwortet; gleich formulieren. **Kuchen-Schuld** einlösen (B15). | K2, K7 (B10, B15) |
 
 ## AKT 3 — Was er nie gefragt hat (K10–K13) · Tag 2 Abend
@@ -505,7 +505,20 @@ Abstand. **Humor:** Theo auf dem Heimweg.
 
 ## AKT 4 — Der letzte Schlüssel (K14–K18) · Tag 3
 
-### Kapitel 14 – „Was brauchst du?"
+### Kapitel 14 – „Was brauchst du?" ✅ geschrieben (2026-11-02)
+*Ist-Stand:* 5.40 Uhr, Theo: „schlaf ich bis Weihnachten. Danach noch mal bis Ostern." Schatten nach der dritten
+langen Fahrt erschöpft. Frieda: „Er hat nicht geschlafen … die ganze Nacht am Werktisch." Faden wieder sichtbar.
+Konrad: „Du. … Halder." Halder kniet mit dem Schlüssel — Nora: „Nicht entscheiden. Fragen." Halder: „Wie heißen
+Sie?" — „Konrad." — „Was brauchen Sie, Konrad?" — „Hat lang gedauert, bis es einer zweimal fragt." Vierzig Jahre
+Nachtschicht, „Meistens der Kalle, mit zwei Brötchen"; „Keiner geht vom Posten, bevor er abgelöst ist." (Wort
+fällt hier, aus Konrads Mund). Nora rastet ein über Mamas Übergabe (O12). Halder holt **die Kontrolluhr** aus der
+Tasche (O15), hängt sie sich um, tritt an: „Sie sind abgelöst, Konrad." — Gruß an die fehlende Mütze — „Rundgang
+sechs Uhr. Tore eins bis sechs. Keine besonderen Vorkommnisse." — „Übernommen." Klick, Schlüssel nicht angesetzt.
+Faden erlischt „wie Raureif in der Sonne". Konrad tritt über die Schwelle, Mütze wieder da: „Pass gut auf die
+Hallen auf." — „Mach ich." Geht „wie jemand, der nach getaner Arbeit nach Hause geht" (Echo K4), am Tor: **„Und
+du? Was brauchst du?"** (Titel) — Halder schweigt — ins Licht. Nichts brennt. Schatten in den Sonnenfleck, Theo:
+„Sonnenfleck schlägt alles" (Echo S2-1 K15). Kette, winziger goldener Schlüssel.
+*Plan:*
 Sonnenaufgang bei den Lagerhallen. Halder kniet vor dem Geist. Er fragt. Der Geist antwortet —
 sein wahres Bedürfnis (Abschnitt B). Nora sagt nur: „Nicht entscheiden. Fragen." Das Schloss
 öffnet sich von selbst, bevor Halder den Schlüssel ansetzt. Der Geist geht. Nichts brennt.
