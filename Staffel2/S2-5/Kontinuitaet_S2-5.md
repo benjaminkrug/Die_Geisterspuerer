@@ -289,7 +289,7 @@ Marie, Staffel 3.
 
 - ✅ Akt 1 — Hinsehen (K1–K4): K1, K2 (26.10.), K3, K4 (27.10.) geschrieben
 - 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.), K6 (28.10.), K7, K8, K9 (02.11.) → **Akt 2 abgeschlossen**
-- ⬜ Akt 3 — Was er nie gefragt hat (K10–K13)
+- 🔶 Akt 3 — Was er nie gefragt hat (K10–K13): K10 (02.11.)
 - ⬜ Akt 4 — Der letzte Schlüssel (K14–K18)
 
 ## ZEITLINIE (Ist)
@@ -309,6 +309,25 @@ Marie, Staffel 3.
 | K6 | Tag 1, Abend (direkt im Anschluss) | Noras Zimmer, alle drei auf dem Boden; Mama kocht in der Küche (Töpfe, summt) |
 
 | K7 | Tag 1, Abend → Frieda fährt mit dem Bus „um halb" | Abendessen in der Küche (Nudeln mit Tomaten), dann Noras Zimmer |
+
+| K10 | Tag 2, 19 Uhr → ~19.40 | Mama zur Nachtschicht; Rad nach Westen; Werkstatt, noch hell |
+
+**Neu festgelegt in K10 (ab hier Kanon):** Mama geht um sieben („Um zehn ist Licht aus … Und keine
+Experimente!" — Theo: „Wir sind Uhrenforscher. Wir wissen, wann zehn ist."). Schatten hat an der Tür gekratzt, bis
+Nora ihn mitnahm; an der Bahnschranke erschöpft. **Frieda wartet auf dem Hof** auf einem umgedrehten Eimer;
+**Halder kam in der Nacht Tag 1→2 um zwei heim, Frieda stellte sich schlafend, um sechs war er wieder weg**; sein
+Wagen steht hinter der Werkstatt. **Seitentür: neuer glänzender Riegel, vier frische Schrauben; Friedas Schlüssel
+am roten Band.** „Kommt rein." (Echo „Kommt nicht wieder", S2-2 K12). **Die Fäden in der Werkstatt:** aus jedem
+der neunundneunzig Schlösser einer, straff, kalt, ohne Glanz, kreuz und quer, „wie ein Netz aus Atemluft" — **sie
+enden mitten in der Luft**: an Geistern, die so verblasst sind, dass man sie nicht mehr sieht (beim langen
+Hinsehen fast „ein Ärmel … eine Schulter"). Nora: „Die sind alle hier. Die waren die ganze Zeit hier." / „Weil sie
+schon so lange hier sind." Schatten reißt sich los, springt an Fadenenden hoch; **Theo hält ihn (Halt 2 von 3)**,
+dann zu Frieda. Nora bleibt an der Tür. **Uhrenwand:** Standuhr (Zwölf unten), Küchenuhr (springender Zeiger),
+rückwärts laufende Uhr neben der Tür, Reiseuhr auf zwölf, **neu daneben: die Kontrolluhr des Wächters** — rund,
+schwer, schwarzes Ledergehäuse, abgewetzter Riemen, **Zeiger auf kurz vor sechs**; darunter neues weißes Etikett
+mit Zahl und Häkchen. Halder hat sie in der Nacht vom Haken im Häuschen geholt (K9: leerer Haken). **Halder** sitzt
+am Werktisch, Rücken zur Tür; unterste Schublade ganz aufgezogen, leer, helles Rechteck im Holz. Sein einziges
+Wort: „Frieda." — „Ja. Ich bin's." Er steht auf (Stuhl schabt), dreht sich um.
 
 | K9 | Tag 2, ~8.10 Uhr (Theos Handy) | Lagerhallen; Halders Wagen fehlt; Tore still; Wächter im Häuschen |
 
@@ -452,8 +471,12 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 | K7 | 1.127 | 30,9 % ³ | 0 | 110 | 0,9 | 2,7 % |
 | K8 | 954 | 31,9 % | 0 | 80 | 0,0 | 4,4 % |
 | K9 | 1.054 | 31,1 % | 0 | 105 | 1,9 | 4,3 % |
+| K10 | 1.255 | 16,9 % ⁴ | 0 | 149 | 2,4 | 1,2 % |
 
 Akt 2 gesamt (K5–K9, nach Nachanalyse 02.11.): 5.232 W, Dialog 32,1 %.
+⁴ K10 = Bild-Höhepunkt (Akt-3-Auftakt): Der Inhalt ist, was Nora **sieht** — das Netz, die Uhrenwand, die
+leere Schublade. Wie K4 bewusst unter 20 %. Dialog nur dort, wo er natürlich ist (Hof, Theos Fragen, Frieda an
+der Uhrenwand); Halder sagt ein Wort. K11 muss das ausgleichen (Frieda/Halder-Dialog).
 
 ¹ K4 = Akt-1-Höhepunkt (Rückriss); der Spannungs-Prüfplan erlaubt bei Action-Höhepunkten unter 20 %.
 Akt 1 gesamt (K1–K4): ~4.760 W, Dialog ~31 %.

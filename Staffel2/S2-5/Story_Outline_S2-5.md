@@ -402,8 +402,8 @@ Bruchstücke seiner Geschichte, nicht die Lösung (die bekommt nur, wer fragt, u
 | # | Kapitel | Punkt | Herkunft |
 |---|---|---|---|
 | O1 ✅ K8 | K8–K10 | **Wo ist Frieda an Tag 2 tagsüber?** Nicht in der Werkstatt (dort wartet Halder seit dem Morgen). Sie stößt erst abends am Hof dazu (Szenenplanung K10, Schritt 1). | K7 (Logik) |
-| O2 | K10 oder K11 | **Ein Satz, warum Frieda es ihm nicht noch in der Nacht gesagt hat**, obwohl sie fürchtete, er öffnet die Schublade „heute Nacht" (z. B. er kam erst spät heim und ging vor Tagesanbruch wieder). | K7 (B9) |
-| O3 | K10 | **Halders Ritual einlösen:** Er hat die Wächter-Uhr aufgehängt, sich an den Werktisch gesetzt, um die Zeitungen zu lesen — und die Schublade leer gefunden. Als Bild zeigen (Stuhl am Werktisch, offene leere Schublade), nicht erklären. | K7 (B22) |
+| O2 ✅ K10 | K10 oder K11 | **Ein Satz, warum Frieda es ihm nicht noch in der Nacht gesagt hat**, obwohl sie fürchtete, er öffnet die Schublade „heute Nacht" (z. B. er kam erst spät heim und ging vor Tagesanbruch wieder). | K7 (B9) |
+| O3 ✅ K10 | K10 | **Halders Ritual einlösen:** Er hat die Wächter-Uhr aufgehängt, sich an den Werktisch gesetzt, um die Zeitungen zu lesen — und die Schublade leer gefunden. Als Bild zeigen (Stuhl am Werktisch, offene leere Schublade), nicht erklären. | K7 (B22) |
 | O4 | K10–K12 | **Theo steht bei Frieda, Nora hinten.** Nora hält sich sichtbar zurück und tritt erst vor, wenn es um den Wächter geht (K13). | K7 (B8, B21) |
 | O5 | K11 | Frieda hat das Schublade-Schloss selbst geknackt — Halder hat es ihr mit sechs beigebracht. Möglicher Halder-Satz; nicht Pflicht, aber naheliegend. | K5 (B18) |
 | O6 | K12 | **Halder rechnet selbst** (23.20 → zwölf → vierzig Minuten). Theo hat es in K6 schon ausgerechnet — er schweigt jetzt; die Wiederholung wirkt nur, weil es diesmal der Uhrmacher tut. | K6 (B7) |
@@ -412,12 +412,25 @@ Bruchstücke seiner Geschichte, nicht die Lösung (die bekommt nur, wer fragt, u
 | O9 | K12 | Reiseuhr-Etikett „wie bei allen anderen" (K6 erinnert, nicht gedeutet) → Halder zählt sich selbst zu den Gebundenen; das Häkchen frischt er jedes Mal auf. | K6 (A10) |
 | O10 | K11–K12 | Ortsnamen festhalten: Färbergasse (Ausbruch), Mühlgraben (Haus des Geistes), alte Bahnbrücke am anderen Ende der Stadt (Halders Versuch). Ilses Straße bleibt ungenannt. | K6 |
 | O12 | K14 | **Übergabesatz einlösen:** „Keine besonderen Vorkommnisse" (K9) — Nora kennt ihn „irgendwoher" = Mamas Schichtübergabe im Krankenhaus (Echo K2 „Wie Mama im Krankenhaus"). Erst in K14 klickt es; das Wort „Ablösung" fällt erst dort. | K9 (D2) |
+| O14 | K16 | **Die Neunundneunzig sind in der Werkstatt, aber verblasst** (K10: Fäden enden in der Luft; „Weil sie schon so lange hier sind"). Beim Lösen müssen sie **wieder sichtbar werden**, bevor sie gehen — das trägt die „Bilder von Gehenden" und die drei, die bleiben. Nicht widersprechen: Grete war in S2-2 erst nach langem Hinsehen fest. | K10 |
+| O15 | K14 | **Die Kontrolluhr des Wächters hängt in der Werkstatt** (steht auf kurz vor sechs = er wartete auf die Sechs-Uhr-Ablösung). Möglich und stark: Halder bringt sie in K14 mit. Mindestens muss klar sein, was mit ihr nach der Ablösung geschieht. | K10 |
+| O16 | K11–K15 | **Nicht verallgemeinern:** Dass Halder zu jedem Schloss einen Gegenstand des Geistes holt, ist nur für den Wächter belegt. Andere Uhren nicht nachträglich als „Uhren der Geister" erklären, ohne S2-2 K4–K6 zu prüfen. | K10 |
 | O13 | K14 | Der Wächter sagt Nora nicht, wer kommen soll („Weil du's nicht bist"). In K14 muss Halder **ihn** fragen — nicht Nora übersetzen lassen. Seinen Namen (Konrad) sagt er Halder, nicht den Kindern. | K9 (B5, B17) |
 | O11 | K18 | **Mia:** „Du hilfst immer irgendwem." (K7) — im Epilog ein kleiner, echter Satz, der darauf antwortet; gleich formulieren. **Kuchen-Schuld** einlösen (B15). | K2, K7 (B10, B15) |
 
 ## AKT 3 — Was er nie gefragt hat (K10–K13) · Tag 2 Abend
 
-### Kapitel 10 – „Neunundneunzig Fäden"
+### Kapitel 10 – „Neunundneunzig Fäden" ✅ geschrieben (2026-11-02)
+*Ist-Stand:* Mama geht um sieben („Um zehn ist Licht aus … keine Experimente!"). Weg wie S2-2; Schatten an der
+Bahnschranke erschöpft, hat an der Tür gekratzt. Frieda wartet auf dem Hof: Wagen steht hinten seit heute früh;
+**O2:** „Er kam heute Nacht erst um zwei … Ich hab so getan, als ob ich schlafe." Theo/Frieda: „Ich hab trotzdem
+Angst." — „Ich auch. Falls das hilft." Neuer Riegel, Friedas Schlüssel am roten Band, „Kommt rein." **Die Fäden
+enden mitten in der Luft** — an den Geistern, die man nicht mehr sieht (Grete-Echo; „Weil sie schon so lange
+hier sind"). Schatten reißt sich los, Theo hält ihn (Halt 2), geht zu Frieda; Nora bleibt an der Tür. Uhrenwand:
+rückwärts laufende Uhr, Reiseuhr auf zwölf, **neu: die Kontrolluhr des Wächters** (kurz vor sechs), Etikett
+frisch — Nora: „Die hat er geholt. Heute Nacht." (leerer Haken K9). Halder am Werktisch, Schublade leer, sagt nur
+„Frieda.", dreht sich um.
+*Plan:*
 Überleitungszeile für den Weg (Serienmuster). Seitentür, neuer Riegel, Friedas Schlüssel. Drinnen:
 Regale, Uhren, die rückwärts laufende an der Tür, die Reiseuhr auf zwölf. Halder ist da — und
 darum sind die Fäden sichtbar, alle. Neu an der Wand: eine Uhr, die gestern noch nicht da war —
