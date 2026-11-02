@@ -379,7 +379,16 @@ Weiterweg rechnet Nora nach: Neunundneunzig warten seit Mai, und sie waren nie w
 (Fundliste B3). **Humor:** Theo, sanft.
 **Cliffhanger [GEDANKE/ENTSCHLUSS]:** Drei Monate. Heute nicht mehr.
 
-### Kapitel 9 – „Bring ihn her" (ABSCHLUSS AKT 2)
+### Kapitel 9 – „Bring ihn her" (ABSCHLUSS AKT 2) ✅ geschrieben (2026-11-02)
+*Ist-Stand:* Schatten pausiert unterwegs zweimal (Theo: „einen Anhänger … mit Kissen"). Halders Wagen fehlt.
+**Die Tore sind still** — „Ruhiger heißt nicht besser." Schatten legt sich vor das Häuschen und steht nicht auf
+(Theo: „Dann bleib ich bei ihm. Einer muss ja."). Der Wächter geht sechs Schritte hin und her, an der Schwelle
+reißt es ihn zurück; kein Faden sichtbar. **Übergabesatz:** „Rundgang acht Uhr. Tore eins bis sechs. Keine
+besonderen Vorkommnisse." Nora verspricht nichts, sie **fragt**: „Was brauchen Sie?" — „Das hat mich noch keiner
+gefragt." Bruchstücke (Laster nachts, vierzig Jahre; „die Stellung halten, bis einer kommt"; im Frühjahr
+hingesetzt, „Um sechs kommt einer"; „Es ist keiner gekommen."). „Weil du's nicht bist." — „Ich hab Sie wenigstens
+gefragt." — „Ja. Das hast du."
+*Plan:*
 Lagerhallen. Der gebundene Geist, schwächer, in Schmerzen. Nora hört zu, so weit er sie lässt —
 Bruchstücke seiner Geschichte, nicht die Lösung (die bekommt nur, wer fragt, und er will Halder).
 **Schatten:** liegt vor der Ruine, steht nicht auf. **Humor:** ein trockener Theo-Satz.

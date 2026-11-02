@@ -284,7 +284,7 @@ Marie, Staffel 3.
 ## AKT-FORTSCHRITT
 
 - ✅ Akt 1 — Hinsehen (K1–K4): K1, K2 (26.10.), K3, K4 (27.10.) geschrieben
-- 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.), K6 (28.10.), K7, K8 (02.11.)
+- 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.), K6 (28.10.), K7, K8, K9 (02.11.) → **Akt 2 abgeschlossen**
 - ⬜ Akt 3 — Was er nie gefragt hat (K10–K13)
 - ⬜ Akt 4 — Der letzte Schlüssel (K14–K18)
 
@@ -305,6 +305,21 @@ Marie, Staffel 3.
 | K6 | Tag 1, Abend (direkt im Anschluss) | Noras Zimmer, alle drei auf dem Boden; Mama kocht in der Küche (Töpfe, summt) |
 
 | K7 | Tag 1, Abend → Frieda fährt mit dem Bus „um halb" | Abendessen in der Küche (Nudeln mit Tomaten), dann Noras Zimmer |
+
+| K9 | Tag 2, ~8.10 Uhr (Theos Handy) | Lagerhallen; Halders Wagen fehlt; Tore still; Wächter im Häuschen |
+
+**Neu festgelegt in K9 (ab hier Kanon):** Schatten pausiert zweimal, trinkt aus Noras Hand, sieht nach Norden.
+**Seit dem Schloss rüttelt der Wächter nicht mehr an den Toren** — er kommt nicht über die Schwelle; sein Rundgang
+ist **sechs Schritte Fenster–Tür** im leeren Häuschen (Holzboden, ein leerer Haken; kein Stuhl mehr). Blasser als
+am Vortag („wie eine Zeichnung, die jemand halb weggewischt hatte"), Mütze weg. **Übergabesatz:** „Rundgang acht
+Uhr. Tore eins bis sechs. Keine besonderen Vorkommnisse." — Nora kennt ihn, weiß nicht woher (gemeint: Mamas
+Schichtübergabe; **erst K14 auflösen**). Schatten liegt vor dem Häuschen, steht nicht auf, winselt einmal; Theo
+bleibt bei ihm. **Seine Geschichte (Bruchstücke):** vierzig Jahre, nachts kamen die Laster, Tore auf und zu; dann
+keine Laster, keiner vom Büro; „Der Chef hat gesagt, ich soll die Stellung halten, bis einer kommt."; im Frühjahr
+müde hingesetzt, „Um sechs kommt einer … Es kommt immer einer." — „Es ist keiner gekommen."; „Da draußen rüttelt
+keiner mehr. Da kann jetzt jeder rein." **Nora fragt zum ersten Mal: „Was brauchen Sie?"** — „Das hat mich noch
+keiner gefragt." — „Weil du's nicht bist … Du hast mich hier nicht festgemacht. Du kannst mich auch nicht
+losmachen." **Er nennt keinen Namen.** Das Wort „Ablösung" fällt nicht.
 
 | K8 | Tag 2, ~6.30 → 7 Uhr (Kirchturmuhr, sieben Schläge) | Mama schläft (vor der Nachtschicht lange); Zettel; Park mit dem Rad; danach Richtung Lagerhallen |
 
@@ -432,6 +447,7 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 | K6 | 986 | 34,6 % | 0 | 159 ² | 1,0 | 5,2 % |
 | K7 | 1.134 | 30,7 % ³ | 0 | 110 | 0,9 | 2,7 % |
 | K8 | 964 | 31,5 % | 0 | 80 | 0,0 | 4,4 % |
+| K9 | 1.073 | 30,6 % | 0 | 105 | 1,9 | 2,9 % |
 
 ¹ K4 = Akt-1-Höhepunkt (Rückriss); der Spannungs-Prüfplan erlaubt bei Action-Höhepunkten unter 20 %.
 Akt 1 gesamt (K1–K4): ~4.760 W, Dialog ~31 %.

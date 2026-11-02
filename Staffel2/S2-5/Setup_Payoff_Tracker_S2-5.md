@@ -54,12 +54,12 @@ Clara); Frau Brandt/Jule; Kubiak; die zwölf Markierungen.
 | # | Setup | Payoff | Status |
 |---|---|---|---|
 | B1 | Rolltore rütteln der Reihe nach, wie auf einem Rundgang (K1); „Hier hat keiner was verloren" (K2); optional Kontrollkästen an den Toren | K14: Er ist der Wächter, er braucht seine Ablösung (faires Rätsel, siehe D2) | 🔶 K1 gesetzt: nummerierte Kästen („Briefkästen. Für Lagerhallen."), Tore rütteln „genau nach den Nummern. Ohne Eile. Gründlich." |
-| B2 | Der Wächter „antwortet" (K2, Band-3-Probe: kein Echo) | K9/K14: Man kann mit ihm reden — wenn der Richtige fragt | 🔶 K2 gesetzt („Wie spät ist es?" — „Zehn nach sechs.") |
+| B2 | Der Wächter „antwortet" (K2, Band-3-Probe: kein Echo) | K9/K14: Man kann mit ihm reden — wenn der Richtige fragt | 🔶 K2 gesetzt („Wie spät ist es?" — „Zehn nach sechs."); K9: Nora fragt richtig („Was brauchen Sie?" — „Das hat mich noch keiner gefragt."), bekommt Bruchstücke, aber nicht die Antwort |
 | B15 | **Theos Kuchen-Schuld:** „Du schuldest mir einen Kuchen. Einen echten." (K2), nachdem Nora das Codewort ignoriert | K18: Nora löst sie ein (erster Schultag) — Pflicht, sonst unbezahlt | geplant |
 | B16 | Schatten knurrt das Häuschen an, nicht den Wächter (K2) | K4: die Falle darin, der Rückriss | ✅ K4 (Falle in der Ritze der Schwelle) |
 | B3 | ~~Halder: „Ich weiß, was er braucht."~~ **korrigiert 27.10.** (widersprach S2-3 K12: „Man darf nie sicher sein, dass man weiß, was ein Geist braucht"). Jetzt K3: „Man kann nie sicher sein, was einer braucht … Also hält man fest. Bis man sicher ist." — „Und wann sind Sie sicher?" — „Nie." | K14: Er fragt — und wird dadurch sicher. Die Schleife „nie sicher → nie fragen → nie sicher" bricht | 🔶 K3 gesetzt |
-| B4 | Der erste Faden, nur weil Halder danebensteht (K4) | K9 kein Faden (Halder fehlt); K10 neunundneunzig; K16 erlöschen | 🔶 K4 gesetzt (sichtbar mit Halder, verschwindet nach seiner Abfahrt) |
-| B5 | Der Wächter: Er redet nur mit dem, der ihn festgemacht hat (K4, K9) | K14 | 🔶 K4 („Mit euch Kindern nicht … Der soll herkommen und mir das ins Gesicht sagen.") — K9 darf das nicht wörtlich wiederholen |
+| B4 | Der erste Faden, nur weil Halder danebensteht (K4) | K9 kein Faden (Halder fehlt); K10 neunundneunzig; K16 erlöschen | 🔶 K4 gesetzt (sichtbar mit Halder, verschwindet nach seiner Abfahrt); K9 ✅ kein Faden („Halder ist nicht da. Darum sieht man ihn nicht. Aber er ist da.") |
+| B5 | Der Wächter: Er redet nur mit dem, der ihn festgemacht hat (K4, K9) | K14 | 🔶 K4 („Mit euch Kindern nicht … Der soll herkommen und mir das ins Gesicht sagen.") — K9 ✅ ohne Wiederholung: „Weil du's nicht bist … Du hast mich hier nicht festgemacht. Du kannst mich auch nicht losmachen." / „Bring mir den, der mich festgemacht hat." |
 | B17 | Der Wächter kennt Halders Namen (K4, von Nora) | K14: er spricht ihn an | geplant |
 | B6 | Der ungeöffnete Brief (K5) | K6 geöffnet; K11 Halder erkennt ihn; K12 er sagt, warum | 🔶 K5 gesetzt; K6 geöffnet ✅ |
 | B18 | Frieda knackt Schlösser seit sie sechs ist (K5) | später nutzbar: z. B. Seitentür/Riegel K10 ohne Schlüssel, oder bewusst *nicht* nutzen, wenn es um die Reiseuhr geht (sie könnte, tut es aber nicht — die Uhr ist seine) | geplant |
@@ -122,7 +122,7 @@ in Schritt 3 korrigieren.
 | K2 | „Hier hat keiner was verloren!"; Taschenlampe; Arbeitsjacke; er antwortet; **„stempelt" am Kasten** (Theo: „Wie Mama im Krankenhaus"); „Schicht", „Chef"; **sieht an der Häuschentür den Weg hinunter, als käme jemand** | Leser, Nora halb |
 | K3 | Halder: „Wer da früher gewohnt hat" → das Wächterhäuschen | Leser |
 | K4 | Er redet nur mit dem, der ihn festgemacht hat | Nora |
-| K9 | Bruchstücke: die Nacht, in der er starb, kam niemand; er kann nicht weg „ohne dass einer kommt" | Leser kann lösen |
+| K9 ✅ | „Rundgang acht Uhr. Tore eins bis sechs. **Keine besonderen Vorkommnisse.**" (Übergabesatz ins Leere — Nora kennt ihn „irgendwoher": Mamas Schichtübergabe, nicht aufgelöst); „Der Chef hat gesagt, ich soll die Stellung halten, **bis einer kommt**."; „Um sechs kommt einer … Es kommt immer einer." — „Es ist keiner gekommen."; Nora: „Puzzleteile mit der bunten Seite nach unten" — sagt das Wort nicht | Leser kann lösen |
 | K14 | Halder fragt; „Sie sind abgelöst." | Auflösung |
 
 **Fairness:** Ab K9 hat der Leser alles, was er zum Lösen braucht. Nora löst es **nicht** selbst —
