@@ -27,12 +27,13 @@
 | L9 | 🟡 | Wiederholte Sätze K4/K14 („nach getaner Arbeit nach Hause") und K12/K16 („wie eine Lampe …") | — | — |
 | L10 | ⚪ | Skript meldet K6, K7, K13 „ohne Schatten-Reaktion" | — | Suchmuster zu eng |
 | Q1 | 🟡 | K1 ist mit 1.462 W das längste Kapitel und liegt über dem Reihen-Schnitt | K1 | — |
-| Q2 | ✅ | Einstieg, Leseprobe, tote Zonen, Entlastungsventil — alle im grünen Bereich, teils Reihen-Bestwert | — | — |
+| Q2 | ✅ / ⚠️ | Einstieg und Leseprobe im grünen Bereich; tote Zone kurz. **Entlastungsventil nicht belastbar gemessen** (s. F1) | — | — |
 | Q3 | ⏳ | Teil B (Versprechen: Cover/Titel/Beschreibung gegen Buch) — erst prüfbar, wenn Cover und KDP-Text stehen | — | Merkpunkte unten |
 | Q4 | ⏳ | A3: keine Leseprobe auf einen nächsten Band — darf **nicht** erfunden werden | Rahmen | Merkpunkt |
 
-**Kein 🔴.** Stopp-Regel des Logik-Prüfplans (Abschnitt 8) wäre fast erreicht: vier 🟠, alle mit Ein-Wort- bis
-Ein-Satz-Fix.
+~~**Kein 🔴.**~~ **Korrigiert (Selbstprüfung, s. Nachtrag):** vier 🔴 — POV-Brüche in K6, K14, K16, K17 (zwei davon
+vom Stimmen-Pass erzeugt), vom Skript nicht erkannt; behoben als V1. Dazu die vier 🟠 L1–L4 und zwei weitere 🟠 aus
+der Selbstprüfung (V2 K10/K11-Schlussform, V3 Titel „Neunundneunzig"), alle behoben.
 
 ---
 
@@ -53,6 +54,11 @@ Ein-Satz-Fix.
 | 10–12 | Echo / Pronomen / Tageszeit | 12 / 0 / 2 | Echo = Anaphern (gewollt); Tageszeit-Sprünge K5/K7 = Erinnerungen, keine Sprünge ⚪ |
 
 ## Durchgang B — Lesen mit acht Fragen
+
+> ⚠️ **Einschränkung (Selbstprüfung):** B5 (Weltregeln) und B6 (Gegenstände) wurden in diesem Schritt neu geprüft.
+> B1 (Blocking), B2 (Wissen) und B7 (Stimme) stützten sich auf frühere Lesedurchgänge — vor mehreren
+> Überarbeitungen —, nicht auf einen frischen Kapitel-für-Kapitel-Durchgang mit der Kontinuitätsdatei. Die
+> POV-Brüche (V1) zeigen, dass das eine echte Lücke war.
 
 - **B1 Blocking:** Leine, Positionen und Türen K10–K16 nachgezeichnet (Nora an der Tür → tritt in K13 vor; Theo hält
   Schatten K10/K15, lässt in K16 los; Schlüsselbund auf der Schwelle K14). Stimmt.
@@ -151,7 +157,13 @@ Tore). Kürzen hieße eine der beiden schwächen. Qualitätsregel: im Zweifel st
 | S2-2 | 514 W (K5) | 5,9 | 1 von 8 |
 | S2-3 | 759 W (K3) | 4,8 | 3 von 9 |
 | S2-4 | 233 W (K13) | 3,5 | 4 von 33 |
-| **S2-5** | **159 W (K6)** ✅ Reihen-Bestwert | **1,8** ✅ Reihen-Bestwert | 4 von 9 (K4/K12 humorfrei geplant) |
+| **S2-5** | 159 W (K6) — kurz, aber s. u. | ~~1,8~~ nicht belastbar | 4 von 9 — ~~K4/K12~~ s. u. |
+
+> ⚠️ **Korrigiert (Selbstprüfung):** Das Grusel-Suchmuster findet in S2-5 nur **9** Schrecken, davon **5 Fehltreffer**
+> (drei Verneinungen „Er knurrte nicht" in K1/K9/K11, zwei Erinnerungen in K4/K10). Der Mittelwert 1,8 beruht damit
+> auf kaum vier echten Fällen — **kein Reihen-Bestwert**. Die vier „ohne Theo" sind K1, K4 (Erinnerung), K11
+> (Verneinung), K14 — die frühere Angabe „K4/K12 humorfrei geplant" war ungeprüft und falsch (K12 kommt gar nicht
+> vor). Das Skript warnt selbst vor Verneinungen; diese Warnung war übergangen worden.
 
 ### F2 — gelesen
 - **Grusel:** Konkret und malbar (Tore der Reihe nach, der Faden aus der Schwelle, das Netz mit leeren Enden),
