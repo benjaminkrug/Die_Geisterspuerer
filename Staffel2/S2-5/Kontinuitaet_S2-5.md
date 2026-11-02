@@ -289,7 +289,7 @@ Marie, Staffel 3.
 
 - ✅ Akt 1 — Hinsehen (K1–K4): K1, K2 (26.10.), K3, K4 (27.10.) geschrieben
 - 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.), K6 (28.10.), K7, K8, K9 (02.11.) → **Akt 2 abgeschlossen**
-- 🔶 Akt 3 — Was er nie gefragt hat (K10–K13): K10, K11, K12 (02.11.)
+- ✅ Akt 3 — Was er nie gefragt hat (K10–K13): K10, K11, K12, K13 (02.11.) → **Akt 3 abgeschlossen**
 - ⬜ Akt 4 — Der letzte Schlüssel (K14–K18)
 
 ## ZEITLINIE (Ist)
@@ -309,6 +309,24 @@ Marie, Staffel 3.
 | K6 | Tag 1, Abend (direkt im Anschluss) | Noras Zimmer, alle drei auf dem Boden; Mama kocht in der Küche (Töpfe, summt) |
 
 | K7 | Tag 1, Abend → Frieda fährt mit dem Bus „um halb" | Abendessen in der Küche (Nudeln mit Tomaten), dann Noras Zimmer |
+
+| K13 | Tag 2, ~20.30 → dunkel | Werkstatt, dann Seitentür; Mond über dem Hof |
+
+**Neu festgelegt in K13 (ab hier Kanon):** **Nora tritt vor** (ein Faden streift ihr Haar, „so kalt, dass ihre
+Kopfhaut kribbelte") und richtet aus: „Er will mit Ihnen reden. Nur mit Ihnen." / sechs Schritte, er wird blasser,
+„Wie die hier." / „Das hat mich noch keiner gefragt." / „Bring mir den, der mich festgemacht hat." **Halder:**
+„Und wenn er es mir sagt, und ich verstehe es falsch? … Wie damals?" — „Damals war es nicht das Falsche." — „Das
+weiß ich seit zehn Minuten. Dreißig Jahre lang wusste ich das Gegenteil. So schnell geht das nicht weg." **Frieda:**
+„Du hast nie einen gefragt. Keinen. Nicht einen von denen hier. Nicht den Wächter. Nicht Ilse." — „Nein. Keinen."
+**Verabredung: morgen um sechs**, an den Lagerhallen; Kinder mit dem Rad, Treffpunkt dort. Halders Begründung:
+„Weil er um sechs am ruhigsten ist … Kurz vor sechs steht er immer an der Tür und sieht den Weg hinunter. Als würde
+er auf etwas warten." Nora: ein Puzzleteil umgedreht (noch nicht eingeordnet — **das Wort „Ablösung" ist weiter
+nicht gefallen**). Halder hebt die Hand zur Kontrolluhr, berührt sie nicht. **Schatten** geht direkt neben Halder
+zur Tür (Theo: „Er läuft bei Fuß. Bei dem."); Halder streicht ihm zum Abschied über den Kopf. Halder: „Habt ihr
+Licht an den Rädern? … Fahrt nicht über die Gleise. Nehmt die Straße." (Theo: klang wie Mama). **Frieda bleibt bei
+ihrem Vater in der Werkstatt** (leere Stofftasche). **Die Kette:** ganz dünn, mattes Silber, daran „etwas Kleines,
+kaum größer als ein Fingerglied", glänzt kurz — „Was ist das?" — „Nichts." Schlüsselbund hängt am Haken neben der
+Seitentür. Halder schließt von innen ab.
 
 | K12 | Tag 2, ~20 Uhr (direkt im Anschluss) | Werkstatt; Fäden unverändert sichtbar |
 
@@ -512,6 +530,7 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 | K10 | 1.255 | 16,9 % ⁴ | 0 | 149 | 2,4 | 1,2 % |
 | K11 | 938 | 31,7 % | 0 | 101 | 2,2 | 3,2 % |
 | K12 | 1.013 | 29,1 % ⁵ | 0 | 89 | 1,0 | 8,2 % |
+| K13 | 894 | 29,3 % | 0 | 118 | 1,1 | 3,4 % |
 
 Akt 2 gesamt (K5–K9, nach Nachanalyse 02.11.): 5.232 W, Dialog 32,1 %.
 ⁴ K10 = Bild-Höhepunkt (Akt-3-Auftakt): Der Inhalt ist, was Nora **sieht** — das Netz, die Uhrenwand, die

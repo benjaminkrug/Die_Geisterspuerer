@@ -404,7 +404,7 @@ Bruchstücke seiner Geschichte, nicht die Lösung (die bekommt nur, wer fragt, u
 | O1 ✅ K8 | K8–K10 | **Wo ist Frieda an Tag 2 tagsüber?** Nicht in der Werkstatt (dort wartet Halder seit dem Morgen). Sie stößt erst abends am Hof dazu (Szenenplanung K10, Schritt 1). | K7 (Logik) |
 | O2 ✅ K10 | K10 oder K11 | **Ein Satz, warum Frieda es ihm nicht noch in der Nacht gesagt hat**, obwohl sie fürchtete, er öffnet die Schublade „heute Nacht" (z. B. er kam erst spät heim und ging vor Tagesanbruch wieder). | K7 (B9) |
 | O3 ✅ K10 | K10 | **Halders Ritual einlösen:** Er hat die Wächter-Uhr aufgehängt, sich an den Werktisch gesetzt, um die Zeitungen zu lesen — und die Schublade leer gefunden. Als Bild zeigen (Stuhl am Werktisch, offene leere Schublade), nicht erklären. | K7 (B22) |
-| O4 | K10–K12 | **Theo steht bei Frieda, Nora hinten.** Nora hält sich sichtbar zurück und tritt erst vor, wenn es um den Wächter geht (K13). | K7 (B8, B21) |
+| O4 ✅ K10–K13 | K10–K12 | **Theo steht bei Frieda, Nora hinten.** Nora hält sich sichtbar zurück und tritt erst vor, wenn es um den Wächter geht (K13). | K7 (B8, B21) |
 | O5 ✅ K11 | K11 | Frieda hat das Schublade-Schloss selbst geknackt — Halder hat es ihr mit sechs beigebracht. Möglicher Halder-Satz; nicht Pflicht, aber naheliegend. | K5 (B18) |
 | O6 ✅ K12 | K12 | **Halder rechnet selbst** (23.20 → zwölf → vierzig Minuten). Theo hat es in K6 schon ausgerechnet — er schweigt jetzt; die Wiederholung wirkt nur, weil es diesmal der Uhrmacher tut. | K6 (B7) |
 | O7 ✅ K12 | K12 | **Der Brief nennt keine Namen.** Halder wollte nicht lesen, wer gestorben ist — dreißig Jahre Angst vor einem Satz, der gar nicht drinsteht. Frieda oder Nora sagt es, nicht der Erzähler. | K6 (B19) |
@@ -485,7 +485,18 @@ seinen Füßen (vgl. Ilse, S2-3 K13). **Humor:** keiner (Ausnahme 2).
 **Cliffhanger [ERKENNTNIS]:** Halder: „Und der von den Lagerhallen?" Nora sieht: Der Beweis hat ihm
 den Grund genommen, nicht die Angst.
 
-### Kapitel 13 – „Fragen Sie ihn" (ABSCHLUSS AKT 3)
+### Kapitel 13 – „Fragen Sie ihn" (ABSCHLUSS AKT 3) ✅ geschrieben (2026-11-02)
+*Ist-Stand:* Theo: „Nora." — Nora tritt vor (B21) und richtet aus, ohne zu übersetzen (O13): „Er will mit Ihnen
+reden. Nur mit Ihnen." / „Das hat mich noch keiner gefragt." / „Bring mir den, der mich festgemacht hat." Halders
+Angst: „Wenn ich etwas tue, und es ist das Falsche? Wie damals?" — „Das weiß ich seit zehn Minuten. Dreißig Jahre
+lang wusste ich das Gegenteil." Frieda: „Du hast nie einen gefragt. Keinen. … Nicht Ilse." (Nora erinnert Ilses
+S2-3-K15-Satz) — Halder: „Nein. Keinen." **Um sechs**, „weil er um sechs am ruhigsten ist … Kurz vor sechs steht
+er immer an der Tür und sieht den Weg hinunter. Als würde er auf etwas warten." Nora sieht die Kontrolluhr (kurz
+vor sechs): „als hätte jemand ein Puzzleteil umgedreht. Nur eins." Theo: „mehr Sonnenaufgänge … als in meinem
+ganzen Leben" (Humor vor dem Heimweg, nicht danach — der Cliffhanger muss das Kapitel beenden). „Doch",
+sagten Nora und Frieda gleichzeitig. Schatten geht „bei Fuß. Bei dem." Halder: „Habt ihr Licht an den Rädern? …
+Nehmt die Straße." Frieda bleibt bei ihrem Vater. Halder bückt sich zu Schatten → die Kette rutscht heraus.
+*Plan:*
 Nora: „Er will mit Ihnen reden. Nur mit Ihnen." Frieda: „Du hast nie einen gefragt. Keinen." (Echo
 Ilse.) Halder willigt ein: morgen bei Sonnenaufgang. Als er seinen Schlüsselbund nimmt, sieht Nora
 die dünne Kette an seinem Hals. **Schatten:** begleitet Halder bis zur Tür, das erste Mal ohne
