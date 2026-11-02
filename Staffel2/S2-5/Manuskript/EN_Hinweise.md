@@ -39,4 +39,10 @@
 | K17 | „Grüßt eure Uhren." / „Schöne Grüße von Mama." | Running Gag „Uhrenforscher" (K7/K8/K10) | *Say hi to your clocks.* |
 | K17 | „Das ist kein Plan. Das ist ein Satz." | Rückgriff K1 (Theo) | Gleich übersetzen wie in K1 |
 | K17 | „Ich weiß nicht, was jetzt kommt. Aber ich weiß, was wahr ist." | Schlusssatz Frieda, Antwort auf S2-4 K15 („Ich will es wissen") | *I don't know what comes next. But I know what's true.* |
+| K18 | „*Einen echten.*" / „Schulden." | Einlösung Kuchen-Schuld (K2) | Wortlaut an K2 anlehnen (*A real one.*) |
+| K18 | „Klingt wieder gemütlich." | Rückgriff S2-3 K2 (Theo: „Fand ich eigentlich ganz gemütlich.") | Gleiches Adjektiv wie in der EN-Fassung von S2-3 |
+| K18 | „Du hilfst immer irgendwem." | Wörtlich wie K7, Bedeutung gekippt | **Identisch** zu K7 übersetzen — die Wirkung hängt am gleichen Satz |
+| K18 | „Ich glaub, sie weiß, dass einer weiß, dass sie da sitzt." | Rückgriff K8 (Marie) | Satzbau aus K8 übernehmen |
+| K18 | „Das Codewort ist übrigens immer noch Kuchen." | Rückgriff S2-3 K8 / K1 / K2 | Gleiches Codewort wie überall (*cake*) |
+| K18 | „Nora zählte nicht mit." | Schlusssatz der Staffel, Echo K8 („Nora zählte mit, ohne es zu wollen") | Beide Stellen parallel übersetzen |
 | K1 | „Briefkästen. Für Lagerhallen. Damit sie Post von anderen Lagerhallen kriegen." | Theo-Witz, zugleich fairer Hinweis (Kontrollkästen eines Wächterrundgangs) | Den Hinweis auf nummerierte Kästen erhalten |

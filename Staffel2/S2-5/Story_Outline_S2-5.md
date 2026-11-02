@@ -416,7 +416,7 @@ Bruchstücke seiner Geschichte, nicht die Lösung (die bekommt nur, wer fragt, u
 | O15 ✅ K14 | K14 | **Die Kontrolluhr des Wächters hängt in der Werkstatt** (steht auf kurz vor sechs = er wartete auf die Sechs-Uhr-Ablösung). Möglich und stark: Halder bringt sie in K14 mit. Mindestens muss klar sein, was mit ihr nach der Ablösung geschieht. | K10 |
 | O16 ✅ K11–K16 | K11–K15 | **Nicht verallgemeinern:** Dass Halder zu jedem Schloss einen Gegenstand des Geistes holt, ist nur für den Wächter belegt. Andere Uhren nicht nachträglich als „Uhren der Geister" erklären, ohne S2-2 K4–K6 zu prüfen. | K10 |
 | O13 ✅ K14 | K14 | Der Wächter sagt Nora nicht, wer kommen soll („Weil du's nicht bist"). In K14 muss Halder **ihn** fragen — nicht Nora übersetzen lassen. Seinen Namen (Konrad) sagt er Halder, nicht den Kindern. | K9 (B5, B17) |
-| O11 | K18 | **Mia:** „Du hilfst immer irgendwem." (K7) — im Epilog ein kleiner, echter Satz, der darauf antwortet; gleich formulieren. **Kuchen-Schuld** einlösen (B15). | K2, K7 (B10, B15) |
+| O11 ✅ K18 | K18 | **Mia:** „Du hilfst immer irgendwem." (K7) — im Epilog ein kleiner, echter Satz, der darauf antwortet; gleich formulieren. **Kuchen-Schuld** einlösen (B15). | K2, K7 (B10, B15) |
 
 ## AKT 3 — Was er nie gefragt hat (K10–K13) · Tag 2 Abend
 
@@ -581,7 +581,17 @@ zu. Was danach aus ihm wird, weiß niemand — er auch nicht. Frieda bleibt bei 
 Theo–Frieda. **Schatten:** an Friedas Seite bis zum Tor. **Humor:** warm, Theo.
 **Cliffhanger [DIALOG]:** Frieda: „Ich weiß nicht, was jetzt kommt. Aber ich weiß, was wahr ist."
 
-### Kapitel 18 – „Was bleibt" (EPILOG, ENDE STAFFEL 2)
+### Kapitel 18 – „Was bleibt" (EPILOG, ENDE STAFFEL 2) ✅ geschrieben (2026-11-02)
+*Ist-Stand:* Erster Schultag, Montag. **Kuchen-Schuld eingelöst:** Marmorkuchen, an einer Seite verbrannt, Zettel
+„*Einen echten.*" — „Das ist die Seite für dich." Mama (hat frei): „Wer schuldet wem einen Kuchen?" — „Schulden. …
+Mit Geistern." — „Natürlich." — „Und mit Uhren." Frieda war am Sonntag zum Essen da („zwei Teller Nudeln"). Die
+Standuhr schlägt sieben: „Die stimmt einfach." — Mama: „Wie eine Eins." — Theo: „Klingt wieder gemütlich." Schulweg
+am Park: ein heller Fleck zwischen den Kastanien, beide heben die Hand; Nora: „Ich glaub, sie weiß, dass einer
+weiß, dass sie da sitzt." (Echo Marie K8; nichts versprochen). **Mia** (O11): „Du hilfst immer irgendwem." —
+lächelnd — „Heute bin ich dran. … Und du sitzt neben mir." Nachmittag: Schatten im Sonnenstreifen vor der Standuhr;
+Theo: „Das Codewort ist übrigens immer noch Kuchen. … Und beim nächsten Mal drehst du um." — „Nein." — „Dann musst
+du eben wieder backen." Schluss: „Vier Schläge. / Nora zählte nicht mit."
+*Plan:*
 Ein paar Tage später, erster Schultag. Mia. Mama in der Küche, die Standuhr schlägt — „zu genau" fand Nora sie im
 Juli, heute stimmt sie einfach. Schatten in einem Sonnenfleck. Ein letzter Theo-Satz. Kein
 Cliffhanger, kein Staffel-3-Versprechen, kein Ausschluss — Halders Weg bleibt die offene Tür.

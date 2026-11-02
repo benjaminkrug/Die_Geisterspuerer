@@ -291,7 +291,7 @@ Marie, Staffel 3.
 - ✅ Akt 1 — Hinsehen (K1–K4): K1, K2 (26.10.), K3, K4 (27.10.) geschrieben
 - 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.), K6 (28.10.), K7, K8, K9 (02.11.) → **Akt 2 abgeschlossen**
 - ✅ Akt 3 — Was er nie gefragt hat (K10–K13): K10, K11, K12, K13 (02.11.) → **Akt 3 abgeschlossen**
-- 🔶 Akt 4 — Der letzte Schlüssel (K14–K18): K14, K15, K16, K17 (02.11.)
+- ✅ Akt 4 — Der letzte Schlüssel (K14–K18): K14–K18 (02.11.) → **Rohfassung des Bandes komplett (19.076 W)**
 
 ## ZEITLINIE (Ist)
 
@@ -310,6 +310,18 @@ Marie, Staffel 3.
 | K6 | Tag 1, Abend (direkt im Anschluss) | Noras Zimmer, alle drei auf dem Boden; Mama kocht in der Küche (Töpfe, summt) |
 
 | K7 | Tag 1, Abend → Frieda fährt mit dem Bus „um halb" | Abendessen in der Küche (Nudeln mit Tomaten), dann Noras Zimmer |
+
+| K18 | ~Tag 3 + 5, Montag, erster Schultag: Frühstück 7 Uhr → Schule → Nachmittag (Standuhr schlägt vier) | Küche, Park, Schultor, Wohnzimmer |
+
+**Neu festgelegt in K18 (ab hier Kanon):** Nora hat am Vorabend einen **Marmorkuchen** gebacken (Mama gab die Form),
+an einer Seite zu dunkel; Zettel „*Einen echten.*" **Mama hat frei** an diesem Montag, steht am ersten Schultag immer
+früh auf. **Frieda war am Sonntag zum Essen da** (zwei Teller Nudeln); sie kommt wieder, mit dem Bus. Die Standuhr
+schlägt sieben, „auf die Minute"; Nora: „Die stimmt einfach." Theo: „Klingt wieder gemütlich." **Am Park:** ein heller
+Fleck zwischen den Kastanien (Marie), beide heben kurz die Hand; nichts versprochen. **Mia:** neue Haarspange,
+Freibad-Bräune; „Tut mir leid wegen dem Freibad." — „Hast du ihm geholfen? Dem, der sonst niemanden hat?" — „Ja." —
+„Hat's geklappt?" — „Ja." — „Du hilfst immer irgendwem. Heute bin ich dran. Ich hab Mathe nicht gemacht. Und du sitzt
+neben mir." **Theo geht in die Unterstufe** (gleiche Schule). Nachmittag: Schatten im Sonnenstreifen vor der
+Standuhr. Theo: „Das Codewort ist übrigens immer noch Kuchen." Schluss: „Nora zählte nicht mit."
 
 | K17 | Tag 3, ~8.30 Uhr | Werkstatthof, dann Weg bis zur Bahnschranke; Mama schreibt (zu Hause, legt sich hin) |
 
@@ -600,6 +612,11 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 | K15 | 885 | 20,2 % ⁷ | 0 | 130 | 1,1 | 6,0 % |
 | K16 | 1.059 | 12,7 % ⁸ | 0 | 149 | 1,0 | 7,5 % |
 | K17 | 1.015 | 31,4 % | 0 | 120 | 0,0 | 0,0 % |
+| K18 | 866 | 31,4 % | 0 | 112 | 0,0 | 2,9 % |
+
+**Band gesamt (Rohfassung, 02.11.): 19.076 W, Dialog 28,0 %.** Akt 1 4.750 W / 31,0 % · Akt 2 5.232 W / 32,1 % ·
+Akt 3 4.085 W / 26,2 % · Akt 4 5.009 W / 22,5 %. ⚠️ **Akt 3 und 4 unter 30 %** — Hauptaufgabe der Nachanalyse
+(Phase 4b): prüfen, wo echter Dialog fehlt (v. a. K10, K14–K16), ohne die Bild-Kapitel zu zerreden.
 
 Akt 2 gesamt (K5–K9, nach Nachanalyse 02.11.): 5.232 W, Dialog 32,1 %.
 ⁴ K10 = Bild-Höhepunkt (Akt-3-Auftakt): Der Inhalt ist, was Nora **sieht** — das Netz, die Uhrenwand, die
