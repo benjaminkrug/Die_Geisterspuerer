@@ -110,7 +110,7 @@ Frieda nahm den Brief vom Werktisch und hielt ihn ihm hin, aufgefaltet.
 
 Halder sah auf das Blatt. Er nahm es nicht.
 
-"Keine Namen, Papa. Nur eine Uhrzeit und zwei Straßen." Ihre Stimme brach in der Mitte. Sie redete trotzdem zu Ende. "Du hast dreißig Jahre Angst vor einem Satz gehabt, der gar nicht drinsteht."
+"Keine Namen, Papa. Nur eine Uhrzeit und zwei Straßen." Ihre Stimme brach in der Mitte. Sie redete trotzdem zu Ende. "Dreißig Jahre hast du Angst gehabt. Und da steht's nicht mal drin."
 
 Halder nahm ihr das Blatt aus der Hand. Er las es. Diesmal selbst. Nora sah, wie seine Augen die Zeilen entlanggingen, einmal, zweimal.
 

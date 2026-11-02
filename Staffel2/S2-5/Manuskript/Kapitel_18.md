@@ -82,7 +82,7 @@ Nora hob die Hand. Nur kurz.
 
 "Glaubst du, sie weiß, dass wir das sind?"
 
-"Ich glaub, sie weiß, dass einer weiß, dass sie da sitzt", sagte Nora.
+"Sie hat doch gesagt, das reicht ihr", sagte Nora. "Dass einer weiß, dass sie da sitzt."
 
 Theo hob auch die Hand. Dann gingen sie weiter.
 
@@ -126,7 +126,7 @@ Durch das Fenster fiel ein breiter Streifen Sonne auf den Teppich, genau vor die
 
 Theo saß daneben auf dem Boden, den Rücken ans Sofa gelehnt, das letzte Stück Kuchen auf einem Teller. Nora setzte sich zu ihm.
 
-Eine Weile sagte keiner etwas. Es war eine gute Stille. Die Art, die man nicht füllen muss.
+Eine Weile sagte keiner etwas. Es war eine gute Stille.
 
 "Nora?", sagte Theo.
 

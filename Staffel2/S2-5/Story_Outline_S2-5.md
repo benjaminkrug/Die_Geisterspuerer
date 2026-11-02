@@ -554,7 +554,7 @@ Stoffblumenhut, zwei Hände unter dem Dach, Frau mit angezogenen Knien. Theo: �
 Nora: „Sie waren ganz normal." Frieda: „Die waren die ganze Zeit hier." — Halder: „Ich weiß." Schatten läuft frei,
 niest („Heuschnupfen. Vor Glück."). Der alte Mann: „Spät. Aber nicht zu spät." — Halder: „Es tut mir leid." —
 „Weiß ich." Er wird hell — Halder: „So war es damals. An der Brücke. Genau so." Theo zählt bis fünfundneunzig: „Ich
-hör auf zu zählen. … Weil das keine Zahlen sind." Drei bleiben (Mann am Fenster, Frau am Boden, jemand an der Tür,
+hör auf zu zählen. … Weil das Leute sind." Drei bleiben (Mann am Fenster, Frau am Boden, jemand an der Tür,
 der zu Halder sieht).
 *Plan:*
 Alle Uhren finden dieselbe Zeit; die rückwärts laufende an der Tür dreht vorwärts. Die Schlösser
@@ -586,8 +586,7 @@ Theo–Frieda. **Schatten:** an Friedas Seite bis zum Tor. **Humor:** warm, Theo
 „*Einen echten.*" — „Das ist die Seite für dich." Mama (hat frei): „Wer schuldet wem einen Kuchen?" — „Schulden. …
 Mit Geistern." — „Natürlich." — „Und mit Uhren." Frieda war am Sonntag zum Essen da („zwei Teller Nudeln"). Die
 Standuhr schlägt sieben: „Die stimmt einfach." — Mama: „Wie eine Eins." — Theo: „Klingt wieder gemütlich." Schulweg
-am Park: ein heller Fleck zwischen den Kastanien, beide heben die Hand; Nora: „Ich glaub, sie weiß, dass einer
-weiß, dass sie da sitzt." (Echo Marie K8; nichts versprochen). **Mia** (O11): „Du hilfst immer irgendwem." —
+am Park: ein heller Fleck zwischen den Kastanien, beide heben die Hand; Nora: „Sie hat doch gesagt, das reicht ihr. Dass einer weiß, dass sie da sitzt." (Echo Marie K8; nichts versprochen). **Mia** (O11): „Du hilfst immer irgendwem." —
 lächelnd — „Heute bin ich dran. … Und du sitzt neben mir." Nachmittag: Schatten im Sonnenstreifen vor der Standuhr;
 Theo: „Das Codewort ist übrigens immer noch Kuchen. … Und beim nächsten Mal drehst du um." — „Nein." — „Dann musst
 du eben wieder backen." Schluss: „Vier Schläge. / Nora zählte nicht mit."

@@ -126,7 +126,7 @@ Kein Häkchen diesmal. Kein Smiley. Nur der Satz. Nora legte das Handy mit dem D
 
 "Das war nicht nett von ihr", sagte Theo.
 
-"Doch", sagte Nora. "Es war nur ehrlich."
+"Doch", sagte Nora. "Sie hat ja recht."
 
 ---
 

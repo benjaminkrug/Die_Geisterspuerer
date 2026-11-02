@@ -421,8 +421,7 @@ geschafft. Mit achtzehn. Beim ersten Mal." / „Und ich hab dreißig Jahre gedac
 angezündet." **Schatten legt sich ohne Zögern neben ihn**, Rücken an Halders Schuh; Halders Hand liegt auf seinem
 Fell. **Warum nie geöffnet:** „Weil ich wusste, wer in der Nacht gestorben ist. Ilse. Und die Frau, bei der sie
 gearbeitet hat. … Ich wollte ihre Namen nicht auf einem Blatt sehen, das ich selbst bestellt hatte. Gedruckt. Mit
-Stempel." — Frieda: „Da stehen keine Namen drin … Du hast dreißig Jahre Angst vor einem Satz gehabt, der gar nicht
-drinsteht." Halder liest selbst, faltet „Kante auf Kante": „Ich hätte ihn nur aufmachen müssen." **Die Fäden
+Stempel." — Frieda: „Da stehen keine Namen drin … Dreißig Jahre hast du Angst gehabt. Und da steht's nicht mal drin." Halder liest selbst, faltet „Kante auf Kante": „Ich hätte ihn nur aufmachen müssen." **Die Fäden
 bewegen sich nicht.** Schluss: „Und der von den Lagerhallen?" — die Hand auf Schatten zittert. **Die Angst ist
 geblieben** (→ K13/K14: er geht mit Angst, nicht geheilt).
 
@@ -504,7 +503,7 @@ Uhr hängt. Ich will, dass er sie anguckt, wenn ich's ihm sage."** Theo: „Ich 
 **Mia** (Nachricht): Freibad ab zehn, halbe Klasse, danach grillen, „Letzte Ferienwoche". Nora antwortet ohne
 Umschreiben: „Kann morgen nicht. Ich muss jemandem helfen, der sonst niemanden hat. Tut mir echt leid. Ich wär
 gern gekommen." — **Mia: „Du hilfst immer irgendwem."** (kein Häkchen, kein Smiley). Theo: „Das war nicht
-nett von ihr." — „Doch. Es war nur ehrlich." **Frieda nimmt Zeitungen und Brief wieder mit**, legt nichts
+nett von ihr." — „Doch. Sie hat ja recht." **Frieda nimmt Zeitungen und Brief wieder mit**, legt nichts
 zurück („Dann hab ich's auch versteckt. Dann bin ich genau wie er."). **Halders Ritual:** Wenn ein Schloss
 zugeschnappt ist, holt er die Zeitungen raus und liest sie am Werktisch, alle; Frieda hat es „durch die Tür
 gesehen. Jedes Mal." Schatten stellt sich steif vor die Zimmertür. ⚠️ Friedas „heute Nacht" ist ihre

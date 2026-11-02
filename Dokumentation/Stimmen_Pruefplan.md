@@ -755,3 +755,20 @@ Staffel (S2-2 1,6 %, S2-3 3,8 %, S2-4 1,5 %).
 
 Die in der Gesamtanalyse (Zwischenanalyse S2-5, „Punkt 4") genannten **zu geschliffenen Sätze** stehen fast alle im
 **Dialog** und damit auf der Tabu-Liste. Sie werden nicht mechanisch, sondern einzeln mit dem Autor entschieden.
+
+### Nachtrag: „Punkt 4" — Dialog-Sätze, einzeln vom Autor entschieden (2026-11-02)
+
+Rund 20 auffallend runde Sätze gesichtet. **Bleiben:** Sätze von Erwachsenen/Geistern (Halder, Konrad, Marie, der alte
+Mann), Cliffhanger-Zeilen (Tabu) und bewusste Echos („Das ist kein Plan. Das ist ein Satz."). **Aufgeraut (Autor:
+„alle fünf umsetzen")**, weil sie für 11–13-Jährige zu klug klangen oder der Erzähler erklärte:
+
+| Kap. | vorher | nachher |
+|---|---|---|
+| K7 Nora | „Doch. Es war nur ehrlich." | „Doch. Sie hat ja recht." |
+| K12 Frieda | „Du hast dreißig Jahre Angst vor einem Satz gehabt, der gar nicht drinsteht." | „Dreißig Jahre hast du Angst gehabt. Und da steht's nicht mal drin." |
+| K16 Theo | „Weil das keine Zahlen sind." | „Weil das Leute sind." (nimmt sein eigenes „Wie Leute an der Bushaltestelle" auf) |
+| K18 Nora | „Ich glaub, sie weiß, dass einer weiß, dass sie da sitzt." | „Sie hat doch gesagt, das reicht ihr. Dass einer weiß, dass sie da sitzt." (Marie zitiert statt Aphorismus) |
+| K18 Erzähler | „Es war eine gute Stille. Die Art, die man nicht füllen muss." | „Es war eine gute Stille." |
+
+**Falle 8 schlug einmal zu und wurde behoben:** K16 „Theo sah auf die Leute, die …" stand direkt vor dem neuen „Weil das
+Leute sind" → „Theo sah zu, wie sie …". Zitate in Kontinuität, Outline, Setup-Tracker und EN-Hinweisen nachgezogen.

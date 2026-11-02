@@ -116,9 +116,9 @@ Theo hörte auf, mitten im Wort, und ließ den Finger sinken.
 
 "Warum?", fragte Frieda.
 
-Theo sah auf die Leute, die einer nach dem anderen hell wurden und verschwanden.
+Theo sah zu, wie sie einer nach dem anderen hell wurden und verschwanden.
 
-"Weil das keine Zahlen sind", sagte er.
+"Weil das Leute sind", sagte er.
 
 ---
 
