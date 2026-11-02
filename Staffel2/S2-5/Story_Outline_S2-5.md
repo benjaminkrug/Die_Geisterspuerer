@@ -366,7 +366,13 @@ Freibad, die halbe Klasse kommt — Nora sagt ab, diesmal bewusst, und weiß, wa
 **Cliffhanger [KOMPLIKATION]:** Frieda: Wenn er heute Nacht die Schublade aufmacht, weiß er es
 sowieso.
 
-### Kapitel 8 – „Versprochen"
+### Kapitel 8 – „Versprochen" ✅ geschrieben (2026-11-02)
+*Ist-Stand:* Zettel, Theo unterschreibt „die Uhrenforscher"; im Treppenhaus Frieda/Schublade („Sie ist wie ihr
+Vater." — „Das macht mir Sorgen.") = O1. Marie zwischen den Kastanien: „Ihr seid wiedergekommen." — „Ich hab
+trotzdem nicht damit gerechnet."; „Ihr seht aus wie ich. Als ich noch gerufen hab."; „Ich weiß jetzt, dass einer
+weiß, dass ich hier sitze." **Nora will wieder versprechen und lässt es** (Echo K4) — Marie: „Ihr müsst nichts
+versprechen." Sieben Uhr. Am Rad: Theo und Nora rechnen die Neunundneunzig nach.
+*Plan:*
 Tag 2, früh. Erst der Park: Marie sitzt da und wartet. Sie halten ihr Versprechen. Wenige Sätze,
 nichts verändert sich, nichts wird versprochen. **Schatten:** legt sich zu ihr wie in S2-4. Auf dem
 Weiterweg rechnet Nora nach: Neunundneunzig warten seit Mai, und sie waren nie wieder dort
@@ -386,7 +392,7 @@ Bruchstücke seiner Geschichte, nicht die Lösung (die bekommt nur, wer fragt, u
 
 | # | Kapitel | Punkt | Herkunft |
 |---|---|---|---|
-| O1 | K8–K10 | **Wo ist Frieda an Tag 2 tagsüber?** Nicht in der Werkstatt (dort wartet Halder seit dem Morgen). Sie stößt erst abends am Hof dazu (Szenenplanung K10, Schritt 1). | K7 (Logik) |
+| O1 ✅ K8 | K8–K10 | **Wo ist Frieda an Tag 2 tagsüber?** Nicht in der Werkstatt (dort wartet Halder seit dem Morgen). Sie stößt erst abends am Hof dazu (Szenenplanung K10, Schritt 1). | K7 (Logik) |
 | O2 | K10 oder K11 | **Ein Satz, warum Frieda es ihm nicht noch in der Nacht gesagt hat**, obwohl sie fürchtete, er öffnet die Schublade „heute Nacht" (z. B. er kam erst spät heim und ging vor Tagesanbruch wieder). | K7 (B9) |
 | O3 | K10 | **Halders Ritual einlösen:** Er hat die Wächter-Uhr aufgehängt, sich an den Werktisch gesetzt, um die Zeitungen zu lesen — und die Schublade leer gefunden. Als Bild zeigen (Stuhl am Werktisch, offene leere Schublade), nicht erklären. | K7 (B22) |
 | O4 | K10–K12 | **Theo steht bei Frieda, Nora hinten.** Nora hält sich sichtbar zurück und tritt erst vor, wenn es um den Wächter geht (K13). | K7 (B8, B21) |

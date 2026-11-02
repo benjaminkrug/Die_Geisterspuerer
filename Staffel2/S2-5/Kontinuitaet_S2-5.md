@@ -284,7 +284,7 @@ Marie, Staffel 3.
 ## AKT-FORTSCHRITT
 
 - ✅ Akt 1 — Hinsehen (K1–K4): K1, K2 (26.10.), K3, K4 (27.10.) geschrieben
-- 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.), K6 (28.10.), K7 (02.11.)
+- 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.), K6 (28.10.), K7, K8 (02.11.)
 - ⬜ Akt 3 — Was er nie gefragt hat (K10–K13)
 - ⬜ Akt 4 — Der letzte Schlüssel (K14–K18)
 
@@ -305,6 +305,18 @@ Marie, Staffel 3.
 | K6 | Tag 1, Abend (direkt im Anschluss) | Noras Zimmer, alle drei auf dem Boden; Mama kocht in der Küche (Töpfe, summt) |
 
 | K7 | Tag 1, Abend → Frieda fährt mit dem Bus „um halb" | Abendessen in der Küche (Nudeln mit Tomaten), dann Noras Zimmer |
+
+| K8 | Tag 2, ~6.30 → 7 Uhr (Kirchturmuhr, sieben Schläge) | Mama schläft (vor der Nachtschicht lange); Zettel; Park mit dem Rad; danach Richtung Lagerhallen |
+
+**Neu festgelegt in K8 (ab hier Kanon):** Zettel: „Sind im Park und dann mit dem Rad unterwegs. Zum Mittag
+zurück. Handy ist an." + Theo: „Gruß, die Uhrenforscher". **Frieda ist an Tag 2 tagsüber zu Hause** (Theo:
+„Frieda sitzt jetzt bestimmt zu Hause. Den ganzen Tag, bis heute Abend."). **Marie:** sitzt an derselben Stelle
+zwischen den Kastanien, Haarschleife; ruft seit Tag 0 nicht mehr („Nicht besser. Leiser."); „Ich weiß jetzt, dass
+einer weiß, dass ich hier sitze."; sieht den Kindern ihre Unruhe an („Ihr seht aus wie ich. Als ich noch gerufen
+hab."); „Ihr müsst nichts versprechen. Ihr wart da. Das reicht für heute."; Clara „wusste nie, wie es
+weitergeht". **Nichts wird versprochen, nichts verändert sich.** Schatten legt sich mit Seufzer neben sie, steht
+langsam auf, dreht sich zweimal um. **Neunundneunzig:** Theo und Nora sprechen es aus — seit Mai, „nie wieder da",
+„Und wir haben gehorcht. Weil es leichter war." ⚠️ Marie taucht im Band nicht mehr auf (höchstens ein Gedanke).
 
 **Neu festgelegt in K7 (ab hier Kanon):** Mama: „Na, ihr Uhrenforscher"; **„Morgen hab ich Nachtschicht.
 Zwölf Stunden."** — Theo: „Wir haben eine Uhrzeit gefunden." Frieda isst nicht (schiebt Nudeln hin und her),
@@ -419,6 +431,7 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 | K5 | 1.108 | 32,3 % | 0 | 93 | 2,7 | 3,1 % |
 | K6 | 986 | 34,6 % | 0 | 159 ² | 1,0 | 5,2 % |
 | K7 | 1.134 | 30,7 % ³ | 0 | 110 | 0,9 | 2,7 % |
+| K8 | 964 | 31,5 % | 0 | 80 | 0,0 | 4,4 % |
 
 ¹ K4 = Akt-1-Höhepunkt (Rückriss); der Spannungs-Prüfplan erlaubt bei Action-Höhepunkten unter 20 %.
 Akt 1 gesamt (K1–K4): ~4.760 W, Dialog ~31 %.
