@@ -38,6 +38,10 @@ Er sagte es sehr leise. Dann noch einmal, als traute er seiner eigenen Rechnung 
 
 "Vierzig Minuten."
 
+Frieda sagte nichts. Sie hielt nur seine Hand.
+
+"Eine Uhr in einer Wachstube geht vielleicht fünf Minuten falsch", sagte er. "Zehn, wenn keiner aufpasst." Er schüttelte langsam den Kopf. "Keine vierzig."
+
 Seine Hand rutschte aus Friedas. Er griff nach der Kante des Werktischs, als wäre der Boden plötzlich schief.
 
 ---

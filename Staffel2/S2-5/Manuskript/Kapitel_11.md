@@ -28,6 +28,20 @@ Etwas bewegte sich in Halders Gesicht. Der Mundwinkel, ganz kurz. Nora kannte di
 
 Schon war es wieder weg.
 
+"Seit wann weißt du es?", fragte Frieda.
+
+"Seit heute früh." Halder sah auf die offene Schublade. "Ich hab die neue Uhr aufgehängt und mich hingesetzt. Wie immer."
+
+"Und du bist hiergeblieben. Den ganzen Tag."
+
+"Ja."
+
+"Warum bist du nicht nach Hause gekommen und hast mich geholt?"
+
+Halder sah an ihr vorbei, zu der runden Lederuhr an der Wand.
+
+"Ich wollte wissen, ob du kommst", sagte er.
+
 ---
 
 Frieda öffnete die Stofftasche. Sie nahm den Stapel Zeitungsausschnitte heraus, mit dem Gummiband darum, und legte ihn auf den Werktisch. Genau neben die leere Schublade.
