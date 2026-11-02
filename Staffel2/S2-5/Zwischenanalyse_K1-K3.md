@@ -262,6 +262,35 @@ Jeder Punkt aus 3d noch einmal gegen die Texte geprüft.
 „Doppelung weg" geprüft habe, nicht auf ihre Bedeutung (N7). Ersatzsätze künftig auch gegen den Zustand der Figur in genau
 diesem Moment lesen.
 
+## 3f. Zwei Korrekturen nach der Gesamtanalyse (2026-11-02, Auftrag des Autors: Punkte 1 und 2)
+
+| Nr | Kap. | Problem | Änderung |
+|---|---|---|---|
+| G1 | K12 | Halders K11-Einwand („Weißt du, wie viele Uhren in einer Wachstube falsch gehen?") wurde nie beantwortet; die 23.20 Uhr stammen weiter aus der Wachstube | Nach „Vierzig Minuten": „Frieda sagte nichts. Sie hielt nur seine Hand." — „Eine Uhr in einer Wachstube geht vielleicht fünf Minuten falsch. Zehn, wenn keiner aufpasst." Er schüttelte langsam den Kopf. „Keine vierzig." |
+| G2 | K11 | Die K7-Komplikation (Schublade) hatte keine Bedeutung: Dass Halder es seit dem Morgen weiß, änderte nichts | Nach der Schublade: „Seit wann weißt du es?" — „Seit heute früh … Wie immer." — „Und du bist hiergeblieben. Den ganzen Tag." — „Ja." — „Warum bist du nicht nach Hause gekommen und hast mich geholt?" — Blick zur Lederuhr des Wächters — „Ich wollte wissen, ob du kommst." |
+
+**Hinterfragt:**
+- *Die eigene Kritik:* Die Gesamtanalyse sagte „K7-Cliffhanger hat keine Folge". Das war **zu hart**: Halder wusste es
+  tatsächlich vorher (Folge erfüllt). Die echte Schwäche: Die Folge **bedeutete** nichts. Darum nicht K7 entschärft
+  (hätte einen funktionierenden Cliffhanger geschwächt und K7/K8 zu zwei Entschluss-Enden gemacht), sondern in K11
+  eingelöst.
+- *G1 zu rational?* Nein: Was den Grund nimmt, ist sein eigenes Handwerk an seiner eigenen Uhr (Outline Mechanik 7b);
+  die Angst bleibt (K12-Schluss). Die Zeile schärft „Der Brief hatte ihm den Grund genommen. Die Angst nicht."
+  „Schüttelte langsam den Kopf" spiegelt bewusst K11, wo er mit derselben Geste den Brief abwehrt.
+- *G1 realistisch?* Alarmzeiten protokolliert die Leitstelle; fünf bis zehn Minuten sind eine vorsichtige
+  Uhrmacher-Schätzung. Der Ort-Einwand („Feuer springt") wird überflüssig, sobald es vierzig Minuten **vor** seinem
+  Anfang brannte — Frieda sagt das direkt danach. Rest-Einwand (Zahlendreher 23.20/0.20) bringt Halder nicht; bleibt so.
+- *G2 macht Halder zu früh weich?* Kränkung (persönlich) und Überzeugung (dreißig Jahre) sind zwei Schichten: Er kann
+  auf seine Tochter warten und trotzdem den Brief abwehren. Die Szene danach bleibt hart. G2 beantwortet außerdem eine
+  stille Logikfrage: Warum hat er sie nicht zu Hause zur Rede gestellt?
+- *Der Wächter-Spiegel* (Halder wartet, ob einer kommt — wie Konrad) bleibt **unausgesprochen**: nur ein Blick zur
+  Lederuhr, ohne Uhrzeit. Bewusst — die Gesamtanalyse hatte die Echo-Dichte des Bandes kritisiert.
+- *Nebenwirkungen meiner eigenen Änderungen, sofort behoben:* doppeltes „schloss die Augen" in K12; Kurzabsätze K12 über
+  9 %; drei fast gleiche „Halder … nicht."-Kurzabsätze in K11; „Und dann" zurückgekehrt; „kurz vor sechs" fünfmal in
+  vier Kapiteln; zwei Halder-Absätze direkt hintereinander in K12.
+
+**Messung danach:** K11 1.004 W · K12 1.028 W · keine Sätze > 18 W · Kurzabsätze K12 7,9 % · keine Formeln, kein „Und dann".
+
 ---
 
 ## 4. Spannung — Teil B (je Kapitel)

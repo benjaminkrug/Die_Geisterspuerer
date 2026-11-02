@@ -410,7 +410,8 @@ Seitentür. Halder schließt von innen ab.
 **Neu festgelegt in K12 (ab hier Kanon):** **Das Etikett unter der Reiseuhr** — „Weil ich dazugehöre. Jedes Mal,
 wenn ich hier bin, zieh ich es nach." (Halder zählt sich zu den Gebundenen). **Die Uhr:** am Morgen nach dem Feuer
 auf zwölf angehalten; die Zwölf schlug „von der Kirche am Markt" (Weißenbrück). **Halder rechnet selbst** laut:
-„Dreiundzwanzig Uhr zwanzig. Bis vierundzwanzig Uhr. … Vierzig Minuten." (zweimal); Theo schweigt. **Was er um
+„Dreiundzwanzig Uhr zwanzig. Bis vierundzwanzig Uhr. … Vierzig Minuten." (zweimal); Theo schweigt. **Er widerlegt seinen K11-Einwand selbst:** „Eine Uhr in einer Wachstube
+geht vielleicht fünf Minuten falsch. Zehn, wenn keiner aufpasst. … Keine vierzig." (ergänzt 02.11.) **Was er um
 zwölf sah:** Der Geist, zwei Tage wütend, wurde an der Bahnbrücke „hell. Von innen, wie eine Lampe, die jemand
 langsam aufdreht" und war weg — Halder hielt es dreißig Jahre für Flucht „nach Hause. Mit seiner ganzen Wut".
 **Der Morgen danach:** „Am Morgen war die ganze Straße schwarz. Es hat noch geraucht." (= S2-3 K12). **Die Narbe:** am Morgen zum Mühlgraben gelaufen, die Tür des Geisterhauses war noch zu, er fasste die Klinke an
@@ -432,7 +433,9 @@ allein kommen." **Schatten** steht mitten im Gang zwischen Kindern und Halder, O
 Schritte bis dicht vor Halder, sieht zu ihm hoch. Halder weiß, dass Frieda das Schloss geöffnet hat („Du hast mir
 gezeigt, wie das geht. Da war ich sechs."); **Halders Mundwinkel-Zucken = Friedas** (Nora sieht es). Frieda legt die
 Zeitungen auf den Werktisch neben die leere Schublade („Die gehören dir"), später den Brief obendrauf. Halders
-Narbenhand hebt sich nach dem Umschlag, bleibt in der Luft. „Er war dreißig Jahre zu." / „Ich weiß, was
+**Halder weiß es seit dem Morgen** („Ich hab die neue Uhr aufgehängt und mich hingesetzt. Wie immer."), blieb den ganzen
+Tag in der Werkstatt und holte Frieda **nicht** — Blick zur Lederuhr des Wächters: „Ich wollte wissen, ob du kommst."
+(ergänzt 02.11., löst die K7-Komplikation ein). Halders Narbenhand hebt sich nach dem Umschlag, bleibt in der Luft. „Er war dreißig Jahre zu." / „Ich weiß, was
 drinsteht." — „Nein. Weißt du nicht." **Frieda liest den Brief laut vor**, Pause bei *zuletzt*. **Halders Abwehr:**
 „Ein Blatt Papier." / „Von einem Mann in einer Wachstube, mitten in der Nacht … Wer hat draufgesehen, mit dem
 Telefon in der Hand und den Sirenen im Ohr?" / „Ich bin Uhrmacher, Frieda. Ich weiß, wie wenig eine Uhrzeit
