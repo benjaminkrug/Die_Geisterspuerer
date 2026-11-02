@@ -32,7 +32,7 @@ Theo rutschte auf dem Boden neben sie. Nicht zu nah. Gerade so, dass seine Schul
 
 "Ja", sagte Theo. "Wahrscheinlich."
 
-Frieda sah ihn lange an. Dann den Umschlag.
+Frieda sah ihn an. Dann den Umschlag.
 
 "Kannst du ihn halten?", fragte sie. "Nur halten. Nicht lesen."
 

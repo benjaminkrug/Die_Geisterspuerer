@@ -82,7 +82,7 @@ Sie dachte an den Wächter. An ihre eigene Stimme vor dem Häuschen. *Ich hol Si
 
 Sie ließ den Satz, wo er war.
 
-Marie sah sie an, als hätte sie den Satz trotzdem gehört.
+Marie sah sie an, als hätte sie ihn trotzdem gehört.
 
 "Ihr müsst nichts versprechen", sagte sie. "Ihr wart da. Das reicht für heute."
 
@@ -96,7 +96,7 @@ Irgendwo schlug eine Kirchturmuhr. Sieben Schläge. Nora zählte mit, ohne es zu
 
 "Wir müssen los", sagte sie. "Zu jemandem, der ganz allein ist."
 
-Marie nickte. Sie fragte nicht, zu wem.
+Marie nickte. Und sie fragte nicht, zu wem.
 
 "Dann geht", sagte sie. "Ich sitz ja hier."
 
@@ -104,7 +104,7 @@ Schatten kam schwerfällig auf die Beine, noch langsamer als beim Hinlegen. Er d
 
 ---
 
-Sie holten die Räder vom Parkeingang. Theos Schloss klemmte. Er zerrte am Bügel und schimpfte halblaut vor sich hin.
+Sie holten die Räder vom Parkeingang. Und Theos Schloss klemmte. Er zerrte am Bügel und schimpfte halblaut vor sich hin.
 
 "Zwei Tage", sagte er dabei. "Wir waren zwei Tage weg. Und sie hat nicht damit gerechnet."
 

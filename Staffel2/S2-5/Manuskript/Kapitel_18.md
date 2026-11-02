@@ -70,7 +70,7 @@ Theo lauschte, die Backen voller Kuchen. "Klingt wieder gemütlich", sagte er.
 
 Der Schulweg führte am Park vorbei.
 
-Unter den Kastanien lag noch Morgentau. Ein Mann führte einen Dackel aus. Zwei Mädchen mit Schulranzen rannten über die Wiese, viel zu spät dran.
+Unter den Kastanien lag noch Morgentau. Ein Mann führte einen Dackel aus. Und zwei Mädchen mit Schulranzen rannten über die Wiese, viel zu spät dran.
 
 Nora blieb am Tor stehen. Zwischen zwei Stämmen, dort, wo sonst niemand hinsah, war ein heller Fleck. Kaum mehr als ein Flimmern in der Luft. Wer nicht wusste, wo er hinsehen musste, sah nur Licht.
 
@@ -122,7 +122,7 @@ Theo ging an ihnen vorbei, Richtung Unterstufe. Er drehte sich im Gehen um, hob 
 
 Am Nachmittag lag Schatten im Wohnzimmer.
 
-Durch das Fenster fiel ein breiter Streifen Sonne auf den Teppich, genau vor die Standuhr. Schatten lag mitten darin, auf der Seite, alle vier Beine von sich gestreckt. Seine graue Schnauze zuckte im Schlaf. Vielleicht träumte er von einer Werkstatt voller Leute, die ihm zuwinkten.
+Durch das Fenster fiel ein breiter Streifen Sonne auf den Teppich, genau vor die Standuhr. Schatten lag mitten darin, auf der Seite, alle vier Beine von sich gestreckt. Und seine graue Schnauze zuckte im Schlaf. Vielleicht träumte er von einer Werkstatt voller Leute, die ihm zuwinkten.
 
 Theo saß daneben auf dem Boden, den Rücken ans Sofa gelehnt, das letzte Stück Kuchen auf einem Teller. Nora setzte sich zu ihm.
 

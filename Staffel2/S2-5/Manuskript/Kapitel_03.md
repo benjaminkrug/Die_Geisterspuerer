@@ -62,7 +62,7 @@ Theo runzelte die Stirn. "Hell?"
 
 "Im November." Halder sah über die Dächer hinweg, nach Süden, zur Stadt. "Seitdem leuchtet diese Stadt. Nicht für euch. Nicht für mich. Für die, die keinen Ort mehr haben. Sie sehen es von weit weg, und sie kommen." Er zuckte mit den Schultern, als wäre es Wetter. "Von überall. Also bin ich geblieben."
 
-Nora dachte an Marie. *Bis es hier auf einmal hell geworden war.* Sie hatte nicht gewusst, dass das jemand anders auch gesehen hatte.
+Marie hatte es fast genauso gesagt. *Bis es hier auf einmal hell geworden war.* Sie hatte nicht gewusst, dass das jemand anders auch gesehen hatte.
 
 "Und der hier?", fragte sie. "Der Mann an den Toren. Kommt der auch von weit weg?"
 

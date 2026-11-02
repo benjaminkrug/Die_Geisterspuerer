@@ -88,7 +88,7 @@ Schließlich legte er sich mitten ins Zimmer. Genau zwischen sie alle drei.
 
 "Der redet doch nicht mit euch. Hast du gesagt."
 
-"Nein. Aber er ist allein." Nora dachte an das graue Gesicht. An die Hand, die er sich auf die Brust gepresst hatte. "Seit heute früh tut ihm jeder Schritt weh. Und keiner ist da."
+"Nein. Aber er ist allein." Vor Noras Augen stand das graue Gesicht, die Hand auf der Brust. "Seit heute früh tut ihm jeder Schritt weh. Und keiner ist da."
 
 Frieda sah auf ihre Tasche. Sie sagte nichts. Aber ihre Hände lagen jetzt ruhiger auf dem Stoff.
 

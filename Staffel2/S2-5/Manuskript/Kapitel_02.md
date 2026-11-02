@@ -74,7 +74,7 @@ Der Mann öffnete den Mund. Dann schloss er ihn wieder. Er sah zur mittleren Hal
 
 "Da ist doch nichts mehr drin", sagte Theo.
 
-Der Mann sah ihn lange an. "Dann bewach ich eben das Nichts", sagte er. "Irgendwer muss ja."
+Der Mann musterte ihn. "Dann bewach ich eben das Nichts", sagte er. "Irgendwer muss ja."
 
 Es gab Dinge, die klangen wie ein Geist und waren keiner. Ein Echo zum Beispiel. Ein Echo sagte immer dasselbe und antwortete nie. Nora musste es wissen.
 
@@ -114,7 +114,7 @@ Wieder dieses Flackern. Der Mann sah über das Gelände, zu den Ziegelhaufen, zu
 
 "Es kommt gleich einer", sagte er leise. Nicht zu ihnen. Eher zu sich selbst. "Es kommt immer einer."
 
-Dann drehte er sich um.
+Er wandte sich ab.
 
 "Und morgen will ich euch hier nicht sehen", sagte er über die Schulter.
 
@@ -122,7 +122,7 @@ Er ging die Reihe der Häuschen entlang und durch den Bauzaun hindurch, als gäb
 
 Er ging nicht hinein. Er stand vor der Tür und sah den Weg hinunter. Zurück zu den Hallen, zur Straße. Als käme gleich jemand um die Ecke.
 
-Niemand kam.
+Und niemand kam.
 
 Nora ging ihm nach. Schatten zog nicht mehr, er lief dicht neben ihr. Zehn Meter vor dem Häuschen knurrte er. Es war ein tiefes, böses Grollen, das Nora durch die Leine spürte. Das Fell auf seinem Rücken stand in einer Linie vom Nacken bis zum Schwanz.
 
@@ -138,7 +138,7 @@ Schatten sah nicht den Geist an. Er sah auf das Häuschen selbst. Auf die Tür. 
 
 "Weiß ich nicht. Aber er hasst es."
 
-Der Mann vor der Tür wurde blasser. Er wurde nicht kleiner, er wurde nur weniger. Erst die Mütze, dann die Jacke, dann der Lederbehälter. Zuletzt hing nur noch die Kälte da. Dann war auch die weg.
+Der Mann vor der Tür wurde blasser. Er wurde nicht kleiner, er wurde nur weniger. Erst die Mütze, dann die Jacke, dann der Lederbehälter. Zuletzt hing nur noch die Kälte da. Und dann war auch die weg.
 
 "Kuchen", sagte Theo leise.
 

@@ -54,7 +54,7 @@ Die Seitentür war halb hinter Brennnesseln versteckt, genau wie damals. Aber da
 
 Frieda zog einen Schlüssel aus der Jackentasche. Er hing an einem roten Band.
 
-Nora dachte an den Abend im Mai. An Frieda an genau dieser Tür, die Hand am Rahmen. *Kommt nicht wieder.*
+Der Abend im Mai fiel ihr ein. Frieda an genau dieser Tür, die Hand am Rahmen. *Kommt nicht wieder.*
 
 Der Schlüssel drehte sich ohne ein Geräusch.
 

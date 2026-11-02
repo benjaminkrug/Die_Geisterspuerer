@@ -4,7 +4,7 @@ Draußen auf dem Hof war es warm geworden. Die Sonne stand über dem schiefen Sc
 
 Halder saß auf der Stufe vor der Seitentür.
 
-Neben ihm saß der, der an der Tür gestanden hatte. Ein Mann mit grauen Schläfen und einer Zeitung unter dem Arm, die er nie aufschlug. Er sah aus wie jemand, der vergessen hat, warum er hier ist.
+Neben ihm saß der, der an der Tür gestanden hatte. Ein Mann mit grauen Schläfen und einer Zeitung unter dem Arm, die er nie aufschlug. Er wirkte, als hätte er vergessen, warum er hier war.
 
 Halder hatte ein kleines Notizbuch auf dem Knie. Darauf lag ein Bleistift. Derselbe, mit dem er dreißig Jahre lang Häkchen nachgezogen hatte.
 
@@ -30,7 +30,7 @@ Der Mann sah auf die Zeitung unter seinem Arm. Er schwieg lange. Halder wartete.
 
 ---
 
-Frieda kam aus der Werkstatt. Sie hatte die leere Stofftasche wieder am Gürtel, und ihr Zopf war fester als gestern. Ihre Augen waren nicht mehr rot.
+Frieda kam aus der Werkstatt. Sie hatte die leere Stofftasche wieder am Gürtel, und ihr Zopf war fester als gestern. Und ihre Augen waren nicht mehr rot.
 
 Sie stellte sich zu den beiden an die Räder.
 
@@ -78,7 +78,7 @@ Halder sah auf die Seite in seinem Notizbuch. Ein Name stand darauf. Sonst nicht
 
 "Und Sie?"
 
-Halder sah sie an. Er verstand die Frage. Nora sah es an seinem Gesicht. Dieselbe Frage hatte ihm Konrad am Tor zugerufen.
+Halder sah sie an. Er hatte die Frage verstanden. Dieselbe Frage hatte ihm Konrad am Tor zugerufen.
 
 "Das weiß ich auch nicht", sagte er. "Noch nicht."
 
@@ -126,7 +126,7 @@ Schatten lief neben ihr, nicht neben Nora. Dicht an ihrem Bein, und ab und zu st
 
 "Es stimmt immer noch."
 
-An der Schranke blieben sie stehen. Frieda bückte sich und nahm Schattens Kopf in beide Hände. Sie sagte ihm etwas ins Ohr, das niemand verstand. Schatten wedelte einmal, langsam.
+An der Schranke blieben sie stehen. Frieda bückte sich und nahm Schattens Kopf in beide Hände. Sie sagte ihm etwas ins Ohr, das niemand verstand. Und Schatten wedelte einmal, langsam.
 
 Dann richtete sie sich auf und sah Theo an.
 

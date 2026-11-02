@@ -20,7 +20,7 @@ Schatten rappelte sich auf. Langsam, steif, mit einem Seufzer. Er trottete zum W
 
 ---
 
-Sie fuhren mit dem Rad nach Westen, quer durch die Stadt, während die Läden ihre Gitter hochzogen. Nora dachte an den Zettel auf dem Küchentisch. In einer halben Stunde würde Mama nach Hause kommen.
+Sie fuhren mit dem Rad nach Westen, quer durch die Stadt, während die Läden ihre Gitter hochzogen. Auf dem Küchentisch lag Noras Zettel. In einer halben Stunde würde Mama nach Hause kommen und ihn finden.
 
 Als sie auf den Hof der Werkstatt bogen, saß Schatten schon vor der Seitentür. Neben Halders Schuhen. Er wedelte, als hätte er sie seit Tagen nicht gesehen.
 

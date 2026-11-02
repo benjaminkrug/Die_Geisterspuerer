@@ -50,7 +50,7 @@ Halder stellte die Tasche ab. Er öffnete sie und nahm etwas heraus. Den schwere
 
 "Ich mache es jetzt auf", sagte er. "Dann können Sie gehen."
 
-Nora machte einen Schritt nach vorn, bevor sie darüber nachdachte.
+Nora trat vor, bevor sie darüber nachdachte.
 
 "Nicht entscheiden", sagte sie. "Fragen."
 
@@ -66,7 +66,7 @@ Er blieb knien und sah zu dem Wächter hoch.
 
 "Wie heißen Sie?", fragte er.
 
-Der Wächter blinzelte. Damit hatte er nicht gerechnet. Nora sah es an seinem Gesicht.
+Der Wächter blinzelte. Damit hatte er nicht gerechnet.
 
 "Konrad", sagte er nach einer Weile.
 

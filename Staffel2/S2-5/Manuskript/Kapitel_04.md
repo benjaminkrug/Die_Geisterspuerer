@@ -82,7 +82,7 @@ Sie drehte sich zu Halder um. Er stand noch immer am Bauzaun und sah auf den Fad
 
 Er sagte es nicht grausam. Er sagte es wie ein Arzt, der weiß, dass eine Spritze wehtut.
 
-Halder bückte sich und hob seine Werkzeugtasche auf. Dann drehte er sich um und ging zu seinem Wagen. Nora sah ihm nach, bis der Kastenwagen über das Gleis holperte und hinter den Hallen verschwand.
+Halder bückte sich und hob seine Werkzeugtasche auf. Dann ging er zu seinem Wagen. Nora sah ihm nach, bis der Kastenwagen über das Gleis holperte und hinter den Hallen verschwand.
 
 "Er ist einfach gefahren", sagte Theo fassungslos.
 
@@ -100,7 +100,7 @@ Nora blinzelte. Dort, wo er eben noch gewesen war, war nichts. Nur die Ritze im 
 
 "Wo ist er hin?", fragte Theo. "Eben war er doch noch da. Ist er ab?"
 
-Nora schüttelte den Kopf. Der Wächter saß zusammengesunken auf der Schwelle, eine Hand auf der Brust. Genau da, wo Herbert sich damals hingefasst hatte. Er versuchte nicht noch einmal aufzustehen.
+Nora schüttelte den Kopf. Der Wächter saß zusammengesunken auf der Schwelle, eine Hand auf der Brust. Genau da, wo Herbert sich damals hingefasst hatte. Und er versuchte nicht noch einmal aufzustehen.
 
 "Er ist noch da", sagte sie. "Wir sehen ihn nur nicht mehr."
 
@@ -130,7 +130,7 @@ Er strich mit der Hand darüber. Seine Finger gingen nicht hindurch, aber sie f�
 
 "Nein." Nora schluckte. "Ich hol Sie da raus. Ich weiß noch nicht, wie. Aber ich krieg das hin."
 
-Er sah sie lange an. Dann sah er an ihr vorbei, zum Bauzaun. Zu der Stelle, wo Halder gestanden hatte.
+Er sah sie an. Dann sah er an ihr vorbei, zum Bauzaun. Zu der Stelle, wo Halder gestanden hatte.
 
 "Mit dir red ich nicht", sagte er. "Mit euch Kindern nicht."
 
@@ -138,7 +138,7 @@ Er sah sie lange an. Dann sah er an ihr vorbei, zum Bauzaun. Zu der Stelle, wo H
 
 "Mit dem, der das gemacht hat. Der soll herkommen und mir das ins Gesicht sagen."
 
-Nora blieb knien. Das nasse Unkraut drückte durch ihre Jeans. Hinter ihr winselte Schatten, ein langer, dünner Ton. Theo flüsterte ihm etwas zu, das sie nicht verstand.
+Nora blieb knien. Das nasse Unkraut drückte durch ihre Jeans. Und hinter ihr winselte Schatten, ein langer, dünner Ton. Theo flüsterte ihm etwas zu, das sie nicht verstand.
 
 Sie dachte an heute Morgen. An die Tore, die Kästen, den Mann mit der Taschenlampe ohne Licht. An ihre Probe, ob er ein Echo sei.
 

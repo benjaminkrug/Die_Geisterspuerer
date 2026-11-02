@@ -688,3 +688,70 @@ Mal in Folge (S2-1, S2-2, S2-3, jetzt S2-4) — das ist kein Einzelfall mehr, so
 stabiles Merkmal der eigenen Schreibweise in dieser Staffel. Für S2-5 gilt dieselbe
 Empfehlung wie am Ende von Abschnitt 13: „Und"-Satzanfänge beim Schreiben selbst bewusster
 setzen, dann fällt der nachträgliche Wiederaufbau kleiner aus.
+
+---
+
+## 15. S2-5 — sechster realer Pass: ABGESCHLOSSEN 2026-11-02
+
+Buch: `Staffel2/S2-5/` „Der letzte Schlüssel", 18 Kapitel, 18.973 W. Messskript (Abschnitt 5) zuerst gegen
+Band 1 (`4e983cf`) gegengerechnet: 2,26 / 0,41 / 0,33 / 7,8 % exakt reproduziert (Falle 9).
+
+### n-Gramm-Scan (Falle 11) + Benchmark der Funde gegen Band 1 und S2-4
+
+Neu in dieser Staffel, in keinem Vorband: drei **Erzähler-Formeln**, die beim Schreiben unbemerkt entstanden.
+
+| Wendung | Band 1 | S2-4 | S2-5 vorher | S2-5 nachher |
+|---|---|---|---|---|
+| „Nora dachte an" /1000 W | 0,15 | 0,22 | **0,52** (10) | 0,32 (6) |
+| „dachte an" gesamt /1000 W | 0,52 | 0,65 | 0,84 | **0,63** |
+| „sah aus wie jemand, der" | 1 | 0 | **4** | 3 |
+| „sah … lange an" | 0 | 2 | **6** | 3 |
+| „Nora sah es an seinem Gesicht" | 0 | 0 | **3** | 1 |
+| „Dann drehte er sich um" | – | – | 5 (K4 doppelt) | 3 (K10 Cliffhanger, K16 Uhr, K4 Wächter) |
+
+„Nora dachte an" bewusst **über** Band 1 gelassen (Falle 6): Das Finale lebt vom Erinnern an S2-1–S2-4; die sechs
+verbliebenen tragen jeweils einen Rückgriff (Herbert-Karten K6, Ilse K13, Standuhr K15, Herbert K16, Heimweg K17,
+Konrad K18). Ersetzt: K3 („Marie hatte es fast genauso gesagt."), K7 („Vor Noras Augen stand …"), K10 („Der Abend
+im Mai fiel ihr ein."), K15 („Auf dem Küchentisch lag Noras Zettel."). Dazu zwei Einzel-Doppelungen: K14 „machte einen
+Schritt nach vorn" (wie K4) → „trat vor"; K8 „als hätte sie den Satz" (wie K7) → „als hätte sie ihn".
+
+### Marker-Pass: Baseline vs. Ergebnis
+
+| Marker | Budget | Band 1 | **S2-5 vorher** | **S2-5 nachher** |
+|---|---|---|---|---|
+| „Und"-Satzanfang (Erzähler) /1000 W | 2,3 (bis 4,0) | 2,26 | **1,11** 🔴 | **1,63** ✅ |
+| „Und dann" /1000 W | 0,5 (bis 1,0) | 0,41 | 0,32 | 0,37 ✅ |
+| „Zum ersten Mal" /1000 W | 0,4 (bis 0,8) | 0,33 | **0,00** 🟡 | 0,00 🟡 bewusst |
+| Dramatische Kurz-Absätze | 7–8 % | 7,8 % | 4,4 % 🟡 | 4,5 % 🟡 bewusst |
+| „Nora begriff/verstand/merkte" | ≤ 2 | 1 | 0 ✅ | 0 ✅ |
+| „das Schlimmste" | ≤ 2 | 0 | 0 ✅ | 0 ✅ |
+
+**„Und"-Erzähler (1,11 → 1,63):** fünfter Staffel-2-Band in Folge zu niedrig — diesmal zusätzlich verstärkt, weil
+beim Schreiben „Dann"/„Und dann" per Leitplanke gekürzt wurden. 10 neue Instanzen, je 2 in den fünf Kapiteln **ohne
+jeden** Treffer (K2, K4, K8, K17, K18), gemischte Technik (9× „Und"-Präfix, 1× „Dann" → „Und dann" in K2). Alle
+mitten im Kapitel, kein Dialog, kein erster/letzter Satz, keine Cliffhanger- oder Kanonzeile. Wie bei S2-1–S2-4
+**nicht** auf volle Band-1-Dichte gebracht (Falle 1/2).
+
+**„Zum ersten Mal" (0,00) bewusst nicht aufgebaut:** Kontinuität S2-5 Regel 10 verlangt, dass es *wirklich* das erste
+Mal ist (gegen S2-1–S2-4 geprüft). Alle Kandidaten scheiterten: Nora hat schon früher Geister gefragt (K9), Frieda
+schon in S2-4 gelacht (K17); die einzigen wahren Stellen (Halder fragt in K14, die Reiseuhr läuft in K16) sind im Text
+schon unmissverständlich und würden durch die Formel erklärt statt gezeigt. Null ist hier keine Ausrottung, sondern
+das Ergebnis der Wahrheitsprüfung.
+
+**Kurz-Absätze (4,5 %)** wie in allen Staffel-2-Pässen nicht künstlich angehoben (Regel C) — höchster Wert der
+Staffel (S2-2 1,6 %, S2-3 3,8 %, S2-4 1,5 %).
+
+### Regel-B- und Regel-E-Kontrolle
+
+- Sätze > 18 W: 0 echte (ein Messartefakt in K15 an der `---`-Grenze, bekannt).
+- Dialoganteil: 28,4 % → 28,4 % (keine Dialogzeile angefasst — Tabu-Liste).
+- **Falle 8 hat einmal zugeschlagen und wurde sofort behoben:** Ersatz „eine ganze Weile" (K4) stand schon in K3 →
+  ersetzt durch schlichtes Streichen von „lange".
+- `Setup_Payoff_Tracker_S2-5.md` und `Cliffhanger_Register_S2-5.md` gegengelesen: kein Anker berührt (die
+  Wächter-Hinweise in K2 — Blick den Weg hinunter, „Es kommt immer einer" — sind unverändert; „Und niemand kam."
+  verstärkt den Hinweis eher).
+
+### Bewusst NICHT Teil dieses Passes
+
+Die in der Gesamtanalyse (Zwischenanalyse S2-5, „Punkt 4") genannten **zu geschliffenen Sätze** stehen fast alle im
+**Dialog** und damit auf der Tabu-Liste. Sie werden nicht mechanisch, sondern einzeln mit dem Autor entschieden.
