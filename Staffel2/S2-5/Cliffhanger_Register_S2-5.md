@@ -29,7 +29,7 @@
 | K15 | Der letzte Schlüssel | STIMME/GERÄUSCH | Das erste Ticken nach dreißig Jahren | Gänsehaut, diesmal die gute | „Für einen Moment war es ganz still in der Werkstatt. … Dann, aus Halders Hand, ganz leise: / *Tick.*" — STIMME/GERÄUSCH ✅ (Fäden haben sich bis dahin nicht bewegt — kein Schalter) |
 | K16 | Neunundneunzig | BILD | Drei bleiben. „Und die?" — „Die müssen Sie fragen." | Lächeln, offen | „Drei waren nicht gegangen. … ‚Und die?', fragte er. … ‚Die müssen Sie fragen', sagte sie." — BILD/DIALOG ✅ (Nora gibt Halder sein eigenes „Ich entscheide nicht mehr" zurück) |
 | K17 | Frieda | DIALOG | „Ich weiß nicht, was jetzt kommt. Aber ich weiß, was wahr ist." | Abschied ohne Traurigkeit | „‚Und?', fragte sie leise. ‚Weißt du's jetzt?' … ‚Ich weiß nicht, was jetzt kommt', sagte sie. ‚Aber ich weiß, was wahr ist.'" — DIALOG ✅ (Antwort auf Friedas „Ob's stimmt … Ich will es wissen", S2-4 K15) |
-| K18 | Was bleibt | Abschlussbild | Kein Cliffhanger; warmes, offenes Schlussbild | Zufriedenheit, ein bisschen Wehmut | „Hinter ihnen schlug die Standuhr. Vier Schläge. / Nora zählte nicht mit." — Abschlussbild ✅ (kein Cliffhanger, kein Staffel-3-Versprechen; Echo K8 „Nora zählte mit, ohne es zu wollen" und K16 „Ich hör auf zu zählen") |
+| K18 | Einen echten | Abschlussbild | Kein Cliffhanger; warmes, offenes Schlussbild | Zufriedenheit, ein bisschen Wehmut | „Hinter ihnen schlug die Standuhr. Vier Schläge. / Nora zählte nicht mit." — Abschlussbild ✅ (kein Cliffhanger, kein Staffel-3-Versprechen; Echo K8 „Nora zählte mit, ohne es zu wollen" und K16 „Ich hör auf zu zählen") |
 
 ---
 

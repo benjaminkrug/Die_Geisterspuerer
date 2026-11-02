@@ -1,4 +1,4 @@
-# Kapitel 18 – Was bleibt
+# Kapitel 18 – Einen echten
 
 Am ersten Schultag stand ein Kuchen auf dem Küchentisch.
 
@@ -133,6 +133,8 @@ Eine Weile sagte keiner etwas. Es war eine gute Stille.
 "Hm?"
 
 "Das Codewort ist übrigens immer noch Kuchen."
+
+Schatten hob bei dem Wort ein Ohr, ohne die Augen aufzumachen.
 
 "Ich weiß."
 

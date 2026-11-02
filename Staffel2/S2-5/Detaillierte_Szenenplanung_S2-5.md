@@ -238,7 +238,7 @@ Lagerhallen?"
 weiß, was wahr ist."
 **Übergang → K18:** Zeitsprung, ein paar Tage.
 
-### K18 – „Was bleibt" (Epilog)
+### K18 – „Einen echten" (Epilog; bis 02.11. „Was bleibt" — doppelt mit Band 5 K18)
 1. Erster Schultag, Morgen. Mama in der Küche nach der Schicht.
 2. Die Standuhr schlägt — im Juli fand Nora sie „zu genau", heute stimmt sie einfach.
 3. Mia an der Schule; ein kleiner, echter Satz. ⚠️ **O11:** antwortet auf „Du hilfst immer irgendwem." (K7).

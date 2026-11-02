@@ -4,7 +4,8 @@
 > **Methode:** `Dokumentation/Logik_Pruefplan.md` (Durchgang A maschinell, B Lesen mit acht Fragen, C Fair Play)
 > und `Dokumentation/Qualitaets_Pruefplan.md` (Teil A, F1 gemessen; F2 gelesen; Teil B vorgemerkt, weil Cover und
 > KDP-Texte noch fehlen). Quelle: Einzelkapitel `Manuskript/Kapitel_01–18.md` (noch nicht kompiliert).
-> **Noch nichts am Text geändert** — erst sammeln, dann entscheidet der Autor (Logik-Prüfplan Abschnitt 1.4).
+> **Autorentscheidung 2026-11-02:** L1 umbenennen („Einen echten"), L2–L4 umsetzen. **Umgesetzt** — `git diff`
+> enthält genau diese fünf Änderungen (+10 W), `pruefe_logik_s2.py` danach ohne Titel- und Sprechverb-Treffer.
 >
 > **Werkzeug:** Neu `Scripts/pruefe_logik_s2.py` (dünner Aufsatz auf `pruefe_logik.py`, alle Checks importiert,
 > serienweiter Titel-Check jetzt inkl. Staffel 2). `Scripts/pruefe_qualitaet_s2.py` um S2-2 bis S2-5 ergänzt.
@@ -15,10 +16,10 @@
 
 | Nr | Einstufung | Fund | Kap. | Fix (minimal) |
 |---|---|---|---|---|
-| L1 | 🟠 | Kapiteltitel „Was bleibt" gibt es schon: **Band 5 K18** | K18 | umbenennen **oder** bewusst als Klammer behalten — Autor |
-| L2 | 🟠 | „hauchte Theo" 2× — nicht in der Liste der einfachen Sprechverben (CLAUDE.md) | K1 | 1 Wort je Stelle |
-| L3 | 🟠 | Wörtlich gleicher Satz in zwei Folgekapiteln: „Er sah auf die Wand mit den Uhren." | K11/K12 | K12 umformulieren |
-| L4 | 🟠 | K18: Schatten schläft nur — keine Reaktion (CLAUDE.md: mindestens eine pro Kapitel) | K18 | ein Satz |
+| L1 | 🟠 ✅ | Kapiteltitel „Was bleibt" gibt es schon: **Band 5 K18** | K18 | umbenannt in **„Einen echten"** (ohne Punkt — kein Titel der Reihe endet mit Punkt) |
+| L2 | 🟠 ✅ | „hauchte Theo" 2× — nicht in der Liste der einfachen Sprechverben (CLAUDE.md) | K1 | „fragte Theo leise" / „murmelte Theo" |
+| L3 | 🟠 ✅ | Wörtlich gleicher Satz in zwei Folgekapiteln: „Er sah auf die Wand mit den Uhren." | K11/K12 | K12: „Bis zu den Uhren an der Wand." |
+| L4 | 🟠 ✅ | K18: Schatten schläft nur — keine Reaktion (CLAUDE.md: mindestens eine pro Kapitel) | K18 | „Schatten hob bei dem Wort ein Ohr, ohne die Augen aufzumachen." |
 | L5 | 🟡 | „Theo wusste es auch." (POV-Treffer) | K3 | — |
 | L6 | 🟡 | Frieda kennt Grete und Ilse — nie ausdrücklich belegt | K12, K13 | — |
 | L7 | 🟡 | Halder weiß, dass Konrad „in der Nacht im Frühjahr" starb | K14 | — |
@@ -95,7 +96,7 @@ dokumentiert das als Absicht — und im Inhaltsverzeichnis zweier Bände derselb
 
 ### L2 · 🟠 · „hauchte" (K1, 2×)
 `"Was war das?", hauchte Theo.` · `"Vier", hauchte Theo. "Fünf."` — CLAUDE.md: nur einfache Sprechverben.
-„flüsterte" geht nicht: K1 hat schon fünf „flüsterte" (Theos Flüster-Tic, Zwischenanalyse F1).
+„flüsterte" geht nicht: K1 hat schon sechs „flüsterte" (Theos Flüster-Tic, Zwischenanalyse F1).
 - Fix: `"Was war das?", fragte Theo leise.` · `"Vier", murmelte Theo. "Fünf."` (Echo auf sein „Eins, zwei, drei",
   murmelte Theo — dieselbe Zählung, dasselbe Verb).
 

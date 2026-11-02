@@ -124,7 +124,7 @@ Nora wartete darauf, dass Halder aufstand. Dass er etwas sagte wie: *Dann mache 
 
 Es verschwand nicht.
 
-Halder hob den Kopf. Er sah an Frieda vorbei, an Theo vorbei, an den Regalen vorbei. Er sah auf die Wand mit den Uhren. Auf die runde, schwere Uhr in ihrem schwarzen Ledergehäuse, deren Zeiger auf kurz vor sechs standen.
+Halder hob den Kopf. Er sah an Frieda vorbei, an Theo vorbei, an den Regalen vorbei. Bis zu den Uhren an der Wand. Auf die runde, schwere Uhr in ihrem schwarzen Ledergehäuse, deren Zeiger auf kurz vor sechs standen.
 
 "Und der von den Lagerhallen?", fragte er.
 

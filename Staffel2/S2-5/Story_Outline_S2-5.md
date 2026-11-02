@@ -581,7 +581,7 @@ zu. Was danach aus ihm wird, weiß niemand — er auch nicht. Frieda bleibt bei 
 Theo–Frieda. **Schatten:** an Friedas Seite bis zum Tor. **Humor:** warm, Theo.
 **Cliffhanger [DIALOG]:** Frieda: „Ich weiß nicht, was jetzt kommt. Aber ich weiß, was wahr ist."
 
-### Kapitel 18 – „Was bleibt" (EPILOG, ENDE STAFFEL 2) ✅ geschrieben (2026-11-02)
+### Kapitel 18 – „Einen echten" (EPILOG, ENDE STAFFEL 2; bis 02.11. „Was bleibt" — doppelt mit Band 5 K18) ✅ geschrieben (2026-11-02)
 *Ist-Stand:* Erster Schultag, Montag. **Kuchen-Schuld eingelöst:** Marmorkuchen, an einer Seite verbrannt, Zettel
 „*Einen echten.*" — „Das ist die Seite für dich." Mama (hat frei): „Wer schuldet wem einen Kuchen?" — „Schulden. …
 Mit Geistern." — „Natürlich." — „Und mit Uhren." Frieda war am Sonntag zum Essen da („zwei Teller Nudeln"). Die

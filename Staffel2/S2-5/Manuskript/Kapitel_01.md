@@ -206,7 +206,7 @@ Nicht langsam, wie wenn eine Wolke vor die Sonne zieht. Von einem Atemzug zum n�
 
 Ganz hinten, am ersten Tor, klirrte etwas.
 
-"Was war das?", hauchte Theo.
+"Was war das?", fragte Theo leise.
 
 Es war ein lautes, metallisches Rasseln. Als hätte jemand mit der Faust gegen das Blech geschlagen und daran gerüttelt. Dann war es still. Dann rasselte das zweite Tor.
 
@@ -220,7 +220,7 @@ Ein Tor nach dem anderen, genau nach den Nummern. Ohne Eile. Gründlich. Und die
 
 Schatten winselte nicht. Er stand stocksteif da und presste sich gegen Noras Bein. Durch die Jeans spürte sie sein Herz schlagen. Theo griff nach ihrem Ärmel. Keiner von beiden sagte Kuchen.
 
-"Vier", hauchte Theo. "Fünf."
+"Vier", murmelte Theo. "Fünf."
 
 Beim sechsten Tor zuckten beide zusammen. Es war das Tor direkt neben ihnen. Es bebte in seiner Schiene, und Rost rieselte auf Noras Schuh.
 
