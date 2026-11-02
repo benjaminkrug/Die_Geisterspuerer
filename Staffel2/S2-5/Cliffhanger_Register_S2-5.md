@@ -28,7 +28,7 @@
 | K14 | Was brauchst du? | DIALOG | „Es gibt noch eine Uhr, die ich aufziehen muss." | Wärme und Spannung zugleich | „Er zog die dünne Kette unter dem Kragen hervor. Daran hing ein winziger Schlüssel … ‚Es gibt noch eine Uhr', sagte er, ‚die ich aufziehen muss.'" — DIALOG ✅ (vorbereitet durch Konrads „Und du? Was brauchst du?" am Tor) |
 | K15 | Der letzte Schlüssel | STIMME/GERÄUSCH | Das erste Ticken nach dreißig Jahren | Gänsehaut, diesmal die gute | „Für einen Moment war es ganz still in der Werkstatt. … Dann, aus Halders Hand, ganz leise: / *Tick.*" — STIMME/GERÄUSCH ✅ (Fäden haben sich bis dahin nicht bewegt — kein Schalter) |
 | K16 | Neunundneunzig | BILD | Drei bleiben. „Und die?" — „Die müssen Sie fragen." | Lächeln, offen | „Drei waren nicht gegangen. … ‚Und die?', fragte er. … ‚Die müssen Sie fragen', sagte sie." — BILD/DIALOG ✅ (Nora gibt Halder sein eigenes „Ich entscheide nicht mehr" zurück) |
-| K17 | Frieda | DIALOG | „Ich weiß nicht, was jetzt kommt. Aber ich weiß, was wahr ist." | Abschied ohne Traurigkeit | — |
+| K17 | Frieda | DIALOG | „Ich weiß nicht, was jetzt kommt. Aber ich weiß, was wahr ist." | Abschied ohne Traurigkeit | „‚Und?', fragte sie leise. ‚Weißt du's jetzt?' … ‚Ich weiß nicht, was jetzt kommt', sagte sie. ‚Aber ich weiß, was wahr ist.'" — DIALOG ✅ (Antwort auf Friedas „Ob's stimmt … Ich will es wissen", S2-4 K15) |
 | K18 | Was bleibt | Abschlussbild | Kein Cliffhanger; warmes, offenes Schlussbild | Zufriedenheit, ein bisschen Wehmut | — |
 
 ---

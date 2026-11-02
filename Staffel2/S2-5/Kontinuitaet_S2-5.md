@@ -291,7 +291,7 @@ Marie, Staffel 3.
 - ✅ Akt 1 — Hinsehen (K1–K4): K1, K2 (26.10.), K3, K4 (27.10.) geschrieben
 - 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.), K6 (28.10.), K7, K8, K9 (02.11.) → **Akt 2 abgeschlossen**
 - ✅ Akt 3 — Was er nie gefragt hat (K10–K13): K10, K11, K12, K13 (02.11.) → **Akt 3 abgeschlossen**
-- 🔶 Akt 4 — Der letzte Schlüssel (K14–K18): K14, K15, K16 (02.11.)
+- 🔶 Akt 4 — Der letzte Schlüssel (K14–K18): K14, K15, K16, K17 (02.11.)
 
 ## ZEITLINIE (Ist)
 
@@ -310,6 +310,21 @@ Marie, Staffel 3.
 | K6 | Tag 1, Abend (direkt im Anschluss) | Noras Zimmer, alle drei auf dem Boden; Mama kocht in der Küche (Töpfe, summt) |
 
 | K7 | Tag 1, Abend → Frieda fährt mit dem Bus „um halb" | Abendessen in der Küche (Nudeln mit Tomaten), dann Noras Zimmer |
+
+| K17 | Tag 3, ~8.30 Uhr | Werkstatthof, dann Weg bis zur Bahnschranke; Mama schreibt (zu Hause, legt sich hin) |
+
+**Neu festgelegt in K17 (ab hier Kanon):** **Halder sitzt auf der Stufe der Seitentür** mit kleinem Notizbuch und dem
+Bleistift, mit dem er die Häkchen nachzog. **Der Erste der drei** = der Mann von der Tür: graue Schläfen, Zeitung
+unter dem Arm, nie aufgeschlagen; Name gesagt (Nora hört ihn nicht); „Ich hab auf jemanden gewartet. Am Bahnhof. Ich
+weiß nicht mehr, auf wen." — Halder: „Dann warten wir, bis es Ihnen einfällt." **Frieda bleibt bei ihrem Vater,
+„erst mal"**; Halder: „Erst die drei. Dann sehen wir weiter." **Die Schlösser** will Halder einschmelzen; **Frieda
+behält das Reiskorn-Schloss** („Damit ich nicht vergesse, wie das alles angefangen hat."). Halder: „Danach weiß ich
+es nicht." / „Das weiß ich auch nicht. Noch nicht." **Konrads Kontrolluhr behält Halder: „Ich hab übernommen."**
+Kein Danke. **Mamas Nachricht (wörtlich):** „Bin zu Hause. Zettel gefunden. Ich leg mich jetzt hin, weckt mich nicht
+vor zwei. Brötchen sind im Brotkasten. Grüßt eure Uhren. Kuss, Mama". Theo ruft in die Werkstatt: „Schöne Grüße von
+Mama." Frieda lacht laut. **Frieda bringt sie bis zur Bahnschranke**, Schatten an ihrer Seite; sie flüstert ihm etwas
+ins Ohr. Frieda darf mit dem Bus vorbeikommen („Mama kocht Nudeln. Immer für zwei Tage. … Sie hat mal den Postboten
+gefüttert."). Schluss: „Ich weiß nicht, was jetzt kommt. Aber ich weiß, was wahr ist."
 
 | K16 | Tag 3, 8.07 Uhr → wenige Minuten | Werkstatt; die Befreiung |
 
@@ -584,6 +599,7 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 | K14 | 1.184 | 18,8 % ⁶ | 0 | 125 | 0,9 | 8,8 % |
 | K15 | 885 | 20,2 % ⁷ | 0 | 130 | 1,1 | 6,0 % |
 | K16 | 1.059 | 12,7 % ⁸ | 0 | 149 | 1,0 | 7,5 % |
+| K17 | 1.015 | 31,4 % | 0 | 120 | 0,0 | 0,0 % |
 
 Akt 2 gesamt (K5–K9, nach Nachanalyse 02.11.): 5.232 W, Dialog 32,1 %.
 ⁴ K10 = Bild-Höhepunkt (Akt-3-Auftakt): Der Inhalt ist, was Nora **sieht** — das Netz, die Uhrenwand, die

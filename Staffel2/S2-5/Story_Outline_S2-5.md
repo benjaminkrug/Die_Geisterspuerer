@@ -564,7 +564,18 @@ mit und hört auf („Ich hör auf zu zählen" — Echo S2-2).
 **Cliffhanger [BILD]:** In der stillen Werkstatt stehen noch drei. Halder sieht Nora an. „Und die?"
 — „Die müssen Sie fragen."
 
-### Kapitel 17 – „Frieda"
+### Kapitel 17 – „Frieda" ✅ geschrieben (2026-11-02)
+*Ist-Stand:* Augustmorgen im Hof. Halder auf der Stufe der Seitentür mit Notizbuch und **dem Häkchen-Bleistift**,
+neben ihm der Erste der drei (graue Schläfen, Zeitung unter dem Arm): „Wie heißen Sie?" — „Ich hab auf jemanden
+gewartet. Am Bahnhof. Ich weiß nicht mehr, auf wen." — „Dann warten wir, bis es Ihnen einfällt." Nora denkt still an
+ein anderes Notizbuch (Silber, nicht erklärt). Theo: „Der fragt jetzt jeden. Wie ein Kellner." Frieda bleibt „erst
+mal"; Halder: „Erst die drei. Dann sehen wir weiter." — Frieda: „Das ist kein Plan. Das ist ein Satz." (Echo Theo K1).
+Schlösser werden eingeschmolzen, Frieda behält das Reiskorn-Schloss (S2-2 K5). Nora–Halder: „Danach weiß ich es
+nicht." — „Und Sie?" — „Noch nicht." **Kontrolluhr: „Die behalte ich. Ich hab übernommen."** (O15 endgültig). Kein
+Danke, ein Nicken. Mamas Nachricht: „Grüßt eure Uhren." — Theo winkt in die Werkstatt: „Schöne Grüße von Mama."
+Frieda lacht laut. Abschied an der Bahnschranke, Schatten an Friedas Seite; „Er mag dich … An der Ampel. Nach dem
+Park." (korrekt S2-4 K15); „Danke. Dass du mitgekommen bist." Nudeln, der Postbote. Schluss wie geplant.
+*Plan:*
 Morgen im Werkstatthof. Halder sitzt beim Ersten der drei, ein Notizbuch auf dem Knie, und hört
 zu. Was danach aus ihm wird, weiß niemand — er auch nicht. Frieda bleibt bei ihm, vorerst. Abschied
 Theo–Frieda. **Schatten:** an Friedas Seite bis zum Tor. **Humor:** warm, Theo.

@@ -31,4 +31,12 @@
 | K14 | „Keiner geht vom Posten, bevor er abgelöst ist." | Regel des Wächters | *Nobody leaves his post till he's relieved.* |
 | K14 | „Sonnenfleck schlägt alles." | Rückgriff S2-1 K15 (Theo) | Wortlaut der EN-Fassung von S2-1 übernehmen |
 | K14 | „schlaf ich bis Weihnachten. Danach noch mal bis Ostern." | Theo-Witz | *till Christmas. And then till Easter.* |
+| K16 | „Sekunde vor, zwei zurück … Die kam nirgendwo an. Jetzt kommt sie an." | Rückgriff S2-2 K6 (Theo) | Wortlaut der EN-Fassung von S2-2 K6 übernehmen |
+| K16 | „Die hat sich's anders überlegt." | Theo-Witz (rückwärts laufende Uhr) | *Changed her mind.* |
+| K16 | „Heuschnupfen. Vor Glück." | Theo-Witz | *Hay fever. From happiness.* |
+| K16 | „Spät. Aber nicht zu spät." | Schlüsselsatz eines Gehenden | *Late. But not too late.* — knapp halten |
+| K16 | „Ich hör auf zu zählen. … Weil das keine Zahlen sind." | Theos Bogen (S2-2 K10 „Neunundneunzig übrig") | Zahlwörter ausschreiben wie im Deutschen |
+| K17 | „Grüßt eure Uhren." / „Schöne Grüße von Mama." | Running Gag „Uhrenforscher" (K7/K8/K10) | *Say hi to your clocks.* |
+| K17 | „Das ist kein Plan. Das ist ein Satz." | Rückgriff K1 (Theo) | Gleich übersetzen wie in K1 |
+| K17 | „Ich weiß nicht, was jetzt kommt. Aber ich weiß, was wahr ist." | Schlusssatz Frieda, Antwort auf S2-4 K15 („Ich will es wissen") | *I don't know what comes next. But I know what's true.* |
 | K1 | „Briefkästen. Für Lagerhallen. Damit sie Post von anderen Lagerhallen kriegen." | Theo-Witz, zugleich fairer Hinweis (Kontrollkästen eines Wächterrundgangs) | Den Hinweis auf nummerierte Kästen erhalten |
