@@ -436,7 +436,8 @@ above all NO barcode and NO digits.
    word not found there.
 2. [D]-[H] all present, complete, in order.
 3. It says "ab 12 Jahren". No keyword row. No second blurb.
-4. NO barcode, NO ISBN, NO digits. Lower-right quarter empty and dark.
+4. NO barcode, NO ISBN, NO digits except the ones printed in [B], [I] and
+   [J] (5, 12, 5, 1, 4). Lower-right quarter empty and dark.
 5. Umlauts and ß correct, no ae/oe/ue/ss: Geisterspürer, Wächter,
    Weißenbrück, Häuser, Tür, möchten, ordnungsgemäß, für, Albträume.
 6. Greyscale test: every block clearly lighter than its background.
