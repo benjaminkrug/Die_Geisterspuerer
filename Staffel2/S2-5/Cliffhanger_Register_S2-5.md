@@ -27,7 +27,7 @@
 | K13 | Fragen Sie ihn | OBJEKT | Die Kette am Hals: „Was ist das?" — „Nichts." | Ahnung: Da ist noch etwas | „‚Was ist das?', fragte sie. … ‚Nichts', sagte er. / Er schob die Kette unter den Kragen zurück. Dann drückte er die Tür zu, und der Riegel schnappte von innen ins Schloss." — OBJEKT ✅ (Kette rutscht heraus, als Halder sich zu Schatten bückt; versteckt getragen — Gegensatz zum offen daliegenden Brief K5) |
 | K14 | Was brauchst du? | DIALOG | „Es gibt noch eine Uhr, die ich aufziehen muss." | Wärme und Spannung zugleich | „Er zog die dünne Kette unter dem Kragen hervor. Daran hing ein winziger Schlüssel … ‚Es gibt noch eine Uhr', sagte er, ‚die ich aufziehen muss.'" — DIALOG ✅ (vorbereitet durch Konrads „Und du? Was brauchst du?" am Tor) |
 | K15 | Der letzte Schlüssel | STIMME/GERÄUSCH | Das erste Ticken nach dreißig Jahren | Gänsehaut, diesmal die gute | „Für einen Moment war es ganz still in der Werkstatt. … Dann, aus Halders Hand, ganz leise: / *Tick.*" — STIMME/GERÄUSCH ✅ (Fäden haben sich bis dahin nicht bewegt — kein Schalter) |
-| K16 | Neunundneunzig | BILD | Drei bleiben. „Und die?" — „Die müssen Sie fragen." | Lächeln, offen | — |
+| K16 | Neunundneunzig | BILD | Drei bleiben. „Und die?" — „Die müssen Sie fragen." | Lächeln, offen | „Drei waren nicht gegangen. … ‚Und die?', fragte er. … ‚Die müssen Sie fragen', sagte sie." — BILD/DIALOG ✅ (Nora gibt Halder sein eigenes „Ich entscheide nicht mehr" zurück) |
 | K17 | Frieda | DIALOG | „Ich weiß nicht, was jetzt kommt. Aber ich weiß, was wahr ist." | Abschied ohne Traurigkeit | — |
 | K18 | Was bleibt | Abschlussbild | Kein Cliffhanger; warmes, offenes Schlussbild | Zufriedenheit, ein bisschen Wehmut | — |
 

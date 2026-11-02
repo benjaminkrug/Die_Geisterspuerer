@@ -291,7 +291,7 @@ Marie, Staffel 3.
 - ✅ Akt 1 — Hinsehen (K1–K4): K1, K2 (26.10.), K3, K4 (27.10.) geschrieben
 - 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.), K6 (28.10.), K7, K8, K9 (02.11.) → **Akt 2 abgeschlossen**
 - ✅ Akt 3 — Was er nie gefragt hat (K10–K13): K10, K11, K12, K13 (02.11.) → **Akt 3 abgeschlossen**
-- 🔶 Akt 4 — Der letzte Schlüssel (K14–K18): K14, K15 (02.11.)
+- 🔶 Akt 4 — Der letzte Schlüssel (K14–K18): K14, K15, K16 (02.11.)
 
 ## ZEITLINIE (Ist)
 
@@ -310,6 +310,20 @@ Marie, Staffel 3.
 | K6 | Tag 1, Abend (direkt im Anschluss) | Noras Zimmer, alle drei auf dem Boden; Mama kocht in der Küche (Töpfe, summt) |
 
 | K7 | Tag 1, Abend → Frieda fährt mit dem Bus „um halb" | Abendessen in der Küche (Nudeln mit Tomaten), dann Noras Zimmer |
+
+| K16 | Tag 3, 8.07 Uhr → wenige Minuten | Werkstatt; die Befreiung |
+
+**Neu festgelegt in K16 (ab hier Kanon):** **Die Reiseuhr läuft und springt auf die richtige Zeit (8.07 Uhr)**;
+Halder: „Wie spät ist es?" **Alle Uhren der Werkstatt laufen im selben Takt** (Standuhr verkehrt herum, aber gleiche
+Zeit; Küchenuhr läuft vorwärts; **die rückwärts laufende Uhr an der Tür dreht vorwärts**; die Kontrolluhr an Halders
+Seite tickt wieder). **Die Schlösser** klicken von hinten nach vorn, Bügel „aufgesprungen wie kleine Münder", und
+bleiben offen in den Regalen liegen. **Die Fäden erlöschen; an ihren Enden werden die Geister wieder sichtbar** (nicht
+mehr durchsichtig), bevor sie gehen. Gesehen (nie benannt): alter Mann in Hosenträgern („Spät. Aber nicht zu spät."
+— Halder: „Es tut mir leid." — „Weiß ich."), Frau mit Stoffblumenhut, zwei Hände unter dem Dach, eine Frau, die
+Schatten zuwinkt. **Sie gehen, indem sie hell werden** — Halder: „So war es damals. An der Brücke. Genau so." Halder:
+„Ich weiß" (dass sie die ganze Zeit hier waren). **96 gehen, drei bleiben:** ein Mann am Fenster, der zu den Uhren
+sieht; die Frau mit den angezogenen Knien auf dem Boden; jemand an der Tür, der zu Halder sieht. Kein Faden hält sie;
+sie warten. Schatten rennt frei, bellt wie früher an der Haustür, niest im Staub; danach wieder alt, zufrieden.
 
 | K15 | Tag 3, ~6.15 → ~8 Uhr | Rad Lagerhallen → Werkstatt (Schatten im Kastenwagen); Mama kommt „in einer halben Stunde" heim |
 
@@ -569,6 +583,7 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 | K13 | 895 | 29,3 % | 0 | 118 | 1,1 | 3,4 % |
 | K14 | 1.184 | 18,8 % ⁶ | 0 | 125 | 0,9 | 8,8 % |
 | K15 | 885 | 20,2 % ⁷ | 0 | 130 | 1,1 | 6,0 % |
+| K16 | 1.059 | 12,7 % ⁸ | 0 | 149 | 1,0 | 7,5 % |
 
 Akt 2 gesamt (K5–K9, nach Nachanalyse 02.11.): 5.232 W, Dialog 32,1 %.
 ⁴ K10 = Bild-Höhepunkt (Akt-3-Auftakt): Der Inhalt ist, was Nora **sieht** — das Netz, die Uhrenwand, die
@@ -582,6 +597,10 @@ Körper (Hand, Boden, Schatten) und Noras zwei Erkenntnisse (Etikett, Schluss). 
 zusammen unter 30 % — die Akt-3-Nachanalyse soll prüfen, wo echter Dialog fehlt.**
 ⁷ K15 = zweites Ritual in Folge (Aufziehen). Dialog trägt die Regel; der Rest ist Zögern und Stille vor dem
 Ticken. Dialog in Akt 4 wird erst in K16–K18 (Abschied, Epilog) wieder steigen — dort bewusst mehr Gespräch.
+⁸ K16 = Befreiung der Neunundneunzig, ein Bild-Kapitel. Erster Entwurf hatte 6 %; neu geschrieben mit allen
+natürlichen Zeilen (Frieda, Theo, Halder, der alte Mann) → 12,7 %. Mehr würde das Gehen zerreden. **Damit
+liegen K14–K16 alle unter 21 % — K17 und K18 müssen deutlich über 35 % liegen (Gesprächskapitel: Abschied,
+Epilog), sonst kippt Akt 4 ins Erzählen.**
 
 ¹ K4 = Akt-1-Höhepunkt (Rückriss); der Spannungs-Prüfplan erlaubt bei Action-Höhepunkten unter 20 %.
 Akt 1 gesamt (K1–K4): ~4.760 W, Dialog ~31 %.

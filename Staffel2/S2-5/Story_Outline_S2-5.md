@@ -412,9 +412,9 @@ Bruchstücke seiner Geschichte, nicht die Lösung (die bekommt nur, wer fragt, u
 | O9 ✅ K12 | K12 | Reiseuhr-Etikett „wie bei allen anderen" (K6 erinnert, nicht gedeutet) → Halder zählt sich selbst zu den Gebundenen; das Häkchen frischt er jedes Mal auf. | K6 (A10) |
 | O10 ✅ K11–K12 | K11–K12 | Ortsnamen festhalten: Färbergasse (Ausbruch), Mühlgraben (Haus des Geistes), alte Bahnbrücke am anderen Ende der Stadt (Halders Versuch). Ilses Straße bleibt ungenannt. | K6 |
 | O12 ✅ K14 | K14 | **Übergabesatz einlösen:** „Keine besonderen Vorkommnisse" (K9) — Nora kennt ihn „irgendwoher" = Mamas Schichtübergabe im Krankenhaus (Echo K2 „Wie Mama im Krankenhaus"). Erst in K14 klickt es; das Wort „Ablösung" fällt erst dort. | K9 (D2) |
-| O14 | K16 | **Die Neunundneunzig sind in der Werkstatt, aber verblasst** (K10: Fäden enden in der Luft; „Weil sie schon so lange hier sind"). Beim Lösen müssen sie **wieder sichtbar werden**, bevor sie gehen — das trägt die „Bilder von Gehenden" und die drei, die bleiben. Nicht widersprechen: Grete war in S2-2 erst nach langem Hinsehen fest. | K10 |
+| O14 ✅ K16 | K16 | **Die Neunundneunzig sind in der Werkstatt, aber verblasst** (K10: Fäden enden in der Luft; „Weil sie schon so lange hier sind"). Beim Lösen müssen sie **wieder sichtbar werden**, bevor sie gehen — das trägt die „Bilder von Gehenden" und die drei, die bleiben. Nicht widersprechen: Grete war in S2-2 erst nach langem Hinsehen fest. | K10 |
 | O15 ✅ K14 | K14 | **Die Kontrolluhr des Wächters hängt in der Werkstatt** (steht auf kurz vor sechs = er wartete auf die Sechs-Uhr-Ablösung). Möglich und stark: Halder bringt sie in K14 mit. Mindestens muss klar sein, was mit ihr nach der Ablösung geschieht. | K10 |
-| O16 | K11–K15 | **Nicht verallgemeinern:** Dass Halder zu jedem Schloss einen Gegenstand des Geistes holt, ist nur für den Wächter belegt. Andere Uhren nicht nachträglich als „Uhren der Geister" erklären, ohne S2-2 K4–K6 zu prüfen. | K10 |
+| O16 ✅ K11–K16 | K11–K15 | **Nicht verallgemeinern:** Dass Halder zu jedem Schloss einen Gegenstand des Geistes holt, ist nur für den Wächter belegt. Andere Uhren nicht nachträglich als „Uhren der Geister" erklären, ohne S2-2 K4–K6 zu prüfen. | K10 |
 | O13 ✅ K14 | K14 | Der Wächter sagt Nora nicht, wer kommen soll („Weil du's nicht bist"). In K14 muss Halder **ihn** fragen — nicht Nora übersetzen lassen. Seinen Namen (Konrad) sagt er Halder, nicht den Kindern. | K9 (B5, B17) |
 | O11 | K18 | **Mia:** „Du hilfst immer irgendwem." (K7) — im Epilog ein kleiner, echter Satz, der darauf antwortet; gleich formulieren. **Kuchen-Schuld** einlösen (B15). | K2, K7 (B10, B15) |
 
@@ -543,7 +543,20 @@ Nagel, steckt den Schlüssel ein. Zögert. Frieda wartet, sagt nichts. **Schatte
 Theo hält ihn, das dritte und letzte Mal (K4, K10, K15 — korrigiert 02.11.). **Humor:** ein kleiner, nervöser Theo-Satz.
 **Cliffhanger [STIMME/GERÄUSCH]:** Das erste Ticken nach dreißig Jahren.
 
-### Kapitel 16 – „Neunundneunzig"
+### Kapitel 16 – „Neunundneunzig" ✅ geschrieben (2026-11-02)
+*Ist-Stand:* Die Reiseuhr läuft, ihre Zeiger holen „dreißig Jahre in einer Minute" nach, stehen auf **acht Uhr
+sieben** — Halder: „Wie spät ist es?" (Echo Noras Probe K2) — Theo: „Acht Uhr sieben." Alle Uhren im selben Takt:
+Standuhr verkehrt herum, aber dieselbe Zeit; Küchenuhr „Jetzt kommt sie an" (Echo S2-2 K6); die rückwärts laufende
+dreht vorwärts („Die hat sich's anders überlegt"); die Kontrolluhr an Halders Seite tickt („Die auch"). Schlösser
+klicken von hinten nach vorn „wie Regen auf einem Blechdach" (Frieda: „Ich kenn das Geräusch. Nur nie so oft.").
+Fäden erlöschen; **an den Enden werden die Neunundneunzig sichtbar** (O14): alter Mann in Hosenträgern, Frau mit
+Stoffblumenhut, zwei Hände unter dem Dach, Frau mit angezogenen Knien. Theo: „Wie Leute an der Bushaltestelle." —
+Nora: „Sie waren ganz normal." Frieda: „Die waren die ganze Zeit hier." — Halder: „Ich weiß." Schatten läuft frei,
+niest („Heuschnupfen. Vor Glück."). Der alte Mann: „Spät. Aber nicht zu spät." — Halder: „Es tut mir leid." —
+„Weiß ich." Er wird hell — Halder: „So war es damals. An der Brücke. Genau so." Theo zählt bis fünfundneunzig: „Ich
+hör auf zu zählen. … Weil das keine Zahlen sind." Drei bleiben (Mann am Fenster, Frau am Boden, jemand an der Tür,
+der zu Halder sieht).
+*Plan:*
 Alle Uhren finden dieselbe Zeit; die rückwärts laufende an der Tür dreht vorwärts. Die Schlösser
 klicken, die Fäden verlöschen einer nach dem anderen. Zwei, drei kurze Bilder von Gehenden.
 **Schatten:** überwältigt, diesmal vor Freude, läuft durch die Gänge. **Humor:** Theo zählt rückwärts
