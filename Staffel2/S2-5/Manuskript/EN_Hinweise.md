@@ -21,4 +21,9 @@
 | K6 | „Ein Fleck, der aussieht wie Italien." / „Italien wird langsam langweilig." | Theo-Witz mit Rückgriff im Kapitel | Wörtlich übertragbar (Stiefelform kennt jeder) |
 | K6 | „als es zwölf schlug" | Leitsatz Halders, kehrt in K11/K12 wieder | Überall gleich (*when the clock struck twelve*) |
 | K6 | Brief der Feuerwehr | Amtsdeutsch | Nüchterner Behördenton (*With kind regards, Weissenbrück Volunteer Fire Brigade*); Uhrzeit als 11:20 p.m. — Theos Rechnung „Zwanzig nach elf … vierzig Minuten" muss stimmen |
+| K7 | „Wir haben eine Uhrzeit gefunden." | Doppeldeutigkeit (Projekt-Ausrede / Brief) | Wörtlich (*We found a time*) — Mama hört nur das Projekt |
+| K7 | „Der Wächter läuft nicht weg." — „Genau das ist das Problem." | Theo-Witz mit ernster Kippe | Redewendung muss wörtlich lesbar bleiben (*He's not going anywhere.* — *That's exactly the problem.*) |
+| K7 | „Gerecht verteilt. Jeder kriegt ein Drittel Hund." | Theo-Witz | Wörtlich übertragbar |
+| K7 | „Er sagte nicht *wir*. Er sagte *ich*." | Kursiv-Betonung | *we* / *I* — Kursiv beibehalten |
+| K7 | „Du hilfst immer irgendwem." | Mias Satz, kehrt in K18 wieder | Gleich übersetzen wie im Epilog (*You're always helping someone.*) |
 | K1 | „Briefkästen. Für Lagerhallen. Damit sie Post von anderen Lagerhallen kriegen." | Theo-Witz, zugleich fairer Hinweis (Kontrollkästen eines Wächterrundgangs) | Den Hinweis auf nummerierte Kästen erhalten |

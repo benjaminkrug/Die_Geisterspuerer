@@ -36,7 +36,7 @@
 | A23 | **Brandnarbe auf Halders rechtem Handrücken** (S2-3 K1, Nora verbindet sie mit dem Feuer, S2-3 K11) — nie erklärt | K12: die heiße Türklinke am Morgen danach (Autor, 26.10.) | geplant |
 | A24 | „Jetzt weiß er, dass wir es wissen." (S2-3 K16) | K3 erstes Gespräch; K10 neuer Riegel | geplant |
 | A25 | Mama kennt Halder und hat Frieda gesehen (S2-3 K2, K7) | K5: Mama erkennt Frieda | ✅ K5 („Dich kenn ich doch! … Grüß deinen Vater ganz herzlich.") |
-| A26 | Mia, abgesagt; Angst, wie leicht die nächste Absage fällt (S2-2 K2, K13) | K7 bewusste Absage mit Preis; K18 erster Schultag | geplant |
+| A26 | Mia, abgesagt; Angst, wie leicht die nächste Absage fällt (S2-2 K2, K13) | K7 bewusste Absage mit Preis; K18 erster Schultag | 🔶 K7 (Absage fällt ihr **nicht** leicht — Umkehr der Angst aus S2-2 K13; Mia: „Du hilfst immer irgendwem.") |
 | A27 | „Bis es hier auf einmal hell geworden war." (S2-4 K7) · Schlösser schon im August vor der Heilung (S2-1 K8, K16) | K3: Halder erklärt, warum er geblieben ist | ✅ K3 („Dann wurde es hell. Im November … Also bin ich geblieben.") |
 | A28 | Theos System: „Knurren heißt böse, Winseln heißt traurig." (S2-4 K3) | K2: Schatten winselt beim wütenden Wächter | ✅ K2 („Er schreit uns an, Theo." — „Ja. Aber traurig."; Schatten knurrt das Häuschen an) |
 | A29 | Halders Wagen, gewienert (S2-3 K5) | K1 an den Lagerhallen | ✅ K1 („das einzige saubere Ding weit und breit") |
@@ -66,9 +66,11 @@ Clara); Frau Brandt/Jule; Kubiak; die zwölf Markierungen.
 | B7 | „Als es zwölf schlug" + die Reiseuhr (K6) | K11–K12 Nachrechnen; K15 aufziehen | 🔶 K6 gesetzt (Frieda zitiert „als es zwölf schlug"; Theo rechnet die vierzig Minuten) — in K11 rechnet **Halder** selbst, nicht noch einmal Theo |
 | B19 | Friedas Vermutung: „Vielleicht steht da drin, wer." — der Brief nennt **keine Namen** (K6) | K12: Halder bestätigt, er wollte nicht lesen, wer gestorben ist — dreißig Jahre Angst vor einem Satz, der nicht drinsteht (Frieda oder Nora sagt es, nicht der Erzähler) | 🔶 K6 gesetzt |
 | B20 | Halders Version laut Frieda: Bahnbrücke am anderen Ende der Stadt, der Geist ging „nach Hause", „zuerst in seinem Haus" (K6) | K12: der Geist ging damals wirklich — er ist nicht „nach Hause" gegangen, um zu brennen | 🔶 K6 gesetzt |
-| B8 | Theo: „Ich geh mit dir." (K7) | K10–K12: Theo an Friedas Seite | geplant |
-| B9 | Komplikation: Schublade (K7) | K10: Halder hat sie heute früh gefunden und wartet | geplant |
-| B10 | Nora sagt Mia ab (K7) | K18 | geplant |
+| B8 | Theo: „Ich geh mit dir." (K7) | K10–K12: Theo an Friedas Seite | 🔶 K7 gesetzt (er sagt *ich*, nicht *wir*; Nora lässt ihn: „Ich komm auch. Aber ich steh hinten.") |
+| B21 | Nora: „Aber ich steh hinten." (K7) | K10–K12: Nora hält sich sichtbar zurück, Theo steht bei Frieda; Nora greift erst ein, wenn es um den Wächter geht | 🔶 K7 gesetzt |
+| B22 | **Halders Ritual:** Wenn ein Schloss zugeschnappt ist, holt er die Zeitungen aus der Schublade und liest sie alle am Werktisch (Frieda hat es „durch die Tür gesehen. Jedes Mal.", K7) | K10: Er hat die Wächter-Uhr aufgehängt, sich an den Werktisch gesetzt — und die Schublade leer gefunden | 🔶 K7 gesetzt |
+| B9 | Komplikation: Schublade (K7) | K10: Halder hat sie heute früh gefunden und wartet | 🔶 K7 gesetzt (Frieda will nichts zurücklegen: „Dann hab ich's auch versteckt. Dann bin ich genau wie er.") — ⚠️ K10/K11 klärt in **einem** Satz, warum Frieda es ihm nicht noch in der Nacht gesagt hat (z. B. er kam erst spät heim, sie lag wach, er ging vor Tagesanbruch) |
+| B10 | Nora sagt Mia ab (K7) | K18 | 🔶 K7 gesetzt (bewusst, ohne Umschreiben; Mias Antwort ohne Häkchen) |
 | B11 | Neue Uhr an der Wand (K10) | K16: auch sie findet die richtige Zeit | geplant |
 | B12 | Die Kette am Hals: „Nichts." (K13) | K14: der Schlüssel; K15: aufziehen | geplant |
 | B13 | Halders Rest-Angst: „Und der von den Lagerhallen?" (K12) | K14: nichts brennt | geplant |

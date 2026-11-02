@@ -352,7 +352,13 @@ Die darf keiner anfassen." **Schatten:** steht auf, als Frieda zu zittern anfän
 leise.
 **Cliffhanger [ERKENNTNIS]:** Es hat schon gebrannt, als er angefangen hat.
 
-### Kapitel 7 – „Wer es ihm sagt"
+### Kapitel 7 – „Wer es ihm sagt" ✅ geschrieben (2026-11-02)
+*Ist-Stand:* Abendessen bei Mama (Theo: „Wir haben eine Uhrzeit gefunden."; Mama: morgen Nachtschicht, zwölf
+Stunden; Frieda isst nicht — Spiegel zu Halder). Frieda will es ihm in der Werkstatt sagen, „da, wo die Uhr
+hängt". Theo: „Ich geh mit dir." — Nora: „Ich komm auch. Aber ich steh hinten." Schatten legt sich zwischen
+alle drei („Jeder kriegt ein Drittel Hund"). Mia: Freibad, letzte Ferienwoche — Theo: „Der Wächter läuft nicht
+weg." — „Genau das ist das Problem." Mia: „Du hilfst immer irgendwem." Frieda will nichts zurücklegen; Halders
+Ritual (nach jedem zugeschnappten Schloss liest er die Zeitungen) → Cliffhanger.
 Plan: Frieda sagt es ihm selbst, morgen Abend in der Werkstatt. Theo: „Ich geh mit dir." Nora
 lässt ihn (Geschwisterbogen). Nora will morgens zum Geist zurück. Mia schreibt: morgen
 Freibad, die halbe Klasse kommt — Nora sagt ab, diesmal bewusst, und weiß, was es kostet (Risiko 5).

@@ -284,7 +284,7 @@ Marie, Staffel 3.
 ## AKT-FORTSCHRITT
 
 - ✅ Akt 1 — Hinsehen (K1–K4): K1, K2 (26.10.), K3, K4 (27.10.) geschrieben
-- 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.), K6 (28.10.)
+- 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.), K6 (28.10.), K7 (02.11.)
 - ⬜ Akt 3 — Was er nie gefragt hat (K10–K13)
 - ⬜ Akt 4 — Der letzte Schlüssel (K14–K18)
 
@@ -303,6 +303,24 @@ Marie, Staffel 3.
 | K5 | Tag 1, Abend | Mama seit drei Uhr zu Hause (Frühschicht), gute Laune wegen des Zettels; Frieda klingelt |
 
 | K6 | Tag 1, Abend (direkt im Anschluss) | Noras Zimmer, alle drei auf dem Boden; Mama kocht in der Küche (Töpfe, summt) |
+
+| K7 | Tag 1, Abend → Frieda fährt mit dem Bus „um halb" | Abendessen in der Küche (Nudeln mit Tomaten), dann Noras Zimmer |
+
+**Neu festgelegt in K7 (ab hier Kanon):** Mama: „Na, ihr Uhrenforscher"; **„Morgen hab ich Nachtschicht.
+Zwölf Stunden."** — Theo: „Wir haben eine Uhrzeit gefunden." Frieda isst nicht (schiebt Nudeln hin und her),
+Mama lädt nach („Du bist ja ganz blass"). Schatten liegt quer über Friedas Stiefeln, lässt eine Nudel liegen
+(„Der ist krank" — „Er ist nur müde"). **Frieda sagt es ihm selbst, morgen Abend in der Werkstatt, „da, wo die
+Uhr hängt. Ich will, dass er sie anguckt, wenn ich's ihm sage."** Theo: „Ich geh mit dir." (*ich*, nicht
+*wir*). **Nora: „Ich komm auch. Aber ich steh hinten."** Nora fährt morgen früh zum Wächter („er ist allein").
+**Mia** (Nachricht): Freibad ab zehn, halbe Klasse, danach grillen, „Letzte Ferienwoche". Nora antwortet ohne
+Umschreiben: „Kann morgen nicht. Ich muss jemandem helfen, der sonst niemanden hat. Tut mir echt leid. Ich wär
+gern gekommen." — **Mia: „Du hilfst immer irgendwem."** (kein Häkchen, kein Smiley). Theo: „Das war nicht
+nett von ihr." — „Doch. Es war nur ehrlich." **Frieda nimmt Zeitungen und Brief wieder mit**, legt nichts
+zurück („Dann hab ich's auch versteckt. Dann bin ich genau wie er."). **Halders Ritual:** Wenn ein Schloss
+zugeschnappt ist, holt er die Zeitungen raus und liest sie am Werktisch, alle; Frieda hat es „durch die Tür
+gesehen. Jedes Mal." Schatten stellt sich steif vor die Zimmertür. ⚠️ Friedas „heute Nacht" ist ihre
+Befürchtung; laut Zeitlinie findet Halder die leere Schublade **Tag 2 früh** — K10/K11 klärt in einem Satz,
+warum Frieda es ihm nachts nicht mehr gesagt hat.
 
 **Neu festgelegt in K6 (ab hier Kanon):** Frieda hat heute dreimal versucht, den Umschlag zu öffnen
 („In der Werkstatt. Auf dem Klo. Im Bus hierher."). **Friedas Vermutung, warum er nie geöffnet wurde:**
@@ -400,12 +418,16 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 | K4 | 1.120 | 22,6 % ¹ | 0 | 118 | 0,0 | 8,2 % |
 | K5 | 1.108 | 32,3 % | 0 | 93 | 2,7 | 3,1 % |
 | K6 | 986 | 34,6 % | 0 | 159 ² | 1,0 | 5,2 % |
+| K7 | 1.134 | 30,7 % ³ | 0 | 110 | 0,9 | 2,7 % |
 
 ¹ K4 = Akt-1-Höhepunkt (Rückriss); der Spannungs-Prüfplan erlaubt bei Action-Höhepunkten unter 20 %.
 Akt 1 gesamt (K1–K4): ~4.760 W, Dialog ~31 %.
 ² K6: Der längste dialogfreie Block ist der Brief plus Noras Erinnerung an die Reiseuhr — beides Dokument/
 Bild, kein Erzählfluss. K6 ist das bisher kürzeste Kapitel (986 W); bewusst nicht aufgefüllt — die Szene ist
 eine einzige Erkenntnis und endet, wo sie trägt.
+³ K7: knapp über der Grünschwelle (30 %). Der dialogfreie Anteil ist Noras Mia-Moment (Erinnerung an S2-2,
+körperliche Reaktion) — innerer Preis, der nicht in Dialog gehört. Eine zusätzliche Frieda-Zeile wurde
+wieder gestrichen, weil sie Theos Pointe („Der Wächter läuft nicht weg") vorwegnahm.
 
 **K1 überarbeitet 2026-10-26 (Spannungs-Prüfplan Teil B):** Theo-Witze in der Ankunft von neun auf
 vier gesenkt (Humor nach dem Schreck, nicht davor), Theo verstummt sichtbar; Nachtszene endet mit
