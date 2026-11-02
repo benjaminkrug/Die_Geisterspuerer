@@ -221,9 +221,9 @@ Wortfolgen, die in mehreren Kapiteln wiederkehren. **Nur Änderungen, die das Bu
 | N2 | K15 | **Präzision:** Halder habe der Reiseuhr „jeden Tag zugehört". Er war dreißig Jahre unterwegs (S2-3) und sagt in K12 selbst: „Jedes Mal, wenn ich hier bin" | „… zugehört, jedes Mal, wenn er hier war." | Stimmt jetzt mit K12 und S2-3 überein |
 | N3 | K14/K16 | **Konrads eigene Form des Gehens verwischt:** K14 „Dann war da nur noch Licht." — K16 bei den 96 fast wortgleich „Danach war da nur noch Licht". Die Planung verlangt für Konrad eine **eigene** Form (er geht nach Schichtende nach Hause, er wird nicht von innen hell) | K14: „Das Licht fiel ihm über die Schultern, und hinter dem Tor war nur noch die Sonne." | Konrad geht in den Morgen hinaus, die anderen leuchten von innen. Der Unterschied ist jetzt sichtbar, und K16 („So war es damals") bleibt allein Halders Erkennungsbild |
 | N4 | K13/K17 | **Friedas Mundwinkel:** K13 „verzog den Mundwinkel, nur ein kleines Stück", K17 „verzog den Mundwinkel. Nur ein Stück. Aber diesmal blieb er oben." K13 nahm die Einlösung fast wortgleich vorweg | K13: „Frieda nickte, kaum merklich." | Das Motiv (K5 Frieda = K11 Halder) endet jetzt ungestört in K17 |
-| N5 | K16 | **Marie** kam nach K8 noch zweimal vor (Gedanke K16 + Gruß K18). Der K16-Gedanke stellt sie neben die drei, die **an Halders Schloss** hingen; Marie hält Schuld, kein Schloss | K16-Gedanke gestrichen; K18-Gruß bleibt | Die Kanonregel „Schuld ist kein Schloss" bleibt sauber. Der K18-Gruß ist „was bleibt" und verspricht nichts |
-| N6 | K17 | **Müdigkeitswitze:** K13 Sonnenaufgänge, K14 Weihnachten/Pferd, K17 Weihnachten (Rückgriff) **und** „Nicht vor zwei. Das ist auch mein Plan." — der fünfte in fünf Kapiteln | „Nicht vor zwei"-Zeile gestrichen | Der Running Gag ermüdet; der Rückgriff „bis Weihnachten" in K17 trägt, der Zusatz nicht |
-| N7 | K16/K17 | **Bahnhof doppelt:** K16 vergleicht den alten Mann mit jemandem „am Bahnhof", eine Seite später wartet der Erste der drei **wirklich** am Bahnhof. Der Vergleich nimmt das Bild vorweg und lässt die beiden Männer verschwimmen | K16: „Eher wie ein Reisender, der vor seiner eigenen Haustür steht und den Schlüssel nicht findet." | Schlüssel-Motiv des Bandes statt Doppelung; trennt die Figuren |
+| ~~N5~~ | K16 | ~~Marie-Gedanke in K16 gestrichen~~ — **in der Selbstprüfung zurückgenommen (s. 3e)** | Gedanke wiederhergestellt | Die Kontinuität erlaubt ausdrücklich „höchstens einen Gedanken"; nach dem Lösen sind die drei wie Marie: ohne Schloss, gehalten vom eigenen Knoten — der Vergleich ist richtig, nicht verwischend |
+| N6 | K17 | **Müdigkeitswitze:** K13 Sonnenaufgänge, K14 Weihnachten/Pferd, K17 Weihnachten (Rückgriff) **und** „Nicht vor zwei. Das ist auch mein Plan." — der fünfte Witz in **drei** Kapiteln, zwei davon in K17 (Zählung in 3e korrigiert) | „Nicht vor zwei"-Zeile gestrichen | Der Running Gag ermüdet; der Rückgriff „bis Weihnachten" in K17 trägt, der Zusatz nicht |
+| N7 | K16/K17 | **Bahnhof doppelt:** K16 vergleicht den alten Mann mit jemandem „am Bahnhof", eine Seite später wartet der Erste der drei **wirklich** am Bahnhof. Der Vergleich nimmt das Bild vorweg und lässt die beiden Männer verschwimmen | K16: „Eher wie ein Reisender, der nach einer sehr langen Fahrt ankommt und nicht weiß, wohin mit seinem Koffer." (**in 3e korrigiert** — die erste Ersatzfassung „Haustür … Schlüssel nicht findet" sagte das Falsche) | Bahnhof weg, Bedeutung des Originals bleibt |
 | N8 | K11, K18 | Stil: K11 „… und blieb … und sah …" (Doppel-und); K18 „mit vollem Mund" zweimal | K11 in zwei Sätze geteilt; K18 „die Backen voller Kuchen" | — |
 | N9 | K13, K15 | „Wand mit den Uhren" **sechsmal** in fünf Kapiteln | K13, K15 (2×): „Uhrenwand" / „vor den Uhren" | Ortsbezeichnung bleibt, wirkt nicht mehr formelhaft |
 
@@ -241,6 +241,26 @@ Wortfolgen, die in mehreren Kapiteln wiederkehren. **Nur Änderungen, die das Bu
 - **Alle Fäden aus C bleiben offen** (Halders Weg, die drei, Friedas Zukunft, Brandursache, Marie). Kein Satz schließt sie.
 - **Leitplanken:** Uhr kein Schalter (Fäden reglos bis *Tick*) ✅ · Theo hält Schatten genau dreimal ✅ · Kinder nie im
   Wagen (nur Schatten) ✅ · Schatten in jedem Kapitel ✅ · Humor-Ausnahmen nur K4, K12 ✅.
+
+## 3e. Selbstprüfung der Nachanalyse 3d (2026-11-02, Auftrag des Autors)
+
+Jeder Punkt aus 3d noch einmal gegen die Texte geprüft.
+
+| Nr | Urteil | Begründung |
+|---|---|---|
+| N1 | ✅ richtig, aber nicht zwingend | „Gestern hat er noch …" ist auch Umgangssprache für „vor Kurzem" — bei Theo plausibel. Junge Leser lesen es aber wörtlich, und es widerspricht der Zeitlinie (Schloss in der Nacht Tag 0→1, K17 = Tag 3). Die Änderung schadet nicht. |
+| N2 | ✅ richtig | Belegt: S2-3 K5 („Wenn man unterwegs ist …"), S2-5 K3 („Ein paar Wochen, dann weiter"). Die neue Fassung spiegelt Halders eigenes „Jedes Mal, wenn ich hier bin" (K12). |
+| N3 | ✅ richtig | Die Planung verlangt für Konrad eine eigene Form. Vorher war K14 („nur noch Licht") fast wortgleich mit K16. Jetzt geht er in die Sonne, die 96 leuchten von innen. |
+| N4 | ✅ richtig, mit kleinem Verlust | Kette K3 Halder → K5 Frieda → K11 Halder → K17 Frieda „diesmal blieb er oben" ist intakt; „diesmal" bezieht sich auf K5. Verlust: der geteilte Moment Nora–Frieda in K13 ist jetzt ein Nicken statt eines Lächelns. Vertretbar. |
+| N5 | ❌ **falsch begründet — zurückgenommen** | (1) Die Kontinuität erlaubt „höchstens einen Gedanken" an Marie — der K16-Gedanke war genau das; ausgerechnet der K18-Gruß ist die Ausnahme. (2) Nach dem Lösen sind die drei wie Marie: kein Schloss mehr, gehalten vom eigenen Knoten. Der Vergleich ist also **zutreffend**, nicht verwischend. Gedanke wiederhergestellt. |
+| N6 | ✅ Entscheidung richtig, ❌ Zählung falsch | Es waren fünf Müdigkeitswitze in **drei** Kapiteln (K13, K14, K17), nicht in fünf. Zwei davon standen in K17 — der zweite war der überflüssige. Streichung bleibt. |
+| N7 | ⚠️ Problem richtig, **Lösung falsch — korrigiert** | Die Doppelung Bahnhof (K16 Vergleich / K17 echter Bahnhof) war real. Aber „vor seiner eigenen Haustür … den Schlüssel nicht findet" heißt: er kommt nicht hinein — das Gegenteil seines Zustands (gerade freigelassen, gleich geht er). Jetzt: „wie ein Reisender, der nach einer sehr langen Fahrt ankommt und nicht weiß, wohin mit seinem Koffer" — die ursprüngliche Bedeutung ohne „Bahnhof". |
+| N8 | ✅ richtig | Doppel-„und" in K11 war ein echter Stilfehler; „mit vollem Mund" zweimal in K18. |
+| N9 | ⚠️ vertretbar, aber kein echter Gewinn | „Wand mit den Uhren" ist eine Ortsbezeichnung, an der sich Leser orientieren; sechsmal in fünf Kapiteln ist mild. „Uhrenwand" ist natürlich und schadet nicht — bleibt, ohne weiteres Hin und Her. Nach der Regel „nur echte Verbesserungen" hätte ich es nicht anfassen müssen. |
+
+**Lehre:** Zwei Fehler entstanden, weil ich eine Regel aus dem Gedächtnis zitiert (N5) und eine Ersatzformulierung nur auf
+„Doppelung weg" geprüft habe, nicht auf ihre Bedeutung (N7). Ersatzsätze künftig auch gegen den Zustand der Figur in genau
+diesem Moment lesen.
 
 ---
 
