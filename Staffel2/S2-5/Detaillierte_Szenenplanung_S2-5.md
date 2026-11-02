@@ -107,6 +107,8 @@ angefangen hat.
 ### K8 – „Versprochen"
 **Ort/Zeit:** Tag 2, früher Morgen, Stadtpark.
 1. Zettel für Mama. Kurzer Weg in den Park.
+   ⚠️ **O1:** Frieda ist an Tag 2 tagsüber nicht dabei und nicht in der Werkstatt — höchstens ein Satz
+   von Nora/Theo, dass sie sich abends am Hof treffen.
 2. Marie sitzt bei den Kastanien und wartet. „Ihr seid wiedergekommen."
 3. Wenige Sätze. Nichts verändert sich, nichts wird versprochen. Schatten legt sich zu ihr.
 4. Auf dem Weiterweg rechnet Nora: Neunundneunzig warten seit Mai, und sie waren nie wieder dort.
@@ -138,6 +140,9 @@ zur Nachtschicht). Überleitungszeile Pflicht.
 4. Halder ist da → **alle Fäden sichtbar**, neunundneunzig. Schatten überwältigt; Theo hält ihn kurz
    (Halt 2), dann geht Theo zu Frieda.
 5. Halder hat heute früh die leere Schublade gefunden und gewartet.
+   ⚠️ **O3:** als Bild — Wächter-Uhr neu an der Wand, Stuhl am Werktisch, Schublade offen und leer
+   (Halders Ritual aus K7). **O2:** in K10 oder K11 ein Satz, warum Frieda es ihm nachts nicht sagte.
+   **O4:** Theo bei Frieda, Nora bleibt hinten (K7: „Aber ich steh hinten.").
 **Schatten:** überwältigt, gehalten. **Humor:** ein Atemzug von Theo.
 **Dialog-Träger:** Frieda/Halder (kurz). **Ende:** BILD — Halder sieht seine Tochter zwischen
 „denen".
@@ -150,6 +155,8 @@ zur Nachtschicht). Überleitungszeile Pflicht.
 4. Nora erinnert sich an ihren eigenen Satz aus S2-3 und sieht, dass er stimmt.
 5. Frieda: Das mit „anderen" damals in der Werkstatt — sie meinte ihn (S2-2 K12; alternativ K17).
 6. Theo, ein einziger Satz zur Entlastung.
+   ⚠️ **O5** (optional): Halder merkt, dass sie das Schloss selbst geöffnet hat — er hat es ihr
+   beigebracht. **O10:** Ortsnamen wie in K6.
 **Schatten:** zwischen Kindern und Halder, wachsam, ohne Knurren.
 **Dialog-Träger:** Frieda/Halder. **Ende:** AKTION — Frieda nimmt seine Hand und dreht ihn zur
 kleinen Uhr.
@@ -158,7 +165,11 @@ kleinen Uhr.
 ### K12 – „Zwölf"
 1. Halder vor seiner Uhr. Das Häkchen, das er jedes Mal auffrischt.
 2. Der Uhrmacher rechnet, laut, langsam: 23.20 Uhr. Zwölf. Vierzig Minuten.
+   ⚠️ **O6:** Theo hat es in K6 schon gerechnet und schweigt jetzt. **O9:** das Etikett unter seiner
+   eigenen Uhr — er zählt sich dazu.
 3. Warum er nie geöffnet hat: Er wollte nicht lesen, wer in dieser Nacht gestorben ist.
+   ⚠️ **O7:** Es stehen gar keine Namen drin (Frieda oder Nora sagt es).
+   **O8:** Seine Version („nach Hause", „zuerst in seinem Haus") kippt.
 4. Der Geist von Weißenbrück ging damals wirklich — er hat es nie als Erfolg sehen können.
 5. Die Narbe, ein Satz: Am Morgen danach fasste er die noch heiße Klinke am Haus des Geistes an.
    Nora sieht dabei auf seine Hand (Echo S2-3 K1/K11).
@@ -230,7 +241,7 @@ weiß, was wahr ist."
 ### K18 – „Was bleibt" (Epilog)
 1. Erster Schultag, Morgen. Mama in der Küche nach der Schicht.
 2. Die Standuhr schlägt — im Juli fand Nora sie „zu genau", heute stimmt sie einfach.
-3. Mia an der Schule; ein kleiner, echter Satz.
+3. Mia an der Schule; ein kleiner, echter Satz. ⚠️ **O11:** antwortet auf „Du hilfst immer irgendwem." (K7).
 4. Schatten in einem Sonnenfleck. Ein letzter Theo-Satz.
 4a. **Pflicht (aus K2):** Nora löst die Kuchen-Schuld ein — ein echter Kuchen für Theo.
 5. Kein Cliffhanger, kein Staffel-3-Versprechen. **ENDE STAFFEL 2.**

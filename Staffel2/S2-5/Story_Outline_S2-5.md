@@ -379,6 +379,25 @@ Bruchstücke seiner Geschichte, nicht die Lösung (die bekommt nur, wer fragt, u
 **Schatten:** liegt vor der Ruine, steht nicht auf. **Humor:** ein trockener Theo-Satz.
 **Cliffhanger [DIALOG]:** Der Geist: „Bring mir den, der mich festgemacht hat."
 
+## ⚠️ OFFENE PUNKTE AUS DEM GESCHRIEBENEN TEXT (Stand nach K7, 2026-11-02)
+
+> Was K1–K7 gesetzt haben und spätere Kapitel einlösen **müssen**. Beim Schreiben des jeweiligen
+> Kapitels abhaken. Details und Zitate: `Setup_Payoff_Tracker_S2-5.md` (Nummern in Klammern).
+
+| # | Kapitel | Punkt | Herkunft |
+|---|---|---|---|
+| O1 | K8–K10 | **Wo ist Frieda an Tag 2 tagsüber?** Nicht in der Werkstatt (dort wartet Halder seit dem Morgen). Sie stößt erst abends am Hof dazu (Szenenplanung K10, Schritt 1). | K7 (Logik) |
+| O2 | K10 oder K11 | **Ein Satz, warum Frieda es ihm nicht noch in der Nacht gesagt hat**, obwohl sie fürchtete, er öffnet die Schublade „heute Nacht" (z. B. er kam erst spät heim und ging vor Tagesanbruch wieder). | K7 (B9) |
+| O3 | K10 | **Halders Ritual einlösen:** Er hat die Wächter-Uhr aufgehängt, sich an den Werktisch gesetzt, um die Zeitungen zu lesen — und die Schublade leer gefunden. Als Bild zeigen (Stuhl am Werktisch, offene leere Schublade), nicht erklären. | K7 (B22) |
+| O4 | K10–K12 | **Theo steht bei Frieda, Nora hinten.** Nora hält sich sichtbar zurück und tritt erst vor, wenn es um den Wächter geht (K13). | K7 (B8, B21) |
+| O5 | K11 | Frieda hat das Schublade-Schloss selbst geknackt — Halder hat es ihr mit sechs beigebracht. Möglicher Halder-Satz; nicht Pflicht, aber naheliegend. | K5 (B18) |
+| O6 | K12 | **Halder rechnet selbst** (23.20 → zwölf → vierzig Minuten). Theo hat es in K6 schon ausgerechnet — er schweigt jetzt; die Wiederholung wirkt nur, weil es diesmal der Uhrmacher tut. | K6 (B7) |
+| O7 | K12 | **Der Brief nennt keine Namen.** Halder wollte nicht lesen, wer gestorben ist — dreißig Jahre Angst vor einem Satz, der gar nicht drinsteht. Frieda oder Nora sagt es, nicht der Erzähler. | K6 (B19) |
+| O8 | K12 | **Halders Version korrigieren:** Er glaubte, der Geist sei „nach Hause" gegangen und dort habe es „zuerst" gebrannt. Wahrheit: Der Geist ging damals wirklich; das Feuer kam aus der Färbergasse und erreichte den Mühlgraben zuletzt. Die Narbe (heiße Klinke am Morgen) passt: das zuletzt erfasste Haus. | K6 (B20) |
+| O9 | K12 | Reiseuhr-Etikett „wie bei allen anderen" (K6 erinnert, nicht gedeutet) → Halder zählt sich selbst zu den Gebundenen; das Häkchen frischt er jedes Mal auf. | K6 (A10) |
+| O10 | K11–K12 | Ortsnamen festhalten: Färbergasse (Ausbruch), Mühlgraben (Haus des Geistes), alte Bahnbrücke am anderen Ende der Stadt (Halders Versuch). Ilses Straße bleibt ungenannt. | K6 |
+| O11 | K18 | **Mia:** „Du hilfst immer irgendwem." (K7) — im Epilog ein kleiner, echter Satz, der darauf antwortet; gleich formulieren. **Kuchen-Schuld** einlösen (B15). | K2, K7 (B10, B15) |
+
 ## AKT 3 — Was er nie gefragt hat (K10–K13) · Tag 2 Abend
 
 ### Kapitel 10 – „Neunundneunzig Fäden"
