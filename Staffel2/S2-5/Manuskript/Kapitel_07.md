@@ -108,7 +108,7 @@ Theo linste ihr über die Schulter. "Geh doch", sagte er. "Der Wächter läuft n
 
 "Genau das ist das Problem", sagte Nora.
 
-Theo öffnete den Mund und machte ihn wieder zu. "Okay. Das war ein schlechter Witz."
+Theo blinzelte. "Okay. Das war ein schlechter Witz."
 
 "Nein. Der war gut. Er stimmt nur."
 
@@ -142,7 +142,7 @@ Frieda sagte es so schnell, dass Theo zusammenzuckte.
 
 "Dann hab ich's auch versteckt", sagte sie. "Dann bin ich genau wie er."
 
-Nora nickte langsam. "Aber merkt er's denn? Macht er die Schublade oft auf?"
+Nora nickte. "Aber merkt er's denn? Macht er die Schublade oft auf?"
 
 Frieda wollte antworten. Dann blieb sie mitten in der Bewegung stehen, die Hand noch am Riemen.
 
@@ -152,7 +152,7 @@ Niemand sagte etwas. Draußen fuhr ein Auto vorbei. Das Licht wanderte über die
 
 "Das vom Wächter", sagte Theo, "ist heute früh zugeschnappt."
 
-Schatten stand auf. Er ging zur Tür und blieb davor stehen, steif, den Kopf gesenkt. Als müsste er aufpassen, dass niemand hinausging. Oder dass niemand hereinkam.
+Schatten stemmte sich hoch. Er ging zur Tür und blieb davor stehen, steif, den Kopf gesenkt. Als müsste er aufpassen, dass niemand hinausging. Oder dass niemand hereinkam.
 
 Frieda drückte die Tasche gegen ihre Brust.
 

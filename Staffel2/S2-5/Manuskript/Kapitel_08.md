@@ -80,7 +80,7 @@ Etwas zog sich in Noras Brust zusammen. Sie wollte etwas sagen. *Wir kommen wied
 
 Sie dachte an den Wächter. An ihre eigene Stimme vor dem Häuschen. *Ich hol Sie da raus.* Ein Versprechen, bevor sie überhaupt gefragt hatte, was er brauchte.
 
-Sie machte den Mund wieder zu.
+Sie ließ den Satz, wo er war.
 
 Marie sah sie an, als hätte sie den Satz trotzdem gehört.
 
@@ -100,7 +100,7 @@ Marie nickte. Sie fragte nicht, zu wem.
 
 "Dann geht", sagte sie. "Ich sitz ja hier."
 
-Schatten stand auf. Es ging noch langsamer als beim Hinlegen. Er drehte sich zweimal nach Marie um, dann trottete er neben Nora her, den Kopf tief.
+Schatten kam schwerfällig auf die Beine, noch langsamer als beim Hinlegen. Er drehte sich zweimal nach Marie um, dann trottete er neben Nora her, den Kopf tief.
 
 ---
 
@@ -112,7 +112,7 @@ Sie holten die Räder vom Parkeingang. Theos Schloss klemmte. Er zerrte am Büge
 
 "Zwei Tage, Nora."
 
-Er sagte es nicht vorwurfsvoll. Er sagte es wie eine Rechnung, deren Ergebnis ihm nicht gefiel. Nora sah ihm an, dass er dieselbe Rechnung machte wie sie.
+Es war kein Vorwurf. Theo rechnete, und das Ergebnis gefiel ihm nicht. Nora rechnete dasselbe.
 
 "In der Werkstatt", sagte sie. "Die anderen."
 

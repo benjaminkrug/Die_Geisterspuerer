@@ -268,6 +268,10 @@ Ferien: Zu Beginn von S2-4 „Zwei Wochen Sommerferien waren noch übrig" (S2-4 
 9. Werkstatt und Lagerhallen nie verwechseln (Wortwahl).
 10. „Zum ersten Mal" nur, wenn es wirklich das erste Mal ist (Lehre aus S2-4 F2) — gegen S2-1 bis
     S2-4 prüfen.
+11. **Erzähler-Tics aus der Nachanalyse Akt 2** (`Zwischenanalyse_K1-K3.md` 3b): „Er sagte es nicht X. Er
+    sagte es wie Y." höchstens noch einmal im ganzen Band · „öffnete den Mund … wieder zu" nicht mehr ·
+    „Schatten stand auf." nicht als Absatzanfang · „Nur müde" nicht wieder · „Nora spürte, wie …" sparsam ·
+    „Dann" am Satzanfang (Erzähler) höchstens ~3 pro Kapitel.
 
 ---
 
@@ -444,10 +448,12 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 | K3 | 1.061 | 34,8 % | 0 | 114 | 0,9 | 3,2 % |
 | K4 | 1.120 | 22,6 % ¹ | 0 | 118 | 0,0 | 8,2 % |
 | K5 | 1.108 | 32,3 % | 0 | 93 | 2,7 | 3,1 % |
-| K6 | 986 | 34,6 % | 0 | 159 ² | 1,0 | 5,2 % |
-| K7 | 1.134 | 30,7 % ³ | 0 | 110 | 0,9 | 2,7 % |
-| K8 | 964 | 31,5 % | 0 | 80 | 0,0 | 4,4 % |
-| K9 | 1.073 | 30,6 % | 0 | 105 | 1,9 | 2,9 % |
+| K6 | 989 | 34,5 % | 0 | 159 ² | 1,0 | 5,2 % |
+| K7 | 1.127 | 30,9 % ³ | 0 | 110 | 0,9 | 2,7 % |
+| K8 | 954 | 31,9 % | 0 | 80 | 0,0 | 4,4 % |
+| K9 | 1.054 | 31,1 % | 0 | 105 | 1,9 | 4,3 % |
+
+Akt 2 gesamt (K5–K9, nach Nachanalyse 02.11.): 5.232 W, Dialog 32,1 %.
 
 ¹ K4 = Akt-1-Höhepunkt (Rückriss); der Spannungs-Prüfplan erlaubt bei Action-Höhepunkten unter 20 %.
 Akt 1 gesamt (K1–K4): ~4.760 W, Dialog ~31 %.

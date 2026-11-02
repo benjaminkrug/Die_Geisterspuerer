@@ -123,6 +123,56 @@ K1-Länge (im Zielbereich) · „Mit euch Kindern red ich nicht" (gewollte Ironi
 
 ---
 
+## 3b. Nachanalyse Akt 2 (K5–K9), 2026-11-02
+
+Akt 2 am Stück gelesen und über alle fünf Kapitel gemessen (Wortzählung je Kapitel gegen Akt 1).
+**Nur Änderungen, die das Buch besser machen.** Die Einzelkapitel waren schon überarbeitet; hier geht es um
+das, was erst beim Lesen am Stück auffällt.
+
+### Gefunden und geändert
+
+| Nr | Fund | Änderung | Begründung |
+|---|---|---|---|
+| A1 | **Tic „Er sagte es nicht X. Er sagte es wie Y."** — K4 (2×), K8, K9, dazu K7 („Er sagte es ganz ruhig. Nicht wie …"). Fünfmal in neun Kapiteln, immer als Erzählerkommentar zu einem Satz, der für sich wirkt | K8 → „Es war kein Vorwurf. Theo rechnete, und das Ergebnis gefiel ihm nicht."; K9 ersatzlos gestrichen (der Satz „Weil du's nicht bist" trägt allein). K4-Arzt-Bild bleibt (das stärkste) | Die Formel erklärt dem Leser, wie er eine Zeile hören soll — beim fünften Mal hört man die Formel statt der Zeile |
+| A2 | **Geste „öffnete den Mund … machte ihn wieder zu"** 4× in Akt 2 (K5 Frieda, K7 Nora, K7 Theo, K8 Nora) | K7 Theo → „Theo blinzelte."; K8 Nora → „Sie ließ den Satz, wo er war." | Zweimal dieselbe Geste für Noras Zurückhalten in zwei Kapiteln hintereinander verwischt den Unterschied K7 (lässt Theo) / K8 (verspricht nicht). Das K8-Bild knüpft jetzt an „Der Satz lag ihr schon auf der Zunge" an |
+| A3 | **Absatzanfang „Schatten stand auf." 5×** (K5, K6, K7 2×, K8) | K7 Schluss → „Schatten stemmte sich hoch."; K8 → „Schatten kam schwerfällig auf die Beine" | Variation, und beide Ersatzverben zeigen das Altern (Tracker A31), statt es nur zu behaupten |
+| A4 | **K5-Ende / K6-Anfang:** derselbe Satz „Nora sah auf den grauen Umschlag" — drei Absätze voneinander entfernt, wenn man durchliest | K6 → „Der graue Umschlag lag zwischen ihnen auf dem Bett." | Beim Lesen am Stück wirkte es wie ein Kopierfehler |
+| A5 | **Der Wächter klingt zweimal gleich:** K2 „Es klang nicht böse. Nur müde." · K9 „Es klang nicht mehr wütend. Nur müde." | K9 → „Zum Schimpfen hatte seine Stimme keine Kraft mehr." | Die Veränderung seit K2 (er wird schwächer) muss man hören — dieselbe Formel sagt „nichts hat sich geändert" |
+| A6 | **K9: sechs Erzählsätze beginnen mit „Dann"** (5,6 pro 1.000 W; Akt-2-Schnitt sonst ~3) | drei ersetzt („Er drehte wieder um.", „Schließlich lachte er kurz.", „Er ließ es.") | Das Hin-und-Her des Wächters bekam einen Stakkato-Takt, der nach Aufzählung klang |
+| A7 | **„Nora spürte, wie …" in K8 und K9 direkt hintereinander** (Blut in den Wangen / Augen brannten) | K9 → „Ihre Augen brannten." | Körperliche Emotion bleibt, die Einleitungsformel fällt weg — direkter am Höhepunkt |
+| A8 | K7: „nickte langsam" und „sagte sie langsam" in zwei Folgeabsätzen | „Nora nickte." | „langsam" hat sich in Akt 2 gegenüber Akt 1 verdoppelt (12 zu 6) |
+
+**Messung nach den Änderungen:** keine neuen Sätze > 18 W, keine Formeln, keine gleichen Sprecher
+hintereinander. Akt 2: **5.232 W, Dialog 32,1 %** (K5 32,3 · K6 34,5 · K7 30,9 · K8 31,9 · K9 31,1).
+
+### Geprüft, bleibt (mit Begründung)
+
+- **Spannungskurve K6–K8** (drei ruhige Kapitel, K6/K7 ein durchgehender Abend in Noras Zimmer). Getragen
+  wird sie von einer tickenden Drohung: Die Schublade (K7) läuft in K8 weiter (Theos „Glaubst du, er weiß es
+  schon?"), und K8 ist mit 954 W das kürzeste Kapitel. Akt 2 heißt „Fragen" — ein Innenakt ist richtig. Ein
+  zusätzlicher Schreck wäre Füllung. **Leitplanke für Akt 3:** K10 muss sofort körperlich werden (Weg, Riegel,
+  Fäden), kein Gesprächsauftakt.
+- **Halder fehlt in ganz Akt 2.** Gewollt: Er ist über Brief, Uhr, Ritual und Frieda anwesend. Dadurch wirkt
+  sein Auftritt in K10 als Ereignis.
+- **Schatten liegt in vier von fünf Kapiteln** (vor der Tasche, zwischen den dreien, bei Marie, vor dem
+  Häuschen). Jede Lage hat eine andere Bedeutung (Hinweis, Unentschiedenheit, Trost, Verweigerung), und das
+  Liegen passt zum Altern. Bleibt.
+- **Kurzabsätze 3–5 %** (Ziel 7–8): wie Akt 1 (Leitplanke F9). Neue Kurzabsätze nur an echten Schockstellen;
+  Akt 2 hat kaum welche. Nicht künstlich erzeugen.
+- **„ganz" 12× in K5:** verteilt, keine Häufung in einem Absatz, verschiedene Bedeutungen. Bleibt.
+- **Bögen:** Nora (K4 verspricht → K8 hält inne → K9 fragt) ✅ · Frieda (K5 kommt entschieden → K6 öffnet →
+  K7 versteckt nichts mehr) ✅ · Theo (K6 hält den Umschlag → K7 sagt „ich" → K9 „Einer muss ja") ✅.
+- **Logik/Kanon über den Akt:** Zeitlinie Tag 1 Abend → Tag 2 8.10 Uhr stimmt (Bus, Nachtschicht, „vor zwei
+  Tagen" Marie, „gestern" K1–K4); Ortsnamen K6 nur dort; kein Faden in K9; „Ablösung" fällt nicht; Konrad nicht
+  genannt; Mia nur als Nachricht.
+- **Cliffhanger-Folge:** OBJEKT → ERKENNTNIS → KOMPLIKATION → GEDANKE → DIALOG, keine zwei gleichen.
+
+### Neue Leitplanken (in Kontinuität „Beim Schreiben aktiv prüfen" übernommen)
+„Er sagte es nicht X. Er sagte es wie Y." höchstens noch einmal im Band · Mund-auf-zu-Geste nicht mehr ·
+„Schatten stand auf." nicht als Absatzanfang · „Nur müde" nicht wieder · „Dann" am Satzanfang im Blick.
+
+---
+
 ## 4. Spannung — Teil B (je Kapitel)
 
 | | Haken | Vorwärts | kein zäher Block | Schatten | Subtext | Rhythmus | Cliffhanger | Score |

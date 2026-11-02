@@ -14,7 +14,7 @@ Sie lachte kurz, aber es war kein richtiges Lachen. Ihre Finger hatten sich inei
 
 "Weiß ich nicht." Frieda nickte zu den Zeitungsausschnitten hin. "Da steht: zwei Tote. Vielleicht steht da drin, wer. Vielleicht wollte er das nicht lesen."
 
-Nora sah auf den grauen Umschlag. Sie dachte an einen Küchentisch im Februar. An zwölf Geburtstagskarten, aufgefächert, jede in derselben Handschrift. Keine einzige abgeschickt.
+Der graue Umschlag lag zwischen ihnen auf dem Bett. Nora dachte an einen Küchentisch im Februar. An zwölf Geburtstagskarten, aufgefächert, jede in derselben Handschrift. Keine einzige abgeschickt.
 
 "Oder weil Aufmachen heißt, dass man sich irren könnte", sagte sie leise.
 

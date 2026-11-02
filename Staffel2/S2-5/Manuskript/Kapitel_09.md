@@ -72,7 +72,7 @@ Beim nächsten Mal sagte der Wächter etwas, ganz leise, in Richtung Weg.
 
 "Rundgang acht Uhr. Tore eins bis sechs. Keine besonderen Vorkommnisse."
 
-Dann drehte er wieder um.
+Er drehte wieder um.
 
 Nora kannte den Satz. Sie wusste nicht, woher. Er klang nach etwas, das man jeden Tag sagt, ohne darüber nachzudenken. Sie versuchte, die Erinnerung festzuhalten, aber sie rutschte weg.
 
@@ -82,7 +82,7 @@ Sie kniete sich vor die Tür. Nicht zu nah, an dieselbe Stelle wie gestern. Dies
 
 Der Wächter blieb an der Schwelle stehen. Er sah auf sie herunter.
 
-"Du schon wieder", sagte er. Es klang nicht mehr wütend. Nur müde.
+"Du schon wieder", sagte er. Zum Schimpfen hatte seine Stimme keine Kraft mehr.
 
 "Ja."
 
@@ -94,7 +94,7 @@ Er wartete.
 
 "Was brauchen Sie?"
 
-Er sah sie lange an. So lange, dass Nora dachte, er hätte die Frage nicht gehört. Dann lachte er kurz. Es war kein schönes Lachen. Es klang, als hätte er vergessen, wie es geht.
+Er sah sie lange an. So lange, dass Nora dachte, er hätte die Frage nicht gehört. Schließlich lachte er kurz. Es war kein schönes Lachen. Es klang, als hätte er vergessen, wie es geht.
 
 "Was ich brauch", sagte er. "Das hat mich noch keiner gefragt."
 
@@ -122,7 +122,7 @@ Hinter Nora winselte Schatten. Einmal nur, kurz und hoch.
 
 "Es will aber auch keiner rein", sagte Theo von hinten. "Ehrlich. Außer uns will hier keiner hin."
 
-Der Wächter sah über Nora hinweg zu ihm. Fast hätte er etwas gesagt. Dann ließ er es.
+Der Wächter sah über Nora hinweg zu ihm. Fast hätte er etwas gesagt. Er ließ es.
 
 Nora wusste, dass sie etwas in der Hand hielt. Die Kästen. Das Stempeln. *Es kommt immer einer.* Der Satz an der Tür, den sie irgendwoher kannte. Es lag alles direkt vor ihr, wie Puzzleteile mit der bunten Seite nach unten. Sie bekam sie nicht umgedreht.
 
@@ -134,9 +134,9 @@ Der Wächter sah wieder auf sie herunter. Diesmal war sein Blick hart.
 
 "Warum nicht?"
 
-"Weil du's nicht bist." Er sagte es nicht böse. Er sagte es, wie man sagt, dass es regnet. "Du bist ein Kind mit einem Hund. Du hast mich hier nicht festgemacht. Du kannst mich auch nicht losmachen."
+"Weil du's nicht bist. Du bist ein Kind mit einem Hund. Du hast mich hier nicht festgemacht. Du kannst mich auch nicht losmachen."
 
-Nora spürte, wie ihr die Augen brannten. Sie blinzelte heftig. Sie wollte nicht weinen, nicht vor ihm.
+Ihre Augen brannten. Sie blinzelte heftig. Sie wollte nicht weinen, nicht vor ihm.
 
 "Ich hab Sie wenigstens gefragt", sagte sie.
 
