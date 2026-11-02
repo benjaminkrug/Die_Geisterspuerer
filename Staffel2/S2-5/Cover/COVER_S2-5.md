@@ -230,7 +230,7 @@ small kitchen clock. Warm light is beginning to fill this end of the room.
 THE MAN AT THE CLOCK WALL: a man of about fifty stands in front of the clock
 wall, seen ENTIRELY FROM BEHIND, slightly bent forward, smaller in the picture
 than the children because he is further away. Plain dark work jacket, short
-dark hair turning grey. In his right hand, held close in front of him: a tiny
+dark hair, grey at the temples. In his right hand, held close in front of him: a tiny
 old travel clock in a small fabric case, so small it almost disappears in his
 palm. From his left hand hangs a thin chain with ONE small GOLDEN KEY on it,
 catching the warm light. A heavy round black leather-cased clock hangs on a
@@ -307,10 +307,8 @@ children.
 
 ## 4. Prompt Rückseite
 
-> ⚠️ **Noch nicht vollständig.** Block G verlangt die Texte **wörtlich aus `KDP_S2-5.md`** —
-> die Datei gibt es noch nicht. Der Klappentext wird im Schritt „KDP-Texte" geschrieben und
-> Satz für Satz gegen das Buch geprüft (vgl. Memory „Verkaufstexte nie geprüft": 19 Faktenfehler).
-> Danach werden [C]–[J] hier eingesetzt. Der Hintergrund-Teil steht schon.
+> Texte [A]–[K] **wörtlich aus `KDP_S2-5.md` Abschnitt 6** (dort mit Belegliste, jede Aussage
+> gegen das Manuskript geprüft). Wird der Text dort geändert: hier nachziehen und neu prüfen.
 >
 > **Die gewählte Vorderseite als Referenzbild anhängen.**
 
@@ -335,13 +333,31 @@ quotes „ " where shown.
 
 [B]  Die Gebundenen · Band 5
 
-[C]  <Pull-Quote aus KDP_S2-5.md>
+[C]  „Diesen lasse ich nicht los. Nicht noch einmal."
 
-[D]–[H]  <Klappentext-Absätze aus KDP_S2-5.md, je einer pro Block>
+[D]  Hinter einem alten Gleis, bei den leeren Lagerhallen, rasseln im
+     Morgengrauen die Rolltore. Eins nach dem anderen, genau nach den
+     Nummern. Ein Wächter macht seine Runde – grau, durchscheinend und
+     wütend.
+
+[E]  Nora und Theo wissen, wer ihn dort festhalten will: Herr Halder, der
+     freundliche Mann, der seit dreißig Jahren Geister in Schlösser sperrt.
+     Denn dieser Geist erinnert ihn an einen anderen. An die Nacht, in der
+     in Weißenbrück sechs Häuser brannten.
+
+[F]  Am Abend steht Frieda vor der Tür, Halders Tochter. Sie hat eine
+     abgeschlossene Schublade ihres Vaters geöffnet. Darin: ein grauer
+     Umschlag von der Feuerwehr. Dreißig Jahre alt – und noch immer
+     zugeklebt.
+
+[G]  „Wir möchten uns ordnungsgemäß anmelden." – Theo, zu einem Geist
+
+[H]  Diesmal dreht Nora nicht um. Diesmal sieht sie hin. Das Finale der
+     Gebundenen.
 
 [I]  Grusel-Abenteuer für mutige Leser ab 12 Jahren — Kribbeln ja, Albträume nein.
 
-[J]  <Reihen-Notiz aus KDP_S2-5.md>
+[J]  Band 5 und Finale der Gebundenen. Band 1 bis 4 sind bereits erschienen.
 
 [K]  Benjamin Krug
 
@@ -354,7 +370,10 @@ FORBIDDEN TEXT - never render:
   TWELVE and block [I] is the ONLY age line.
 - keyword / theme rows such as "Freundschaft · Mut · Geheimnisse".
 - any generic adventure blurb instead of [D]-[H].
-- <bandspezifische Verbote nach dem Klappentext ergänzen>
+- the words Konrad, Ablösung, Reiseuhr, Kontrolluhr, Marie, Clara, Ilse,
+  "befreit", "frei", any time of day such as "23.20" - none of them belong
+  on this cover; do not add an ending or a solution to the story.
+- the word "Staffel" anywhere.
 
 ╔══════════════════════════════════════════════════════╗
   LAYOUT (height 0 = top, 100 = bottom; all text centred inside the
@@ -418,7 +437,8 @@ above all NO barcode and NO digits.
 2. [D]-[H] all present, complete, in order.
 3. It says "ab 12 Jahren". No keyword row. No second blurb.
 4. NO barcode, NO ISBN, NO digits. Lower-right quarter empty and dark.
-5. Umlauts correct, no ae/oe/ue: Geisterspürer, für, Albträume.
+5. Umlauts and ß correct, no ae/oe/ue/ss: Geisterspürer, Wächter,
+   Weißenbrück, Häuser, Tür, möchten, ordnungsgemäß, für, Albträume.
 6. Greyscale test: every block clearly lighter than its background.
 7. No figures. The centre is near-black.
 ```
@@ -440,8 +460,8 @@ above all NO barcode and NO digits.
    Staffel ist das erwartbar, und der Plan verlangt es ausdrücklich („viele befreite, warme
    Lichtpunkte"). Es verrät nicht, **warum**
    Halder loslässt (Brief, Konrad, die Reiseuhr), und das ist der eigentliche Twist.
-4. **Halders Aussehen ist erfunden, soweit es sichtbar ist** (Arbeitsjacke, graue Haare). Belegt
-   ist nur ~48 Jahre, Narbe, Kette mit goldenem Schlüssel, Kontrolluhr am Riemen (K13–K16). Von
+4. **Halders Aussehen ist zum Teil erfunden** (Arbeitsjacke). Belegt sind ~48 Jahre, „die grauen
+   Schläfen" (K3), Narbe, Kette mit goldenem Schlüssel, Kontrolluhr am Riemen (K13–K16). Von
    hinten und klein im Bild ist das vertretbar; ein Gesicht wäre es nicht.
 5. **Die Kontrolluhr** („runde, schwere Uhr in ihrem schwarzen Ledergehäuse", K12; „am Riemen",
    K16) ist ein kleines Detail. Rendert das Modell sie nicht, wird sie **nicht** nachgefordert.
@@ -473,7 +493,7 @@ above all NO barcode and NO digits.
 | Punkt | Status |
 |---|---|
 | Konzept + Vorderseiten-Prompt | ✅ fertig |
-| Rückseiten-Prompt | 🔶 Hintergrund fertig, Texte warten auf `KDP_S2-5.md` |
+| Rückseiten-Prompt | ✅ fertig (Texte aus `KDP_S2-5.md` Abschnitt 6, 02.11.) |
 | Bilder | ⏳ noch nicht erzeugt |
 | Seitenzahl endgültig | 109 ohne Widmung/Epigraph |
 | `build_cover_s2_5.py` | ⏳ nach den Bildern |
