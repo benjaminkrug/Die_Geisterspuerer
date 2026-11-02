@@ -289,7 +289,7 @@ Marie, Staffel 3.
 
 - ✅ Akt 1 — Hinsehen (K1–K4): K1, K2 (26.10.), K3, K4 (27.10.) geschrieben
 - 🔶 Akt 2 — Fragen (K5–K9): K5 geschrieben (27.10.), K6 (28.10.), K7, K8, K9 (02.11.) → **Akt 2 abgeschlossen**
-- 🔶 Akt 3 — Was er nie gefragt hat (K10–K13): K10, K11 (02.11.)
+- 🔶 Akt 3 — Was er nie gefragt hat (K10–K13): K10, K11, K12 (02.11.)
 - ⬜ Akt 4 — Der letzte Schlüssel (K14–K18)
 
 ## ZEITLINIE (Ist)
@@ -309,6 +309,26 @@ Marie, Staffel 3.
 | K6 | Tag 1, Abend (direkt im Anschluss) | Noras Zimmer, alle drei auf dem Boden; Mama kocht in der Küche (Töpfe, summt) |
 
 | K7 | Tag 1, Abend → Frieda fährt mit dem Bus „um halb" | Abendessen in der Küche (Nudeln mit Tomaten), dann Noras Zimmer |
+
+| K12 | Tag 2, ~20 Uhr (direkt im Anschluss) | Werkstatt; Fäden unverändert sichtbar |
+
+**Neu festgelegt in K12 (ab hier Kanon):** **Das Etikett unter der Reiseuhr** — „Weil ich dazugehöre. Jedes Mal,
+wenn ich hier bin, zieh ich es nach." (Halder zählt sich zu den Gebundenen). **Die Uhr:** am Morgen nach dem Feuer
+auf zwölf angehalten; die Zwölf schlug „von der Kirche am Markt" (Weißenbrück). **Halder rechnet selbst** laut:
+„Dreiundzwanzig Uhr zwanzig. Bis vierundzwanzig Uhr. … Vierzig Minuten." (zweimal); Theo schweigt. **Was er um
+zwölf sah:** Der Geist, zwei Tage wütend, wurde an der Bahnbrücke „hell. Von innen, wie eine Lampe, die jemand
+langsam aufdreht" und war weg — Halder hielt es dreißig Jahre für Flucht „nach Hause. Mit seiner ganzen Wut".
+**Die Narbe:** am Morgen zum Mühlgraben gelaufen, die Tür des Geisterhauses war noch zu, er fasste die Klinke an
+(„Ich wollte nachsehen, ob er da drin ist"), „Die Klinke war noch heiß." Frieda: „Er ist gegangen. Richtig
+gegangen. So wie Grete. So wie Ilse." **Halder sitzt auf dem Holzboden**, Rücken am Werktisch: „Ich hab's
+geschafft. Mit achtzehn. Beim ersten Mal." / „Und ich hab dreißig Jahre gedacht, ich hätte ein Viertel
+angezündet." **Schatten legt sich ohne Zögern neben ihn**, Rücken an Halders Schuh; Halders Hand liegt auf seinem
+Fell. **Warum nie geöffnet:** „Weil ich wusste, wer in der Nacht gestorben ist. Ilse. Und die Frau, bei der sie
+gearbeitet hat. … Ich wollte ihre Namen nicht auf einem Blatt sehen, das ich selbst bestellt hatte. Gedruckt. Mit
+Stempel." — Frieda: „Da stehen keine Namen drin … Du hast dreißig Jahre Angst vor einem Satz gehabt, der gar nicht
+drinsteht." Halder liest selbst, faltet „Kante auf Kante": „Ich hätte ihn nur aufmachen müssen." **Die Fäden
+bewegen sich nicht.** Schluss: „Und der von den Lagerhallen?" — die Hand auf Schatten zittert. **Die Angst ist
+geblieben** (→ K13/K14: er geht mit Angst, nicht geheilt).
 
 | K11 | Tag 2, ~19.45 (direkt im Anschluss) | Werkstatt; Fäden sichtbar (Halder da) |
 
@@ -491,11 +511,15 @@ Auf der Fahrt, hinter der Brücke: Schatten starrt beim Trinken nach Norden.
 | K9 | 1.054 | 31,1 % | 0 | 105 | 1,9 | 4,3 % |
 | K10 | 1.255 | 16,9 % ⁴ | 0 | 149 | 2,4 | 1,2 % |
 | K11 | 938 | 31,7 % | 0 | 101 | 2,2 | 3,2 % |
+| K12 | 1.013 | 29,1 % ⁵ | 0 | 89 | 1,0 | 8,2 % |
 
 Akt 2 gesamt (K5–K9, nach Nachanalyse 02.11.): 5.232 W, Dialog 32,1 %.
 ⁴ K10 = Bild-Höhepunkt (Akt-3-Auftakt): Der Inhalt ist, was Nora **sieht** — das Netz, die Uhrenwand, die
 leere Schublade. Wie K4 bewusst unter 20 %. Dialog nur dort, wo er natürlich ist (Hof, Theos Fragen, Frieda an
 der Uhrenwand); Halder sagt ein Wort. K11 muss das ausgleichen (Frieda/Halder-Dialog).
+⁵ K12: knapp unter 30 % — Emotionshöhepunkt ohne Humor (Ausnahme 2). Der Text, der kein Dialog ist, sind Halders
+Körper (Hand, Boden, Schatten) und Noras zwei Erkenntnisse (Etikett, Schluss). Zwei echte Zeilen ergänzt („Papa?",
+„Ich hätte ihn nur aufmachen müssen"), mehr wäre Gerede in der Stille.
 
 ¹ K4 = Akt-1-Höhepunkt (Rückriss); der Spannungs-Prüfplan erlaubt bei Action-Höhepunkten unter 20 %.
 Akt 1 gesamt (K1–K4): ~4.760 W, Dialog ~31 %.

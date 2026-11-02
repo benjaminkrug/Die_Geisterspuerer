@@ -406,11 +406,11 @@ Bruchstücke seiner Geschichte, nicht die Lösung (die bekommt nur, wer fragt, u
 | O3 ✅ K10 | K10 | **Halders Ritual einlösen:** Er hat die Wächter-Uhr aufgehängt, sich an den Werktisch gesetzt, um die Zeitungen zu lesen — und die Schublade leer gefunden. Als Bild zeigen (Stuhl am Werktisch, offene leere Schublade), nicht erklären. | K7 (B22) |
 | O4 | K10–K12 | **Theo steht bei Frieda, Nora hinten.** Nora hält sich sichtbar zurück und tritt erst vor, wenn es um den Wächter geht (K13). | K7 (B8, B21) |
 | O5 ✅ K11 | K11 | Frieda hat das Schublade-Schloss selbst geknackt — Halder hat es ihr mit sechs beigebracht. Möglicher Halder-Satz; nicht Pflicht, aber naheliegend. | K5 (B18) |
-| O6 | K12 | **Halder rechnet selbst** (23.20 → zwölf → vierzig Minuten). Theo hat es in K6 schon ausgerechnet — er schweigt jetzt; die Wiederholung wirkt nur, weil es diesmal der Uhrmacher tut. | K6 (B7) |
-| O7 | K12 | **Der Brief nennt keine Namen.** Halder wollte nicht lesen, wer gestorben ist — dreißig Jahre Angst vor einem Satz, der gar nicht drinsteht. Frieda oder Nora sagt es, nicht der Erzähler. | K6 (B19) |
-| O8 | K12 | **Halders Version korrigieren:** Er glaubte, der Geist sei „nach Hause" gegangen und dort habe es „zuerst" gebrannt. Wahrheit: Der Geist ging damals wirklich; das Feuer kam aus der Färbergasse und erreichte den Mühlgraben zuletzt. Die Narbe (heiße Klinke am Morgen) passt: das zuletzt erfasste Haus. | K6 (B20) |
-| O9 | K12 | Reiseuhr-Etikett „wie bei allen anderen" (K6 erinnert, nicht gedeutet) → Halder zählt sich selbst zu den Gebundenen; das Häkchen frischt er jedes Mal auf. | K6 (A10) |
-| O10 | K11–K12 | Ortsnamen festhalten: Färbergasse (Ausbruch), Mühlgraben (Haus des Geistes), alte Bahnbrücke am anderen Ende der Stadt (Halders Versuch). Ilses Straße bleibt ungenannt. | K6 |
+| O6 ✅ K12 | K12 | **Halder rechnet selbst** (23.20 → zwölf → vierzig Minuten). Theo hat es in K6 schon ausgerechnet — er schweigt jetzt; die Wiederholung wirkt nur, weil es diesmal der Uhrmacher tut. | K6 (B7) |
+| O7 ✅ K12 | K12 | **Der Brief nennt keine Namen.** Halder wollte nicht lesen, wer gestorben ist — dreißig Jahre Angst vor einem Satz, der gar nicht drinsteht. Frieda oder Nora sagt es, nicht der Erzähler. | K6 (B19) |
+| O8 ✅ K12 | K12 | **Halders Version korrigieren:** Er glaubte, der Geist sei „nach Hause" gegangen und dort habe es „zuerst" gebrannt. Wahrheit: Der Geist ging damals wirklich; das Feuer kam aus der Färbergasse und erreichte den Mühlgraben zuletzt. Die Narbe (heiße Klinke am Morgen) passt: das zuletzt erfasste Haus. | K6 (B20) |
+| O9 ✅ K12 | K12 | Reiseuhr-Etikett „wie bei allen anderen" (K6 erinnert, nicht gedeutet) → Halder zählt sich selbst zu den Gebundenen; das Häkchen frischt er jedes Mal auf. | K6 (A10) |
+| O10 ✅ K11–K12 | K11–K12 | Ortsnamen festhalten: Färbergasse (Ausbruch), Mühlgraben (Haus des Geistes), alte Bahnbrücke am anderen Ende der Stadt (Halders Versuch). Ilses Straße bleibt ungenannt. | K6 |
 | O12 | K14 | **Übergabesatz einlösen:** „Keine besonderen Vorkommnisse" (K9) — Nora kennt ihn „irgendwoher" = Mamas Schichtübergabe im Krankenhaus (Echo K2 „Wie Mama im Krankenhaus"). Erst in K14 klickt es; das Wort „Ablösung" fällt erst dort. | K9 (D2) |
 | O14 | K16 | **Die Neunundneunzig sind in der Werkstatt, aber verblasst** (K10: Fäden enden in der Luft; „Weil sie schon so lange hier sind"). Beim Lösen müssen sie **wieder sichtbar werden**, bevor sie gehen — das trägt die „Bilder von Gehenden" und die drei, die bleiben. Nicht widersprechen: Grete war in S2-2 erst nach langem Hinsehen fest. | K10 |
 | O15 | K14 | **Die Kontrolluhr des Wächters hängt in der Werkstatt** (steht auf kurz vor sechs = er wartete auf die Sechs-Uhr-Ablösung). Möglich und stark: Halder bringt sie in K14 mit. Mindestens muss klar sein, was mit ihr nach der Ablösung geschieht. | K10 |
@@ -460,7 +460,18 @@ ihren eigenen Satz aus S2-3 — und sieht, dass er stimmt. **Schatten:** zwische
 wachsam, ohne zu knurren. **Humor:** ein einziger Theo-Satz zur Entlastung.
 **Cliffhanger [AKTION]:** Frieda nimmt seine Hand und dreht ihn zur kleinen Uhr.
 
-### Kapitel 12 – „Zwölf"
+### Kapitel 12 – „Zwölf" ✅ geschrieben (2026-11-02)
+*Ist-Stand:* Etikett unter der Reiseuhr: „Weil ich dazugehöre. Jedes Mal, wenn ich hier bin, zieh ich es nach." (O9).
+Uhr am Morgen danach angehalten; zwölf schlug „von der Kirche am Markt". Halder rechnet selbst, zweimal „Vierzig
+Minuten"; Theo schweigt (O6). Der Geist wurde um zwölf an der Bahnbrücke „hell. Von innen" — Halder hielt es für
+Flucht nach Hause (O8). Narbe: Klinke am Mühlgraben, „Ich wollte nachsehen, ob er da drin ist." Frieda: „Er ist
+gegangen. Richtig gegangen. So wie Grete. So wie Ilse." Halder rutscht am Werktisch auf den Boden: „Ich hab's
+geschafft. Mit achtzehn. Beim ersten Mal. Und ich hab dreißig Jahre gedacht, ich hätte ein Viertel angezündet."
+Schatten legt sich an seinen Schuh, Halders Hand auf seinem Fell. Warum nie geöffnet: Ilses und Frau Reinkes Namen
+nicht „gedruckt, mit Stempel" sehen — „Da stehen keine Namen drin." (O7) — „Ich hätte ihn nur aufmachen müssen."
+Fäden unverändert. Schluss: „Und der von den Lagerhallen?" — Hand zittert — „Der Brief hatte ihm den Grund
+genommen. Die Angst nicht." Kein Humor (Ausnahme 2).
+*Plan:*
 Der Uhrmacher kann nicht anders, er rechnet: Alarm kurz nach elf, die Uhr auf zwölf. Vierzig
 Minuten. Er bestätigt, warum er nie geöffnet hat. Und er sagt, was er nie jemandem gesagt hat:
 Der Geist von Weißenbrück ist in jener Nacht wirklich gegangen. Er hat es geschafft — und konnte

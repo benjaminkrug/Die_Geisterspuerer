@@ -62,8 +62,8 @@ Tatsache weiterverwendet werden.
 | S2-5 K5 | Zerlesene Zeitungsausschnitte: „Großbrand in der Weißenbrücker Altstadt", „Feuer zerstört sechs Häuser", „Zwei Tote in der Nacht" — **in keinem eine Uhrzeit** („In der Nacht", „In den späten Abendstunden", „Nachts"); darunter ein ungeöffneter Umschlag der Freiwilligen Feuerwehr Weißenbrück | Die Lücke wird sichtbar: Er kannte nie die Zeit | ✅ |
 | S2-5 K6 | Der Brief: „Der Alarm ging um 23.20 Uhr ein. Das Feuer brach in einem Hinterhof in der Färbergasse aus. Von dort griff es auf die umliegenden Straßen über, zuletzt auf die Häuser am Mühlgraben." — Frieda: „Er hat angefangen, als es zwölf schlug." — Theo: „Das sind vierzig Minuten." | harter Beleg | ✅ |
 | S2-5 K11 | Frieda liest den Brief vor; Halder wehrt als Uhrmacher ab („Ich weiß, wie wenig eine Uhrzeit beweist"); Frieda dreht ihn zur Reiseuhr | Vorbereitung der Auflösung | ✅ |
-| S2-5 K12 | Halders Reiseuhr auf zwölf; er rechnet nach: vierzig Minuten | Auflösung | 🔶 |
-| S2-5 K12 | Narbe: die heiße Klinke am Morgen danach | Kette 4 schließt mit | 🔶 |
+| S2-5 K12 | Halders Reiseuhr auf zwölf; er rechnet nach: „Dreiundzwanzig Uhr zwanzig. Bis vierundzwanzig Uhr. … Vierzig Minuten." | Auflösung | ✅ |
+| S2-5 K12 | Narbe: „Ich hab die Klinke angefasst. Ich wollte nachsehen, ob er da drin ist. … Die Klinke war noch heiß." | Kette 4 schließt mit | ✅ |
 
 **Rückwärtsdurchgang vor S2-5 — gegen die Texte (2026-10-26):** Die Kette hält. Ab S2-3 K12 kann ein
 aufmerksamer Leser ahnen, dass Halder die Reihenfolge nie kennen konnte; keine Stufe nimmt die
@@ -123,7 +123,7 @@ früh möglich ist. ⚠️ S2-5 darf die Uhr vor K6 nicht erwähnen (sonst verbr
 | S2-3 K12 | „Ich war nicht dort, als es anfing." (Die Narbe kann also nicht vom Ausbruch stammen) | ✅ |
 | S2-4 K4 | Nora denkt: „Ein Mann mit einer Brandnarbe an der Hand." | ✅ |
 | S2-5 K4 | Halders Hand unruhig, als er geht | 🔶 |
-| S2-5 K12 | Die heiße Klinke am Haus des Geistes, am Morgen danach (Autorentscheidung 26.10.) | 🔶 Auflösung |
+| S2-5 K12 | Die heiße Klinke am Haus des Geistes (Mühlgraben), am Morgen danach — „Ich wollte nachsehen, ob er da drin ist." | ✅ Auflösung |
 
 ---
 
