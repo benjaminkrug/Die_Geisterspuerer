@@ -1,4 +1,4 @@
-# Cover-Konzept — S2-5 „Der letzte Schlüssel"
+# Cover-Konzept — S2-5 „Der letzte Schlüssel“
 
 > Baut auf `Dokumentation/Cover_Reihenstandard.md` (Panel-Maße, Blöcke A–G) und
 > `Staffel2/PLAN_Staffel2.md` Abschnitt 10 (Staffel-2-Deltas, Farbwelt, Halder-Regel) auf.
@@ -57,7 +57,7 @@ Reiseuhr in der anderen, die offenen Schlösser in den Regalen.
 
 ### Halder — auf diesem Cover, aber von hinten
 
-Plan Abschnitt 10: „S2-5 (Finale): ja, definitiv." Bei S2-3 ist Halder als Schatten gescheitert,
+Plan Abschnitt 10: „S2-5 (Finale): ja, definitiv.“ Bei S2-3 ist Halder als Schatten gescheitert,
 weil das Bildmodell einen Schatten ohne Körper nicht rendert. Hier ist er ein **konkreter Körper**:
 ein Mann in Arbeitsjacke vor einer Uhrenwand, das kann jedes Modell malen.
 
@@ -65,13 +65,13 @@ ein Mann in Arbeitsjacke vor einer Uhrenwand, das kann jedes Modell malen.
   keinem Buch (nur ~48, Narbe auf dem rechten Handrücken). Ein gemaltes Gesicht wäre erfunden und
   würde sich mit dem Kopfbild der Leser beißen.
 - **Kleiner als die Kinder**, in der Bildmitte, leicht gebeugt. Er droht nicht (Kontinuität:
-  „kein Psychothriller-Register").
+  „kein Psychothriller-Register“).
 - **Frieda erscheint nicht** (Plan: auf keinem Cover; Block D verbietet ein drittes Kind).
 
 ### Kein kalter Faden
 
 Plan Abschnitt 10: Der Leine-Faden fehlt im Finale bewusst, als visueller Zahltag. Das passt zum
-Text (K16: „Die Fäden erloschen"). Im Prompt deshalb ausdrücklich: **keine Fäden, Ketten oder
+Text (K16: „Die Fäden erloschen“). Im Prompt deshalb ausdrücklich: **keine Fäden, Ketten oder
 Lichtlinien.** Die einzige Kette ist die feine Schlüsselkette in Halders Hand.
 
 ---
@@ -108,8 +108,8 @@ Ein Grusel-Abenteuer für Kinder ab 12 Jahren   klein, #f2e2b8
 Benjamin Krug                                  klein, #f2e2b8
 ```
 
-⚠️ Umlautkontrolle: **GEISTERSPÜRER** (Ü), **Schlüssel** (ü), **für** (ü). „Schlüssel" ist
-die Stelle, an der ein Modell am ehesten „Schlussel" oder „Schlüßel" malt.
+⚠️ Umlautkontrolle: **GEISTERSPÜRER** (Ü), **Schlüssel** (ü), **für** (ü). „Schlüssel“ ist
+die Stelle, an der ein Modell am ehesten „Schlussel“ oder „Schlüßel“ malt.
 
 ---
 
@@ -300,8 +300,8 @@ children.
    Referenzbild — nur von hinten, kein Gesicht. Verwende den folgenden Prompt wörtlich, ohne ihn
    zusammenzufassen:" — dann den Prompt.
 2. **Theo kniend ist die riskanteste Pose.** Kommt sein Gesicht zweimal ins Bild: Satz „THEO …
-   KNEELING" ersetzen durch „THEO … standing right beside Nora, one hand on the dog's collar".
-3. Erst danach: Bearbeiten-Werkzeug nur auf den Kopf anwenden („Hinterkopf statt Gesicht").
+   KNEELING" ersetzen durch „THEO … standing right beside Nora, one hand on the dog's collar“.
+3. Erst danach: Bearbeiten-Werkzeug nur auf den Kopf anwenden („Hinterkopf statt Gesicht“).
 
 ---
 
@@ -327,13 +327,13 @@ The chosen FRONT COVER is attached. Match its palette and its light exactly.
 Render the blocks [A] to [K] below, in this order, top to bottom, WORD FOR
 WORD. Do NOT translate, shorten, expand, summarise, rephrase, reorder or invent
 a single word. Every umlaut (ä ö ü) and ß exactly as printed, German curly
-quotes „ " where shown.
+quotes „ “ where shown.
 
 [A]  Die Geisterspürer
 
 [B]  Die Gebundenen · Band 5
 
-[C]  „Diesen lasse ich nicht los. Nicht noch einmal."
+[C]  „Diesen lasse ich nicht los. Nicht noch einmal.“
 
 [D]  Hinter einem alten Gleis, bei den leeren Lagerhallen, rasseln im
      Morgengrauen die Rolltore. Eins nach dem anderen, genau nach den
@@ -350,7 +350,7 @@ quotes „ " where shown.
      Umschlag von der Feuerwehr. Dreißig Jahre alt – und noch immer
      zugeklebt.
 
-[G]  „Wir möchten uns ordnungsgemäß anmelden." – Theo, zu einem Geist
+[G]  „Wir möchten uns ordnungsgemäß anmelden.“ – Theo, zu einem Geist
 
 [H]  Diesmal dreht Nora nicht um. Diesmal sieht sie hin. Das Finale der
      Gebundenen.
@@ -451,11 +451,11 @@ above all NO barcode and NO digits.
 1. **Die Fenster fehlen bewusst, obwohl der Text sie hat** (K15/K16: Morgenlicht durch schmutzige
    Fenster). Fenster waren genau die S2-2-Ablehnungsursache (Licht wandert in die Textzone), und
    S2-2 zeigt dieselbe Werkstatt mit kaltem Fenster. Das Licht kommt stattdessen aus den Gehenden
-   („wurde hell. Von innen, wie eine Lampe") — ebenfalls textbelegt.
-2. **„Viele Lichtpunkte" gegen „genau eine Lichtquelle".** Der Plan will viele befreite Lichter,
+   („wurde hell. Von innen, wie eine Lampe“) — ebenfalls textbelegt.
+2. **„Viele Lichtpunkte“ gegen „genau eine Lichtquelle“.** Der Plan will viele befreite Lichter,
    der Standard eine Quelle. Gelöst als **eine Lichtzone**: alles Licht sitzt im Band 44–66 % um
    die Uhrenwand. Risiko: das Modell verteilt Funken bis in den Titel. Darum dreimal im Prompt:
-   „fade out before 44 %". Wenn es trotzdem passiert, ist das ein **harter Fehler** (Kontrast),
+   „fade out before 44 %“. Wenn es trotzdem passiert, ist das ein **harter Fehler** (Kontrast),
    kein Geschmack.
 3. **Spoiler?** Das Cover zeigt die Befreiung, also das Finale. Für einen fünften Band einer
    Staffel ist das erwartbar, und der Plan verlangt es ausdrücklich („viele befreite, warme
@@ -464,7 +464,7 @@ above all NO barcode and NO digits.
 4. **Halders Aussehen ist zum Teil erfunden** (Arbeitsjacke). Belegt sind ~48 Jahre, „die grauen
    Schläfen" (K3), Narbe, Kette mit goldenem Schlüssel, Kontrolluhr am Riemen (K13–K16). Von
    hinten und klein im Bild ist das vertretbar; ein Gesicht wäre es nicht.
-5. **Die Kontrolluhr** („runde, schwere Uhr in ihrem schwarzen Ledergehäuse", K12; „am Riemen",
+5. **Die Kontrolluhr** („runde, schwere Uhr in ihrem schwarzen Ledergehäuse“, K12; „am Riemen“,
    K16) ist ein kleines Detail. Rendert das Modell sie nicht, wird sie **nicht** nachgefordert.
 
 ---
@@ -484,7 +484,7 @@ above all NO barcode and NO digits.
 6. Ablegen als `Staffel2/S2-5/Cover/vorderseite.png` und `rueckseite.png`.
 7. Widmung/Epigraph entschieden → Manuskript neu bauen → **echte Seitenzahl** ablesen.
 8. `Scripts/build_cover_s2_5.py` aus `build_cover_s2_4.py` ableiten, laufen lassen, Kontrollbild ansehen.
-9. 150-px-Thumbnail: Titel, „BAND 5", Bernsteinauge erkennbar?
+9. 150-px-Thumbnail: Titel, „BAND 5“, Bernsteinauge erkennbar?
 10. Dann zu KDP.
 
 ---
@@ -495,6 +495,26 @@ above all NO barcode and NO digits.
 |---|---|
 | Konzept + Vorderseiten-Prompt | ✅ fertig |
 | Rückseiten-Prompt | ✅ fertig (Texte aus `KDP_S2-5.md` Abschnitt 6, 02.11.) |
-| Bilder | ⏳ noch nicht erzeugt |
-| Seitenzahl endgültig | 109 ohne Widmung/Epigraph |
-| `build_cover_s2_5.py` | ⏳ nach den Bildern |
+| Bilder | ✅ `vorderseite.jpg` (2047 × 3072), `rueckseite.png` (2048 × 3072), erste Runde |
+| Seitenzahl endgültig | 109 ohne Widmung/Epigraph — kommen sie dazu: Rücken neu rechnen |
+| `build_cover_s2_5.py` | ✅ Vollcover gebaut 02.11. (`Output/S2-5/KDP_S2-5_Cover_*`), 3749 × 2775 px, Rücken 6,2 mm |
+| Abführungszeichen Rückseite | 🟡 [C] und [G] tragen gerade `"` statt `“` — Fehler stammte aus dem eigenen Prompt (jetzt korrigiert); Bild noch nicht geändert, Autorentscheidung |
+
+### Prüfung der ersten Bildrunde (02.11.)
+
+**Harte Punkte (Reihenstandard / KDP):**
+- **Gesichter:** keines sichtbar — Nora, Theo, Halder von hinten; Geister ohne Züge. ✅
+- **Kontrast:** gemessen in Graustufen — Schrift 180–245, direkt um die Buchstaben (5–10 px) Median 4–12. ✅
+- **Texte:** alle fünf Vorderseitenzeilen und [A]–[K] Buchstabe für Buchstabe korrekt, „Schlüssel“ mit ü. ✅
+- **Textabstand Vorderseite: ❌ → behoben.** Das Modell hat die Reihenzeile **2,3 mm** unter die Trimmkante
+  gesetzt (verlangt: 13 % Höhe; KDP-Minimum 3,2 mm, Standard 6,4 mm), den Autor 4,6 mm darüber.
+  `bc.pruefe_zonen()` hat das **nicht** gemeldet (mittelt helle Pixel über den ganzen Rand, Schwelle 2 %).
+  Lösung nach Reihenstandard („Leinwand vergrößern statt neu generieren“), im Skript statt in Firefly:
+  Vorderseite auf 0,8796 statt 0,9033 skaliert, Rand gespiegelt aufgefüllt — oben 50 px (davon 12 px =
+  1 mm sichtbar, fast schwarz), unten 23 px und rechts 37 px nur im Anschnitt. Quellbild jetzt effektiv
+  341 dpi. Ergebnis: **6,3 mm / 6,4 mm**. Das Skript misst den Abstand jetzt selbst am fertigen Vollcover
+  (`textabstand_pruefen`) und warnt unter 6,35 mm.
+
+**Abweichungen vom Prompt, kein Fehler (Bewertung beim Autor):** Halder hält eine Taschenuhr statt einer
+Reiseuhr im Stoff-Etui; die Geister tragen Hüte und Hosenträger statt Blumenhut; Licht reicht bis ~34 %
+Höhe, liegt aber nicht hinter Schrift (Messung oben).
