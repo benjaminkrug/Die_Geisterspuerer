@@ -30,7 +30,7 @@ Halder sah an ihr vorbei, auf die Fadenenden in der Luft. Er sagte nichts.
 
 Halder zuckte zusammen. Ganz leicht, wie unter einem Luftzug.
 
-"Er hat's mir nicht verraten", sagte Nora. "Er sagt, ich bin's nicht. Ich hab ihn nicht festgemacht. Ich kann ihn auch nicht losmachen." Sie holte Luft. "Er hat gesagt: Bring mir den, der mich festgemacht hat."
+"Er hat's mir nicht verraten", sagte Nora. "Er sagt, ich bin's nicht. Mich hat keiner geschickt. Und festgemacht hab ich ihn auch nicht." Sie holte Luft. "Er hat gesagt: Bring mir den, der mich festgemacht hat."
 
 ---
 

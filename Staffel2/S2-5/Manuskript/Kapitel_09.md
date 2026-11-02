@@ -134,7 +134,7 @@ Der Wächter sah wieder auf sie herunter. Diesmal war sein Blick hart.
 
 "Warum nicht?"
 
-"Weil du's nicht bist. Du bist ein Kind mit einem Hund. Du hast mich hier nicht festgemacht. Du kannst mich auch nicht losmachen."
+"Weil du's nicht bist. Du bist ein Kind mit einem Hund. Dich hat keiner geschickt." Er sah zur Schwelle hinunter. "Und festgemacht hast du mich auch nicht."
 
 Ihre Augen brannten. Sie blinzelte heftig. Sie wollte nicht weinen, nicht vor ihm.
 

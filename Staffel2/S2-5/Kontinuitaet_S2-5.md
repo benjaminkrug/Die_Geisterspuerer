@@ -477,8 +477,9 @@ bleibt bei ihm. **Seine Geschichte (Bruchstücke):** vierzig Jahre, nachts kamen
 keine Laster, keiner vom Büro; „Der Chef hat gesagt, ich soll die Stellung halten, bis einer kommt."; im Frühjahr
 müde hingesetzt, „Um sechs kommt einer … Es kommt immer einer." — „Es ist keiner gekommen."; „Da draußen rüttelt
 keiner mehr. Da kann jetzt jeder rein." **Nora fragt zum ersten Mal: „Was brauchen Sie?"** — „Das hat mich noch
-keiner gefragt." — „Weil du's nicht bist … Du hast mich hier nicht festgemacht. Du kannst mich auch nicht
-losmachen." **Er nennt keinen Namen.** Das Wort „Ablösung" fällt nicht.
+keiner gefragt." — „Weil du's nicht bist. Du bist ein Kind mit einem Hund. Dich hat keiner geschickt. … Und festgemacht hast
+du mich auch nicht." (geändert 02.11.: vorher „Du kannst mich auch nicht losmachen" — widersprach der Regel der zwei
+Enden aus K15; jetzt Konrads Wächter-Logik: Ablösung schickt man, ein Kind ist keine) **Er nennt keinen Namen.** Das Wort „Ablösung" fällt nicht.
 
 | K8 | Tag 2, ~6.30 → 7 Uhr (Kirchturmuhr, sieben Schläge) | Mama schläft (vor der Nachtschicht lange); Zettel; Park mit dem Rad; danach Richtung Lagerhallen |
 
