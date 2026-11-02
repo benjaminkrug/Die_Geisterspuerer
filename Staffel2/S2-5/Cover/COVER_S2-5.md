@@ -437,7 +437,8 @@ above all NO barcode and NO digits.
    „fade out before 44 %". Wenn es trotzdem passiert, ist das ein **harter Fehler** (Kontrast),
    kein Geschmack.
 3. **Spoiler?** Das Cover zeigt die Befreiung, also das Finale. Für einen fünften Band einer
-   Staffel ist das erwartbar (Band 5 Staffel 1 zeigte Graven ebenso). Es verrät nicht, **warum**
+   Staffel ist das erwartbar, und der Plan verlangt es ausdrücklich („viele befreite, warme
+   Lichtpunkte"). Es verrät nicht, **warum**
    Halder loslässt (Brief, Konrad, die Reiseuhr), und das ist der eigentliche Twist.
 4. **Halders Aussehen ist erfunden, soweit es sichtbar ist** (Arbeitsjacke, graue Haare). Belegt
    ist nur ~48 Jahre, Narbe, Kette mit goldenem Schlüssel, Kontrolluhr am Riemen (K13–K16). Von
