@@ -122,6 +122,11 @@ optional, Drittquellen behaupten das Gegenteil; der leise Ton beseitigt die Frag
 Nur ein neues Bild ist nötig: `Band1/Cover/Bilder/video_fenster.png`. Alles Weitere kommt aus `front_band1.jpg`.
 Schnitt, Text und Buchstaben entstehen per ffmpeg und Python. Kein Videogenerator nötig.
 
+**Stand 04.11.: Fassung 2** (`Scripts/build_video_band1.py`, Ausgabe `Output/Band1_Video/Band1_Video_v2.mp4`). Neu gegenüber Fassung 1:
+Figuren per GrabCut vom Haus getrennt und mit eigener Bewegung, Nebel vor und hinter ihnen, flackernde Fenster, glitzerndes Pflaster, ziehender
+Beschlag, nasse Buchstabenkanten mit Tropfen, leuchtendes Cover-Fenster, Lichtpartikel im Schlussbild. Higgsfield erst entscheiden, wenn Fassung 2
+auf dem Handy gesehen ist; 5 Videos mit Grok kosten rund 960 von 1.000 Credits (Plus, 49 $, monatlich, nicht jährlich).
+
 ```text
 Photorealistic close-up of an old wooden kitchen window pane seen from inside a room, in soft cold blue
 morning light. The whole glass is covered evenly with fine pale condensation fog, gently glowing from behind.
