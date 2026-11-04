@@ -160,5 +160,9 @@ landscape. ABSOLUTELY NO letters, words, numbers, symbols, handprints, faces, pe
 - Kein Gesicht, kein Geist, Buch nicht angeschnitten.
 - 72 Stunden Reserve einplanen (Angabe aus einer Drittquelle).
 
-**Nach dem Start:** Erst nach etwa 100–150 Klicks bewerten. Maßstab sind Klickrate und Kosten je Verkauf gegen die Tantieme von rund 3,60–4,00 €,
-nicht der Eindruck. Das Ergebnis gilt nur für dieses Video und ändert nichts daran, dass Prüfpunkt 1 eingeschränkt bleibt.
+**Nach dem Start:** Erst nach etwa 100–150 Klicks bewerten. Maßstab sind Klickrate und Kosten je Verkauf gegen die Tantieme von rund 5,80–6,40 €,
+nicht der Eindruck.
+
+**Produktseite am 04.11.:** Taschenbuch 14,99 €, 4,3 Sterne bei 20 Bewertungen, auf Lager, Lesealter 10–12, 163 Seiten. Die Leseprobe reicht bis Kapitel 4,
+wer nach dem Video hineinliest, trifft also auf genau das HILF aus der Anzeige. Tantieme geschätzt: Druckkosten rund 2,60 €, Spanne je nach MwSt.-Rechnung;
+im KDP-Rechner prüfen. Klick deckt sich bei angenommenen 5–10 % Kaufquote bis etwa 0,29–0,64 €. Das Ergebnis gilt nur für dieses Video und ändert nichts daran, dass Prüfpunkt 1 eingeschränkt bleibt.
