@@ -1,6 +1,6 @@
 # Amazon-Video „Das Haus, das flüstert“ (Band 1, Staffel 1)
 
-Stand 2026-11-04, dritte Fassung: nach Prüfung gegen Amazons Regeln, HILF als Einstieg nach Autorenentscheid. Sponsored Brands Video, geplanter Start etwa 18.11. Quellen: vier Bildschirmaufnahmen
+Stand 2026-11-04, vierte Fassung: nach den aktuellen deutschen Richtlinien, HILF als Einstieg nach Autorenentscheid. Sponsored Brands Video, geplanter Start etwa 18.11. Quellen: vier Bildschirmaufnahmen
 (`E:\Repos\App-Ideen\SmartInvoice\Marketing\Tiktok\video2\amazonVidAds\`), Bild für Bild im Sekundentakt ausgewertet.
 
 ## 1. Was die vier Videos zeigen
@@ -41,14 +41,33 @@ kamen nur als Zusammenfassung an, die deutsche Fassung und die Buch-Richtlinie w
 | „Avoid inappropriate content like frightening, violent or gory images“ | Leitfaden, für Bilder | HILF heller, ohne Laufspuren, Buch sichtbar daneben |
 | Video soll „upbeat and positive“ wirken | Leitfaden | Warmer Schluss, kein Angstton |
 | Keine schwarzen oder leeren Bilder am Anfang oder Ende, keine Balken | Leitfaden, Spezifikation | Kein Ende auf Dunkel, Bild immer vollflächig |
-| Kein Druck: „Act now“, „Last chance“, „Don't miss out“; kein „Click here“ | Leitfaden | Nur ruhige, konkrete Aufforderung |
+| Kein Druck: „Act now“, „Last chance“, „Don't miss out“; kein „Click here“ | Leitfaden | Keine Aufforderung im Video, Amazon liefert sie selbst |
 | Keine Überlegenheits-Aussagen wie „the best“ | Leitfaden | Kein „ideal“, „perfekt“, „bestes“ |
-| Am Ende Marke zeigen, Aufforderung empfohlen | Spezifikation, Leitfaden | Schlussbild mit Buch und „Jetzt reinlesen“ |
+| Am Ende Marke zeigen | Spezifikation | Schlussbild mit Buch |
 | Ton optional, Start immer stumm | Spezifikation | Muss stumm funktionieren |
 | Unten rechts frei, höchstens 20 s empfohlen | Spezifikation | Kein Text in der Ecke, 15 Sekunden |
 
 Autorenentscheid: HILF kommt zuerst. Weil das Buch vom ersten Bild an danebensteht, bleibt die Zwei-Sekunden-Empfehlung erfüllt. Unsere Reihe
 ist Grusel, Amazon will positive Anzeigen. Deshalb bleibt die **Hauptgefahr die Ablehnung**.
+
+## 2a. Aktuelle deutsche Richtlinien
+
+Gelesen: Unterhaltung und Bücher (13.04.2026), Verbotene Inhalte im gesamten Angebot (19.06.2026), Verbotene Inhalte für das Amazon O&O-Angebot
+(10.04.2026), Behauptungen und Nachweise (28.01.2026). Vom Autor aus dem Konto kopiert.
+
+| Regel | Bewertung für unser Video | Folge |
+|---|---|---|
+| „Bei E-Commerce-Werbeanzeigen sind CTAs in den benutzerdefinierten Bildern verboten“ | Für Video nicht eindeutig; Video 1 zeigt „Jetzt bestellen“, der kanadische Leitfaden rät sogar dazu. Die deutsche Regel ist neuer | **„Jetzt reinlesen“ gestrichen**, Amazon liefert die Aufforderung selbst |
+| „Anzeigen, die Kinder direkt ansprechen“ sind verboten | „Ein Geschenk für mutige Leser“ spricht Schenkende an. Ein Imperativ wäre heikler gewesen | Nur Aussagen, keine Aufforderung; bei Keywords mitdenken |
+| Kein „Text in GROSSBUCHSTABEN“ | **HILF ist Großschreibung.** Es ist Bildinhalt und steht so im Buch und auf dem Cover; Video 1 nutzt Großschreibung ebenfalls | Bleibt; wird es abgelehnt, heißt es „Hilf“. Alle anderen Texte normal geschrieben |
+| Keine „Behauptungen zur Gewährleistung ohne Beweise“, Behauptungen müssen auf Anfrage belegbar sein | „Albträume nein“ ist ein Werbespruch, aber nah an einem Versprechen. Er steht auch in der Beschreibung | Bleibt; Ersatz bei Beanstandung: „Gänsehaut mit Humor“ |
+| Keine Einschüchterung oder Druck | Betrifft Sprache gegenüber Kunden, nicht Spannung | Keine Änderung |
+| Keine Ausnutzung von Tod oder heiklen Lebensereignissen | Das Video nennt weder Tod noch Lina | Tod bleibt aus dem Video heraus |
+| Keine Minderjährigen in gefährlicher Darstellung | Kinder nur von hinten, ohne Bedrohung im Bild, so auch auf dem Cover | Keine bedrohliche Figur neben den Kindern |
+| Saison: frühestens 8 Wochen vorher, höchstens 7 Tage danach | Start 18.11. passt zu Weihnachten | Geschenk-Zeile zum 25.12. tauschen |
+| Keine Preise oder Rabatte im Video | Keine vorhanden | Keine Änderung |
+
+Eine eigene Regel gegen Grusel steht in keiner der vier Seiten. „Unterhaltung und Bücher“ behandelt vor allem Filme und Spiele.
 
 ## 3. Psychologische Logik
 
@@ -59,7 +78,7 @@ Das sind bekannte Wirkprinzipien, aber keine Messung für dieses Video. Sie sind
 | **Erst Reiz, sofort Sicherheit.** HILF stoppt den Blick. Wer Albträume beim Kind befürchtet, klickt aber nicht, also folgt die Entwarnung binnen Sekunden | „Kribbeln ja, Albträume nein“ direkt nach dem Wort |
 | **Humor** zeigt den Ton des Buchs am Beispiel | Theos Satz nach dem Versprechen |
 | **Offene Frage zieht zum Klick.** Sie bleibt im Video unbeantwortet | „Wer dann?“ |
-| **Einfaches wird eher geglaubt.** Ein Gedanke je Bild, rund zwei Wörter pro Sekunde | Rund 28 Wörter in 15 Sekunden |
+| **Einfaches wird eher geglaubt.** Ein Gedanke je Bild, rund zwei Wörter pro Sekunde | Rund 27 Wörter in 15 Sekunden |
 | **Der Schluss prägt.** Warmes Licht und Figuren lassen ein gutes Gefühl zurück | Warme Fenster vor dem Schlussbild |
 | **Eltern entscheiden nach Alter**, belegt nur für Bilderbücher (Wagner 2017) | Alter gleich im ersten Bild |
 
@@ -77,7 +96,7 @@ Verlinkung: Produktdetailseite des Band-1-Taschenbuchs.
 | 0:02,5–0:05 | Scheibe und Buch bleiben, leichter Push-in | „Kribbeln ja, Albträume nein.“ / „Grusel mit Humor ab 10“ | Löst die Spannung sofort auf, Nutzen und Alter innerhalb von 5 Sekunden |
 | 0:05–0:08 | Scheibe und Buch bleiben | „Kondenswasser schreibt keine deutschen Wörter!“ / klein: Theo, 10 | Zeigt den Humor des Buchs am Beispiel |
 | 0:08–0:11,5 | Scheibe öffnet sich zum Haus aus dem Cover, Fahrt zurück und nach unten: warme Fenster, Nora, Theo und Schatten von hinten | „Wer dann?“ | Offene Frage, warmes Bild, Figuren |
-| 0:11,5–0:15 | Schlussbild: Buch groß, daneben der Text, Hintergrund warm-dunkel aus der Cover-Szene | „Ein Geschenk für mutige Leser“ / „Band 1 von 5 · Jetzt reinlesen“ | Anlass, Reihe, ruhige Aufforderung, Marke |
+| 0:11,5–0:15 | Schlussbild: Buch groß, daneben der Text, Hintergrund warm-dunkel aus der Cover-Szene | „Ein Geschenk für mutige Leser“ / „Band 1 von 5“ | Anlass, Reihe, Marke |
 
 Ab dem 25.12. lautet die Schlusszeile „Auch für Lesemuffel“.
 
@@ -96,7 +115,7 @@ optional, Drittquellen behaupten das Gegenteil; der leise Ton beseitigt die Frag
 | Band 1 von 5 | `KDP_Beschreibungen.md` |
 | Auch für Lesemuffel | Abgeschwächt aus „perfekt für Lesemuffel“, damit keine Überlegenheits-Aussage |
 
-„Wer dann?“ ist Werbetext, kein Zitat. „Jetzt reinlesen“ gilt nur, wenn „Blick ins Buch“ auf der Produktseite aktiv ist.
+„Wer dann?“ ist Werbetext, kein Zitat.
 
 ## 5. Material
 
@@ -124,12 +143,13 @@ landscape. ABSOLUTELY NO letters, words, numbers, symbols, handprints, faces, pe
 1. **HILF als erstes Bild ist der stärkste Blickfang, aber auch das größte Risiko.** Das Buch daneben und die Entwarnung ab 0:02,5 sollen das
    abfangen. Ob das bei Amazon und bei Eltern reicht, zeigen erst Prüfung und Zahlen.
 2. **HILF kann abgelehnt werden.** Dann gilt Plan B: Erstes Bild ist das Cover, die Kamera fährt nur bis zum Haus, das Wort bleibt klein im Fenster.
-3. **Der Leitfaden ist die kanadische Fassung**, teils nur als Zusammenfassung gelesen. Die Buch-Richtlinie und die Grusel-Regeln für Deutschland
-   sind ungeprüft. Vor dem Hochladen im Browser lesen: `advertising.amazon.com/resources/ad-policy/book-ads`.
+3. **Die aktuellen deutschen Richtlinien sind gelesen** (Abschnitt 2a). Sie nennen kein Verbot von Grusel an sich. Der kanadische Leitfaden warnt aber
+   vor „frightening images“, die Prüfung bleibt also eine Einzelfallentscheidung.
 4. **Geschenk-Anlass ist eine Annahme.** Die Zahl „70 % als Geschenk“ aus einer Suchzusammenfassung steht in der Originalquelle nicht und wird nicht verwendet.
 5. **Keines der vier Referenzvideos ist Grusel.** Vielleicht weil solche Anzeigen selten sind oder selten durchkommen. Wir wissen es nicht.
 6. **Das Video verkauft nicht allein.** Bewertungen, Beschreibung und „Blick ins Buch“ entscheiden nach dem Klick. Vor dem Start prüfen.
-7. **Das Cover-Bild ist KI-erzeugt.** Eine Regel dazu haben wir nicht gefunden. Verlangt Amazon eine Angabe, wird sie gemacht.
+7. **KI-Bilder:** Verboten ist KI für Täuschung und „fotorealistische, aber unzutreffende Inhalte“. Das Fenster behauptet nichts über das Produkt, und das Buch
+   im Video muss dem echten entsprechen. Eine Kennzeichnungspflicht haben wir nicht gefunden; verlangt Amazon eine Angabe, wird sie gemacht.
 
 ## 7. Prüfung und Auswertung
 
