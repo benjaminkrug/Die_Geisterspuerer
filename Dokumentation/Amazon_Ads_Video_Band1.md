@@ -1,6 +1,6 @@
 # Amazon-Video „Das Haus, das flüstert“ (Band 1, Staffel 1)
 
-Stand 2026-11-04, zweite Fassung nach Prüfung gegen Amazons Regeln. Sponsored Brands Video, geplanter Start etwa 18.11. Quellen: vier Bildschirmaufnahmen
+Stand 2026-11-04, dritte Fassung: nach Prüfung gegen Amazons Regeln, HILF als Einstieg nach Autorenentscheid. Sponsored Brands Video, geplanter Start etwa 18.11. Quellen: vier Bildschirmaufnahmen
 (`E:\Repos\App-Ideen\SmartInvoice\Marketing\Tiktok\video2\amazonVidAds\`), Bild für Bild im Sekundentakt ausgewertet.
 
 ## 1. Was die vier Videos zeigen
@@ -36,9 +36,9 @@ kamen nur als Zusammenfassung an, die deutsche Fassung und die Buch-Richtlinie w
 
 | Regel | Quelle | Folge |
 |---|---|---|
-| „Show the product in the first two seconds“ | Leitfaden | Das Buch steht jetzt am Anfang |
-| „Mention the product's key benefits in the first five seconds“ | Leitfaden | Das Versprechen kommt sofort |
-| „Avoid inappropriate content like frightening, violent or gory images“ | Leitfaden, für Bilder | HILF heller, ohne Laufspuren, nach dem Versprechen |
+| „Show the product in the first two seconds“ | Leitfaden | Das Buch steht vom ersten Bild an neben dem HILF |
+| „Mention the product's key benefits in the first five seconds“ | Leitfaden | Das Versprechen kommt ab 0:02,5 |
+| „Avoid inappropriate content like frightening, violent or gory images“ | Leitfaden, für Bilder | HILF heller, ohne Laufspuren, Buch sichtbar daneben |
 | Video soll „upbeat and positive“ wirken | Leitfaden | Warmer Schluss, kein Angstton |
 | Keine schwarzen oder leeren Bilder am Anfang oder Ende, keine Balken | Leitfaden, Spezifikation | Kein Ende auf Dunkel, Bild immer vollflächig |
 | Kein Druck: „Act now“, „Last chance“, „Don't miss out“; kein „Click here“ | Leitfaden | Nur ruhige, konkrete Aufforderung |
@@ -47,8 +47,8 @@ kamen nur als Zusammenfassung an, die deutsche Fassung und die Buch-Richtlinie w
 | Ton optional, Start immer stumm | Spezifikation | Muss stumm funktionieren |
 | Unten rechts frei, höchstens 20 s empfohlen | Spezifikation | Kein Text in der Ecke, 15 Sekunden |
 
-Das Fenster ins Buch hinein löst den Hauptkonflikt: Das Buch steht vorne, und der Einstieg bleibt das HILF. Unsere Reihe ist
-Grusel, Amazon will positive Anzeigen. Deshalb bleibt die **Hauptgefahr die Ablehnung**.
+Autorenentscheid: HILF kommt zuerst. Weil das Buch vom ersten Bild an danebensteht, bleibt die Zwei-Sekunden-Empfehlung erfüllt. Unsere Reihe
+ist Grusel, Amazon will positive Anzeigen. Deshalb bleibt die **Hauptgefahr die Ablehnung**.
 
 ## 3. Psychologische Logik
 
@@ -56,8 +56,8 @@ Das sind bekannte Wirkprinzipien, aber keine Messung für dieses Video. Sie sind
 
 | Hypothese | Umsetzung |
 |---|---|
-| **Erst Sicherheit, dann Spannung.** Wer Albträume beim Kind befürchtet, klickt nicht. Das Versprechen vorab nimmt dem HILF die Härte | „Kribbeln ja, Albträume nein“ steht vor dem Wort |
-| **Humor löst Spannung** und zeigt den Ton des Buchs | Theos Satz direkt nach HILF |
+| **Erst Reiz, sofort Sicherheit.** HILF stoppt den Blick. Wer Albträume beim Kind befürchtet, klickt aber nicht, also folgt die Entwarnung binnen Sekunden | „Kribbeln ja, Albträume nein“ direkt nach dem Wort |
+| **Humor** zeigt den Ton des Buchs am Beispiel | Theos Satz nach dem Versprechen |
 | **Offene Frage zieht zum Klick.** Sie bleibt im Video unbeantwortet | „Wer dann?“ |
 | **Einfaches wird eher geglaubt.** Ein Gedanke je Bild, rund zwei Wörter pro Sekunde | Rund 28 Wörter in 15 Sekunden |
 | **Der Schluss prägt.** Warmes Licht und Figuren lassen ein gutes Gefühl zurück | Warme Fenster vor dem Schlussbild |
@@ -73,11 +73,11 @@ Verlinkung: Produktdetailseite des Band-1-Taschenbuchs.
 
 | Zeit | Bild | Text | Warum |
 |---|---|---|---|
-| 0:00–0:03 | Buch als Objekt auf dunkelblauem Stein, vollständig lesbar. Das blaue Fenster auf dem Cover leuchtet einmal auf | „Kribbeln ja, Albträume nein.“ / „Grusel mit Humor ab 10“ | Produkt, Nutzen und Alter sofort; das Leuchten lenkt den Blick |
-| 0:03–0:06 | Kamera fährt ins blaue Fenster, Übergang zur beschlagenen Scheibe, helles kaltes Blau. **H I L F** entsteht bis 0:05, ohne Laufspuren | keiner | Stärkster Reiz, nach dem Versprechen |
-| 0:06–0:09 | Dieselbe Scheibe | „Kondenswasser schreibt keine deutschen Wörter!“ / klein: Theo, 10 | Spannung löst sich in Humor |
-| 0:09–0:12 | Scheibe öffnet sich zum Haus, Fahrt zurück und nach unten: warme Fenster, Nora, Theo und Schatten von hinten | „Wer dann?“ | Offene Frage, warmes Bild, Figuren |
-| 0:12–0:15 | Schlussbild: Buch groß, rechts der Text, Hintergrund warm-dunkel aus der Cover-Szene | „Ein Geschenk für mutige Leser“ / „Band 1 von 5 · Jetzt reinlesen“ | Anlass, Reihe, ruhige Aufforderung, Marke |
+| 0:00–0:02,5 | Beschlagene Scheibe vollflächig, helles kaltes Blau. Links entsteht **H I L F**, das H steht schon im ersten Bild, fertig bis 0:01,5, ohne Laufspuren. Rechts steht vom ersten Bild an das Buch, vollständig lesbar | keiner | Autorenentscheid: HILF ist der erste Reiz. Das Buch zeigt zugleich sofort, dass es um ein Buch geht |
+| 0:02,5–0:05 | Scheibe und Buch bleiben, leichter Push-in | „Kribbeln ja, Albträume nein.“ / „Grusel mit Humor ab 10“ | Löst die Spannung sofort auf, Nutzen und Alter innerhalb von 5 Sekunden |
+| 0:05–0:08 | Scheibe und Buch bleiben | „Kondenswasser schreibt keine deutschen Wörter!“ / klein: Theo, 10 | Zeigt den Humor des Buchs am Beispiel |
+| 0:08–0:11,5 | Scheibe öffnet sich zum Haus aus dem Cover, Fahrt zurück und nach unten: warme Fenster, Nora, Theo und Schatten von hinten | „Wer dann?“ | Offene Frage, warmes Bild, Figuren |
+| 0:11,5–0:15 | Schlussbild: Buch groß, daneben der Text, Hintergrund warm-dunkel aus der Cover-Szene | „Ein Geschenk für mutige Leser“ / „Band 1 von 5 · Jetzt reinlesen“ | Anlass, Reihe, ruhige Aufforderung, Marke |
 
 Ab dem 25.12. lautet die Schlusszeile „Auch für Lesemuffel“.
 
@@ -118,11 +118,12 @@ landscape. ABSOLUTELY NO letters, words, numbers, symbols, handprints, faces, pe
 - Das Ende auf Dunkel hätte gegen die Regel zu schwarzen Bildern verstoßen.
 - Der Hund-Satz fiel weg: Er kostete 5 Wörter, Schatten bleibt im Bild und auf dem Cover.
 - Mit 18 Sekunden war es länger als nötig.
+- Die zweite Fassung begann ruhig mit dem Buch. Der Autor bevorzugt HILF als Einstieg; die dritte Fassung verbindet beides.
 
 **Was offen bleibt**
-1. **Der ruhige Einstieg hält vielleicht schlechter fest** als ein sofortiges HILF. Wir tauschen Aufmerksamkeit gegen Regelkonformität
-   und Elternvertrauen. Das Leuchten des Fensters muss das auffangen.
-2. **HILF kann trotzdem abgelehnt werden.** Dann gilt Plan B: Fahrt nur bis zum Haus, das Wort klein im Fenster, keine Großaufnahme.
+1. **HILF als erstes Bild ist der stärkste Blickfang, aber auch das größte Risiko.** Das Buch daneben und die Entwarnung ab 0:02,5 sollen das
+   abfangen. Ob das bei Amazon und bei Eltern reicht, zeigen erst Prüfung und Zahlen.
+2. **HILF kann abgelehnt werden.** Dann gilt Plan B: Erstes Bild ist das Cover, die Kamera fährt nur bis zum Haus, das Wort bleibt klein im Fenster.
 3. **Der Leitfaden ist die kanadische Fassung**, teils nur als Zusammenfassung gelesen. Die Buch-Richtlinie und die Grusel-Regeln für Deutschland
    sind ungeprüft. Vor dem Hochladen im Browser lesen: `advertising.amazon.com/resources/ad-policy/book-ads`.
 4. **Geschenk-Anlass ist eine Annahme.** Die Zahl „70 % als Geschenk“ aus einer Suchzusammenfassung steht in der Originalquelle nicht und wird nicht verwendet.
@@ -133,7 +134,7 @@ landscape. ABSOLUTELY NO letters, words, numbers, symbols, handprints, faces, pe
 ## 7. Prüfung und Auswertung
 
 **Vor dem Hochladen**
-- Ohne Ton und auf Handygröße: Ist nach 3 Sekunden klar, dass es ein Kinder-Gruselbuch ab 10 ist?
+- Ohne Ton und auf Handygröße: Ist nach 5 Sekunden klar, dass es ein Kinder-Gruselbuch ab 10 ist?
 - Jede Einblendung langsam vorlesen: Reicht die Zeit?
 - Erstes und letztes Bild nicht schwarz, keine Balken, unten rechts frei.
 - Kein Gesicht, kein Geist, Buch nicht angeschnitten.
