@@ -444,7 +444,7 @@ class Video:
     def tuer(self, t):
         """Haustuer aus dem Cover, jeder Schlag laesst das Bild rucken."""
         schlag = sum(float(np.exp(-(t - k) / 0.09)) for k in SCHLAEGE if t >= k)
-        cx, cy, cw = 1150.0, 1960.0, 700.0 - 34.0 * float(weich((t - T_TUER[0]) / 2.5))
+        cx, cy, cw = 1140.0, 1950.0, 620.0 - 30.0 * float(weich((t - T_TUER[0]) / 2.5))
         cw = cw * (1 - 0.018 * schlag)
         ch = cw * H / W
         s = W / cw
