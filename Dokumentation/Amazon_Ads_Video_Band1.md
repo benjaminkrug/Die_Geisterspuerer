@@ -78,7 +78,7 @@ Das sind bekannte Wirkprinzipien, aber keine Messung für dieses Video. Sie sind
 | **Erst Reiz, sofort Sicherheit.** HILF stoppt den Blick. Wer Albträume beim Kind befürchtet, klickt aber nicht, also folgt die Entwarnung binnen Sekunden | „Kribbeln ja, Albträume nein“ direkt nach dem Wort |
 | **Humor** zeigt den Ton des Buchs am Beispiel | Theos Satz nach dem Versprechen |
 | **Offene Frage zieht zum Klick.** Sie bleibt im Video unbeantwortet | „Wer dann?“ |
-| **Einfaches wird eher geglaubt.** Ein Gedanke je Bild, rund zwei Wörter pro Sekunde | Rund 27 Wörter in 15 Sekunden |
+| **Einfaches wird eher geglaubt.** Ein Gedanke je Bild, rund zwei Wörter pro Sekunde | Rund 43 Wörter in 20 Sekunden |
 | **Der Schluss prägt.** Warmes Licht und Figuren lassen ein gutes Gefühl zurück | Warme Fenster vor dem Schlussbild |
 | **Eltern entscheiden nach Alter**, belegt nur für Bilderbücher (Wagner 2017) | Alter gleich im ersten Bild |
 
@@ -87,18 +87,21 @@ Bewertungen, keine Schuldgefühle wie „Ihr Kind liest zu wenig?“.
 
 ## 4. Skript
 
-Format 16:9, 1920 × 1080, 15 Sekunden, vollflächig ohne Balken, stumm verständlich. Kein Kindergesicht, kein Geist.
+Format 16:9, 1920 × 1080, 20 Sekunden, 8 Szenen, vollflächig ohne Balken, stumm verständlich. Kein Kindergesicht, kein Geist.
 Verlinkung: Produktdetailseite des Band-1-Taschenbuchs.
 
 | Zeit | Bild | Text | Warum |
 |---|---|---|---|
-| 0:00–0:02,5 | Beschlagene Scheibe vollflächig, helles kaltes Blau. Links entsteht **H I L F**, das H steht schon im ersten Bild, fertig bis 0:01,5, ohne Laufspuren. Rechts steht vom ersten Bild an das Buch, vollständig lesbar | keiner | Autorenentscheid: HILF ist der erste Reiz. Das Buch zeigt zugleich sofort, dass es um ein Buch geht |
-| 0:02,5–0:05 | Scheibe und Buch bleiben, leichter Push-in | „Kribbeln ja, Albträume nein.“ / „Grusel mit Humor ab 10“ | Löst die Spannung sofort auf, Nutzen und Alter innerhalb von 5 Sekunden |
-| 0:05–0:08 | Scheibe und Buch bleiben | „Kondenswasser schreibt keine deutschen Wörter!“ / klein: Theo, 10 | Zeigt den Humor des Buchs am Beispiel |
-| 0:08–0:11,5 | Scheibe öffnet sich zum Haus aus dem Cover, Fahrt zurück und nach unten: warme Fenster, Nora, Theo und Schatten von hinten | „Wer dann?“ | Offene Frage, warmes Bild, Figuren |
-| 0:11,5–0:15 | Schlussbild: Buch groß, daneben der Text, Hintergrund warm-dunkel aus der Cover-Szene | „Ein Geschenk für mutige Leser“ / „Band 1 von 5“ | Anlass, Reihe, Marke |
+| 0:00–0:02,5 | Beschlagene Scheibe, **H I L F** entsteht, Buch rechts daneben, Cover-Fenster leuchtet auf | keiner | Stärkster Reiz, Buch sofort sichtbar |
+| 0:02,5–0:05 | Nahaufnahme der nassen Buchstaben | „Kribbeln ja, Albträume nein.“ / „Grusel mit Humor ab 10“ | Entwarnung, Nutzen und Alter in 5 Sekunden |
+| 0:05–0:07,5 | Haustür aus dem Cover, das Bild ruckt dreimal, Pause, dreimal | „Dreimal. Pause. Dreimal.“ erscheint Wort für Wort | Spannung ohne Ton |
+| 0:07,5–0:10 | Scheibe mit Buch | „Kondenswasser schreibt keine deutschen Wörter!“ / klein: Theo, 10 | Humor am Beispiel |
+| 0:10–0:12,5 | Wisch über die Scheibe wie Noras Ärmel in Kapitel 4, dahinter das Haus | „Wer dann?“ | Übergang aus dem Buch, offene Frage |
+| 0:12,5–0:14,5 | Fahrt nach unten, Figuren steigen vor dem Haus auf | „Nora, Theo und Schatten finden es heraus.“ | Helden und Handlung |
+| 0:14,5–0:17 | Buch | „Mut. Humor. Geschwisterliebe.“ / „Auch für Lesemuffel“ | Werte und Elternsorge |
+| 0:17–0:20 | Buch | „Ein Geschenk für mutige Leser“ / „Band 1 von 5“ | Anlass und Reihe |
 
-Ab dem 25.12. lautet die Schlusszeile „Auch für Lesemuffel“.
+Ab dem 25.12. lautet die Schlusszeile „Der Auftakt der Reihe“.
 
 Ton: stumm funktionsfähig. Dazu kommt ein sehr leises, selbst erzeugtes Raumrauschen ohne Lizenzfrage. Die Spezifikation nennt Ton
 optional, Drittquellen behaupten das Gegenteil; der leise Ton beseitigt die Frage.
@@ -114,6 +117,9 @@ optional, Drittquellen behaupten das Gegenteil; der leise Ton beseitigt die Frag
 | Grusel mit Humor, ab 10 | Reihenkonzept; Cover: „ab 10 Jahren“ |
 | Band 1 von 5 | `KDP_Beschreibungen.md` |
 | Auch für Lesemuffel | Abgeschwächt aus „perfekt für Lesemuffel“, damit keine Überlegenheits-Aussage |
+| Dreimal. Pause. Dreimal. | Kapitel 3, im Buch aus der Wand; im Video zur Haustür verlegt, das Bild nennt keinen Ort |
+| Nora wischt das Wort weg | Kapitel 4: „wischte mit dem Ärmel über das Glas“ |
+| Mut, Geschwisterliebe | `KDP_Beschreibungen.md`, Band 1 |
 
 „Wer dann?“ ist Werbetext, kein Zitat.
 
@@ -122,7 +128,7 @@ optional, Drittquellen behaupten das Gegenteil; der leise Ton beseitigt die Frag
 Nur ein neues Bild ist nötig: `Band1/Cover/Bilder/video_fenster.png`. Alles Weitere kommt aus `front_band1.jpg`.
 Schnitt, Text und Buchstaben entstehen per ffmpeg und Python. Kein Videogenerator nötig.
 
-**Stand 04.11.: Fassung 2** (`Scripts/build_video_band1.py`, Ausgabe `Output/Band1_Video/Band1_Video_v2.mp4`). Neu gegenüber Fassung 1:
+**Stand 04.11.: Fassung 3** mit 8 Szenen, 20 Sekunden (`Scripts/build_video_band1.py`, Ausgabe `Output/Band1_Video/Band1_Video_v3.mp4`). Grund: Fassung 2 war in den ersten 8 Sekunden zu gleichförmig (Autor). Fassung 2 brachte gegenüber Fassung 1:
 Figuren per GrabCut vom Haus getrennt und mit eigener Bewegung, Nebel vor und hinter ihnen, flackernde Fenster, glitzerndes Pflaster, ziehender
 Beschlag, nasse Buchstabenkanten mit Tropfen, leuchtendes Cover-Fenster, Lichtpartikel im Schlussbild. Higgsfield erst entscheiden, wenn Fassung 2
 auf dem Handy gesehen ist; 5 Videos mit Grok kosten rund 960 von 1.000 Credits (Plus, 49 $, monatlich, nicht jährlich).

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Baut das 15-Sekunden-Werbevideo fuer "Das Haus, das fluestert" (Band 1, Staffel 1).
+Baut das 20-Sekunden-Werbevideo fuer "Das Haus, das fluestert" (Band 1, Staffel 1).
 Skript und Begruendung: Dokumentation/Amazon_Ads_Video_Band1.md
 
     python Scripts/build_video_band1.py              # fertiges MP4
@@ -24,20 +24,26 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 _ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BILDER = os.path.join(_ROOT, "Band1", "Cover", "Bilder")
 OUT_DIR = os.path.join(_ROOT, "Output", "Band1_Video")
-VERSION = "v2"
+VERSION = "v3"
 
 W, H = 1920, 1080
 FPS = 30
-DAUER = 15.0
+DAUER = 20.0
 OVER = 1.08  # Ueberstand fuer die Kamerafahrt auf der Scheibe
 
 # Zeitplan in Sekunden, siehe Skript in der Dokumentation
 T_HILF_FERTIG = 1.5
-T_TEXT1 = (2.5, 5.0)
-T_TEXT2 = (5.0, 8.0)
-T_HAUS = (8.0, 8.6)      # Ueberblendung Scheibe -> Haus
-T_FRAGE = (9.2, 11.1)
-T_ENDE = (11.4, 11.65)   # Ueberblendung Haus -> Schlussbild
+T_NAH = (2.5, 5.0)       # Nahaufnahme der Buchstaben
+T_TUER = (5.0, 7.5)      # Klopfen
+T_TEXT2 = (7.5, 10.0)    # Theos Satz
+T_WISCH = (10.0, 10.7)   # Wischen ueber die Scheibe, wie Nora in Kapitel 4
+T_FAHRT = (10.0, 11.6, 14.2)
+T_FRAGE = (10.9, 12.5)
+T_HELD = (12.6, 14.3)
+T_ENDE = (14.3, 14.55)   # Ueberblendung Haus -> Buch
+T_ARG = (14.7, 16.95)
+T_GESCHENK = 17.05
+SCHLAEGE = (5.35, 5.65, 5.95, 6.6, 6.9, 7.2)  # Dreimal. Pause. Dreimal.
 
 CREME = (242, 226, 184)
 WEISS = (250, 246, 236)
@@ -379,18 +385,25 @@ class Video:
         # Filmkorn, wiederverwendet
         self.korn = [rng.normal(0, 0.007, (H, W, 1)).astype(np.float32) for _ in range(6)]
 
-        self.t1 = textebene([("Kribbeln ja, Albträume nein.", FONT_FETT, 62, WEISS, 22),
-                             ("Grusel mit Humor ab 10", FONT_NORMAL, 42, CREME, 0)], 300, 640)
+        self.t1 = textebene([("Kribbeln ja, Albträume nein.", FONT_FETT, 66, WEISS, 22),
+                             ("Grusel mit Humor ab 10", FONT_NORMAL, 44, CREME, 0)], 170, 700)
         self.t2 = textebene([("Kondenswasser schreibt", FONT_FETT, 58, WEISS, 14),
                              ("keine deutschen Wörter!", FONT_FETT, 58, WEISS, 22),
                              ("Theo, 10", FONT_NORMAL, 36, CREME, 0)], 300, 616)
         self.t3 = textebene([("Wer dann?", FONT_FETT, 92, WEISS, 0)], 150, 110)
+        self.t7 = textebene([("Nora, Theo und Schatten", FONT_FETT, 66, WEISS, 12),
+                             ("finden es heraus.", FONT_FETT, 66, WEISS, 0)], 1010, 96)
+        self.t5 = textebene([("Mut. Humor.", FONT_FETT, 84, WEISS, 18),
+                             ("Geschwisterliebe.", FONT_FETT, 84, WEISS, 40),
+                             ("Auch für Lesemuffel", FONT_NORMAL, 52, GOLD, 0)], 170, 370, schleier=False)
+        self.klopf = [textebene([(s, FONT_FETT, 76, WEISS, 0)], 150, 870)
+                      for s in ("Dreimal.", "Dreimal. Pause.", "Dreimal. Pause. Dreimal.")]
         self.t4 = textebene([("Ein Geschenk", FONT_FETT, 84, WEISS, 18),
                              ("für mutige Leser", FONT_FETT, 84, WEISS, 40),
                              ("Band 1 von 5", FONT_NORMAL, 48, GOLD, 0)], 170, 370, schleier=False)
 
     # -- Scheibe -------------------------------------------------------
-    def scheibe(self, t):
+    def scheibe(self, t, nah=False):
         w = 0.5 * t
         co, si = float(np.cos(w)), float(np.sin(w))
         dx = (self.n1 * co + self.n2 * si) * 26 * self.glas
@@ -410,34 +423,60 @@ class Video:
             perl = self.perlen[..., 3:4] * float(weich((t - 1.2) / 0.6))
             bild = bild * (1 - perl) + self.perlen[..., :3] * perl
 
-        # Buch
-        weg = float(weich((t - 7.6) / 0.4))
-        sch = self.buch_schatten[..., None] * (1 - weg)
-        bild = bild * (1 - sch)
-        al = self.buch[..., 3:4] * (1 - weg)
-        puls = float(np.exp(-((t - 1.1) / 0.45) ** 2) + 0.22 * (1 + np.sin(t * 2.2)) / 2)
-        buch = self.buch[..., :3] + self.buch_glut * puls
-        bild = bild * (1 - al) + buch * al
+        if nah:
+            z = 1.52 + 0.07 * weich((t - T_NAH[0]) / 2.5)
+            cx, cy = self.cw * 0.36, self.ch * 0.42
+        else:
+            sch = self.buch_schatten[..., None]
+            bild = bild * (1 - sch)
+            al = self.buch[..., 3:4]
+            puls = float(np.exp(-((t - 1.1) / 0.45) ** 2) + 0.22 * (1 + np.sin(t * 2.2)) / 2)
+            buch = self.buch[..., :3] + self.buch_glut * puls
+            bild = bild * (1 - al) + buch * al
+            z = 1.0 + 0.012 * (t if t < 3 else t - T_TEXT2[0])
+            cx, cy = self.cw * 0.48, self.ch * 0.5
 
-        # langsamer Push-in auf die Scheibe
-        z = 1.0 + 0.035 * weich(t / 8.0)
         bw, bh = W / z, H / z
-        cx, cy = self.cw * 0.48, self.ch * 0.5
         M = np.array([[W / bw, 0, -(cx - bw / 2) * W / bw], [0, H / bh, -(cy - bh / 2) * H / bh]], np.float32)
         return cv2.warpAffine(bild, M, (W, H), flags=cv2.INTER_LINEAR)
 
+    # -- Klopfen -------------------------------------------------------
+    def tuer(self, t):
+        """Haustuer aus dem Cover, jeder Schlag laesst das Bild rucken."""
+        schlag = sum(float(np.exp(-(t - k) / 0.09)) for k in SCHLAEGE if t >= k)
+        cx, cy, cw = 1150.0, 1960.0, 700.0 - 34.0 * float(weich((t - T_TUER[0]) / 2.5))
+        cw = cw * (1 - 0.018 * schlag)
+        ch = cw * H / W
+        s = W / cw
+        ruck = schlag * 15.0
+        M = np.array([[s, 0, -(cx - cw / 2) * s], [0, s, -(cy - ch / 2) * s + ruck]], np.float32)
+        f = cv2.warpAffine(self.cover, M, (W, H), flags=cv2.INTER_CUBIC, borderMode=cv2.BORDER_REPLICATE)
+        return f * (0.92 - 0.12 * min(schlag, 1.0))
+
+    # -- Wischen -------------------------------------------------------
+    def wischen(self, t):
+        a = self.scheibe(t)
+        b = self.haus(t)
+        x = float(weich((t - T_WISCH[0]) / (T_WISCH[1] - T_WISCH[0])))
+        front = -260.0 + (W + 620.0) * x
+        kante = self.xx + 70 * np.sin(self.yy / 120) + (self.yy - H / 2) * 0.22
+        r = weich((front - kante) / 46)[..., None]
+        streif = np.exp(-((front - kante) / 42) ** 2)[..., None] * 0.26
+        return a * (1 - r) + b * r + streif * np.array((0.70, 0.80, 0.95), np.float32)
+
     # -- Haus ----------------------------------------------------------
     def kamera(self, t):
-        a = (1190, 1632, 640.0)
+        a = (1133, 1590, 1250.0)
         b = (1093, 1560, 2186.0)
         c = (1093, 2315, 2186.0)
-        if t < 9.9:
-            x = np.clip((t - 8.0) / 1.9, 0, 1)
+        t0, t1, t2 = T_FAHRT
+        if t < t1:
+            x = np.clip((t - t0) / (t1 - t0), 0, 1)
             f = 1 - (1 - x) ** 3
             cw = a[2] ** (1 - f) * b[2] ** f
             g = (cw - a[2]) / (b[2] - a[2])
             return a[0] + (b[0] - a[0]) * g, a[1] + (b[1] - a[1]) * g, cw
-        f = weich((t - 9.9) / 1.6)
+        f = weich((t - t1) / (t2 - t1))
         return b[0], b[1] + (c[1] - b[1]) * f, b[2]
 
     def haus(self, t):
@@ -494,7 +533,7 @@ class Video:
     # -- Schluss -------------------------------------------------------
     def ende(self, t):
         bild = self.ende_bild + self.ende_glut * float(0.24 * (1 + np.sin(t * 2.2)))
-        z = 1.0 + 0.03 * weich((t - 11.4) / 3.6)
+        z = 1.0 + 0.045 * weich((t - T_ENDE[0]) / 5.7)
         M = np.array([[z, 0, -(z - 1) * 1340], [0, z, -(z - 1) * 540]], np.float32)
         bild = cv2.warpAffine(bild, M, (W, H), flags=cv2.INTER_LINEAR, borderMode=cv2.BORDER_REPLICATE)
 
@@ -508,29 +547,36 @@ class Video:
         schicht = cv2.GaussianBlur(schicht, (0, 0), 1.6)
         bild = bild + schicht[..., None] * np.array((0.55, 0.40, 0.20), np.float32)
 
-        d = weich((t - 11.7) / 0.35)
+        auflegen(bild, self.t5, fenster(t, *T_ARG), int((1 - weich((t - T_ARG[0]) / 0.3)) * 16))
+        d = weich((t - T_GESCHENK) / 0.3)
         auflegen(bild, self.t4, d, int((1 - d) * 16))
         return bild
 
     def bild(self, t):
-        if t < T_HAUS[1]:
+        if t < T_NAH[0]:
             f = self.scheibe(t)
-            for e, (a, b) in ((self.t1, T_TEXT1), (self.t2, T_TEXT2)):
-                d = fenster(t, a, b)
-                auflegen(f, e, d, int((1 - weich((t - a) / 0.3)) * 14))
-            if t > T_HAUS[0]:
-                x = float(weich((t - T_HAUS[0]) / (T_HAUS[1] - T_HAUS[0])))
-                f = f * (1 - x) + self.haus(t) * x
+        elif t < T_NAH[1]:
+            f = self.scheibe(t, nah=True)
+            auflegen(f, self.t1, fenster(t, *T_NAH), int((1 - weich((t - T_NAH[0]) / 0.3)) * 14))
+        elif t < T_TUER[1]:
+            f = self.tuer(t)
+            stufe = (t >= SCHLAEGE[0]) + (t >= 6.25) + (t >= SCHLAEGE[3])
+            if stufe:
+                auflegen(f, self.klopf[stufe - 1], 1.0)
+        elif t < T_WISCH[0]:
+            f = self.scheibe(t)
+            auflegen(f, self.t2, fenster(t, *T_TEXT2), int((1 - weich((t - T_TEXT2[0]) / 0.3)) * 14))
+        elif t < T_WISCH[1]:
+            f = self.wischen(t)
         elif t < T_ENDE[1]:
-            f = self.haus(t)
+            f = self.haus(t).copy()
+            auflegen(f, self.t3, fenster(t, *T_FRAGE), int((1 - weich((t - T_FRAGE[0]) / 0.3)) * 14))
+            auflegen(f, self.t7, fenster(t, *T_HELD), int((1 - weich((t - T_HELD[0]) / 0.3)) * 14))
             if t > T_ENDE[0]:
                 x = float(weich((t - T_ENDE[0]) / (T_ENDE[1] - T_ENDE[0])))
                 f = f * (1 - x) + self.ende(t) * x
         else:
             f = self.ende(t)
-        if T_FRAGE[0] < t < T_FRAGE[1]:
-            f = f.copy()
-            auflegen(f, self.t3, fenster(t, *T_FRAGE), int((1 - weich((t - T_FRAGE[0]) / 0.3)) * 14))
         f = f + self.korn[int(t * FPS) % len(self.korn)]
         return np.clip(f, 0, 1)
 
