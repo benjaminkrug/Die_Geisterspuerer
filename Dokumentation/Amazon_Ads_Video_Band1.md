@@ -141,6 +141,20 @@ and empty. Calm, mysterious, gentle mood, not scary. Cinematic, shallow depth of
 landscape. ABSOLUTELY NO letters, words, numbers, symbols, handprints, faces, people, or figures anywhere.
 ```
 
+## 5a. Higgsfield-Plan (Fassung 4)
+
+Autor 04.11.: Fassung 3 ist zu langweilig, die Bilder sollen sich wirklich bewegen. Konto: 0 Credits. Text, HILF, Buch und Schnitt bleiben im Bauskript.
+
+| Clip | Startbild | Prompt-Kern |
+|---|---|---|
+| A Figuren (Testclip, riskantester) | `video_start_figuren.png` | Alle bleiben von hinten, Wind im Haar, Schatten hebt den Kopf, Nebel, Licht auf dem Pflaster |
+| B Haus | `video_start_haus.png` | Langsam aufs Haus zu, Fenster flackern, blaues Fenster leuchtet, Efeu im Wind |
+| C Tür | `video_start_tuer.png` | Tür zittert, öffnet sich einen Spalt, blaues Licht und Nebel, keine Figur |
+| D Scheibe | `video_fenster.png` | Kamera fest, Beschlag zieht, Tropfen; HILF kommt danach aus dem Bauskript |
+
+Kosten je 4-Sekunden-Clip in 1080p: Seedance 2.5 64 Credits, Grok Video 1.5 32 Credits. Alle vier Clips: 256 bzw. 128 Credits, ohne Wiederholungen.
+Ablauf: Testphase (100 Credits) nutzen, um Clip A mit beiden Modellen zu vergleichen (96 Credits), dann Modell festlegen.
+
 ## 6. Selbstkritik
 
 **Was an der ersten Fassung falsch war**
