@@ -125,6 +125,13 @@ Gründe: Die Altersbegriffe sind gemessen; bei Volumen unter 500 zeigt die Spalt
 trennt nichts mehr; Platinum kostet laut Drittquellen 99–129 $ im Monat, das sind 7–9 Tage Werbebudget (auf der
 offiziellen Preisseite gegenprüfen).
 
+## Video-Anzeigen (Entscheid 04.11.)
+
+Nicht für jedes Buch, nur für die zwei Einstiege: **S2-1** und **Band 1 der ersten Staffel**. Start beider Videos
+etwa 18.11., 5–7 € je Tag, nur auf Keywords mit Klicks oder Verkäufen aus der Kollektion; für Band 1 eigene Liste
+„ab 10“. Nach 14 Tagen Kosten pro Verkauf gegen die Tantieme prüfen. Der Autor nimmt in Kauf, dass Prüfpunkt 1
+dadurch nur eingeschränkt gilt (Vorgehensplan, Abschnitt Prüfpunkt 1).
+
 ## Korrektur alter Notizen
 
 In den Exporten ist die Spalte nach „Keyword Sales“ der **Cerebro IQ**, erst die dritte Zahl ist das **Suchvolumen**.

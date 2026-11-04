@@ -153,6 +153,12 @@ Unverändert: weiter bei B1→B2 (DE) **≥ 30 %** oder **+10 Prozentpunkte**; S
 > Weil die Übersetzung jetzt kein Geld kostet, könnte man argumentieren, Prüfpunkt 1 sei unnötig.
 > Er bleibt trotzdem — Begründung in 8.5.
 
+> ⚠️ **Einschränkung (Autorentscheid 04.11.2026):** Für Band 1 DE startet etwa am 18.11. eine Video-Anzeige,
+> also mitten im Messzeitraum. Die Quote gilt damit nur eingeschränkt. Zur Auswertung die Verkäufe, die Amazon
+> der Anzeige zuordnet, von Band 1 abziehen und **beide Quoten nennen** (mit und ohne Abzug). Band-2-Käufe von
+> Werbekunden lassen sich nicht trennen, der bereinigte Wert ist also nur eine Näherung. Startdatum, Kosten und
+> zugeordnete Verkäufe beim Auswerten eintragen.
+
 ### Phase C — Pilot: das Verfahren einstellen (Dez 2026 – Jan 2027)
 
 Statt Personen auszuwählen (Fassung 2) wird jetzt **das Verfahren** an zwei schwierigen Stellen
